@@ -8,72 +8,94 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            max-width: 800px;
-            margin: 40px auto;
-            padding: 0 20px;
-            background-color: #fcfbf9;
-            color: #2c2520;
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+            background-color: #fcfcfc;
+            color: #2b2b2b;
         }
         header {
-            border-bottom: 2px solid #e6e1da;
-            padding-bottom: 20px;
+            border-bottom: 3px solid #8b1d24;
+            padding-bottom: 15px;
             margin-bottom: 40px;
         }
+        .breadcrumbs {
+            font-size: 9.5pt;
+            color: #777;
+            margin-bottom: 10px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
         h1 {
-            color: #4a0e17;
-            margin-bottom: 5px;
-            font-size: 24pt;
+            color: #8b1d24;
+            margin: 0 0 5px 0;
+            font-size: 26pt;
+            font-weight: normal;
         }
         .subtitle {
-            font-size: 12pt;
-            color: #666;
-            font-style: italic;
+            font-size: 13pt;
+            color: #555;
         }
         h2 {
-            color: #4a0e17;
-            border-left: 4px solid #8b0000;
-            padding-left: 10px;
-            margin-top: 30px;
-            font-size: 16pt;
+            color: #8b1d24;
+            font-size: 18pt;
+            font-weight: normal;
+            margin-top: 40px;
+            margin-bottom: 15px;
+            border-bottom: 1px solid #e5e5e5;
+            padding-bottom: 8px;
         }
         h3 {
-            color: #555;
-            font-size: 13pt;
-            margin-bottom: 10px;
+            color: #2b2b2b;
+            font-size: 14pt;
+            font-weight: bold;
+            margin-bottom: 15px;
         }
         ul {
             list-style-type: none;
             padding-left: 0;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+            gap: 12px;
+            margin-bottom: 30px;
+        }
+        /* Die Urkundenregesten nebeneinander oder breiter darstellen */
+        .full-width-list {
+            grid-template-columns: 1fr;
         }
         li {
-            padding: 8px 12px;
-            margin-bottom: 6px;
-            background-color: #fff;
-            border: 1px solid #e6e1da;
-            border-radius: 4px;
-            transition: background-color 0.2s;
+            background-color: #ffffff;
+            border: 1px solid #e5e5e5;
+            border-radius: 0px; /* Ecken eckig wie beim Stifts-Design */
+            box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+            transition: all 0.2s ease-in-out;
         }
         li:hover {
-            background-color: #f7f4ef;
+            border-color: #8b1d24;
+            box-shadow: 0 2px 5px rgba(139, 29, 36, 0.15);
+            background-color: #fbf6f6;
         }
         a {
-            color: #0056b3;
+            display: block;
+            padding: 12px 16px;
+            color: #2b2b2b;
             text-decoration: none;
-            font-weight: bold;
-        }
-        a:hover {
-            text-decoration: underline;
-        }
-        .band-range {
-            color: #666;
             font-weight: normal;
         }
+        li:hover a {
+            color: #8b1d24;
+        }
+        .band-range {
+            color: #8b1d24;
+            font-weight: bold;
+            float: right;
+        }
         footer {
-            margin-top: 60px;
+            margin-top: 80px;
             padding-top: 20px;
-            border-top: 1px solid #e6e1da;
-            font-size: 9pt;
-            color: #777;
+            border-top: 1px solid #e5e5e5;
+            font-size: 10pt;
+            color: #666;
             text-align: center;
         }
     </style>
@@ -81,41 +103,50 @@
 <body>
 
     <header>
+        <div class="breadcrumbs">Startseite / Leben im Kloster / Archiv und Bibliothek</div>
         <h1>Digitale Findmittel</h1>
-        <div class="subtitle">Stiftsarchiv & Stiftsbibliothek Seitenstetten</div>
+        <div class="subtitle">Stiftsarchiv und Stiftsbibliothek Seitenstetten</div>
     </header>
 
     <main>
+        <!-- Sektion Stiftsarchiv -->
         <section>
             <h2>Stiftsarchiv</h2>
             <h3>Urkundenregesten</h3>
-            <ul>
+            <ul class="full-width-list">
                 <li>
-                    <a href="https://doi.org/10.5281/zenodo.17590802" target="_blank" rel="noopener">Regesten der Urkunden des 15. Jahrhunderts</a>
+                    <a href="https://doi.org/10.5281/zenodo.17590802" target="_blank" rel="noopener">
+                        Regesten der Urkunden des 15. Jahrhunderts
+                        <span class="band-range">&rarr;</span>
+                    </a>
                 </li>
                 <li>
-                    <a href="https://doi.org/10.5281/zenodo.17591278" target="_blank" rel="noopener">Regesten der Urkunden des 16. Jahrhunderts</a>
+                    <a href="https://doi.org/10.5281/zenodo.17591278" target="_blank" rel="noopener">
+                        Regesten der Urkunden des 16. Jahrhunderts
+                        <span class="band-range">&rarr;</span>
+                    </a>
                 </li>
             </ul>
         </section>
 
+        <!-- Sektion Stiftsbibliothek -->
         <section>
             <h2>Stiftsbibliothek</h2>
             <h3>Barocker Bandkatalog</h3>
             <ul>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-01" target="_blank" rel="noopener">Band 1 <span class="band-range">(A)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-02" target="_blank" rel="noopener">Band 2 <span class="band-range">(B)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-03" target="_blank" rel="noopener">Band 3 <span class="band-range">(C)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-04" target="_blank" rel="noopener">Band 4 <span class="band-range">(D-E)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-05" target="_blank" rel="noopener">Band 5 <span class="band-range">(F-G)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-06" target="_blank" rel="noopener">Band 6 <span class="band-range">(H-J)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-07_202607" target="_blank" rel="noopener">Band 7 <span class="band-range">(K-L)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-08_202607" target="_blank" rel="noopener">Band 8 <span class="band-range">(M-N)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-09_202607" target="_blank" rel="noopener">Band 9 <span class="band-range">(O-P)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-10_202607" target="_blank" rel="noopener">Band 10 <span class="band-range">(Q-R)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-11_202607" target="_blank" rel="noopener">Band 11 <span class="band-range">(S)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-12_202607" target="_blank" rel="noopener">Band 12 <span class="band-range">(T-U)</span></a></li>
-                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-13_202607" target="_blank" rel="noopener">Band 13 <span class="band-range">(W-Z)</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-01" target="_blank" rel="noopener">Band 1 <span class="band-range">A</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-02" target="_blank" rel="noopener">Band 2 <span class="band-range">B</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-03" target="_blank" rel="noopener">Band 3 <span class="band-range">C</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-04" target="_blank" rel="noopener">Band 4 <span class="band-range">D-E</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-05" target="_blank" rel="noopener">Band 5 <span class="band-range">F-G</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-06" target="_blank" rel="noopener">Band 6 <span class="band-range">H-J</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-07_202607" target="_blank" rel="noopener">Band 7 <span class="band-range">K-L</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-08_202607" target="_blank" rel="noopener">Band 8 <span class="band-range">M-N</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-09_202607" target="_blank" rel="noopener">Band 9 <span class="band-range">O-P</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-10_202607" target="_blank" rel="noopener">Band 10 <span class="band-range">Q-R</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-11_202607" target="_blank" rel="noopener">Band 11 <span class="band-range">S</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-12_202607" target="_blank" rel="noopener">Band 12 <span class="band-range">T-U</span></a></li>
+                <li><a href="https://archive.org/details/seitenstetten-bibliothekskatalog-13_202607" target="_blank" rel="noopener">Band 13 <span class="band-range">W-Z</span></a></li>
             </ul>
         </section>
     </main>
