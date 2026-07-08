@@ -59,14 +59,13 @@
             gap: 12px;
             margin-bottom: 30px;
         }
-        /* Die Urkundenregesten nebeneinander oder breiter darstellen */
         .full-width-list {
             grid-template-columns: 1fr;
         }
         li {
             background-color: #ffffff;
             border: 1px solid #e5e5e5;
-            border-radius: 0px; /* Ecken eckig wie beim Stifts-Design */
+            border-radius: 0px;
             box-shadow: 0 1px 3px rgba(0,0,0,0.05);
             transition: all 0.2s ease-in-out;
         }
@@ -92,11 +91,29 @@
         }
         footer {
             margin-top: 80px;
-            padding-top: 20px;
+            padding-top: 30px;
             border-top: 1px solid #e5e5e5;
             font-size: 10pt;
-            color: #666;
+            color: #444;
+        }
+        .impressum-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+            gap: 20px;
+            margin-top: 15px;
+            line-height: 1.5;
+            font-size: 9.5pt;
+        }
+        .impressum-section h4 {
+            margin: 0 0 8px 0;
+            color: #8b1d24;
+            font-size: 10pt;
+        }
+        .copyright {
             text-align: center;
+            margin-top: 40px;
+            font-size: 9pt;
+            color: #777;
         }
     </style>
 </head>
@@ -152,7 +169,31 @@
     </main>
 
     <footer>
-        <p>&copy; 2026 Stiftsarchiv & Stiftsbibliothek Seitenstetten</p>
+        <h3>Impressum</h3>
+        <div class="impressum-grid">
+            <div class="impressum-section">
+                <h4>Medieninhaber &amp; Herausgeber</h4>
+                Benediktinerstift Seitenstetten<br>
+                Körperschaft des öffentlichen Rechts<br>
+                Am Klosterberg 1<br>
+                3353 Seitenstetten
+            </div>
+            <div class="impressum-section">
+                <h4>Kontakt &amp; Vertretung</h4>
+                Verantwortlich für Archiv &amp; Bibliothek:<br>
+                Mag. Markus Bürscher M.A.LIS<br>
+                (Stiftsarchivar und Stiftsbibliothekar)<br>
+                Tel.: 07477/42300/136<br>
+                E-Mail: <a href="mailto:archiv@stift-seitenstetten.at" style="display:inline; padding:0; color:#0056b3;">archiv@stift-seitenstetten.at</a>
+            </div>
+            <div class="impressum-section">
+                <h4>Zielsetzung</h4>
+                Informationen über die historischen Bestände und Bereitstellung digitaler Findmittel des Stiftsarchivs und der Stiftsbibliothek Seitenstetten zur Förderung der wissenschaftlichen Forschung.
+            </div>
+        </div>
+        <div class="copyright">
+            &copy; 2026 Stiftsarchiv &amp; Stiftsbibliothek Seitenstetten
+        </div>
     </footer>
 
 </body>
