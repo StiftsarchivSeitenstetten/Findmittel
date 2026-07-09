@@ -2,7 +2,6 @@
 layout: default
 ---
 
-<!-- Integration der DataTables-Styles für das Stifts-Design -->
 <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
 <style>
     .dataTables_wrapper .dataTables_filter {
@@ -42,7 +41,6 @@ layout: default
 <h2>Serie 2.A: Datenbank der Professurkunden</h2>
 <p>Nutzen Sie das Suchfeld rechts, um die Urkunden in Echtzeit nach Namen (Profitent), Äbten, Signaturen oder Jahreszahlen zu filtern:</p>
 
-<!-- Die dynamische Tabelle -->
 <div style="background: #ffffff; border: 1px solid #e5e5e5; padding: 15px; overflow-x: auto; margin-top: 20px;">
     <table id="professTable" class="display" style="width:100%">
         <thead>
@@ -56,19 +54,18 @@ layout: default
             </tr>
         </thead>
         <tbody>
-            <!-- Wird via JavaScript automatisch befüllt -->
-        </tbody>
+            </tbody>
     </table>
 </div>
 
-<!-- Laden der benötigten Skripte -->
 <script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+<script src="https://cdn.datatables.net/plug-ins/1.13.6/sorting/natural.min.js"></script>
 
 <script>
 $(document).ready(function() {
-    // Absoluter Pfad: Unabhängig davon, wo wir uns befinden, holt er die CSV immer aus dem Hauptordner
+    // Absoluter Pfad zur CSV im Hauptverzeichnis
     var csvUrl = window.location.origin + "/Findmittel/2A-Professurkunden.csv";
 
     // CSV einlesen und parsen
@@ -89,13 +86,13 @@ $(document).ready(function() {
                 var signatur = row['Signatur'] || '';
                 var jahr = row['Datierungtext'] || row['Datierungvon2'] || '';
                 
-                // Behebt das Umlaute-Problem (HÃ¶he) direkt im Browser
+                // Behebt Umlaut-Artefakte
                 var hoehe = row['Höhe'] || row['HÃ¶he'] || '';
                 var breite = row['Breite'] || '';
                 var masse = (row['Material'] || 'Pergament') + ' (' + breite + 'x' + hoehe + ' mm)';
                 var volltext = row['Text'] || '';
 
-                if(signatur || profitent) { // Nur Zeilen mit Inhalt einfügen
+                if(signatur || profitent) {
                     var tr = $('<tr>');
                     tr.append($('<td>').text(signatur));
                     tr.append($('<td>').html('<b>' + profitent + '</b>'));
@@ -107,13 +104,16 @@ $(document).ready(function() {
                 }
             });
 
-            // Tabelle nach dem Befüllen aktivieren
+            // Tabelle nach dem Befüllen mit natürlicher Sortierung aktivieren
             $('#professTable').DataTable({
                 "language": {
                     "url": "https://cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
                 },
                 "pageLength": 25,
-                "order": [[0, "asc"]]
+                "order": [[0, "asc"]],
+                "columnDefs": [
+                    { "type": "natural", "targets": 0 } // Erzwingt die korrekte Sortierung für Spalte 0 (Signatur)
+                ]
             });
         }
     });
