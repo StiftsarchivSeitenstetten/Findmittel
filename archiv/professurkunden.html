@@ -1,0 +1,110 @@
+---
+layout: default
+---
+
+<!-- Integration der DataTables-Styles für das Stifts-Design -->
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<style>
+    .dataTables_wrapper .dataTables_filter input {
+        border: 1px solid #e5e5e5;
+        padding: 6px 12px;
+        margin-left: 8px;
+        background-color: #fff;
+        color: #2b2b2b;
+    }
+    table.dataTable thead th {
+        background-color: #8b1d24;
+        color: white;
+        font-weight: normal;
+        border-bottom: 2px solid #e5e5e5;
+    }
+    table.dataTable tbody tr:hover {
+        background-color: #fbf6f6 !important;
+    }
+    .text-preview {
+        font-size: 9pt;
+        color: #555;
+        font-style: italic;
+        max-width: 400px;
+        white-space: nowrap;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+</style>
+
+<p><a href="bestaende-urkunden.html" style="color: #8b1d24; text-decoration: none; font-weight: bold;">&larr; Zurück zur Urkundenübersicht</a></p>
+
+<h2>Serie 2.A: Datenbank der Professurkunden</h2>
+<p>Nutzen Sie das Suchfeld rechts, um die Urkunden in Echtzeit nach Namen (Profitent), Äbten, Signaturen oder Jahreszahlen zu filtern:</p>
+
+<!-- Die dynamische Tabelle -->
+<div style="background: #ffffff; border: 1px solid #e5e5e5; padding: 15px; overflow-x: auto; margin-top: 20px;">
+    <table id="professTable" class="display" style="width:100%">
+        <thead>
+            <tr>
+                <th>Signatur</th>
+                <th>Profitent (Mönch)</th>
+                <th>Abt</th>
+                <th>Jahr / Datierung</th>
+                <th>Material / Maße</th>
+                <th>Urkundentext (Auszug)</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- Wird via JavaScript automatisch aus der CSV befüllt -->
+        </tbody>
+    </table>
+</div>
+
+<!-- Laden der benötigten Skripte -->
+<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
+
+<script>
+$(document).ready(function() {
+    // Pfad zur CSV-Datei im Hauptverzeichnis
+    var csvUrl = "{{ site.baseurl }}/2A-Professurkunden.csv";
+
+    // CSV einlesen und parsen
+    Papa.parse(csvUrl, {
+        download: true,
+        header: true,
+        skipEmptyLines: true,
+        complete: function(results) {
+            var data = results.data;
+            var tableBody = $('#professTable tbody');
+
+            // Zeilen dynamisch generieren
+            data.forEach(function(row) {
+                // Bereinigung von Encoding-Artefakten aus cp1252 falls nötig
+                var profitent = row['Profitent'] || '';
+                var abt = row['Abt'] || '';
+                var signatur = row['Signatur'] || '';
+                var jahr = row['Datierungtext'] || row['Datierungvon2'] || '';
+                var masse = (row['Material'] || 'Pergament') + ' (' + (row['Breite'] || '') + 'x' + (row['HÃ¶he'] || row['Höhe'] || '') + ' mm)';
+                var volltext = row['Text'] || '';
+
+                var tr = $('<tr>');
+                tr.append($('<td>').text(signatur));
+                tr.append($('<td>').html('<b>' + profitent + '</b>'));
+                tr.append($('<td>').text(abt));
+                tr.append($('<td>').text(jahr));
+                tr.append($('<td>').text(masse));
+                tr.append($('<td>').html('<div class="text-preview" title="' + volltext.replace(/"/g, '&quot;') + '">' + volltext + '</div>'));
+                
+                tableBody.append(tr);
+            });
+
+            // DataTables initialisieren (auf Deutsch umgestellt)
+            $('#professTable').DataTable({
+                "language": {
+                    "url": "https://cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
+                },
+                "pageLength": 25,
+                "order": [[0, "asc"]]
+            });
+        }
+    });
+});
+</script>
