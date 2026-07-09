@@ -1,48 +1,15 @@
 ---
 layout: default
+datatables: true
 ---
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
-<style>
-    .dataTables_wrapper .dataTables_filter {
-        float: right;
-        margin-bottom: 15px;
-    }
-    .dataTables_wrapper .dataTables_filter input {
-        border: 1px solid #8b1d24 !important;
-        padding: 6px 12px;
-        margin-left: 8px;
-        background-color: #fff;
-        color: #2b2b2b;
-    }
-    table.dataTable thead th {
-        background-color: #8b1d24;
-        color: white;
-        font-weight: normal;
-        border-bottom: 2px solid #e5e5e5;
-        padding: 10px;
-    }
-    table.dataTable tbody tr:hover {
-        background-color: #fbf6f6 !important;
-    }
-    .text-preview {
-        font-size: 9pt;
-        color: #555;
-        font-style: italic;
-        max-width: 350px;
-        white-space: nowrap;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }
-</style>
-
-<p><a href="{{ site.baseurl }}/archiv/bestaende-urkunden" style="color: #8b1d24; text-decoration: none; font-weight: bold;">&larr; Zurück zur Urkundenübersicht</a></p>
+<p><a class="back-link" href="{{ site.baseurl }}/archiv/bestaende-urkunden">&larr; Zurück zur Urkundenübersicht</a></p>
 
 <h2>Serie 2.A: Datenbank der Professurkunden</h2>
 <p>Nutzen Sie das Suchfeld rechts, um die Urkunden in Echtzeit nach Namen (Profitent), Äbten, Signaturen oder Jahreszahlen zu filtern:</p>
 
-<div style="background: #ffffff; border: 1px solid #e5e5e5; padding: 15px; overflow-x: auto; margin-top: 20px;">
-    <table id="professTable" class="display" style="width:100%">
+<div class="table-panel">
+    <table id="professTable" class="display data-table">
         <thead>
             <tr>
                 <th>Signatur</th>
@@ -53,8 +20,7 @@ layout: default
                 <th>Urkundentext (Auszug)</th>
             </tr>
         </thead>
-        <tbody>
-            </tbody>
+        <tbody></tbody>
     </table>
 </div>
 
@@ -65,8 +31,8 @@ layout: default
 
 <script>
 $(document).ready(function() {
-    // Absoluter Pfad zur CSV im Hauptverzeichnis
-    var csvUrl = window.location.origin + "/Findmittel/2A-Professurkunden.csv";
+    // CSV im Hauptverzeichnis, angepasst an den GitHub-Pages-baseurl.
+    var csvUrl = "{{ site.baseurl }}/2A-Professurkunden.csv";
 
     // CSV einlesen und parsen
     Papa.parse(csvUrl, {
@@ -95,11 +61,11 @@ $(document).ready(function() {
                 if(signatur || profitent) {
                     var tr = $('<tr>');
                     tr.append($('<td>').text(signatur));
-                    tr.append($('<td>').html('<b>' + profitent + '</b>'));
+                    tr.append($('<td>').append($('<strong>').text(profitent)));
                     tr.append($('<td>').text(abt));
                     tr.append($('<td>').text(jahr));
                     tr.append($('<td>').text(masse));
-                    tr.append($('<td>').html('<div class="text-preview" title="' + volltext.replace(/"/g, '&quot;') + '">' + volltext + '</div>'));
+                    tr.append($('<td>').append($('<div>').addClass('text-preview').attr('title', volltext).text(volltext)));
                     tableBody.append(tr);
                 }
             });
