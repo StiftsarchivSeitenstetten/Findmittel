@@ -296,9 +296,14 @@ table.dataTable tbody tr:hover {
 
 .search-controls {
     display: grid;
-    grid-template-columns: minmax(260px, 1fr) 150px 180px 170px 120px 120px;
+    grid-template-columns: minmax(240px, 2fr) repeat(5, minmax(0, 1fr));
     gap: 12px;
     align-items: end;
+}
+
+.search-field,
+.filter-field {
+    min-width: 0;
 }
 
 .search-field label,
@@ -611,5 +616,15 @@ footer {
     .search-controls,
     .detail-grid {
         grid-template-columns: 1fr;
+    }
+}
+
+@media (min-width: 641px) and (max-width: 980px) {
+    .search-controls {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .search-field {
+        grid-column: 1 / -1;
     }
 }
