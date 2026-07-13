@@ -63,5 +63,13 @@
       "ISSUE",
       654
     ]
-  ]
+  ],
+  "canonical": {
+    "manifest": "manifest-canonical.json",
+    "searchIndex": "search-index.json",
+    "recordCount": 64998,
+    "almaRecordCount": 1549,
+    "altRecordCount": 63449,
+    "itemCount": 62465
+  }
 }
