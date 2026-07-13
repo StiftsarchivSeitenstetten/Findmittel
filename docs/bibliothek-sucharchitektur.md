@@ -42,6 +42,8 @@ Dieses Modell funktioniert fuer kleine Prototypen ebenso wie fuer groessere Date
 
 ## Datenmodell
 
+Die verbindliche Alma-nahe Modellentscheidung ist in `docs/bibliothek-datenmodell.md` festgehalten. Der folgende Abschnitt beschreibt den frueheren Prototypstand und bleibt als technische Vorgeschichte erhalten.
+
 ### Titelaufnahme
 
 Eine Titelaufnahme beschreibt das Werk bzw. den bibliografischen Datensatz.
