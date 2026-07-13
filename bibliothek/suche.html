@@ -64,7 +64,7 @@ layout: default
     var recordsById = {};
     var chunkCache = {};
     var manifest = null;
-    var maxResults = 50;
+    var maxResults = 100;
     var naturalCollator = new Intl.Collator('de', { numeric: true, sensitivity: 'base' });
     var locationLabels = {
         'ALT': 'Altdaten',
@@ -272,6 +272,17 @@ layout: default
         });
     }
 
+    function hasActiveSearch() {
+        return Boolean(
+            searchInput.value.trim()
+            || sourceFilter.value
+            || locationFilter.value
+            || materialFilter.value
+            || yearStartFilter.value
+            || yearEndFilter.value
+        );
+    }
+
     function buildFacetValues(docs, key) {
         var values = {};
         docs.forEach(function(doc) {
@@ -442,7 +453,17 @@ layout: default
     }
 
     function renderResults() {
+        if (!hasActiveSearch()) {
+            resultsContainer.hidden = false;
+            resultsContainer.innerHTML = '';
+            detailPanel.hidden = true;
+            detailPanel.innerHTML = '';
+            meta.textContent = searchDocs.length + ' Titel geladen. Bitte geben Sie einen Suchbegriff ein oder verwenden Sie die Filter.';
+            return;
+        }
+
         var docs = filteredDocs();
+        resultsContainer.hidden = false;
         resultsContainer.innerHTML = '';
         detailPanel.hidden = true;
         detailPanel.innerHTML = '';
@@ -558,6 +579,7 @@ layout: default
     }
 
     function renderDetail(id) {
+        resultsContainer.hidden = true;
         detailPanel.hidden = false;
         detailPanel.innerHTML = '';
         var loading = document.createElement('p');
@@ -654,10 +676,11 @@ layout: default
             var close = document.createElement('button');
             close.type = 'button';
             close.className = 'button-link';
-            close.appendChild(text('Detailansicht schließen'));
+            close.appendChild(text('Zurück zur Trefferliste'));
             close.addEventListener('click', function() {
                 detailPanel.hidden = true;
                 detailPanel.innerHTML = '';
+                resultsContainer.hidden = false;
             });
             detailPanel.appendChild(close);
 
