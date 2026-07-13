@@ -441,6 +441,32 @@ table.dataTable tbody tr:hover {
     border-top: 0;
 }
 
+.detail-disclosure {
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    margin: 10px 0;
+}
+
+.detail-disclosure summary {
+    color: var(--color-red-dark);
+    cursor: pointer;
+    font-weight: bold;
+    padding: 11px 14px;
+}
+
+.detail-disclosure summary:hover,
+.detail-disclosure summary:focus {
+    background: #f7f2e8;
+    outline: none;
+}
+
+.detail-disclosure .link-list,
+.detail-disclosure .item-list {
+    margin: 0;
+    padding: 0 14px 12px 14px;
+}
+
 .button-link {
     background: var(--color-red);
     border: 0;
