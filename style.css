@@ -277,6 +277,13 @@ table.dataTable tbody tr:hover {
     text-overflow: ellipsis;
 }
 
+.source-label {
+    display: inline-block;
+    color: var(--color-red-dark);
+    font-size: 9pt;
+    font-weight: bold;
+}
+
 footer {
     margin-top: 80px;
     padding-top: 30px;
