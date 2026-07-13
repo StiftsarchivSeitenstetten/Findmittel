@@ -45,6 +45,19 @@ layout: default
     var searchDocs = [];
     var recordsById = {};
     var maxResults = 50;
+    var naturalCollator = new Intl.Collator('de', { numeric: true, sensitivity: 'base' });
+    var locationLabels = {
+        'ARCHIV': 'Stiftsarchiv',
+        'KAGA': 'Kalter Gang',
+        'K05': 'Konventzimmer 5',
+        'KO5': 'Konventzimmer 5',
+        'KONVENT': 'Lesezimmer',
+        'SEK': 'Sekundärbibliothek',
+        'S_HS': 'Hauptsaal',
+        'S_KAT': 'Handschriftenzimmer',
+        'S_LES': 'Studierzimmer',
+        'S_NE1': 'Nebenzimmer 1'
+    };
 
     function normalize(value) {
         return String(value || '')
@@ -55,6 +68,15 @@ layout: default
 
     function text(value) {
         return document.createTextNode(value || '');
+    }
+
+    function locationLabel(code) {
+        if (!code) {
+            return '';
+        }
+
+        var key = String(code).trim().toUpperCase();
+        return locationLabels[key] || code;
     }
 
     function appendField(list, label, value) {
@@ -70,11 +92,95 @@ layout: default
         list.appendChild(dd);
     }
 
+    function itemCallNumber(item) {
+        return item.permanentCallNumber || item.callNumber || '';
+    }
+
+    function itemSortText(item) {
+        return [
+            item.description,
+            item.chronology,
+            item.enumeration,
+            item.issueYear,
+            itemCallNumber(item)
+        ].filter(Boolean).join(' ');
+    }
+
+    function itemLine(item) {
+        return [
+            locationLabel(item.location),
+            itemCallNumber(item),
+            item.description,
+            item.chronology,
+            item.enumeration,
+            item.status
+        ].filter(Boolean).join(' | ');
+    }
+
+    function createLinksList(links) {
+        var list = document.createElement('ul');
+        list.className = 'link-list';
+        links.forEach(function(link) {
+            var li = document.createElement('li');
+            var a = document.createElement('a');
+            a.href = link.url;
+            a.target = '_blank';
+            a.rel = 'noopener';
+            a.appendChild(text(link.label || link.url));
+            li.appendChild(a);
+            list.appendChild(li);
+        });
+
+        return list;
+    }
+
+    function createItemList(items) {
+        var list = document.createElement('ul');
+        list.className = 'item-list';
+        items.slice().sort(function(a, b) {
+            return naturalCollator.compare(itemSortText(a), itemSortText(b));
+        }).forEach(function(item) {
+            var li = document.createElement('li');
+            li.appendChild(text(itemLine(item)));
+            list.appendChild(li);
+        });
+
+        return list;
+    }
+
+    function groupItemsByHolding(items) {
+        var groups = {};
+        items.forEach(function(item) {
+            var location = item.location || '';
+            var callNumber = itemCallNumber(item);
+            var key = location + '|' + callNumber;
+
+            if (!groups[key]) {
+                groups[key] = {
+                    location: location,
+                    callNumber: callNumber,
+                    items: []
+                };
+            }
+
+            groups[key].items.push(item);
+        });
+
+        return Object.keys(groups).map(function(key) {
+            return groups[key];
+        }).sort(function(a, b) {
+            return naturalCollator.compare(
+                locationLabel(a.location) + ' ' + a.callNumber,
+                locationLabel(b.location) + ' ' + b.callNumber
+            );
+        });
+    }
+
     function renderSelectOptions(select, values) {
         values.forEach(function(value) {
             var option = document.createElement('option');
             option.value = value;
-            option.textContent = value;
+            option.textContent = locationLabel(value);
             select.appendChild(option);
         });
     }
@@ -89,7 +195,9 @@ layout: default
             });
         });
 
-        return Object.keys(values).sort();
+        return Object.keys(values).sort(function(a, b) {
+            return naturalCollator.compare(locationLabel(a), locationLabel(b));
+        });
     }
 
     function matchesQuery(doc, terms) {
@@ -103,6 +211,7 @@ layout: default
             doc.publication,
             (doc.callNumbers || []).join(' '),
             (doc.locations || []).join(' '),
+            (doc.locations || []).map(locationLabel).join(' '),
             (doc.genres || []).join(' '),
             doc.searchText
         ].join(' '));
@@ -198,8 +307,8 @@ layout: default
 
             var tags = document.createElement('div');
             tags.className = 'result-tags';
+            renderTags(tags, (doc.locations || []).map(locationLabel).slice(0, 4));
             renderTags(tags, (doc.callNumbers || []).slice(0, 4));
-            renderTags(tags, (doc.locations || []).slice(0, 4));
             if (doc.itemCount) {
                 renderTags(tags, [doc.itemCount + ' Exemplar(e)']);
             }
@@ -240,19 +349,17 @@ layout: default
             linksHeading.appendChild(text('Digitale Links'));
             detailPanel.appendChild(linksHeading);
 
-            var links = document.createElement('ul');
-            links.className = 'link-list';
-            record.links.forEach(function(link) {
-                var li = document.createElement('li');
-                var a = document.createElement('a');
-                a.href = link.url;
-                a.target = '_blank';
-                a.rel = 'noopener';
-                a.appendChild(text(link.label || link.url));
-                li.appendChild(a);
-                links.appendChild(li);
-            });
-            detailPanel.appendChild(links);
+            if (record.links.length > 2) {
+                var linkDetails = document.createElement('details');
+                linkDetails.className = 'detail-disclosure';
+                var linkSummary = document.createElement('summary');
+                linkSummary.appendChild(text(record.links.length + ' Links anzeigen'));
+                linkDetails.appendChild(linkSummary);
+                linkDetails.appendChild(createLinksList(record.links));
+                detailPanel.appendChild(linkDetails);
+            } else {
+                detailPanel.appendChild(createLinksList(record.links));
+            }
         }
 
         var itemsHeading = document.createElement('h3');
@@ -260,21 +367,24 @@ layout: default
         detailPanel.appendChild(itemsHeading);
 
         if (record.items && record.items.length) {
-            var items = document.createElement('ul');
-            items.className = 'item-list';
-            record.items.forEach(function(item) {
-                var li = document.createElement('li');
-                li.appendChild(text([
-                    item.permanentCallNumber || item.callNumber,
-                    item.location,
-                    item.description,
-                    item.chronology,
-                    item.enumeration,
-                    item.status
-                ].filter(Boolean).join(' | ')));
-                items.appendChild(li);
-            });
-            detailPanel.appendChild(items);
+            if (record.items.length > 3) {
+                var itemGroups = groupItemsByHolding(record.items);
+                itemGroups.forEach(function(group) {
+                    var itemDetails = document.createElement('details');
+                    itemDetails.className = 'detail-disclosure';
+                    var itemSummary = document.createElement('summary');
+                    itemSummary.appendChild(text([
+                        locationLabel(group.location),
+                        group.callNumber,
+                        group.items.length + ' Exemplar(e)'
+                    ].filter(Boolean).join(' | ')));
+                    itemDetails.appendChild(itemSummary);
+                    itemDetails.appendChild(createItemList(group.items));
+                    detailPanel.appendChild(itemDetails);
+                });
+            } else {
+                detailPanel.appendChild(createItemList(record.items));
+            }
         } else {
             var empty = document.createElement('p');
             empty.className = 'search-meta';
