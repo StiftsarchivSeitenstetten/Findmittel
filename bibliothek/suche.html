@@ -14,6 +14,12 @@ layout: default
             <input id="librarySearch" type="search" autocomplete="off" placeholder="Titel, Person, Signatur, Ort, Schlagwort">
         </div>
         <div class="filter-field">
+            <label for="sourceFilter">Quelle</label>
+            <select id="sourceFilter">
+                <option value="">Alle Quellen</option>
+            </select>
+        </div>
+        <div class="filter-field">
             <label for="locationFilter">Standort</label>
             <select id="locationFilter">
                 <option value="">Alle Standorte</option>
@@ -24,6 +30,14 @@ layout: default
             <select id="materialFilter">
                 <option value="">Alle Materialien</option>
             </select>
+        </div>
+        <div class="filter-field">
+            <label for="yearStartFilter">Jahr von</label>
+            <input id="yearStartFilter" type="number" inputmode="numeric" placeholder="z. B. 1700">
+        </div>
+        <div class="filter-field">
+            <label for="yearEndFilter">Jahr bis</label>
+            <input id="yearEndFilter" type="number" inputmode="numeric" placeholder="z. B. 1900">
         </div>
     </div>
     <p id="libraryMeta" class="search-meta">Daten werden geladen ...</p>
@@ -36,17 +50,24 @@ layout: default
 <script>
 (function() {
     var searchInput = document.getElementById('librarySearch');
+    var sourceFilter = document.getElementById('sourceFilter');
     var locationFilter = document.getElementById('locationFilter');
     var materialFilter = document.getElementById('materialFilter');
+    var yearStartFilter = document.getElementById('yearStartFilter');
+    var yearEndFilter = document.getElementById('yearEndFilter');
     var meta = document.getElementById('libraryMeta');
     var resultsContainer = document.getElementById('libraryResults');
     var detailPanel = document.getElementById('libraryDetail');
 
     var searchDocs = [];
+    var searchDocsById = {};
     var recordsById = {};
+    var chunkCache = {};
+    var manifest = null;
     var maxResults = 50;
     var naturalCollator = new Intl.Collator('de', { numeric: true, sensitivity: 'base' });
     var locationLabels = {
+        'ALT': 'Altdaten',
         'ARCHIV': 'Stiftsarchiv',
         'KAGA': 'Kalter Gang',
         'K05': 'Konventzimmer 5',
@@ -92,6 +113,31 @@ layout: default
         list.appendChild(dd);
     }
 
+    function padChunkNumber(value) {
+        return String(value).padStart(3, '0');
+    }
+
+    function chunkPathForIndex(index) {
+        var chunkSize = manifest && manifest.recordChunkSize ? manifest.recordChunkSize : 1000;
+        return 'records/chunk-' + padChunkNumber(Math.floor(index / chunkSize)) + '.json';
+    }
+
+    function unpackSearchIndex(payload) {
+        if (Array.isArray(payload)) {
+            return payload;
+        }
+
+        var fields = payload.fields || [];
+        return (payload.records || []).map(function(row, index) {
+            var doc = {};
+            fields.forEach(function(field, fieldIndex) {
+                doc[field] = row[fieldIndex];
+            });
+            doc.chunk = chunkPathForIndex(index);
+            return doc;
+        });
+    }
+
     function createNote(value) {
         var note = document.createElement('p');
         note.className = 'relationship-note';
@@ -117,6 +163,7 @@ layout: default
 
             var metaLine = document.createElement('span');
             metaLine.appendChild(text([
+                reference.relationType,
                 reference.creator,
                 reference.year,
                 reference.pages,
@@ -220,7 +267,7 @@ layout: default
         values.forEach(function(value) {
             var option = document.createElement('option');
             option.value = value;
-            option.textContent = locationLabel(value);
+            option.textContent = select === locationFilter ? locationLabel(value) : value;
             select.appendChild(option);
         });
     }
@@ -228,7 +275,8 @@ layout: default
     function buildFacetValues(docs, key) {
         var values = {};
         docs.forEach(function(doc) {
-            (doc[key] || []).forEach(function(value) {
+            var rawValues = Array.isArray(doc[key]) ? doc[key] : [doc[key]];
+            rawValues.forEach(function(value) {
                 if (value) {
                     values[value] = true;
                 }
@@ -246,14 +294,17 @@ layout: default
         }
 
         var haystack = normalize([
+            doc.q,
             doc.title,
             doc.creator,
+            doc.yearDisplay,
             doc.publication,
             (doc.callNumbers || []).join(' '),
             (doc.locations || []).join(' '),
             (doc.locations || []).map(locationLabel).join(' '),
             (doc.genres || []).join(' '),
-            doc.searchText
+            doc.source,
+            doc.recordType
         ].join(' '));
 
         return terms.every(function(term) {
@@ -282,15 +333,32 @@ layout: default
 
     function filteredDocs() {
         var terms = normalize(searchInput.value).split(/\s+/).filter(Boolean);
+        var source = sourceFilter.value;
         var location = locationFilter.value;
         var material = materialFilter.value;
+        var yearStart = parseInt(yearStartFilter.value, 10);
+        var yearEnd = parseInt(yearEndFilter.value, 10);
+        var hasYearStart = !Number.isNaN(yearStart);
+        var hasYearEnd = !Number.isNaN(yearEnd);
 
         return searchDocs
             .filter(function(doc) {
+                if (source && doc.source !== source) {
+                    return false;
+                }
                 if (location && (doc.locations || []).indexOf(location) === -1) {
                     return false;
                 }
                 if (material && (doc.materialTypes || []).indexOf(material) === -1) {
+                    return false;
+                }
+                if ((hasYearStart || hasYearEnd) && (doc.yearStart === null || doc.yearStart === undefined)) {
+                    return false;
+                }
+                if (hasYearStart && doc.yearEnd < yearStart) {
+                    return false;
+                }
+                if (hasYearEnd && doc.yearStart > yearEnd) {
                     return false;
                 }
                 return matchesQuery(doc, terms);
@@ -316,31 +384,61 @@ layout: default
         });
     }
 
-    function getDisplayItems(record) {
-        if (record.items && record.items.length) {
-            return {
-                items: record.items,
-                inherited: false,
-                source: null
-            };
+    function getAdligateItemSource(record) {
+        if (record.adligateSource && recordsById[record.adligateSource.id]) {
+            var adligateSource = recordsById[record.adligateSource.id];
+            if (adligateSource.items && adligateSource.items.length) {
+                return {
+                    items: adligateSource.items,
+                    source: adligateSource
+                };
+            }
         }
 
+        return null;
+    }
+
+    function getSuperordinateItemSource(record) {
         if (record.superordinate && recordsById[record.superordinate.id]) {
             var parent = recordsById[record.superordinate.id];
             if (parent.items && parent.items.length) {
                 return {
                     items: parent.items,
-                    inherited: true,
                     source: parent
                 };
             }
         }
 
-        return {
-            items: [],
-            inherited: false,
-            source: null
-        };
+        return null;
+    }
+
+    function renderItemsSection(headingText, items, noteText) {
+        var itemsHeading = document.createElement('h3');
+        itemsHeading.appendChild(text(headingText));
+        detailPanel.appendChild(itemsHeading);
+
+        if (noteText) {
+            detailPanel.appendChild(createNote(noteText));
+        }
+
+        if (items.length > 3) {
+            var itemGroups = groupItemsByHolding(items);
+            itemGroups.forEach(function(group) {
+                var itemDetails = document.createElement('details');
+                itemDetails.className = 'detail-disclosure';
+                var itemSummary = document.createElement('summary');
+                itemSummary.appendChild(text([
+                    locationLabel(group.location),
+                    group.callNumber,
+                    group.items.length + ' Exemplar(e)'
+                ].filter(Boolean).join(' | ')));
+                itemDetails.appendChild(itemSummary);
+                itemDetails.appendChild(createItemList(group.items));
+                detailPanel.appendChild(itemDetails);
+            });
+        } else {
+            detailPanel.appendChild(createItemList(items));
+        }
     }
 
     function renderResults() {
@@ -366,8 +464,9 @@ layout: default
             var metaLine = document.createElement('p');
             metaLine.className = 'result-meta';
             metaLine.appendChild(text([
+                doc.source,
                 doc.creator,
-                doc.year,
+                doc.yearDisplay,
                 doc.publication
             ].filter(Boolean).join(' | ')));
             button.appendChild(metaLine);
@@ -380,9 +479,18 @@ layout: default
             renderTags(tags, (doc.locations || []).map(locationLabel).slice(0, 4));
             renderTags(tags, (doc.callNumbers || []).slice(0, 4));
             if (doc.itemCount) {
-                renderTags(tags, [doc.itemCount + ' Exemplar(e)']);
+                renderTags(tags, [(doc.displayItemCount || doc.itemCount) + ' Exemplar(e)']);
+                if (doc.additionalAdligateItemCount) {
+                    renderTags(tags, [doc.additionalAdligateItemCount + ' zusätzlich in Bibliotheksbindung']);
+                }
             } else if (doc.inheritedItemCount) {
-                renderTags(tags, [doc.inheritedItemCount + ' Exemplar(e) der Überordnung']);
+                renderTags(tags, [
+                    doc.inheritedItemCount + (
+                        doc.itemSourceType === 'adligate'
+                            ? ' Exemplar(e) der Bibliotheksbindung'
+                            : ' Exemplar(e) der Überordnung'
+                    )
+                ]);
             }
             button.appendChild(tags);
 
@@ -390,129 +498,193 @@ layout: default
         });
     }
 
-    function renderDetail(id) {
-        var record = recordsById[id];
-        if (!record) {
+    function loadRecord(id) {
+        if (recordsById[id]) {
+            return Promise.resolve(recordsById[id]);
+        }
+
+        var doc = searchDocsById[id];
+        if (!doc || !doc.chunk) {
+            return Promise.reject(new Error('Kein Detail-Chunk fuer Datensatz ' + id));
+        }
+
+        if (!chunkCache[doc.chunk]) {
+            chunkCache[doc.chunk] = fetch('{{ site.baseurl }}/assets/data/bibliothek/' + doc.chunk)
+                .then(function(response) {
+                    if (!response.ok) {
+                        throw new Error('Detail-Chunk konnte nicht geladen werden: ' + doc.chunk);
+                    }
+                    return response.json();
+                })
+                .then(function(records) {
+                    records.forEach(function(record) {
+                        recordsById[record.id] = record;
+                    });
+                    return records;
+                });
+        }
+
+        return chunkCache[doc.chunk].then(function() {
+            return recordsById[id];
+        });
+    }
+
+    function relationReference(relation) {
+        var targetDoc = searchDocsById[relation.targetId] || {};
+        return {
+            id: relation.targetId,
+            title: targetDoc.title || relation.text || relation.targetSourceRecordId || relation.targetAcNumber,
+            relationType: relation.label,
+            creator: targetDoc.creator,
+            year: targetDoc.yearDisplay,
+            pages: relation.pages,
+            acNumber: relation.targetAcNumber || relation.targetSourceRecordId
+        };
+    }
+
+    function renderRelationSection(headingText, relations) {
+        var resolved = relations.filter(function(relation) {
+            return relation.targetId;
+        });
+
+        if (!resolved.length) {
             return;
         }
 
-        detailPanel.innerHTML = '';
-        detailPanel.hidden = false;
-
         var heading = document.createElement('h3');
-        heading.appendChild(text(record.title || 'Ohne Titel'));
+        heading.appendChild(text(headingText));
         detailPanel.appendChild(heading);
+        detailPanel.appendChild(createRecordReferenceList(resolved.map(relationReference)));
+    }
 
-        var fields = document.createElement('dl');
-        fields.className = 'detail-grid';
-        appendField(fields, 'Verantwortlichkeit', record.responsibility);
-        appendField(fields, 'Personen', (record.creators || []).concat(record.contributors || []));
-        appendField(fields, 'Erscheinung', record.publication && record.publication.text);
-        appendField(fields, 'Umfang', record.extent);
-        appendField(fields, 'Sprache', record.languages);
-        appendField(fields, 'Schlagwörter', record.subjects);
-        appendField(fields, 'Form / Genre', record.genres);
-        appendField(fields, 'Reihe', record.series);
-        if (record.superordinate) {
-            appendField(fields, 'Datensatztyp', 'Aufsatz/Beitrag in einem übergeordneten Titel');
-        }
-        appendField(fields, 'AC-Nummer', record.acNumber);
-        detailPanel.appendChild(fields);
+    function renderDetail(id) {
+        detailPanel.hidden = false;
+        detailPanel.innerHTML = '';
+        var loading = document.createElement('p');
+        loading.className = 'search-meta';
+        loading.appendChild(text('Detaildaten werden geladen ...'));
+        detailPanel.appendChild(loading);
 
-        if (record.superordinate) {
-            var parentHeading = document.createElement('h3');
-            parentHeading.appendChild(text('Übergeordneter Titel'));
-            detailPanel.appendChild(parentHeading);
-            detailPanel.appendChild(createRecordReferenceList([record.superordinate]));
-        }
-
-        if (record.childRecords && record.childRecords.length) {
-            var childrenHeading = document.createElement('h3');
-            childrenHeading.appendChild(text('Enthaltene Titel'));
-            detailPanel.appendChild(childrenHeading);
-            detailPanel.appendChild(createRecordReferenceList(record.childRecords));
-        }
-
-        if (record.links && record.links.length) {
-            var linksHeading = document.createElement('h3');
-            linksHeading.appendChild(text('Digitale Links'));
-            detailPanel.appendChild(linksHeading);
-
-            if (record.links.length > 2) {
-                var linkDetails = document.createElement('details');
-                linkDetails.className = 'detail-disclosure';
-                var linkSummary = document.createElement('summary');
-                linkSummary.appendChild(text(record.links.length + ' Links anzeigen'));
-                linkDetails.appendChild(linkSummary);
-                linkDetails.appendChild(createLinksList(record.links));
-                detailPanel.appendChild(linkDetails);
-            } else {
-                detailPanel.appendChild(createLinksList(record.links));
+        loadRecord(id).then(function(record) {
+            if (!record) {
+                throw new Error('Datensatz nicht gefunden: ' + id);
             }
-        }
 
-        var itemSource = getDisplayItems(record);
-        var itemsHeading = document.createElement('h3');
-        itemsHeading.appendChild(text(itemSource.inherited ? 'Exemplare des übergeordneten Titels' : 'Exemplare'));
-        detailPanel.appendChild(itemsHeading);
-
-        if (itemSource.inherited && itemSource.source) {
-            detailPanel.appendChild(createNote(
-                'Dieser Datensatz ist als Aufsatz/Beitrag verzeichnet und besitzt kein eigenes Exemplar. Angezeigt wird das Exemplar des übergeordneten Titels: ' + itemSource.source.title
-            ));
-        }
-
-        if (itemSource.items.length) {
-            if (itemSource.items.length > 3) {
-                var itemGroups = groupItemsByHolding(itemSource.items);
-                itemGroups.forEach(function(group) {
-                    var itemDetails = document.createElement('details');
-                    itemDetails.className = 'detail-disclosure';
-                    var itemSummary = document.createElement('summary');
-                    itemSummary.appendChild(text([
-                        locationLabel(group.location),
-                        group.callNumber,
-                        group.items.length + ' Exemplar(e)'
-                    ].filter(Boolean).join(' | ')));
-                    itemDetails.appendChild(itemSummary);
-                    itemDetails.appendChild(createItemList(group.items));
-                    detailPanel.appendChild(itemDetails);
-                });
-            } else {
-                detailPanel.appendChild(createItemList(itemSource.items));
-            }
-        } else {
-            var empty = document.createElement('p');
-            empty.className = 'search-meta';
-            empty.appendChild(text('Zu diesem Titel sind in den importierten Exemplardaten keine Exemplare verknüpft.'));
-            detailPanel.appendChild(empty);
-        }
-
-        var close = document.createElement('button');
-        close.type = 'button';
-        close.className = 'button-link';
-        close.appendChild(text('Detailansicht schließen'));
-        close.addEventListener('click', function() {
-            detailPanel.hidden = true;
             detailPanel.innerHTML = '';
-        });
-        detailPanel.appendChild(close);
 
-        detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+            var heading = document.createElement('h3');
+            heading.appendChild(text(record.title || 'Ohne Titel'));
+            detailPanel.appendChild(heading);
+
+            var fields = document.createElement('dl');
+            fields.className = 'detail-grid';
+            appendField(fields, 'Quelle', record.source);
+            appendField(fields, 'Verantwortlichkeit', record.responsibility);
+            appendField(fields, 'Personen', (record.creators || []).concat(record.contributors || []));
+            appendField(fields, 'Erscheinung', record.publication && record.publication.text);
+            appendField(fields, 'Umfang', record.extent);
+            appendField(fields, 'Sprache', record.languages);
+            appendField(fields, 'Schlagwörter', record.subjects);
+            appendField(fields, 'Form / Genre', record.genres);
+            appendField(fields, 'Reihe', record.series);
+            appendField(fields, 'Datensatztyp', record.recordType);
+            appendField(fields, 'AC-Nummer', record.acNumber);
+            appendField(fields, 'System-ID', record.sourceRecordId);
+            detailPanel.appendChild(fields);
+
+            var relations = record.relations || [];
+            renderRelationSection(
+                'Bibliotheksbindung / Adligat',
+                relations.filter(function(relation) { return relation.type === 'adligateHost'; })
+            );
+            renderRelationSection(
+                'Übergeordneter Titel',
+                relations.filter(function(relation) { return relation.type === 'host'; })
+            );
+            renderRelationSection(
+                'Reihe',
+                relations.filter(function(relation) { return relation.type === 'series'; })
+            );
+
+            if (record.links && record.links.length) {
+                var linksHeading = document.createElement('h3');
+                linksHeading.appendChild(text('Digitale Links'));
+                detailPanel.appendChild(linksHeading);
+
+                if (record.links.length > 2) {
+                    var linkDetails = document.createElement('details');
+                    linkDetails.className = 'detail-disclosure';
+                    var linkSummary = document.createElement('summary');
+                    linkSummary.appendChild(text(record.links.length + ' Links anzeigen'));
+                    linkDetails.appendChild(linkSummary);
+                    linkDetails.appendChild(createLinksList(record.links));
+                    detailPanel.appendChild(linkDetails);
+                } else {
+                    detailPanel.appendChild(createLinksList(record.links));
+                }
+            }
+
+            var items = record.displayItems || record.items || [];
+            var noteText = '';
+            var itemHeading = 'Exemplare';
+
+            if (record.itemSourceType === 'superordinate') {
+                itemHeading = 'Exemplare des übergeordneten Titels';
+                noteText = 'Dieser Datensatz ist als Aufsatz/Beitrag verzeichnet und besitzt kein direkt zugeordnetes Exemplar. Angezeigt werden die Exemplare des übergeordneten Titels.';
+            } else if (record.itemSourceType === 'adligate') {
+                itemHeading = 'Exemplare der Bibliotheksbindung';
+                noteText = 'Dieser Datensatz ist Teil eines Adligats bzw. einer Bibliotheksbindung und besitzt kein direkt zugeordnetes Exemplar. Angezeigt werden die Exemplare des lokal verknüpften Datensatzes.';
+            } else if (record.itemSourceType === 'own-adligate') {
+                noteText = 'Dieser Titel besitzt eigene Exemplare und ist zusätzlich in einer Bibliotheksbindung nachgewiesen.';
+            }
+
+            if (items.length) {
+                renderItemsSection(itemHeading, items, noteText);
+            } else {
+                var itemsHeading = document.createElement('h3');
+                itemsHeading.appendChild(text('Exemplare'));
+                detailPanel.appendChild(itemsHeading);
+                var empty = document.createElement('p');
+                empty.className = 'search-meta';
+                empty.appendChild(text('Zu diesem Titel sind in den importierten Exemplardaten keine Exemplare verknüpft.'));
+                detailPanel.appendChild(empty);
+            }
+
+            var close = document.createElement('button');
+            close.type = 'button';
+            close.className = 'button-link';
+            close.appendChild(text('Detailansicht schließen'));
+            close.addEventListener('click', function() {
+                detailPanel.hidden = true;
+                detailPanel.innerHTML = '';
+            });
+            detailPanel.appendChild(close);
+
+            detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        }).catch(function(error) {
+            console.error('Detaildaten konnten nicht geladen werden:', error);
+            detailPanel.innerHTML = '';
+            var errorMessage = document.createElement('p');
+            errorMessage.className = 'search-meta';
+            errorMessage.appendChild(text('Die Detaildaten konnten nicht geladen werden.'));
+            detailPanel.appendChild(errorMessage);
+        });
     }
 
     Promise.all([
-        fetch('{{ site.baseurl }}/assets/data/bibliothek/search-docs.json').then(function(response) { return response.json(); }),
-        fetch('{{ site.baseurl }}/assets/data/bibliothek/records.json').then(function(response) { return response.json(); })
+        fetch('{{ site.baseurl }}/assets/data/bibliothek/manifest-canonical.json').then(function(response) { return response.json(); }),
+        fetch('{{ site.baseurl }}/assets/data/bibliothek/search-index.json').then(function(response) { return response.json(); })
     ]).then(function(values) {
-        searchDocs = values[0];
-        values[1].forEach(function(record) {
-            recordsById[record.id] = record;
+        manifest = values[0];
+        searchDocs = unpackSearchIndex(values[1]);
+        searchDocs.forEach(function(doc) {
+            searchDocsById[doc.id] = doc;
         });
 
+        renderSelectOptions(sourceFilter, buildFacetValues(searchDocs, 'source'));
         renderSelectOptions(locationFilter, buildFacetValues(searchDocs, 'locations'));
         renderSelectOptions(materialFilter, buildFacetValues(searchDocs, 'materialTypes'));
-        meta.textContent = searchDocs.length + ' Titel geladen. Bitte geben Sie einen Suchbegriff ein oder verwenden Sie die Filter.';
+        meta.textContent = searchDocs.length + ' Titel geladen. Detaildaten werden erst beim Öffnen eines Treffers nachgeladen.';
         renderResults();
     }).catch(function(error) {
         console.error('Bibliotheksdaten konnten nicht geladen werden:', error);
@@ -520,7 +692,10 @@ layout: default
     });
 
     searchInput.addEventListener('input', renderResults);
+    sourceFilter.addEventListener('change', renderResults);
     locationFilter.addEventListener('change', renderResults);
     materialFilter.addEventListener('change', renderResults);
+    yearStartFilter.addEventListener('input', renderResults);
+    yearEndFilter.addEventListener('input', renderResults);
 })();
 </script>
