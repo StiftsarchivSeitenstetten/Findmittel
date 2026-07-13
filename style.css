@@ -296,7 +296,7 @@ table.dataTable tbody tr:hover {
 
 .search-controls {
     display: grid;
-    grid-template-columns: 1fr 190px 170px;
+    grid-template-columns: minmax(260px, 1fr) 150px 180px 170px 120px 120px;
     gap: 12px;
     align-items: end;
 }
@@ -311,6 +311,7 @@ table.dataTable tbody tr:hover {
 }
 
 .search-field input,
+.filter-field input,
 .filter-field select {
     box-sizing: border-box;
     width: 100%;
@@ -324,6 +325,7 @@ table.dataTable tbody tr:hover {
 }
 
 .search-field input:focus,
+.filter-field input:focus,
 .filter-field select:focus {
     border-color: var(--color-red);
     outline: 2px solid rgba(139, 29, 36, 0.12);
