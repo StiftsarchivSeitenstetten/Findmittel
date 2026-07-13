@@ -92,6 +92,46 @@ layout: default
         list.appendChild(dd);
     }
 
+    function createNote(value) {
+        var note = document.createElement('p');
+        note.className = 'relationship-note';
+        note.appendChild(text(value));
+        return note;
+    }
+
+    function createRecordReferenceList(records) {
+        var list = document.createElement('ul');
+        list.className = 'record-reference-list';
+        records.forEach(function(reference) {
+            var li = document.createElement('li');
+            var button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'record-reference-button';
+            button.addEventListener('click', function() {
+                renderDetail(reference.id);
+            });
+
+            var title = document.createElement('strong');
+            title.appendChild(text(reference.title || 'Ohne Titel'));
+            button.appendChild(title);
+
+            var metaLine = document.createElement('span');
+            metaLine.appendChild(text([
+                reference.creator,
+                reference.year,
+                reference.pages,
+                reference.acNumber,
+                reference.hasOwnItems === false ? 'ohne eigenes Exemplar' : ''
+            ].filter(Boolean).join(' | ')));
+            button.appendChild(metaLine);
+
+            li.appendChild(button);
+            list.appendChild(li);
+        });
+
+        return list;
+    }
+
     function itemCallNumber(item) {
         return item.permanentCallNumber || item.callNumber || '';
     }
@@ -276,6 +316,33 @@ layout: default
         });
     }
 
+    function getDisplayItems(record) {
+        if (record.items && record.items.length) {
+            return {
+                items: record.items,
+                inherited: false,
+                source: null
+            };
+        }
+
+        if (record.superordinate && recordsById[record.superordinate.id]) {
+            var parent = recordsById[record.superordinate.id];
+            if (parent.items && parent.items.length) {
+                return {
+                    items: parent.items,
+                    inherited: true,
+                    source: parent
+                };
+            }
+        }
+
+        return {
+            items: [],
+            inherited: false,
+            source: null
+        };
+    }
+
     function renderResults() {
         var docs = filteredDocs();
         resultsContainer.innerHTML = '';
@@ -307,10 +374,15 @@ layout: default
 
             var tags = document.createElement('div');
             tags.className = 'result-tags';
+            if (doc.recordType) {
+                renderTags(tags, [doc.recordType]);
+            }
             renderTags(tags, (doc.locations || []).map(locationLabel).slice(0, 4));
             renderTags(tags, (doc.callNumbers || []).slice(0, 4));
             if (doc.itemCount) {
                 renderTags(tags, [doc.itemCount + ' Exemplar(e)']);
+            } else if (doc.inheritedItemCount) {
+                renderTags(tags, [doc.inheritedItemCount + ' Exemplar(e) der Überordnung']);
             }
             button.appendChild(tags);
 
@@ -341,8 +413,25 @@ layout: default
         appendField(fields, 'Schlagwörter', record.subjects);
         appendField(fields, 'Form / Genre', record.genres);
         appendField(fields, 'Reihe', record.series);
+        if (record.superordinate) {
+            appendField(fields, 'Datensatztyp', 'Aufsatz/Beitrag in einem übergeordneten Titel');
+        }
         appendField(fields, 'AC-Nummer', record.acNumber);
         detailPanel.appendChild(fields);
+
+        if (record.superordinate) {
+            var parentHeading = document.createElement('h3');
+            parentHeading.appendChild(text('Übergeordneter Titel'));
+            detailPanel.appendChild(parentHeading);
+            detailPanel.appendChild(createRecordReferenceList([record.superordinate]));
+        }
+
+        if (record.childRecords && record.childRecords.length) {
+            var childrenHeading = document.createElement('h3');
+            childrenHeading.appendChild(text('Enthaltene Titel'));
+            detailPanel.appendChild(childrenHeading);
+            detailPanel.appendChild(createRecordReferenceList(record.childRecords));
+        }
 
         if (record.links && record.links.length) {
             var linksHeading = document.createElement('h3');
@@ -362,13 +451,20 @@ layout: default
             }
         }
 
+        var itemSource = getDisplayItems(record);
         var itemsHeading = document.createElement('h3');
-        itemsHeading.appendChild(text('Exemplare'));
+        itemsHeading.appendChild(text(itemSource.inherited ? 'Exemplare des übergeordneten Titels' : 'Exemplare'));
         detailPanel.appendChild(itemsHeading);
 
-        if (record.items && record.items.length) {
-            if (record.items.length > 3) {
-                var itemGroups = groupItemsByHolding(record.items);
+        if (itemSource.inherited && itemSource.source) {
+            detailPanel.appendChild(createNote(
+                'Dieser Datensatz ist als Aufsatz/Beitrag verzeichnet und besitzt kein eigenes Exemplar. Angezeigt wird das Exemplar des übergeordneten Titels: ' + itemSource.source.title
+            ));
+        }
+
+        if (itemSource.items.length) {
+            if (itemSource.items.length > 3) {
+                var itemGroups = groupItemsByHolding(itemSource.items);
                 itemGroups.forEach(function(group) {
                     var itemDetails = document.createElement('details');
                     itemDetails.className = 'detail-disclosure';
@@ -383,7 +479,7 @@ layout: default
                     detailPanel.appendChild(itemDetails);
                 });
             } else {
-                detailPanel.appendChild(createItemList(record.items));
+                detailPanel.appendChild(createItemList(itemSource.items));
             }
         } else {
             var empty = document.createElement('p');

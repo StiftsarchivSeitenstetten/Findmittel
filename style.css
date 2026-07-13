@@ -427,6 +427,52 @@ table.dataTable tbody tr:hover {
     margin: 0;
 }
 
+.relationship-note {
+    background: #f7f2e8;
+    border-left: 4px solid var(--color-gold);
+    color: var(--color-ink);
+    margin: 12px 0 16px 0;
+    padding: 10px 13px;
+}
+
+.record-reference-list {
+    display: grid;
+    gap: 8px;
+    list-style: none;
+    margin: 10px 0 22px 0;
+    padding-left: 0;
+}
+
+.record-reference-button {
+    width: 100%;
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-ink);
+    cursor: pointer;
+    display: grid;
+    gap: 4px;
+    font: inherit;
+    padding: 12px 14px;
+    text-align: left;
+}
+
+.record-reference-button:hover,
+.record-reference-button:focus {
+    border-color: var(--color-gold);
+    box-shadow: var(--shadow-soft);
+    outline: none;
+}
+
+.record-reference-button strong {
+    color: var(--color-red-dark);
+}
+
+.record-reference-button span {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+}
+
 .item-list {
     list-style: none;
     padding-left: 0;
