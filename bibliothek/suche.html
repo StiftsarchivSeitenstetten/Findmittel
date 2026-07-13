@@ -1,0 +1,320 @@
+---
+layout: default
+---
+
+<p><a class="back-link" href="{{ site.baseurl }}/bibliothek/">&larr; Zurück zur Bibliotheksübersicht</a></p>
+
+<h2>Bibliothekssuche</h2>
+<p>Dieser Prototyp durchsucht normalisierte Titeldaten aus MARCXML gemeinsam mit den zugehörigen Exemplardaten. Die Trefferliste ist titelzentriert; konkrete Exemplare, Standorte und Signaturen erscheinen in der Detailansicht.</p>
+
+<section class="search-panel" aria-label="Bibliothek durchsuchen">
+    <div class="search-controls">
+        <div class="search-field">
+            <label for="librarySearch">Suchbegriff</label>
+            <input id="librarySearch" type="search" autocomplete="off" placeholder="Titel, Person, Signatur, Ort, Schlagwort">
+        </div>
+        <div class="filter-field">
+            <label for="locationFilter">Standort</label>
+            <select id="locationFilter">
+                <option value="">Alle Standorte</option>
+            </select>
+        </div>
+        <div class="filter-field">
+            <label for="materialFilter">Material</label>
+            <select id="materialFilter">
+                <option value="">Alle Materialien</option>
+            </select>
+        </div>
+    </div>
+    <p id="libraryMeta" class="search-meta">Daten werden geladen ...</p>
+</section>
+
+<div id="libraryResults" class="result-list" aria-live="polite"></div>
+
+<section id="libraryDetail" class="detail-panel" hidden aria-live="polite"></section>
+
+<script>
+(function() {
+    var searchInput = document.getElementById('librarySearch');
+    var locationFilter = document.getElementById('locationFilter');
+    var materialFilter = document.getElementById('materialFilter');
+    var meta = document.getElementById('libraryMeta');
+    var resultsContainer = document.getElementById('libraryResults');
+    var detailPanel = document.getElementById('libraryDetail');
+
+    var searchDocs = [];
+    var recordsById = {};
+    var maxResults = 50;
+
+    function normalize(value) {
+        return String(value || '')
+            .toLowerCase()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function text(value) {
+        return document.createTextNode(value || '');
+    }
+
+    function appendField(list, label, value) {
+        if (!value || (Array.isArray(value) && value.length === 0)) {
+            return;
+        }
+
+        var dt = document.createElement('dt');
+        dt.appendChild(text(label));
+        var dd = document.createElement('dd');
+        dd.appendChild(text(Array.isArray(value) ? value.join('; ') : value));
+        list.appendChild(dt);
+        list.appendChild(dd);
+    }
+
+    function renderSelectOptions(select, values) {
+        values.forEach(function(value) {
+            var option = document.createElement('option');
+            option.value = value;
+            option.textContent = value;
+            select.appendChild(option);
+        });
+    }
+
+    function buildFacetValues(docs, key) {
+        var values = {};
+        docs.forEach(function(doc) {
+            (doc[key] || []).forEach(function(value) {
+                if (value) {
+                    values[value] = true;
+                }
+            });
+        });
+
+        return Object.keys(values).sort();
+    }
+
+    function matchesQuery(doc, terms) {
+        if (terms.length === 0) {
+            return true;
+        }
+
+        var haystack = normalize([
+            doc.title,
+            doc.creator,
+            doc.publication,
+            (doc.callNumbers || []).join(' '),
+            (doc.locations || []).join(' '),
+            (doc.genres || []).join(' '),
+            doc.searchText
+        ].join(' '));
+
+        return terms.every(function(term) {
+            return haystack.indexOf(term) !== -1;
+        });
+    }
+
+    function scoreDoc(doc, terms) {
+        if (terms.length === 0) {
+            return 0;
+        }
+
+        var score = 0;
+        var title = normalize(doc.title);
+        var creator = normalize(doc.creator);
+        var callNumbers = normalize((doc.callNumbers || []).join(' '));
+
+        terms.forEach(function(term) {
+            if (title.indexOf(term) !== -1) score += 5;
+            if (creator.indexOf(term) !== -1) score += 3;
+            if (callNumbers.indexOf(term) !== -1) score += 4;
+        });
+
+        return score;
+    }
+
+    function filteredDocs() {
+        var terms = normalize(searchInput.value).split(/\s+/).filter(Boolean);
+        var location = locationFilter.value;
+        var material = materialFilter.value;
+
+        return searchDocs
+            .filter(function(doc) {
+                if (location && (doc.locations || []).indexOf(location) === -1) {
+                    return false;
+                }
+                if (material && (doc.materialTypes || []).indexOf(material) === -1) {
+                    return false;
+                }
+                return matchesQuery(doc, terms);
+            })
+            .map(function(doc) {
+                return { doc: doc, score: scoreDoc(doc, terms) };
+            })
+            .sort(function(a, b) {
+                if (b.score !== a.score) return b.score - a.score;
+                return String(a.doc.title || '').localeCompare(String(b.doc.title || ''), 'de');
+            })
+            .map(function(entry) {
+                return entry.doc;
+            });
+    }
+
+    function renderTags(container, values) {
+        values.forEach(function(value) {
+            var tag = document.createElement('span');
+            tag.className = 'result-tag';
+            tag.appendChild(text(value));
+            container.appendChild(tag);
+        });
+    }
+
+    function renderResults() {
+        var docs = filteredDocs();
+        resultsContainer.innerHTML = '';
+        detailPanel.hidden = true;
+        detailPanel.innerHTML = '';
+
+        meta.textContent = docs.length + ' Treffer. Angezeigt werden maximal ' + Math.min(maxResults, docs.length) + '.';
+
+        docs.slice(0, maxResults).forEach(function(doc) {
+            var button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'result-card';
+            button.addEventListener('click', function() {
+                renderDetail(doc.id);
+            });
+
+            var title = document.createElement('h3');
+            title.appendChild(text(doc.title || 'Ohne Titel'));
+            button.appendChild(title);
+
+            var metaLine = document.createElement('p');
+            metaLine.className = 'result-meta';
+            metaLine.appendChild(text([
+                doc.creator,
+                doc.year,
+                doc.publication
+            ].filter(Boolean).join(' | ')));
+            button.appendChild(metaLine);
+
+            var tags = document.createElement('div');
+            tags.className = 'result-tags';
+            renderTags(tags, (doc.callNumbers || []).slice(0, 4));
+            renderTags(tags, (doc.locations || []).slice(0, 4));
+            if (doc.itemCount) {
+                renderTags(tags, [doc.itemCount + ' Exemplar(e)']);
+            }
+            button.appendChild(tags);
+
+            resultsContainer.appendChild(button);
+        });
+    }
+
+    function renderDetail(id) {
+        var record = recordsById[id];
+        if (!record) {
+            return;
+        }
+
+        detailPanel.innerHTML = '';
+        detailPanel.hidden = false;
+
+        var heading = document.createElement('h3');
+        heading.appendChild(text(record.title || 'Ohne Titel'));
+        detailPanel.appendChild(heading);
+
+        var fields = document.createElement('dl');
+        fields.className = 'detail-grid';
+        appendField(fields, 'Verantwortlichkeit', record.responsibility);
+        appendField(fields, 'Personen', (record.creators || []).concat(record.contributors || []));
+        appendField(fields, 'Erscheinung', record.publication && record.publication.text);
+        appendField(fields, 'Umfang', record.extent);
+        appendField(fields, 'Sprache', record.languages);
+        appendField(fields, 'Schlagwörter', record.subjects);
+        appendField(fields, 'Form / Genre', record.genres);
+        appendField(fields, 'Reihe', record.series);
+        appendField(fields, 'AC-Nummer', record.acNumber);
+        detailPanel.appendChild(fields);
+
+        if (record.links && record.links.length) {
+            var linksHeading = document.createElement('h3');
+            linksHeading.appendChild(text('Digitale Links'));
+            detailPanel.appendChild(linksHeading);
+
+            var links = document.createElement('ul');
+            links.className = 'link-list';
+            record.links.forEach(function(link) {
+                var li = document.createElement('li');
+                var a = document.createElement('a');
+                a.href = link.url;
+                a.target = '_blank';
+                a.rel = 'noopener';
+                a.appendChild(text(link.label || link.url));
+                li.appendChild(a);
+                links.appendChild(li);
+            });
+            detailPanel.appendChild(links);
+        }
+
+        var itemsHeading = document.createElement('h3');
+        itemsHeading.appendChild(text('Exemplare'));
+        detailPanel.appendChild(itemsHeading);
+
+        if (record.items && record.items.length) {
+            var items = document.createElement('ul');
+            items.className = 'item-list';
+            record.items.forEach(function(item) {
+                var li = document.createElement('li');
+                li.appendChild(text([
+                    item.permanentCallNumber || item.callNumber,
+                    item.location,
+                    item.description,
+                    item.chronology,
+                    item.enumeration,
+                    item.status
+                ].filter(Boolean).join(' | ')));
+                items.appendChild(li);
+            });
+            detailPanel.appendChild(items);
+        } else {
+            var empty = document.createElement('p');
+            empty.className = 'search-meta';
+            empty.appendChild(text('Zu diesem Titel sind in den importierten Exemplardaten keine Exemplare verknüpft.'));
+            detailPanel.appendChild(empty);
+        }
+
+        var close = document.createElement('button');
+        close.type = 'button';
+        close.className = 'button-link';
+        close.appendChild(text('Detailansicht schließen'));
+        close.addEventListener('click', function() {
+            detailPanel.hidden = true;
+            detailPanel.innerHTML = '';
+        });
+        detailPanel.appendChild(close);
+
+        detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    Promise.all([
+        fetch('{{ site.baseurl }}/assets/data/bibliothek/search-docs.json').then(function(response) { return response.json(); }),
+        fetch('{{ site.baseurl }}/assets/data/bibliothek/records.json').then(function(response) { return response.json(); })
+    ]).then(function(values) {
+        searchDocs = values[0];
+        values[1].forEach(function(record) {
+            recordsById[record.id] = record;
+        });
+
+        renderSelectOptions(locationFilter, buildFacetValues(searchDocs, 'locations'));
+        renderSelectOptions(materialFilter, buildFacetValues(searchDocs, 'materialTypes'));
+        meta.textContent = searchDocs.length + ' Titel geladen. Bitte geben Sie einen Suchbegriff ein oder verwenden Sie die Filter.';
+        renderResults();
+    }).catch(function(error) {
+        console.error('Bibliotheksdaten konnten nicht geladen werden:', error);
+        meta.textContent = 'Die Bibliotheksdaten konnten nicht geladen werden.';
+    });
+
+    searchInput.addEventListener('input', renderResults);
+    locationFilter.addEventListener('change', renderResults);
+    materialFilter.addEventListener('change', renderResults);
+})();
+</script>
