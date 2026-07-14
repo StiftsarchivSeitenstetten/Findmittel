@@ -61,6 +61,7 @@ layout: default
 
     var searchDocs = [];
     var searchDocsById = {};
+    var currentResults = [];
     var recordsById = {};
     var chunkCache = {};
     var manifest = null;
@@ -466,6 +467,7 @@ layout: default
 
     function renderResults() {
         if (!hasActiveSearch()) {
+            currentResults = [];
             showResultsList();
             resultsContainer.innerHTML = '';
             detailPanel.hidden = true;
@@ -475,6 +477,7 @@ layout: default
         }
 
         var docs = filteredDocs();
+        currentResults = docs.slice(0, maxResults);
         showResultsList();
         resultsContainer.innerHTML = '';
         detailPanel.hidden = true;
@@ -482,7 +485,7 @@ layout: default
 
         meta.textContent = docs.length + ' Treffer. Angezeigt werden maximal ' + Math.min(maxResults, docs.length) + '.';
 
-        docs.slice(0, maxResults).forEach(function(doc) {
+        currentResults.forEach(function(doc) {
             var button = document.createElement('button');
             button.type = 'button';
             button.className = 'result-card';
@@ -590,6 +593,62 @@ layout: default
         detailPanel.appendChild(createRecordReferenceList(resolved.map(relationReference)));
     }
 
+    function resultIndexForId(id) {
+        return currentResults.findIndex(function(doc) {
+            return doc.id === id;
+        });
+    }
+
+    function createDetailNavigation(currentId) {
+        var currentIndex = resultIndexForId(currentId);
+        var nav = document.createElement('div');
+        nav.className = 'detail-navigation';
+
+        var previous = document.createElement('button');
+        previous.type = 'button';
+        previous.className = 'button-link';
+        previous.appendChild(text('Vorheriger Treffer'));
+        previous.disabled = currentIndex <= 0;
+        previous.addEventListener('click', function() {
+            if (currentIndex > 0) {
+                renderDetail(currentResults[currentIndex - 1].id);
+            }
+        });
+        nav.appendChild(previous);
+
+        var back = document.createElement('button');
+        back.type = 'button';
+        back.className = 'button-link';
+        back.appendChild(text('Zurück zur Trefferliste'));
+        back.addEventListener('click', function() {
+            detailPanel.hidden = true;
+            detailPanel.innerHTML = '';
+            showResultsList();
+        });
+        nav.appendChild(back);
+
+        var next = document.createElement('button');
+        next.type = 'button';
+        next.className = 'button-link';
+        next.appendChild(text('Nächster Treffer'));
+        next.disabled = currentIndex === -1 || currentIndex >= currentResults.length - 1;
+        next.addEventListener('click', function() {
+            if (currentIndex >= 0 && currentIndex < currentResults.length - 1) {
+                renderDetail(currentResults[currentIndex + 1].id);
+            }
+        });
+        nav.appendChild(next);
+
+        if (currentIndex >= 0) {
+            var position = document.createElement('span');
+            position.className = 'detail-navigation-position';
+            position.appendChild(text((currentIndex + 1) + ' von ' + currentResults.length));
+            nav.appendChild(position);
+        }
+
+        return nav;
+    }
+
     function renderDetail(id) {
         hideResultsList();
         detailPanel.hidden = false;
@@ -605,6 +664,7 @@ layout: default
             }
 
             detailPanel.innerHTML = '';
+            detailPanel.appendChild(createDetailNavigation(id));
 
             var heading = document.createElement('h3');
             heading.appendChild(text(record.title || 'Ohne Titel'));
@@ -685,16 +745,7 @@ layout: default
                 detailPanel.appendChild(empty);
             }
 
-            var close = document.createElement('button');
-            close.type = 'button';
-            close.className = 'button-link';
-            close.appendChild(text('Zurück zur Trefferliste'));
-            close.addEventListener('click', function() {
-                detailPanel.hidden = true;
-                detailPanel.innerHTML = '';
-                showResultsList();
-            });
-            detailPanel.appendChild(close);
+            detailPanel.appendChild(createDetailNavigation(id));
 
             detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
         }).catch(function(error) {
