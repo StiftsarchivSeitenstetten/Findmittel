@@ -423,6 +423,29 @@ table.dataTable tbody tr:hover {
     margin-top: 0;
 }
 
+.detail-navigation {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    justify-content: flex-start;
+    margin: 0 0 18px 0;
+}
+
+.detail-navigation:last-child {
+    margin: 22px 0 0 0;
+}
+
+.detail-navigation .button-link[disabled] {
+    cursor: not-allowed;
+    opacity: 0.45;
+}
+
+.detail-navigation-position {
+    color: var(--color-muted);
+    font-size: 10pt;
+}
+
 .detail-grid {
     display: grid;
     grid-template-columns: minmax(130px, 190px) 1fr;
