@@ -348,6 +348,11 @@ table.dataTable tbody tr:hover {
     margin-top: 22px;
 }
 
+.result-list[hidden],
+.result-list.is-hidden {
+    display: none;
+}
+
 .result-card {
     width: 100%;
     background: var(--color-paper);
