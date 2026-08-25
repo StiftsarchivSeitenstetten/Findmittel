@@ -167,6 +167,14 @@ layout: default
         return tags;
     }
 
+    function showResultsList() {
+        resultsContainer.classList.remove('is-hidden');
+    }
+
+    function hideResultsList() {
+        resultsContainer.classList.add('is-hidden');
+    }
+
     function renderResults() {
         var terms = normalize(searchInput.value).split(/\s+/).filter(Boolean);
         currentResults = records
@@ -175,6 +183,7 @@ layout: default
             })
             .sort(sortRecords);
 
+        showResultsList();
         resultsContainer.innerHTML = '';
         detailPanel.hidden = true;
         detailPanel.innerHTML = '';
@@ -251,21 +260,55 @@ layout: default
         return wrapper;
     }
 
-    function renderDetail(recordId) {
-        var record = recordsById[recordId];
-        if (!record) {
-            return;
-        }
+    function resultIndexForId(recordId) {
+        return currentResults.slice(0, maxResults).findIndex(function(record) {
+            return record.id === recordId;
+        });
+    }
 
-        detailPanel.innerHTML = '';
-        detailPanel.hidden = false;
-
-        var heading = document.createElement('h3');
-        heading.appendChild(text(recordComposer(record) ? recordComposer(record) + ': ' + recordTitle(record) : recordTitle(record)));
-        detailPanel.appendChild(heading);
-
+    function createDetailNavigation(recordId) {
+        var record = recordsById[recordId] || {};
+        var currentIndex = resultIndexForId(recordId);
+        var visibleResults = currentResults.slice(0, maxResults);
         var nav = document.createElement('div');
         nav.className = 'detail-navigation';
+
+        var previous = document.createElement('button');
+        previous.type = 'button';
+        previous.className = 'button-link';
+        previous.appendChild(text('Vorheriger Treffer'));
+        previous.disabled = currentIndex <= 0;
+        previous.addEventListener('click', function() {
+            if (currentIndex > 0) {
+                renderDetail(visibleResults[currentIndex - 1].id);
+            }
+        });
+        nav.appendChild(previous);
+
+        var back = document.createElement('button');
+        back.type = 'button';
+        back.className = 'button-link';
+        back.appendChild(text('Zurück zur Trefferliste'));
+        back.addEventListener('click', function() {
+            detailPanel.hidden = true;
+            detailPanel.innerHTML = '';
+            showResultsList();
+            resultsContainer.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        });
+        nav.appendChild(back);
+
+        var next = document.createElement('button');
+        next.type = 'button';
+        next.className = 'button-link';
+        next.appendChild(text('Nächster Treffer'));
+        next.disabled = currentIndex === -1 || currentIndex >= visibleResults.length - 1;
+        next.addEventListener('click', function() {
+            if (currentIndex >= 0 && currentIndex < visibleResults.length - 1) {
+                renderDetail(visibleResults[currentIndex + 1].id);
+            }
+        });
+        nav.appendChild(next);
+
         if (record.cardUrl) {
             var cardLink = document.createElement('a');
             cardLink.className = 'button-link';
@@ -275,7 +318,31 @@ layout: default
             cardLink.appendChild(text('Katalogkarte öffnen'));
             nav.appendChild(cardLink);
         }
-        detailPanel.appendChild(nav);
+
+        if (currentIndex >= 0) {
+            var position = document.createElement('span');
+            position.className = 'detail-navigation-position';
+            position.appendChild(text((currentIndex + 1) + ' von ' + visibleResults.length));
+            nav.appendChild(position);
+        }
+
+        return nav;
+    }
+
+    function renderDetail(recordId) {
+        var record = recordsById[recordId];
+        if (!record) {
+            return;
+        }
+
+        hideResultsList();
+        detailPanel.innerHTML = '';
+        detailPanel.hidden = false;
+        detailPanel.appendChild(createDetailNavigation(recordId));
+
+        var heading = document.createElement('h3');
+        heading.appendChild(text(recordComposer(record) ? recordComposer(record) + ': ' + recordTitle(record) : recordTitle(record)));
+        detailPanel.appendChild(heading);
 
         var list = document.createElement('dl');
         list.className = 'detail-grid';
@@ -313,6 +380,7 @@ layout: default
             detailPanel.appendChild(workList);
         }
 
+        detailPanel.appendChild(createDetailNavigation(recordId));
         detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
     }
 
