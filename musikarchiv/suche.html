@@ -1,0 +1,359 @@
+---
+layout: default
+---
+
+<p><a class="back-link" href="{{ site.baseurl }}/musikarchiv/">&larr; Zurück zum Musikarchiv</a></p>
+
+<h2>Musikalien-Suche</h2>
+<p>Durchsuchen Sie die erschlossenen Katalogkarten des Musikalienkatalogs. Die Treffer sind nach Bestandseinheiten bzw. Signaturen gegliedert; die normalisierten Werke und Werkarten erscheinen in der Detailansicht.</p>
+
+<section class="search-panel" aria-label="Musikalien durchsuchen">
+    <div class="search-controls">
+        <div class="search-field">
+            <label for="musicSearch">Suchbegriff</label>
+            <input id="musicSearch" type="search" autocomplete="off" placeholder="Komponist, Titel, Signatur, Besetzung">
+        </div>
+        <div class="filter-field">
+            <label for="letterFilter">Buchstabe</label>
+            <select id="letterFilter">
+                <option value="">Alle Buchstaben</option>
+            </select>
+        </div>
+        <div class="filter-field">
+            <label for="workTypeFilter">Werkart</label>
+            <select id="workTypeFilter">
+                <option value="">Alle Werkarten</option>
+            </select>
+        </div>
+        <div class="filter-field">
+            <label for="materialFilter">Material</label>
+            <select id="materialFilter">
+                <option value="">Alle Materialien</option>
+            </select>
+        </div>
+        <div class="filter-field">
+            <label for="voicesFilter">Stimmen</label>
+            <select id="voicesFilter">
+                <option value="">Alle Status</option>
+            </select>
+        </div>
+        <div class="filter-field">
+            <label for="attributionFilter">Zuschreibung</label>
+            <select id="attributionFilter">
+                <option value="">Alle Zuschreibungen</option>
+            </select>
+        </div>
+    </div>
+    <p id="musicMeta" class="search-meta">Daten werden geladen ...</p>
+</section>
+
+<div id="musicResults" class="result-list" aria-live="polite"></div>
+
+<section id="musicDetail" class="detail-panel" hidden aria-live="polite"></section>
+
+<script>
+(function() {
+    var searchInput = document.getElementById('musicSearch');
+    var letterFilter = document.getElementById('letterFilter');
+    var workTypeFilter = document.getElementById('workTypeFilter');
+    var materialFilter = document.getElementById('materialFilter');
+    var voicesFilter = document.getElementById('voicesFilter');
+    var attributionFilter = document.getElementById('attributionFilter');
+    var meta = document.getElementById('musicMeta');
+    var resultsContainer = document.getElementById('musicResults');
+    var detailPanel = document.getElementById('musicDetail');
+
+    var records = [];
+    var recordsById = {};
+    var currentResults = [];
+    var maxResults = 100;
+    var collator = new Intl.Collator('de', { numeric: true, sensitivity: 'base' });
+
+    function normalize(value) {
+        return String(value || '')
+            .toLowerCase()
+            .normalize('NFD')
+            .replace(/[\u0300-\u036f]/g, '');
+    }
+
+    function text(value) {
+        return document.createTextNode(value || '');
+    }
+
+    function hasValue(value) {
+        return value !== undefined && value !== null && String(value).trim() !== '';
+    }
+
+    function join(values) {
+        return values.filter(hasValue).join(' | ');
+    }
+
+    function appendField(list, label, value) {
+        if (!hasValue(value) || (Array.isArray(value) && value.length === 0)) {
+            return;
+        }
+
+        var dt = document.createElement('dt');
+        dt.appendChild(text(label));
+        var dd = document.createElement('dd');
+        dd.appendChild(text(Array.isArray(value) ? value.join('; ') : value));
+        list.appendChild(dt);
+        list.appendChild(dd);
+    }
+
+    function appendOption(select, value, label) {
+        var option = document.createElement('option');
+        option.value = value;
+        option.appendChild(text(label || value));
+        select.appendChild(option);
+    }
+
+    function populateSelect(select, values, labelFn) {
+        values.forEach(function(value) {
+            appendOption(select, value, labelFn ? labelFn(value) : value);
+        });
+    }
+
+    function recordTitle(record) {
+        return record.titleCard || record.normalizedTitles.join('; ') || 'Ohne Titel';
+    }
+
+    function recordComposer(record) {
+        return record.composerCard || record.normalizedComposers.join('; ');
+    }
+
+    function recordMatchesSearch(record, terms) {
+        if (terms.length === 0) {
+            return true;
+        }
+        var haystack = record.normalizedSearchText || normalize(record.searchText);
+        return terms.every(function(term) {
+            return haystack.indexOf(term) !== -1;
+        });
+    }
+
+    function recordMatchesFilters(record) {
+        if (letterFilter.value && record.letter !== letterFilter.value) {
+            return false;
+        }
+        if (materialFilter.value && record.materialType !== materialFilter.value) {
+            return false;
+        }
+        if (voicesFilter.value && record.voicesAvailable !== voicesFilter.value) {
+            return false;
+        }
+        if (workTypeFilter.value && record.workTypes.indexOf(workTypeFilter.value) === -1) {
+            return false;
+        }
+        if (attributionFilter.value && record.workAttributions.indexOf(attributionFilter.value) === -1) {
+            return false;
+        }
+        return true;
+    }
+
+    function sortRecords(a, b) {
+        return collator.compare(a.id, b.id);
+    }
+
+    function createTags(values) {
+        var tags = document.createElement('div');
+        tags.className = 'result-tags';
+        values.filter(hasValue).slice(0, 8).forEach(function(value) {
+            var tag = document.createElement('span');
+            tag.className = 'result-tag';
+            tag.appendChild(text(value));
+            tags.appendChild(tag);
+        });
+        return tags;
+    }
+
+    function renderResults() {
+        var terms = normalize(searchInput.value).split(/\s+/).filter(Boolean);
+        currentResults = records
+            .filter(function(record) {
+                return recordMatchesFilters(record) && recordMatchesSearch(record, terms);
+            })
+            .sort(sortRecords);
+
+        resultsContainer.innerHTML = '';
+        detailPanel.hidden = true;
+        detailPanel.innerHTML = '';
+
+        meta.textContent = currentResults.length + ' Treffer in ' + records.length + ' Bestandseinheiten';
+        if (currentResults.length > maxResults) {
+            meta.textContent += ' - angezeigt werden die ersten ' + maxResults + '.';
+        }
+
+        if (currentResults.length === 0) {
+            var empty = document.createElement('p');
+            empty.className = 'search-meta';
+            empty.appendChild(text('Keine Treffer gefunden.'));
+            resultsContainer.appendChild(empty);
+            return;
+        }
+
+        currentResults.slice(0, maxResults).forEach(function(record) {
+            var button = document.createElement('button');
+            button.type = 'button';
+            button.className = 'result-card';
+            button.addEventListener('click', function() {
+                renderDetail(record.id);
+            });
+
+            var heading = document.createElement('h3');
+            heading.appendChild(text(recordComposer(record) ? recordComposer(record) + ': ' + recordTitle(record) : recordTitle(record)));
+            button.appendChild(heading);
+
+            var line = document.createElement('p');
+            line.className = 'result-meta';
+            line.appendChild(text(join([record.id, record.signature, record.materialType, record.scoringCard])));
+            button.appendChild(line);
+
+            button.appendChild(createTags(record.workTypes.concat(record.workAttributions)));
+            resultsContainer.appendChild(button);
+        });
+    }
+
+    function renderWorkList(record) {
+        if (!record.works || record.works.length === 0) {
+            return null;
+        }
+
+        var wrapper = document.createElement('div');
+        var heading = document.createElement('h3');
+        heading.appendChild(text('Normalisierte Werke'));
+        wrapper.appendChild(heading);
+
+        record.works.forEach(function(work) {
+            var disclosure = document.createElement('details');
+            disclosure.className = 'detail-disclosure';
+            disclosure.open = record.works.length === 1;
+
+            var summary = document.createElement('summary');
+            summary.appendChild(text(join([work.composer, work.title, work.key, work.catalogNumber]) || work.id));
+            disclosure.appendChild(summary);
+
+            var list = document.createElement('dl');
+            list.className = 'detail-grid';
+            appendField(list, 'Werk-ID', work.id);
+            appendField(list, 'Komponist', work.composer);
+            appendField(list, 'Werktitel', work.title);
+            appendField(list, 'Zuschreibung', work.attribution);
+            appendField(list, 'Tonart', work.key);
+            appendField(list, 'Werkverzeichnis', work.catalogNumber);
+            appendField(list, 'Werkart', work.types);
+            appendField(list, 'Bemerkung', work.note);
+            appendField(list, 'Beziehung', join([work.link && work.link.level, work.link && work.link.relationship, work.link && work.link.note]));
+            disclosure.appendChild(list);
+            wrapper.appendChild(disclosure);
+        });
+
+        return wrapper;
+    }
+
+    function renderDetail(recordId) {
+        var record = recordsById[recordId];
+        if (!record) {
+            return;
+        }
+
+        detailPanel.innerHTML = '';
+        detailPanel.hidden = false;
+
+        var heading = document.createElement('h3');
+        heading.appendChild(text(recordComposer(record) ? recordComposer(record) + ': ' + recordTitle(record) : recordTitle(record)));
+        detailPanel.appendChild(heading);
+
+        var nav = document.createElement('div');
+        nav.className = 'detail-navigation';
+        if (record.cardUrl) {
+            var cardLink = document.createElement('a');
+            cardLink.className = 'button-link';
+            cardLink.href = record.cardUrl;
+            cardLink.target = '_blank';
+            cardLink.rel = 'noopener';
+            cardLink.appendChild(text('Katalogkarte öffnen'));
+            nav.appendChild(cardLink);
+        }
+        detailPanel.appendChild(nav);
+
+        var list = document.createElement('dl');
+        list.className = 'detail-grid';
+        appendField(list, 'Bestand-ID', record.id);
+        appendField(list, 'Signatur', record.signature);
+        appendField(list, 'PDF-Seite', record.pdfPage);
+        appendField(list, 'Komponist laut Karte', record.composerCard);
+        appendField(list, 'Titel laut Karte', record.titleCard);
+        appendField(list, 'Besetzung laut Karte', record.scoringCard);
+        appendField(list, 'Stimmenzahl', record.voiceCount);
+        appendField(list, 'Materialart', record.materialType);
+        appendField(list, 'Partitur', record.hasScore);
+        appendField(list, 'Stimmen vorhanden', record.voicesAvailable);
+        appendField(list, 'Umfang', record.extent);
+        appendField(list, 'Maße', record.dimensions);
+        appendField(list, 'Druckangaben', record.printing);
+        appendField(list, 'Datierung Quelle', record.sourceDate);
+        appendField(list, 'Aufführungsdaten', record.performanceDateText || join([record.performanceDateStart, record.performanceDateEnd]));
+        appendField(list, 'Provenienz', record.provenance);
+        appendField(list, 'Vollständigkeit', record.completeness);
+        appendField(list, 'Handschriftlicher Nachtrag', record.handwrittenAddition);
+        appendField(list, 'Moderner Kommentar', record.modernNote);
+        appendField(list, 'Prüfstatus', record.reviewStatus);
+        detailPanel.appendChild(list);
+
+        if (record.cardText) {
+            var note = document.createElement('p');
+            note.className = 'relationship-note';
+            note.appendChild(text(record.cardText));
+            detailPanel.appendChild(note);
+        }
+
+        var workList = renderWorkList(record);
+        if (workList) {
+            detailPanel.appendChild(workList);
+        }
+
+        detailPanel.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+
+    function init(payload) {
+        records = payload.records || [];
+        records.forEach(function(record) {
+            record.workTypes = record.workTypes || [];
+            record.workAttributions = record.workAttributions || [];
+            record.normalizedComposers = record.normalizedComposers || [];
+            record.normalizedTitles = record.normalizedTitles || [];
+            record.normalizedSearchText = normalize(record.searchText);
+            recordsById[record.id] = record;
+        });
+
+        populateSelect(letterFilter, payload.facets.letters || [], function(value) {
+            var count = payload.metadata.letterCounts && payload.metadata.letterCounts[value];
+            return count ? value + ' (' + count + ')' : value;
+        });
+        populateSelect(workTypeFilter, payload.facets.workTypes || []);
+        populateSelect(materialFilter, payload.facets.materialTypes || []);
+        populateSelect(voicesFilter, payload.facets.voicesAvailable || []);
+        populateSelect(attributionFilter, payload.facets.workAttributions || []);
+
+        [searchInput, letterFilter, workTypeFilter, materialFilter, voicesFilter, attributionFilter].forEach(function(input) {
+            input.addEventListener('input', renderResults);
+            input.addEventListener('change', renderResults);
+        });
+
+        renderResults();
+    }
+
+    fetch('{{ site.baseurl }}/assets/data/musikarchiv/search-data.json')
+        .then(function(response) {
+            if (!response.ok) {
+                throw new Error('HTTP ' + response.status);
+            }
+            return response.json();
+        })
+        .then(init)
+        .catch(function() {
+            meta.textContent = 'Die Suchdaten konnten nicht geladen werden.';
+        });
+})();
+</script>
