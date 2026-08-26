@@ -576,6 +576,24 @@ table.dataTable tbody tr:hover {
     outline: none;
 }
 
+.button-link-secondary {
+    background: #ffffff;
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-red-dark);
+    cursor: pointer;
+    font: inherit;
+    font-weight: bold;
+    padding: 8px 12px;
+}
+
+.button-link-secondary:hover,
+.button-link-secondary:focus {
+    border-color: var(--color-red);
+    color: var(--color-red);
+    outline: none;
+}
+
 .archive-browser {
     margin-top: 24px;
 }
@@ -821,6 +839,67 @@ table.dataTable tbody tr:hover {
     margin-top: 4px;
 }
 
+.correspondence-search {
+    margin-top: 24px;
+}
+
+.correspondence-search-panel {
+    background: var(--color-paper);
+    border: 1px solid var(--color-border);
+    border-top: 4px solid var(--color-gold);
+    border-radius: 4px;
+    box-shadow: 0 3px 12px rgba(58, 42, 28, 0.05);
+    padding: 20px;
+}
+
+.correspondence-search-controls {
+    align-items: end;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+
+.correspondence-wide-field {
+    grid-column: span 2;
+}
+
+.correspondence-actions {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 9px;
+}
+
+.correspondence-results {
+    display: grid;
+    gap: 14px;
+    margin-top: 22px;
+}
+
+.correspondence-result-card {
+    background: var(--color-paper);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(58, 42, 28, 0.04);
+    padding: 18px 20px;
+}
+
+.correspondence-result-card h3 {
+    color: var(--color-red-dark);
+    font-size: 15pt;
+    margin: 0 0 6px 0;
+}
+
+.correspondence-line {
+    margin: 8px 0;
+    white-space: pre-line;
+}
+
+.correspondence-tree-link {
+    display: inline-block;
+    margin-top: 8px;
+}
+
 footer {
     margin-top: 80px;
     padding-top: 30px;
@@ -899,10 +978,15 @@ footer {
 
     .search-controls,
     .archive-search-controls,
+    .correspondence-search-controls,
     .detail-grid,
     .archive-browser-layout,
     .archive-detail-grid {
         grid-template-columns: 1fr;
+    }
+
+    .correspondence-wide-field {
+        grid-column: auto;
     }
 
     .archive-browser-toolbar {
@@ -936,12 +1020,14 @@ footer {
 
 @media (min-width: 641px) and (max-width: 980px) {
     .search-controls,
-    .archive-search-controls {
+    .archive-search-controls,
+    .correspondence-search-controls {
         grid-template-columns: repeat(2, minmax(0, 1fr));
     }
 
     .search-field,
-    .archive-search-field {
+    .archive-search-field,
+    .correspondence-wide-field {
         grid-column: 1 / -1;
     }
 }

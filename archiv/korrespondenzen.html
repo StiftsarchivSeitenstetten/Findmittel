@@ -1,151 +1,53 @@
 ---
 layout: default
-datatables: true
 ---
 
 <p><a class="back-link" href="{{ site.baseurl }}/archiv/">&larr; Zurück zur Archivübersicht</a></p>
 
-<h2>Übergreifendes Findmittel: Korrespondenzen</h2>
-<p>Die interaktive Korrespondenzdatenbank führt Erschließungsdaten aus der Korrespondenzüberlieferung und aus der Autographensammlung in einer gemeinsamen Suchansicht zusammen.</p>
+<h2>Korrespondenzen durchsuchen</h2>
+<p>Dieses Spezialfindmittel führt Korrespondenzdaten aus der Korrespondenzüberlieferung und der Autographensammlung zusammen.</p>
 
-<div class="table-panel">
-    <table id="correspondenceTable" class="display data-table">
-        <thead>
-            <tr>
-                <th>Quelle</th>
-                <th>Signatur</th>
-                <th>Kategorie</th>
-                <th>Schreiber</th>
-                <th>Empfänger</th>
-                <th>Datierung</th>
-                <th>Ort</th>
-                <th>Regest / Bemerkung</th>
-            </tr>
-        </thead>
-        <tbody></tbody>
-    </table>
-</div>
+<section class="correspondence-search" data-correspondence-search data-data-url="{{ site.baseurl }}/assets/data/archiv/correspondence-data.json" data-tree-url="{{ site.baseurl }}/archiv/archivbaum/">
+    <form class="correspondence-search-panel" data-correspondence-form>
+        <div class="correspondence-search-controls">
+            <label>
+                Absender
+                <input type="search" data-field="sender" autocomplete="off">
+            </label>
+            <label>
+                Empfänger
+                <input type="search" data-field="recipient" autocomplete="off">
+            </label>
+            <label>
+                Von
+                <input type="search" data-field="from" inputmode="numeric" placeholder="1896 oder 23.11.1896">
+            </label>
+            <label>
+                Bis
+                <input type="search" data-field="to" inputmode="numeric" placeholder="1896-11">
+            </label>
+            <label class="correspondence-wide-field">
+                Volltext
+                <input type="search" data-field="text" autocomplete="off">
+            </label>
+            <label>
+                Ort
+                <input type="search" data-field="place" autocomplete="off">
+            </label>
+            <label>
+                Kategorie
+                <select data-field="category">
+                    <option value="">Alle Kategorien</option>
+                </select>
+            </label>
+            <div class="correspondence-actions">
+                <button type="submit" class="button-link">Suchen</button>
+                <button type="button" class="button-link-secondary" data-correspondence-reset>Zurücksetzen</button>
+            </div>
+        </div>
+        <p class="search-meta" data-correspondence-status>Korrespondenzdaten werden geladen ...</p>
+    </form>
+    <div class="correspondence-results" data-correspondence-results aria-live="polite"></div>
+</section>
 
-<script src="https://code.jquery.com/jquery-3.7.0.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.4.1/papaparse.min.js"></script>
-<script src="https://cdn.datatables.net/plug-ins/1.13.6/sorting/natural.min.js"></script>
-
-<script>
-$(document).ready(function() {
-    var sources = [
-        {
-            label: 'Korrespondenzen',
-            url: '{{ site.baseurl }}/Korrespondenz_Archiverschliessung.csv'
-        },
-        {
-            label: 'Autographen',
-            url: '{{ site.baseurl }}/Autographenexport.csv'
-        }
-    ];
-
-    function getValue(row, keys) {
-        for (var i = 0; i < keys.length; i++) {
-            if (row[keys[i]]) {
-                return row[keys[i]];
-            }
-
-            var bomKey = '\ufeff' + keys[i];
-            if (row[bomKey]) {
-                return row[bomKey];
-            }
-        }
-
-        return '';
-    }
-
-    function formatDate(value) {
-        if (/^\d{8}$/.test(value)) {
-            return value.substring(6, 8) + '.' + value.substring(4, 6) + '.' + value.substring(0, 4);
-        }
-
-        return value;
-    }
-
-    function parseSource(source) {
-        return new Promise(function(resolve, reject) {
-            Papa.parse(source.url, {
-                download: true,
-                delimiter: ';',
-                header: true,
-                skipEmptyLines: true,
-                error: function(err) {
-                    reject(err);
-                },
-                complete: function(results) {
-                    var normalized = results.data.map(function(row) {
-                        var regest = getValue(row, ['Regest']);
-                        var bemerkungen = getValue(row, ['Bemerkungen']);
-                        var olim = getValue(row, ['Olim']);
-                        var beschreibung = regest;
-
-                        if (bemerkungen) {
-                            beschreibung = beschreibung ? beschreibung + ' | ' + bemerkungen : bemerkungen;
-                        }
-
-                        if (olim) {
-                            beschreibung = beschreibung ? beschreibung + ' | Olim: ' + olim : 'Olim: ' + olim;
-                        }
-
-                        var datierung = getValue(row, ['Datierung']);
-
-                        return {
-                            quelle: source.label,
-                            signatur: getValue(row, ['Signatur', 'ErzeugteSignatur', 'SignaturUeberordnung']),
-                            kategorie: getValue(row, ['Kategorie']),
-                            schreiber: getValue(row, ['Schreiber']),
-                            empfaenger: getValue(row, ['Empfaenger']),
-                            datierung: formatDate(datierung),
-                            datierungSort: datierung,
-                            ort: getValue(row, ['Ort']),
-                            beschreibung: beschreibung
-                        };
-                    });
-
-                    resolve(normalized);
-                }
-            });
-        });
-    }
-
-    Promise.all(sources.map(parseSource))
-        .then(function(sourceRows) {
-            var rows = [].concat.apply([], sourceRows);
-            var tableBody = $('#correspondenceTable tbody');
-
-            rows.forEach(function(row) {
-                if (row.signatur || row.schreiber || row.empfaenger || row.beschreibung) {
-                    var tr = $('<tr>');
-                    tr.append($('<td>').append($('<span>').addClass('source-label').text(row.quelle)));
-                    tr.append($('<td>').text(row.signatur));
-                    tr.append($('<td>').text(row.kategorie));
-                    tr.append($('<td>').text(row.schreiber));
-                    tr.append($('<td>').text(row.empfaenger));
-                    tr.append($('<td>').attr('data-order', row.datierungSort).text(row.datierung));
-                    tr.append($('<td>').text(row.ort));
-                    tr.append($('<td>').append($('<div>').addClass('text-preview').attr('title', row.beschreibung).text(row.beschreibung)));
-                    tableBody.append(tr);
-                }
-            });
-
-            $('#correspondenceTable').DataTable({
-                "language": {
-                    "url": "https://cdn.datatables.net/plug-ins/1.13.6/i18n/de-DE.json"
-                },
-                "pageLength": 25,
-                "order": [[5, "asc"]],
-                "columnDefs": [
-                    { "type": "natural", "targets": 1 }
-                ]
-            });
-        })
-        .catch(function(err) {
-            console.error("CSV-Ladefehler:", err);
-        });
-});
-</script>
+<script src="{{ site.baseurl }}/assets/js/correspondence-search.js" defer></script>

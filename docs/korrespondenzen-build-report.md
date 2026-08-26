@@ -1,0 +1,468 @@
+# Korrespondenz-Findmittel: Build-Prüfbericht
+
+Generiert: 2026-08-26T13:58:20+00:00
+
+## Zusammenfassung
+
+- Autographendatensätze eingelesen: 217
+- Korrespondenz-Blattzeilen eingelesen: 243
+- Aus Quelle B als Korrespondenz übernommen: 196
+- Aus Quelle B ausgeschlossen: 47
+- Sichere Dubletten über eigene Signatur: 0
+- Veröffentlichte Datensätze: 413
+- Datensätze mit eigener Signatur: 246
+- Exakte Treffer im Archivbaum: 29
+- Datensätze ohne eigene Signatur: 167
+
+## Einbezogene Kategorien aus Quelle B
+
+- Amtliches Schreiben: 1
+- Ansuchen um Aufnahme ins Kloster: 1
+- Brief: 168
+- Entwurf: 2
+- Karte: 22
+- Visitenkarte: 2
+
+## Ausgeschlossene Kategorien aus Quelle B
+
+- Bestätigung: 2
+- Ernennung: 2
+- Fragment: 1
+- Gutachten: 1
+- Gymnasialzeugnis: 16
+- Jurisdiktion: 1
+- Litterae Testimoniales: 1
+- Matrikelschein: 1
+- Maturazeugnis: 1
+- Primizbild: 1
+- Skrutinium: 1
+- Studienbestätigung: 1
+- Vermögensregelung: 2
+- Weiheurkunde: 2
+- Zeugnis: 12
+- Zulassung: 2
+
+## Einbezogene Kategorien aus Autographen
+
+- (ohne Kategorie): 2
+- Ausweis: 1
+- Brief: 74
+- Foto: 1
+- Fragment: 30
+- Karte: 28
+- Partezettel: 4
+- Sterbebildchen: 2
+- Visitenkarte: 75
+
+## Warnungen
+
+- missingCategory: 2
+- missingOwnSignature: 167
+- missingRecipient: 169
+- missingSender: 8
+- signatureWithoutArchiveMatch: 217
+- uninterpretableDate: 4
+
+## Geprüfte Zweifelsfälle
+
+- Bestätigung: ausgeschlossen (Kein eindeutig als kommunikatives Schreiben erkennbarer Korrespondenzcharakter in Kategorie/Regest/Bemerkung.)
+- Gutachten: ausgeschlossen (Kein eindeutig als kommunikatives Schreiben erkennbarer Korrespondenzcharakter in Kategorie/Regest/Bemerkung.)
+- Bestätigung: ausgeschlossen (Kein eindeutig als kommunikatives Schreiben erkennbarer Korrespondenzcharakter in Kategorie/Regest/Bemerkung.)
+- Fragment: ausgeschlossen (Kein eindeutig als kommunikatives Schreiben erkennbarer Korrespondenzcharakter in Kategorie/Regest/Bemerkung.)
+
+## Signaturen ohne Archivbaum-Match
+
+- 9.6.1 (Autographen, autographen:0001)
+- 9.6.2 (Autographen, autographen:0002)
+- 9.6.3 (Autographen, autographen:0003)
+- 9.6.4 (Autographen, autographen:0004)
+- 9.6.5 (Autographen, autographen:0005)
+- 9.6.6 (Autographen, autographen:0006)
+- 9.6.7 (Autographen, autographen:0007)
+- 9.6.8 (Autographen, autographen:0008)
+- 9.6.9 (Autographen, autographen:0009)
+- 9.6.10 (Autographen, autographen:0010)
+- 9.6.11 (Autographen, autographen:0011)
+- 9.6.12 (Autographen, autographen:0012)
+- 9.6.13 (Autographen, autographen:0013)
+- 9.6.14 (Autographen, autographen:0014)
+- 9.6.15 (Autographen, autographen:0015)
+- 9.6.16 (Autographen, autographen:0016)
+- 9.6.17 (Autographen, autographen:0017)
+- 9.6.18 (Autographen, autographen:0018)
+- 9.6.19 (Autographen, autographen:0019)
+- 9.6.20 (Autographen, autographen:0020)
+- 9.6.21 (Autographen, autographen:0021)
+- 9.6.22 (Autographen, autographen:0022)
+- 9.6.23 (Autographen, autographen:0023)
+- 9.6.24 (Autographen, autographen:0024)
+- 9.6.25 (Autographen, autographen:0025)
+- 9.6.26 (Autographen, autographen:0026)
+- 9.6.27 (Autographen, autographen:0027)
+- 9.6.28 (Autographen, autographen:0028)
+- 9.6.29 (Autographen, autographen:0029)
+- 9.6.30 (Autographen, autographen:0030)
+- 9.6.31 (Autographen, autographen:0031)
+- 9.6.32 (Autographen, autographen:0032)
+- 9.6.33 (Autographen, autographen:0033)
+- 9.6.34 (Autographen, autographen:0034)
+- 9.6.35 (Autographen, autographen:0035)
+- 9.6.36 (Autographen, autographen:0036)
+- 9.6.37 (Autographen, autographen:0037)
+- 9.6.38 (Autographen, autographen:0038)
+- 9.6.39 (Autographen, autographen:0039)
+- 9.6.40 (Autographen, autographen:0040)
+- 9.6.41 (Autographen, autographen:0041)
+- 9.6.42 (Autographen, autographen:0042)
+- 9.6.43 (Autographen, autographen:0043)
+- 9.6.44 (Autographen, autographen:0044)
+- 9.6.45 (Autographen, autographen:0045)
+- 9.6.46 (Autographen, autographen:0046)
+- 9.6.47 (Autographen, autographen:0047)
+- 9.6.48 (Autographen, autographen:0048)
+- 9.6.49 (Autographen, autographen:0049)
+- 9.6.50 (Autographen, autographen:0050)
+- 9.6.51 (Autographen, autographen:0051)
+- 9.6.52 (Autographen, autographen:0052)
+- 9.6.53 (Autographen, autographen:0053)
+- 9.6.54 (Autographen, autographen:0054)
+- 9.6.55 (Autographen, autographen:0055)
+- 9.6.56 (Autographen, autographen:0056)
+- 9.6.57 (Autographen, autographen:0057)
+- 9.6.58 (Autographen, autographen:0058)
+- 9.6.59 (Autographen, autographen:0059)
+- 9.6.60 (Autographen, autographen:0060)
+- 9.6.61 (Autographen, autographen:0061)
+- 9.6.62 (Autographen, autographen:0062)
+- 9.6.63 (Autographen, autographen:0063)
+- 9.6.64 (Autographen, autographen:0064)
+- 9.6.65 (Autographen, autographen:0065)
+- 9.6.66 (Autographen, autographen:0066)
+- 9.6.67 (Autographen, autographen:0067)
+- 9.6.68 (Autographen, autographen:0068)
+- 9.6.69 (Autographen, autographen:0069)
+- 9.6.70 (Autographen, autographen:0070)
+- 9.6.71 (Autographen, autographen:0071)
+- 9.6.72 (Autographen, autographen:0072)
+- 9.6.73 (Autographen, autographen:0073)
+- 9.6.74 (Autographen, autographen:0074)
+- 9.6.75 (Autographen, autographen:0075)
+- 9.6.76 (Autographen, autographen:0076)
+- 9.6.77 (Autographen, autographen:0077)
+- 9.6.78 (Autographen, autographen:0078)
+- 9.6.79 (Autographen, autographen:0079)
+- 9.6.80 (Autographen, autographen:0080)
+- 9.6.81 (Autographen, autographen:0081)
+- 9.6.82 (Autographen, autographen:0082)
+- 9.6.83 (Autographen, autographen:0083)
+- 9.6.84 (Autographen, autographen:0084)
+- 9.6.85 (Autographen, autographen:0085)
+- 9.6.86 (Autographen, autographen:0086)
+- 9.6.87 (Autographen, autographen:0087)
+- 9.6.88 (Autographen, autographen:0088)
+- 9.6.89 (Autographen, autographen:0089)
+- 9.6.90 (Autographen, autographen:0090)
+- 9.6.91 (Autographen, autographen:0091)
+- 9.6.92 (Autographen, autographen:0092)
+- 9.6.93 (Autographen, autographen:0093)
+- 9.6.94 (Autographen, autographen:0094)
+- 9.6.95 (Autographen, autographen:0095)
+- 9.6.96 (Autographen, autographen:0096)
+- 9.6.97 (Autographen, autographen:0097)
+- 9.6.98 (Autographen, autographen:0098)
+- 9.6.99 (Autographen, autographen:0099)
+- 9.6.100 (Autographen, autographen:0100)
+- 9.6.101 (Autographen, autographen:0101)
+- 9.6.102 (Autographen, autographen:0102)
+- 9.6.102a (Autographen, autographen:0103)
+- 9.6.102b (Autographen, autographen:0104)
+- 9.6.103 (Autographen, autographen:0105)
+- 9.6.104 (Autographen, autographen:0106)
+- 9.6.105 (Autographen, autographen:0107)
+- 9.6.106 (Autographen, autographen:0108)
+- 9.6.107 (Autographen, autographen:0109)
+- 9.6.108 (Autographen, autographen:0110)
+- 9.6.109 (Autographen, autographen:0111)
+- 9.6.110 (Autographen, autographen:0112)
+- 9.6.111 (Autographen, autographen:0113)
+- 9.6.112 (Autographen, autographen:0114)
+- 9.6.113 (Autographen, autographen:0115)
+- 9.6.114 (Autographen, autographen:0116)
+- 9.6.115 (Autographen, autographen:0117)
+- 9.6.116 (Autographen, autographen:0118)
+- 9.6.117 (Autographen, autographen:0119)
+- 9.6.118 (Autographen, autographen:0120)
+- 9.6.119 (Autographen, autographen:0121)
+- 9.6.120 (Autographen, autographen:0122)
+- 9.6.121 (Autographen, autographen:0123)
+- 9.6.122 (Autographen, autographen:0124)
+- 9.6.123 (Autographen, autographen:0125)
+- 9.6.124 (Autographen, autographen:0126)
+- 9.6.125 (Autographen, autographen:0127)
+- 9.6.126 (Autographen, autographen:0128)
+- 9.6.127 (Autographen, autographen:0129)
+- 9.6.128 (Autographen, autographen:0130)
+- 9.6.129 (Autographen, autographen:0131)
+- 9.6.130 (Autographen, autographen:0132)
+- 9.6.131 (Autographen, autographen:0133)
+- 9.6.132 (Autographen, autographen:0134)
+- 9.6.133 (Autographen, autographen:0135)
+- 9.6.134 (Autographen, autographen:0136)
+- 9.6.135 (Autographen, autographen:0137)
+- 9.6.136 (Autographen, autographen:0138)
+- 9.6.137 (Autographen, autographen:0139)
+- 9.6.138 (Autographen, autographen:0140)
+- 9.6.139 (Autographen, autographen:0141)
+- 9.6.140 (Autographen, autographen:0142)
+- 9.6.141 (Autographen, autographen:0143)
+- 9.6.142 (Autographen, autographen:0144)
+- 9.6.143 (Autographen, autographen:0145)
+- 9.6.144 (Autographen, autographen:0146)
+- 9.6.145 (Autographen, autographen:0147)
+- 9.6.146 (Autographen, autographen:0148)
+- 9.6.147 (Autographen, autographen:0149)
+- 9.6.148 (Autographen, autographen:0150)
+- 9.6.149 (Autographen, autographen:0151)
+- 9.6.150 (Autographen, autographen:0152)
+- 9.6.151 (Autographen, autographen:0153)
+- 9.6.152 (Autographen, autographen:0154)
+- 9.6.153 (Autographen, autographen:0155)
+- 9.6.154 (Autographen, autographen:0156)
+- 9.6.155 (Autographen, autographen:0157)
+- 9.6.156 (Autographen, autographen:0158)
+- 9.6.157 (Autographen, autographen:0159)
+- 9.6.158 (Autographen, autographen:0160)
+- 9.6.159 (Autographen, autographen:0161)
+- 9.6.160 (Autographen, autographen:0162)
+- 9.6.161 (Autographen, autographen:0163)
+- 9.6.162 (Autographen, autographen:0164)
+- 9.6.163 (Autographen, autographen:0165)
+- 9.6.164 (Autographen, autographen:0166)
+- 9.6.165 (Autographen, autographen:0167)
+- 9.6.166 (Autographen, autographen:0168)
+- 9.6.167 (Autographen, autographen:0169)
+- 9.6.168 (Autographen, autographen:0170)
+- 9.6.169 (Autographen, autographen:0171)
+- 9.6.170 (Autographen, autographen:0172)
+- 9.6.171 (Autographen, autographen:0173)
+- 9.6.172 (Autographen, autographen:0174)
+- 9.6.173 (Autographen, autographen:0175)
+- 9.6.174 (Autographen, autographen:0176)
+- 9.6.175 (Autographen, autographen:0177)
+- 9.6.176 (Autographen, autographen:0178)
+- 9.6.177 (Autographen, autographen:0179)
+- 9.6.178 (Autographen, autographen:0180)
+- 9.6.179 (Autographen, autographen:0181)
+- 9.6.180 (Autographen, autographen:0182)
+- 9.6.181 (Autographen, autographen:0183)
+- 9.6.182 (Autographen, autographen:0184)
+- 9.6.183 (Autographen, autographen:0185)
+- 9.6.184 (Autographen, autographen:0186)
+- 9.6.185 (Autographen, autographen:0187)
+- 9.6.186 (Autographen, autographen:0188)
+- 9.6.187 (Autographen, autographen:0189)
+- 9.6.188 (Autographen, autographen:0190)
+- 9.6.189 (Autographen, autographen:0191)
+- 9.6.190 (Autographen, autographen:0192)
+- 9.6.191 (Autographen, autographen:0193)
+- 9.6.192 (Autographen, autographen:0194)
+- 9.6.193 (Autographen, autographen:0195)
+- 9.6.194 (Autographen, autographen:0196)
+- 9.6.195 (Autographen, autographen:0197)
+- 9.6.196 (Autographen, autographen:0198)
+- 9.6.197 (Autographen, autographen:0199)
+- 9.6.198 (Autographen, autographen:0200)
+- 9.6.199 (Autographen, autographen:0201)
+- 9.6.200 (Autographen, autographen:0202)
+- 9.6.201 (Autographen, autographen:0203)
+- 9.6.202 (Autographen, autographen:0204)
+- 9.6.203 (Autographen, autographen:0205)
+- 9.6.204 (Autographen, autographen:0206)
+- 9.6.205 (Autographen, autographen:0207)
+- 9.6.206 (Autographen, autographen:0208)
+- 9.6.207 (Autographen, autographen:0209)
+- 9.6.208 (Autographen, autographen:0210)
+- 9.6.209 (Autographen, autographen:0211)
+- 9.6.210 (Autographen, autographen:0212)
+- 9.6.211 (Autographen, autographen:0213)
+- 9.6.212 (Autographen, autographen:0214)
+- 9.6.213 (Autographen, autographen:0215)
+- 9.6.214 (Autographen, autographen:0216)
+- 9.6.215 (Autographen, autographen:0217)
+
+## Datensätze ohne eigene Signatur
+
+- archivis:0001: Karte | Wagner, Aemilian -> Unterhofer, Anton
+- archivis:0031: Entwurf | Wagner, Aemilian -> Gemeinden Puchberg und St. Leonhard
+- archivis:0032: Karte | Wagner, Aemilian -> Mayrhofer, Isidor
+- archivis:0033: Karte | Wagner, Aemilian -> Unterhofer, Anton
+- archivis:0034: Brief | Wagner, Aemilian -> Kurzwernhart, Albert
+- archivis:0035: Brief | Matter, Erhard -> Wagner, Aemilian
+- archivis:0036: Brief | Wagner, Aemilian -> Springer, Theodor
+- archivis:0037: Brief | Wagner, Aemilian -> Springer, Theodor
+- archivis:0038: Brief | Wagner, Aemilian -> Springer, Theodor
+- archivis:0039: Brief | Wagner, Aemilian -> Springer, Theodor
+- archivis:0040: Brief | Engelbrecht, August -> Wagner, Aemilian
+- archivis:0041: Brief | d'Hemptinne, Hildebrand -> Wagner, Aemilian
+- archivis:0042: Brief | unbekannt -> Springer, Hugo
+- archivis:0043: Brief | Springer, Thedor -> Springer, Hugo
+- archivis:0044: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0045: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0046: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0047: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0048: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0049: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0050: Brief | Wagner, Adalbert -> Wagner, Aemilian
+- archivis:0051: Brief | Hönigl, Dominik -> Wagner, Aemilian
+- archivis:0052: Brief | Forster, Leopold -> Wagner, Aemilian
+- archivis:0053: Brief | Wagner, Leopold und Josefa -> Wagner, Aemilian
+- archivis:0054: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0055: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0056: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0057: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0058: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0059: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0060: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0061: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0062: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0063: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0064: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0065: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0066: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0067: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0068: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0069: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0070: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0071: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0072: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0073: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0074: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0075: Karte | Wagner, Aemilian -> Bodingbauer, Alois
+- archivis:0076: Brief | Wagner, Aemilian -> Hönigl, Dominik
+- archivis:0077: Brief | Wagner, Aemilian -> Kleriker
+- archivis:0078: Brief | Rehrl, Franz -> Wagner, Aemilian
+- archivis:0079: Brief | Adamer -> Wagner, Aemilian
+- archivis:0080: Brief | Wagner, Adalbert -> Wagner, Aemilian
+- archivis:0081: Brief | Schülergruppe -> Wagner, Aemilian
+- archivis:0082: Brief | Wagner, Aemilian -> Colerus-Geldern, Kolomann
+- archivis:0084: Brief | Rektorat der Universität Innsbruck -> Wagner, Aemilian
+- archivis:0085: Brief | Sekretariat der Universität Innsbruck -> Wagner, Aemilian
+- archivis:0086: Brief | k.k. Statthalterei für Tirol und Vorarlberg -> Wagner, Aemilian
+- archivis:0087: Brief | Wagner, Aemilian -> Springer, Hugo
+- archivis:0088: Entwurf | Wagner, Aemilian -> Kaiser Franz Josef
+- archivis:0124: Amtliches Schreiben | Landesschulrat -> Wagner, Aemilian
+- archivis:0125: Ansuchen um Aufnahme ins Kloster | Wagner, Aemilian -> Hönigl, Dominik
+- archivis:0136: Karte | Knauer, Vinzenz -> Friess, Gottfried
+- archivis:0137: Karte | Klemme, Josef -> Friess, Gottfried
+- archivis:0138: Karte | Klemme, Josef -> Friess, Gottfried
+- archivis:0139: Brief | Waltenleitner, H. (Skriptor an der Hofbibliothek) -> Friess, Gottfried
+- archivis:0140: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0141: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0142: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0143: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0144: Brief | Katschtahler, Eduard -> Friess, Gottfried
+- archivis:0145: Brief | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0146: Karte | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0147: Karte | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0148: Karte | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0149: Brief | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0150: Brief | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0151: Brief | Katschthaler, Eduard -> Friess, Gottfried
+- archivis:0152: Karte | Mayer, Anton -> Friess, Gottfried
+- archivis:0153: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0154: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0155: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0156: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0157: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0158: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0159: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0160: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0161: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0162: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0163: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0164: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0165: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0166: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0167: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0168: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0169: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0170: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0171: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0172: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0173: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0174: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0175: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0176: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0177: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0178: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0179: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0180: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0181: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0182: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0183: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0184: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0185: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0186: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0187: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0188: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0189: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0190: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0191: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0192: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0193: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0194: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0195: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0196: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0197: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0198: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0199: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0200: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0201: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0202: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0203: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0204: Brief | Mencik, Ferdinand -> Friess, Gottfried
+- archivis:0205: Karte | Müller, Alois -> Friess, Gottfried
+- archivis:0206: Karte | Müller, Alois -> Friess, Gottfried
+- archivis:0207: Brief | Zeissberg -> Friess, Gottfried
+- archivis:0208: Brief | Zeissberg -> Friess, Gottfried
+- archivis:0209: Brief | Zeissberg -> Friess, Gottfried
+- archivis:0210: Brief | Vancsa, Max -> Friess, Gottfried
+- archivis:0211: Brief | Mühlbacher, Engelbert -> Friess, Gottfried
+- archivis:0212: Brief | Labach -> Friess, Gottfried
+- archivis:0213: Brief | Labach -> Friess, Gottfried
+- archivis:0214: Brief | Labach -> Friess, Gottfried
+- archivis:0216: Brief | Kenner, Friedrich -> Friess, Gottfried
+- archivis:0217: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0218: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0219: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0220: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0221: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0222: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0223: Brief | Achleuthner, Leonard -> Friess, Gottfried
+- archivis:0224: Brief | Mayer, Anton -> Friess, Gottfried
+- archivis:0225: Brief | Wretschko, Alfred -> Friess, Gottfried
+- archivis:0226: Karte | Klemme, Josef -> Friess, Gottfried
+- archivis:0227: Karte | Klemme, Josef -> Friess, Gottfried
+- archivis:0228: Karte | Lang, Alois -> Friess, Gottfried
+- archivis:0229: Brief | Lang, Alois -> Friess, Gottfried
+- archivis:0230: Brief | Kaufmann -> Friess, Gottfried
+- archivis:0231: Brief | Keiblinger, Ignaz -> Friess, Gottfried
+- archivis:0232: Brief | Keiblinger, Ignaz -> Friess, Gottfried
+- archivis:0233: Brief | Keiblinger, Ignaz -> Friess, Gottfried
+- archivis:0234: Brief | Keiblinger, Ignaz -> Friess, Gottfried
+- archivis:0235: Brief | Köpl, Karl -> Friess, Gottfried
+- archivis:0236: Brief | Wretschko -> Friess, Gottfried
+- archivis:0237: Brief | Lucke, Wilhelm -> Friess, Gottfried
+- archivis:0238: Brief | Lampl, Joseph -> Friess, Gottfried
+- archivis:0239: Karte | Lampl, Joseph -> Friess, Gottfried
+- archivis:0240: Karte | Lampl, Joseph -> Friess, Gottfried
+- archivis:0241: Karte | Michael S.J., Emil -> Friess, Gottfried
+- archivis:0242: Brief | Michael S.J., Emil -> Friess, Gottfried
+- archivis:0243: Brief | Wagner, Aemilian -> Kleriker
+
+## Nicht interpretierbare Datierungen
+
+- autographen:0092: 19130110 (?) (9.6.92)
+- autographen:0112: Wiesbaden (9.6.110)
+- autographen:0202: 1912 (?) (9.6.200)
+- autographen:0203: 18921209 (?) (9.6.201)
