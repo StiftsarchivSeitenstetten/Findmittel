@@ -84,12 +84,26 @@
             return path.length > 1 ? path[1] : null;
         }
 
+        function isAncestor(ancestorId, descendantId) {
+            var record = recordsById.get(descendantId);
+            var seen = new Set();
+            while (record && record.parent && !seen.has(record.id)) {
+                if (record.parent === ancestorId) {
+                    return true;
+                }
+                seen.add(record.id);
+                record = recordsById.get(record.parent);
+            }
+            return false;
+        }
+
         return {
             payload: payload,
             records: payload.records,
             recordsById: recordsById,
             childrenByParent: childrenByParent,
             childRecords: childRecords,
+            isAncestor: isAncestor,
             pathTo: pathTo,
             topBranch: topBranch
         };
@@ -109,6 +123,7 @@
     window.ArchiveData = {
         displayTitle: displayTitle,
         load: load,
+        naturalCompare: naturalCompare,
         normalize: normalize,
         searchable: searchable,
         text: text

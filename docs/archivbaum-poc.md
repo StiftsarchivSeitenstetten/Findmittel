@@ -18,6 +18,8 @@ Die Seite `archiv/suche.html` durchsucht ausschließlich öffentliche Felder aus
 
 Mehrere Suchbegriffe werden mit UND-Logik ausgewertet: Jeder normalisierte Teilbegriff muss im öffentlichen Suchtext eines Datensatzes vorkommen. Die Normalisierung ignoriert Groß-/Kleinschreibung, einfache Diakritika und unterstützt zusätzlich deutsche Umlautvarianten wie `ü`/`ue`.
 
+Die Treffer werden nicht nach Relevanz sortiert. Wenn ein Treffer direkter oder indirekter Vorfahr eines anderen Treffers ist, erscheint er zuerst; diese Beziehung wird ausschließlich aus den Parent-Daten erkannt. Nicht verwandte Treffer werden anschließend natürlich nach Signatur sortiert, also numerisch innerhalb der Signaturbestandteile.
+
 Die Facette `Bestandsbereich` wird aus der echten Parent-Child-Struktur unterhalb der Wurzel abgeleitet, nicht aus der Signatursyntax. Die Facette `Verzeichnungsstufe` verwendet nur tatsächlich vorhandene Werte.
 
 Treffer verlinken über den Hash der Signatur in den Archivbaum, wo der Pfad geöffnet und der Datensatz ausgewählt wird.

@@ -45,29 +45,6 @@
         };
     }
 
-    function score(record, haystack, terms, rawQuery) {
-        var exactSignature = ArchiveData.normalize(record.signature) === ArchiveData.normalize(rawQuery);
-        var total = exactSignature ? 1000 : 0;
-        terms.forEach(function (term) {
-            if (haystack.signature.indexOf(term) !== -1) {
-                total += exactSignature ? 0 : 80;
-            }
-            if (haystack.title.indexOf(term) !== -1) {
-                total += 45;
-            }
-            if (haystack.terms.indexOf(term) !== -1) {
-                total += 30;
-            }
-            if (haystack.date.indexOf(term) !== -1) {
-                total += 15;
-            }
-            if (haystack.description.indexOf(term) !== -1) {
-                total += 8;
-            }
-        });
-        return total;
-    }
-
     function snippetSource(record, terms) {
         var candidates = [];
         (record.fields || []).forEach(function (field) {
@@ -141,16 +118,21 @@
             .map(function (entry) {
                 return {
                     record: entry.record,
-                    score: score(entry.record, entry.haystack, terms, rawQuery),
                     snippet: makeSnippet(entry.record, terms)
                 };
             })
-            .sort(function (a, b) {
-                if (b.score !== a.score) {
-                    return b.score - a.score;
-                }
-                return a.record.order - b.record.order;
-            });
+            .sort(compareArchiveResults);
+    }
+
+    function compareArchiveResults(a, b) {
+        // Parent relationships come only from the explicit archive hierarchy, never from signature syntax.
+        if (store.isAncestor(a.record.id, b.record.id)) {
+            return -1;
+        }
+        if (store.isAncestor(b.record.id, a.record.id)) {
+            return 1;
+        }
+        return ArchiveData.naturalCompare(a.record, b.record) || a.record.order - b.record.order;
     }
 
     function appendHighlightedText(parent, text, terms) {
