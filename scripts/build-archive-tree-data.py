@@ -99,6 +99,18 @@ def parse_semicolon_values(value):
     return items
 
 
+def visible_value_text(values):
+    parts = []
+    for value in values:
+        label = value.get("label", "")
+        role = value.get("role", "")
+        if label and role:
+            parts.append(f"{label} [{role}]")
+        elif label:
+            parts.append(label)
+    return "; ".join(parts)
+
+
 def read_rows(workbook_path):
     sheets = pd.ExcelFile(workbook_path)
     if SHEET_NAME not in sheets.sheet_names:
@@ -203,6 +215,25 @@ def build_payload(workbook_path):
             for key, label in CONTROLLED_FIELDS
             if row.get(key, "")
         ]
+        controlled_text = [
+            {"label": group["label"], "value": visible_value_text(group["values"])}
+            for group in controlled
+            if group.get("values")
+        ]
+        body_text = " ".join(field["value"] for field in field_groups)
+        term_text = " ".join(item["value"] for item in controlled_text)
+        search_text = " ".join(
+            part
+            for part in [
+                record_id,
+                row.get("Titel", ""),
+                row.get("Verzeichnungsstufe", ""),
+                date_label(row),
+                body_text,
+                term_text,
+            ]
+            if part
+        )
 
         records.append(
             compact_dict(
@@ -220,6 +251,15 @@ def build_payload(workbook_path):
                     "order": index,
                     "fields": field_groups,
                     "controlled": controlled,
+                    "search": {
+                        "title": row.get("Titel", ""),
+                        "signature": record_id,
+                        "date": date_label(row),
+                        "level": row.get("Verzeichnungsstufe", ""),
+                        "description": body_text,
+                        "terms": term_text,
+                        "text": search_text,
+                    },
                 }
             )
         )
@@ -235,6 +275,7 @@ def build_payload(workbook_path):
             "sort": "Excel-Reihenfolge; natürliche Signaturreihenfolge als Fallback in der Oberfläche",
             "hierarchyRule": "Parent-Child-Beziehungen werden ausschließlich aus SignaturUeberordnung gebildet.",
             "stableIdentifierNote": "Im Blatt Metadaten wurde kein eigener persistenter technischer Identifier gefunden; für den PoC dient Signatur als ID.",
+            "searchNote": "Die Volltextsuche durchsucht die öffentlichen Felder in dieser JSON-Datei mit UND-Logik über normalisierte Teilbegriffe.",
             "hardErrors": {
                 "duplicateIds": 0,
                 "missingParents": 0,

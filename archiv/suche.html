@@ -1,0 +1,39 @@
+---
+layout: default
+---
+
+<p><a class="back-link" href="{{ site.baseurl }}/archiv/">&larr; Zurück zur Archivübersicht</a></p>
+
+<h2>Archiv durchsuchen</h2>
+<p>Durchsucht werden die veröffentlichten Erschließungsinformationen des Stiftsarchivs, die auch dem Archivbaum zugrunde liegen. Spezialfindmittel wie Korrespondenz- oder Autographendaten sind hier noch nicht einbezogen.</p>
+<p><a class="back-link" href="{{ site.baseurl }}/archiv/archivbaum/">Archivbaum &rarr;</a></p>
+
+<section class="archive-search" data-archive-search data-data-url="{{ site.baseurl }}/assets/data/archiv/tree-data.json" data-tree-url="{{ site.baseurl }}/archiv/archivbaum/">
+    <form class="archive-search-panel" data-search-form>
+        <div class="archive-search-controls">
+            <div class="search-field archive-search-field">
+                <label for="archiveSearchQuery">Suchbegriff</label>
+                <input id="archiveSearchQuery" data-search-query type="search" autocomplete="off" placeholder="z. B. Klimesch, Seitenstetten oder 1.1.2.17">
+            </div>
+            <div class="filter-field">
+                <label for="archiveSearchBranch">Bestandsbereich</label>
+                <select id="archiveSearchBranch" data-branch-filter>
+                    <option value="">Alle</option>
+                </select>
+            </div>
+            <div class="filter-field">
+                <label for="archiveSearchLevel">Verzeichnungsstufe</label>
+                <select id="archiveSearchLevel" data-level-filter>
+                    <option value="">Alle</option>
+                </select>
+            </div>
+            <button class="button-link" type="submit">Suchen</button>
+        </div>
+        <p class="search-meta" data-search-status>Archivdaten werden geladen ...</p>
+    </form>
+
+    <div class="archive-search-results" data-search-results aria-live="polite"></div>
+</section>
+
+<script src="{{ site.baseurl }}/assets/js/archive-data.js" defer></script>
+<script src="{{ site.baseurl }}/assets/js/archive-search.js" defer></script>

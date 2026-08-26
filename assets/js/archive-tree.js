@@ -13,51 +13,16 @@
     var status = browser.querySelector("[data-browser-status]");
     var dataUrl = browser.getAttribute("data-data-url");
 
-    var recordsById = new Map();
-    var childrenByParent = new Map();
+    var store = null;
     var expanded = new Set();
     var selectedId = "";
 
-    function escapeText(value) {
-        return String(value || "");
-    }
-
-    function naturalCompare(a, b) {
-        return escapeText(a.signature || a.id).localeCompare(escapeText(b.signature || b.id), "de", {
-            numeric: true,
-            sensitivity: "base"
-        });
-    }
-
     function childRecords(parentId) {
-        return (childrenByParent.get(parentId) || [])
-            .map(function (id) { return recordsById.get(id); })
-            .filter(Boolean)
-            .sort(function (a, b) {
-                if (typeof a.order === "number" && typeof b.order === "number") {
-                    return a.order - b.order;
-                }
-                return naturalCompare(a, b);
-            });
-    }
-
-    function displayTitle(record) {
-        if (!record) {
-            return "";
-        }
-        return record.signature ? record.signature + " - " + record.title : record.title;
+        return store.childRecords(parentId);
     }
 
     function pathTo(recordId) {
-        var path = [];
-        var seen = new Set();
-        var record = recordsById.get(recordId);
-        while (record && !seen.has(record.id)) {
-            path.unshift(record);
-            seen.add(record.id);
-            record = recordsById.get(record.parent);
-        }
-        return path;
+        return store.pathTo(recordId);
     }
 
     function openPath(recordId) {
@@ -108,7 +73,7 @@
             var link = document.createElement("a");
             link.href = "#" + encodeURIComponent(record.id);
             link.className = "archive-tree-link";
-            link.textContent = displayTitle(record);
+            link.textContent = ArchiveData.displayTitle(record);
             if (record.level) {
                 link.title = record.level;
             }
@@ -165,7 +130,7 @@
             button.type = "button";
             button.className = "record-reference-button";
             var title = document.createElement("strong");
-            title.textContent = displayTitle(child);
+            title.textContent = ArchiveData.displayTitle(child);
             var meta = document.createElement("span");
             meta.textContent = [child.level, child.date].filter(Boolean).join(" | ");
             button.append(title, meta);
@@ -254,7 +219,7 @@
     }
 
     function selectRecord(recordId, updateHash) {
-        var record = recordsById.get(recordId);
+        var record = store.recordsById.get(recordId);
         if (!record) {
             return;
         }
@@ -271,24 +236,17 @@
         }
     }
 
-    function initialize(payload) {
-        payload.records.forEach(function (record) {
-            recordsById.set(record.id, record);
-            if (!childrenByParent.has(record.parent || "")) {
-                childrenByParent.set(record.parent || "", []);
-            }
-            childrenByParent.get(record.parent || "").push(record.id);
-        });
-
+    function initialize(dataStore) {
+        store = dataStore;
         var initialId = "";
         if (window.location.hash) {
             initialId = decodeURIComponent(window.location.hash.slice(1));
         }
-        if (!recordsById.has(initialId)) {
+        if (!store.recordsById.has(initialId)) {
             initialId = childRecords("")[0] ? childRecords("")[0].id : "";
         }
 
-        status.textContent = payload.metadata.recordCount + " Verzeichnungseinheiten";
+        status.textContent = store.payload.metadata.recordCount + " Verzeichnungseinheiten";
         renderTree();
         if (initialId) {
             selectRecord(initialId, false);
@@ -300,13 +258,7 @@
         toggleButton.setAttribute("aria-expanded", String(isOpen));
     });
 
-    fetch(dataUrl)
-        .then(function (response) {
-            if (!response.ok) {
-                throw new Error("Daten konnten nicht geladen werden.");
-            }
-            return response.json();
-        })
+    ArchiveData.load(dataUrl)
         .then(initialize)
         .catch(function (error) {
             status.textContent = error.message;
