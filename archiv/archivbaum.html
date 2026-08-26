@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<p><a class="back-link" href="{{ site.baseurl }}/archiv/">&larr; Zurück zur Archivübersicht</a></p>
+
+<h2>Archivbaum</h2>
+<p>Dieser Prototyp zeigt die hierarchische Tektonik des Stiftsarchivs als schnellen, statischen Browser auf Basis der Metadaten aus der Erschließungstabelle.</p>
+
+<div class="archive-browser" data-archive-browser data-data-url="{{ site.baseurl }}/assets/data/archiv/tree-data.json">
+    <div class="archive-browser-toolbar">
+        <button class="button-link archive-tree-toggle" type="button" data-tree-toggle aria-expanded="false" aria-controls="archiveTreePanel">Bestände</button>
+        <p class="archive-browser-status" data-browser-status>Lade Archivbaum ...</p>
+    </div>
+
+    <div class="archive-browser-layout">
+        <aside class="archive-tree-panel" id="archiveTreePanel" data-tree-panel>
+            <div class="archive-tree-heading">Bestände</div>
+            <nav class="archive-tree" data-tree aria-label="Archivhierarchie"></nav>
+        </aside>
+
+        <section class="archive-record-panel" data-record aria-live="polite">
+            <p class="archive-placeholder">Bitte wählen Sie einen Bestand oder eine Verzeichnungseinheit im Archivbaum.</p>
+        </section>
+    </div>
+</div>
+
+<script src="{{ site.baseurl }}/assets/js/archive-tree.js" defer></script>
