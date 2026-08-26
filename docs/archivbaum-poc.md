@@ -1,6 +1,6 @@
-# Archivbaum-Prototyp
+# Archivbaum
 
-Der Prototyp liegt unter `archiv/archivbaum.html` und verwendet die statische JSON-Datei `assets/data/archiv/tree-data.json`. Die allgemeine Archivsuche liegt unter `archiv/suche.html` und nutzt dieselbe JSON-Datei.
+Der Archivbaum liegt unter `archiv/archivbaum.html` und verwendet die statische JSON-Datei `assets/data/archiv/tree-data.json`. Die allgemeine Archivsuche liegt unter `archiv/suche.html` und nutzt dieselbe JSON-Datei.
 
 ## Datenfluss
 
