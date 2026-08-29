@@ -10,42 +10,55 @@ ms_identifier:
   idno: MN III 7
 ms_contents:
   items:
-  - label: "a"
-    title: "Etliche Gebett, So Ein Sterbendter Sprechen oder ihme Vorlesen lassen soll"
-    locus: "S. 5–48"
-  - label: "b"
-    title: "Diemüthige Anrueff der allerheilligsten Dreyfaltigkeit"
-    locus: "S. 49–55"
-  - label: "c.1"
-    title: "Actus fidei"
-    locus: "S. 57"
-  - label: "c.2"
-    title: "Actus Spei"
-    locus: "S. 58–60"
-  - label: "c.3"
-    title: "Amoris"
-    locus: "S. 60–61"
-  - label: "c.4"
-    title: "Contritionis"
-    locus: "S. 61–62"
-  - label: "d.1"
-    title: "Oratio S. Eligii Episcopi"
-    locus: "S. 63"
-  - label: "d.2"
-    title: "oratio mirae virtutis"
-    locus: "S. 64"
-  - label: "d.3"
-    title: "Justi Lipsii ad Beatam Virginem Mariam oratio"
-    locus: "S. 64"
-  - label: "e"
-    title: "Gebett Umb ein Seeliges Enndt. aus gottlicher Hl: schrifft"
-    locus: "S. 65–69"
-  - label: "f"
-    title: "Seyffzer Einem sterbendten Vorzusprechen"
-    locus: "S. 81–95"
-  - label: "g"
-    title: "Modus brevior pro necessitate, E. g. Si continget ad infirmum actualiter iam agonizantem venire, disponatur breviter ad eliciendum actum contritionis....."
-    locus: "S. 97–104"
+  - label: a
+    title: Etliche Gebett, So Ein Sterbendter Sprechen oder ihme Vorlesen lassen soll
+    locus: p. 5–48
+    title_status: unspecified
+  - label: b
+    title: Diemüthige Anrueff der allerheilligsten Dreyfaltigkeit
+    locus: p. 49–55
+    title_status: unspecified
+  - label: c.1
+    title: Actus fidei
+    locus: p. 58–60
+    title_status: unspecified
+  - label: c.2
+    title: Actus Spei
+    locus: p. 58–60
+    title_status: unspecified
+  - label: c.3
+    title: Amoris
+    locus: p. 60–61), C
+    title_status: unspecified
+  - label: c.4
+    title: Contritionis
+    locus: p. 61/2
+    title_status: unspecified
+  - label: d.1
+    title: Oratio S. Eligii Episcopi
+    locus: p. 63
+    title_status: unspecified
+  - label: d.2
+    title: oratio mirae virtutis
+    locus: p. 64
+    title_status: unspecified
+  - label: d.3
+    title: Justi Lipsii ad Beatam Virginem Mariam oratio
+    locus: p. 64
+    title_status: unspecified
+  - label: e
+    title: 'Gebett Umb ein Seeliges Enndt. aus gottlicher Hl: schrifft'
+    locus: p. 65/9
+    title_status: unspecified
+  - label: f
+    title: Seyffzer Einem sterbendten Vorzusprechen
+    locus: p. 81–95
+    title_status: unspecified
+  - label: g
+    title: Modus brevior pro necessitate, E. g. Si continget ad infirmum actualiter iam agonizantem venire, disponatur breviter ad eliciendum
+      actum contritionis.....
+    locus: p. 97–104
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

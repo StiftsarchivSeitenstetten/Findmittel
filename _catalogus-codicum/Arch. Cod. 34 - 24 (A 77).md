@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 - 24 (A 77)
 ms_contents:
-  title: "Contiones festivales Latinae"
   items:
-  - label: "a"
-    title: "Contiones festivales Latinae"
-    locus: "S. 1–573"
-    note: "Aus verschiedenen Handbüchern exzerpierte Festpredigten für St. Michael, Allhartsberg, Wolfsbach und besonders 1646/47 Aschbach; die erste Predigt wurde 1639, die letzte 1647 gehalten."
+  - label: a
+    title: Contiones festivales Latinae
+    locus: p. 516
+    note: Aus verschiedenen Handbüchern exzerpierte Festpredigten für St. Michael, Allhartsberg, Wolfsbach und besonders 1646/47 Aschbach; die
+      erste Predigt wurde 1639, die letzte 1647 gehalten.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

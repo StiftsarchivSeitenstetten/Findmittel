@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-187",
   "signature": "MN II 187",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "141",
   "heading": {
     "title": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1695"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–160",
+      "locus": "p. 1–160",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -145,13 +162,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 187",
     "titles": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante \nTractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum",
-    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "Fr. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n162 pagg. \ndescription: Einband vollständig entfernt."
+    "physical": "Papier \n162 pagg. \ndescription: Einband vollständig entfernt.",
+    "german": "162 Seiten; der Einband ist vollständig abgeschnitten; geschrieben um 1695.\n\n**Kontroverstheologische Abhandlung über die leidende Kirche, das heißt die Kirche im Fegefeuer, und die triumphierende Kirche, das heißt über Herrlichkeit und Verehrung der Heiligen:** S. 1–160.\n\nAnfang der Vorrede: Im vergangenen Jahr wurde über die Glieder der streitenden Kirche gehandelt; in diesem Jahr werden wir von der Kirche handeln, die gereinigt wird....\n\nDa derselbe Schreiber wie bei MN II 186 auch diesen Codex schrieb, dürfte dieser ein Jahr später als MN II 186 entstanden sein. Der Verfasser ist unbekannt; als Schreiber kommt wahrscheinlich Fr. Joannes Rigele in Frage.",
+    "latin": "162 pagg.; teg. penitus abscissum; script. ca. 1695\n\nTractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum: p. 1–160.\n\nInitium Prooemii: Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....\n\nCum idem, qui praecedentem, etiam codicem nostrum scripserit, verisimile est codicem nostrum anno posteriorem scriptum esse quam codicem MN II 186. Auctorem nos nescire confitemur, scriptorem autem probabiliter F. Joannem Rigele esse iam supra ad MN II 186 diximus."
   }
 }

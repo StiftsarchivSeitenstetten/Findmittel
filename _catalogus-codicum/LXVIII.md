@@ -10,13 +10,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: LXVIII
 ms_contents:
-  title: "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore."
   items:
-  - label: "a"
-    title: "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore."
-    locus: "10 Bände zu je etwa 200 Blättern"
-    explicit: "finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721."
-    note: "Der Schlussvermerk steht am Ende von Band V."
+  - label: a
+    title: Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta
+      Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in
+      Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea
+      verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.
+    locus: 200 foll
+    note: Der Schlussvermerk steht am Ende von Band V.
+    colophons:
+    - label: in fine tomi V
+      text: finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

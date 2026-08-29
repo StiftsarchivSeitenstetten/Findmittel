@@ -9,14 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 54
 ms_contents:
-  title: "Liber precatorius"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Liber precatorius"
-    title_type: "supplied"
-    locus: "S. 113–474"
-    note: "Der überlieferte Titel und S. 1–112 fehlen; auch das Ende ist unvollständig. Die Inhaltsbezeichnung wurde aus der Katalogbeschreibung erschlossen."
+  - label: a
+    title: Liber precatorius
+    locus: S. 113–474
+    note: Der überlieferte Titel und S. 1–112 fehlen; auch das Ende ist unvollständig. Die Inhaltsbezeichnung wurde aus der Katalogbeschreibung
+      erschlossen.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

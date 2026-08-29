@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-34",
   "signature": "MN II 34",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "22–23",
   "heading": {
     "title": "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1639"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,16 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–477",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "label": "in fine Praefationis",
+          "text": "Vale, et Vive, ut Vivas 1639. Auctor ignotus. )",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
       "explicit": {
-        "text": "Vale, et Vive, ut Vivas 1639."
+        "label": "in fine Praefationis",
+        "text": "Vale, et Vive, ut Vivas 1639. Auctor ignotus. )",
+        "id": "explicit-1"
       },
       "notes": [
         {
@@ -159,13 +174,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-34/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 34",
     "titles": "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt. \nMeditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.",
-    "persons": "P. Philippus Francis OSB Autor author \nP. Laurentius Visetius OSB Übersetzer translator \nCarolus Stengelius OSB Übersetzer translator \nunbekannt Übersetzer translator",
+    "persons": "P. Philippus Francis OSB Autor author  \nP. Laurentius Visetius OSB Übersetzer translator  \nCarolus Stengelius OSB Übersetzer translator  \nunbekannt Übersetzer translator ",
     "incipits": "",
-    "explicits": "Vale, et Vive, ut Vivas 1639.",
-    "notes": "Die parenthetischen Hinweise „sic!“ und „!“ sind editorische Erläuterungen innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \n16 + 477 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "explicits": "Vale, et Vive, ut Vivas 1639. Auctor ignotus. )",
+    "notes": "Die parenthetischen Hinweise „sic!“ und „!“ sind editorische Erläuterungen innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied. \nA. A. Z. S. 1676",
+    "physical": "Papier \n16 + 477 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "16 + 477 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1639.\n\n**Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.**\n\nNach der Vorrede unseres Werkes S. 9 war der Verfasser des französischen Originals P. Philippus Francis OSB in Lothringen; die lateinischen Übersetzungen stammen von P. Laurentius Visetius, Profess des Klosters Malmedy desselben Ordens und derselben Kongregation, beziehungsweise von Carolus Stengelius, Abt in Einhausen (= Anhausen), dessen Übersetzung unser deutscher Übersetzer wahrscheinlich benutzte. Schluss am Ende der Vorrede: **Vale, et Vive, ut Vivas 1639.** Der Übersetzer ist unbekannt.\n\nAufschrift auf der Vorderseite des Einbandes: **A. A. Z. S. 1676 = Adam (Piringer) Abt Zu Seittenstetten 1676.** Diese Aufschrift zeigt nicht einmal sicher, dass der Codex im Jahr 1676 eingebunden wurde, denn die Initialen und die Jahreszahl sind auf einen abgeschabten Teil des Einbandes geprägt. Was die Buchstaben **L (?). V.** auf dem Rücken bedeuten, weiß ich nicht; ich bezweifle jedoch, dass es Initialen des Übersetzers sind (eher vielleicht: *Latinae Versae*?).",
+    "latin": "16 + 477 pagg., teg. a2; script. 1639\n\n*Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.* (Auctor originalis Francogallicae fuit iuxta praefationem operis nostri p. 9 P. Philippus Francis Ordinis S. Benedicti in Lotharingiâ, auctor versionum Latinarum P. Laurentius Visetius, in Malmudariensi Caenobio eiusdem Ordinis et Congregationis Professus (= e monasterio Malmedy), respective Carolus Stengelius Abbas in Einhausen (= Anhausen), cuius versione probabiliter auctor noster usus est.) Clausula in fine Praefationis: Vale, et Vive, ut Vivas 1639. Auctor ignotus. *)\n\nInscriptio in parte adversa tegumenti: .A. A. Z. S. 1676 = Adam (Piringer) Abt Zu Seittenstetten 1676 ne tegumento quidem inclusum esse codicem anno 1676 ostendit, nam litterae initiales et numerus annalis parti abrasae tegumenti impressa sunt. Quid sibi velint litterae L (?). V. in dorso tegumenti, nescio; dubito tamen, num initia sint translatoris (potius: Latinae Versae?)"
   }
 }

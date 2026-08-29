@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-3-d-xviii-2m",
   "signature": "Arch. Cod. 3 D (XVIII 2m)",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tomus II",
         "typeRaw": "supplied",
@@ -52,6 +56,9 @@
       },
       "locus": "S. 527–876",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -150,13 +157,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 3 D (XVIII 2m)",
     "titles": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II \nTomus II",
-    "persons": "P. Josephus Schaukegl Autor author \nP. Josephus Schaukegl Schreiber scribe",
+    "persons": "P. Josephus Schaukegl Autor author  \nP. Josephus Schaukegl Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Der Katalog bezeichnet den Inhalt durch Rückverweis als zweiten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt.",
-    "physical": "Papier \n350 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "physical": "Papier \n350 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Folioformat; 350 Seiten; moderner Pappeinband, Vorder- und Rückdeckel schwarz-braun gesprenkelt, schwarzer Lederrücken.\n\nDieser Codex enthält S. 527–876 desselben Werkes von **P. Josephus Schaukegl**, also Band II.\n\nEr wurde zwischen 1787, dem Jahr des vorausgehenden Bandes, und 1791, dem Jahr des folgenden Codex, geschrieben.",
+    "latin": "fol.; 350 pagg.; teg. modernum (pars adversa et aversa nigro fulvoque colore sparsa) chartaceum cum dorso scorteo nigro\n\nContinet hic codex eiusdem operis **P. Josephi Schaukegl** monachi Seitenstettensis pagg. 527–876, id est Tomum II, scriptum inter annum 1787, quo praecedens, et annum 1791, quo proximus codex scriptus est."
   }
 }

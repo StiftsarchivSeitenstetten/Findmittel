@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-34",
   "signature": "MN III 34",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ad Tractatum Decimum: De Praeceptis Ecclesiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–23",
+      "locus": "p. 1–23",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ad Tractatum Undecimum: De beneficiis Ecclesiasticis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 23–32",
+      "locus": "p. 23–32",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,13 +92,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 32–67",
+      "locus": "p. 32–67",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -99,13 +114,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 67–111",
+      "locus": "p. 67–111",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -117,13 +136,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ad Tractatum Decimum quartum: De Sacramentis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 111–321",
+      "locus": "p. 111–321",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -135,13 +158,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index continens novas Additiones",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 323–406",
+      "locus": "p. 323–406",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -227,13 +254,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-34/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 34",
     "titles": "Additiones ad quosdam tractatus theologicos \nAd Tractatum Decimum: De Praeceptis Ecclesiae \nAd Tractatum Undecimum: De beneficiis Ecclesiasticis \nAd Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis \nAd Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis \nAd Tractatum Decimum quartum: De Sacramentis \nIndex continens novas Additiones",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Nach Sachen alphabetisch geordnet.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "Kleines Oktavformat; 408 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben kurz nach 1725.\n\n**Ergänzungen zu einigen theologischen Abhandlungen.**\n\na) **Zum zehnten Traktat: Über die Gebote der Kirche:** S. 1–23.\n\nb) **Zum elften Traktat: Über kirchliche Benefizien:** S. 23–32.\n\nc) **Zum zwölften Traktat: Über kirchliche Immunität und Ablässe:** S. 32–67.\n\nd) **Zum dreizehnten Traktat: Über Zensuren, Irregularität und kanonische Strafen:** S. 67–111.\n\ne) **Zum vierzehnten Traktat: Über die Sakramente:** S. 111–321.\n\nf) **Register mit den neuen Ergänzungen:** S. 323–406; alphabetisch nach Sachen geordnet.\n\nDer Schreiber ist unbekannt; ebenso weiß der Katalogbearbeiter nicht, ob der Schreiber selbst oder jemand anderer diese Ergänzungen und das Register gesammelt hat.\n\nFür die Datierung ist eine Stelle S. 22 wichtig: **Du wirst sagen nach der neuesten Bulle Benedikts XIII. *Ex quo Divina* usw., veröffentlicht in Rom am 15. Juni 1725....** Daher wurde die Sammlung wahrscheinlich nicht lange nach 1725 zusammengestellt.",
+    "latin": "8° min.; 408 pagg.; teg. b1; script. paulo post 1725\n\n(Additiones ad quosdam tractatus theologicos)\n\na) Ad Tractatum Decimum: De Praeceptis Ecclesiae: p. 1–23\n\nb) Ad Tractatum Undecimum: De beneficiis Ecclesiasticis: p. 23–32\n\nc) Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis: p. 32–67\n\nd) Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis: p. 67–111\n\ne) Ad Tractatum Decimum quartum: De Sacramentis: p. 111–321\n\nf) Index continens novas Additiones: p. 323–406 (Qui index iuxta ordinem rerum alphabetice dispositus est.)\n\nScriptor ignotus; sed et utrum ipse scriptor an alius has additiones indicemque collegerit, nescio. Quo tempore collectio nostra composita sit, sequens locus p. 22 videtur indicare: „Dices juxta novissimam bullam Benedicti XIII. Ex quo Divina etc. Romae 15 Junii anno 1725 publicatam....“. Qua de causa codicillus noster probabiliter non multum post annum 1725 congestus est."
   }
 }

@@ -12,17 +12,36 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis
-    locus: S. 9–81
-    incipit: Pertractata Verbi Divini Incarnatione Doctor Angelicus
+    locus: p. 9
     start_date_display: 6. November 1752
     end_date_display: 17. Februar 1753, Nachmittagsvorlesung
     note: Behandelt die Sakramente im Allgemeinen.
+    incipits:
+    - text: Pertractata Verbi Divini Incarnatione Doctor Angelicus......
+      locus: p. 9
+      label: Tractatus Theologico-Dogmatici De Sanctissimis Ecclesiae Sacramentis
+    colophons:
+    - locus: p. 81
+      text: Absolvimus 17 Februarii. 1753. in pomeridiana lectione
+    title_status: unspecified
+    notes:
+    - (NB. Hic tractatus continet doctrinam de Sacramentis in genere!)
   - label: b
     title: Tractatus Theologico-Dogmatici. De Sanctissimis Ecclesiae Sacramentis in Specie. id est De Baptismo, Confirmatione, et Eucharistia
     locus: S. 89–195
-    incipit: Ad Sacramenta in particulari pertractanda
     start_date_display: 17. Februar 1753
     end_date_display: 30. Mai 1753
+    incipits:
+    - text: Ad Sacramenta in particulari pertractanda
+    - locus: p. 9
+      label: Tractatus Theologico-Dogmatici De Sanctissimis Ecclesiae Sacramentis
+      text: Pertractata Verbi Divini Incarnatione Doctor Angelicus......
+    colophons:
+    - locus: p. 81
+      text: Absolvimus 17 Februarii. 1753. in pomeridiana lectione
+    title_status: unspecified
+    notes:
+    - (NB. Hic tractatus continet doctrinam de Sacramentis in genere!)
 phys_desc:
   object_form: codex
   support: Papier

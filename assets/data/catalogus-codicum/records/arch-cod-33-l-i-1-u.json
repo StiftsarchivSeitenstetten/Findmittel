@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-33-l-i-1-u",
   "signature": "Arch. Cod. 33 L (I 1. u.)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "35",
   "heading": {
     "title": "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1650"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1r–66v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -147,13 +154,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-l-i-1-u/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 33 L (I 1. u.)",
     "titles": "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch \nSpelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch",
-    "persons": "Michael Ernst Pennegartner von und zu Luch Autor author \nunbekannt Schreiber scribe",
+    "persons": "Michael Ernst Pennegartner von und zu Luch Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Carmina et Epigrammata Latina Prona.",
-    "physical": "Papier \n8°, 66 foll. \nOktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8°, 66 foll. \nOktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Oktavformat; 66 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.\n\n**Spelacum Veritatis**, ausgearbeitet von **Michael Ernst Pennegartner von und zu Luch** – lateinische Gedichte und Epigramme.\n\nFol. 32v steht **Wien 1650**; auch andere Gedichte entstanden um diese Zeit.\n\nAuf dem Titelblatt befindet sich unter dem Namen des Verfassers der Besitzvermerk **Melchioris praepositi**, also des Melchior von Pergen, Propst von Ardagger. Ein auf den Rücken geklebter Zettel zeigt noch heute, dass das Büchlein in der Bibliothek des Chorherrenstifts Ardagger die Signatur **(IV) L. S. Nr. 382** trug. Melchior von Pergen war von 1662 bis 1700 Propst.",
+    "latin": "8°, 66 foll.; teg. a1\n\n*Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch* (Carmina et Epigrammata Latina Prona). Fol. 32v: Viennae 1650; etiam alia carmina tunc temporis orta sunt. In folio titulari infra nomen auctoris invenitur signum possidentis: \"Melchioris praepositi\"; id est Melchioris a Pergen, praepositi Ardacensis, schedula dorso affixa usque adhuc ostendit hunc libellum in bibliotheca praepositurae Ardacensis signum (IV) L. S. Nr. 382 habuisse. (Melchior a Pergen praepositurae praefuit 1662 - 1700)"
   }
 }

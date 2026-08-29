@@ -13,19 +13,39 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus De Poenitentia
-    locus: S. 5–166
-    incipit: Sanctissimus Legislator noster Benedictus
+    locus: p. 5–166
+    incipits:
+    - text: Sanctissimus Legislator noster Benedictus
+    title_status: unspecified
   - label: b
     title: 'De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio'
-    locus: S. 167–251
-    incipit: Poenitentiae quoad effectum simillima
+    locus: p. 167–251
     end_date_display: 31. März 1751
     note: Ein zweiter Vermerk anderer Hand nennt die Kollegien am 26. Mai 1752.
+    incipits:
+    - text: Poenitentiae quoad effectum simillima
+    - label: Disputationis XII De Sacramento extremae Unctionis
+      text: 'p. 169: Poenitentiae quoad effectum simillima,...'
+    colophons:
+    - text: Finivimus 31 Martii Anno 1.7.51. Altera
+    - label: in eadem pagina 251 ab alia manu scripta
+      text: In collegiis 26. Maii 1752.
+    title_status: unspecified
   - label: c
     title: Parerga ex Tractatu De Poenitentia
-    locus: S. 252–258
+    locus: p. 252–258
     end_date_display: 1. Februar 1751
     note: In einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt.
+    title_status: unspecified
+    colophons:
+    - locus: p. 258
+      text: Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo
+        à Brevenhueber.
+    notes:
+    - 'Ad singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15
+      F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio
+      Seitenstettensi vota emiserant.'
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

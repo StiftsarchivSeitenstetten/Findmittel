@@ -17,21 +17,39 @@ ms_contents:
   items:
   - label: a
     title: Disputationes in 3 Libros Aristotelis de anima
-    locus: S. 5–406
+    locus: p. 5–406
+    incipits:
+    - locus: p. 5
+      text: Dignissima iam nobis Philosophiae pars......
+    colophons:
+    - locus: p. 406
+      text: Absolvimus naturalem Philosophiam nostram 21. Augusti....
+    title_status: unspecified
   - label: b
     title: In Metaphisicam
-    locus: S. 409–476
+    locus: p. 409–476
+    incipits:
+    - locus: p. 409
+      label: Prooemii
+      text: Coronidem tandem philosophiae ...(?)... aggredimur....
+    title_status: unspecified
   - label: c
     title: Disputationes in quatuor Libros Meteorologicorum Aristotelis
-    locus: S. 477–555
+    locus: p. 477–555
+    incipits:
+    - locus: p. 477
+      text: Inscribuntur hi Libri Meteorologici....
+    title_status: unspecified
   - label: d
     title: Conclusiones Ex Universa Logica
-    locus: S. 559–572
+    locus: p. 559–572
     extent: 19 Conclusiones
+    title_status: unspecified
   - label: e
     title: Theses Physicae
-    locus: S. 575–654
+    locus: p. 575–654
     extent: 62 Propositiones
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser

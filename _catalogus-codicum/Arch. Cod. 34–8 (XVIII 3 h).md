@@ -14,9 +14,22 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Commentarius Quintus De Actibus Humanis: p. 1–357. Initium p. 1: Actus humanus ille dicitur......'
+    title: Commentarius Quintus De Actibus Humanis
+    locus: p. 1–357
+    incipits:
+    - locus: p. 1
+      text: Actus humanus ille dicitur......
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Commentarius Sextus De Vitiis et Peccatis In Primam Secundae Divi Thomae à quaestione 71. usque ad
-      90: p. 357–701. Initium Quaestionis Primae p. 357: Praesupponendum primo nomine vitii et peccati hic intelligi.....'
+    catalog_statement: 'Commentarius Sextus De Vitiis et Peccatis In Primam Secundae Divi Thomae à quaestione 71. usque ad 90: p. 357–701. Initium
+      Quaestionis Primae p. 357: Praesupponendum primo nomine vitii et peccati hic intelligi.....'
+    title: Commentarius Sextus De Vitiis et Peccatis In Primam Secundae Divi Thomae à quaestione 71. usque ad 90
+    locus: p. 357–701
+    incipits:
+    - locus: p. 357
+      label: Quaestionis Primae
+      text: Praesupponendum primo nomine vitii et peccati hic intelligi.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

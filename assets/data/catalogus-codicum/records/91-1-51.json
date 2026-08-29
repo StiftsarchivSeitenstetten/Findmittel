@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "91-1-51",
   "signature": "91.1.51",
   "aliases": [
@@ -35,6 +35,9 @@
     "summary": "24 in Wien 1658–1678 gedruckte Predigten, gefolgt von 226 Seiten handschriftlicher akademischer Reden.",
     "language": "la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,6 +49,7 @@
       "id": "item-printed-sermons",
       "label": "printed_sermons",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "24 ausgewählte Predigten, Wien 1658–1678, gedruckt.",
         "typeRaw": null,
@@ -53,6 +57,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -69,6 +76,7 @@
       "id": "item-academic-orations",
       "label": "academic_orations",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "226 Seiten akademische Reden, von einer Hand geschrieben; Einzelverzeichnis im Katalogtext.",
         "typeRaw": null,
@@ -76,6 +84,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -177,13 +188,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/91-1-51/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "91.1.51",
     "titles": "24 ausgewählte Predigten, Wien 1658–1678, gedruckt. \n24 ausgewählte Predigten, Wien 1658–1678, gedruckt. \n226 Seiten akademische Reden, von einer Hand geschrieben; Einzelverzeichnis im Katalogtext.",
-    "persons": "Philipp Jakob Franz Schenker donor \nP. Leopoldus Wimmer Empfänger recipient",
+    "persons": "Philipp Jakob Franz Schenker donor  \nP. Leopoldus Wimmer Empfänger recipient ",
     "incipits": "",
     "explicits": "",
     "notes": "24 in Wien 1658–1678 gedruckte Predigten, gefolgt von 226 Seiten handschriftlicher akademischer Reden. \nla \n24 ausgewählte Predigten, Wien 1658–1678, gedruckt. \n226 Seiten akademische Reden, von einer Hand geschrieben; Einzelverzeichnis im Katalogtext. \nHandschriftlicher Katalogeintrag; einzelne Wörter und Zahlen sind unsicher gelesen. \nIn der Rede S. 103–114 ist das Wort [Ma...chioratum?] unsicher; die deutsche Wiedergabe 'Markgrafenwürde?' ist nur eine vorsichtige Deutung. \nBei 'Oratio in Dominica S. post Pascha' bleibt die Lesung bzw. Bedeutung von 'S.' offen.",
-    "physical": "Papier; gedruckte und handschriftliche Teile \n24 gedruckte Predigten + 226 Seiten handschriftliche akademische Reden \nDie handschriftliche Einbandbeschreibung ist teilweise schwer lesbar."
+    "physical": "Papier; gedruckte und handschriftliche Teile \n24 gedruckte Predigten + 226 Seiten handschriftliche akademische Reden \nDie handschriftliche Einbandbeschreibung ist teilweise schwer lesbar.",
+    "german": "Auf **24 ausgewählte Predigten**, die zwischen 1658 und 1678 in Wien im Druck erschienen, folgen auf 226 Seiten verschiedene akademische Reden, die von ein und derselben Hand geschrieben wurden. Es handelt sich um folgende Reden:\n\n- **Rede über die Geburt Christi:** S. 1–8.\n- **Rede, in der die Reinheit der Unbefleckten Empfängnis Mariens dargestellt wird:** S. 9–16 (1674).\n- **Rede über die Unbefleckte Empfängnis der seligen Jungfrau Maria:** S. 17–21a.\n- **Eine weitere Rede über dasselbe Thema:** S. 21a–26.\n- **Kongregation der in den Himmel aufgenommenen seligen Jungfrau Maria:** S. 27–30 (1674).\n- **Rede, in der gezeigt wird, dass die Geburt der Gottesmutter den Frühling der Gnade gebracht habe:** S. 31–38.\n- **Fest des hl. Stephanus:** S. 39–46; zugehörige chronogrammatische Datierung: 1666–1671.\n- **Rede, in der der hl. Ignatius mit einer Rose verglichen wird:** S. 47–62.\n- **Rede über den hl. Franz Xaver:** S. 63–74.\n- **Rede über den hl. Franz Borgia:** S. 75–89.\n- **Rede: Der selige Aloysius wird mit einem Monarchen verglichen:** S. 91–102.\n- **Rede, in der eine Tat des Aloysius gelobt wird, nämlich dass er die [Markgrafenwürde?] verachtet habe:** S. 103–114. Die Lesung des zugrunde liegenden lateinischen Wortes ist unsicher.\n- **Der selige Aloysius, Sohn der Gesellschaft Jesu, als Krone seiner Mutter:** S. 115–126.\n- **Rede über die Bescheidenheit des seligen Aloysius:** S. 127–142.\n- **Rede, in der der selige Aloysius in einem Regenbogen dargestellt wird:** S. 143–154.\n- **Rede, in der der selige Aloysius mit dem Vogel des Paradieses verglichen wird:** S. 155–170.\n- **Rede oder panegyrische Beschreibung der hl. Katharina, Fürstin der Rhetoren und Philosophen:** S. 171–186.\n- **Glückwunschspiegel über die heiligen Unschuldigen Kinder:** S. 187–198.\n- **Rede, in der gezeigt wird, dass es edler sei, durch Beredsamkeit als durch Mars, also durch Krieg, zu siegen:** S. 199–210.\n- **Verbale Chrie: Es wird zur Flucht vor der Lust ermahnt:** S. 211–218.\n- **Rede am Sonntag S. nach Ostern:** S. 219–226. Die Abkürzung bzw. Lesung „S.“ ist unsicher.\n\nDer Einband ist nach der handschriftlichen Beschreibung ein Pappeinband, der mit einem Pergamentblatt überzogen ist; auf dem Rücken steht der Titel **„Orationes selectae“**. Auf der Innenseite des Vorderdeckels ist **IV°** eingetragen. Die genaue Konstruktion des ersten Teils der Einbandbeschreibung ist wegen der handschriftlichen Lesung nicht völlig sicher.\n\nDen Codex erhielt **P. Leopoldus Wimmer**, damals Beichtvater auf dem Sonntagberg, im Jahr **1684** als Geschenk von **Philipp Jakob Franz**, Pfarrer in Opponitz.\n\nDer Katalogbearbeiter nimmt an, dass diese Reden in **Wien im Kolleg der Gesellschaft Jesu** gehalten wurden.",
+    "latin": "> **Handschriftlicher Katalogeintrag.** Die Lesung einzelner Wörter und Zahlen ist wegen der Handschrift teilweise unsicher.\n\n24 sermones selectos, eosque Viennae ab anno 1658 usque ad annum 1678 typis mandatos sequuntur in 226 paginis variae orationes academicae ab una eademque manu scriptae. Sunt autem hae orationes:\n\n- Oratio de Nativitate Christi; pp. 1–8.\n- Oratio qua Immaculata Marianae Conceptionis puritas adumbratur; pp. 9–16 (1674).\n- Oratio de Immaculata Conceptione B. M. V.; pp. 17–21a.\n- Alia de eadem; pp. 21a–26.\n- Congregatio B. M. V. in coelos assumptae; pp. 27–30 (1674).\n- Oratio qua nata Deipara ver gratiae attulisse demonstratur; pp. 31–38.\n- Festum S. Stephani; pp. 39–46, cuius chronogrammaticum 1666–1671.\n- Oratio qua S. Ignatius Rosae comparatur; pp. 47–62.\n- Oratio de S. Francisco Xaverio; pp. 63–74.\n- Oratio de S. Francisco Borgia; pp. 75–89.\n- Oratio: Beatus Aloysius comparatur monarcho; pp. 91–102.\n- Oratio, in qua laudatur factum Aloysii, quod [Ma...chioratum?] contempserit; pp. 103–114.\n- Corona matris suae B. Aloysius Societatis Jesu filius; pp. 115–126.\n- Oratio de modestia B. Aloysii; pp. 127–142.\n- Oratio qua beatus Aloysius in Iride repraesentatur; pp. 143–154.\n- Oratio qua B. Aloysius Avi Paradisiacae comparatur; pp. 155–170.\n- Oratio seu descriptio panegyrica D. Catharinae Rhetorum ac Philosophorum Principis; pp. 171–186.\n- Gratulatorium Speculum de Sanctis Innocentibus; pp. 187–198.\n- Oratio, in qua ostenditur nobilius esse vincere eloquentia quam Marte; pp. 199–210.\n- Chria verbalis: Suadetur voluptatis fuga; pp. 211–218.\n- Oratio in Dominica S. post Pascha; pp. 219–226.\n\nTegumentum tribus libris chartaceum folio membranaceo tectum et in dorso titulo „Orationes selectae“ inscriptum; IV° in tegumenti priore a latere interiore inscriptum est.\n\nDona accepit à R. M. Philippo Jacobo Franz, Domino Parocho in Opponitz, 1684. P. Leopoldus Wimmer tunc temporis confessarius in D. Smi. Trinitatis Monte. Putandum est has orationes Viennae in Collegio Societatis Jesu habitas esse."
   }
 }

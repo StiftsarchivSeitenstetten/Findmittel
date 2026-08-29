@@ -14,30 +14,58 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 50
 ms_contents:
-  summary: Theologische und moraltheologische Vorlesungen über Sakramente, Dekalog, menschliche Handlungen, Gesetze sowie
-    Sünden und Laster.
+  summary: Theologische und moraltheologische Vorlesungen über Sakramente, Dekalog, menschliche Handlungen, Gesetze sowie Sünden und Laster.
   items:
   - label: a
     title: Tractatus De Sacramentis in Communi
-    locus: S. 3–122
+    locus: p. 3 - 122
+    incipits:
+    - text: Materia huius anni authore Deo....
+    colophons:
+    - locus: p. 122
+      text: Hic Tractatus est finitus 16 Januarii â prandiis quando dictare debebat P. Brogiolly (Progiolly?) qui tunc infirmus fuit Anno 1651.
+    title_status: unspecified
   - label: b
     title: De Sacramentis in particulari
-    locus: S. 123–434
+    locus: p. 123 - 434
+    title_status: unspecified
   - label: c
     title: De Tribus Primis Praeceptis Decalogi
-    locus: S. 437–528
+    locus: p. 437 - 528
+    incipits:
+    - text: Currenti Studiorum Anno 1650 ex praescripto Scholastico....
+    explicits:
+    - locus: p. 528
+      text: 'Huc usque P. Angelus Progyolo S. Jesu Philosophiae Decanus Natione Venetus, Patritius Conditione. (Disputatio I: De Conscientia;
+        II: De Legibus)'
+    title_status: unspecified
   - label: d
     title: De Actibus Humanis
-    locus: S. 529–617
+    locus: p. 529 - 617
+    incipits:
+    - text: Voluntarium recte definitum est id....
+    colophons:
+    - locus: p. 617
+      text: Hanc lectionem scripsi in Vigilia seu Sabbato Palmarum quo finivimus materiam de actibus humanis et libero arbitrio praeside P. Henrico
+        Herding S. S. Theologiae Doctore, qui etiam materiam de Legibus resumpsit dictavitque ab initio iter incipiendo, licet P. P. Angelus Progyolo
+        materiam eandem iam inceperit. die 16 Aprilis 1651.
+    title_status: unspecified
   - label: e
     title: De Legibus
-    locus: S. 618–674
+    locus: p. 618 - 674
+    incipits:
+    - locus: p. 618
+      text: 'Dico 1°: nomen Legis sumitur pro regula directrice actionum moralium....'
+    title_status: unspecified
   - label: f
     title: De Peccatis et Vitiis
-    locus: S. 675–773
+    locus: p. 675 - 773
+    title_status: unspecified
   - label: g
     title: Index rerum alphabeticus
-    locus: S. 774–778
+    locus: p. 774 - 778
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

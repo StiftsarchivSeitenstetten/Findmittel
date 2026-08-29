@@ -17,14 +17,32 @@ ms_contents:
   items:
   - label: a
     title: Prolegomena Totius Theologiae
-    locus: S. 7–60
+    locus: p. 7–60
+    incipits:
+    - locus: p. 7
+      text: Proemium. Agit S. Doctor de Deo Uno, Trino, et Creatore Angelorum.....
+    title_status: unspecified
   - label: b
     title: Tractatus quinque de Deo Uno
-    locus: S. 61–737
-    title_type: supplied
+    locus: p. 61–737
+    incipits:
+    - locus: p. 61
+      label: Tractatus Primi
+      text: Quia Deus est praecipuum huius scientiae subiectum....
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Tractatus Ultimus De Sacro Trinitatis Mysterio
-    locus: S. 738–860
+    locus: p. 738–860
+    incipits:
+    - locus: p. 738
+      text: Puteus quidem hic altus est....
+    title_status: unspecified
+    colophons:
+    - locus: p. 860
+      text: 10 Octobris 1663.
+    notes:
+    - 'Inscriptio dorsi: "MS. Reverendissimi Abelzhauser'
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser

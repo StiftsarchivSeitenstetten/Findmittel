@@ -9,16 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 64
 ms_contents:
-  title: "Lese- und Bethbuch für höhere Stände Zweyte Auflage"
   items:
-  - label: "a"
-    title: "Lese- und Bethbuch für höhere Stände Zweyte Auflage"
-    locus: "S. 1–166"
-  - label: "b"
-    title: "Nachträge von anderen Händen"
-    title_type: "supplied"
-    locus: "S. 167–168"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+  - label: a
+    title: Lese- und Bethbuch für höhere Stände Zweyte Auflage
+    locus: p. 164
+    title_status: unspecified
+  notes:
+  - p. 167 et 168 ab aliis manibus scriptae sunt.
 phys_desc:
   object_form: codex
   support: Papier

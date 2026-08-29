@@ -10,21 +10,25 @@ ms_identifier:
   idno: MN II 163
 ms_contents:
   title: Tractatus in primam Divi Thomae partem De Deo Uno
-  completeness: incomplete
+  completeness:
+    status: defective
+    note: incomplete
   note: Das Ende des ersten Teils über den einen Gott und der gesamte zweite Teil über den dreieinigen Gott fehlen.
   items:
   - label: a
     title: Disputatio Prolegomenalis De Natura et qualitatibus Theologiae
-    locus: S. 15–139
+    locus: p. 15–139
+    title_status: unspecified
   - label: b
     title: Pars Prima De Deo uno
-    locus: S. 139–525
-    completeness: incomplete
+    locus: p. 139–525
+    completeness:
+      status: defective
+      note: incomplete
     note: Der Schluss dieses Teils fehlt.
-  - label: c
-    title: Pars Secunda De Deo Trino
-    completeness: missing
-    note: Dieser Teil fehlt vollständig.
+    title_status: unspecified
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,19 +10,28 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 T (XVIII 3 m)
 ms_contents:
-  title: "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670"
   items:
-  - label: "a"
-    title: "Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii......"
-    locus: "Bl. IIr"
-  - label: "b"
-    title: "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670"
-    locus: "Bl. 1r–382r"
-    incipit: "Hactenus philosophi monitum obsecuti...."
-    explicit: "absolvimus 8 februarii 1670........"
-  - label: "c"
-    title: "Index Rerum Omnium"
-    locus: "Bl. 382v–387v"
+  - label: a
+    title: Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore.
+      incepta 1669 22.do die Junii......
+    locus: fol. 1–382r
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Hactenus philosophi monitum obsecuti....
+    colophons:
+    - locus: fol. 382r
+      text: absolvimus 8 februarii 1670........
+    title_status: attested
+    title_source: heading
+    alternate_titles:
+    - title: 'Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670'
+      title_status: attested
+      title_source: heading
+  - label: b
+    title: Index Rerum Omnium
+    locus: fol. 382v–387v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

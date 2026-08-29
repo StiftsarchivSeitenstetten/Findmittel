@@ -18,25 +18,48 @@ ms_contents:
   items:
   - label: a
     title: Proaemium in Aristotelis Organum
-    locus: S. 1–147
+    locus: p. 1 - 147
+    incipits:
+    - locus: p. 3
+      text: 'Omnes homines inquit Aristoteles, 1. Met: Cap. 1. natura scire desiderant....;'
+    colophons:
+    - locus: p. 147
+      text: Absolvimus prolegomena 19. Decembris 1650.
+    title_status: unspecified
   - label: b
     title: Isagoge Porphyrii
-    locus: S. 148–310
+    locus: p. 148 - 310
+    incipits:
+    - locus: p. 149
+      text: Chrysaorius genere Patritius....
+    colophons:
+    - locus: p. 310
+      text: Absolvimus Universalia 31. Januarii ante prandium. eodem autem die Fr. Placidus post prandium et Fr. Bernardus Glunicensis discesserunt
+    title_status: unspecified
   - label: c
     title: Praedicamenta Aristotelis
-    locus: S. 311–554
+    locus: p. 311 - 554
+    incipits:
+    - locus: p. 312
+      label: Prooemii
+      text: Totius logicae I
+    title_status: unspecified
   - label: d
     title: Peri Hermenias / De Interpretatione
     locus: S. 555–678
+    title_status: unspecified
   - label: e
     title: Analytica Priora
     locus: S. 679–856
+    title_status: unspecified
   - label: f
     title: Index Totius Logicae
-    locus: S. 857–867
+    locus: p. 857 - 867
+    title_status: unspecified
   - label: g
     title: Nomina RR PP Convictorum
-    locus: S. 885–890
+    locus: p. 885 - 890
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

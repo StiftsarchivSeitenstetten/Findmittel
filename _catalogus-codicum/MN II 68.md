@@ -12,29 +12,40 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 68
 ms_contents:
-  title: Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque
-    Matrimonii
+  title: Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii
   items:
   - label: a
     title: De Sacramento Poenitentiae
     locus: fol. 2v–322r
+    colophons:
+    - locus: fol. 322r
+      text: Absolvimus primo Julii. 1654.
+    title_status: unspecified
   - label: b
     title: De Sacramento Extremae Unctionis
     locus: fol. 325r–357v
+    title_status: unspecified
   - label: c
     title: De Sacramento Ordinis
     locus: fol. 358r–400r
+    title_status: unspecified
   - label: d
     title: De Sponsalibus
-    locus: fol. 404r–452v
+    locus: fol. 1r–49v
+    title_status: unspecified
   - label: e
     title: De Matrimonio
-    locus: fol. 453r–560v
+    locus: fol. 50r–157v
+    colophons:
+    - locus: fol. 157
+      text: Absolvimus II Die Aprilis Anno MDCLV.
+    title_status: unspecified
   responsibility:
   - role: author_or_lecturer
     name: unbekannt
   - role: scribe
     name: unbekannt
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

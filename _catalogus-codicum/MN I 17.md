@@ -19,30 +19,29 @@ ms_identifier:
   idno: "MN I 17"
 
 ms_contents:
-  overall_title:
-    title: "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?"
-    title_type: "original"
-    language: "de"
-
   items:
-    - item: 1
-      title: "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?"
-      title_type: "original"
-      responsibility_statement: "In Drey Abschnitten entworffen Von Khristoph Reinisch der Freyen Künste, und Weltweißheit Doktor auf der hohen Schule zu Saltzburg."
-      language:
-        - "de"
-      responsibility:
-        - role: "author"
-          name: "Khristoph Reinisch"
-          normalized_name: "Christoph Reinisch"
-      structure:
-        parts: 3
-      subject:
-        - "Böhmischer Klerus"
-        - "Ordensleute"
-        - "Klöster"
-        - "Kirche und Staat"
-
+  - item: 1
+    title: Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber
+      der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?
+    responsibility_statement: In Drey Abschnitten entworffen Von Khristoph Reinisch der Freyen Künste, und Weltweißheit Doktor auf der hohen Schule
+      zu Saltzburg.
+    responsibility:
+    - role: author
+      name: Khristoph Reinisch
+      normalized_name: Christoph Reinisch
+    structure:
+      parts: 3
+    subject:
+    - Böhmischer Klerus
+    - Ordensleute
+    - Klöster
+    - Kirche und Staat
+    languages:
+    - de
+    title_status: unspecified
+    locus: p. 61 eti
+  languages:
+  - de
 phys_desc:
   object_form: "codex"
   format: "Folio"

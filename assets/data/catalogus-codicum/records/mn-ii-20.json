@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-20",
   "signature": "MN II 20",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "13–14",
   "heading": {
     "title": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "1632/33"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,18 +49,42 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "attested",
+        "typeLabel": "überlieferter Titel"
       },
-      "locus": "Bl. 1r–318v",
+      "locus": "fol. 1 - 318v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+          "label": "Protologiae ad Universam Philosophiam Aristotelis f. 1r",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 38r",
+          "text": "Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)",
+          "id": "colophon-1"
+        },
+        {
+          "text": "Absolvimus nono Maii 1.6.33",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,...."
+        "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+        "label": "Protologiae ad Universam Philosophiam Aristotelis f. 1r",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Absolvimus nono Maii 1.6.33"
+        "locus": "fol. 38r",
+        "text": "Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [],
@@ -68,15 +95,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "typeRaw": "attested",
+        "typeLabel": "überlieferter Titel"
       },
       "locus": "Bl. 319r–326v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Protologiae ad Universam Philosophiam Aristotelis f. 1r",
+          "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 38r",
+          "text": "Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Protologiae ad Universam Philosophiam Aristotelis f. 1r",
+        "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 38r",
+        "text": "Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -166,13 +217,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-20/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 20",
     "titles": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.) \nOrgani Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.) \nIndex",
-    "persons": "P. Simon Fyrbas OSB Dozent lecturer \nFr. Benedict Graff OSB Schreiber scribe",
-    "incipits": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
-    "explicits": "Absolvimus nono Maii 1.6.33",
-    "notes": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung.",
-    "physical": "Papier \nII + 328 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "persons": "P. Simon Fyrbas OSB Dozent lecturer  \nFr. Benedict Graff OSB Schreiber scribe ",
+    "incipits": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,.... \nIllud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+    "explicits": "Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis) \nAbsolvimus nono Maii 1.6.33 \nAbsolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)",
+    "notes": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung. \nF B G P S",
+    "physical": "Papier \nII + 328 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "II + 328 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1632/33.\n\n**Theorien zum Organon des Aristoteles**, diktiert von P. Simon Fyrbas, Mönch von Scheyern; mitgeschrieben von Fr. Benedict Graff, Profess desselben Ordens in Seitenstetten. Salzburg 1632 (doch wurde in diesem Jahr nur das Titelblatt geschrieben): Bl. 1–318v; Register Bl. 319–326v.\n\nAnfang der Protologie zur gesamten Philosophie des Aristoteles Bl. 1r: **Jener Streit, der nach Sallusts Zeugnis lange unter den Sterblichen bestand,....**\n\nSchlussvermerke Bl. 38r (**18. Dezember 1632**) .... Bl. 318v: **Wir schlossen am 9. Mai 1633 ab** (mit zwei Hexametern).\n\nAuf der Vorderseite des Einbandes vergoldete Initialen: **F B G P S = Frater Benedictus Graff Professus Seittenstettensis.**\n\nDenselben Schreiber findet man auch in den folgenden Codices.",
+    "latin": "II + 328 foll., teg. a2, script. 1632/33\n\n*Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.):* fol. 1 - 318v (Index f. 319 - 326v)\n\nInitium Protologiae ad Universam Philosophiam Aristotelis f. 1r: Illud, quod Sallustio teste, diu inter mortales certamen fuit,....\n\nClausulae fol. 38r (18 Decembris. Anno 1632.)....fol. 318v: Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)\n\nIn parte adversa tegumenti litterae initiales inauratae: F B G P S = Frater Benedictus Graff Professus Seittenstettensis\n\nEundem scriptorem invenies etiam in sequentibus codicibus."
   }
 }

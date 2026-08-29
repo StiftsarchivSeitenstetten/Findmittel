@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-69",
   "signature": "MN II 69",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "45",
   "heading": {
     "title": "Commentarius In Aristotelis Organum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1654"
   },
   "date": {
@@ -28,32 +28,51 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius In Aristotelis Organum",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
     "note": "",
-    "completeness": "Am Ende fehlen viele Blätter."
+    "completeness": ""
   },
   "contents": [
     {
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Aristotelis Organum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–143v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 2r",
+          "label": "Prooemii",
+          "text": "Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 2r",
+        "label": "Prooemii",
+        "text": "Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -62,22 +81,7 @@
         }
       ],
       "dates": [],
-      "persons": [
-        {
-          "name": "P. Anselm Schlager",
-          "roleRaw": "lecturer",
-          "roleLabel": "Dozent",
-          "scope": "item",
-          "itemId": "item-1"
-        },
-        {
-          "name": "Fr. Adam Piringer",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1"
-        }
-      ],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -100,20 +104,6 @@
       "roleRaw": "scribe",
       "roleLabel": "Schreiber",
       "scope": "contents"
-    },
-    {
-      "name": "P. Anselm Schlager",
-      "roleRaw": "lecturer",
-      "roleLabel": "Dozent",
-      "scope": "item",
-      "itemId": "item-1"
-    },
-    {
-      "name": "Fr. Adam Piringer",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -215,13 +205,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 69",
     "titles": "Commentarius In Aristotelis Organum \nCommentarius In Aristotelis Organum",
-    "persons": "Adam Piringer unspecified unspecified \nP. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe \nP. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe",
-    "incipits": "",
+    "persons": "Adam Piringer unspecified unspecified  \nP. Anselm Schlager Dozent lecturer  \nFr. Adam Piringer Schreiber scribe ",
+    "incipits": "Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.",
     "explicits": "",
-    "notes": "Am Ende fehlen viele Blätter. \nAm Ende fehlen viele Blätter.",
-    "physical": "Papier \n143 Blätter \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "Am Ende fehlen viele Blätter.",
+    "physical": "Papier \n143 Blätter \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "143 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.\n\n**Kommentar zum Organon des Aristoteles, diktiert von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten niederösterreichischen Kloster Seitenstetten, im Jahr 1654:** fol. 1–143v. Am Ende fehlen viele Blätter.\n\nAnfang der Vorrede fol. 2r: Da die Logik Weise und Werkzeug des Wissens ist.......\n\nDenselben Kommentar zum Organon des Aristoteles enthalten die Codices MN II 49 (oben S. 41!) und MN II 65 (oben S. 42!) b.\n\nDerselbe Fr. **Adam Piringer** schrieb auch die beiden folgenden Codices. Von 1674 bis 1679 war dieser überaus fromme Mönch Abt von Seitenstetten.",
+    "latin": "143 foll.; teg. a1; script. 1654\n\nCommentarius In Aristotelis Organum Dictatus A .... **P. Anselmo Schlager** Monacho Benedictino Andecensi Exceptus A Religioso F. **Adamo Piringer** Eiusdem Ordinis Monacho Professo in Celeberrimo Monasterio Austriae inferioris Seittenstettensi Anno 1654: fol. 1–143v. In fine desunt multa folia.\n\nInitium Prooemii fol. 2r: Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.\n\nIdem Frater Adamus Piringer etiam duos sequentes codices scripsit. 1674–1679 monachus ille religiosissimus Abbas Seittenstettensis fuit."
   }
 }

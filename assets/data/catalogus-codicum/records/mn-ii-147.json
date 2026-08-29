@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-147",
   "signature": "MN II 147",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "107–108",
   "heading": {
     "title": "Philosophia Naturalis seu Physica Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1685/86"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Philosophia Naturalis seu Physica Aristotelico-Thomistica",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Philosophia Naturalis seu Physica Aristotelico-Thomistica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. III, IV, 1–332",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. IVr",
+          "label": "Prooemii",
+          "text": "A Spineto Logicae digredimur in Jucundissimos Naturae campos....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 332v",
+          "text": "Finivimus 23. Martii post prandium. 1686.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. IVr",
+        "label": "Prooemii",
+        "text": "A Spineto Logicae digredimur in Jucundissimos Naturae campos....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 332v",
+        "text": "Finivimus 23. Martii post prandium. 1686.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -72,15 +101,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In duos Libros Aristotelis De Ortu et Interitu sive De Generatione et Corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 333r–445r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "Agemus in praesenti de modo, quô res naturales....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 20. Maii ante prandium.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "Agemus in praesenti de modo, quô res naturales....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus 20. Maii ante prandium.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -95,15 +146,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Tres Libros Aristotelis De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 447r–535v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "Haec est pulcherrima philosophiae pars....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Coronis Tractatui huius de Anima imposita est 25. Junii 1686. Quem Tractatum cum parergis ex Universa Philosophia 26. eiusdem cum laude defendit Dominus Stockhamer. In Vigilia Sanctorum Petri et Pauli media 8. (hora) itur processionaliter ad Ecclesiam Cathedralem et finitô sacrô ad S. Petrum per plateam magnam. in ipso festo rursus eunt Domini Convictores ad S. Petrum finitâ Missâ in Aula, et ibi auditur concio et Sacrum.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "Haec est pulcherrima philosophiae pars....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Coronis Tractatui huius de Anima imposita est 25. Junii 1686. Quem Tractatum cum parergis ex Universa Philosophia 26. eiusdem cum laude defendit Dominus Stockhamer. In Vigilia Sanctorum Petri et Pauli media 8. (hora) itur processionaliter ad Ecclesiam Cathedralem et finitô sacrô ad S. Petrum per plateam magnam. in ipso festo rursus eunt Domini Convictores ad S. Petrum finitâ Missâ in Aula, et ibi auditur concio et Sacrum.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -122,15 +195,37 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Metheoris",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 536r–570r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "Appellatur hic Tractatus de Meteoris, quia...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus die. 8. Julii in festo S. Kiliani 1686. post prandium.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "Appellatur hic Tractatus de Meteoris, quia...",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus die. 8. Julii in festo S. Kiliani 1686. post prandium.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -145,15 +240,37 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Libros Metaphysicorum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–28r (=571–598)",
+      "locus": "fol. 1r–28r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "Haec est ultima Philosophiae pars....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Solennem et ultimum finem cursui nostro Philosophico imposuimus Die 20. Julii in festo S. Margaritae die Sabbathi manè Anno 1686.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "Haec est ultima Philosophiae pars....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Solennem et ultimum finem cursui nostro Philosophico imposuimus Die 20. Julii in festo S. Margaritae die Sabbathi manè Anno 1686.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -293,13 +410,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 147",
     "titles": "Philosophia Naturalis seu Physica Aristotelico-Thomistica \nPhilosophia Naturalis seu Physica Aristotelico-Thomistica \nTractatus In duos Libros Aristotelis De Ortu et Interitu sive De Generatione et Corruptione \nTractatus In Tres Libros Aristotelis De Anima \nTractatus De Metheoris \nTractatus In Libros Metaphysicorum Aristotelis",
-    "persons": "P. Bruno Schlibnig Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIV + 570 + 29 = 603 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Bruno Schlibnig Dozent lecturer St. Paul im Lavanttal / Universität Salzburg \nFr. Marcus Starnisi Schreiber scribe Seitenstetten",
+    "incipits": "A Spineto Logicae digredimur in Jucundissimos Naturae campos.... \nAgemus in praesenti de modo, quô res naturales.... \nHaec est pulcherrima philosophiae pars.... \nAppellatur hic Tractatus de Meteoris, quia... \nHaec est ultima Philosophiae pars....",
+    "explicits": "Finivimus 23. Martii post prandium. 1686. \nAbsolvimus 20. Maii ante prandium. \nCoronis Tractatui huius de Anima imposita est 25. Junii 1686. Quem Tractatum cum parergis ex Universa Philosophia 26. eiusdem cum laude defendit Dominus Stockhamer. In Vigilia Sanctorum Petri et Pauli media 8. (hora) itur processionaliter ad Ecclesiam Cathedralem et finitô sacrô ad S. Petrum per plateam magnam. in ipso festo rursus eunt Domini Convictores ad S. Petrum finitâ Missâ in Aula, et ibi auditur concio et Sacrum. \nAbsolvimus die. 8. Julii in festo S. Kiliani 1686. post prandium. \nSolennem et ultimum finem cursui nostro Philosophico imposuimus Die 20. Julii in festo S. Margaritae die Sabbathi manè Anno 1686.",
+    "notes": "Stockhamer verteidigte den Traktat De Anima mit Ergänzungen aus der gesamten Philosophie mit Lob. \nVermerk über Prozession zur Kathedrale und nach St. Peter sowie über Predigt und Gottesdienst am Festtag. \nZwei Studenten, die in Tietmaning aufgegriffen worden waren, wurden wegen Diebstahls in die Gefängnisse gebracht.",
+    "physical": "Papier \nIV + 570 + 29 = 603 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "IV + 570 + 29 = 603 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1685/86.\n\na) **Naturphilosophie oder aristotelisch-thomistische Physik**, vorgetragen an der erzbischöflichen Universität Salzburg von P. Bruno Schlibnig, Benediktiner und Profess von St. Paul in Kärnten, Doktor der Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, 1686: fol. III, IV, 1–332. Anfang der Vorrede fol. IVr: Vom Dornengestrüpp der Logik schreiten wir zu den angenehmsten Gefilden der Natur.... Randnotiz: **Begonnen am 13. Juli 1685 vor dem Mittagessen.** Schluss fol. 332v: **Beendet am 23. März 1686 nach dem Mittagessen.**\n\nb) **Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** fol. 333r–445r. Anfang: Wir behandeln hier die Weise, auf welche die Naturdinge.... Schluss: **Beendet am 20. Mai vor dem Mittagessen.**\n\nc) **Abhandlung zu den drei Büchern des Aristoteles Über die Seele:** fol. 447r–535v. Anfang: Dies ist der schönste Teil der Philosophie.... Randnotiz: **Am 20. Mai erste Nachmittagsvorlesung dieser Abhandlung.** Schluss: **Diese Abhandlung über die Seele wurde am 25. Juni 1686 abgeschlossen. Am 26. desselben Monats verteidigte Herr Stockhamer sie mit Ergänzungen aus der gesamten Philosophie mit Lob. Am Vorabend der Apostel Petrus und Paulus geht man gegen halb acht in Prozession zur Kathedrale und nach dem Gottesdienst durch die große Gasse nach St. Peter. Am Fest selbst gehen die Konviktoren nach der Messe in der Aula wiederum nach St. Peter; dort hört man Predigt und Gottesdienst.**\n\nd) **Abhandlung über die Meteorologie:** fol. 536r–570r. Anfang: Diese Abhandlung heißt „Über die Meteore“, weil.... Schluss: **Beendet am 8. Juli, dem Fest des hl. Kilian, 1686, nach dem Mittagessen.**\n\ne) **Abhandlung zu den Büchern der Metaphysik des Aristoteles:** fol. 1r–28r (=571–598). Anfang: Dies ist der letzte Teil der Philosophie.... Randnotiz: **Am 10. Juli begannen wir diese Abhandlung. Am selben Tag begannen die neuen Physiker wieder den Unterricht. Ebenfalls am 10. Juli wurden zwei Studenten aus Tietmaning, wo sie aufgegriffen worden waren, wegen Diebstahls in die hiesigen Gefängnisse gebracht.** Schluss: **Unserem philosophischen Kurs setzten wir am Samstagmorgen, dem 20. Juli, am Fest der hl. Margareta, im Jahr 1686 ein feierliches und endgültiges Ende.**\n\nAm Ende jeder Vorlesung ist ihre Nummer vermerkt: insgesamt 277 Physik- und 14 Metaphysikvorlesungen. Teil a enthält auch Archivcodex 34–18, die Teile b–e MN II 144. Fr. Marcus Starnisi schrieb auch den vorhergehenden und die sieben folgenden Codices.",
+    "latin": "IV + 570 + 29 = 603 foll.; teg. a2; script. 1685/86\n\na) Philosophia Naturalis seu Physica Aristotelico-Thomistica Tradita In Alma, et Archi-Episcopali Universitate Salisburgensi Ab Admodum Reverendo P. Brunone Schlibnig Ordinis S. P. Benedicti Celeberrimi Monasterii ad S. Paulum in Carinthia Professo, Philosophiae Doctore, et Professore Ordinario. Excepta A Religioso F. Marco Starnisi, Ordinis S. Benedicti Professo Seittenstettensi Anno 1686: fol. III, IV, 1–332. Initium Prooemii fol. IVr: A Spineto Logicae digredimur in Jucundissimos Naturae campos.... Nota in margine inferiore: Incepimus 13. Julii 1685. ante prandium. Clausula fol. 332v: Finivimus 23. Martii post prandium. 1686.\n\nb) Tractatus In duos Libros Aristotelis De Ortu et Interitu, sive De Generatione et Corruptione: fol. 333r–445r. Initium Disputationis Primae: Agemus in praesenti de modo, quô res naturales.... Clausula: Absolvimus 20. Maii ante prandium.\n\nc) Tractatus In Tres Libros Aristotelis De Anima: fol. 447r–535v. Initium Disputationis Primae: Haec est pulcherrima philosophiae pars.... Nota in margine inferiore: Die 20 Maii Lectio prima pomeridiana huius Tractatus. Clausula: Coronis Tractatui huius de Anima imposita est 25. Junii 1686. Quem Tractatum cum parergis ex Universa Philosophia 26. eiusdem cum laude defendit Dominus Stockhamer. In Vigilia Sanctorum Petri et Pauli media 8. (hora) itur processionaliter ad Ecclesiam Cathedralem et finitô sacrô ad S. Petrum per plateam magnam. in ipso festo rursus eunt Domini Convictores ad S. Petrum finitâ Missâ in Aula, et ibi auditur concio et Sacrum.\n\nd) Tractatus De Metheoris: fol. 536r–570r. Initium Disputationis Primae: Appellatur hic Tractatus de Meteoris, quia... Clausula: Absolvimus die. 8. Julii in festo S. Kiliani 1686. post prandium.\n\ne) Tractatus In Libros Metaphysicorum Aristotelis: fol. 1r–28r (= 571–598). Initium Disputationis Primae: Haec est ultima Philosophiae pars.... Nota in margine inferiore: Die 10. Julii incepimus hunc Tractatum. Eodem die rursus frequentabant neo-Physici. Item 10. Julii duo studiosi ex Tietmaning (ubi fuêre deprehensi) huc deducti ad carceres ratione furti. Clausula: Solennem et ultimum finem cursui nostro Philosophico imposuimus Die 20. Julii in festo S. Margaritae die Sabbathi manè Anno 1686.\n\nIn fine uniuscuiusque lectionis numerus notatur. Fuerunt igitur universim 277 lectiones physicae et 14 lectiones metaphysicae. Partem a codicis nostri continet etiam Cod. 34–18 (supra p. 105!), partes b–e Cod. MN II 144 (ibidem!). Fr. Marcus Starnisi etiam codicem praecedentem et 7 codices sequentes scripsit."
   }
 }

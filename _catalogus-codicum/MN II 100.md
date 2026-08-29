@@ -19,23 +19,43 @@ ms_contents:
     title: Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere
     locus: fol. 1r–81r
     lecturer: P. Desiderius Schapperger
+    incipits:
+    - label: Prooemii
+      text: Post considerationem eorum inquit Angelicus Doctor hic in proemio......
+    title_status: unspecified
   - label: b
     title: Quaestio 66 De Pertinentibus ad Sacramentum baptismi
     locus: fol. 81v–100r
     lecturer: P. Desiderius Schapperger
+    incipits:
+    - locus: fol. 81v
+      text: Nomen baptismus graecum est.....
+    title_status: unspecified
   - label: c
     title: Quaestio 72 De Sacramento Confirmationis
     locus: fol. 100r–102r
     lecturer: P. Desiderius Schapperger
+    incipits:
+    - locus: fol. 100v
+      text: Suppositis iis quae huc usque de baptismo......
+    title_status: unspecified
   - label: d
     title: Quaestio 73 De Sacramento Eucharistiae Secundum Se
     locus: fol. 102v–164v
     lecturer: P. Desiderius Schapperger
+    incipits:
+    - text: Eucharistiae nomen Graecum est et latinis idem significat.....
+    title_status: unspecified
   - label: e
     title: Tractatus Theologicus Moralis in Praecepta Decalogi et Ecclesiae
     locus: fol. 169r–272r
     author_or_lecturer: unbekannt
-    completeness: verstümmelt
+    completeness:
+      status: defective
+      note: verstümmelt
+    incipits:
+    - text: Non excurro multum in laudes et praeconia moralis Theologiae......
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Fr. Ambrosius Marholt

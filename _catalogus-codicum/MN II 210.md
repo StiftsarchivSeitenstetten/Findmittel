@@ -9,13 +9,21 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 210
 ms_contents:
-  title: Tractatus Theologicus De Incarnatione
   items:
   - label: a
     title: Tractatus Theologicus De Incarnatione
     locus: S. 1–437
     end_date_display: 13. Juli, Jahr nicht angegeben
     note: Nach der Schlussformel schloss der Vortragende an diesem Tag seinen gesamten Kurs ab.
+    incipits:
+    - locus: p. 1
+      label: Proemii
+      text: Obiectum huius tractatus est unum verbum,....
+    colophons:
+    - locus: p. 437
+      text: 'Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi),
+        qui eo die totum absolverat cursum......'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

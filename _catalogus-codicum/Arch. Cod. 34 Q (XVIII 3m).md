@@ -13,12 +13,18 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 Q (XVIII 3m).
   items:
   - label: a
-    catalog_statement: 'a parte adversa: Sammlung Kurzer Predigten. Aus verschiedenen Rednern zusammengetragen, und für das
-      Landvolck eingerichtet. I Jahrgang P. Benedictus Walcher Ordinis S. Benedicti Professus Seittenstettensis. 1780.'
+    catalog_statement: 'a parte adversa: Sammlung Kurzer Predigten. Aus verschiedenen Rednern zusammengetragen, und für das Landvolck eingerichtet.
+      I Jahrgang P. Benedictus Walcher Ordinis S. Benedicti Professus Seittenstettensis. 1780.'
+    title: 'a parte adversa: Sammlung Kurzer Predigten. Aus verschiedenen Rednern zusammengetragen, und für das Landvolck eingerichtet. I Jahrgang
+      P. Benedictus Walcher Ordinis S. Benedicti Professus Seittenstettensis. 1780'
+    title_status: unspecified
   - label: b
-    catalog_statement: 'a parte aversa: Skizzen zur Bearbeitung Neuer Predigten für das Landvolke. III. Heft. Von P. B. W.
-      (= P. Benedictus Walcher) gesammelt 1793. Qui tamen numerus nil nisi quando auctor noster initium huius collectionis
-      posuerit significat. Nam ultima concio huius partis (No. 402) habita est Dominica III post Pascha 1820.'
+    catalog_statement: 'a parte aversa: Skizzen zur Bearbeitung Neuer Predigten für das Landvolke. III. Heft. Von P. B. W. (= P. Benedictus Walcher)
+      gesammelt 1793. Qui tamen numerus nil nisi quando auctor noster initium huius collectionis posuerit significat. Nam ultima concio huius
+      partis (No. 402) habita est Dominica III post Pascha 1820.'
+    title: 'a parte aversa: Skizzen zur Bearbeitung Neuer Predigten für das Landvolke. III. Heft. Von P. B. W. (= P. Benedictus Walcher) gesammelt
+      1793. Qui tamen numerus nil nisi quando auctor noster'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

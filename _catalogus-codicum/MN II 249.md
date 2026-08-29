@@ -13,36 +13,54 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholasticus In tertiam partem Angelici Magistri â quaestione 60 de Sacramentis in Genere et Specie. Proloquium
-    locus: S. 7
-    incipit: Tractare aggredimur (!) de Sacramentis
+    locus: p. 7
+    incipits:
+    - text: Tractare aggredimur (!) de Sacramentis,.....
+    title_status: unspecified
   - label: b
     title: Pars Prima De Sacramentis in Genere
-    locus: S. 7–69
-    incipit: Ordinem doctrinae servaturi
+    locus: p. 7–69
+    incipits:
+    - text: Ordinem doctrinae servaturi,.....
+    title_status: unspecified
   - label: c
     title: Pars Secunda. De Sacramentis in Specie
-    locus: S. 70–94
-    incipit: Nomen baptismus propriè immersionem significat
+    locus: p. 70–94
     end_date_display: 23. August 1718
-    note: Der Katalogbearbeiter ergänzt in runden Klammern „scilicet de baptismo, confirmatione, eucharistia“; diese Ergänzung ist nicht Teil des überlieferten Titels.
+    note: Der Katalogbearbeiter ergänzt in runden Klammern „scilicet de baptismo, confirmatione, eucharistia“; diese Ergänzung ist nicht Teil
+      des überlieferten Titels.
+    incipits:
+    - text: Nomen baptismus propriè immersionem significat......
+    colophons:
+    - text: Anno 1718 die 23 Augusti. (= Andreas Bischoff Seitenstettensis)
+    title_status: unspecified
   - label: d
     title: Notata de Sacramentis in genere
-    locus: S. 101–104 und 104–116
+    locus: p. 101–104
     note: Der zweite Abschnitt betrifft die Sakramente in specie.
+    title_status: unspecified
   - label: e
     title: Notata Alia circa diversos illos Articulos de Sacramentis in specie
-    locus: S. 117–139
+    locus: p. 117–139
+    title_status: unspecified
   - label: f
     title: Tractatus Theologicus In Tertiam Partem Divi Thomae Proloquium
-    locus: S. 141
-    incipit: Rubum illum ardentem quem videret Moyses
+    locus: p. 141
+    incipits:
+    - text: Rubum illum ardentem quem videret Moyses.....
+    title_status: unspecified
   - label: g
     title: Pars Prima. De Sacramento Poenitentiae
-    locus: S. 141–339
+    locus: p. 141–339
+    title_status: unspecified
   - label: h
     title: Notata de Poenitentia Ut Sacramentum et Virtus est
-    locus: S. 341–363
+    locus: p. 341–363
     end_date_display: '1719'
+    colophons:
+    - text: Anno 1719.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

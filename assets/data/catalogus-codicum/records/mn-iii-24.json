@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-24",
   "signature": "MN III 24",
   "aliases": [
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Exercitia ad syntaxin Latinam discendam",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Exercitia ad syntaxin Latinam discendam",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–246",
+      "locus": "p. 5",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -131,13 +138,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-24/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 24",
     "titles": "Exercitia ad syntaxin Latinam discendam \nExercitia ad syntaxin Latinam discendam",
-    "persons": "Joseph Hueber Schreiber scribe",
+    "persons": "Joseph Hueber Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; grammatische Regeln und ihre Erklärungen sind deutsch, die Beispiele lateinisch.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Roter Einband mit weißem Rücken und weißen Kanten."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Roter Einband mit weißem Rücken und weißen Kanten.",
+    "german": "Kleines Oktavformat; 246 Seiten; roter Einband mit weißem Rücken und weißen Kanten; geschrieben 1709.\n\n**Übungen zum Erlernen der lateinischen Syntax.**\n\nDie grammatischen Regeln und ihre Erklärungen werden in deutscher Sprache gegeben und durch zahlreiche lateinische Beispiele veranschaulicht.\n\nNotiz am oberen Rand von S. 5: **Pro Josepho Hueber 1709.**\n\nDa diese Notiz vollständig mit der Schrift des ganzen Büchleins übereinstimmt, ist Joseph Hueber der Schreiber des Codex. Wahrscheinlich war er ein Bruder der Seitenstettner Mönche Hieronymus und Marianus Hueber und wurde 1696 in der Pfarre Ybbsitz geboren.\n\nDer letzte Satz des Katalogeintrags ist im Scan abgeschnitten.",
+    "latin": "8° min.; 246 pagg.; tegumentum rubrum cum dorso et extremis albis; scriptus 1709\n\n(Exercitia ad syntaxin Latinam discendam)\n\nRegulae Grammaticae earumque expositiones lingua Germanica proponuntur multisque exemplis Latinis illustrantur.\n\nNota in margine superiore p. 5: Pro Josepho Hueber 1709.\n\nQuae cum penitus cum scriptura totius libelli conveniat nota, Josepho Hueber scriptor est codicis nostri. Qui probabiliter fuit frater monachorum Seittenstettensium Hieronymi et Mariani Hueber, natus anno 1696 in parochia Ybbsitzensi.\n\n> **Hinweis:** Der letzte Satz („Auctor ig-“) ist am unteren Seitenrand des Scans abgeschnitten."
   }
 }

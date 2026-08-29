@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-5",
   "signature": "MN II 5",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "8",
   "heading": {
-    "title": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Quaestiones De physica auscultatione",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1617"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Naturphilosophische Fragen zu Physik, Himmel, Werden und Meteorologie.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestiones De physica auscultatione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 353",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Quoniam scientia naturalis, quam aggredimur....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Quoniam scientia naturalis, quam aggredimur....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +86,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestio XI In libros de Caelo et Mundo",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 353 - 384",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ut Aristotelis mentem......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ut Aristotelis mentem......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,14 +121,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestio XIII In libros de generatione et corruptione: p. 384 - 410",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestio XIII In libros de generatione et corruptione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 384 - 410",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Primum corporis speciem....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Primum corporis speciem....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -115,14 +156,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 411 - 447",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Explicata Generationis Definitione.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Explicata Generationis Definitione.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -207,13 +260,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-5/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 5",
-    "titles": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391) \nQuaestio XIII In libros de generatione et corruptione: p. 384 - 410 \nQuaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "titles": "Quaestiones De physica auscultatione \nQuaestiones De physica auscultatione \nQuaestio XI In libros de Caelo et Mundo \nQuaestio XIII In libros de generatione et corruptione \nQuaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Quoniam scientia naturalis, quam aggredimur.... \nUt Aristotelis mentem...... \nPrimum corporis speciem.... \nExplicata Generationis Definitione.....",
     "explicits": "",
     "notes": "Naturphilosophische Fragen zu Physik, Himmel, Werden und Meteorologie. \nQuaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391) \nQuaestio XIII In libros de generatione et corruptione: p. 384 - 410 \nQuaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
-    "physical": "Papier \n458 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \n458 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "6 + 452 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben im Jahr 1617.\n\n**a) Fragen zur Physik:** S. 1–353 (= 7–360).\n\nAnfang S. 1 (7): **Da die Naturwissenschaft, an die wir herangehen....**\n\nS. 353 (360): **19. Mai 1617.**\n\n**b) Elfte Frage zu den Büchern Über den Himmel und die Welt:** S. 353–384 (= 360–391).\n\nAnfang: **Um den Sinn des Aristoteles....**\n\n**c) Dreizehnte Frage zu den Büchern Über Werden und Vergehen:** S. 384–410.\n\nAnfang: **Die erste Gestalt des Körpers....**\n\n**d) Vierzehnte Frage. Über die Entstehung des vollkommenen und unvollkommenen Gemischten, wobei die Meteore behandelt werden:** S. 411–447 (= 418–454).\n\nAnfang: **Nachdem die Definition des Werdens erläutert worden ist.....**\n\nVerfasser und Schreiber sind unbekannt. Der Codex scheint jedoch in Graz entstanden zu sein.",
+    "latin": "6 + 452 pagg.; teg. a1; script. anno 1617\n\na) Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)\n\nInitium p. 1 (7): Quoniam scientia naturalis, quam aggredimur....\n\np. 353 (360): 19. Maii Anno 1617\n\nb) Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)\n\nInitium: Ut Aristotelis mentem......\n\nc) Quaestio XIII In libros de generatione et corruptione: p. 384 - 410\n\nInitium: Primum corporis speciem....\n\nd) Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)\n\nInitium: Explicata Generationis Definitione.....\n\nAuctor et Scriptor ignoti. Videtur tamen codex Graecii ortus esse."
   }
 }

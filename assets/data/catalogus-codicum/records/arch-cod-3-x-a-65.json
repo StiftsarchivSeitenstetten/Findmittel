@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-3-x-a-65",
   "signature": "Arch. Cod. 3 X (A 65)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "74–75",
   "heading": {
-    "title": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 3 X (A 65).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio: p. 3.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 3",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice): p. 7–14.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 7–14",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -108,13 +123,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24. (Videtur haec pars tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque ad Alexandrum VIII 1689–1691 postea adderentur. Tota Prophetia Latine composita est.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 15–24",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -131,13 +150,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Verzaichnis der Siben Privilegierten Altär zu Rom (Germanice): p. 24–39.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Verzaichnis der Siben Privilegierten Altär zu Rom (Germanice)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 24–39",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -154,13 +177,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur: p. 40–41.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 40–41",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -177,13 +204,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Variae Indulgentiae): p. 41–48 (p. 45 sub Clemente X Pontifice Maximo 1670–1676 scripta est.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Variae Indulgentiae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 41–48",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -200,13 +231,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Poemata spiritualia Latina): p. 49–59.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Poemata spiritualia Latina",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 49–59",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -223,13 +258,17 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Indulgentiae Coronis Domini nostri Jesu Christi concessae: p. 60/64.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Indulgentiae Coronis Domini nostri Jesu Christi concessae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 60/64",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -246,13 +285,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Poemata spiritualia Latina, partim cum translatione Germanica): p. 65–87.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Poemata spiritualia Latina, partim cum translatione Germanica",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 65–87",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -269,13 +312,17 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Arbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft...: p. 88–89.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Arbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 88–89",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -292,13 +339,17 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum: p. 91–101.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 91–101",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -365,13 +416,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-x-a-65/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 3 X (A 65)",
-    "titles": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.) \nTitulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.) \nMinimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio: p. 3. \nDer (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice): p. 7–14. \nProphetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24. (Videtur haec pars tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque ad Alexandrum VIII 1689–1691 postea adderentur. Tota Prophetia Latine composita est.) \nVerzaichnis der Siben Privilegierten Altär zu Rom (Germanice): p. 24–39. \nOraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur: p. 40–41. \n(Variae Indulgentiae): p. 41–48 (p. 45 sub Clemente X Pontifice Maximo 1670–1676 scripta est.) \n(Poemata spiritualia Latina): p. 49–59. \nIndulgentiae Coronis Domini nostri Jesu Christi concessae: p. 60/64. \n(Poemata spiritualia Latina, partim cum translatione Germanica): p. 65–87. \nArbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft...: p. 88–89. \nSyllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum: p. 91–101.",
+    "titles": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum \nTitulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum \nMinimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio \nDer (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice) \nProphetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis \nVerzaichnis der Siben Privilegierten Altär zu Rom (Germanice) \nOraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur \nVariae Indulgentiae \nPoemata spiritualia Latina \nIndulgentiae Coronis Domini nostri Jesu Christi concessae \nPoemata spiritualia Latina, partim cum translatione Germanica \nArbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft \nSyllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum",
     "persons": "",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 3 X (A 65). \nTitulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.) \nMinimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio: p. 3. \nDer (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice): p. 7–14. \nProphetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24. (Videtur haec pars tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque ad Alexandrum VIII 1689–1691 postea adderentur. Tota Prophetia Latine composita est.) \nVerzaichnis der Siben Privilegierten Altär zu Rom (Germanice): p. 24–39. \nOraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur: p. 40–41. \n(Variae Indulgentiae): p. 41–48 (p. 45 sub Clemente X Pontifice Maximo 1670–1676 scripta est.) \n(Poemata spiritualia Latina): p. 49–59. \nIndulgentiae Coronis Domini nostri Jesu Christi concessae: p. 60/64. \n(Poemata spiritualia Latina, partim cum translatione Germanica): p. 65–87. \nArbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft...: p. 88–89. \nSyllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum: p. 91–101.",
-    "physical": "Papier \n184 pagg. \nQuartformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+    "physical": "Papier \n184 pagg. \nQuartformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+    "german": "Quartformat; 184 Seiten; Einband aus einem Pergamentfragment eines Psalmenkommentars des 14. oder 15. Jahrhunderts.\n\n**Anthologia Sacra**\n\na) Titulatur eines Briefes an **Johann Philipp von Lamberg**, Fürstbischof von Passau 1689–1712: S. 1. Das erste Blatt wurde erst beim Einbinden hinzugefügt.\n\nb) Kleinstes Fragment eines theologischen oder kanonistischen Lexikons, Buchstabe A von **Abortum** bis **Absolutio**: S. 3.\n\nc) **Der Sequenz von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi** – die Sequenz *Lauda Sion* lateinisch und deutsch: S. 7–14.\n\nd) **Prophezeiung des hl. Malachias**, Mönch von Bangor, Erzbischof von Armagh und Primas von Irland: S. 15–24. Dieser Teil scheint unter Papst Innozenz X. 1644–1655 geschrieben worden zu sein; die Namen der Päpste bis Alexander VIII. 1689–1691 wurden später ergänzt. Lateinisch.\n\ne) **Verzaichnis der Siben Privilegierten Altär zu Rom:** S. 24–39, deutsch.\n\nf) **Berühmtes Orakel, das dem hl. Vater Benedikt von Gott geoffenbart worden sein soll:** S. 40–41.\n\ng) **Verschiedene Ablässe:** S. 41–48; S. 45 unter Papst Clemens X. 1670–1676 geschrieben.\n\nh) **Lateinische geistliche Gedichte:** S. 49–59.\n\ni) **Ablässe, die den Rosenkränzen unseres Herrn Jesus Christus verliehen wurden:** S. 60/64.\n\nj) **Lateinische geistliche Gedichte, teilweise mit deutscher Übersetzung:** S. 65–87.\n\nk) **Stammbaum der hochberühmten und alten Grafen von Stil und Hefft:** S. 88–89.\n\nl) **Verzeichnis oder knappe Beschreibung von Namen, Leben und Werken der Äbte dieses Seitenstettner Klosters:** S. 91–101.\n\nS. 88–101 stammen von einer anderen Hand. S. 101 dürfte vor dem Tod Abt Pauls von Vitsch 1747 geschrieben worden sein; sein Todesdatum wurde später ergänzt.\n\nS. 102–184 sind leer.\n\nSchreiber und vermutlich zugleich Kompilator sind unbekannt.",
+    "latin": "184 pagg.; 4°; tegumentum fragmentum membranaceum commentarii cuiusdam in Psalmos saec. XIV. aut XV. scriptum\n\nAnthologia Sacra\n\na) Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.)\n\nb) Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio: p. 3.\n\nc) Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda Sion Latine et Germanice): p. 7–14.\n\nd) Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24. (Videtur haec pars tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque ad Alexandrum VIII 1689–1691 postea adderentur. Tota Prophetia Latine composita est.)\n\ne) Verzaichnis der Siben Privilegierten Altär zu Rom (Germanice): p. 24–39.\n\nf) Oraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur: p. 40–41.\n\ng) (Variae Indulgentiae): p. 41–48 (p. 45 sub Clemente X Pontifice Maximo 1670–1676 scripta est.)\n\nh) (Poemata spiritualia Latina): p. 49–59.\n\ni) Indulgentiae Coronis Domini nostri Jesu Christi concessae: p. 60/64.\n\nj) (Poemata spiritualia Latina, partim cum translatione Germanica): p. 65–87.\n\n\n\n\nk) Arbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft...: p. 88–89.\n\nl) Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii Abbatibus Habitorum: p. 91–101.\n\nP. 88–101 ab alia manu scriptae; p. 101 ante mortem Abbatis Pauli de Vitsch (1729–1747) scriptam esse puto, mortem autem huius abbatis postea additam.\n\nP. 102–184 vacuae.\n\nScriptor, qui probabiliter idem et compilator, ignotus."
   }
 }

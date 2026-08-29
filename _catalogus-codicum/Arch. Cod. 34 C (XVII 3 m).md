@@ -13,13 +13,20 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 C (XVII 3 m).
   items:
   - label: a
-    catalog_statement: 'Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis:
-      p. 1–31'
+    catalog_statement: 'Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31'
+    title: Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis
+    locus: p. 1–31
+    title_status: unspecified
   - label: b
     catalog_statement: 'Liber III. De Virtutibus Moralibus. Pars Prior: p. 32–126'
+    title: Liber III. De Virtutibus Moralibus. Pars Prior
+    locus: p. 32–126
+    title_status: unspecified
   - label: c
-    catalog_statement: 'Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri:
-      p. 127–141'
+    catalog_statement: 'Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri: p. 127–141'
+    title: 'Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri'
+    locus: p. 127–141
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

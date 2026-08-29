@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-155",
   "signature": "MN II 155",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "113",
   "heading": {
     "title": "Tractatus de Vitiis et peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1688/89"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Vitiis et peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 4r–288r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 4r",
+          "label": "Prooemii",
+          "text": "Quid et quantum malum sit peccatum......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 4r",
+        "label": "Prooemii",
+        "text": "Quid et quantum malum sit peccatum......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +82,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 288v–315r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae De legibus in communi",
+          "text": "Nomen legis iuxta Divum Thomam.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Disputationis Primae De legibus in communi",
+        "text": "Nomen legis iuxta Divum Thomam.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -180,13 +213,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 155",
     "titles": "Tractatus de Vitiis et peccatis \nTractatus de Vitiis et peccatis \nTractatus De Legibus",
-    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Maximilian Steger Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer St. Lambrecht / Salzburg \nFr. Maximilian Steger Schreiber scribe Seitenstetten",
+    "incipits": "Quid et quantum malum sit peccatum...... \nNomen legis iuxta Divum Thomam.....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n315 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis.",
+    "physical": "Papier \n315 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "315 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1688/89.\n\na) **Abhandlung über Laster und Sünden:** fol. 4r–288r. Anfang der Vorrede fol. 4r: Was und wie groß für ein Übel die Sünde sei......\n\nb) **Abhandlung über die Gesetze:** fol. 288v–315r. Anfang der ersten Disputation **Über die Gesetze im Allgemeinen:** Das Wort Gesetz wird nach dem hl. Thomas.....\n\nRückenaufschrift: **E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis.** Daraus kennen wir den Schreiber des Codex. Den Verfasser zeigen die oben angeführten Anfänge: dieselben Abhandlungen wurden im Studienjahr 1688/89 in Salzburg von P. Maurus Liechtenhaimb, Profess von St. Lambrecht, vorgetragen und finden sich in MN II 151.\n\nFr. Maximilian Steger schrieb auch den vorhergehenden Codex.",
+    "latin": "315 foll.; teg. a1; script. 1688/89\n\na) Tractatus de Vitiis, et peccatis: fol. 4r–288r. Initium Prooemii fol. 4r: Quid et quantum malum sit peccatum......\n\nb) Tractatus De Legibus: fol. 288v–315r. Initium Disputationis Primae De legibus in communi: Nomen legis iuxta Divum Thomam.....\n\nInscriptio dorsi: E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis. Inde novimus scriptorem codicis nostri; Auctorem vero indicant initia tractatuum, quae supra posuimus. Eadem enim initia ideoque eosdem tractatus a P. Mauro Liechtenhaimb ad S. Lambertum in Styria professo anno scholari 1688/89 Salisburgi dictatos reperies in codice MN II 151 (supra p. 110!) F. Maximilianus Steger scripsit etiam codicem praecedentem."
   }
 }

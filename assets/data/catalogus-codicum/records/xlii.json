@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "xlii",
   "signature": "XLII",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "247",
   "heading": {
     "title": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1768"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 75–76",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -146,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/xlii/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "XLII",
     "titles": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum. \nAnnotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
-    "persons": "Joannes Wilhelmus Liber Baro de Knorr Autor author \nunbekannt Schreiber scribe \nKonvent von Seitenstetten Schenker donor \nKonvent von Seitenstetten Widmender dedicator",
+    "persons": "Joannes Wilhelmus Liber Baro de Knorr Autor author  \nunbekannt Schreiber scribe  \nKonvent von Seitenstetten Schenker donor  \nKonvent von Seitenstetten Widmender dedicator ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n7 tomi circiter 100–200 foliorum \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+    "physical": "Papier \n7 tomi circiter 100–200 foliorum \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+    "german": "Folioformat; sieben Bände zu jeweils ungefähr 100–200 Blättern; lederner Einband von rehbrauner oder brauner Farbe, der Rücken mit eingeprägten und vergoldeten Blümchen verziert; geschrieben 1768.\n\n**Anmerkungen des hochberühmten Herrn Johann Wilhelm Freiherrn von Knorr, Hofrat Kaiser Karls VI., in denen die giftigen Lehrsätze und Verleumdungen Samuel Pufendorfs, des berühmten lutherischen Schriftstellers, gegen Kirche und Reich getadelt und berichtigt werden. Werk in sieben Bände geteilt.**\n\nDie Seitenstettner Konventualen schenkten und widmeten dieses Werk 1768 ihrem Abt Dominicus Gusman zum Namenstag.\n\nWer das Werk abschrieb, ist unbekannt.\n\nWeitere Angaben im alten Handschriftenkatalog, Bd. I, S. 75–76.",
+    "latin": "fol.; 7 tomi circiter 100–200 foliorum; teg. b1 (dorsum flosculis impressis et inauratis decoratum); script. 1768\n\n**Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.**\n\nHoc opus Conventuales Seitenstettenses anno 1768 abbati suo Dominico Gusman ad diem onomasticum dono dederunt dedicaveruntque.\n\nNescimus autem, a quo opus illud scriptum sit.\n\nCetera de hoc opere vide in vetere Catalogo Manuscriptorum, Tom. I, p. 75–76!"
   }
 }

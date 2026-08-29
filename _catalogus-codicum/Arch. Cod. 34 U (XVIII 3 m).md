@@ -14,8 +14,28 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Ad Aristotelis Logicam Introductio: fol. 1r - 71v.'
+    title: Ad Aristotelis Logicam Introductio
+    locus: fol. 1r - 71v
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Scientiarum anima ordo est.....
+    title_status: unspecified
+    colophons:
+    - locus: fol. 71r
+      text: '.....ad honorem Dei eiusdemque Virginis Matris cuius Immaculatae Conceptionis octavam hodie (= die 15. Decembris 1674) celebramus
+        dicta et dictata sunto.'
   - label: b
     catalog_statement: 'Cursus Philosophici Pars Prima sive Logica: fol. 72r - 367.'
+    title: Cursus Philosophici Pars Prima sive Logica
+    locus: fol. 72r - 367
+    incipits:
+    - label: Prooemii In Universam Aristotelis Logicam
+      text: 'fol. 74v: De ipsâ antequam ageremus Logicâ....'
+    colophons:
+    - locus: fol. 367
+      text: Absolvimus die 24 Maii post prandium 1675.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

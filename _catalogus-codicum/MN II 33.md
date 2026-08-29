@@ -18,10 +18,33 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis....'
+    title: Tractatus de Legibus
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 5 - 123
+    incipits:
+    - locus: p. 5
+      text: Tractatus de legibus est quidem communis Theologis et Jurisperitis....
   - label: b
-    catalog_statement: '(Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....'
+    catalog_statement: '(Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae
+      S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....'
+    title: Tractatus De Divina Gratia
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 125 - 390
+    incipits:
+    - label: '[gestrichen'
+      text: 'in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....'
   - label: c
-    catalog_statement: 'Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....'
+    catalog_statement: 'Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c:
+      Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....'
+    title: 'Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi.
+      1. 6. 38. Initium'
+    locus: p. 407
+    incipits:
+    - locus: p. 407
+      text: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

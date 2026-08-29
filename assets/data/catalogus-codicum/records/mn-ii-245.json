@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-245",
   "signature": "MN II 245",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "189–190",
   "heading": {
     "title": "Philosophia Aristotelica. Logica Tomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1711/12"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Philosophia Aristotelica. Logica Tomistica",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Iter peripateticum. Seu, Brevis introductio in universam Aristotelis Philosophiam ad Mentem praeceptoris angelici Divi Thomae in alma archi episcopali benedictinâ universitate Salisburgensi tradita",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 7–56",
       "language": "",
+      "incipits": [
+        {
+          "text": "A sumulis iter nostrum peripateticum ordimur, ....",
+          "locus": "fol. 7r",
+          "label": "Brooemii (!)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 56v",
+          "text": "Finis sumularum. Anno 1711.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "A sumulis iter nostrum peripateticum ordimur"
+        "text": "A sumulis iter nostrum peripateticum ordimur, ....",
+        "locus": "fol. 7r",
+        "label": "Brooemii (!)",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "locus": "fol. 56v",
+        "text": "Finis sumularum. Anno 1711.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -70,17 +97,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica. et eadem (= quidem?) Maior. Anno 1711",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 57r–196v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus, ......",
+          "locus": "fol. 58r",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Die 20 Maii Anno 1712.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus"
+        "text": "Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus, ......",
+        "locus": "fol. 58r",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Die 20 Maii Anno 1712.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -95,13 +142,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Quaestiones selectae ex logica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 198r–227r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -113,13 +164,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Praemotione Physica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 233r–237v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -223,13 +278,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 245",
     "titles": "Philosophia Aristotelica. Logica Tomistica \nIter peripateticum. Seu, Brevis introductio in universam Aristotelis Philosophiam ad Mentem praeceptoris angelici Divi Thomae in alma archi episcopali benedictinâ universitate Salisburgensi tradita \nLogica. et eadem (= quidem?) Maior. Anno 1711 \nQuaestiones selectae ex logica \nDe Praemotione Physica",
-    "persons": "P. Caelestin Mayr Autor author \nP. Caelestin Mayr Dozent lecturer \nFr. Andreas Bischoff Schreiber scribe",
-    "incipits": "A sumulis iter nostrum peripateticum ordimur \nTractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus",
-    "explicits": "",
+    "persons": "P. Caelestin Mayr Autor author Kloster St. Ulrich und Afra, Augsburg / Universität Salzburg \nP. Caelestin Mayr Dozent lecturer Universität Salzburg \nFr. Andreas Bischoff Schreiber scribe ",
+    "incipits": "A sumulis iter nostrum peripateticum ordimur, .... \nTractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus, ......",
+    "explicits": "Finis sumularum. Anno 1711. \nDie 20 Maii Anno 1712.",
     "notes": "",
-    "physical": "Papier \n239 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n239 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "239 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1711/12.\n\n**Aristotelische Philosophie. Thomistische Logik.** Vorgetragen von P. Caelestin Mayr, Benediktiner und Profess des freien, reichsunmittelbaren und exemten Klosters St. Ulrich und Afra in Augsburg, Doktor der freien Künste und Philosophie, Rat des Salzburger Fürsterzbischofs und später Professor und Doktor der heiligen Theologie sowie Vize-Rektor der Universität Salzburg, 1712.\n\nVerfasser unseres Codex ist somit P. Caelestin Mayr. Der Schreiber setzte ein Zeichen bei, das vermutlich auf den Studenten Andreas Bischoff zu beziehen ist. Der Seitenstettner Mönch scheint bereits vor seiner Profess im Jahr 1715 in Salzburg Philosophie studiert zu haben. Das widerspricht der Titelaufschrift nicht: Vor seinem Eintritt in das Kloster 1714 hieß er nicht Andreas, sondern Joannes Casparus. Die fünf folgenden Codices bieten jedoch so viele Hinweise auf denselben Schreiber, dass Fr. Andreas Bischoff als eigenhändiger Schreiber kaum zu bestreiten ist.\n\nDer Titel des Codex wurde offenbar nicht 1712, während der Logikvorlesungen, sondern erst einige Jahre später geschrieben, als P. Caelestin Mayr seinen philosophischen Kurs bereits beendet hatte und Theologie lehrte.\n\na) **Peripatetischer Weg oder kurze Einführung in die gesamte Philosophie des Aristoteles nach der Lehre des engelgleichen Lehrers hl. Thomas, vorgetragen an der erzbischöflichen Benediktineruniversität Salzburg:** fol. 7–56. Anfang der Vorrede fol. 7r: Mit den Summulae beginnen wir unseren peripatetischen Weg..... Schluss fol. 56v: **Ende der Summulae. 1711.**\n\nb) **Logik, und zwar die größere. 1711:** fol. 57r–196v. Anfang fol. 58r: Abhandlung über jene Dinge, die zur größeren Logik gehören. Vorrede. Lange genug sind wir in der Vorhalle der Peripatetiker umhergegangen...... Schluss: **20. Mai 1712.**\n\nc) **Ausgewählte Fragen aus der Logik:** fol. 198r–227r.\n\nd) **Über die physische Prädetermination:** fol. 233r–237v.\n\nDie Teile a und b enthält auch der vorhergehende Codex MN II 244.",
+    "latin": "239 foll.; teg. a1; script. 1711/12\n\nPhilosophia Aristotelica. Logica Tomistica. A .....P. Clarissimo Caelestino Mayr ordinis S. Benedicti Celeberrimi Liberi Imperialis et Exempti Monasterii ad S: Udalricum et Affram Augustae Vindelicorum professo. Artium Liberalium et Philosophiae Doctore. Celsissimi et Reverendissimi Sacri Romani Imperii Principis et Archiepiscopi Salisburgensis Consiliario. Eiusdemque almae ac Florentissimae Benedictino Salisburgensis Universitatis Sacrosanctae Theologiae Professore dignissimo et Doctore. nec non post emeritum Philosophiae cursum ..... vice Rectore Magnifico. Anno 1712.\n\nItaque est auctor codicis nostri P. Caelestinus Mayr; scriptor autem signum suum, quod modo depinximus, apposuit. Quod signum forsitan ita intelligendum est: studioso Andrea Bischoff, monacho ille Seitenstettensi videtur iam ante vota anno 1715 emissa Philosophiae Salisburgi studuisse. Quod non refutat titulus, quem supra descripsimus. Nam etsi Monachus ille antequam anno 1714 monasterium ingressus est, non Andreas, sed Joannes Casparus nominabatur, tamen quinque sequentes codices ab eodem scripti tot indicia praebent, ut F. Andream Bischoff sua manu scripsisse eos iam non negare possis. Et profecto titulum codicis nostri non anno 1712, cum lectiones logicales audiret, scripsit, sed aliquot annis post, cum ille professor P. Caelestinus Mayr cursum philosophicum iam finierat nisset et Theologiam doceret.\n\n\n\n\na) Iter peripateticum. Seu, Brevis introductio in universam Aristotelis Philosophiam ad Mentem praeceptoris angelici Divi Thomae in alma archi episcopali benedictinâ universitate Salisburgensi tradita: fol. 7–56.  \nInitium Brooemii (!) fol. 7r: A sumulis iter nostrum peripateticum ordimur, ....  \nClausula fol. 56v: Finis sumularum. Anno 1711.\n\nb) Logica. et eadem (= quidem?) Maior. Anno 1711: fol. 57r–196v.  \nInitium fol. 58r: Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus, ......  \nClausula: Die 20 Maii Anno 1712.\n\nc) Quaestiones selectae ex logica: fol. 198r–227r.\n\nd) De Praemotione Physica: fol. 233r–237v.\n\nPartes a) et b) etiam in codice praecedente MN II 244 invenimus."
   }
 }

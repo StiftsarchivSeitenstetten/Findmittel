@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-28",
   "signature": "MN I 28",
   "aliases": [
@@ -11,8 +11,8 @@
   "catalogPage": "182",
   "heading": {
     "title": "Nota de periculo Polytheismi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "~~1707/08~~ 1706/07"
   },
   "date": {
@@ -36,6 +36,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -47,13 +50,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Nota de periculo Polytheismi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 9",
+      "locus": "p. 9",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -70,16 +77,25 @@
       "id": "item-2",
       "label": "2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prooemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 11",
+      "locus": "p. 11",
       "language": "",
+      "incipits": [
+        {
+          "text": "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "original": "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......",
-        "translation": "An den Hörer der Theologie. Nach so vielen Lehrern der heiligen Wissenschaft, von deren Schriften die gelehrte Welt überreich ist,......"
+        "text": "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -96,16 +112,25 @@
       "id": "item-3",
       "label": "3",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Deo Uno",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 12–238",
+      "locus": "p. 12–238",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quaerere, an praefixa Quaestio Deus est existens sit",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "original": "Quaerere, an praefixa Quaestio Deus est existens sit nota secundum se, ....",
-        "translation": "Zu untersuchen, ob die vorangestellte Frage „Existiert Gott?“ an sich bekannt ist, ...."
+        "text": "Quaerere, an praefixa Quaestio Deus est existens sit",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -122,16 +147,27 @@
       "id": "item-4",
       "label": "4",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus. De Mysterio Sanctissimae Trinitatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 241–253",
+      "locus": "p. 241–253",
       "language": "",
+      "incipits": [
+        {
+          "label": "Praefationis",
+          "text": "Auspicemur ineffabile Dei Trini Mysterium, ............",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "original": "Auspicemur ineffabile Dei Trini Mysterium, ............",
-        "translation": "Beginnen wir mit dem unaussprechlichen Geheimnis des dreieinigen Gottes, ............"
+        "label": "Praefationis",
+        "text": "Auspicemur ineffabile Dei Trini Mysterium, ............",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -293,13 +329,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 28",
     "titles": "Nota de periculo Polytheismi \nNota de periculo Polytheismi \nProoemium \nTractatus De Deo Uno \nTractatus Theologicus. De Mysterio Sanctissimae Trinitatis",
-    "persons": "P. Caelestin Pley author; lecturer author; lecturer \nP. Caelestin Pley author and lecturer author_and_lecturer \nsechs nicht namentlich bekannte Hände scribes scribes",
-    "incipits": "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,...... \nQuaerere, an praefixa Quaestio Deus est existens sit nota secundum se, .... \nAuspicemur ineffabile Dei Trini Mysterium, ............",
+    "persons": "P. Caelestin Pley author; lecturer author; lecturer Stift Seitenstetten \nP. Caelestin Pley author and lecturer author_and_lecturer  \nsechs nicht namentlich bekannte Hände scribes scribes ",
+    "incipits": "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,...... \nQuaerere, an praefixa Quaestio Deus est existens sit \nAuspicemur ineffabile Dei Trini Mysterium, ............",
     "explicits": "",
     "notes": "Vermerk über die Gefahr des Polytheismus \nVorrede \nAbhandlung über den einen Gott \nTheologische Abhandlung über das Geheimnis der Allerheiligsten Dreifaltigkeit \nDie ursprüngliche Datierung 1707/08 ist im Katalog zu 1706/07 korrigiert. \nDer Codex wurde von mindestens sechs verschiedenen Händen geschrieben. \nDie Zuschreibung und korrigierte Datierung werden aus MN II 226 erschlossen.",
-    "physical": "Papier \n262 Seiten \nFolio \ndescription: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n262 Seiten \nFolio \ndescription: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Folioformat; 262 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben ~~1707/08~~ 1706/07.\n\na) Vermerk über die Gefahr des Polytheismus: S. 9\n\nb) (Vorrede): S. 11. Anfang: An den Hörer der Theologie. Nach so vielen Lehrern der heiligen Wissenschaft, von deren Schriften die gelehrte Welt überreich ist,......\n\nc) Abhandlung über den einen Gott: S. 12–238. Anfang: Zu untersuchen, ob die vorangestellte Frage „Existiert Gott?“ an sich bekannt ist, ....\n\nd) Theologische Abhandlung über das Geheimnis der Allerheiligsten Dreifaltigkeit: S. 241–253. Anfang der Vorrede: Beginnen wir mit dem unaussprechlichen Geheimnis des dreieinigen Gottes, ............\n\nIn diesem Codex sind ohne Zweifel mehrere Hände zu unterscheiden. Von ihnen schrieb die erste S. 9–36, 51–56, 77, 134–136, 163, 176–178, 182–183; die zweite S. 36–51, 56–77, 78–134, 136–163, 164–169, 205–207 (?); die dritte S. 169–176, 178–182, 207–238, 241–243; die vierte S. 183–188; die fünfte S. 189–205; die sechste S. 243–253.\n\nDass der Verfasser unseres Codex P. Caelestin Pley, Seitenstettner Mönch, ist und dass er unsere Vorlesungen im Studienjahr ~~1707/08~~ 1706/07 in Salzburg gehalten hat, erfahren wir aus Codex MN II 226, der auf S. 3–342 dieselben Vorlesungen enthält. (Diesen Codex siehe oben S. 175!)",
+    "latin": "fol., 262 pagg.; teg. a1; script. ~~1707/08~~ 1706/07\n\na) Nota de periculo Polytheismi p. 9\n\nb) (Prooemium): p. 11. Initium: Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......\n\nc) Tractatus De Deo Uno: p. 12–238. Initium: Quaerere, an praefixa Quaestio Deus est existens sit nota secundum se, ....\n\nd) Tractatus Theologicus. De Mysterio Sanctissimae Trinitatis: p. 241–253. Initium Praefationis: Auspicemur ineffabile Dei Trini Mysterium, ............\n\nIn hoc codice sine dubio plures manus distinguendae sunt, e quibus prima p. 9–36, 51–56, 77, 134–136, 163, 176–178, 182–183, secunda p. 36–51, 56–77, 78–134, 136–163, 164–169, 205–207 (?), tertia p. 169–176, 178–182, 207–238, 241–243, quarta p. 183–188, quinta p. 189–205, sexta p. 243–253 scripsit.\n\nAuctorem codicis nostri esse P. Caelestinum Pley, monachum Seittenstettensem, eumque Salisburgi anno scholari lectiones nostras tradidisse ~~1707/08~~ 1706/07, comperimus e codice MN II 226, qui p. 3–342 easdem lectiones continet. (Quem codicem vide supra p. 175!)"
   }
 }

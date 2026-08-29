@@ -17,17 +17,27 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Angelis
-    locus: S. 1–301
+    locus: p. 1
+    title_status: unspecified
   - label: b
     title: Tractatus De beatitudine sive ultimo fine hominis
-    locus: S. 302–385
+    locus: p. 302–385
+    title_status: unspecified
   - label: c
     title: Tractatus Secundus in Primam Secundae Divi Thomae De actibus humanis
-    locus: S. 385–548
+    locus: p. 385–548
+    incipits:
+    - locus: p. 385
+      text: Dico primo voluntarium bene definiri.....
+    title_status: unspecified
   - label: d
     title: Tractatus Secundus de actibus humanis in quaestiones 18, 19 et 20 Summae (Summi?) Doctoris (?)
-    locus: S. 549–669
+    locus: p. 549–669
     certainty: uncertain
+    incipits:
+    - locus: p. 549
+      text: In priori tractatu egimus de esse physico actuum humanorum....
+    title_status: unspecified
   responsibility:
   - role: author
     name: unbekannt

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-33-k-i-l-u",
   "signature": "Arch. Cod. 33 K (I l. u.)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "252–253",
   "heading": {
-    "title": "(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "ca. 1773"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 33 K (I l. u.).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 1–98",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema Latinum): p. 99–141",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema Latinum)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 99–141",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata): p. 143–158",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -165,13 +180,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-k-i-l-u/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 33 K (I l. u.)",
-    "titles": "(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98 \n(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98 \nAntiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema Latinum): p. 99–141 \n(Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata): p. 143–158",
-    "persons": "P. Martinus Ober compiler and scribe compiler_and_scribe",
+    "titles": "Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent \nBulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent \nAntiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema Latinum) \nBulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata",
+    "persons": "P. Martinus Ober compiler and scribe compiler_and_scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 33 K (I l. u.). \n(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98 \nAntiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema Latinum): p. 99–141 \n(Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata): p. 143–158",
-    "physical": "Papier \n158 pagg. \nQuartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n158 pagg. \nQuartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Quartformat; 158 Seiten; grauer Pappeinband; geschrieben um 1773.\n\na) **Bulle Papst Clemens’ XIV. *Dominus ac Redemptor noster* vom 21. Juli 1773 zur Aufhebung der Gesellschaft Jesu sowie weitere Dokumente zu kirchlichen Ereignissen:** S. 1–98.\n\nb) **Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ... descriptum a quodam victricis Aquilae Pullo. Anno 1705:** lateinisches Gedicht, S. 99–141.\n\nc) **Die Bulle *Dominus ac Redemptor* in deutscher Übersetzung und gedruckt:** S. 143–158.\n\nAuch hier stehen auf der Innenseite des Vorderdeckels die Initialen **P. M. O.**, die **P. Martinus Ober**, Seitenstettner Mönch, als Schreiber ausweisen. Offenbar verfasste auch hier nichts davon selbst, sondern exzerpierte, sammelte und schrieb Texte anderer Autoren ab.",
+    "latin": "4°; 158 pagg.; teg. c1; scriptus ca. 1773\n\na) (Bulla Clementis Papae XIV. **Dominus ac Redempor noster** de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98\n\nb) **Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705** (Poema Latinum): p. 99–141\n\nc) (Bulla **Dominus ac Redemptor** – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata): p. 143–158\n\nIn hoc quoque codice parti adversae tegumenti ab intrinsecus impressae sunt litterae initiales: **P. M. O.**, quae indicant **P. Martinum Ober**, monachum Seitenstettensem, esse scriptorem huius codicis. Sed et in hoc codice videtur nihil a semetipso percepisse, sed omnia ex aliis auctoribus deprompsisse, collegisse, conscripsisse."
   }
 }

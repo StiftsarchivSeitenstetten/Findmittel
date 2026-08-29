@@ -18,15 +18,22 @@ ms_contents:
   items:
   - label: a
     title: De Jure et Justitia
-    locus: Bl. 2r–50v
+    locus: fol. 2r - 50v
+    title_status: unspecified
   - label: b
     title: De Restitutione
-    locus: Bl. 51r–176v
+    locus: fol. 51r - 176v
+    title_status: unspecified
   - label: c
     title: De Contractibus
-    locus: Bl. 177r–232r
+    locus: fol. 177r - 232r
     status: Ende der Abhandlung fehlt
-  completeness: unvollständig; Ende der Abhandlung fehlt
+    explicits:
+    - text: et haec dicta sufficiant pro hoc Anno. Ut sequenti anno plura de his, etiam de Monopolis.
+    title_status: unspecified
+  completeness:
+    status: defective
+    note: unvollständig; Ende der Abhandlung fehlt
 phys_desc:
   object_form: codex
   support: Papier

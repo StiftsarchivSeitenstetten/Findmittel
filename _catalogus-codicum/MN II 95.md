@@ -16,10 +16,17 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Moralis. De Legibus
-    locus: S. 1–155
+    locus: p. 1–155
+    incipits:
+    - text: 'Notandum: inter constitutiones, et statuta propriè loquendo......'
+    title_status: unspecified
   - label: b
     title: Tractatus Theologicus moralis in praecepta Decalogi, et Ecclesiae
-    locus: S. 160–418
+    locus: p. 1–259
+    incipits:
+    - label: Prooemii In universam Theologiam moralem
+      text: Non excurro multùm in laudes, et praeconia Theologiae moralis........
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Fr. Bernardus Leittner

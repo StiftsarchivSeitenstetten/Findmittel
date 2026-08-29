@@ -13,10 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–13 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: 'Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus
-      Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.'
+    catalog_statement: 'Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic
+      in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.'
+    title: Tractatus De Gratia Dei In Primam Secundae S. Thomae
+    locus: p. 7–453
+    incipits:
+    - locus: p. 7
+      label: Proloquii
+      text: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad....
+    title_status: unspecified
+    colophons:
+    - locus: p. 453
+      text: 26. Junii.
   - label: b
     catalog_statement: 'Tractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis: p. 457–654.'
+    title: Tractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis
+    locus: p. 457–654
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

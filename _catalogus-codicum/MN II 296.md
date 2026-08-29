@@ -14,19 +14,27 @@ ms_contents:
     title: Series Romanorum Imperatorum ab Augusto Caesare usque ad Decium
     locus: fol. 1r–76v
     note: Links deutsche Themen, rechts deren lateinische Übersetzungen; Schlussvermerk 1756.
+    title_status: unspecified
   - label: b
     title: Kurtze und Sinnreiche Sprüche – Apophtegmata
     locus: fol. 77r–91r
-    completeness: incomplete
+    completeness:
+      status: defective
+      note: incomplete
     note: Die lateinischen Übersetzungen fehlen fol. 90r–91r.
+    title_status: unspecified
   - label: c
     title: Supplementa ad Institutiones Grammaticas R. P. Emanuelis Alvari e Societate Jesu. in usum Mediae Classis Grammatices
     locus: fol. 93r–106v
-    note: Der Katalog weist ausdrücklich darauf hin, dass die Supplementa von einem unbekannten Bearbeiter einer Neuausgabe des 18. Jahrhunderts stammen.
+    note: Der Katalog weist ausdrücklich darauf hin, dass die Supplementa von einem unbekannten Bearbeiter einer Neuausgabe des 18. Jahrhunderts
+      stammen.
+    title_status: unspecified
   - label: d
     title: Register der Korrekten – Index Correctorum
     locus: fol. 109r–117v
-    note: Die in runden Klammern stehende Erläuterung „Reinschriften“ ist eine editorische Inhaltsangabe und wurde nicht als überlieferter Titel behandelt.
+    note: Die in runden Klammern stehende Erläuterung „Reinschriften“ ist eine editorische Inhaltsangabe und wurde nicht als überlieferter Titel
+      behandelt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

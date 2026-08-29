@@ -12,16 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Sacramentis in Genere
-    locus: S. 1–373
+    locus: p. 1–373
     end_date: '1693-05-16'
     final_section_number: 557
+    incipits:
+    - label: Prooemii Tractatus De Sacramentis in Genere
+      text: 'p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,.....'
+    colophons:
+    - locus: p. 373
+      text: absolvimus die 16. Maii Anno 1693.
+    title_status: unspecified
   - label: b
     title: Tractatus De Baptismo et Confirmatione
-    locus: S. 374–479
+    locus: p. 374–479
     first_section_number: 558
+    title_status: unspecified
   - label: c
     title: Tractatus De Venerabili Eucharistia
-    locus: S. 481–602
+    locus: p. 481–602
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

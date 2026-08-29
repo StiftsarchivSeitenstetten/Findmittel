@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-21",
   "signature": "MN III 21",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutionum Imperialium Libri 4",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 3–202",
+      "locus": "p. 3–202",
       "language": "",
+      "incipits": [
+        {
+          "text": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......",
+          "label": "Tituli 1. Libri 1",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......"
+        "text": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......",
+        "label": "Tituli 1. Libri 1",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +85,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 2. Decretalium Gregorii 9",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 207–301",
+      "locus": "p. 207–301",
       "language": "",
+      "incipits": [
+        {
+          "text": "Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....",
+          "label": "Tituli 1. De Judiciis",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio...."
+        "text": "Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....",
+        "label": "Tituli 1. De Judiciis",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -181,13 +208,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 21",
     "titles": "Institutionum Imperialium Libri 4 \nInstitutionum Imperialium Libri 4 \nLiber 2. Decretalium Gregorii 9",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Joannes Rigele Schreiber scribe  \nunbekannt Autor author ",
     "incipits": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica...... \nJudicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....",
     "explicits": "",
     "notes": "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.",
-    "physical": "Papier \n8° min., 304 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n8° min., 304 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Kleines Oktavformat; 304 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\na) **Die vier Bücher der kaiserlichen Institutionen:** S. 3–202. Anfang des ersten Titels des ersten Buches: Rechtswissenschaft ist die wissenschaftliche Kenntnis der göttlichen und menschlichen Dinge, des Gerechten und Ungerechten......\n\nb) **Zweites Buch der Dekretalen Gregors IX.:** S. 207–301. Anfang des ersten Titels **Über die Gerichte:** Ein Gericht ist die rechtmäßige Erörterung einer Streitsache zwischen Kläger und Beklagtem vor dem zuständigen Richter....\n\nKaum zu bezweifeln ist, dass auch dieser Codex von derselben Hand wie die beiden vorausgehenden geschrieben wurde. Wahrscheinlich ist daher P. Joannes Rigele der Schreiber.\n\nUnbekannt bleibt jedoch, wessen Vorlesungen er hier zusammenzog. Möglicherweise ist Teil a ein Kompendium von MN II 218 und Teil b ein Kompendium des zweiten Buches von MN III 19; sicher ist dies nicht. Die Verfasser jener Vorlagen sind ebenfalls unbekannt.\n\nWegen Schrift und Einband, die dem vorausgehenden Codex sehr ähnlich sind, datiert der Katalogbearbeiter auch diesen Codex um 1703.",
+    "latin": "8° min., 304 pagg.; teg. a2; script. ca. 1703\n\na) (Institutionum Imperialium Libri 4): p. 3–202. Initium Tituli 1. Libri 1: Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......\n\nb) Liber 2. Decretalium Gregorii 9: p. 207–301. Initium Tituli 1. De Judiciis: Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....\n\nVix dubitare poteris, quin etiam codex noster ab eodem scriptus sit atque duo praecedentes. Igitur probabiliter scriptor est P. Joannes Rigele. Sed quorum professorum lectiones in hoc codice contraxerit, nescio, nam etsi forsitan pars a codicis nostri compendium sit codicis MN II 218 (supra p. 170!) et pars b compendium libri alterius codicis MN III 19 (ibidem!), quod omnino non est certum, iam in pagina praecedente utriusque codicis auctorem nescire nos confessi sumus.\n\nPropter scripturam et tegumentum utpote codici praecedenti simillima hunc quoque codicem circa annum 1703 scriptum esse puto."
   }
 }

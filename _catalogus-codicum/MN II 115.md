@@ -9,8 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 115
 ms_contents:
-  catalogue_title_or_summary: 'Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes:
-    p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......'
+  items:
+  - catalog_statement: 'Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis
+      Primae De iure p. 5: Nota primo ius varie usurpari......'
+    title: 'Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes'
+    locus: p. 5–636
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 43
 ms_contents:
-  title: "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis"
   items:
-  - label: "a"
-    title: "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis"
-    locus: "S. 3–62"
-    note: "Priestertexte lateinisch, übrige Texte deutsch; Actus Variarum Virtutum ab Infirmis eliciendi S. 35–62."
+  - label: a
+    title: Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis
+    locus: p. 3–62
+    note: Priestertexte lateinisch, übrige Texte deutsch; Actus Variarum Virtutum ab Infirmis eliciendi S. 35–62.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

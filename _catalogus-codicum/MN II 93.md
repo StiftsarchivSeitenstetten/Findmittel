@@ -14,12 +14,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 93
 ms_contents:
-  title: Sumulae seu brevis Introductio In universam logicam
   responsibility:
   - role: scribe
     name: Fr. Bernardus Leittner
   - role: author
     name: unbekannt
+  items:
+  - title: Sumulae seu brevis Introductio In universam logicam
+    title_status: unspecified
+    locus: p. 1
+    incipits:
+    - locus: p. 1
+      text: Logicae officium est Intellectum hominis per praecepta dirigere....
 phys_desc:
   object_form: codex
   support: Papier

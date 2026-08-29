@@ -13,11 +13,21 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 75
 ms_contents:
-  title: Disputationes In octo Libros Physicos Aristotelis
-  locus: fol. 1–359
   responsibility:
   - role: scribe
     name: Fr. Theophilus Janckh
+  items:
+  - title: Disputationes In octo Libros Physicos Aristotelis
+    title_status: unspecified
+    locus: fol. 1–359
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....
+    colophons:
+    - locus: fol. 151v
+      label: ad librum I Physicorum
+      text: Absolvimus librum 2 Septembris 1659.
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,24 +9,31 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 321
 ms_contents:
-  title: "Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii"
+  title: Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide
+    in Parnasso Nicolai Nomesii
   items:
-  - label: "a"
-    title: "Ex Virgilio"
-    locus: "S. 1–14"
-    note: "Versnummern zu Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes und Preces."
-  - label: "b"
-    title: "Ex Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani"
-    locus: "S. 15–35"
-    note: "Nach derselben Ordnung wie bei Vergil; die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt."
-  - label: "c"
-    title: "Index in Opera Statii"
-    locus: "S. 35–47"
-    note: "Die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt."
-  - label: "d"
-    title: "Index in Lucani Pharsaliam"
-    locus: "S. 48–51"
-    note: "Die katalogseitig in Klammern ergänzte Angabe „sine divisione partium“ wurde nicht als überlieferter Titel behandelt."
+  - label: a
+    title: Ex Virgilio
+    locus: p. 1–14
+    note: Versnummern zu Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes und Preces.
+    title_status: unspecified
+  - label: b
+    title: Ex Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani
+    locus: p. 15–35
+    note: Nach derselben Ordnung wie bei Vergil; die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter
+      Titel behandelt.
+    title_status: unspecified
+  - label: c
+    title: Index in Opera Statii
+    locus: p. 35–47
+    note: Die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
+  - label: d
+    title: Index in Lucani Pharsaliam
+    locus: p. 48–51
+    note: Die katalogseitig in Klammern ergänzte Angabe „sine divisione partium“ wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

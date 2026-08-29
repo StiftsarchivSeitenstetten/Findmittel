@@ -9,16 +9,21 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 260
 ms_contents:
-  title: Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio
-  title_type: supplied
   items:
   - label: a
     title: Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio
-    title_type: supplied
-    locus: S. 5–335
-    incipit: Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit
-    completeness: incomplete
-    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; der Schluss und mehrere Vorlesungen fehlen.
+    locus: p. 5
+    completeness:
+      status: defective
+      note: incomplete
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; der
+      Schluss und mehrere Vorlesungen fehlen.
+    incipits:
+    - text: Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....
+      locus: p. 5
+      label: Proemii
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

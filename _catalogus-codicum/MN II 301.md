@@ -12,17 +12,28 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Deo Uno. Cum Prolegomenis In Theologiam
-    locus: S. 1–303
-    incipit: Priusquam Theologiae candidatus ipsas materias Theologicas
+    locus: p. 1–303
     note: Der Tractatus De Deo Uno beginnt S. 83 mit „Totum hunc tractatum in 5 Dissertationes dividemus“; der Tractatus De Deo Trino fehlt.
-    completeness: incomplete
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - locus: p. 3
+      label: Proemii Prolegomenorum in universam Theologiam
+      text: Priusquam Theologiae candidatus ipsas materias Theologicas, ..... (p. 3)
+    - locus: p. 83
+      label: Tractatus De Deo Uno
+      text: Totum hunc tractatum in 5 Dissertationes dividemus, ......
+    title_status: unspecified
   - label: b
     title: Placuit hoc vacuum replere Systemate Scientiae Dei in ordine ad gratiam vel Praedestinationem
-    locus: S. 304–306
+    locus: p. 304–306
+    title_status: unspecified
   - label: c
     title: Quaestiones pro Collegiis ex Universa Theologia 1770 et 1771?
-    locus: S. 307–372
+    locus: p. 307–372
     note: 82 Kollegien zu den im Katalogtext einzeln aufgeführten theologischen Traktaten.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

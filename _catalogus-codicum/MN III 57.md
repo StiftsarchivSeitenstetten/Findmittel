@@ -10,21 +10,29 @@ ms_identifier:
   idno: MN III 57
 ms_contents:
   items:
-  - label: "a"
-    title: "Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster"
-    locus: "S. 11–56"
-    note: "Die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter und wurde nicht als Bestandteil des überlieferten Titels übernommen."
-  - label: "b"
-    title: "Fortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster"
-    locus: "S. 59–90"
-    note: "Mit Figuren zwischen S. 88 und 89; die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter."
-  - label: "c"
-    title: "Kritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene Rädergebäude"
-    locus: "S. 91–106"
-  - label: "d"
-    title: "Antwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung für Astronomen bekant gemacht wird"
-    locus: "S. 107–153"
-    note: "Mit Figuren S. 153."
+  - label: a
+    title: Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser
+      im kaiserlich königlichen Hofkloster
+    locus: p. 11–56
+    note: Die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter und wurde nicht als Bestandteil des überlieferten Titels übernommen.
+    title_status: unspecified
+  - label: b
+    title: Fortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen
+      Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster
+    locus: p. 59–90
+    note: Mit Figuren zwischen S. 88 und 89; die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter.
+    title_status: unspecified
+  - label: c
+    title: Kritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene
+      Rädergebäude
+    locus: p. 91–106
+    title_status: unspecified
+  - label: d
+    title: Antwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung
+      für Astronomen bekant gemacht wird
+    locus: p. 107–151
+    note: Mit Figuren S. 153.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

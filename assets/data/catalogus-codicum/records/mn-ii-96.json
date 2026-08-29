@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-96",
   "signature": "MN II 96",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "61",
   "heading": {
     "title": "Tractatus Primus De Vitiis, atque peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1670"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus De Vitiis, atque peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–193",
+      "locus": "p. 1–193",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Quaestionis Primae",
+          "text": "Notandum est primo haec vocabula virtus,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Quaestionis Primae",
+        "text": "Notandum est primo haec vocabula virtus,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,14 +83,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Casistico practicus in materiam de Jure, et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 194–475",
+      "locus": "p. 1–282",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 194",
+          "label": "Prooemii",
+          "text": "Agemus hoc anno Deo opitulante De Jure, et Justitia........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 194",
+        "label": "Prooemii",
+        "text": "Agemus hoc anno Deo opitulante De Jure, et Justitia........",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -151,13 +186,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-96/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 96",
     "titles": "Tractatus Primus De Vitiis, atque peccatis \nTractatus Primus De Vitiis, atque peccatis \nTractatus Casistico practicus in materiam de Jure, et Justitia",
-    "persons": "Fr. Bernardus Leittner Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "Fr. Bernardus Leittner Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Notandum est primo haec vocabula virtus,.... \nAgemus hoc anno Deo opitulante De Jure, et Justitia........",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n193 + 303 = 496 Seiten \ndescription: Pergamentblatt des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+    "physical": "Papier \n193 + 303 = 496 Seiten \ndescription: Pergamentblatt des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+    "german": "193 + 303 = 496 Seiten; Einband aus einem im 15. Jahrhundert kunstvoll mit geistlicher Musik beschriebenen Pergamentblatt; geschrieben um 1670.\n\na) **Erste Abhandlung über Laster und Sünden:** S. 1–193. Anfang der ersten Frage S. 1: **Zunächst ist festzuhalten, dass diese Wörter Tugend,....**\n\nb) **Kasuistisch-praktische Abhandlung über Recht und Gerechtigkeit:** S. 1–282 (=194–475). Anfang der Vorrede S. 194: **Wir werden in diesem Jahr mit Gottes Hilfe über Recht und Gerechtigkeit handeln........**\n\nDer Schriftcharakter zeigt, dass derselbe **Fr. Bernardus Leittner**, der die Codices MN II 92–95 geschrieben hat, auch diesen Codex schrieb. Der Verfasser ist unbekannt.",
+    "latin": "193 + 303 = 496 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae ornate inscriptum; script. ca. 1670\n\na) Tractatus Primus De Vitiis, atque peccatis: p. 1–193. _Initium_ Quaestionis Primae p. 1: Notandum est primo haec vocabula virtus,....\n\nb) Tractatus Casistico practicus in materiam de Jure, et Justitia: p. 1–282 (=194–475). _Initium_ Prooemii p. 194: Agemus hoc anno Deo opitulante De Jure, et Justitia........\n\nCharacter scribendi indicat eundem **Fr. Bernardum Leittner**, qui codices MN II 92–95 (vide p. 59–61), etiam hunc codicem scripsisse. Auctor ignotus."
   }
 }

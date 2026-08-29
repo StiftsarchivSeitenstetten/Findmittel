@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-62",
   "signature": "MN III 62",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "273",
   "heading": {
     "title": "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1800"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–130",
+      "locus": "p. 129",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-62/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 62",
     "titles": "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria \nKatholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 130 Seiten; schwarzer Ledereinband, an Rücken und Kanten sparsam verziert.\n\n**Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria**\n\nWeder Verfasser noch Schreiber sind bekannt. Aufgrund von Schrift und Einband nimmt der Katalogbearbeiter eine Entstehung um 1800 an. Sämtliche Gebete samt ihren Überschriften sind deutsch verfasst.\n\nIn das Gebetbuch sind jedoch mehrere Kupferstiche mit lateinischen Unterschriften eingefügt. Das Titelbild zeigt jenes Kruzifix, das Kaiser Ferdinand II. verehrte; es wurde in Steyr von Johann Ferdinand Holzmeyr gedruckt.\n\nNotiz S. 129: **Vom Stud(enten) d(er) IV. Kl(asse) Brendner Maximus 1912 P. Joseph Schock.** P. Joseph Schock, Seitenstettner Mönch und Professor, erhielt das Büchlein also 1912 als Geschenk von diesem Schüler.",
+    "latin": "8° min.; 130 pagg.; teg. b2 in dorso et margine parce ornatum\n\n**Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria**\n\nNeque auctoris neque scriptoris nomen notamus. At propter formam scripturae ac tegumenti puto circa 1800 scriptum esse hunc codicillum. Omnes preces cum inscriptionibus Germanice compositae sunt. Sed insertae sunt libro nostro precatorio aliquot imagines chalcographice depictae cum subscriptionibus Latinis. Imago vero, quam dicunt titularem, repraesentat illam Crucifixi imaginem, quam Augustissimus Imperator Ferdinandus II. veneratus est, excusa in oppido Steyr a Joanne Ferdinando Holzmeyr.\n\nNota p. 129: **Vom Stud(enten) d(er) IV. Kl(asse) Brendner Maximus 1912 P. Joseph Schock.** Qua de re ille monachus et professor Seitenstettensis codicillum nostrum anno 1912 a studioso illo dono accepit."
   }
 }

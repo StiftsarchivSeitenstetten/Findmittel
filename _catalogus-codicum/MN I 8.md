@@ -18,85 +18,81 @@ ms_identifier:
   idno: "MN I 8"
 
 ms_contents:
-  overall_title:
-    title: "Episcoporum Laureacensium Pataviensiumque Catalogus"
-    title_type: "supplied_from_main_item"
-    translation: "Katalog der Bischöfe von Lorch und Passau"
-
   languages:
-    - "la"
-    - "de"
-
+  - la
+  - de
   items:
-    - label: "a"
-      title: "Dedicatio operis"
-      title_type: "supplied"
-      locus: "S. 1–2"
-      language:
-        - "la"
-      responsibility:
-        - role: "author"
-          name: "Laurentius Hochwart"
-      date:
-        display: "1. November 1553"
-        when: "1553-11-01"
-      place:
-        display: "Passau"
-      incipit: "Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae..."
-      note: "Widmung an Propst, Dekan, Senior und gesamtes Kapitel der Passauer Kirche."
-
-    - label: "b"
-      title: "Index"
-      title_type: "original"
-      locus: "S. 3–4"
-      type: "index"
-      contents_note: "Verzeichnet ausschließlich die Namen der Passauer Bischöfe."
-
-    - label: "c"
-      title: "Summi Templi Pataviensis Praepositorum Index"
-      title_type: "original"
-      translation: "Verzeichnis der Pröpste der Passauer Domkirche"
-      locus: "S. 5–10"
-      type: "index"
-      content_date:
-        display: "bis 1723"
-        not_after: 1723
-
-    - label: "d"
-      title: "Summi Templi Pataviensis Decanorum Index"
-      title_type: "original"
-      translation: "Verzeichnis der Dekane der Passauer Domkirche"
-      locus: "S. 12–17"
-      type: "index"
-      content_date:
-        display: "bis 1716"
-        not_after: 1716
-
-    - label: "e"
-      title: "Episcoporum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu recognitus ac interpolatus"
-      title_type: "original"
-      translation: "Katalog der Bischöfe von Lorch und Passau, zuerst herausgegeben vom Dichter Bruschius und von Laurentius Hochwart auf Befehl seiner Vorgesetzten überprüft und ergänzt"
-      locus: "S. 19–288"
-      responsibility:
-        - role: "original_compiler"
-          name: "Kaspar Bruschius"
-        - role: "reviser"
-          name: "Laurentius Hochwart"
-        - role: "continuator"
-          name: "unbekannt"
-      work_history:
-        - event: "Erstfassung durch Kaspar Bruschius"
-          display: "um 1550"
-        - event: "Überarbeitung durch Laurentius Hochwart"
-          display: "1553"
-          when: 1553
-        - event: "Fortsetzung durch unbekannten Verfasser"
-          display: "bis 1605"
-          not_after: 1605
-      note: "Die Fortsetzung bis 1605 kann nicht von Laurentius Hochwart stammen, da dieser 1570 starb."
-      layout:
-        description: "Nur die äußere Hälfte der Seiten ist beschrieben."
-
+  - label: a
+    title: Dedicatio operis
+    locus: p. 1–2
+    responsibility:
+    - role: author
+      name: Laurentius Hochwart
+    date:
+      display: 1. November 1553
+      when: '1553-11-01'
+    place:
+      display: Passau
+    note: Widmung an Propst, Dekan, Senior und gesamtes Kapitel der Passauer Kirche.
+    incipits:
+    - text: Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae...
+    languages:
+    - la
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Index
+    locus: p. 3–4
+    type: index
+    contents_note: Verzeichnet ausschließlich die Namen der Passauer Bischöfe.
+    title_status: unspecified
+  - label: c
+    title: Summi Templi Pataviensis Praepositorum Index
+    translation: Verzeichnis der Pröpste der Passauer Domkirche
+    locus: p. 5–10
+    type: index
+    content_date:
+      display: bis 1723
+      not_after: 1723
+    title_status: unspecified
+  - label: d
+    title: Summi Templi Pataviensis Decanorum Index
+    translation: Verzeichnis der Dekane der Passauer Domkirche
+    locus: p. 12–17
+    type: index
+    content_date:
+      display: bis 1716
+      not_after: 1716
+    title_status: unspecified
+  - label: e
+    title: Episcoporum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu
+      recognitus ac interpolatus
+    translation: Katalog der Bischöfe von Lorch und Passau, zuerst herausgegeben vom Dichter Bruschius und von Laurentius Hochwart auf Befehl
+      seiner Vorgesetzten überprüft und ergänzt
+    locus: p. 19–288
+    responsibility:
+    - role: original_compiler
+      name: Kaspar Bruschius
+    - role: reviser
+      name: Laurentius Hochwart
+    - role: continuator
+      name: unbekannt
+    work_history:
+    - event: Erstfassung durch Kaspar Bruschius
+      display: um 1550
+    - event: Überarbeitung durch Laurentius Hochwart
+      display: '1553'
+      when: 1553
+    - event: Fortsetzung durch unbekannten Verfasser
+      display: bis 1605
+      not_after: 1605
+    note: Die Fortsetzung bis 1605 kann nicht von Laurentius Hochwart stammen, da dieser 1570 starb.
+    layout:
+      description: Nur die äußere Hälfte der Seiten ist beschrieben.
+    title_status: unspecified
+  title: Episcoporum Laureacensium Pataviensiumque Catalogus
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: "codex"
   format: "Folio"

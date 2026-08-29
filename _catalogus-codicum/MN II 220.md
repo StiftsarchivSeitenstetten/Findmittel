@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 220
 ms_contents:
-  title: Libri Quattuor Institutionum Imperialium
   items:
   - label: a
     title: Libri Quattuor Institutionum Imperialium
-    locus: S. 1–620
+    locus: p. 1–620
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

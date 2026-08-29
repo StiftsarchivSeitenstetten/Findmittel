@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-270",
   "signature": "MN II 270",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "215",
   "heading": {
     "title": "Tractatus De Incarnatione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1736"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus De Incarnatione",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Incarnatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–196",
+      "locus": "p. 3",
       "language": "",
+      "incipits": [
+        {
+          "text": "Verbum Dei incarnatum esse fide Divina certum est,.....",
+          "locus": "p. 3",
+          "label": "Praefationis in Tractatum De Incarnatione",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Verbum Dei incarnatum esse fide Divina certum est"
+        "text": "Verbum Dei incarnatum esse fide Divina certum est,.....",
+        "locus": "p. 3",
+        "label": "Praefationis in Tractatum De Incarnatione",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -147,13 +164,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 270",
     "titles": "Tractatus De Incarnatione \nTractatus De Incarnatione",
-    "persons": "P. Leonardus Glotz Dozent lecturer \nFr. Romanus Gengl Schreiber scribe",
-    "incipits": "Verbum Dei incarnatum esse fide Divina certum est",
+    "persons": "P. Leonardus Glotz Dozent lecturer Kloster Wessobrunn \nFr. Romanus Gengl Schreiber scribe Seitenstetten",
+    "incipits": "Verbum Dei incarnatum esse fide Divina certum est,.....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n196 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n196 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "196 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1736.\n\n**Abhandlung über die Menschwerdung**, diktiert von P. Leonardus Glotz, Benediktiner und Profess des berühmten Klosters Wessobrunn, und aufgezeichnet von Fr. Romanus Gengl, Profess desselben heiligen Ordens im Kloster Seitenstetten, im Jahr 1736.\n\nAnfang der Vorrede zur Abhandlung über die Menschwerdung S. 3: Dass das Wort Gottes Fleisch angenommen hat, ist durch den göttlichen Glauben gewiss,.....\n\nFr. Romanus Gengl schrieb auch den vorhergehenden Codex.",
+    "latin": "196 pagg.; teg. a1; script. 1736\n\n**Tractatus De Incarnatione Dictatus à Clarissimo Domino P. Leonardo Glotz ordinis Sanctissimi P. Benedicti in Celeberrimo Monasterio Wessofontano Professo, exceptus Vero à Religioso Fr. Romano Gengl eundem S. ordinem in Monasterio Seittenstettensi professo Anno à partu Virgineo 1736.**\n\nInitium Praefationis in Tractatum De Incarnatione p. 3: **Verbum Dei incarnatum esse fide Divina certum est,.....**\n\nF. Romanus Gengl etiam codicem praecedentem scripsit."
   }
 }

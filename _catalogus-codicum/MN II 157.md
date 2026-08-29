@@ -12,24 +12,46 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in octo libros Physicorum Aristotelis
-    title_type: supplied
     locus: fol. (1)–406
-    completeness: Fol. 1–97 und 326–361 fehlen.
+    completeness:
+      status: defective
+      note: Fol. 1–97 und 326–361 fehlen.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu
     locus: fol. 406v–535v
-    completeness: Fol. 411–494 fehlen.
+    completeness:
+      status: defective
+      note: Fol. 411–494 fehlen.
+    incipits:
+    - label: Disputationis Primae
+      text: 'fol. 407r: Quamvis in prooemio nostro physicae......'
+    title_status: unspecified
   - label: c
     title: Tractatus III In Libros De Anima, in genere, et in specie
     locus: fol. 537r–656r
+    incipits:
+    - text: 'Oraculi Delphici monitum fuit: nosce te ipsum.'
+    title_status: unspecified
   - label: d
     title: Tractatus IV In Libros De Caelo et Mundo
     locus: fol. 656v
-    completeness: Nur der Anfang erhalten; der Rest fehlt.
+    completeness:
+      status: defective
+      note: Nur der Anfang erhalten; der Rest fehlt.
+    incipits:
+    - text: Post explicationem corporis animati devolvimur.....
+    title_status: unspecified
   - label: e
     title: Tractatus V In Aristotelis Metaphysicam
     locus: fol. 657r–709r
-  completeness: Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab.
+    incipits:
+    - text: Metaphysica seu sapientia transnaturalis......
+    title_status: unspecified
+  completeness:
+    status: defective
+    note: Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab.
 phys_desc:
   object_form: codex
   support: Papier

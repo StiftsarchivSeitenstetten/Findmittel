@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-165",
   "signature": "MN II 165",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "117–119",
   "heading": {
     "title": "De plerorumque Nominum gradibus ordine Alphabetico",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1690(?)."
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De plerorumque Nominum gradibus ordine Alphabetico",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–4",
+      "locus": "p. 3–4",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Verborum Amplificatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–7",
+      "locus": "p. 5–7",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,13 +92,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Sententiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 13–16",
+      "locus": "p. 13–16",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -99,13 +114,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Descriptio moderni Saeculi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 17–18",
+      "locus": "p. 17–18",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -117,13 +136,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Collectio verborum synonymorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 19–47",
+      "locus": "p. 19–47",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -135,13 +158,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Notata ex Suada Civili",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 51–55",
+      "locus": "fol. 309, 311, 312",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -153,13 +180,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Brevissima exercitia Rhetorica ad varia themata",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 57–68",
+      "locus": "p. 57–68",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -176,13 +207,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 69–152",
+      "locus": "p. 69–152",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -194,13 +229,17 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Symbola rerum alphabetico ordine dispositarum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 153–154",
+      "locus": "p. 153–154",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -210,7 +249,7 @@
         },
         {
           "type": "completeness",
-          "text": "fragmentary"
+          "text": "status: fragmentary"
         }
       ],
       "dates": [],
@@ -221,13 +260,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Acutiae? aliaeque perbreves narrationes ad themata alphabetico ordine disposita",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 155–188",
+      "locus": "p. 155–188",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -248,13 +291,17 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Hieroglyphica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 191–192",
+      "locus": "p. 191–192",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -271,13 +318,17 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Variae brevissimae fabulae historiaeque",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 193–197",
+      "locus": "p. 193–197",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -289,13 +340,17 @@
       "id": "item-m",
       "label": "m",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Varia Notata ex Bosquiero",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 199–204",
+      "locus": "p. 199–204",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -307,13 +362,17 @@
       "id": "item-n",
       "label": "n",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Variae historiae breves ad diversa themata moralia alphabetico ordine disposita",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 207–410",
+      "locus": "p. 207–222",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -324,13 +383,17 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Litterae A–E",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 207–222",
+          "locus": "p. 207–222",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -342,13 +405,17 @@
           "id": "item-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Litterae B–V",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 223–410",
+          "locus": "p. 223–410",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -362,13 +429,17 @@
       "id": "item-o",
       "label": "o",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Varia exercitia oratoria",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 413–421",
+      "locus": "p. 413–421",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -385,13 +456,17 @@
       "id": "item-p",
       "label": "p",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Alia exercitia oratoria",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 425–461",
+      "locus": "p. 441–443",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -402,13 +477,17 @@
           "id": "item-1-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Laus Viennae",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 441–443",
+          "locus": "p. 441–443",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -420,13 +499,17 @@
           "id": "item-2-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 452–454",
+          "locus": "p. 452–454",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [
@@ -445,13 +528,17 @@
       "id": "item-q",
       "label": "q",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Historiae Pulcherrimae Ex Variis Libris Excerptae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 463–470",
+      "locus": "p. 463–470",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -463,13 +550,17 @@
       "id": "item-r",
       "label": "r",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Alia exercitia oratoria",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 471–474",
+      "locus": "p. 471–474",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -480,13 +571,17 @@
           "id": "item-1-3",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "De somno",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "",
+          "locus": "p. 471–474",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -498,13 +593,17 @@
           "id": "item-2-3",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "De Antonomasia",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "",
+          "locus": "p. 471–474",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -518,13 +617,17 @@
       "id": "item-s",
       "label": "s",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Praxis amplificandi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 475–481",
+      "locus": "p. 475–481",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -536,13 +639,17 @@
       "id": "item-t",
       "label": "t",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutio Brevis pro Facienda Chria",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 481–496",
+      "locus": "p. 481–496",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -554,13 +661,17 @@
       "id": "item-u",
       "label": "u",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutio ad Chriam faciendam aliquot exemplis demonstrata",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 497–530",
+      "locus": "p. 497–530",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -572,13 +683,17 @@
       "id": "item-v",
       "label": "v",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Exempla perpolita ad tria genera Chriarum monstranda",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 531–571",
+      "locus": "p. 531–571",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -756,13 +871,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 165",
     "titles": "De plerorumque Nominum gradibus ordine Alphabetico \nDe plerorumque Nominum gradibus ordine Alphabetico \nDe Verborum Amplificatione \nSententiae \nDescriptio moderni Saeculi \nCollectio verborum synonymorum \nNotata ex Suada Civili \nBrevissima exercitia Rhetorica ad varia themata \nBrevia exercitia rhetorica ad propositiones alphabetico ordine dispositas \nSymbola rerum alphabetico ordine dispositarum \nAcutiae? aliaeque perbreves narrationes ad themata alphabetico ordine disposita \nHieroglyphica \nVariae brevissimae fabulae historiaeque \nVaria Notata ex Bosquiero \nVariae historiae breves ad diversa themata moralia alphabetico ordine disposita \nLitterae A–E \nLitterae B–V \nVaria exercitia oratoria \nAlia exercitia oratoria \nLaus Viennae \nEnthymema Rhetoricum: Probans foeminam hoc saeculo dominari \nHistoriae Pulcherrimae Ex Variis Libris Excerptae \nAlia exercitia oratoria \nDe somno \nDe Antonomasia \nPraxis amplificandi \nInstitutio Brevis pro Facienda Chria \nInstitutio ad Chriam faciendam aliquot exemplis demonstrata \nExempla perpolita ad tria genera Chriarum monstranda",
-    "persons": "Fr. Joannes Rigele Schreiber scribe",
+    "persons": "Fr. Joannes Rigele Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "Vor allem sehr kurze rhetorische Beschreibungen. \nNur der Buchstabe A ist erhalten. \nfragmentary \nDie Lesung „Acutiae“ ist im Katalog als unsicher gekennzeichnet. \nuncertain \nBeispiele für die Verwendung natürlicher Dinge zur Veranschaulichung menschlicher Eigenschaften. \nKurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und ähnliche Themen. \nMit 19 Versen anstelle eines Epitaphs.",
-    "physical": "Papier \n576 pagg. \ndescription: Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. oder möglicherweise beginnenden 15. Jahrhunderts; der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt."
+    "notes": "Vor allem sehr kurze rhetorische Beschreibungen. \nNur der Buchstabe A ist erhalten. \nstatus: fragmentary \nDie Lesung „Acutiae“ ist im Katalog als unsicher gekennzeichnet. \nuncertain \nBeispiele für die Verwendung natürlicher Dinge zur Veranschaulichung menschlicher Eigenschaften. \nKurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und ähnliche Themen. \nMit 19 Versen anstelle eines Epitaphs. \ntype: cited_person; locus: S. 279; persons: P. Paulus Mezger \nHandschriftlicher Nachtrag auf der Katalogvorlage; nur teilweise sicher lesbar.",
+    "physical": "Papier \n576 pagg. \ndescription: Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. oder möglicherweise beginnenden 15. Jahrhunderts; der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt.",
+    "german": "576 Seiten; Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. Jahrhunderts (oder beginnenden 15. Jahrhunderts?); geschrieben um 1690 (?). Der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt.\n\na) **Über die Steigerungsstufen zahlreicher Substantive in alphabetischer Ordnung:** S. 3–4.\n\nb) **Über die Erweiterung der Verben:** S. 5–7.\n\nc) **Sentenzen:** S. 13–16.\n\nd) **Beschreibung des gegenwärtigen Jahrhunderts:** S. 17–18.\n\ne) **Sammlung synonymischer Wörter:** S. 19–47.\n\nf) **Notizen aus der *Suada Civilis* (fol. 309, 311, 312):** S. 51–55.\n\ng) **(Sehr kurze rhetorische Übungen zu verschiedenen Themen):** S. 57–68, vor allem sehr kurze rhetorische Beschreibungen.\n\nh) **(Kurze rhetorische Übungen zu alphabetisch geordneten Propositionen):** S. 69–152.\n\ni) **Sinnbilder alphabetisch geordneter Dinge:** S. 153–154. Erhalten ist nur der Buchstabe A.\n\nj) **(Acutiae? [Lesung unsicher] und andere sehr kurze Erzählungen zu alphabetisch geordneten Themen):** S. 155–188.\n\nk) **Hieroglyphica**, das heißt verschiedene Beispiele dafür, wie natürliche Dinge zur Veranschaulichung menschlicher Eigenschaften verwendet werden können: S. 191–192.\n\nl) **(Verschiedene sehr kurze Fabeln und Geschichten):** S. 193–197.\n\nm) **Verschiedene Notizen aus Bosquier** – Philipp Bosquier, Franziskaner und berühmter Prediger, gestorben 1631 –: S. 199–204.\n\nn) **(Verschiedene kurze Geschichten zu unterschiedlichen moralischen Themen in alphabetischer Ordnung):** Buchstaben A–E: S. 207–222; Buchstaben B–V: S. 223–410.\n\no) **(Verschiedene Redeübungen: kurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und Ähnliches):** S. 413–421.\n\np) **(Weitere Redeübungen: Beschreibungen und Lobreden, z. B. Lob Wiens S. 441–443; rhetorisches Enthymem, das beweist, dass in diesem Jahrhundert die Frau herrsche, S. 452–454, mit 19 Versen als Epitaph):** S. 425–461.\n\nq) **Sehr schöne Geschichten, aus verschiedenen Büchern exzerpiert:** S. 463–470.\n\nr) **(Weitere Redeübungen):** S. 471–474, über den Schlaf und über Antonomasie.\n\ns) **Praxis der Erweiterung:** S. 475–481.\n\nt) **Kurze Anleitung zur Abfassung einer Chrie**, also zur knappen Erläuterung beispielhafter Worte oder Taten, die in einer Rede verwendet werden können: S. 481–496.\n\nu) **(Die Anleitung zur Abfassung einer Chrie wird an einigen Beispielen gezeigt):** S. 497–530.\n\nv) **(Ausgearbeitete Beispiele zur Darstellung der drei Arten von Chrien):** S. 531–571.\n\nDer Codex vereinigt mehrere von verschiedenen Händen geschriebene Faszikel: erste Hand S. 3–4; zweite S. 5–7; dritte S. 13–18; vierte – möglicherweise Fr. Joannes Rigele, siehe MN II 195 und 217 – S. 19–47; fünfte S. 51–55; sechste S. 57–152; siebte S. 153–182; achte S. 183–410, vielleicht mit einzelnen Blättern anderer Hände; neunte S. 413–421; zehnte S. 425–461; elfte S. 463–470; zwölfte S. 471–474; dreizehnte S. 475–496; vierzehnte S. 497–530; fünfzehnte S. 531–571.\n\n> **Handschriftlicher Nachtrag auf der Vorlage:** nur teilweise sicher lesbar.\n\nSoweit erkennbar, erschienen die von den einzelnen Schreibern benutzten Bücher im 17. Jahrhundert. Wahrscheinlich, wenn auch nicht sicher, wurden alle Teile ungefähr zur selben Zeit geschrieben. Fr. Joannes Rigele legte 1691 Profess ab und dürfte sich ungefähr damals der Rhetorik gewidmet haben. Zudem wird S. 279 der bereits vielfach begegnete P. Paulus Mezger zitiert.\n\nDaher scheint der Codex um 1690 geschrieben worden zu sein.",
+    "latin": "576 pagg.; tegumentum adversum et aversum foliis membranaceis saec. XIV (aut ineunte XV ?) manu scriptis; script. ca. 1690(?).  \n(Dorsum munitum fragmento membranaceo saec. XV manu scripto.)\n\na) De plerorumque Nominum gradibus ordine Alphabetico: p. 3–4\n\nb) De Verborum Amplificatione: p. 5–7\n\nc) Sententiae: p. 13–16\n\nd) Descriptio moderni Saeculi: p. 17–18\n\ne) Collectio verborum synonymorum: p. 19–47\n\nf) Notata ex Suada Civili (fol. 309, 311, 312): p. 51–55\n\ng) (Brevissima exercitia Rhetorica ad varia themata): p. 57–68 (praesertim brevissimae descriptiones rhetoricae)\n\n\n\n\nh) (Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas): p. 69–152\n\ni) Symbola rerum alphabetico ordine dispositarum: p. 153–154  \n(Superest sola littera A!)\n\nj) (Acutiae? [lectio incerta] aliaeque perbreves narrationes ad themata alphabetico ordine disposita): p. 155–188\n\nk) Hieroglyphica (id est varia exempla, quomodo rebus naturalibus ad illustrandas qualitates hominum uti possis): p. 191–192\n\nl) (Variae brevissimae fabulae historiaeque): p. 193–197\n\nm) Varia Notata ex Bosquiero (Philippo, Ordinis Fratrum Minorum, praeclaro concionatore, anno 1631 mortuo): p. 199–204\n\nn) (Variae historiae breves ad diversa themata moralia alphabetico ordine disposita): litterae A–E: p. 207–222; litterae B–V: p. 223–410\n\no) (Varia exercitia oratoria: Oratiunculae de Mundi fallacia, Igne purgatorio, Vita humana et similibus): p. 413–421\n\np) (Alia exercitia oratoria: descriptiones et laudes, ex. gr. Laus Viennae p. 441–443; Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari: p. 452–454 appositis 19 versibus loco epitaphii): p. 425–461\n\nq) Historiae Pulcherrimae Ex Variis Libris Excerptae: p. 463–470\n\nr) (Alia exercitia oratoria): p. 471–474 (De somno; De Antonomasia)\n\ns) Praxis amplificandi: p. 475–481\n\nt) Institutio Brevis pro Facienda Chria (id est pro breviter exponendis verbis vel factis exemplaribus, quibus uti possis in oratione): p. 481–496\n\nu) (Institutio ad Chriam faciendam aliquot exemplis demonstratur): p. 497–530\n\nv) (Exempla perpolita ad tria genera Chriarum monstranda): p. 531–571\n\nIn hoc codice complures fasciculi a diversis manibus scripti coniuncti sunt: Prima manus scripsit p. 3–4, secunda p. 5–7, tertia p. 13–18, quarta (eaque F. Joannis Rigele? vide infra ad codices MN II 195 et 217!) p. 19–47, quinta p. 51–55, sexta p. 57–152, septima p. 153–182, octava p. 183–410 (interpositis aliquot foliis ab aliis manibus scriptis?), nona p. 413–421, decima p. 425–461, undecima p. 463–470, duodecima p. 471–474, tertiadecima p. 475–496, quartadecima p. 497–530, quintadecima p. 531–571.\n\n[Handschriftlicher Nachtrag auf der Vorlage; nur teilweise sicher lesbar.]\n\nQuantum videre potuimus, libri quibus scriptores singularium partium codicis nostri usi sunt, saeculo XVII in lucem evenerunt. Verisimile, etsi non certum est, omnes partes codicis nostri fere eodem tempore scriptas esse. Atqui F. Joannes Rigele 1691 vota emisit et probabiliter fere eodem tempore arti oratoriae operam dedit. Insuper p. 279 P. Paulus Mezger laudatur, nobis iam notissimus.  \nVidetur igitur codex noster circa annum 1690 scriptus esse."
   }
 }

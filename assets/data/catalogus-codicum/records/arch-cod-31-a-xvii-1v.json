@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-31-a-xvii-1v",
   "signature": "Arch. Cod. 31 A (XVII 1v)",
   "aliases": [
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,6 +42,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur",
         "typeRaw": "supplied",
@@ -46,6 +50,9 @@
       },
       "locus": "S. 1–162",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -126,13 +133,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-31-a-xvii-1v/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 31 A (XVII 1v)",
     "titles": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur \nAntiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur",
-    "persons": "P. Wolfgangus Mitter Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "P. Wolfgangus Mitter Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Das Titelblatt fehlt; der Katalogbearbeiter hat den Titel ausdrücklich aus dem vorausgehenden Codex restituiert.",
-    "physical": "Papier \n162 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "physical": "Papier \n162 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Folioformat; 162 Seiten; Pappeinband mit Blümchenverzierung, rehbraunem Lederrücken und lederverstärkten Ecken; geschrieben um 1790.\n\n**Typographische Altertümer oder die bis zum Jahr 1500 gedruckten Bücher, die in der Bibliothek des Klosters Seitenstetten aufbewahrt werden.**\n\nDas Titelblatt fehlt. Da auch dieser Codex Inkunabeln behandelt, wurde der Titel nach dem vorausgehenden Werk ergänzt.\n\nVielleicht stellte **P. Wolfgangus Mitter** auch diesen Codex zusammen, größtenteils lateinisch, gelegentlich deutsch, als vorbereitende Arbeitsfassung für seinen großen Inkunabelkatalog.",
+    "latin": "fol.; 162 pagg.; teg. chartaceum, flosculis ornatum cum dorso extremisque scorteis cervini coloris; scriptus ca. 1790\n\n**(Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur)**\n\nFolium titulare deest; qua de causa, cum in hoc quoque codice de libris uti aiunt incunabulis agatur, titulum e praecedente codice restitui. Fortasse idem **P. Wolfgangus Mitter** hunc codicem composuit (quoad maximam partem Latine, interdum Germanice), ut codicem illum magnum, quem modo tractavimus, praepararet."
   }
 }

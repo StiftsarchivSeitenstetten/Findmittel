@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-89",
   "signature": "MN II 89",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "57",
   "heading": {
     "title": "Logica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1665"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Logica",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,34 +49,47 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
-      "dates": [],
-      "persons": [
+      "incipits": [
         {
-          "name": "P. Stephanus Sevioviz (Senoviz?)",
-          "roleRaw": "lecturer",
-          "roleLabel": "Dozent",
-          "scope": "item",
-          "itemId": "item-1",
-          "certainty": "uncertain"
-        },
-        {
-          "name": "Dionysius Kerner",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1"
+          "label": "Sumulariae in Aristotelis logicam introductionis pag. 7",
+          "text": "Solent ad",
+          "id": "incipit-1"
         }
       ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 430",
+          "text": "finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre Stephano Sevioviz (Senoviz?) Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... Dionysius Kerner Grispachensis.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Sumulariae in Aristotelis logicam introductionis pag. 7",
+        "text": "Solent ad",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 430",
+        "text": "finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre Stephano Sevioviz (Senoviz?) Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... Dionysius Kerner Grispachensis.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "(Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -98,21 +114,6 @@
       "roleRaw": "scribe",
       "roleLabel": "Schreiber",
       "scope": "contents"
-    },
-    {
-      "name": "P. Stephanus Sevioviz (Senoviz?)",
-      "roleRaw": "lecturer",
-      "roleLabel": "Dozent",
-      "scope": "item",
-      "itemId": "item-1",
-      "certainty": "uncertain"
-    },
-    {
-      "name": "Dionysius Kerner",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -178,13 +179,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-89/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 89",
     "titles": "Logica \nLogica",
-    "persons": "Dionysius Kerner unspecified unspecified \nP. Stephanus Sevioviz (Senoviz?) Dozent lecturer \nDionysius Kerner Schreiber scribe \nP. Stephanus Sevioviz (Senoviz?) Dozent lecturer \nDionysius Kerner Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n434 Seiten \ndescription: Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+    "persons": "Dionysius Kerner unspecified unspecified  \nP. Stephanus Sevioviz (Senoviz?) Dozent lecturer  \nDionysius Kerner Schreiber scribe ",
+    "incipits": "Solent ad",
+    "explicits": "finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre Stephano Sevioviz (Senoviz?) Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... Dionysius Kerner Grispachensis.",
+    "notes": "(Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.) \nLogica Graecensis MS. 1665.",
+    "physical": "Papier \n434 Seiten \ndescription: Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+    "german": "434 Seiten; Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1665.\n\n**(Logik).** Anfang der **Einführung der Summulae in die Logik des Aristoteles** S. 7: **Gewöhnlich werden den Anfängern gleich zu Beginn die Summulae vorgelegt....**\n\nSchluss S. 430: **Wir beendeten [dies] im Jahr 1665 am 28. Juli unter dem hochwürdigen Pater Stephanus Sevioviz (Senoviz?), Doktor der freien Künste und der Philosophie sowie ordentlichem Professor derselben, in Graz...... Dionysius Kerner aus Griesbach.**\n\nEs ist zu prüfen, ob dieser Schreiber mit P. **Amandus Kerner**, einem Österreicher aus Griesbach, identisch ist, der am 1. November 1667 im Kloster Seitenstetten die Gelübde ablegte. Wer diese Frage vorschnell bejaht, möge nicht übersehen, dass jener P. Amandus Kerner in den Seitenstettner Archivcodices 29 F, 34 R, 34 T und 34 V – siehe unten – eine andere Schrift verwendete; außerdem studierte er 1669 in Salzburg Logik.\n\nRückenaufschrift: **Logica Graecensis MS. 1665.**",
+    "latin": "434 pagg.; tegumentum membranaceum saeculo XV. ornate modis musicae sacrae inscriptum; script. 1665\n\n(Logica). Initium Sumulariae in Aristotelis logicam introductionis pag. 7: Solent ad initium statim proponi tironibus Sumulae.... Clausula p. 430: finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre **Stephano Sevioviz (Senoviz?)** Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... **Dionysius Kerner** Grispachensis. (Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.)\n\nInscriptio dorsi: Logica Graecensis MS. 1665."
   }
 }

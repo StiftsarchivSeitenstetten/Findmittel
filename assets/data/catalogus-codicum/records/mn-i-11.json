@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-11",
   "signature": "MN I 11",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "219–220",
   "heading": {
     "title": "Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "Faszikel I–IV wahrscheinlich zwischen 1711 und 1731"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "translation": "",
     "summary": "Sammlung von fünf Faszikeln zur Wahl und Krönung der Kaiser Leopold I., Joseph I. und Karl VI., zu Reichsvikariatsangelegenheiten sowie zu einer Sitzung des Reichsfürstenrates von 1731.",
     "language": "de",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "Faszikel I",
       "title": {
         "text": "Waell Zur Römischen Kayser Leopoldi",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -77,13 +84,17 @@
       "id": "item-2",
       "label": "2",
       "type": "",
+      "physicalUnit": "Faszikel II",
       "title": {
         "text": "Vicariatssachen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -109,13 +120,17 @@
       "id": "item-3",
       "label": "3",
       "type": "",
+      "physicalUnit": "Faszikel III",
       "title": {
         "text": "Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -145,13 +160,17 @@
       "id": "item-4",
       "label": "4",
       "type": "",
+      "physicalUnit": "Faszikel IV",
       "title": {
         "text": "Wahl: und Crönungs Act Caroli VI.",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -181,13 +200,17 @@
       "id": "item-5",
       "label": "5",
       "type": "",
+      "physicalUnit": "Faszikel V",
       "title": {
         "text": "Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -340,13 +363,116 @@
       "note": "Der Katalog beschreibt den Umschlag durch Verweis auf MN I 10."
     }
   ],
+  "physicalUnits": [
+    {
+      "id": "physical-faszikel-i",
+      "label": "Faszikel I",
+      "itemIds": [
+        "item-1"
+      ],
+      "titles": [
+        "Waell Zur Römischen Kayser Leopoldi"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Leopold I.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-ii",
+      "label": "Faszikel II",
+      "itemIds": [
+        "item-2"
+      ],
+      "titles": [
+        "Vicariatssachen"
+      ],
+      "loci": [],
+      "persons": [],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-iii",
+      "label": "Faszikel III",
+      "itemIds": [
+        "item-3"
+      ],
+      "titles": [
+        "Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Joseph I.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-3"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-iv",
+      "label": "Faszikel IV",
+      "itemIds": [
+        "item-4"
+      ],
+      "titles": [
+        "Wahl: und Crönungs Act Caroli VI."
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Karl VI.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-4"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-v",
+      "label": "Faszikel V",
+      "itemIds": [
+        "item-5"
+      ],
+      "titles": [
+        "Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731"
+      ],
+      "loci": [],
+      "persons": [],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    }
+  ],
   "search": {
     "signature": "MN I 11",
     "titles": "Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti \nWaell Zur Römischen Kayser Leopoldi \nVicariatssachen \nVon der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690 \nWahl: und Crönungs Act Caroli VI. \nReichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe \nLeopold I. subject subject \nJoseph I. subject subject \nKarl VI. subject subject",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe  \nLeopold I. subject subject  \nJoseph I. subject subject  \nKarl VI. subject subject ",
     "incipits": "",
     "explicits": "",
     "notes": "Sammlung von fünf Faszikeln zur Wahl und Krönung der Kaiser Leopold I., Joseph I. und Karl VI., zu Reichsvikariatsangelegenheiten sowie zu einer Sitzung des Reichsfürstenrates von 1731. \nde \nBehandelt nicht nur die Wahl, sondern auch die Krönung Leopolds I. \nDieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt. \nWas während eines Interregnums oder bei Verhinderung des Kaisers zu geschehen hat. \nBehandelt nicht nur die Wahl, sondern auch die Krönung Josephs I. \nAkten zur Wahl und Krönung Karls VI. \nDieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt. \nDer Katalog lässt ausdrücklich offen, ob die fünf Faszikel von einem oder mehreren Verfassern stammen. \nDie Faszikel II und V gehören physisch zur Einheit, obwohl sie in der Umschlagaufschrift nicht genannt werden. \nIhre Einordnung wird vom Katalogbearbeiter chronologisch begründet: Faszikel II scheint unter Leopold I., Faszikel V unter Karl VI. zusammengestellt worden zu sein. \nDie Datierung 1711–1731 betrifft nur die Niederschrift der ersten vier Faszikel und darf nicht mit den wesentlich älteren historischen Ereignissen verwechselt werden.",
-    "physical": "Papier \nunits: 5; unit_type: Faszikel; description: Fünf Faszikel im Folioformat.; units_detail: unit: Faszikel I–IV; construction: Gebundene Blätter.; unit: Faszikel V; construction: Lose Blätter."
+    "physical": "Papier \nunits: 5; unit_type: Faszikel; description: Fünf Faszikel im Folioformat.; units_detail: unit: Faszikel I–IV; construction: Gebundene Blätter.; unit: Faszikel V; construction: Lose Blätter. \nFaszikel I \nFaszikel II \nFaszikel III \nFaszikel IV \nFaszikel V",
+    "german": "5 Faszikel im Folioformat, von denen die ersten vier aus gebundenen Blättern bestehen, der fünfte aus losen Blättern; alle ohne eigenen Einband, jedoch in einem Papierumschlag mit Lederrücken im Großfolioformat aufbewahrt, wie oben bei Cod. MN I 10.\n\n**Erster Faszikel:** Waell Zur Römischen Kayser Leopoldi: 148 Seiten.\n\n**Zweiter Faszikel:** Vicariatssachen (Was während eines Interregnums oder bei Verhinderung des Kaisers zu geschehen hat): 70 Seiten.\n\n**Dritter Faszikel:** Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690: 158 Seiten.\n\n**Vierter Faszikel:** Wahl: und Crönungs Act Caroli VI.: 304 Seiten.\n\n**Fünfter Faszikel:** Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731: 104 Seiten.\n\n**Aufschrift des Umschlags:** Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti. Tatsächlich berichten sowohl der erste als auch der dritte Faszikel auch darüber, wie die gewählten Kaiser gekrönt wurden.\n\nDer zweite und der fünfte Faszikel werden auf dem Umschlag nicht erwähnt; dennoch habe ich sie an dieser Stelle eingeordnet, weil der zweite Faszikel unter der Regierung Kaiser Leopolds (siehe S. 61 dieses Faszikels!), der fünfte Faszikel unter Kaiser Karl VI. zusammengestellt worden zu sein scheint.\n\nMit Ausnahme des fünften Faszikels weisen alle dieselbe Schrift auf; daher wurden wahrscheinlich alle vier ersten Faszikel zwischen der Krönung Karls VI. im Jahr 1711 und der im Jahr 1731 abgehaltenen Sitzung des Fürstenrates des Heiligen Römischen Reiches geschrieben.\n\nDer Verfasser (oder: die Verfasser?) und der Schreiber sind unbekannt.",
+    "latin": "5 fasciculi (folio), e quibus quattuor priores foliorum ligatorum, quintus solutorum sunt, omnes autem non tegumento munitorum, sed in involucro ut supra in Cod. MN I 10 servati.\n\n**Fasciculus Primus:** Waell Zur Römischen Kayser Leopoldi: 148 pagg.\n\n**Fasciculus Secundus:** Vicariatssachen (Quid fiat tempore interregni aut imperatore impedito): 70 pagg.\n\n**Fasciculus Tertius:** Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690: 158 pagg.\n\n**Fasciculus Quartus:** Wahl: und Crönungs Act Caroli VI.: 304 pagg.\n\n**Fasciculus Quintus:** Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731: 104 pagg.\n\n**Inscriptio involucri:** Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti. Et re vera etiam fasciculus Primus et Tertius enarrant, quomodo electi illi imperatores etiam coronati sint.\n\nFasciculus Secundus et Quintus in involucro non notantur; nihilominus inserui eos hoc loco, quia Fasciculus Secundus regnante Leopoldo imperatore (vide p. 61 huius fasciculi!), Fasciculus Quintus sub Imperatore Carolo VI. videntur esse congesti.\n\nPraeter fasciculum quintum omnes eandem scripturam exhibent; qua de re probabiliter omnes quattuor priores fasciculi inter Coronationem Caroli VI. anno 1711 et Consilium Principum Sacri Imperii Romani anno 1731 habitum scripti sunt.\n\nAuctor (aut: Auctores?) vero et scriptor ignoti."
   }
 }

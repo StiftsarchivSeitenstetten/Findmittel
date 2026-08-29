@@ -13,12 +13,20 @@ ms_contents:
   - label: a
     title: Tractatus De Virtute et Sacramento Paenitentiae
     locus: fol. II, 1–156v
-    incipit: Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia
+    incipits:
+    - text: Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia,......
+      locus: fol. IIr
+    title_status: unspecified
   - label: b
     title: Tractatus De Tribus ultimis Sacramentis Seu De Extrema unctione, Ordine, et Matrimonio
-    locus: fol. 1r–33v (= fol. 158r–190v)
-    incipit: Absolutâ de Sacramento Paenitentiae consideratione
+    locus: fol. 1r–33v
     end_date_display: 31. August 1714
+    incipits:
+    - text: Absolutâ de Sacramento Paenitentiae consideratione .......
+      label: Proemii
+    explicits:
+    - text: 1714. 31. August
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

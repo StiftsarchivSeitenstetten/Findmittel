@@ -10,38 +10,46 @@ ms_identifier:
   idno: MN III 35
 ms_contents:
   items:
-  - label: "a"
-    title: "Aliquot considerationes de bona morte"
-    title_type: "supplied"
-    locus: "S. I–V"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; deutsch."
-  - label: "b"
-    title: "Solatium infirmorum"
-    title_type: "supplied"
-    locus: "S. VII–VIII, 1–188"
-    note: "Der Katalogbearbeiter erschloss den Titel aus der lateinischen Vorrede; Register S. 186–188."
-  - label: "c"
-    title: "Modus Pius Disponendi Infirmum Ad felicem mortem obeundam"
-    locus: "S. 190, 1–71"
-    note: "Mit Index Partis Secundae S. 69–71."
-  - label: "d.1"
-    title: "Psalmi, quibus vis diabolica mirè enervatur et infirmo prolegendi"
-    locus: "S. 72–73"
-  - label: "d.2"
-    title: "Aliae preces in usum infirmorum"
-    title_type: "supplied"
-    locus: "S. 73–78"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "e.1"
-    title: "Absolutio generalis. Fratribus nostris in mortis articulo danda"
-    locus: "S. 79–82"
-  - label: "e.2"
-    title: "Fratribus, et Sororibus Scapularis danda"
-    locus: "S. 83–84"
-  - label: "f"
-    title: "Commendatio animae agonizantis"
-    locus: "S. 85–92"
-    note: "Deutschsprachig."
+  - label: a
+    title: Aliquot considerationes de bona morte
+    locus: p. I–V
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; deutsch.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Solatium infirmorum
+    locus: p. VII, VIII, 1–184
+    note: Der Katalogbearbeiter erschloss den Titel aus der lateinischen Vorrede; Register S. 186–188.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: Modus Pius Disponendi Infirmum Ad felicem mortem obeundam
+    locus: p. 190, 1–68
+    note: Mit Index Partis Secundae S. 69–71.
+    title_status: unspecified
+  - label: d.1
+    title: Psalmi, quibus vis diabolica mirè enervatur et infirmo prolegendi
+    locus: p. 73–78
+    title_status: unspecified
+  - label: d.2
+    title: Aliae preces in usum infirmorum
+    locus: p. 73–78
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: e.1
+    title: Absolutio generalis. Fratribus nostris in mortis articulo danda
+    locus: p. 79–82
+    title_status: unspecified
+  - label: e.2
+    title: Fratribus, et Sororibus Scapularis danda
+    locus: p. 83–84
+    title_status: unspecified
+  - label: f
+    title: Commendatio animae agonizantis
+    locus: p. 85–92
+    note: Deutschsprachig.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

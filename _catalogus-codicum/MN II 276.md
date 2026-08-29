@@ -13,27 +13,36 @@ ms_contents:
   items:
   - label: a
     title: Prolegomena Matheseos Purae
-    locus: S. 3–5
+    locus: p. 3–5 et V
+    title_status: unspecified
   - label: a.1
     title: Vorbericht
-    locus: S. 6–23
+    locus: p. 6–23
+    title_status: unspecified
   - label: b
     title: Erste Gründe der allgemeinen Mathematik
-    locus: S. 23–76
+    locus: p. 23–76
+    title_status: unspecified
   - label: c
     title: Erste Gründe der Rechenkunst
-    locus: S. 77–177
+    locus: p. 77–177
     note: Der Katalog ergänzt in runden Klammern die editorische Inhaltsbezeichnung „Arithmetic“; sie wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
   - label: d
     title: Erste Gründe der Geometrie
-    locus: S. 179–360
+    locus: p. 179–360
+    title_status: unspecified
   - label: e
     title: Erste Gründe der Trigonometrie
-    locus: S. 361–370
+    locus: p. 361–370
+    title_status: unspecified
   - label: f
     title: Erste Gründe der Dynamie
-    locus: S. 370–381
-    note: Die in runden Klammern stehende Erläuterung „Von Erfindung der Größe in der Geschwindigkeit“ ist eine editorische Inhaltsbezeichnung und wurde nicht als überlieferter Titel behandelt.
+    locus: p. 370–381
+    note: Die in runden Klammern stehende Erläuterung „Von Erfindung der Größe in der Geschwindigkeit“ ist eine editorische Inhaltsbezeichnung
+      und wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

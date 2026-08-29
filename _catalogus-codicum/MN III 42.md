@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 42
 ms_contents:
-  title: "Ein Schönes Gebett Büechel Welches auß Underschiedtlichen Büechern zu=Sammen gezogen Und vor weltlichen Leyden gar wohl zu gebrauchen Seyn Wiert"
   items:
-  - label: "a"
-    title: "Ein Schönes Gebett Büechel Welches auß Underschiedtlichen Büechern zu=Sammen gezogen Und vor weltlichen Leyden gar wohl zu gebrauchen Seyn Wiert"
-    locus: "S. 1–541"
+  - label: a
+    title: Ein Schönes Gebett Büechel Welches auß Underschiedtlichen Büechern zu=Sammen gezogen Und vor weltlichen Leyden gar wohl zu gebrauchen
+      Seyn Wiert
+    locus: p. 1–541
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

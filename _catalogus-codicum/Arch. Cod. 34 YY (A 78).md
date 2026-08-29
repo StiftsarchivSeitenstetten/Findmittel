@@ -13,15 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 YY (A 78).
   items:
   - label: a
-    catalog_statement: 'Alvearium Spirituale sive Tractatus de praxi atque methodo pie ac devote meditandi continens varias
-      spiritualium meditationum aliorumque exercitiorum divinorum praedulces et mellitas materias ex diversis piorum Asceticorum
-      Authorum Coelestibus flosculis, pro instructione, et usu novitiorum vitam religiosam incipientium et amplectentium collectus
-      et conscriptus ab Admodum Reverendo, Religiosissimo, nec non Doctissimo Domino Patre Placido Steger, Ordinis Sanctissimi
-      Patris Benedicti professo Monasterii Divae Virginis in Seittenstetten, pro tempore Priore ac Novitiorum Magistro Vigilantissimo
-      Anno Domini MDCLXXXII (1682): fol. IIr–55v (= p. 3–110)'
+    catalog_statement: 'Alvearium Spirituale sive Tractatus de praxi atque methodo pie ac devote meditandi continens varias spiritualium meditationum
+      aliorumque exercitiorum divinorum praedulces et mellitas materias ex diversis piorum Asceticorum Authorum Coelestibus flosculis, pro instructione,
+      et usu novitiorum vitam religiosam incipientium et amplectentium collectus et conscriptus ab Admodum Reverendo, Religiosissimo, nec non
+      Doctissimo Domino Patre Placido Steger, Ordinis Sanctissimi Patris Benedicti professo Monasterii Divae Virginis in Seittenstetten, pro tempore
+      Priore ac Novitiorum Magistro Vigilantissimo Anno Domini MDCLXXXII (1682): fol. IIr–55v (= p. 3–110)'
+    title: Alvearium Spirituale sive Tractatus de praxi atque methodo pie ac devote meditandi continens varias spiritualium meditationum aliorumque
+      exercitiorum divinorum praedulces et mellitas materias ex diversis piorum Asceticorum Authorum Coelestibus flosculis, pro instructione,
+      et usu novitiorum vitam religiosam incipientium et amplectentium collectus et conscriptus ab Admodum Reverendo, Religiosissimo, nec non
+      Doctissimo Domino Patre Placido Steger, Ordinis Sanctissimi Patris Benedicti professo Monasterii Divae Virginis in Seittenstetten, pro tempore
+      Priore ac Novitiorum Magistro Vigilantissimo Anno Domini MDCLXXXII (1682)
+    locus: fol. IIr–55v
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Formulare Morum, Secundum quod Novitii mores suos conformare seriò studeant: fol. 63r–70v (= pag.
-      125–140)'
+    catalog_statement: 'Formulare Morum, Secundum quod Novitii mores suos conformare seriò studeant: fol. 63r–70v (= pag. 125–140)'
+    title: Formulare Morum, Secundum quod Novitii mores suos conformare seriò studeant
+    locus: fol. 63r–70v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -18,10 +18,19 @@ ms_contents:
   items:
   - label: a
     title: Tractatus primus De Sacramentis in genere
-    locus: Bl. 1–26r
+    locus: fol. 1 - 26r
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis
+      text: Quoniam utilitas, necessitas et praestantia rei....
+    colophons:
+    - locus: fol. 26
+      text: Absolvimus 23. die Novembris. 1648.
+    title_status: unspecified
   - label: b
     title: Tractatus II–VIII de singulis sacramentis in specie
     locus: Bl. 27r–214v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

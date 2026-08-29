@@ -10,14 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 31 A (XVII 1v)
 ms_contents:
-  title: "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur"
-    title_type: supplied
-    locus: "S. 1–162"
-    note: "Das Titelblatt fehlt; der Katalogbearbeiter hat den Titel ausdrücklich aus dem vorausgehenden Codex restituiert."
+  - label: a
+    title: Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur
+    locus: S. 1–162
+    note: Das Titelblatt fehlt; der Katalogbearbeiter hat den Titel ausdrücklich aus dem vorausgehenden Codex restituiert.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

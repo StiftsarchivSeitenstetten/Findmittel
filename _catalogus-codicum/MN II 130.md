@@ -12,23 +12,40 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 130.
   items:
   - label: a
-    title: Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis
-      Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque
-      Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus
-      Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673
-    locus: p. I
+    title: Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside
+      Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili,
+      nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus.
+      Anno 1673
+    locus: p. I, II, 1 - 298
+    incipits:
+    - label: in II. Librum Decretalium
+      text: Prooemium. Expeditis priori libro variis iudicum tam ordinariorum, quam delegatorum officiis....
+    title_status: unspecified
   - label: b
-    title: Commentarius in Librum Tertium Decretalium, Gregorii IX Summi Pontificis. Traditus In Lincensi Caesarei Collegii
-      Societatis Jesu Gymnasio, à Reverendo Patre Georgio Szavatkay, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae
-      Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum explanatore, ac Professore Ordinario.
-      Exceptus Ab Adamo Ferdinando Xaverio Wimmer Philosophiae et Sacrorum Canonum Studioso. Anno 1674. p. 1 - 198 (= 302
-      - 500).
-    locus: p. 1 - 198 (= 302 - 500).
+    title: Commentarius in Librum Tertium Decretalium, Gregorii IX Summi Pontificis. Traditus In Lincensi Caesarei Collegii Societatis Jesu Gymnasio,
+      à Reverendo Patre Georgio Szavatkay, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore
+      Decano Spectabili, nec non Sacrorum Canonum explanatore, ac Professore Ordinario. Exceptus Ab Adamo Ferdinando Xaverio Wimmer Philosophiae
+      et Sacrorum Canonum Studioso. Anno 1674. p. 1 - 198 (= 302 - 500).
+    locus: p. 1
+    incipits:
+    - locus: p. 1
+      label: Tractatus In librum tertium Decretalium
+      text: Priore libro actum est de iudiciis.....
+    colophons:
+    - locus: p. 198
+      text: die 7 Septembris, Anno 1674.
+    title_status: unspecified
   - label: c
-    title: Controversiae Fidei Explanatae Ab......Patre Edmundo Manincor, Ordinis S. Benedicti, in Celeberrimo, et Antiquissimo
-      Monasterio Admontensi Professo, Sacrosanctae Theologiae Doctore, et Controversiarum fidei Professore Ordinario. Exceptae
-      à me Fratre Leopoldo Wimmer eiusdem Ordinis in Seittenstetten Professo. Anno 1678
-    locus: p. 1 - 115 (= 503 - 618).
+    title: Controversiae Fidei Explanatae Ab......Patre Edmundo Manincor, Ordinis S. Benedicti, in Celeberrimo, et Antiquissimo Monasterio Admontensi
+      Professo, Sacrosanctae Theologiae Doctore, et Controversiarum fidei Professore Ordinario. Exceptae à me Fratre Leopoldo Wimmer eiusdem Ordinis
+      in Seittenstetten Professo. Anno 1678
+    locus: p. 1 - 115
+    incipits:
+    - label: Prooemii in Controversias
+      text: Diversa ad studia diversi incumbunt,......
+    explicits:
+    - text: '.....Anno 1678.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-9",
   "signature": "97.1.9",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "208",
   "heading": {
     "title": "Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1723 (?)"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–ca. 540",
+      "locus": "p. 207",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -151,13 +158,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.9",
     "titles": "Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410. \nCodicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.",
-    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "persons": "Johann Fischer Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \nca. 540 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \nca. 540 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; etwa 540 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.**\n\nDieser Codex bildet den letzten Teil des Werkes, dessen Titel, Verfasser sowie Entstehungs- und Einbandzeit oben S. 207 bei Codex 97.1.6 behandelt wurden.",
+    "latin": "fol.; ca. 540 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codicis Provincialis Vierter Theil von Litera T. bis Z. das ist Von No 1877 bis No 2410.**\n\nCodex noster ultima pars est illius operis, cuius inscriptionem, auctorem, tempus scripturae tecturaeque supra p. 207 ad codicem 97.1.6 exposuimus."
   }
 }

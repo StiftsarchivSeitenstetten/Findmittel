@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-88",
   "signature": "MN II 88",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "57",
   "heading": {
     "title": "Theologia Scholastica de Deo Trino et Uno",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1663/64"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Theologia Scholastica de Deo Trino et Uno",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prolegomena Totius Theologiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–20v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Proloquii",
+          "text": "Agit S. Doctor de Deo Uno et Trino, et Creatore.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Proloquii",
+        "text": "Agit S. Doctor de Deo Uno et Trino, et Creatore.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,6 +83,7 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus quinque de Deo Uno",
         "typeRaw": "supplied",
@@ -71,7 +91,20 @@
       },
       "locus": "fol. 21–370r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 21r",
+          "text": "Quia Deus est praecipuum subiectum huius scientiae.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 21r",
+        "text": "Quia Deus est praecipuum subiectum huius scientiae.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -82,16 +115,45 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Ultimus de Sacro Trinitatis Mysterio â quaestione 27 usque ad 45",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 370v–406v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "fol. 371r",
+          "text": "Puteus quidem hic altus est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 406v",
+          "text": "fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 371r",
+        "text": "Puteus quidem hic altus est....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 406v",
+        "text": "fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "(Hoc chronogramma annum 1664 videtur indicare. Sed quod codex noster paene ad verbum idem continet quod codex MN II 83 – vide supra p. 53! –, facile coniectaberis, etiam codicem nostrum iam anno 1663 scriptum esse; et sane in voce \"VnI\" chronogrammatis prius scriptum erat \"Vno\", quod tamen utpote lapsum grammaticalem scriptor postea emendavit. Ceterum de auctore et scriptore nil notum, nisi quod auctor idem est atque in codice MN II 83.)"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -191,13 +253,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 88",
     "titles": "Theologia Scholastica de Deo Trino et Uno \nProlegomena Totius Theologiae \nTractatus quinque de Deo Uno \nTractatus Ultimus de Sacro Trinitatis Mysterio â quaestione 27 usque ad 45",
-    "persons": "derselbe wie MN II 83 Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n407 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+    "persons": "derselbe wie MN II 83 Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Agit S. Doctor de Deo Uno et Trino, et Creatore..... \nQuia Deus est praecipuum subiectum huius scientiae..... \nPuteus quidem hic altus est....",
+    "explicits": "fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris",
+    "notes": "(Hoc chronogramma annum 1664 videtur indicare. Sed quod codex noster paene ad verbum idem continet quod codex MN II 83 – vide supra p. 53! –, facile coniectaberis, etiam codicem nostrum iam anno 1663 scriptum esse; et sane in voce \"VnI\" chronogrammatis prius scriptum erat \"Vno\", quod tamen utpote lapsum grammaticalem scriptor postea emendavit. Ceterum de auctore et scriptore nil notum, nisi quod auctor idem est atque in codice MN II 83.) \ntype: historical_note; location: Innenseite Vorderdeckel; subject: Jaurinum / Raab / Győr; dates: 1594; 1598",
+    "physical": "Papier \n407 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+    "german": "407 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **IHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1663/64.\n\n**Scholastische Theologie über den dreieinigen und einen Gott.**\n\na) **Prolegomena zur gesamten Theologie:** fol. 1–20v. Anfang der Vorrede fol. 1r: **Der heilige Lehrer behandelt den einen und dreieinigen Gott sowie den Schöpfer.....**\n\nb) **(Fünf Abhandlungen über den einen Gott):** fol. 21–370r. Anfang fol. 21r: **Da Gott der vornehmste Gegenstand dieser Wissenschaft ist.....**\n\nc) **Letzte Abhandlung über das heilige Geheimnis der Dreifaltigkeit, von Frage 27 bis 45:** fol. 370v–406v. Anfang fol. 371r: **Dieser Brunnen ist freilich tief....** Schluss fol. 406v: **fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris.**\n\nDieses Chronogramm scheint das Jahr 1664 anzuzeigen. Da unser Codex jedoch nahezu Wort für Wort dasselbe enthält wie Codex MN II 83 (siehe oben S. 53), wird man leicht vermuten, dass auch unser Codex bereits 1663 geschrieben wurde. Tatsächlich stand im Wort **VnI** des Chronogramms zunächst **Vno**, was der Schreiber später als grammatischen Fehler verbesserte.\n\nIm Übrigen ist über Verfasser und Schreiber nichts bekannt, außer dass der Verfasser derselbe ist wie bei Codex MN II 83.\n\nAuf der Innenseite des Vorderdeckels befindet sich eine historische Notiz über die Stadt Jaurinum (= Raab/Győr in Ungarn) zu den Jahren 1594 und 1598.",
+    "latin": "407 foll.; teg. a2 (in parte adversa I H S, in aversa imago Matris Immaculatae iuxta Apoc. XII 1); script. 1663/64\n\nTheologia Scholastica de Deo Trino et Uno.\n\na) Prolegomena Totius Theologiae: fol. 1–20v. Initium Proloquii fol. 1r: Agit S. Doctor de Deo Uno et Trino, et Creatore.....\n\nb) (Tractatus quinque de Deo Uno): fol. 21–370r. Initium fol. 21r: Quia Deus est praecipuum subiectum huius scientiae.....\n\nc) Tractatus Ultimus de Sacro Trinitatis Mysterio â quaestione 27 usque ad 45: fol. 370v–406v. Initium fol. 371r: Puteus quidem hic altus est.... Clausula fol. 406v: fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris (Hoc chronogramma annum 1664 videtur indicare. Sed quod codex noster paene ad verbum idem continet quod codex MN II 83 – vide supra p. 53! –, facile coniectaberis, etiam codicem nostrum iam anno 1663 scriptum esse; et sane in voce \"VnI\" chronogrammatis prius scriptum erat \"Vno\", quod tamen utpote lapsum grammaticalem scriptor postea emendavit. Ceterum de auctore et scriptore nil notum, nisi quod auctor idem est atque in codice MN II 83.)\n\nIn parte adversa tegumenti ab intrinsecus nota historica de oppido Jaurinum (= Raab in Hungaria) ad annos 1594 et 1598."
   }
 }

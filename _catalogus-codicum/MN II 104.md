@@ -9,9 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 104
 ms_contents:
-  catalogue_title_or_summary: 'Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio
-    Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium
-    Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......'
+  items:
+  - catalog_statement: 'Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi,
+      Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus
+      Doctor hic in Prooemio,......'
+    title: Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae
+      Theologiae Doctore, eiusdemque professore ordinario
+    locus: p. 3–629
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

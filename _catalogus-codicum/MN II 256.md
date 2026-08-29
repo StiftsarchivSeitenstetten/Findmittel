@@ -13,11 +13,17 @@ ms_contents:
   - label: a
     title: Tractatus De Jure, et Justitia
     locus: fol. 1r–103r
-    incipit: In amplissimum pulcherrimarum virtutum collegium
+    incipits:
+    - text: In amplissimum pulcherrimarum virtutum collegium, .......
+      label: Proemii
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus. De Restitutione et Contractibus
     locus: fol. 103v–168v
-    incipit: Explicatâ priori Tractatu naturâ, et divisione iustitiae
+    incipits:
+    - text: Explicatâ priori Tractatu naturâ, et divisione iustitiae .......
+      label: Disputationis primae
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

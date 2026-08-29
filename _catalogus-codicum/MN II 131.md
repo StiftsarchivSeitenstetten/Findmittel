@@ -12,20 +12,33 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 131.
   items:
   - label: a
-    title: Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii
-      Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae
-      Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis
-      excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675
-    locus: p. V
+    title: Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio,
+      Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro
+      tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer,
+      Philosophiae et Sacrorum Canonum Studiosus, Anno 1675
+    locus: p. V, VI, 1 - 308
+    incipits:
+    - locus: p. 1
+      label: in quartum Decretalium librum
+      text: Priusquam huius libri expositionem aggredior, paucis exponam methodum.....
+    title_status: unspecified
   - label: b
     title: Sequuntur pro Supplemento reliquorum foliorum, Notata quaedam ex Collegio Juris Canonici
-    locus: p. 308
+    locus: p. 308, 1 - 166
+    title_status: unspecified
   - label: c
-    title: Commentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma
-      et Archiepiscopali Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi
-      Benedictini Cremifanensis inchoavit, Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus
-      Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus. Anno 1678. manu propria
-    locus: p. 168
+    title: Commentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma et Archiepiscopali
+      Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis inchoavit,
+      Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus.
+      Anno 1678. manu propria
+    locus: p. 168, 169, 1 - 407
+    incipits:
+    - label: Commentarii in quintum Librum Decretalium Gregorii 9, Summi Pontificis
+      text: 'p. 1 (= 478): Postquam in libris praecedentibus....'
+    colophons:
+    - locus: p. 407
+      text: Absolvimus hunc tractatum 8 Octobris 1678.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

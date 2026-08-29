@@ -13,11 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 W (XVIII 3 v).
   items:
   - label: a
-    catalog_statement: 'Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem
-      pertinet.... (p. 1)'
+    catalog_statement: 'Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1)'
+    title: Tractatus De Legibus
+    locus: p. 1 - 135
+    incipits:
+    - locus: p. 1
+      label: praefationis
+      text: De legibus agere etiam ad Theologum moralem pertinet....
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Tractatus De Censuris Ecclesiasticis: p. 1 - 122 (= 136 - 257). Initium Praefationis p. 136: Notitia
-      de censuris ecclesiasticis....'
+    catalog_statement: 'Tractatus De Censuris Ecclesiasticis: p. 1 - 122 (= 136 - 257). Initium Praefationis p. 136: Notitia de censuris ecclesiasticis....'
+    title: Tractatus De Censuris Ecclesiasticis
+    locus: p. 1 - 122
+    incipits:
+    - locus: p. 136
+      label: Praefationis
+      text: Notitia de censuris ecclesiasticis....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

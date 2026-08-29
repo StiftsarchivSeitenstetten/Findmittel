@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-33-j-i-l-u",
   "signature": "Arch. Cod. 33 J (I l. u.)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "252",
   "heading": {
-    "title": "(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "ca. 1772"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 33 J (I l. u.).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 1–48",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Aliquot documenta, quae ad historiam ecclesiasticam spectant): p. 51–127",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Aliquot documenta, quae ad historiam ecclesiasticam spectant",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 51–127",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. autem 127 reperitur numerus anni 1768",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -165,13 +180,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-j-i-l-u/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 33 J (I l. u.)",
-    "titles": "(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48 \n(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48 \n(Aliquot documenta, quae ad historiam ecclesiasticam spectant): p. 51–127 \n(Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis).",
-    "persons": "P. Martinus Ober Schreiber scribe",
+    "titles": "Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa \nAliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa \nAliquot documenta, quae ad historiam ecclesiasticam spectant \nSecundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis",
+    "persons": "P. Martinus Ober Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 33 J (I l. u.). \n(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48 \n(Aliquot documenta, quae ad historiam ecclesiasticam spectant): p. 51–127 \n(Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis).",
-    "physical": "Papier \n146 pagg. \nQuartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n146 pagg. \nQuartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Quartformat; 146 Seiten; grauer Pappeinband; geschrieben um 1772.\n\na) **Einige deutsche geistliche Gedichte oder Übersetzungen lateinischer geistlicher Gedichte:** S. 1–48.\n\nb) **Einige Dokumente zur Kirchengeschichte:** S. 51–127.\n\nc) **Secundae nuptiae** – lateinisches Glückwunschdrama zum 8. Dezember 1772, an dem Abt Dominicus Güsmann 50 Jahre seit seiner Profess feierte: wahrscheinlich von **P. Romanus Digl** verfasst. Dasselbe Drama findet sich in Faszikel 1D A52, wo der Name P. Romanus Digl mit Bleistift unter den Titel gesetzt ist.\n\nTeil c kann kaum vor 1772 geschrieben worden sein; S. 127 findet sich jedoch die Jahreszahl 1768.\n\nAuf der Innenseite des Vorderdeckels stehen die Initialen **P. M. O. = P. Martinus Ober**. Da der ganze Codex von einer Hand stammt und die Schrift stark mit Arch. Cod. 34 D übereinstimmt, ist **P. Martinus Ober** sicher der Schreiber. Der Katalogbearbeiter glaubt jedoch nicht, dass er einen der aufgenommenen Texte selbst erfunden oder verfasst hat.",
+    "latin": "4°; 146 pagg.; teg. c1; script. ca. 1772\n\na) (Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48\n\nb) (Aliquot documenta, quae ad historiam ecclesiasticam spectant): p. 51–127\n\nc) **(Secundae nuptiae)** (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a **P. Romano Digl** compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis).\n\nPars c vix ante annum 1772 scripta esse potest. p. autem 127 reperitur numerus anni 1768.\n\nParti adversae tegumenti ab intrinsecus impressae sunt litterae initiales: **P. M. O. = P. Martinus Ober**, monachus Seitenstettensis. Qua de re, cum totus codex ab una eademque manu scriptus sit et scriptura cum codice praecedente 34 D valde congruit, non est dubium, quin P. Martinus Ober scriptor sit codicis nostri. Puto autem, eum nihil omnino, quod in codice nostro scripsit, ipsum invenisse aut composuisse."
   }
 }

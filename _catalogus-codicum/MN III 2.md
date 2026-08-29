@@ -10,12 +10,16 @@ ms_identifier:
   idno: MN III 2
 ms_contents:
   items:
-  - label: "a"
-    title: "Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem"
-    locus: "S. 5–172"
-  - label: "b"
-    title: "Rechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet. Durch: Valentinum Ernestum der Rechenkunst liebhabern"
-    locus: "S. 173–329"
+  - label: a
+    title: 'Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet
+      zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem'
+    locus: p. 5 - 172
+    title_status: unspecified
+  - label: b
+    title: 'Rechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet.
+      Durch: Valentinum Ernestum der Rechenkunst liebhabern'
+    locus: p. 173 - 329
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

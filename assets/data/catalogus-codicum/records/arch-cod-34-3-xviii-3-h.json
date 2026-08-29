@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-3-xviii-3-h",
   "signature": "Arch. Cod. 34–3 (XVIII 3 h)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "203–204",
   "heading": {
     "title": "Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem, ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1720"
   },
   "date": {
@@ -22,12 +22,15 @@
   },
   "contentsOverview": {
     "title": "Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem, ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita.",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber I De Virtutibus Theologicis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 8–428",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -131,13 +138,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-3-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–3 (XVIII 3 h)",
     "titles": "Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem, ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita. \nLiber I De Virtutibus Theologicis.",
-    "persons": "P. Caelestin Pley Autor author \nJoseph Gottfried Prechler illustrator illustrator \nunbekannt Schreiber scribe",
+    "persons": "P. Caelestin Pley Autor author  \nJoseph Gottfried Prechler illustrator illustrator  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "In Dialogform zwischen Lehrer und Schüler; mit sechs Bildseiten.",
-    "physical": "Papier \nfol., 428 pagg. \nFolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \nfol., 428 pagg. \nFolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Folioformat; 428 Seiten; grauer Pappeinband; geschrieben um 1720.\n\n**Abhandlung über die Tugenden oder Schule der Vollkommenheit unter dem Bild eines heiligen Noviziats**, dargestellt von **P. Caelestin Pley**, Profess von Seitenstetten, Doktor der Theologie, ehemaligem Professor und Vize-Rektor der Universität Salzburg sowie geistlichem Rat des Salzburger Fürsterzbischofs.\n\nDie Tugendlehre wird als Dialog zwischen Lehrer und Schüler entfaltet.\n\nDer Codex enthält sechs mit Bildern geschmückte Seiten. Am unteren linken Rand steht jeweils **Joseph Gottfried Prechler delineavit Steyr Garsten**. Auf dem Titelbild S. 3 zeichnete Prechler auch den Verfasser P. Caelestin Pley zusammen mit seinen veröffentlichten Werken.\n\nS. 8: **Buch I: Über die theologischen Tugenden.** Buch II enthält der folgende Codex.\n\nOb P. Caelestin Pley den Codex selbst schrieb, ist ungewiss. Das Werk entstand zwischen 1711, als Pley seine Salzburger Lehrtätigkeit beendete, und 1723, seinem Todesjahr.",
+    "latin": "fol., 428 pagg.; teg. c1; script. ca. 1720\n\n**Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem, ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita.**\n\nQuae diatriba virtutum in forma dialogi inter magistrum et discipulum explicatur.\n\nCodex noster continet 6 paginas imaginibus ornatas; quarum in margine inferiore a sinistris invenitur signum: **Joseph Gottfried Prechler delineavit Steyr Garsten.** Qui in basi imaginis titularis p. 3 etiam ipsum auctorem P. Caelestinum Pley cum operibus, quae in lucem ediderat, adumbravit. p. 8 legitur titulus tomi nostri: **Liber I De Virtutibus Theologicis.** (Librum II continet sequens codex!)\n\nUtrum ipse auctor codicem nostrum scripserit, incertum est. Ortum autem est hoc opus inter annum 1711, quo magisterium Salisburgense finivit, et 1723, quo anno mortuus est auctor noster."
   }
 }

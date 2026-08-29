@@ -10,22 +10,28 @@ ms_identifier:
   idno: MN III 17
 ms_contents:
   items:
-  - label: "a"
-    title: "Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo"
-    locus: "S. 1–35"
-    incipit: "Ad moribundum ex praescripto Divi Jacobi....."
-  - label: "b"
-    title: "Epitome Praeparationis ad mortem"
-    locus: "S. 36–126"
-  - label: "c"
-    title: "Post exspirationem"
-    locus: "S. 126–129"
-  - label: "d"
-    title: "Interrogatorium Pro Confessionibus"
-    locus: "S. 130–147"
-  - label: "e"
-    title: "Forma Absolutionis Jubilaei, Semel in Vita: et in mortis articulo personis utriusque Sexus Ordinis S: Benedicti indulti"
-    locus: "S. 148–150"
+  - label: a
+    title: Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo
+    locus: p. 1–35
+    incipits:
+    - text: Ad moribundum ex praescripto Divi Jacobi.....
+    title_status: unspecified
+  - label: b
+    title: Epitome Praeparationis ad mortem
+    locus: p. 36–126
+    title_status: unspecified
+  - label: c
+    title: Post exspirationem
+    locus: p. 126–129
+    title_status: unspecified
+  - label: d
+    title: Interrogatorium Pro Confessionibus
+    locus: p. 130–147
+    title_status: unspecified
+  - label: e
+    title: 'Forma Absolutionis Jubilaei, Semel in Vita: et in mortis articulo personis utriusque Sexus Ordinis S: Benedicti indulti'
+    locus: p. 148–150
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

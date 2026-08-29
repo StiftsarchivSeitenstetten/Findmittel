@@ -18,22 +18,67 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*'
+    title: De Defectibus in Celebratione Missarum Occurrentibus
+    locus: p. 1 - 13
+    title_status: unspecified
   - label: b
     catalog_statement: '*Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice)'
+    title: Tractat Von der Schwagerschafft
+    locus: p. 13/14
+    title_status: unspecified
   - label: c
-    catalog_statement: '*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*)'
+    catalog_statement: '*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta
+      etiam in specie!*)'
+    title: Tractatus De Sacramentis tam in Genere quam in Particulari
+    locus: p. 25
+    incipits:
+    - locus: p. 1
+      label: Disputationis De Sacramentis
+      text: Opportune ad interpretationem Decalogi accedit disputatio de Sacramentis....
+    title_status: unspecified
   - label: d
     catalog_statement: '(Theologia Moralis): p. 224 - 403'
+    title: Theologia Moralis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 224 - 403
+    incipits:
+    - locus: p. 224
+      label: Proemii In Decalogi Praecepta
+      text: Aggredimur Deo Propitio primam Theologiae moralis partem....
+    colophons:
+    - locus: p. 403
+      text: 'Haec omnia a Fratre Maximiliano Kherscher sunt scripta: Finivi: 30 Junii [Jahreszahl durch Überschreibung unklar].'
+    notes:
+    - (Continet haec pars tractatus De Principiis generalibus moralis Theologiae, De Actibus Humanis, De peccato Actuali)
   - label: e
-    catalog_statement: '*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin.'
+    catalog_statement: '*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus
+      Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin.'
+    title: Index Casuum
+    locus: p. 405 - 430
+    title_status: unspecified
   - label: f
     catalog_statement: '(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2'
+    title: '(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2'
+    title_status: supplied
+    title_source: cataloguer
   - label: g
     catalog_statement: '*Memoriale Sciendorum A Clericis:* p. 434 - 441'
+    title: Memoriale Sciendorum A Clericis
+    locus: p. 434 - 441
+    title_status: unspecified
   - label: h
-    catalog_statement: '(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.)'
+    catalog_statement: '(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum
+      arcanum.)'
+    title: Comparatio signorum zodiaci cum litteris A - M
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 447
   - label: i
     catalog_statement: '*Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum)'
+    title: Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)
+    locus: p. 448
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

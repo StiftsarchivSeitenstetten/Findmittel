@@ -9,13 +9,16 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 313
 ms_contents:
-  title: Regula Sancti Patris Nostri Benedicti, Abbatis
   items:
   - label: a
     title: Regula Sancti Patris Nostri Benedicti, Abbatis
-    locus: S. 1–84
-    completeness: without_prologue
-    note: Nach der Ordnung der Regel-Lesung in Chor und Refektorium gegliedert; jedem Kapitel ist ein elegisches Distichon vorangestellt, den Abschnitten folgen zusammenfassende trochäische Tetrameter.
+    locus: 'fol. praeliminari: Fr'
+    completeness:
+      status: defective
+      note: without_prologue
+    note: Nach der Ordnung der Regel-Lesung in Chor und Refektorium gegliedert; jedem Kapitel ist ein elegisches Distichon vorangestellt, den
+      Abschnitten folgen zusammenfassende trochäische Tetrameter.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

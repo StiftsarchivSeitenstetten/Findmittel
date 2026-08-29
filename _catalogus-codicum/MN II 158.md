@@ -12,31 +12,56 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in Physicam particularem Aristotelis
-    locus: S. 3
+    locus: p. 3
     type: proemium
+    incipits:
+    - text: Superavimus duriora planior nunc et jucundior via restat....
+    title_status: unspecified
   - label: b
     title: Disputatio prima De Mundo in genere
-    locus: S. 3–59
+    locus: p. 3–59
+    incipits:
+    - text: Disputatio haec duabus quaestionibus absolvitur......
+    title_status: unspecified
   - label: c
     title: Disputatio secunda De globo terraque
-    locus: S. 59–125
+    locus: p. 59–125
+    incipits:
+    - text: Postquam priori disputatione de mundo.....
+    title_status: unspecified
   - label: d
     title: Disputatio tertia De athmosphaera Et Metheoris
-    locus: S. 125–187
+    locus: p. 125–187
+    incipits:
+    - text: Mundum subterraneum ejusque superficiem egressessi;.....
+    title_status: unspecified
   - label: e
     title: Disputatio quarta De corpore coelesti
-    locus: S. 187–227
+    locus: p. 187–227
+    incipits:
+    - text: Super globum terramque et ipsam admosphaeram (!) altius progressi....
+    title_status: unspecified
   - label: f
     title: Disputatio quinta (usque ad septimam) In libros Aristotelis de ortu et interitu seu de generatione et corruptione
-    locus: S. 227–530
+    locus: p. 227–530
+    incipits:
+    - text: Postquam omnem mundi corporei fabricam lustravimus......
+    title_status: unspecified
   - label: g
     title: Disputatio octava (et nona) De anima et corpore animati in communi
-    locus: S. 530–648
-    completeness: Unvollständig.
+    locus: p. 530–648
+    completeness:
+      status: defective
+      note: Unvollständig.
+    incipits:
+    - text: Hactenus curas nostras.......
+    title_status: unspecified
   - label: h
     title: Theses Metaphysicae
-    locus: S. 649–650
+    locus: p. 649–650
     number_of_theses: 20
+    title_status: supplied
+    title_source: cataloguer
   - label: i
     type: printed_illustrations
     description: Gedruckte astronomische Kupferstichskizzen

@@ -14,26 +14,38 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 25"
 ms_contents:
-  overall_title:
-    title: "Gury S. J. Theologiae Moralis Tomus II."
-    title_type: "spine"
-    language: "la"
-  summary: "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern."
-  printed_work:
-    title: "Compendium Theologiae Moralis"
-    author: "J. P. Gury S. J."
-    edition_statement: "Editio in Germania prima ad optimarum editionum fidem accurate impressa."
+  summary: Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen
+    oder leeren Blättern.
+  title: Gury S. J. Theologiae Moralis Tomus II.
+  title_status: attested
+  title_source: spine
+  items:
+  - title: Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio
+      in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I.
+    title_status: attested
+    locus: p. 257–489
+    languages:
+    - la
+    responsibility:
+    - role: author
+      name: J. P. Gury, S. J.
+    edition_statement: Editio in Germania prima ad optimarum editionum fidem accurate impressa.
     fascicle:
-      original: "I"
-      corrected_in_ink: "II"
+      original: I
+      corrected_in_ink: II
     publication:
-      place: "Regensburg"
+      place: Ratisbonae
       date: 1852
-      publisher: "Georg Joseph Manz"
-    locus: "S. 257–489"
-  manuscript_additions:
-    description: "Zwischen den gedruckten Blättern liegen jeweils handschriftlich beschriebene oder leere Blätter; die beschriebenen Blätter scheinen Kommentar und Ergänzungen zum Drucktext zu enthalten."
-    scribe: "unbekannt"
+      statement: Sumtibus Georgii Josephi Manz.
+    notes:
+    - 'Fasciculus I. postea atramento correctum: II.'
+  - title: commentarium et additamenta ad folia typis impressa
+    title_status: supplied
+    title_source: cataloguer
+    notes:
+    - Inter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu
+      inscriptum aut vacuum commutentur.
+    - Quae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris.
 phys_desc:
   object_form: "hybrid_codex"
   format: "Großquart"

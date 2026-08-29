@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-69",
   "signature": "MN III 69",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "278",
   "heading": {
     "title": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1825"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–108",
+      "locus": "p. 109–110",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,15 +70,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Bittgesang bey der Procession nach Enzersdorf nächst Brunn",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 79–81",
+      "locus": "p. 79–81",
       "language": "",
+      "incipits": [
+        {
+          "text": "Gnadenquelle! sey gegrüßt,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Gnadenquelle! sey gegrüßt,....."
+        "text": "Gnadenquelle! sey gegrüßt,.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -159,13 +176,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-69/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 69",
     "titles": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres \nChristkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres \nBittgesang bey der Procession nach Enzersdorf nächst Brunn",
-    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe \nFranz Puhm later annotator later_annotator",
+    "persons": "unbekannt author or compiler author_or_compiler  \nunbekannt Schreiber scribe  \nFranz Puhm later annotator later_annotator ",
     "incipits": "Gnadenquelle! sey gegrüßt,.....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+    "german": "Oktavformat; schwarzer Ledereinband, durch den Zahn der Zeit stark beschädigt; 110 Seiten; geschrieben 1825.\n\n**Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.**\n\nVerfasser und Schreiber des Gebetbuches sind unbekannt. **Franz Puhm**, der am **3ten April 1852** auf S. 109–110 einige abergläubisch anmutende Zusätze eintrug, schrieb deutlich anders.\n\nS. 79–81: **Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....**",
+    "latin": "8°; teg. b2 iniquitate temporum valde laesum; 110 pagg.; 1825\n\n**Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.**\n\nAuctor et scriptor huius libelli precatorii ignotus; nam Franz Puhm, qui **„am 3ten April 1852“** p. 109–110 quaedam superstitiosa addidit, longe aliter scripsit. p. 79–81: **Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....**"
   }
 }

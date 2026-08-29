@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-54",
   "signature": "MN II 54",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "34–35",
   "heading": {
     "title": "De Fide, Spe et Charitate",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1655"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Theologische und exegetische Abhandlungen über Glaube, Hoffnung und Liebe, Apostelgeschichte, Schriftprolegomena, Buße und Psalmen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Fide, Spe et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–397",
+      "locus": "p. 3 - 397",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "text": "Suppono 1° ex Philosophia obiectum materiale et formale esse....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 397",
+          "text": "Datum die 7a Septembris 1655 sub Herdingo.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "text": "Suppono 1° ex Philosophia obiectum materiale et formale esse....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 397",
+        "text": "Datum die 7a Septembris 1655 sub Herdingo.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -63,13 +90,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Notata digniora ex Actibus Apostolorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 399–485",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,14 +112,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prolegomena In totam Sacram Scripturam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 487–613",
+      "locus": "p. 487 - 613",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tractant hanc de prolegomenis materiam....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tractant hanc de prolegomenis materiam....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -99,14 +142,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Virtute Poenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 621–923",
+      "locus": "p. 621 - 923",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Poenitentia dupliciter considerari potest....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Poenitentia dupliciter considerari potest....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -117,14 +172,26 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Sacramento Poenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 923–1005",
+      "locus": "p. 923 - 1005",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Expeditis poenitentiae sive ut virtuti propriis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Expeditis poenitentiae sive ut virtuti propriis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -135,13 +202,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index in Explicationem Psalmorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1006–1010 und 1005",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -153,14 +224,26 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Notata digna Ex secunda quinquagena Psalmorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1–88v",
+      "locus": "fol. 1 - 88v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ex Psalmo 1° (!) Miserere mei Deus. Compositus est is à Davide.... Auctor partis a Henricus Herding SJ, ceterum scriptor totius codicis et auctores partium b - g ignoti.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ex Psalmo 1° (!) Miserere mei Deus. Compositus est is à Davide.... Auctor partis a Henricus Herding SJ, ceterum scriptor totius codicis et auctores partium b - g ignoti.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -246,13 +329,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-54/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 54",
     "titles": "De Fide, Spe et Charitate \nDe Fide, Spe et Charitate \nNotata digniora ex Actibus Apostolorum \nProlegomena In totam Sacram Scripturam \nDe Virtute Poenitentiae \nDe Sacramento Poenitentiae \nIndex in Explicationem Psalmorum \nNotata digna Ex secunda quinquagena Psalmorum",
-    "persons": "P. Henricus Herding SJ author part a author_part_a \nunbekannt authors parts b g authors_parts_b_g \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Henricus Herding SJ author part a author_part_a  \nunbekannt authors parts b g authors_parts_b_g  \nunbekannt Schreiber scribe ",
+    "incipits": "Suppono 1° ex Philosophia obiectum materiale et formale esse.... \nTractant hanc de prolegomenis materiam.... \nPoenitentia dupliciter considerari potest.... \nExpeditis poenitentiae sive ut virtuti propriis.... \nEx Psalmo 1° (!) Miserere mei Deus. Compositus est is à Davide.... Auctor partis a Henricus Herding SJ, ceterum scriptor totius codicis et auctores partium b - g ignoti.",
+    "explicits": "Datum die 7a Septembris 1655 sub Herdingo.",
     "notes": "Theologische und exegetische Abhandlungen über Glaube, Hoffnung und Liebe, Apostelgeschichte, Schriftprolegomena, Buße und Psalmen.",
-    "physical": "Papier \n1010 Seiten + 96 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    "physical": "Papier \n1010 Seiten + 96 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial.",
+    "german": "1010 Seiten + 96 Blätter; Einband aus einem Pergamentblatt, das im 15. Jahrhundert kunstvoll mit dem Proprium der Messen des hl. Evangelisten Lukas und der hl. Jungfrau und Märtyrin Cäcilia beschrieben wurde; geschrieben 1655.\n\na) **Abhandlung über Glaube, Hoffnung und Liebe zur ersten und den folgenden Quaestionen aus der Secunda Secundae des hl. Thomas:** S. 3–397. Vermerk S. 4: **P. Henricus Herding SJ, Doktor der Theologie und Professor derselben in Wien.** Anfang S. 5: **Ich setze erstens aus der Philosophie voraus, dass es einen materiellen und einen formalen Gegenstand gibt....** Schluss S. 397: **Gegeben am 7. September 1655 unter Herding.**\n\nb) **Bemerkenswertere Notizen aus dem Buch, das „Actus“ oder „Apostelgeschichte“ genannt wird:** S. 399–485. Anfang: **Unter Auslassung des wörtlichen Textes....** (Unvollständige Abhandlung.)\n\nc) **Prolegomena zur gesamten Heiligen Schrift:** S. 487–613. Anfang: **Diesen Stoff über die Prolegomena behandeln....**\n\nd) **Abhandlung über die Tugend der Buße:** S. 621–923. Anfang: **Die Buße kann auf zweifache Weise betrachtet werden....**\n\ne) **Abhandlung über das Sakrament der Buße:** S. 923–1005. Anfang: **Nachdem das der Buße als Tugend Eigene behandelt wurde....**\n\nf) **Alphabetisches Sachregister zur folgenden Erklärung der Psalmen:** S. 1006–1010 und 1005 (!).\n\ng) **Bemerkenswerte Notizen aus der zweiten Fünfzigzahl der Psalmen:** Bl. 1–88v. Anfang: **Aus Psalm 1 (!) „Erbarme dich meiner, Gott“. Er wurde von David verfasst....**\n\nVerfasser des Teils a ist Henricus Herding SJ; im Übrigen sind der Schreiber des gesamten Codex sowie die Verfasser der Teile b–g unbekannt.",
+    "latin": "1010 pagg. + 96 foll.; tegumentum membranaceum proprio Missarum S. Evangelistae Lucae et S. Caeciliae Virginis et Martyris saec. XV ornate inscriptum; script. 1655\n\na) *Tractatus De Fide, Spe et Charitate in quaestionem primam et sequentes ex 2a 2ae Divi Thomae:* p. 3 - 397. Nota p. 4: P. Henrici Herding S. Jesu Doctoris Theologi(ae) et Professoris Viennae eiusdem\n\n*Initium* p. 5: Suppono 1° ex Philosophia obiectum materiale et formale esse.... *Clausula* p. 397: Datum die 7a Septembris 1655 sub Herdingo.\n\nb) *Notata digniora ex Libro qui intitulatur Actus. Vel Acta Apostolorum:* p. 399 - 485. *Initium:* Omisso litterali textu.... (Tractatus imperfectus).\n\nc) *Prolegomena In totam Sacram Scripturam:* p. 487 - 613. *Initium:* Tractant hanc de prolegomenis materiam....\n\nd) *Tractatus De Virtute Poenitentiae:* p. 621 - 923; *initium:* Poenitentia dupliciter considerari potest....\n\ne) *Tractatus De Sacramento Poenitentiae:* p. 923 - 1005; *initium:* Expeditis poenitentiae sive ut virtuti propriis....\n\nf) *Index (rerum alphabeticus) in sequentem Explicationem Psalmorum:* p. 1006 - 1010 et 1005 (!)\n\ng) *Notata digna Ex secunda quinquagena Psalmorum:* fol. 1 - 88v. *Initium:* Ex Psalmo 1° (!) Miserere mei Deus. Compositus est is à Davide.... Auctor partis a Henricus Herding SJ, ceterum scriptor totius codicis et auctores partium b - g ignoti."
   }
 }

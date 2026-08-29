@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-171",
   "signature": "MN II 171",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "133",
   "heading": {
     "title": "Commentarius In octo libros Physicorum Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1690/91"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius In octo libros Physicorum Aristotelis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In octo libros Physicorum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–360r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Praefationis",
+          "text": "Physicam Auditores, ut aperio, cordato.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 360r",
+          "text": "Absolvimus Die 6 Aprilis 1691.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Praefationis",
+        "text": "Physicam Auditores, ut aperio, cordato.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 360r",
+        "text": "Absolvimus Die 6 Aprilis 1691.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -144,13 +173,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-171/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 171",
     "titles": "Commentarius In octo libros Physicorum Aristotelis \nCommentarius In octo libros Physicorum Aristotelis",
-    "persons": "P. Pontianus Schüz Dozent lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n361 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Pontianus Schüz Dozent lecturer Kloster Ottobeuren / Universität Salzburg \nFr. Gabriel Sumadtinger Schreiber scribe Seitenstetten",
+    "incipits": "Physicam Auditores, ut aperio, cordato.....",
+    "explicits": "Absolvimus Die 6 Aprilis 1691.",
+    "notes": "8 Libri Physicorum M S. F. Gabriel Someting Seittenstettensi Sub P. (Pontiano) Schyz",
+    "physical": "Papier \n361 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "361 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1690/91.\n\n**Kommentar zu den acht Büchern der Physik des Aristoteles.**\n\nAnfang der Vorrede fol. 1r: Physik, Hörer, wie ich erkläre, mit verständigem..... Schluss fol. 360r: **Wir beendeten [dies] am 6. April 1691.**\n\nInitialen auf dem Vorderdeckel: **F G S P S** = Frater Gabriel Sumadtinger Professus Seittenstettensis, 1691.\n\nRückenaufschrift: **8 Libri Physicorum M S. F. Gabriel Someting Seittenstettensi Sub P. (Pontiano) Schyz**, also unter P. Pontianus Schyz, Profess von Ottobeuren und Professor in Salzburg.",
+    "latin": "361 foll.; teg. a2; script. 1690/91\n\nCommentarius In octo libros (Physicorum) Aristotelis. Initium Praefationis fol. 1r: Physicam Auditores, ut aperio, cordato.....  \nClausula fol. 360r: Absolvimus Die 6 Aprilis 1691.\n\nLitterae initiales in adversa parte tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1 6 9 1  \nInscriptio dorsi: 8 Libri Physicorum M S. F. Gabriel Someting (de quo nomine scriptoris vide ad codicem praecedentem) Seittenstettensi Sub P. (Pontiano) Schyz (professo Ottoburano, professore Salisburgensi)."
   }
 }

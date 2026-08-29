@@ -9,8 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 107
 ms_contents:
-  catalogue_title_or_summary: 'e) Continuatio Comentarii In Metaphysicam: fol. 71r–85r (=347–361). Initium fol. 347r: Dicendum
-    est primo: Metaphysica est scientia speculativa entis realis....'
+  items:
+  - catalog_statement: 'e) Continuatio Comentarii In Metaphysicam: fol. 71r–85r (=347–361). Initium fol. 347r: Dicendum est primo: Metaphysica
+      est scientia speculativa entis realis....'
+    title: e) Continuatio Comentarii In Metaphysicam
+    locus: fol. 71r–85r
+    incipits:
+    - locus: fol. 347r
+      text: 'Dicendum est primo: Metaphysica est scientia speculativa entis realis....'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

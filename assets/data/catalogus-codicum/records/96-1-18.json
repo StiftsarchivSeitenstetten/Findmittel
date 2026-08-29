@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "96-1-18",
   "signature": "96.1.18",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "48",
   "heading": {
     "title": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "anno 1661"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1r–371v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -136,13 +143,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "96.1.18",
     "titles": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661). \nIus Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
-    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Alphabetisch geordnete Materien A–L; deutsch. Die parenthetischen Auflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \n371 foll. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n371 foll. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Folioformat; 371 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1661.\n\n**Gewohnheitsrecht, gesammelt von Herrn Johann Baptist Suttinger von Thurnhof, Doktor beider Rechte, Wiener Österreicher und Kanzler der erlauchten niederösterreichischen Regierung, 1661.**\n\nDer Schreiber ist unbekannt.\n\nAlphabetische Ordnung der Materien: Buchstaben A–L einschließlich; deutsch.\n\nDasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der folgende Codex.",
+    "latin": "fol.; 371 foll.; tegumentum a2; scriptus anno 1661\n\nIus Consuetudinarium Collectum à Domino **Ioanne Baptista Suttinger à Turnhof**, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661). Scriptor ignotus.\n\nOrdo rerum alphabeticus: Litterae A–L inclusive (Germanice).\n\nIdem ius consuetudinarium, sed ab alia manu scriptum, continet codex sequens:"
   }
 }

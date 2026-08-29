@@ -10,14 +10,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: CCCXII
 ms_contents:
-  title: "Jus regni Bohemici, lingua Bohemica scriptum"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Jus regni Bohemici, lingua Bohemica scriptum"
-    title_type: supplied
-    locus: "Bl. 1r–345v"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern."
+  - label: a
+    title: Jus regni Bohemici, lingua Bohemica scriptum
+    locus: Bl. 1r–345v
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-8",
   "signature": "MN II 8",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "9",
   "heading": {
-    "title": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Prooemium",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1619/20"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Theologische Vorlesung über den einen und dreieinigen Gott von P. Michael Summereker.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Prooemium",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 7 - 12",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quae Doctor Angelicus........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quae Doctor Angelicus........",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,13 +84,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus I De Deo Uno",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 12 - 310",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -92,15 +111,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 310 - 412",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "De hoc summo omnium.....mysterio....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "p. 412",
+          "text": "5. Septemb: Anno 1620.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "text": "De hoc summo omnium.....mysterio....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 412",
+        "text": "5. Septemb: Anno 1620.",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -195,13 +236,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 8",
-    "titles": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nProoemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nTractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus.... \nTractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
-    "persons": "P. Michael Summereker author lecturer author_lecturer \nunbekannt; derselbe wie MN II 7 Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Prooemium \nProoemium \nTractatus I De Deo Uno \nTractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino",
+    "persons": "P. Michael Summereker author lecturer author_lecturer  \nunbekannt; derselbe wie MN II 7 Schreiber scribe ",
+    "incipits": "Quae Doctor Angelicus........ \nDe hoc summo omnium.....mysterio....",
+    "explicits": "5. Septemb: Anno 1620.",
     "notes": "Theologische Vorlesung über den einen und dreieinigen Gott von P. Michael Summereker. \nProoemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nTractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus.... \nTractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
-    "physical": "Papier \n416 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \n416 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "416 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1619/20.\n\n**Abhandlung über den einen und dreieinigen Gott. Vorgetragen von dem ehrwürdigen P. Michael Summereker, ordentlichem Professor der heiligen Theologie an der Universität Graz. 1619, am 5. November.**\n\n**a) Vorrede:** S. 7–12. Anfang: **Was der engelgleiche Lehrer....**\n\n**b) Erste Abhandlung. Über den einen Gott:** S. 12–310. Anfang: **Diese Abhandlung wird enthalten....**\n\n**c) Zweite Abhandlung. Über die hochheilige Dreifaltigkeit oder über den dreieinigen Gott:** S. 310–412. Anfang: **Über dieses höchste aller.... Geheimnisse....**\n\nDer Schreiber ist derselbe wie in Codex MN II 7 (siehe oben!); auch hier vermerkte er das Ende jeder einzelnen Vorlesung. Schlussvermerk S. 412: **5. September 1620.**",
+    "latin": "416 pagg.; teg. a1; script. 1619/20\n\n*Tractatus de Deo, Uno, et Trino. Traditus à Reverendo Patre Michaele Summereker SS: Theologiae in Alma Universitate Graecensi Professore ordinario. M DC XIX (1619). Nonis Novembris*\n\na) Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........\n\nb) Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....\n\nc) Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....\n\nScriptor idem est ac in codice MN II 7 (vide supra!); qui etiam hic finem uniuscuiusque lectionis notavit. Clausula p. 412: 5. Septemb: Anno 1620."
   }
 }

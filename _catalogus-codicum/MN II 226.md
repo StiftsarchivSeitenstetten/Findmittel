@@ -12,24 +12,48 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Deo Uno
-    locus: S. 3–304
+    locus: p. 3–304
     date: '1706'
+    incipits:
+    - locus: p. 5
+      text: Auditori Theologo. Post totidem Theologiae Magistros quorum scitis abundat litterarius orbis....
+    title_status: unspecified
   - label: b
     title: Tractatus De Deo Trino
-    locus: S. 313–342
+    locus: p. 313–342
     date: '1707'
+    incipits:
+    - locus: p. 315
+      label: Praefationis
+      text: Auspicamur ineffabile Dei Trini mysterium.....
+    title_status: unspecified
   - label: c
     title: TraCtatVs De BonIs, et MaLIs AngeLIs
-    locus: S. 345–508
+    locus: p. 345–508
     date: '1708'
     title_note: Der Titel enthält ein Chronogramm auf 1708.
     end_date: '1708-04-30'
+    incipits:
+    - label: Tractatus De Angelis
+      text: 'p. 347: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in se ipso....'
+    colophons:
+    - text: Absolvimus die 30 Aprilis 1708.
+    title_status: unspecified
   - label: d
     title: Tractatus De Beatitudine Seu Ultimo Fine Hominis
-    locus: S. 511–601
+    locus: p. 511–601
+    incipits:
+    - locus: p. 513
+      label: Anteloquii
+      text: Sub tituli huius cortice latet omne bonum
+    title_status: unspecified
   - label: e
     title: Tractatus De Conscientia
-    locus: S. 601–621
+    locus: p. 601–621
+    incipits:
+    - label: Quaestionis Praeambulae
+      text: Quid et Quotuplex sit Conscientia? Dico Primo. quod conscientia sit recta ratio....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-9-xviii-3-h",
   "signature": "Arch. Cod. 34 - 9 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "93–94",
   "heading": {
-    "title": "(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1677/78"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 - 9 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 261",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Post considerationem eorum, quae pertinent ad mysteria......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 261r",
+          "text": "Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Post considerationem eorum, quae pertinent ad mysteria......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 261r",
+        "text": "Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -68,15 +97,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1 - 252 (= 265 - 517). Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191): Absolvimus die 22 Junii 1678.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 252",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 265",
+          "label": "Prooemii Tractatus quinti. De Sacramento Poenitentiae",
+          "text": "Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 456",
+          "text": "Absolvimus die 22 Junii 1678.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 265",
+        "label": "Prooemii Tractatus quinti. De Sacramento Poenitentiae",
+        "text": "Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 456",
+        "text": "Absolvimus die 22 Junii 1678.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -154,13 +209,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-9-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 - 9 (XVIII 3 h)",
-    "titles": "(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677. \n(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677. \n(Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1 - 252 (= 265 - 517). Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191): Absolvimus die 22 Junii 1678.",
-    "persons": "Fr. Aemilianus Schad Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia \nTractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia \nTractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie",
+    "persons": "Fr. Aemilianus Schad Schreiber scribe ",
+    "incipits": "Post considerationem eorum, quae pertinent ad mysteria...... \nSi ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,....",
+    "explicits": "Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677. \nAbsolvimus die 22 Junii 1678.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 - 9 (XVIII 3 h). \n(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677. \n(Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1 - 252 (= 265 - 517). Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191): Absolvimus die 22 Junii 1678.",
-    "physical": "Papier \n264 + 256 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n264 + 256 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 264 + 256 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1677/78.\n\n**Theologische Abhandlungen über die Sakramente.**\n\na) **Abhandlungen I–IV: über die Sakramente im Allgemeinen, Taufe, Firmung und Eucharistie:** fol. 1–261. Anfang der Vorrede: **Nach der Betrachtung jener Dinge, die zu den Geheimnissen gehören....** Schluss fol. 261r: **Wir beendeten die Materie über die Sakramente im Allgemeinen sowie Taufe, Firmung und die heiligste Eucharistie im Einzelnen am 9. Oktober 1677 vor dem Mittagessen.**\n\nb) **Abhandlungen V–VIII: über Buße, Letzte Ölung, Weihe und Ehe im Einzelnen:** fol. 1–252 (= fol. 265–517). Anfang der Vorrede zur fünften Abhandlung über das Bußsakrament fol. 265: **Wenn, sagt das Konzil von Trient in Sitzung 14, Kapitel 1, bei allen Wiedergeborenen jene Dankbarkeit gegen Gott vorhanden wäre....** Schluss fol. 456 (= 191): **Wir beendeten [dies] am 22. Juni 1678.**\n\nBesitzvermerk auf der Innenseite des Vorderdeckels: **Fr. Fr. (= Fratrum) Seittenstöttensium 1678.**\n\nDerselbe Vermerk und derselbe Schriftcharakter finden sich bereits in Arch. Cod. 34 U. Daher schrieb zweifellos auch diesen Codex **Fr. Aemilianus Schad**. Der Verfasser ist unbekannt.",
+    "latin": "4°; 264 + 256 foll.; teg. a2; script. 1677/78\n\nTractatus Theologici De Sacramentis.\n\na) (Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.\n\nb) (Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1 - 252 (= 265 - 517). Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191): Absolvimus die 22 Junii 1678.\n\nNota in parte adversa tegumenti ab intrinsecus: Fr. Fr. (= Fratrum) Seittenstöttensium 1678.\n\nEandem notam eundemque scripturae characterem iam in codice 34 U (vide supra!) invenimus. Qua de causa sine dubio etiam codex noster a F. Aemiliano Schad scriptus est. Auctor vero ignotus."
   }
 }

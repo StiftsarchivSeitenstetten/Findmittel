@@ -10,24 +10,42 @@ ms_identifier:
   idno: MN II 209
 ms_contents:
   title: Tractatus Scholasticus De Sacramentis in communi et in particulari de Baptismo, Confirmatione et Eucharistia
-  completeness: incomplete
+  completeness:
+    status: defective
+    note: incomplete
   items:
   - label: a
     title: Prooemium
-    locus: S. 3
+    locus: p. 3
+    title_status: unspecified
   - label: b
     title: Disputatio Prima De Sacramentis in genere
-    locus: S. 5–597
+    locus: p. 5–597
+    incipits:
+    - text: Omittimus quaestionem circa nomen Sacramenti,......
+    title_status: unspecified
   - label: c
     title: Disputatio Secunda De Sacramento Baptismi
-    locus: S. 597–659
+    locus: p. 597–659
+    incipits:
+    - text: Agimus in praesenti de baptismo fluminis.....
+    title_status: unspecified
   - label: d
     title: Disputatio Tertia De Sacramento Confirmationis
-    locus: S. 660–?
+    locus: p. 660
+    incipits:
+    - text: Hoc sacramentum probabilius est institutum.....
+    title_status: unspecified
   - label: e
     title: Disputatio Quarta De Sacramento Eucharistiae
     locus: ?–697
     end_date_display: 30. August, Jahr nicht angegeben
+    colophons:
+    - locus: p. 697
+      text: Absolvimus die 30 Augusti. sub Professore .....P. Mariano Lendlmayr (Professo Admontensi et Professore Salisburgensi).
+    title_status: supplied
+    title_source: cataloguer
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

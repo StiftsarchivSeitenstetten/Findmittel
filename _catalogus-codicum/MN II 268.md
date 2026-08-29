@@ -13,21 +13,34 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus in Primam Secundae S. Thomae Aquinatis Doctoris Angelici de Gratia Divina
-    locus: S. 3–164
-    incipit: S. Thomas hic prima secundae quaestione 109, à qua
+    locus: p. 3–164
     note: Die letzte Frage S. 146–164 handelt De virtutibus Theologicis.
+    incipits:
+    - text: S. Thomas hic prima secundae quaestione 109, à qua....
+      locus: p. 3
+      label: Proemii
+    title_status: unspecified
   - label: b
     title: Tractatus Theologico speculativus de Paenitentia
-    locus: S. 171–387
-    incipit: A Sacramento Eucharistiae et sacrificio missae
+    locus: p. 171–387
+    incipits:
+    - text: A Sacramento Eucharistiae et sacrificio missae,....
+      label: Proemii
+    title_status: unspecified
   - label: c
     title: Tractatus Theologicus de extrema unctione, ordine et Matrimonio
-    locus: S. 387–407
-    incipit: Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae
+    locus: p. 387–407
+    incipits:
+    - text: Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae,.....
+    title_status: unspecified
   - label: d
-    title: Tractatus Polemico-Historicus In quo Alma Romano-Catholica Veritas de Venerabili, Amabili, et Admirabili Sacrosanctae Eucharistiae Sacramento contra nefandas impudentissimorum Sacramentariorum haereses demonstratur et propugnatur
-    locus: S. 419–447
-    incipit: Quemadmodum noctuis, et bubonibus nihil magis inimicum luce
+    title: Tractatus Polemico-Historicus In quo Alma Romano-Catholica Veritas de Venerabili, Amabili, et Admirabili Sacrosanctae Eucharistiae
+      Sacramento contra nefandas impudentissimorum Sacramentariorum haereses demonstratur et propugnatur
+    locus: p. 419–447
+    incipits:
+    - text: Quemadmodum noctuis, et bubonibus nihil magis inimicum luce, .....
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

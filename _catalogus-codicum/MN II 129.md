@@ -9,13 +9,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 129
 ms_contents:
-  title: "Tractatus Theologicus De Arcano Incarnationis mysterio"
   items:
-  - label: "a"
-    title: "Tractatus Theologicus De Arcano Incarnationis mysterio"
-    locus: "Bl. 1r–182r"
-    incipit: "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino...."
-    explicit: "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi."
+  - label: a
+    title: Tractatus Theologicus De Arcano Incarnationis mysterio
+    locus: fol. 1 - 182
+    incipits:
+    - text: Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (=
+      locus: fol. 1r
+    colophons:
+    - locus: fol. 182r
+      text: Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-195",
   "signature": "MN II 195",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "145–146",
   "heading": {
     "title": "Liber Quartus decretalium Gregorii IX. Pontificis Maximi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1693/94"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber Quartus decretalium Gregorii IX. Pontificis Maximi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–240",
+      "locus": "p. 1–240",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -68,14 +75,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Collegia Juris Canonici Clarissimi Patris König",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–90 (=255–344)",
+      "locus": "p. 1–90",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 255",
+          "text": "Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 255",
+        "text": "Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [
@@ -90,14 +111,28 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Collegium Primum Proemium Juris Universi",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "ab S. 255",
           "language": "",
-          "incipit": null,
+          "incipits": [
+            {
+              "locus": "p. 255",
+              "text": "Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....",
+              "id": "incipit-1"
+            }
+          ],
+          "explicits": [],
+          "colophons": [],
+          "incipit": {
+            "locus": "p. 255",
+            "text": "Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....",
+            "id": "incipit-1"
+          },
           "explicit": null,
           "notes": [],
           "dates": [],
@@ -202,13 +237,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 195",
     "titles": "Liber Quartus decretalium Gregorii IX. Pontificis Maximi \nLiber Quartus decretalium Gregorii IX. Pontificis Maximi \nCollegia Juris Canonici Clarissimi Patris König \nCollegium Primum Proemium Juris Universi",
-    "persons": "P. Robert König Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Robert König Dozent lecturer Kloster Garsten / Universität Salzburg \nunbekannt Schreiber scribe ",
+    "incipits": "Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni..... \nCollegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIV + 250 + 90 = 344 pagg. \ncode: c1; description: Grauer Pappeinband ohne Rücken."
+    "notes": "Collegium secundum (libri tertii Decretalium) Continens titulos sequentes quinque. Collegium hoc annotavi in margine manuscriptorum libri Tertii dictati á P. K (= König) uti et sequentia ibidem annotabo.",
+    "physical": "Papier \nIV + 250 + 90 = 344 pagg. \ncode: c1; description: Grauer Pappeinband ohne Rücken.",
+    "german": "IV + 250 + 90 = 344 Seiten; grauer Pappeinband ohne Rücken; geschrieben 1693/94.\n\na) **Viertes Buch der Dekretalen Papst Gregors IX.:** S. 1–240. Anfang des ersten Titels über Verlöbnisse und Ehe: Eine äußerst reichhaltige und, wenn man sie nicht kennt, sehr schwierige und in der Praxis häufige Materie..... Schluss S. 240: **23. August 1694.**\n\nb) **Kollegien des kanonischen Rechts des berühmten P. König, 1693 aufgezeichnet und notiert:** S. 1–90 (=255–344). Anfang S. 255: Erstes Kolleg, Vorrede zum gesamten Recht. Recht ist die Kunst des Billigen und Guten.....\n\nVermerk S. 344: Das zweite Kolleg zum dritten Buch der Dekretalen, das die folgenden fünf Titel enthält, habe ich am Rand der Handschrift des dritten Buches notiert, die von P. K. (= König) diktiert wurde; ebenso werde ich die folgenden Kollegien dort notieren.\n\nObwohl dieser Vermerk schwer verständlich ist und offenbar der erwähnte Handschriftenband fehlt, ist kaum zu bezweifeln, dass P. Robert König, Profess des Klosters Garsten und Professor des kanonischen Rechts in Salzburg, wenigstens Teil b diktierte. Der Schreiber konnte nicht sicher ermittelt werden.\n\nTeil a ist identisch mit Teil a von MN II 178.",
+    "latin": "IV + 250 + 90 = 344 pagg.; teg. c1 (sine dorso); script. 1693/94\n\na) Liber Quartus decretalium Gregorii 9. Pontificis Maximi: p. 1–240. Initium Tituli Primi. De sponsalibus et matrimoniis. Uberrimam et si nescis, oppido difficilem ac usu frequentem materiam ..... Clausula p. 240: die 23 Augusti 1694......\n\nb) Collegia Juris Canonici Clarissimi Patris König Anno 1693 Conscripta et annotata: p. 1–90 (= 255–344). Initium p. 255: Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni..... Nota p. 344: „Collegium secundum (libri tertii Decretalium) Continens titulos sequentes quinque. Collegium hoc annotavi in margine manuscriptorum libri Tertii dictati á P. K (= König) uti et sequentia ibidem annotabo.“ Quamvis difficile intellectu sit haec nota – videtur enim deesse iste tomus manuscriptorum –, tamen vix negare poteris P. Robertum König, in monasterio Garstensi professum et Salisburgi Juris Canonici Professorem, saltem partem b codicis nostri dictavisse. Scriptorem vero nondum investigare potui.\n\nPrior pars codicis nostri eadem est atque prioris partis codicis MN II 178 (vide supra p. 136!)"
   }
 }

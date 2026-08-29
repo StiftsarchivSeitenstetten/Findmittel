@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-1",
   "signature": "MN II 1",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "6",
   "heading": {
-    "title": "*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262!",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1614 (Handschrift); 1615 (eingebundener Druck)"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Logikvorlesung Caspar Lechners, mitgeschrieben von Georg Reitter, mit eingebundenen gedruckten Thesen von 1615.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262!",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 263",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "text": "[gestrichen] Artem aliquam docturi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "text": "[gestrichen] Artem aliquam docturi.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,13 +88,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus, Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theses Philosophicae De Praedicatione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -167,13 +190,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-1/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 1",
-    "titles": "*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262! \n*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262! \n*Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus, Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.",
-    "persons": "P. Caspar Lechner SJ author lecturer author_lecturer \nGeorg Reitter Schreiber scribe \nJohann Christoph Illsung printed disputant printed_disputant",
-    "incipits": "",
+    "titles": "Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam \nOrganum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam \nTheses Philosophicae De Praedicatione",
+    "persons": "P. Caspar Lechner SJ author lecturer author_lecturer  \nGeorg Reitter Schreiber scribe  \nJohann Christoph Illsung printed disputant printed_disputant ",
+    "incipits": "[gestrichen] Artem aliquam docturi.....",
     "explicits": "",
     "notes": "Logikvorlesung Caspar Lechners, mitgeschrieben von Georg Reitter, mit eingebundenen gedruckten Thesen von 1615. \n*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262! \n*Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus, Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.",
-    "physical": "Papier \n263 handschriftliche Seiten + 5 leere Seiten + IV + 46 + II gedruckte Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \n263 handschriftliche Seiten + 5 leere Seiten + IV + 46 + II gedruckte Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "263 handschriftliche Seiten + 5 leere Seiten + IV + 46 + II gedruckte Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; Handschrift 1614, Druck 1615.\n\n**a) Werkzeug der Wissenschaften oder Anmerkungen, Kommentare und Disputationen zur gesamten Logik des Aristoteles.** Diktiert von dem ehrwürdigen P. Caspar Lechner SJ; mitgeschrieben von Georg Reitter aus Wessobrunn, Student derselben Fakultät. 1614: S. 1–263. Siehe den Vermerk auf S. 262!\n\n**b) Philosophische Thesen über die Prädikation**, die an der Universität Ingolstadt unter dem Vorsitz von Caspar Lechner SJ, ordentlichem Professor der Philosophie, am 18. Februar [...] Johann Christoph Illsung aus Ingolstadt, Student der freien Künste (?) und der Physik, im Jahr 1615 verteidigen wird. Ingolstadt, aus der Ederischen Druckerei bei der Witwe Elisabeth Angermayr: IV + 46 + II Seiten.\n\nZu a) Anfang der Vorrede: [gestrichen] (S. 1) **Im Begriff, irgendeine Kunst zu lehren.....**",
+    "latin": "263 pagg. manu scr. + 5 pagg. vac. + IV + 46 + II typis impr.; teg. a1; manuscr. 1614, typogr. 1615\n\na) *Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262!\n\nb) *Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus, Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.\n\nad a) Initium Prooemii: [gestrichen] (p. 1) Artem aliquam docturi....."
   }
 }

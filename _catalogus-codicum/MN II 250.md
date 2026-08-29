@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 250
 ms_contents:
-  title: CoMpenDIosa artIs RhetorICes
   items:
   - label: a
     title: CoMpenDIosa artIs RhetorICes
-    locus: S. 7–143
-    note: In drei Bücher gegliedert; gewidmet Franz Wenzel Adalbert Joseph Anton Johann Hieronymus, Graf Colloredo von Walsee. Das Chronogramm ergibt 1714.
+    locus: p. 7–143
+    note: In drei Bücher gegliedert; gewidmet Franz Wenzel Adalbert Joseph Anton Johann Hieronymus, Graf Colloredo von Walsee. Das Chronogramm
+      ergibt 1714.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

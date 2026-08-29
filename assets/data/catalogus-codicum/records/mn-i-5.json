@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-5",
   "signature": "MN I 5",
   "aliases": [
@@ -26,12 +26,29 @@
     "certainty": "conjectural",
     "qualifier": ""
   },
-  "contentsOverview": {},
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
   "contents": [
     {
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Artzney Buech",
         "typeRaw": "supplied",
@@ -39,6 +56,9 @@
       },
       "locus": "",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -153,13 +173,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-5/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 5",
     "titles": "Artzney Buech \nArtzney Buech",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "Sammlung zahlreicher Vorschriften verschiedener Ärzte und anderer Personen, geordnet unter 41 Titeln. \nAus dem Besitzvermerk von 1663 folgert der Katalog zunächst, dass der Codex nicht nach 1663 geschrieben wurde. \nAufgrund eines weiteren, inhaltlich unklaren Vermerks von 1651 vermutet der Katalogbearbeiter darüber hinaus eine Entstehung nicht nach 1651. Diese weitergehende Datierung ist ausdrücklich nur eine Vermutung.",
-    "physical": "Papier \n368 Seiten \nFolio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe, ansprechend mit eingeprägten Verzierungen geschmückt."
+    "notes": "Sammlung zahlreicher Vorschriften verschiedener Ärzte und anderer Personen, geordnet unter 41 Titeln. \nAus dem Besitzvermerk von 1663 folgert der Katalog zunächst, dass der Codex nicht nach 1663 geschrieben wurde. \nAufgrund eines weiteren, inhaltlich unklaren Vermerks von 1651 vermutet der Katalogbearbeiter darüber hinaus eine Entstehung nicht nach 1651. Diese weitergehende Datierung ist ausdrücklich nur eine Vermutung. \nDißes hab Ich Von Herrn Prandauer Ab Schreiben Lassen. \nDer Inhalt des Vermerks wird vom Katalogbearbeiter als unklar bezeichnet.",
+    "physical": "Papier \n368 Seiten \nFolio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe, ansprechend mit eingeprägten Verzierungen geschmückt.",
+    "german": "Folioformat; 368 Seiten; lederner Einband von rehbrauner oder brauner Farbe, ansprechend mit eingeprägten Verzierungen geschmückt.\n\n(Artzney Buech) (Dieses Buch enthält zahlreiche Vorschriften verschiedener Ärzte und anderer, die unter 41 Titeln angeordnet sind.) S. 3–5: Register Und Sumärischer Inhalt Dises Artzney Buechs. S. 3 am oberen Rand: Dißes hab Ich Von Herrn **Prandauer** Ab Schreiben Lassen. (Es ist ungewiss, ob der Schreiber dieses Codex mit jenem überaus berühmten Architekten Jakob Prandtauer verwandt war oder nicht.)\n\nBesitzvermerk auf der Innenseite des Vorderdeckels: Aus den Büchern des Wolfgang Pankratius Trebrer (?) im Jahr 1663. Aus diesem Grund ist unser Codex ohne Zweifel nicht nach dem Jahr 1663 geschrieben worden. Auf derselben Innenseite des Einbandes findet sich jedoch ein weiterer Vermerk, und zwar in deutscher Sprache, aus dem Jahr 1651. Obwohl der Sinn dieses Vermerks unklar ist, vermute ich aufgrund dieses Vermerks dennoch, dass unser Codex nicht nach dem Jahr 1651 geschrieben wurde.",
+    "latin": "fol.; 368 pagg.; teg. b1 decenter ornamentis impressis ornatum\n\n(Artzney Buech) (Continet hic liber plurima variorum medicorum aliorumque praecepta sub 41 titulis disposita.) p. 3–5: Register Und Sumärischer Inhalt Dises Artzney Buechs. p. 3 in margine superiore: Dißes hab Ich Von Herrn **Prandauer** Ab Schreiben Lassen. (Incertum est, utrum scriptor huius codicis consanguinitate iunctus sit cum celeberrimo illo architecto Jacobo Prandtauer necne.)\n\nNota possidentis in parte priore tegumenti ab intrinsecus: Ex libris Wolfgangi Pancratii Trebrer (?) Anno 1663. Qua de re codex noster sine dubio non post annum 1663 scriptus est. Invenitur autem in eadem tegumenti parte alia nota eaque Germanice scripta de Anno 1651. Quamvis obscurus sit sensus huius notae, tamen ista nota permotus codicem nostrum non post annum 1651 scriptum esse suspicor."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-191",
   "signature": "MN II 191",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "143",
   "heading": {
     "title": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "fortasse 1694"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–393",
+      "locus": "p. 1–393",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in tertiam partem Divi Thomae de Sacramentis Extremae unctionis, ordinis et Matrimonii",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 393–532",
+      "locus": "p. 393–532",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -163,13 +174,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 191",
     "titles": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae \nTractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae \nTractatus in tertiam partem Divi Thomae de Sacramentis Extremae unctionis, ordinis et Matrimonii",
-    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "persons": "Fr. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n534 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n534 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+    "german": "534 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; möglicherweise 1694 geschrieben.\n\na) **Abhandlung zum dritten Teil des hl. Thomas von Aquin über Tugend und Sakrament der Buße:** S. 1–393. Anfang der Vorrede: Das Sakrament der Eucharistie bildet Grenze und Abschluss des vergangenen Jahres.....\n\nb) **Abhandlung zum dritten Teil des hl. Thomas über die Sakramente der Letzten Ölung, der Weihe und der Ehe:** S. 393–532. Anfang der ersten Kontroverse über die Letzte Ölung: Dass die Letzte Ölung ein Sakrament sei.....\n\nAuch diesen Codex schrieb wahrscheinlich Fr. Joannes Rigele. Die Datierung um 1694 ergibt sich aus dem Anfang von Teil a: Die Eucharistie wurde im Vorjahr behandelt; MN II 189 zeigt, dass dies 1693 geschah. Der Verfasser ist noch nicht sicher bekannt.",
+    "latin": "534 pagg.; teg. c2d; script. fortasse 1694\n\na) Tractatus in 3 Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae: p. 1–393. Initium Prooemii: Sacramentum Eucharistiae anni elapsi metam ac terminum excipit......\n\nb) Tractatus in 3. partem Divi Thomae de Sacramentis Extremae unctionis ordinis et Matrimonii: p. 393–532. Initium Controversiae I. De Sacramento extremae Unctionis p. 393: Extremam unctionem esse Sacramentum......\n\nEtiam hunc codicem fortasse a F. Joanne Rigele monacho Seitenstettensi scriptum esse, implicite iam p. 141 ad codices MN II 186 et 188 indicavimus. Porro anno 1694 ortum esse eum indicat initium partis a; etenim Sacramentum Eucharistiae tractatum esse anno 1693 docuit nos in pagina praecedente codex MN II 189, ab eodem clerico scriptus. Auctor autem codicis nostri nondum certe notus."
   }
 }

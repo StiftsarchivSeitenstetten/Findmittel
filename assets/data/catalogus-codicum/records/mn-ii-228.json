@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-228",
   "signature": "MN II 228",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "178",
   "heading": {
     "title": "Philosophia, seu Logica Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1706"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Philosophia, seu Logica Thomistica",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Philosophia, seu Logica Thomistica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–573",
+      "locus": "p. 5",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Proloquii In logicam Aristotelico-Thomisticam",
+          "text": "Solent liberalium artium inimici passim logicam onerare convitiis ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 573",
+          "text": "Absolvimus 29 Maii 1706.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Proloquii In logicam Aristotelico-Thomisticam",
+        "text": "Solent liberalium artium inimici passim logicam onerare convitiis ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 573",
+        "text": "Absolvimus 29 Maii 1706.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,13 +97,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "argumenta seu inscriptiones disputationum et articulorum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 574–580",
+      "locus": "p. 574–580",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -218,13 +251,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 228",
     "titles": "Philosophia, seu Logica Thomistica \nPhilosophia, seu Logica Thomistica \nargumenta seu inscriptiones disputationum et articulorum",
-    "persons": "P. Paulus Stoker Dozent lecturer \nFr. Carolus Gschwantner Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Paulus Stoker Dozent lecturer St. Paul im Lavanttal / Universität Salzburg \nFr. Carolus Gschwantner Schreiber scribe Seitenstetten",
+    "incipits": "Solent liberalium artium inimici passim logicam onerare convitiis ......",
+    "explicits": "Absolvimus 29 Maii 1706.",
     "notes": "",
-    "physical": "Papier \n580 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n580 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "580 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706.\n\n**Philosophie oder thomistische Logik**, vorgetragen von P. Paulus Stoker, Benediktiner und Profess des Klosters St. Paul in Kärnten, Doktor der freien Künste und Philosophie sowie ordentlicher Professor an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Profess von Seitenstetten und Logikstudent, im Jahr 1706.\n\nAnfang des Prologs zur aristotelisch-thomistischen Logik S. 5: Die Feinde der freien Künste pflegen die Logik überall mit Schmähungen zu überhäufen......\n\nSchluss S. 573: **Wir beendeten [dies] am 29. Mai 1706.**\n\nS. 574–580 folgen die Argumente beziehungsweise Überschriften der Disputationen und Artikel.\n\nDerselbe Schreiber schrieb auch die sechs folgenden Codices.",
+    "latin": "580 pagg.; teg. a1; script. 1706\n\nPhilosophia, seu Logica Thomistica, tradita ab .....P. D Paulo Stoker (!), Ordinis S. P. Nostri Benedicti in Celeberrimo Monasterio ad S. Paulum in Carinthia, Artium Liberalium et Philosophiae Doctore nec non eiusdem in Alma et Archi-Episcopali Benedictina Universitate Salisburgensi Professore Ordinario Excepta â F. Carolo Gschwantner, ordinis Sanctissimi P. Benedicti in Monasterio Seittenstettensi Professo Logices studioso Anno Domini 1706.\n\nInitium Proloquii In logicam Aristotelico-Thomisticam p. 5: Solent liberalium artium inimici passim logicam onerare convitiis ......\n\nClausula p. 573: Absolvimus 29 Maii 1706.\n\nPostea sequuntur p. 574–580 argumenta seu inscriptiones disputationum et articulorum.\n\nIdem scriptor etiam sex codices sequentes exaravit."
   }
 }

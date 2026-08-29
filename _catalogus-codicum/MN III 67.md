@@ -9,18 +9,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 67
 ms_contents:
-  title: "Liber precatorius"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Liber precatorius"
-    title_type: "supplied"
-    locus: "S. 1–226"
-    note: "Der Titel ist mit dem Vorderdeckel und 46 Seiten verloren; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
-  - label: "b"
-    title: "Index"
-    locus: "S. 227–240"
-    end_date_display: "1803"
+  - label: a
+    title: Liber precatorius
+    note: Der Titel ist mit dem Vorderdeckel und 46 Seiten verloren; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Index
+    locus: p. 227–240
+    end_date_display: '1803'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

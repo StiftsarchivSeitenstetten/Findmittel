@@ -13,21 +13,34 @@ ms_contents:
   - label: a
     title: Tractatus In universam Aristotelis Physicam. Proemium
     locus: fol. 1
-    incipit: Obtento scientiarum Instrumento et modo sciendi
+    incipits:
+    - text: Obtento scientiarum Instrumento et modo sciendi....
+      locus: fol. 1r
+    title_status: unspecified
   - label: b
     title: Pars Prima. De Physica Auscultatoria seu de 8 Libris Physicorum
     locus: fol. 2r–287v
-    incipit: Tractat in his Libris Aristoteles
+    incipits:
+    - text: Tractat in his Libris Aristoteles, ......
+    title_status: unspecified
   - label: c
     title: Pars Secunda Physicae. De Mundo et Caelis, de generatione et corruptione, et de Anima
     locus: fol. 287v–335r
-    incipit: Absolutis Libris Agromamaticis Physicorum
     end_date_display: 7. Juli 1711
+    incipits:
+    - text: Absolutis Libris Agromamaticis Physicorum, .....
+    title_status: unspecified
+    colophons:
+    - text: 7. Julii 1711
   - label: d
     title: Tractatus in Universam Aristotelis Metaphysicam
-    locus: fol. 1r–11v (= fol. 336r–346v)
-    incipit: Tandem superatis iis, quae de rebus naturalibus
+    locus: fol. 1r–11v
     end_date_display: Salzburg, 24. Juli 1711
+    incipits:
+    - text: Tandem superatis iis, quae de rebus naturalibus.......
+    colophons:
+    - text: Finis totius huius Philosophici cursûs coronavit opus. Salisburgi, die 24. Julii, Anno 1711.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

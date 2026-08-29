@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-140",
   "signature": "MN II 140",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "102–103",
   "heading": {
     "title": "Tractatus in Philosophiam Aristotelico Thomisticam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1684."
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 140.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Philosophiam Aristotelico Thomisticam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 1–68. I",
+      "locus": "p. 1–68",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -57,15 +64,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 69–462. I",
+      "locus": "p. 69–462",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 69",
+          "label": "Prooemii",
+          "text": "Logica quam Deo aspirante aggredimur.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 462",
+          "text": "Finita 31 Maii 1684.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 69",
+        "label": "Prooemii",
+        "text": "Logica quam Deo aspirante aggredimur.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 462",
+        "text": "Finita 31 Maii 1684.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -138,13 +171,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-140/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 140",
     "titles": "Tractatus in Philosophiam Aristotelico Thomisticam \nTractatus in Philosophiam Aristotelico Thomisticam \nTractatus In Logicam",
-    "persons": "P. Edmund Ruedorffer Dozent lecturer \nJohann Georg Stainlechner student or scribe student_or_scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Edmund Ruedorffer Dozent lecturer  \nJohann Georg Stainlechner student or scribe student_or_scribe ",
+    "incipits": "Logica quam Deo aspirante aggredimur.....",
+    "explicits": "Finita 31 Maii 1684.",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 140.",
-    "physical": "Papier \nIV + 463 pagg. \ndescription: Pergament- bzw. Makulatureinband; Einzelheiten siehe Katalogtext."
+    "physical": "Papier \nIV + 463 pagg. \ndescription: Pergament- bzw. Makulatureinband; Einzelheiten siehe Katalogtext.",
+    "german": "IV + 463 Seiten; der Einband besteht aus einem Fragment eines gedruckten Messbuchs des 15. oder 16. Jahrhunderts mit der zweiten und dritten Messe am Weihnachtstag; der Rücken ist mit einem im 15. Jahrhundert handschriftlich beschriebenen Pergamentfragment überzogen; geschrieben 1684.\n\n**Abhandlung über die aristotelisch-thomistische Philosophie, an der Universität Salzburg vorgetragen unter P. Edmund Ruedorffer, Benediktiner des kaiserlichen und exemten Klosters Lambach, Doktor der freien Künste und Philosophie und ordentlicher Professor derselben; gehört von Johann Georg Stainlechner, Student der Logik, im Jahr 1684.**\n\na) **Abhandlung über die aristotelisch-thomistische Philosophie:** S. 1–68. Anfang der Vorrede: Das große und beinahe einzige Glück der Sterblichen besteht darin, zu wissen....\n\nb) **Abhandlung über die Logik:** S. 69–462. Anfang der Vorrede S. 69: Die Logik, die wir mit Gottes Beistand in Angriff nehmen..... Schluss S. 462: Beendet am 31. Mai 1684.\n\nVermerk auf der Innenseite des Vorderdeckels: **NB 8 fl. 30 Xr vor mein H(errn) Vattern Von den gelt waß ich habe.** = NB: 8 Gulden 30 Kreuzer für meinen Herrn Vater von dem Geld, das ich habe.\n\nVermerk auf der Innenseite des Rückdeckels: **in usu F. Caroli (Gschwandtner) Seittenstettensis. 1705.** = Im Gebrauch des Fr. Carolus Gschwandtner aus Seitenstetten, 1705.",
+    "latin": "IV + 463 pagg.; Tegumentum est fragmentum libri missalis typis impressi (saec. XV aut XVI; missa II et III in nativitate Domini); dorsum tectum est fragmentô membranaceo saec. XV. manu inscripto; scriptus 1684.\n\nTractatus In Philosophiam Aristotelico Thomisticam: In Alma archiepiscopali Universitate Salisburgensi expositus. Praeside ... Patre Edmundo Ruedorffer Ordinis S. Benedicti ex imperiali et exempto Monasterio Lambacensi professo. Artium Liberalium et Philosophiae Doctore eiusdemque professore ordinario. audiente Joanne Georgio Stainlechner Logicae Studioso Anno ab Orbe redempto MDC. LXXXIV: (1684)\n\n\n\n- 103 -\n\na) Tractatus in Philosophiam Aristotelico Thomisticam: p. 1–68. Initium Prooemii: Magna ac fere unica mortalium felicitas est scire..\n\nb) Tractatus In Logicam: p. 69–462. Initium Prooemii p. 69: Logica quam Deo aspirante aggredimur..... Clausula p. 462: Finita 31 Maii 1684. Nota in parte adversa tegumenti ab intrinsecus: NB 8 fl. 30 Xr (= 8 florenos 30 crucigeros) vor mein H(errn) Vattern Von den gelt waß ich habe. Nota in parte aversa tegumenti ab intrinsecus: in usu F. Caroli (Gschwandtner) Seittenstettensis. 1705."
   }
 }

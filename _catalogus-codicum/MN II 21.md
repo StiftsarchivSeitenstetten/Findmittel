@@ -15,9 +15,33 @@ ms_contents:
   summary: Abhandlungen über menschliche Handlungen und Gesetze; geschrieben von Benedict Graff.
   items:
   - label: a
-    catalog_statement: '(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.'
+    catalog_statement: '(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae
+      moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris,
+      post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.'
+    title: Tractatus de Actibus Humanis
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 181v
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis
+      text: Prima Theologiae moralis Tractatio, de Humanis actibus est....
+    colophons:
+    - locus: fol. 181v
+      text: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis
+        1633.
   - label: b
     catalog_statement: 'Tractatus de Legibus: fol. 185r - 245r.'
+    title: Tractatus de Legibus
+    locus: fol. 185r - 245r
+    title_status: unspecified
+    incipits:
+    - locus: fol. 185r
+      label: Prooemii
+      text: De Legibus aliqua ad Theologos speculativos....
+    explicits:
+    - locus: fol. 245r
+      text: 23 Decem. ante vigiliam nativitatis Christi 1633.
 phys_desc:
   object_form: codex
   support: Papier

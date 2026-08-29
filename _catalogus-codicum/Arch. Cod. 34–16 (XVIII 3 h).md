@@ -13,14 +13,39 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–16 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: 'Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem
-      Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664.'
+    catalog_statement: 'Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum.....
+      Clausula p. 312: Absolvimus 15. Martii 1664.'
+    title: Tractatus De Angelis
+    locus: p. 1–332
+    incipits:
+    - locus: p. 6
+      label: Praefationis
+      text: Facile mortalis facundia excurrit in laudem Angelorum.....
+    colophons:
+    - locus: p. 312
+      text: Absolvimus 15. Martii 1664.
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Tractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur
-      primo: Vocabulum finis hic sumi....'
+    catalog_statement: 'Tractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur primo: Vocabulum finis
+      hic sumi....'
+    title: Tractatus De Actibus humanis in Primam Secundae S. Thomae
+    locus: p. 341–644
+    incipits:
+    - locus: p. 343
+      text: 'Supponitur primo: Vocabulum finis hic sumi....'
+    title_status: unspecified
   - label: c
-    catalog_statement: 'Tractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia.....
-      Clausula p. 794: Undecimo ....(?)..1664 desivimus.'
+    catalog_statement: 'Tractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia..... Clausula p.
+      794: Undecimo ....(?)..1664 desivimus.'
+    title: Tractatus ultimus De Conscientia
+    locus: p. 645–794
+    incipits:
+    - locus: p. 645
+      text: Quam utilis et necessaria sit theologia.....
+    colophons:
+    - locus: p. 794
+      text: Undecimo ....(?)..1664 desivimus.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

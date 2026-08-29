@@ -15,10 +15,26 @@ ms_contents:
     title: Compendium Institutionum Dialecticarum
     locus: fol. 1–55
     end_date: '1684-12-09'
+    incipits:
+    - locus: fol. 1r
+      text: Prooemium. Praemitti semper solent Summulae,....
+    colophons:
+    - locus: fol. 55r
+      text: Absolvimus Sabbato manè. 9. Decembris 1684.
+    title_status: unspecified
   - label: b
     title: Disputationum Philosophicarum Tractatus Primus In Universam Aristotelis Logicam
-    locus: fol. 1–254 (=58–311)
+    locus: fol. 1–254
     end_date: '1685-05-25'
+    incipits:
+    - locus: fol. 1
+      label: Prologi
+      text: Multi liberalium inimici artium palàm logicam incessunt......
+    colophons:
+    - locus: fol. 254
+      text: Absolvimus die. 25. Maii 1685. ante prandium.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

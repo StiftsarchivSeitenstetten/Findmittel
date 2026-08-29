@@ -10,19 +10,29 @@ ms_identifier:
   idno: MN II 221
 ms_contents:
   title: Jus Canonicum
-  title_type: supplied
   items:
   - label: a
     title: Prooemium in Jus Canonicum
-    title_type: supplied
-    locus: S. 3–6
+    locus: p. 3–6
+    incipits:
+    - text: Jus Canonicum Est collectum ex Sacris Canonibus seu ecclesiasticis regulis......
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Liber 1. Decretalium
-    title_type: supplied
-    locus: S. 6–177
+    locus: p. 6–177
+    incipits:
+    - text: Titulus 1. De S. Trinitate et fide Catholica. Fides Catholica dicitur, quam ecclesia.....
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Liber 2. Decretalium
-    locus: S. 179–294
+    locus: p. 179–294
+    incipits:
+    - text: Titulus 1. De Judiciis. Judicium est legitima controversiae inter actorem et reum coram Judice disceptatio.....
+    title_status: unspecified
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

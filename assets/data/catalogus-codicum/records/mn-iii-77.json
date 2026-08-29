@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-77",
   "signature": "MN III 77",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "281",
   "heading": {
     "title": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1850"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Ritus baptismi",
+        "text": "ritum baptismi",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Benedictio mulieris post partum",
+        "text": "benedictionis mulieris post partum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,13 +102,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Cura infirmorum",
+        "text": "curae infirmorum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -114,13 +129,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Nuptiae",
+        "text": "nuptiarum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -200,13 +219,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-77/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 77",
-    "titles": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche \nRitus baptismi \nBenedictio mulieris post partum \nCura infirmorum \nNuptiae",
-    "persons": "Johann Skokan Schreiber scribe",
+    "titles": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche \nritum baptismi \nbenedictionis mulieris post partum \ncurae infirmorum \nnuptiarum",
+    "persons": "Johann Skokan Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung.",
-    "physical": "Papier \n8° \nOktavformat \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n8° \nOktavformat \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "Oktavformat; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; 48 Seiten; geschrieben um 1850.\n\n**Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.**\n\nAuch die Rubriken sind ins Deutsche übersetzt, wurden aber mit rosafarbener Tinte geschrieben.\n\nDas Büchlein enthält den Ritus der Taufe, der Segnung einer Frau nach der Geburt, der Krankenpflege beziehungsweise Krankenpastoral und der Eheschließung.\n\nDer Schreiber nennt sich am unteren Rand von S. 43: **Joh(ann) Skokan.** Er schrieb das Büchlein äußerst sorgfältig. Schrift und Einband weisen eher auf eine Entstehung vor als nach 1850.",
+    "latin": "8°; teg. c2d; 48 pagg.; scriptus circa annum 1850\n\n**Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.**\n\nEtiam Rubricae in linguam Germanicam translatae sunt, sed ad scribendas rubricas tinctura rosacea adhibita est. Continet hic libellus ritum baptismi, benedictionis mulieris post partum, curae infirmorum, nuptiarum.\n\nScriptor nomen suum in margine inferiore p. 43 notavit: **Joh(ann) Skokan.** Qui codicillum nostrum diligentissime scripsit, eumque potius ante quam post annum 1850, uti scriptura et tegumentum indicant."
   }
 }

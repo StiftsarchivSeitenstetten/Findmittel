@@ -13,21 +13,40 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus De Sacramentis in genere
-    locus: fol. 1rv–112r
+    locus: fol. 1r
     start_date: '1688-11-12'
+    incipits:
+    - text: Quinque de Sacramentis in genere expendit S. Doctor.....
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Baptismo
     locus: fol. 113r–150r
     end_date: '1689-06-10'
+    incipits:
+    - text: Post absolutum Tractatum de Sacramentis in genere....
+    colophons:
+    - text: Absolvimus hunc Tractatum Die 10. Junii 1689.
+    title_status: unspecified
   - label: c
     title: Tractatus III De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris
     locus: fol. 150v–157r
     end_date: '1689-06-18'
+    incipits:
+    - text: Cum baptismum immediate sequatur Sacramentum Confirmationis....
+    colophons:
+    - text: Absolvimus hunc Tractatum die 18. Junii 1689.
+    title_status: unspecified
   - label: d
     title: Tractatus quartus De Sacramento Eucharistiae
     locus: fol. 157v–211r
     end_date: '1689-08-31'
+    incipits:
+    - text: Eucharistia tanquam divinissimum et venerabile Sacramentum.
+    colophons:
+    - text: Absolvimus 31. Augusti 1689. 129 Lectiones universim.
+    title_status: unspecified
   lecture_count_total: 129
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

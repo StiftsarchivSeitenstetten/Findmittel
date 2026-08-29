@@ -9,14 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 71
 ms_contents:
-  title: "Liber precatorius"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Liber precatorius"
-    title_type: "supplied"
-    locus: "S. 3–252"
-    note: "Titelblatt sowie S. 1–2 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
+  - label: a
+    title: Liber precatorius
+    locus: S. 3–252
+    note: Titelblatt sowie S. 1–2 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

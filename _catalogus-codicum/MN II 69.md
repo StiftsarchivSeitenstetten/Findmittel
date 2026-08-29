@@ -13,13 +13,23 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 69
 ms_contents:
-  title: Commentarius In Aristotelis Organum
   responsibility:
   - role: lecturer
     name: P. Anselm Schlager
   - role: scribe
     name: Fr. Adam Piringer
-  completeness: Am Ende fehlen viele Blätter.
+  items:
+  - title: Commentarius In Aristotelis Organum
+    title_status: unspecified
+    completeness:
+      status: defective
+      note: Am Ende fehlen viele Blätter.
+    locus: fol. 1–143v
+    incipits:
+    - locus: fol. 2r
+      label: Prooemii
+      text: Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p.
+        41!) et MN II 65 (supra p. 42!)b.
 phys_desc:
   object_form: codex
   support: Papier

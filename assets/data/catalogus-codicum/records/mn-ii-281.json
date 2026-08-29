@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-281",
   "signature": "MN II 281",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "229",
   "heading": {
-    "title": "Tractatus Scholastico-Positivus De Jure, et Justitia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus Scholastico-Positivus De Jure et Justitia",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1751"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Scholastico-Positivus De Jure, et Justitia",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Positivus De Jure et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–269",
+      "locus": "p. 5–269",
       "language": "",
+      "incipits": [
+        {
+          "text": "Virtutum moralium praecipuae sunt",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Virtutum moralium praecipuae sunt"
+        "text": "Virtutum moralium praecipuae sunt",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -70,15 +83,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Parerga ex Tractatu De Jure, et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 270–272",
+      "locus": "p. 270–272",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "text": "Propugnata",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Propugnata",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -251,13 +276,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 281",
-    "titles": "Tractatus Scholastico-Positivus De Jure, et Justitia \nTractatus Scholastico-Positivus De Jure et Justitia \nParerga ex Tractatu De Jure, et Justitia",
-    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe",
+    "titles": "Tractatus Scholastico-Positivus De Jure et Justitia \nTractatus Scholastico-Positivus De Jure et Justitia \nParerga ex Tractatu De Jure, et Justitia",
+    "persons": "P. Benedictus Veit Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe ",
     "incipits": "Virtutum moralium praecipuae sunt",
-    "explicits": "",
+    "explicits": "Propugnata",
     "notes": "Unter P. Benedictus Veit verteidigt; die zugeordneten Kandidaten sind im Katalogtext einzeln genannt.",
-    "physical": "Papier \n276 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n276 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "276 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751.\n\n**Scholastisch-positive Abhandlung über Recht und Gerechtigkeit**, diktiert von P. Benedictus Veit im Jahr 1751, beginnend am 16. Juni.\n\na) **Scholastisch-positive Abhandlung über Recht und Gerechtigkeit:** S. 5–269. Anfang: Die vornehmsten moralischen Tugenden sind,...... Schluss: **Wir beendeten [dies] am 21. August in der Nachmittagsvorlesung 1751.**\n\nb) **Parerga aus der Abhandlung über Recht und Gerechtigkeit:** S. 270–272. Schluss: **Diese Parerga wurden am 10. September 1751 vormittags und nachmittags unter dem Professor P. Benedictus Veit verteidigt.**\n\nDieser Codex ist Band IV des scholastisch-theologischen Kurses im Kloster Seitenstetten. Der Schreiber ist unbekannt, obwohl derselbe auch die drei vorhergehenden und die vier folgenden Codices schrieb.\n\nAuch hier ist zu beachten, dass zu jedem Parergon der Kandidat vermerkt ist, dem es in der Prüfung gestellt wurde: bei Nr. 5 Fr. Paulus Schober, 6 Fr. Udalricus Digl, 8 Fr. Anselmus Wisgrill, 17 Fr. Leander Lieb, 20 Fr. Michael Rothmayr, 24 Fr. Odilo Felber und 29 Fr. Emmeramus Kolb. Die Namen sind am Rand teilweise vom Buchbinder beschnitten. Fr. Odilo Felber legte 1750, die übrigen 1749 in Seitenstetten Profess ab.",
+    "latin": "276 pagg.; teg. c3d; script. 1751\n\n**Tractatus Scholastico-Positivus De Jure, et Justitia Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751 à die decima sexta Junii.**\n\na) Tractatus Scholastico-Positivus De Jure et Justitia: p. 5–269.  \nInitium: Virtutum moralium praecipuae sunt,......  \nClausula: Finivimus 21. Augusti in pomeridiana lectione. 1751.\n\nb) Parerga ex Tractatu De Jure, et Justitia: p. 270–272.  \nClausula: Propugnata (scilicet: sunt haec parerga) decima Septembris. 1751. Horis ante- et Po-meridianis. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P: Benedicto Veith.\n\nHic codex tomus IV est cursus theologiae scholasticae in Monasterio Seitenstettensi traditi (de quo supra p. 227!). Scriptor, etiamsi tres praecedentes et quattuor sequentes codices idem exaravit, ignotus.\n\nEtiam in hoc codice notetur, quod parergon unicuique candidato in examine propositum sit; nam nomen F. Pauli Schober ad 5., F. Udalrici Digl ad 6., F. Anselmi Wisgrill ad 8., F. Leandri Lieb ad 17., F. Michaelis Rothmayr ad 20., F. Odilonis Felber ad 24., F. Emmerami Kolb ad 29. parergon in margine (etsi a bibliopego praecisum) notatum est. F. Odilo Felber anno 1750, ceteri anno 1749 in monasterio Seitenstettensi vota nuncupaverant."
   }
 }

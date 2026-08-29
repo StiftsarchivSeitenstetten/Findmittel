@@ -14,12 +14,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 97
 ms_contents:
-  title: Tractatus De Jure et Justitia
-  locus: S. 1–659
   responsibility:
   - role: scribe
     name: Fr. Bernardus Leittner
     certainty: probable
+  items:
+  - title: Tractatus De Jure et Justitia
+    title_status: unspecified
+    locus: p. 1–659
 phys_desc:
   object_form: codex
   support: Papier

@@ -17,10 +17,26 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........'
+    title: Prooemium
+    locus: p. 7 - 12
+    incipits:
+    - text: Quae Doctor Angelicus........
+    title_status: unspecified
   - label: b
     catalog_statement: 'Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....'
+    title: Tractatus I De Deo Uno
+    locus: p. 12 - 310
+    title_status: unspecified
   - label: c
     catalog_statement: 'Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....'
+    title: Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino
+    locus: p. 310 - 412
+    incipits:
+    - text: De hoc summo omnium.....mysterio....
+    title_status: unspecified
+    explicits:
+    - locus: p. 412
+      text: '5. Septemb: Anno 1620.'
 phys_desc:
   object_form: codex
   support: Papier

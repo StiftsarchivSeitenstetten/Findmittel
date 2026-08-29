@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-292",
   "signature": "MN II 292",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "235–236",
   "heading": {
     "title": "Tractatus Scholastico-Dogmaticus de Incarnatione verbi Divini",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1755/56"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,35 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus de Incarnatione verbi Divini",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–385",
+      "locus": "p. 3–385",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "9. Augusti 1756.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium"
+        "text": "Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium,.....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "9. Augusti 1756.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -64,42 +85,51 @@
         }
       ],
       "persons": [],
-      "subitems": []
-    },
-    {
-      "id": "item-a-1",
-      "label": "a.1",
-      "type": "",
-      "title": {
-        "text": "Breviculum Vitae et operum Jesu Christi",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
-      },
-      "locus": "S. 293–385",
-      "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [
+      "subitems": [
         {
-          "type": "note",
-          "text": "Diese Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet."
+          "id": "item-a-1",
+          "label": "a.1",
+          "type": "",
+          "physicalUnit": "",
+          "title": {
+            "text": "Breviculum Vitae et operum Jesu Christi",
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
+          },
+          "locus": "p. 293–385",
+          "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
+          "incipit": null,
+          "explicit": null,
+          "notes": [
+            {
+              "type": "note",
+              "text": "Diese Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet."
+            }
+          ],
+          "dates": [],
+          "persons": [],
+          "subitems": []
         }
-      ],
-      "dates": [],
-      "persons": [],
-      "subitems": []
+      ]
     },
     {
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Elenchus Dissertationum et Articulorum (?) hujus Tractatus De Incarnatione Verbi Divini",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 386–390",
+      "locus": "p. 386–390",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -228,13 +258,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 292",
     "titles": "Tractatus Scholastico-Dogmaticus de Incarnatione verbi Divini \nTractatus Scholastico-Dogmaticus de Incarnatione verbi Divini \nBreviculum Vitae et operum Jesu Christi \nElenchus Dissertationum et Articulorum (?) hujus Tractatus De Incarnatione Verbi Divini",
-    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe",
-    "incipits": "Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium",
-    "explicits": "",
+    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe Stift Seitenstetten",
+    "incipits": "Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium,.....",
+    "explicits": "9. Augusti 1756.",
     "notes": "Diese Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.",
-    "physical": "Papier \n392 pagg. \ncode: c2; description: Marmorierter Pappeinband."
+    "physical": "Papier \n392 pagg. \ncode: c2; description: Marmorierter Pappeinband.",
+    "german": "392 Seiten; marmorierter Pappeinband; geschrieben 1755/56.\n\na) **Scholastisch-dogmatische Abhandlung über die Menschwerdung des göttlichen Wortes:** S. 3–385. S. 293–385 enthält ein **Kurzes Büchlein über Leben und Werke Jesu Christi**. Anfang: Wie würdig und vorzüglich dieses Geheimnis unseres Glaubens und unserer Betrachtung ist,..... Schluss: **9. August 1756.**\n\nb) **Verzeichnis der Dissertationen und Artikel (?) dieser Abhandlung über die Menschwerdung des göttlichen Wortes:** S. 386–390.\n\nAuch diesen Codex schrieb **P. Norbertus Pampichler**, wie die Schrift zeigt. Ebenso sicher ist, dass er auch der Verfasser war und darin die theologischen Vorlesungen für das Studienjahr 1755/56 vorbereitete. Er legte den Codex genau in derselben Weise an wie die drei vorhergehenden und den folgenden.",
+    "latin": "392 pagg.; teg. c2; script. 1755/56\n\na) Tractatus Scholastico-Dogmaticus de Incarnatione verbi Divini: p. 3–385. (p. 293–385 Breviculum Vitae et operum Jesu Christi.....)  \nInitium: Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium,.....  \nClausula: 9. Augusti 1756.\n\nb) Elenchus Dissertationum et Articulorum (?) hujus Tractatus De Incarnatione Verbi Divini: p. 386–390.\n\nHunc quoque codicem a **P. Norberto Pampichler** scriptum esse scriptura docet. Neque minus certum est, eundem esse auctorem quoque codicis in eoque lectiones theologicas pro anno scholari 1755/56 praemeditatum esse. Nam plane eodem modo codicem nostrum exaravit, quo tres praecedentes et sequentem."
   }
 }

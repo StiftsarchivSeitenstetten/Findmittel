@@ -10,13 +10,18 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 Z (XVIII 3v)
 ms_contents:
-  title: "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi."
   items:
-  - label: "a"
-    title: "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi."
-    locus: "S. 1–352"
-    incipit: "A virtutibus Theologicis, bene ad Cardinales fit progressio......"
-    note: "Die parenthetische Namensauflösung „Hammer“ erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi.
+      pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer)
+      Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.
+    locus: p. 5
+    note: Die parenthetische Namensauflösung „Hammer“ erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied.
+    incipits:
+    - text: A virtutibus Theologicis, bene ad Cardinales fit progressio......
+      locus: p. 5
+      label: Proemii
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

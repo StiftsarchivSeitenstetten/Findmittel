@@ -12,223 +12,303 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 135.
   items:
   - label: a
-    title: Currus triumphalis Divi Thomae Aquinatis. Oratio de S. Thoma Aquinate dicta ab......P. Paulo Mezger, in aula Academica
-      Salisburgi
-    locus: fol. 4r - 11v.
+    title: Currus triumphalis Divi Thomae Aquinatis. Oratio de S. Thoma Aquinate dicta ab......P. Paulo Mezger, in aula Academica Salisburgi
+    locus: fol. 4r - 11v
+    incipits:
+    - locus: fol. 4r
+      text: Non ad Oratoriae nostra convenisse vos hodie existimetis.....
+    title_status: unspecified
   - label: b
-    title: Oratio de S. Thoma Aquinate dicta ab......P. Paulo Mezger in aula Academica Salisburgi in festo Divi Thomae Aquinatis,
-      Anno 1678
-    locus: fol. 11v - 18v.
+    title: Oratio de S. Thoma Aquinate dicta ab......P. Paulo Mezger in aula Academica Salisburgi in festo Divi Thomae Aquinatis, Anno 1678
+    locus: fol. 11v - 18v
+    incipits:
+    - locus: fol. 4r
+      text: Non ad Oratoriae nostra convenisse vos hodie existimetis.....
+    title_status: unspecified
   - label: c
-    title: Oratio in festo S. Thomae Doctoris Angelici, dicta ab ..... P. Josepho Metzger Ordinis Divi Benedicti in Celeberrimo
-      Monasterio ad Divum Petrum Salisburgi Priore meritissimo, in aula Academica Salisburgi 1679
-    locus: fol. 18v - 27v.
+    title: Oratio in festo S. Thomae Doctoris Angelici, dicta ab ..... P. Josepho Metzger Ordinis Divi Benedicti in Celeberrimo Monasterio ad
+      Divum Petrum Salisburgi Priore meritissimo, in aula Academica Salisburgi 1679
+    locus: fol. 18v - 27v
+    incipits:
+    - text: Sistite gradum, et animum Duces et Milites Academici, atque Angelici.....
+    explicits:
+    - text: Non plus ultra. Dixi. 1679.
+    title_status: unspecified
   - label: d
-    title: 'Glorwürdige Ehren-Gedechtnuß der Bayrischen Amalasunthae, oder Leich-Ehren-Predig, der Weyland Allerdurchleuchtigisten
-      Frauen, Frauen Henriette Adelhaid, Churfürstin auß Bayrn. Gebohrner Königlichen Princessin auß Savoyen etc: Gehalten
-      durch den Ehrwürdigen P. Dominum Amedeum Hamilton, Clericum Regularem Theatinum, in den Neu erbauten Templ der P. P.
-      (Patronum?) Adelaidis, Unndt Caietani Zum München, den 30 Merz (?) Anno 1676; fol. 28r - 46v.'
-    locus: fol. 28r - 46v.
+    title: 'Glorwürdige Ehren-Gedechtnuß der Bayrischen Amalasunthae, oder Leich-Ehren-Predig, der Weyland Allerdurchleuchtigisten Frauen, Frauen
+      Henriette Adelhaid, Churfürstin auß Bayrn. Gebohrner Königlichen Princessin auß Savoyen etc: Gehalten durch den Ehrwürdigen P. Dominum Amedeum
+      Hamilton, Clericum Regularem Theatinum, in den Neu erbauten Templ der P. P. (Patronum?) Adelaidis, Unndt Caietani Zum München, den 30 Merz
+      (?) Anno 1676; fol. 28r - 46v.'
+    locus: fol. 28r - 46v
+    title_status: unspecified
   - label: e
     title: Unius mors promotio alterius
-    locus: fol. 46v - 49r.
+    locus: fol. 46v - 49r
+    incipits:
+    - text: A fine duco
+    title_status: unspecified
   - label: f
     title: Oratio ad novos Dominos Doctores
-    locus: fol. 49r - 53v. I
+    locus: fol. 49r - 53v
+    incipits:
+    - text: Salvete Doctorales laureae.....
+    title_status: unspecified
   - label: g
-    title: 'Quid magis conveniet sapienti Viro inopia, vel opes? fol. 53v - 57r. Nota in margine fol. 53v: NB. Dicta fuit
-      haec Oratio ab eodem Domino Doctore Balthasaro Braun, promovente alium ad Doctoratum. Initium: Arduum opus, opes Sapienti
-      Viro vel addicere, vel abdicare:....'
-    locus: fol. 53v - 57r.
+    title: Quid magis conveniet sapienti Viro inopia, vel opes?
+    locus: fol. 53v - 57r
+    incipits:
+    - text: Arduum opus, opes Sapienti Viro vel addicere, vel abdicare:....
+    title_status: unspecified
   - label: h
-    title: Petitio Baccalaureatus habita à Praenobili Domino Leopoldo Tharenot (Tsarenot, Tharenot, Psarenot?), Provinciali
-      Austriaco ad.....Patrem Suum Professorem, in eoque gradu Promotorem, in aula Academica Salisburgi 1679. Vocabatur autem
-      Reverendus P. Professor, Petrus Wolgeschaffn, ex antiquissimo monasterii (!) ad Divum Petrum Salisburgi Professus
-    locus: fol. 57v - 58r. I
+    title: Petitio Baccalaureatus habita à Praenobili Domino Leopoldo Tharenot (Tsarenot, Tharenot, Psarenot?), Provinciali Austriaco ad.....Patrem
+      Suum Professorem, in eoque gradu Promotorem, in aula Academica Salisburgi 1679. Vocabatur autem Reverendus P. Professor, Petrus Wolgeschaffn,
+      ex antiquissimo monasterii (!) ad Divum Petrum Salisburgi Professus
+    locus: fol. 57v - 58r
+    incipits:
+    - text: Postquàm multoties hactenus inter Sacrum et Saxum.....
+    title_status: unspecified
   - label: i
-    title: Oratio de Beata Virgine Maria, dicta ab .......P. Paulo Metzger, Salisburgi in aula Academica, in festo Nativitatis
-      Beatae Virginis Anno 1678
-    locus: fol. 58r - 65r.
+    title: Oratio de Beata Virgine Maria, dicta ab .......P. Paulo Metzger, Salisburgi in aula Academica, in festo Nativitatis Beatae Virginis
+      Anno 1678
+    locus: fol. 58r - 65r
+    incipits:
+    - text: Nutebat tota generis humani moles......
+    title_status: unspecified
   - label: j
-    title: 'Festum S. Jacobi Apostoli. Per Calicem Passionis S: Jacobus Maior se dignum Divinae Dilectionis, et Amicitiae
-      constituit'
-    locus: fol. 65v - 75v.
+    title: 'Festum S. Jacobi Apostoli. Per Calicem Passionis S: Jacobus Maior se dignum Divinae Dilectionis, et Amicitiae constituit'
+    locus: fol. 65v - 75v
+    explicits:
+    - locus: fol. 75v
+      text: Dixit, et Composuit Reverendus Religiosus P. Probus Franciscanus, Concionator ordinarius in Cathedrali Ecclesia Salisburgi. 1679.
+    title_status: unspecified
   - label: k
-    title: 'De Venerabili Sacramento: Concio dicta à P. Paulo Metzger in Ecclesia Cathedrali Salisburgensi, in Caena Domini
-      Anno 1681'
-    locus: fol. 76r - 89r.
+    title: 'De Venerabili Sacramento: Concio dicta à P. Paulo Metzger in Ecclesia Cathedrali Salisburgensi, in Caena Domini Anno 1681'
+    locus: fol. 76r - 89r
+    title_status: unspecified
   - label: l
-    title: Notata Digniora. Ad Concionem rectè, et facilè componendam. Authore Admodum Reverendo P. Francisco Wismann è Societate
-      Jesu Cathedralis Ecclesiae S. Stephani Viennae Concionatore
-    locus: fol. 89v - 126v. I
+    title: Notata Digniora. Ad Concionem rectè, et facilè componendam. Authore Admodum Reverendo P. Francisco Wismann è Societate Jesu Cathedralis
+      Ecclesiae S. Stephani Viennae Concionatore
+    locus: fol. 89v - 126v
+    incipits:
+    - text: Tria prae oculis habeat Sacer Orator.....
+    title_status: unspecified
   - label: m
-    title: Mensura Nobilitatis, Opulentiae, et Scientiarum. Sive de S. Benedicto Oratio Panegyrica. Salisburgi in aula Academica
-      habita 11 Julii 1680 à F. L. W. P. S. (= F. Leopoldo Wimmer Professo Seittenstettensi). Dedicata Reverendissimo, Nobili,
-      ac Amplissimo Domino, Domino Ambrosio, Celeberrimi inferioris Austriae Monasterii Seittenstettensis Ordinis S. Patris
-      Benedicti Abbati Vigilantissimo, Meritissimo. Sacrae Caesareae Maiestatis Consiliario, etc. Patri Observandissimo, Domino
-      Domino meo Gratiosissimo
-    locus: fol. 126v - 142v.
+    title: Mensura Nobilitatis, Opulentiae, et Scientiarum. Sive de S. Benedicto Oratio Panegyrica. Salisburgi in aula Academica habita 11 Julii
+      1680 à F. L. W. P. S. (= F. Leopoldo Wimmer Professo Seittenstettensi). Dedicata Reverendissimo, Nobili, ac Amplissimo Domino, Domino Ambrosio,
+      Celeberrimi inferioris Austriae Monasterii Seittenstettensis Ordinis S. Patris Benedicti Abbati Vigilantissimo, Meritissimo. Sacrae Caesareae
+      Maiestatis Consiliario, etc. Patri Observandissimo, Domino Domino meo Gratiosissimo
+    locus: fol. 126v - 142v
+    incipits:
+    - locus: fol. 127r
+      label: Prooemii
+      text: Ausus Sum hoc anno duo......
+    - label: Orationis
+      text: Exulsabat in Patmo Divini Cordis illud Delicium,.....
+    colophons:
+    - text: et Orationis meae terminos Sic fixi, et Dixi. 1680.
+    title_status: unspecified
   - label: n
-    title: Notata ex Concionibus P. Edmundi Manincor (Admontensis) Quos habuit tempore Quadragesimali in aula Academica Salisburgi
-      1680
-    locus: fol. 143r - 184r. (C
+    title: Notata ex Concionibus P. Edmundi Manincor (Admontensis) Quos habuit tempore Quadragesimali in aula Academica Salisburgi 1680
+    locus: fol. 143r - 184r
+    title_status: unspecified
   - label: o
     title: S. Benedictus Aquila
-    locus: fol. 164v - 168r.
+    locus: fol. 164v - 168r
+    title_status: unspecified
   - label: p
     title: In malam Suspicionem
-    locus: fol. 168v - 172v. (V
+    locus: fol. 168v - 172v
+    title_status: unspecified
   - label: q
     title: (Caduca sunt omnia)
-    locus: fol. 172v - 175r.
+    locus: fol. 172v - 175r
+    title_status: supplied
+    title_source: cataloguer
   - label: r
     title: De Passione Domini
-    locus: fol. 175r - 175v. I
+    locus: fol. 175r - 175v
+    title_status: unspecified
   - label: s
     title: Pulvis es, et in pulverem reverteris
-    locus: fol. 175v - 176v. (C
+    locus: fol. 175v - 176v
+    title_status: unspecified
   - label: t
     title: (De Sanctissima Trinitate)
-    locus: fol. 176v - 179r.
+    locus: fol. 176v - 179r
+    title_status: supplied
+    title_source: cataloguer
   - label: u
     title: Oratio De Passione Domini nostri Jesu Christi
-    locus: fol. 179v - 184r.
+    locus: fol. 179v - 184r
+    title_status: unspecified
   - label: v
     title: De Passione Domini nostri Jesu Christi
-    locus: fol. 184v - 186v.
+    locus: fol. 184v - 186v
+    title_status: unspecified
   - label: w
     title: Oratio de Passione Domini nostri Jesu Christi
-    locus: fol. 186v - 190v.
+    locus: fol. 186v - 190v
+    title_status: unspecified
   - label: x
     title: Symbola Varia
-    locus: fol. 191r - 195r.
+    locus: fol. 191r - 195r
+    title_status: unspecified
   - label: y
     title: 'Symbola: De fraude et fide, erecta Salisburgi in festo Corporis Christi Anno 1678'
     locus: fol. 195v - 201r
+    title_status: unspecified
   - label: z
     title: Emblemata habita in festo Corporis Christi, Salisburgi à Rhetorices Professore 1676
-    locus: fol. 201r - 208v. (I
+    locus: fol. 201r - 208v
+    title_status: unspecified
   - label: A
     title: Emblemata. De humilitate, et superbia. In festo Corporis Christi, à Musis Salisburgensibus adumbrata Anno 1677
-    locus: fol. 208v - 209v (
+    locus: fol. 208v - 209v
+    title_status: unspecified
   - label: B
     title: (Emblemata De Fide, et Fraude, Salisburgi Anno 1678, in festo Corporis Christi adumbrata)
-    locus: fol. 210r - 212r (
+    locus: fol. 210r - 212r
+    title_status: supplied
+    title_source: cataloguer
   - label: C
     title: Emblemata de Pace, et Bello à Musis Salisburgensibus adumbrata, (appensa in Scholâ Poeseos Salisburgi) Anno 1678
-    locus: fol. 212r - 216r.
+    locus: fol. 212r - 216r
+    title_status: unspecified
   - label: D
     title: Emblemata, de gratitudine, et Ingratitudine affixa in Schola Rhetorices Salisburgi. Descripta verò Anno 1678
-    locus: fol. 216r - 219r (
+    locus: fol. 216r - 219r
+    title_status: unspecified
   - label: E
-    title: Adeladi (!) Boici Orbis fulcro, Coniugi Suae Piissimae Parentat amantissimus, et maestissimus Ferdinand Maria Elector
-      (= Apparatus Funebris Piissimis Manibus Adelaidis Bavariae Ducissae, erectus in templo Divi Caietani Monachii 1676)
-    locus: fol. 219r - 221v.
+    title: Adeladi (!) Boici Orbis fulcro, Coniugi Suae Piissimae Parentat amantissimus, et maestissimus Ferdinand Maria Elector (= Apparatus
+      Funebris Piissimis Manibus Adelaidis Bavariae Ducissae, erectus in templo Divi Caietani Monachii 1676)
+    locus: fol. 219r - 221v
+    title_status: unspecified
   - label: F
-    title: Christo In terris pauperrimo Paupertatis statuam erigunt Poetae Salisburgenses. 1680 (Praeside P. Ludovico ad S.
-      Lambertum.)
-    locus: fol. 222r - 223v (
+    title: Christo In terris pauperrimo Paupertatis statuam erigunt Poetae Salisburgenses. 1680 (Praeside P. Ludovico ad S. Lambertum.)
+    locus: fol. 222r - 223v
+    title_status: unspecified
   - label: G
-    title: Deo In Caelis ditissimo Humanae Opulentiae Festum Submittunt Rhetores Salisburgenses. 1680 = Humanae Opulentiae
-      fastum, expressus per R. P. [Name schwer lesbar] Lambaci Professum, Salisburgi ([singulis] emblematis subscribitur distichon
-      elegiacum.)
-    locus: fol. 223v - 226r.
+    title: Deo In Caelis ditissimo Humanae Opulentiae Festum Submittunt Rhetores Salisburgenses. 1680 = Humanae Opulentiae fastum, expressus per
+      R. P. [Name schwer lesbar] Lambaci Professum, Salisburgi ([singulis] emblematis subscribitur distichon elegiacum.)
+    locus: fol. 223v - 226r
+    title_status: unspecified
   - label: H
     title: Deo Optimo, Maximo, Gubernatori Sapientissimo Orbem Politicum Ponunt Poetae Salisburgenses Anno 1679
-    locus: fol. 226r - 230v. (v
+    locus: fol. 226r - 230v
+    title_status: unspecified
   - label: I
     title: Deo Optimo, Maximo, Creatori Potentissimo Religionis aram ponunt Rhetores Salisburgenses. Anno 1679
-    locus: fol. 231r - 239v (
+    locus: fol. 231r - 239v
+    title_status: unspecified
   - label: J
     title: Emblemata de Vigilantia.......Consecrant Rhetores Salisburgenses 1678 (fol. 240r - 244v; additis versibus imparibus).
     locus: fol. 240r - 244v
+    title_status: unspecified
   - label: K
     title: Emblemata de Somnolentia ....Consecrant Poetae Salisburgenses, Anno 1678 fol. 244v - 247v (cum versibus imparibus).
-    locus: fol. 244v - 247v (
+    locus: fol. 244v - 247v
+    title_status: unspecified
   - label: L
     title: Patientia Victrix
-    locus: fol. 248r - 267r. (
+    locus: fol. 248r - 267r
+    title_status: unspecified
   - label: M
-    title: Dramation Musicum. In quo. Exhibentur humanae Vitae discrimina, et erga eandem Divinae providentiae argumenta.
-      In promulgatione novi magistratus maioris Congregationis Beatae Virginis Annuntiatae. ab Admodum Reverendo P. Henrico
-      Scherer Societatis Jesu tertiò nonas Aprilis Monachii exhibitum. Anno 1672 (5. Aprilis) fol. 267r - 302v.
-    locus: fol. 267r - 302v.
+    title: Dramation Musicum. In quo. Exhibentur humanae Vitae discrimina, et erga eandem Divinae providentiae argumenta. In promulgatione novi
+      magistratus maioris Congregationis Beatae Virginis Annuntiatae. ab Admodum Reverendo P. Henrico Scherer Societatis Jesu tertiò nonas Aprilis
+      Monachii exhibitum. Anno 1672 (5. Aprilis) fol. 267r - 302v.
+    locus: fol. 302v
+    title_status: unspecified
   - label: N
-    title: Dramation Musicum. In quo, Exhibetur periculosa animae Christianae pugna et gloriosus ope Divinae gratiae reportatus
-      triumphus. Cùm maior Deiparae ab Angelo salutatae sodalitas Monacensis annum ageret saecularem, et utrumque Dominum
-      Dominum Praefectum abeuntem, ac succedentem pari amore, ac veneratione complecteretur. Ab Admodum Reverendo P. Henrico
-      Scherer Societatis Jesu exhibitum Anno 1677
-    locus: fol. 303r - 322r.
+    title: Dramation Musicum. In quo, Exhibetur periculosa animae Christianae pugna et gloriosus ope Divinae gratiae reportatus triumphus. Cùm
+      maior Deiparae ab Angelo salutatae sodalitas Monacensis annum ageret saecularem, et utrumque Dominum Dominum Praefectum abeuntem, ac succedentem
+      pari amore, ac veneratione complecteretur. Ab Admodum Reverendo P. Henrico Scherer Societatis Jesu exhibitum Anno 1677
+    locus: fol. 303r - 322r
+    title_status: unspecified
   - label: O
     title: Drama De Christo patiente
-    locus: fol. 323v - 346v.
+    locus: fol. 323v - 346v
+    title_status: unspecified
   - label: P
     title: Drama De Christo patiente. Improperia Christi exprobrantis, ad mundum ingratissimum
-    locus: fol. 347r - 353v.
+    locus: fol. 347r - 353v
+    title_status: unspecified
   - label: Q
     title: Christus resurgens Phoenix redivivus
-    locus: fol. 354r - 359v (V
+    locus: fol. 354r - 359v
+    title_status: unspecified
   - label: R
     title: Panegyrica de Castitate
-    locus: fol. 360r - 365r. (La
+    locus: fol. 360r - 365r
+    title_status: unspecified
   - label: S
     title: Oratio funebris dicta in sensum sequentem Mors Clientum Marianorum, est salutaris somnus
-    locus: fol. 362v - 369r. C
+    locus: fol. 362v - 369r
+    title_status: unspecified
   - label: T
-    title: Divus Leopoldus Austriacus hoc est Pius Princeps inclytae nationis Austriacae tutelaris. In Basilica Divi Stephani
-      Protomartyris (Viennae). A Nobili adolescente Leopoldo Ignatio Se. Müller laudatur
-    locus: fol. 369r - 372v. (La
+    title: Divus Leopoldus Austriacus hoc est Pius Princeps inclytae nationis Austriacae tutelaris. In Basilica Divi Stephani Protomartyris (Viennae).
+      A Nobili adolescente Leopoldo Ignatio Se. Müller laudatur
+    locus: fol. 369r - 372v
+    title_status: unspecified
   - label: U
-    title: Sol Hungariae sive Divus Ladislaus. Regalium virtutum Splendoribus Hungariam illustrans quem sub auspiciis Augustissimi
-      Romanorum Imperatoris Leopoldi nomine Inclytae Nationis Hungariae in Basilica Divi protomartyris panegyrica dictione
-      celebravit Comes [Vorname schwer lesbar] Ferdinandus Antonius Lippay, de Zombor
-    locus: fol. 373r - 376r. (La
+    title: Sol Hungariae sive Divus Ladislaus. Regalium virtutum Splendoribus Hungariam illustrans quem sub auspiciis Augustissimi Romanorum Imperatoris
+      Leopoldi nomine Inclytae Nationis Hungariae in Basilica Divi protomartyris panegyrica dictione celebravit Comes [Vorname schwer lesbar]
+      Ferdinandus Antonius Lippay, de Zombor
+    locus: fol. 373r - 376r
+    title_status: unspecified
   - label: V
     title: Oratio Panegyrica. De S. Francisco Borgia
-    locus: fol. 378r - 397r (La
+    locus: fol. 378r - 397r
+    title_status: unspecified
   - label: W
     title: Oratio De Caelesti S. Ignatii ambitione
-    locus: fol. 397v - 418v.
+    locus: fol. 397v - 418v
+    title_status: unspecified
   - label: X
     title: Oratio. Nihil nobilitate praestantius in orbe
-    locus: fol. 415v - 420 (La
+    locus: fol. 415v - 420
+    title_status: unspecified
   - label: Y
     title: Oratio. Exoratur clementia de peccato Adami
-    locus: fol. 420v - 424v (La
+    locus: fol. 420v - 424v
+    title_status: unspecified
   - label: Z
     title: Oratio tertiis Adventus Dominica dicta
-    locus: fol. 424v - 432r.
+    locus: fol. 424v - 432r
+    title_status: unspecified
   - label: Z1
-    title: Statua Honoris Divo Ivoni inclytae facultatis Juridicae Tutelari à Nobili excellente, et Doctissimo Domino Bartholomaeo
-      Schwarzman Bavaro Sulzemosensi Artium Liberalium et Philosophiae Magistro Juris Utriusque Studioso erecta 1670 (oratio
-      panegyrica latina probabiliter Viennae habita)
-    locus: fol. 432v - 441v. (La
+    title: Statua Honoris Divo Ivoni inclytae facultatis Juridicae Tutelari à Nobili excellente, et Doctissimo Domino Bartholomaeo Schwarzman
+      Bavaro Sulzemosensi Artium Liberalium et Philosophiae Magistro Juris Utriusque Studioso erecta 1670 (oratio panegyrica latina probabiliter
+      Viennae habita)
+    locus: fol. 432v - 441v
+    title_status: unspecified
   - label: Z2
-    title: Astraea Terris Reddita, Seu Sanctus Ivo, inclytae facultatis Juridicae Tutelaris Oratoriâ dictione celebratus à
-      Joanne Ortman, Julisco Stolbergensi Artium Liberalium et Philosophiae Baccalaureo, ac pro suprema eiusdem Laureâ candidato
-      Juris Utriusque Studioso. Anno 1665. Mense Maio die 26 Viennae
-    locus: fol. 442r - 449r. (La
+    title: Astraea Terris Reddita, Seu Sanctus Ivo, inclytae facultatis Juridicae Tutelaris Oratoriâ dictione celebratus à Joanne Ortman, Julisco
+      Stolbergensi Artium Liberalium et Philosophiae Baccalaureo, ac pro suprema eiusdem Laureâ candidato Juris Utriusque Studioso. Anno 1665.
+      Mense Maio die 26 Viennae
+    locus: fol. 442r - 449r
+    title_status: unspecified
   - label: Z3
-    title: 'Digitus Dei. Sive De S. Patritio. Magno Hiberniae Apostolo, Et Thaumaturgo, Oratio Panegyrica: Pragae in Ecclesia
-      Immaculatae Conceptionis Beatae Mariae Virginis apud Admodum Reverendos Patres Hibernos, ordinis Minorum S. Francisci
-      strictae observantiae, Die 17. Aprilis Anno M.DCLXVII (1667). Habita à Reverendissimo ac Doctissimo Patre P. Georgio
-      Ignatio Castulo à Societate Jesu, Artium Liberalium & Philosophiae Doctore; nec non in Alma Caesarea Regiâque Universitate
-      Carolo Ferdinandea Pragensi Moralis Theologiae professore ordinario. Quam omnibus. Excellentissimis, Illustrissimis,
-      Nobilissimis, Et Magnificis Dominis Dominis Maecenatibus Benefactoribus, ac patronis, Ex debitae Gratitudinis imperio,
-      obsequiosissimo affectu Dicavit, consecravitque. Collegium Reverendorum Patrum Hibernorum'
-    locus: fol. 450r - 460v. (
+    title: 'Digitus Dei. Sive De S. Patritio. Magno Hiberniae Apostolo, Et Thaumaturgo, Oratio Panegyrica: Pragae in Ecclesia Immaculatae Conceptionis
+      Beatae Mariae Virginis apud Admodum Reverendos Patres Hibernos, ordinis Minorum S. Francisci strictae observantiae, Die 17. Aprilis Anno
+      M.DCLXVII (1667). Habita à Reverendissimo ac Doctissimo Patre P. Georgio Ignatio Castulo à Societate Jesu, Artium Liberalium & Philosophiae
+      Doctore; nec non in Alma Caesarea Regiâque Universitate Carolo Ferdinandea Pragensi Moralis Theologiae professore ordinario. Quam omnibus.
+      Excellentissimis, Illustrissimis, Nobilissimis, Et Magnificis Dominis Dominis Maecenatibus Benefactoribus, ac patronis, Ex debitae Gratitudinis
+      imperio, obsequiosissimo affectu Dicavit, consecravitque. Collegium Reverendorum Patrum Hibernorum'
+    locus: fol. 450r - 460v
+    title_status: unspecified
   - label: Z4
-    title: S. Ivo Juris Patronus, Miserorum Pater. Sub Allegoriâ Fontis mirabilis. Dictus et Dicatus In humillimum Obsequium,
-      et devotae mentis Affectum. Perillustri ac Generosissimo Domino Domino, J. Antonio Sacri Romani Imperii Comiti De Lamberg
-      &c &c. Domino Suo Gratioso, ab Eiusdem PerIllustris Dominationis Servorum infimo P. Augustino Khendling (= Khendlinger?)
-      Ben. S. P. S. p. t. in Praes. (= Benedictinos ad S. Petrum Salisburgi pro tempore in Praes.?)
-    locus: p.
+    title: S. Ivo Juris Patronus, Miserorum Pater. Sub Allegoriâ Fontis mirabilis. Dictus et Dicatus In humillimum Obsequium, et devotae mentis
+      Affectum. Perillustri ac Generosissimo Domino Domino, J. Antonio Sacri Romani Imperii Comiti De Lamberg &c &c. Domino Suo Gratioso, ab Eiusdem
+      PerIllustris Dominationis Servorum infimo P. Augustino Khendling (= Khendlinger?) Ben. S. P. S. p. t. in Praes. (= Benedictinos ad S. Petrum
+      Salisburgi pro tempore in Praes.?)
+    locus: fol. 461r - 466v
+    title_status: unspecified
   - label: Z5
-    title: Janus Bifrons Celsissimo, et Reverendissimo Sacri Romani Imperii Principi, ac Domino, Domino Maximiliano Gandolpho
-      Ex Sacri Romani Imperii Comitibus De Khyenburg. Archiepiscopo Salisburgensi Sanctae Sedis Apostolicae Legato. Germaniae
-      Primati &c&c. Principi ac Maecenati suo Clementissimo, In felicissimum novi anni auspicium humillimè oblatus. à musis
-      Salisburgensibus. ipsis Calendis Januarii Anno M.DC.79
-    locus: fol. 467v - 469v. (Car
+    title: Janus Bifrons Celsissimo, et Reverendissimo Sacri Romani Imperii Principi, ac Domino, Domino Maximiliano Gandolpho Ex Sacri Romani
+      Imperii Comitibus De Khyenburg. Archiepiscopo Salisburgensi Sanctae Sedis Apostolicae Legato. Germaniae Primati &c&c. Principi ac Maecenati
+      suo Clementissimo, In felicissimum novi anni auspicium humillimè oblatus. à musis Salisburgensibus. ipsis Calendis Januarii Anno M.DC.79
+    locus: fol. 467v - 469v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

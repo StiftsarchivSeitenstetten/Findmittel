@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-20",
   "signature": "MN III 20",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "171",
   "heading": {
     "title": "Liber 3. Decretalium",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1703"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 3. Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–252",
+      "locus": "p. 1–252",
       "language": "",
+      "incipits": [
+        {
+          "text": "Vocantur clerici vel quia de sorte Domini sunt....",
+          "label": "Tituli 1. De Vita et honestate Clericorum",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Vocantur clerici vel quia de sorte Domini sunt...."
+        "text": "Vocantur clerici vel quia de sorte Domini sunt....",
+        "label": "Tituli 1. De Vita et honestate Clericorum",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +80,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 4. Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 257–406",
+      "locus": "p. 257–406",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sponsi et sponsae propriè intelliguntur ii....",
+          "label": "Tituli 1. De Sponsalibus et matrimonio",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sponsi et sponsae propriè intelliguntur ii...."
+        "text": "Sponsi et sponsae propriè intelliguntur ii....",
+        "label": "Tituli 1. De Sponsalibus et matrimonio",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,15 +112,27 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 5. Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 411–662",
+      "locus": "p. 411–662",
       "language": "",
+      "incipits": [
+        {
+          "text": "Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......",
+          "label": "Tituli 1. De accusationibus, inquisitionibus et denunciationibus",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......"
+        "text": "Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......",
+        "label": "Tituli 1. De accusationibus, inquisitionibus et denunciationibus",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -186,13 +225,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 20",
     "titles": "Liber 3. Decretalium \nLiber 3. Decretalium \nLiber 4. Decretalium \nLiber 5. Decretalium",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Joannes Rigele Schreiber scribe  \nunbekannt Autor author ",
     "incipits": "Vocantur clerici vel quia de sorte Domini sunt.... \nSponsi et sponsae propriè intelliguntur ii.... \nAccusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min., 664 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n8° min., 664 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Kleines Oktavformat; 664 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\na) **Drittes Buch der Dekretalen:** S. 1–252. Anfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker:** Kleriker heißen entweder so, weil sie Anteil am Los des Herrn haben....\n\nb) **Viertes Buch der Dekretalen:** S. 257–406. Anfang des ersten Titels **Über Verlöbnisse und Ehe:** Bräutigam und Braut heißen im eigentlichen Sinn diejenigen....\n\nc) **Fünftes Buch der Dekretalen:** S. 411–662. Anfang des ersten Titels **Über Anklagen, Untersuchungen und Anzeigen:** Anklage ist die förmliche Anzeige eines Verbrechens vor dem zuständigen Richter zum Zweck öffentlicher Ahndung......\n\nZweifellos setzt und vollendet dieser Codex MN III 19. Daher gilt das dort über den unbekannten Verfasser und den möglicherweise mit P. Joannes Rigele zu identifizierenden Schreiber Gesagte entsprechend auch hier.\n\nTeil c endet S. 662 mit den Buchstaben **A. M.**; es ist jedoch sehr zweifelhaft, ob es sich um Initialen eines Eigennamens handelt. Im Seitenstettner Konvent des 17. und 18. Jahrhunderts findet sich kein Mönch, zu dem sowohl die Schrift als auch diese Initialen passen.",
+    "latin": "8° min., 664 pagg.; teg. a2; script. ca. 1703\n\na) Liber 3. Decretalium: p. 1–252. Initium Tituli 1. De Vita et honestate Clericorum: Vocantur clerici vel quia de sorte Domini sunt....\n\nb) Liber 4. Decretalium: p. 257–406. Initium Tituli 1. De Sponsalibus et matrimonio: Sponsi et sponsae propriè intelliguntur ii....\n\nc) Liber 5. Decretalium: p. 411–662. Initium Tituli 1. De accusationibus, inquisitionibus et denunciationibus: Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......\n\nSine dubio codex noster codicem MN III 19 continuat et complet. Ergo vide quae supra p. 170 de codice praecedente eiusque ignoto auctore nec non de scriptore (qui fortasse P. Joannes Rigele) dixerim. Etiamsi pars c p. 662 cum litteris A. M. concluditur, tamen valde dubitandum est, num nominis cuiusdam proprii sint initiales. Nam in conventu Seitenstettensi saeculo XVII. et XVIII. non invenitur monachus, cui et scriptura codicis nostri et litterae initiales conveniant."
   }
 }

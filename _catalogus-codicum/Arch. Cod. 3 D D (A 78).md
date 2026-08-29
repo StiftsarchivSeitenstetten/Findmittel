@@ -10,12 +10,12 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 D D (A 78)
 ms_contents:
-  title: "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774"
   items:
-  - label: "a"
-    title: "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774"
-    locus: "S. 1–193"
-    note: "Mit Serie der Oberen auf dem Sonntagberg bis 1781."
+  - label: a
+    title: Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774
+    locus: p. 15
+    note: Mit Serie der Oberen auf dem Sonntagberg bis 1781.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

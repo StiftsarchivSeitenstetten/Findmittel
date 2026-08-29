@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-6",
   "signature": "97.1.6",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "207",
   "heading": {
     "title": "Codex Provincialis oder Gedenk-Buch Deren Hochlöblichen Herren Herren Ständen des Erzherzogthums Oesterreich unter der Enns, In welchen Von denen Römischen Kaysern, Königen, und Oesterreichischen Landsfürsten, denen Hochlöblichen Nieder-Oesterreichischen Herren Herren Ständen ertheilte Freyheiten, und Immunitaeten, allergnädigst geschöpft: dises Land betreffende Resolutiones, Decreta, Rescripta, und Mandata, errichtete Receß und Abhandlungen: auch die von wohlermelten (!) (= wohlermeldten?) Hochlöblichen Herrn Herrn Ständen selbsten in politicis et Oeconomicis gemachte merkwürdige Schlüß, Sazungen und Ordnungen...... und andere Memorabilia enthalten Alles aus denen bey einer Löblichen Nieder-Oesterreichischen Landschaft Registratur verhandenen Originalschriften...... und anderen Authentischen Documenten ausgezogen, und ordine Alphabetico zusammengetragen Durch Johann Fischer, einer Löblichen Nieder-Oesterreichischen Landschaft Registranten, und Bestand: Gröll Amts Expeditorem. Anno 1723",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1723 (?)"
   },
   "date": {
@@ -22,12 +22,15 @@
   },
   "contentsOverview": {
     "title": "Codex Provincialis oder Gedenk-Buch Deren Hochlöblichen Herren Herren Ständen des Erzherzogthums Oesterreich unter der Enns, In welchen Von denen Römischen Kaysern, Königen, und Oesterreichischen Landsfürsten, denen Hochlöblichen Nieder-Oesterreichischen Herren Herren Ständen ertheilte Freyheiten, und Immunitaeten, allergnädigst geschöpft: dises Land betreffende Resolutiones, Decreta, Rescripta, und Mandata, errichtete Receß und Abhandlungen: auch die von wohlermelten (!) (= wohlermeldten?) Hochlöblichen Herrn Herrn Ständen selbsten in politicis et Oeconomicis gemachte merkwürdige Schlüß, Sazungen und Ordnungen...... und andere Memorabilia enthalten Alles aus denen bey einer Löblichen Nieder-Oesterreichischen Landschaft Registratur verhandenen Originalschriften...... und anderen Authentischen Documenten ausgezogen, und ordine Alphabetico zusammengetragen Durch Johann Fischer, einer Löblichen Nieder-Oesterreichischen Landschaft Registranten, und Bestand: Gröll Amts Expeditorem. Anno 1723",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codicis Provincialis Erster Theil Von Littera A. bis F. das ist von No 1. bis No. 672.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–670",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -156,13 +163,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.6",
     "titles": "Codex Provincialis oder Gedenk-Buch Deren Hochlöblichen Herren Herren Ständen des Erzherzogthums Oesterreich unter der Enns, In welchen Von denen Römischen Kaysern, Königen, und Oesterreichischen Landsfürsten, denen Hochlöblichen Nieder-Oesterreichischen Herren Herren Ständen ertheilte Freyheiten, und Immunitaeten, allergnädigst geschöpft: dises Land betreffende Resolutiones, Decreta, Rescripta, und Mandata, errichtete Receß und Abhandlungen: auch die von wohlermelten (!) (= wohlermeldten?) Hochlöblichen Herrn Herrn Ständen selbsten in politicis et Oeconomicis gemachte merkwürdige Schlüß, Sazungen und Ordnungen...... und andere Memorabilia enthalten Alles aus denen bey einer Löblichen Nieder-Oesterreichischen Landschaft Registratur verhandenen Originalschriften...... und anderen Authentischen Documenten ausgezogen, und ordine Alphabetico zusammengetragen Durch Johann Fischer, einer Löblichen Nieder-Oesterreichischen Landschaft Registranten, und Bestand: Gröll Amts Expeditorem. Anno 1723 \nCodicis Provincialis Erster Theil Von Littera A. bis F. das ist von No 1. bis No. 672.",
-    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "persons": "Johann Fischer Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die parenthetische Korrektur „= wohlermeldten?“ betrifft nur eine Stelle des überlieferten Gesamttitels; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \n670 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \n670 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; 670 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codex Provincialis oder Gedenk-Buch Deren Hochlöblichen Herren Herren Ständen des Erzherzogthums Oesterreich unter der Enns, In welchen Von denen Römischen Kaysern, Königen, und Oesterreichischen Landsfürsten, denen Hochlöblichen Nieder-Oesterreichischen Herren Herren Ständen ertheilte Freyheiten, und Immunitaeten, allergnädigst geschöpft: dises Land betreffende Resolutiones, Decreta, Rescripta, und Mandata, errichtete Receß und Abhandlungen: auch die von wohlermelten (!) (= wohlermeldten?) Hochlöblichen Herrn Herrn Ständen selbsten in politicis et Oeconomicis gemachte merkwürdige Schlüß, Sazungen und Ordnungen...... und andere Memorabilia enthalten Alles aus denen bey einer Löblichen Nieder-Oesterreichischen Landschaft Registratur verhandenen Originalschriften...... und anderen Authentischen Documenten ausgezogen, und ordine Alphabetico zusammengetragen Durch Johann Fischer, einer Löblichen Nieder-Oesterreichischen Landschaft Registranten, und Bestand: Gröll Amts Expeditorem. Anno 1723**\n\n**Erster Teil des Codex Provincialis, von Buchstabe A bis F, Nr. 1–672.** Die Materien sind alphabetisch geordnet.\n\nVerfasser ist **Johann Fischer**, Beamter der niederösterreichischen Stände. Der Schreiber ist unbekannt; da der Codex sehr wahrscheinlich nicht vom Verfasser selbst geschrieben wurde, ist nicht sicher, ob gerade dieses Exemplar schon 1723 entstand.\n\nDie Aufschrift auf dem Vorderdeckel **D. A. S. 1774** bedeutet nicht, dass der Codex erst 1774 geschrieben wurde, sondern lediglich, dass Abt Dominicus Gusman von Seitenstetten ihn 1774 einbinden ließ.\n\nDas Werk wird in den drei folgenden Codices fortgesetzt.",
+    "latin": "fol.; 670 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codex Provincialis oder Gedenk-Buch Deren Hochlöblichen Herren Herren Ständen des Erzherzogthums Oesterreich unter der Enns, In welchen Von denen Römischen Kaysern, Königen, und Oesterreichischen Landsfürsten, denen Hochlöblichen Nieder-Oesterreichischen Herren Herren Ständen ertheilte Freyheiten, und Immunitaeten, allergnädigst geschöpft: dises Land betreffende Resolutiones, Decreta, Rescripta, und Mandata, errichtete Receß und Abhandlungen: auch die von wohlermelten (!) (= wohlermeldten?) Hochlöblichen Herrn Herrn Ständen selbsten in politicis et Oeconomicis gemachte merkwürdige Schlüß, Sazungen und Ordnungen...... und andere Memorabilia enthalten Alles aus denen bey einer Löblichen Nieder-Oesterreichischen Landschaft Registratur verhandenen Originalschriften...... und anderen Authentischen Documenten ausgezogen, und ordine Alphabetico zusammengetragen Durch Johann Fischer, einer Löblichen Nieder-Oesterreichischen Landschaft Registranten, und Bestand: Gröll Amts Expeditorem. Anno 1723**\n\nCodicis Provincialis Erster Theil Von Littera A. bis F. das ist von No 1. bis No. 672. (Ordo rerum alphabetice dispositus est.)\n\nAuctor codicis nostri est **Joannes Fischer**, Statuum Austriae Inferioris ab officiis. Scriptor autem codicis nostri ignotus est; cum codex noster probabilissime non ab ipso auctore scriptus sit, non est certum codicem nostrum iam anno 1723 ortum esse. Sed inscriptio in parte adversa tegumenti **D. A. S. 1774** non indicat, codicem nostrum non ante annum 1774 scriptum esse, sed nil nisi codicem anno 1774 ab abbate Dominico Gusman Seitenstettensi tegumento munitum esse.\n\nCodex noster in quattuor codicibus sequentibus continuatur:"
   }
 }

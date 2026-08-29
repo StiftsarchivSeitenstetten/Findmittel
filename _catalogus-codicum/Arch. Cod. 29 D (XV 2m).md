@@ -11,18 +11,21 @@ ms_identifier:
   idno: Arch. Cod. 29 D (XV 2m)
 ms_contents:
   items:
-  - label: "a"
-    title: "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi"
-    title_type: supplied
-    note: "Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen."
-  - label: "b"
-    title: "Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi"
-    title_type: supplied
-    note: "Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen."
-  - label: "c"
-    title: "Ritus Diversi per annum occurrentes"
-    title_type: supplied
-    note: "Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen."
+  - label: a
+    title: Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi
+    note: Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi
+    note: Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: Ritus Diversi per annum occurrentes
+    note: Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

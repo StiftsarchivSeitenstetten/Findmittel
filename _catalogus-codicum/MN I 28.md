@@ -17,40 +17,43 @@ ms_identifier:
   idno: "MN I 28"
 ms_contents:
   items:
-    - item: 1
-      title: "Nota de periculo Polytheismi"
-      translation: "Vermerk über die Gefahr des Polytheismus"
-      locus: "S. 9"
-    - item: 2
-      title: "Prooemium"
-      translation: "Vorrede"
-      locus: "S. 11"
-      incipit:
-        original: "Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......"
-        translation: "An den Hörer der Theologie. Nach so vielen Lehrern der heiligen Wissenschaft, von deren Schriften die gelehrte Welt überreich ist,......"
-    - item: 3
-      title: "Tractatus De Deo Uno"
-      translation: "Abhandlung über den einen Gott"
-      locus: "S. 12–238"
-      incipit:
-        original: "Quaerere, an praefixa Quaestio Deus est existens sit nota secundum se, ...."
-        translation: "Zu untersuchen, ob die vorangestellte Frage „Existiert Gott?“ an sich bekannt ist, ...."
-    - item: 4
-      title: "Tractatus Theologicus. De Mysterio Sanctissimae Trinitatis"
-      translation: "Theologische Abhandlung über das Geheimnis der Allerheiligsten Dreifaltigkeit"
-      locus: "S. 241–253"
-      incipit:
-        original: "Auspicemur ineffabile Dei Trini Mysterium, ............"
-        translation: "Beginnen wir mit dem unaussprechlichen Geheimnis des dreieinigen Gottes, ............"
+  - item: 1
+    title: Nota de periculo Polytheismi
+    translation: Vermerk über die Gefahr des Polytheismus
+    locus: p. 9
+    title_status: unspecified
+  - item: 2
+    title: Prooemium
+    translation: Vorrede
+    locus: p. 11
+    incipits:
+    - text: Auditori Theologo. Post totidem Sacrae Doctrinae Magistros, quorum scitis abundat literarius orbis,......
+    title_status: supplied
+    title_source: cataloguer
+  - item: 3
+    title: Tractatus De Deo Uno
+    translation: Abhandlung über den einen Gott
+    locus: p. 12–238
+    incipits:
+    - text: Quaerere, an praefixa Quaestio Deus est existens sit
+    title_status: unspecified
+  - item: 4
+    title: Tractatus Theologicus. De Mysterio Sanctissimae Trinitatis
+    translation: Theologische Abhandlung über das Geheimnis der Allerheiligsten Dreifaltigkeit
+    locus: p. 241–253
+    incipits:
+    - label: Praefationis
+      text: Auspicemur ineffabile Dei Trini Mysterium, ............
+    title_status: unspecified
   responsibility:
-    - role: "author_and_lecturer"
-      name: "P. Caelestin Pley"
-    - role: "scribes"
-      name: "sechs nicht namentlich bekannte Hände"
+  - role: author_and_lecturer
+    name: P. Caelestin Pley
+  - role: scribes
+    name: sechs nicht namentlich bekannte Hände
   relations:
-    - type: "same_lectures_as"
-      target: "MN II 226"
-      locus_in_target: "S. 3–342"
+  - type: same_lectures_as
+    target: MN II 226
+    locus_in_target: S. 3–342
 phys_desc:
   object_form: "codex"
   format: "Folio"

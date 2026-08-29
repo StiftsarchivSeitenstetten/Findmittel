@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-263",
   "signature": "MN II 263",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "199–200",
   "heading": {
     "title": "De Sponsalibus",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1715"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "De Sponsalibus",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Sponsalibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–41v",
       "language": "",
+      "incipits": [
+        {
+          "text": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro"
+        "text": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -136,13 +149,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-263/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 263",
     "titles": "De Sponsalibus \nDe Sponsalibus",
-    "persons": "P. Hieronymus Hueber Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Hieronymus Hueber Schreiber scribe Seitenstetten \nunbekannt Autor author ",
     "incipits": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n43 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n43 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "43 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1715.\n\n**Über Verlöbnisse:** fol. 1r–41v.\n\nAnfang des ersten Kapitels **Über die erste Bedingung der Verlöbnisse, dass sie ein gegenseitiges Versprechen seien:** Zu beachten ist erstens: Verlöbnisse heißen teils solche über die Gegenwart, teils solche über die Zukunft;.....\n\nDer Verfasser ist unbekannt. Aus der Ähnlichkeit der Schrift vermute ich jedoch, dass **P. Hieronymus Hueber** der Schreiber war; daher dürfte der Codex um 1715 entstanden sein, allerdings nicht ohne Zweifel.\n\n> **Handschriftlicher Nachtrag am unteren Rand:** nur teilweise lesbar; nicht sicher transkribiert.",
+    "latin": "43 foll.; teg. a1; script. ca. 1715\n\n**De Sponsalibus:** fol. 1r–41v.  \nInitium Capitis Primi. De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro;.....\n\nAuctor ignotus; scriptorem vero esse **P. Hieronymum Hueber** e similitudine scribendi coniicio, ideoque codicem circa annum 1715 ortum esse, sed non sine dubiis.\n\n> **Handschriftlicher Nachtrag am unteren Rand:** nur teilweise lesbar; nicht sicher transkribiert."
   }
 }

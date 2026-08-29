@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "xc",
   "signature": "XC",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "3",
   "heading": {
     "title": "Arztney Biechl",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "16. Jahrhundert"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Arztney Biechl",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Arztney Biechl",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 201 - 202",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/xc/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "XC",
     "titles": "Arztney Biechl \nArztney Biechl",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Das Werk ist verstümmelt.",
-    "physical": "Papier \n8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo \nKleines Oktavformat \ncode: c3; description: Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo \nKleines Oktavformat \ncode: c3; description: Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 91 Blätter; geschrieben im 16. Jahrhundert; brauner Pappeinband mit gelbem Rücken.\n\n**Arztney Biechl**\n\nDas Werk ist verstümmelt; Verfasser und Schreiber sind unbekannt. Mehr im alten *Catalogus Codicum Manuscriptorum*, Bd. I, S. 201–202, wo der Codex dem 16. oder 17. Jahrhundert zugeschrieben wird.",
+    "latin": "8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo\n\nArztney Biechl\n\nOpus mutilum; auctor et scriptor ignoti; plura in vetere Cat. Cod. Manuscriptorum, Tom. I, p. 201 - 202, ubi hic codex saec. XVI. vel XVII. adscribitur."
   }
 }

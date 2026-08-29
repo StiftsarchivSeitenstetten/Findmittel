@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 33
 ms_contents:
-  title: "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724"
   items:
-  - label: "a"
-    title: "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724"
-    locus: "S. 1–186"
+  - label: a
+    title: Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724
+    locus: S. 1–186
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

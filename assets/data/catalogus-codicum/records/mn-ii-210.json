@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-210",
   "signature": "MN II 210",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "157–158",
   "heading": {
     "title": "Tractatus Theologicus De Incarnatione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nach 1694, vor 1700"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologicus De Incarnatione",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Incarnatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–437",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Proemii",
+          "text": "Obiectum huius tractatus est unum verbum,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 437",
+          "text": "Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Proemii",
+        "text": "Obiectum huius tractatus est unum verbum,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 437",
+        "text": "Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -151,13 +180,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-210/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 210",
     "titles": "Tractatus Theologicus De Incarnatione \nTractatus Theologicus De Incarnatione",
-    "persons": "P. Honorius Aigner Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Nach der Schlussformel schloss der Vortragende an diesem Tag seinen gesamten Kurs ab.",
-    "physical": "Papier \n442 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "persons": "P. Honorius Aigner Dozent lecturer Kremsmünster / Universität Salzburg \nFr. Udiscalcus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Obiectum huius tractatus est unum verbum,....",
+    "explicits": "Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......",
+    "notes": "Nach der Schlussformel schloss der Vortragende an diesem Tag seinen gesamten Kurs ab. \nP. V. H. 1705",
+    "physical": "Papier \n442 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "442 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nach 1694 und vor 1700.\n\n**Theologische Abhandlung über die Menschwerdung.**\n\nAnfang der Vorrede S. 1: Gegenstand dieser Abhandlung ist das eine Wort..... Schluss S. 437: **Wir beendeten diese Abhandlung am 13. Juli unter dem berühmten P. Honorius Aigner**, Profess von Kremsmünster und Professor in Salzburg, der an diesem Tag seinen ganzen Kurs abgeschlossen hatte.\n\nAuch in diesem Codex findet sich auf der Innenseite des Vorderdeckels die Notiz **P. V. H. 1705**. Die Schrift verrät als Schreiber Fr. Udiscalcus Hueber, der auch die vier vorhergehenden Codices schrieb.\n\nDas genaue Jahr ist unbekannt; sicher ist nur, dass der Codex während seiner theologischen Studien in Salzburg zwischen November 1695 und Oktober 1699 entstand.",
+    "latin": "442 pagg.; teg. a1; script. post 1694, ante 1700\n\nTractatus Theologicus. De incarnatione.\n\nInitium Proemii p. 1: Obiectum huius tractatus est unum verbum,....  \nClausula p. 437: Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......\n\nEtiam in codice nostro reperies litteras initiales in adversa parte tegumenti ab intrinsecus: P. V. H. 1705. Quid haec indicent, vide supra p. 155 ad codicem MN II 211. Insuper scriptura prodit scriptorem, dico F. Udiscalcum Hueber, qui etiam quattuor codices praecedentes (et eadem scriptura praeditos) exaravit. Quo autem anno exaraverit codicem nostrum, incertum est, certo autem dum Sacrosanctae Theologiae studuit, scilicet a mense Novembri 1695 usque ad mensem octobrem 1699."
   }
 }

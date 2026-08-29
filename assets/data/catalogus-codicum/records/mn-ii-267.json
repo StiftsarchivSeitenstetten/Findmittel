@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-267",
   "signature": "MN II 267",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "211–212",
   "heading": {
     "title": "Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1727"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–216",
+      "locus": "p. 3–216",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -140,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-267/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 267",
     "titles": "Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727 \nArgumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727",
-    "persons": "Georgius Pasócger Dozent lecturer \nMathias Viehpaur scribe and student scribe_and_student",
+    "persons": "Georgius Pasócger Dozent lecturer  \nMathias Viehpaur scribe and student scribe_and_student ",
     "incipits": "",
     "explicits": "",
     "notes": "Deutsche Themen zur alten Geschichte mit lateinischen Übersetzungen und korrigierten Fassungen.",
-    "physical": "Papier \n224 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Farbangaben siehe Katalogtext."
+    "physical": "Papier \n224 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Farbangaben siehe Katalogtext.",
+    "german": "224 Seiten; Halblederband: Vorder- und Rückdeckel braun, Rücken und Kanten rehbraun; geschrieben 1727.\n\n**Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727:** S. 3–216.\n\nNotiz S. 2: **Dieses Correcten Puech ist Zugehörig den Mathia Vierbaur (!) 1. 7. 2. 6.**\n\nDieses Buch entstand folgendermaßen: Der Lehrer Georg Pasócger diktierte täglich einige Themen in deutscher Sprache; sein Schüler Matthias Viehpaur übersetzte sie ins Lateinische, legte sie danach dem Lehrer zur Korrektur vor und schrieb schließlich die korrigierten Fassungen zusammen mit den deutschen Themen in unseren Codex.\n\nDieser Mathias Viehpaur ist wahrscheinlich identisch mit P. Amandus Viechbauer, geboren 1713, Profess in Seitenstetten 1735. Auf S. 18 schreibt unser Schreiber seinen Namen: **Ego Mathias Vichbaur!**\n\nGeorgius Pasócger war kein Seitenstettner Mönch.\n\nNotiz S. 1: **An gottes Segen ist alles gelegen. Deo Laus Semper Anno 1727**\n\nDie diktierten Themen behandeln Ereignisse der alten Geschichte.",
+    "latin": "224 pagg.; teg. d (partes adversa et aversa fusci, dorsum et extrema cervini coloris); script. 1727\n\n**Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727:** p. 3–216. Nota p. 2: **Dieses Correcten Puech ist Zugehörig den Mathia Vierbaur (!) 1. 7. 2. 6.**\n\nHic liber ita ortus est, ut magister Georgius Pasócger quottidie quaedam themata lingua Germanica dictaverit, discipulus vero Matthias Viehpaur haec themata in Linguam Latinam verterit, deinde magistro corrigenda proposuerit, postremo correcta codici nostro una cum thematibus Germanicis inscripserit.\n\nMathias ille Viehpaur probabiliter idem est atque P. Amandus Viechbauer, qui anno 1713 natus 1735 in monasterio Seitenstettensi vota nuncupavit. (p. 18 Scriptor noster nomen suum ita signat: **Ego Mathias Vichbaur!**)\n\nGeorgius Pasócger non fuit monachus Seitenstettensis.\n\nNota p. 1: **An gottes Segen ist alles gelegen. Deo Laus Semper Anno 1727**\n\nThemata dictata sunt de rebus gestis temporum antiquorum."
   }
 }

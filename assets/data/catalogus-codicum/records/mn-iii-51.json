@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-51",
   "signature": "MN III 51",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "256",
   "heading": {
     "title": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1778"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–137",
+      "locus": "p. 1–137",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Register",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 138–140",
+      "locus": "p. 138–140",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -144,13 +155,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-51/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 51",
     "titles": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778 \nGebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778 \nRegister",
-    "persons": "Johann Joachim Plättnesleutner Schreiber scribe",
+    "persons": "Johann Joachim Plättnesleutner Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n16° \nSedezformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+    "physical": "Papier \n16° \nSedezformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+    "german": "Sedezformat; 140 Seiten; schwarzer Ledereinband, Rücken und Kanten mit feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1778.\n\n**Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:** S. 1–137; mit **Register** S. 138–140.\n\nDie Überschriften dieses Büchleins sind in vielen Farben ausgemalt. Außerdem sind mehrere Kupferstiche eingefügt, die ein Künstler namens **Kollanetz** gestochen hat.\n\nDer Schreiber nennt sich S. 125: **Johann Joachim Plättnesleutner**; seine Initialen stehen auch S. 134: **I. I. P. 1.7. .7.8.**",
+    "latin": "16°; 140 pagg.; teg. b2, dorsum marginesque teneris ornamentis impressis et inauratis decorata; script. 1778\n\n**Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:** p. 1–137 cum indice: Register p. 138–140\n\nInscriptiones huius libelli multis coloribus fucatae sunt. Insertae sunt etiam aliquot delineationes chalcographicae, quas artifex quidam nomine **Kollanetz** sculpsit.\n\nScriptor nomen suum prodit p. 125: **Johann Joachim Plättnesleutner**, initiales litteras etiam p. 134: **I. I. P. 1.7. .7.8.**"
   }
 }

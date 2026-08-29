@@ -10,13 +10,17 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–17 (XVIII 3 h)
 ms_contents:
-  title: "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis."
   items:
-  - label: "a"
-    title: "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis."
-    locus: "S. 1–770"
-    incipit: "Explicatis praecedenti anno tribus novae legis sacramentis......"
-    note: "Rückenaufschrift: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio."
+  - label: a
+    title: Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.
+    locus: S. 1–770
+    note: 'Rückenaufschrift: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.'
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: 'Explicatis praecedenti anno tribus novae legis sacramentis...... Inscriptio dorsi: MS. F. Ernesti Weissenberger Seittenstettensis
+        de Poenitentia, Extrema Unctione ordine et Matrimonio.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,12 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 223
 ms_contents:
-  title: Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio
   items:
   - label: a
     title: Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio
-    locus: S. 5–338
+    locus: p. 5
     end_date: '1704-08-30'
+    incipits:
+    - locus: p. 5
+      text: Paraphrasis tituli Summarium nuncupare placuit tractatum hunc aureum.....
+    colophons:
+    - locus: p. 338
+      text: Absolvimus 30 Augusti 1704
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

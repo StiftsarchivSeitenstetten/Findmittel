@@ -9,21 +9,27 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 302
 ms_contents:
-  title: "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit"
   items:
   - label: a
-    title: "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit"
-    locus: S. 1–371 (?)
-    note: 139 Kapitel mit deutschen, französischen und lateinischen Texten sowie Übersetzungen. Der Katalog erklärt „gues“ als erhaltenen Rest von „langues“; der Titel wurde nicht stillschweigend korrigiert.
+    title: 'Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par
+      Frè Benoit Walcher, de l'' ordre de S: Benoit'
+    locus: p. 1–371
+    note: 139 Kapitel mit deutschen, französischen und lateinischen Texten sowie Übersetzungen. Der Katalog erklärt „gues“ als erhaltenen Rest
+      von „langues“; der Titel wurde nicht stillschweigend korrigiert.
+    title_status: unspecified
   - label: a.82
-    title: 'Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764'
-    locus: S. 222–226
+    title: 'Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P:
+      M: Lind: ord: S: B: prof: Lemb: 1764'
+    locus: p. 222–226
+    title_status: unspecified
   - label: a.117
     title: Oratio in honorem S. Scholasticae a me tempore Novitiatus mei dicta. 1769
-    locus: S. 321–322
+    locus: p. 321–322
+    title_status: unspecified
   - label: b
     title: Table Des Matieres
-    locus: S. 372–380
+    locus: p. 372–380
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

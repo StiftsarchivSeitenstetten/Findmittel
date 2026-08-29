@@ -12,21 +12,22 @@ ms_contents:
   items:
   - label: a
     title: Tractatus quartus decimus De Virtute et Sacramento Poenitentiae
-    locus: S. 5–381
+    locus: p. 5–381
     start_date: '1701-11-08'
-    dated_clausula:
-      locus: S. 346
-      date: '1702-04-08'
-      time_display: gegen halb neun Uhr vormittags
-      note: Samstag vor Palmsonntag.
+    title_status: unspecified
   - label: b
     title: Tractatus quintus decimus De Sacramentis Extremae Unctionis, Ordinis et Matrimonii
-    locus: S. 387–490
+    locus: p. 387–490
     start_date: '1702-05-15'
     dated_note:
       locus: S. 423
       date_display: 4. Juli 1702
-  course_numbering_note: Die Nummern 14 und 15 beziehen sich wahrscheinlich auf den gesamten theologischen Kurs P. Carolus Schrenks, nicht allein auf die Abhandlungen zum dritten Teil der Summa.
+    incipits:
+    - locus: p. 388
+      text: Adverte primo Extremam unctionem esse ......
+    title_status: unspecified
+  course_numbering_note: Die Nummern 14 und 15 beziehen sich wahrscheinlich auf den gesamten theologischen Kurs P. Carolus Schrenks, nicht allein
+    auf die Abhandlungen zum dritten Teil der Summa.
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-119",
   "signature": "MN II 119",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "75",
   "heading": {
-    "title": "(Logica): p. 1–992.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Logica",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1671"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "(Logica): p. 1–992.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,47 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Logica): p. 1–992.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Logica",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 1–992",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "text": "Ingressuri stadium (!) Philosophicum à logica incipimus........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 992",
+          "text": "absolvimus 13 Julii. 1671 incoepimus 7 Januarii.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "text": "Ingressuri stadium (!) Philosophicum à logica incipimus........",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 992",
+        "text": "absolvimus 13 Julii. 1671 incoepimus 7 Januarii.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Logica): p. 1–992."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -119,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-119/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 119",
-    "titles": "(Logica): p. 1–992. \n(Logica): p. 1–992.",
+    "titles": "Logica \nLogica",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n993 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "incipits": "Ingressuri stadium (!) Philosophicum à logica incipimus........",
+    "explicits": "absolvimus 13 Julii. 1671 incoepimus 7 Januarii.",
+    "notes": "(Logica): p. 1–992.",
+    "physical": "Papier \n993 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "993 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1671.\n\n**(Logik):** S. 1–992.\n\nAnfang der Vorrede S. 1: Im Begriff, die philosophische Laufbahn zu betreten, beginnen wir mit der Logik........ Schluss S. 992: Wir beendeten [dies] am 13. Juli 1671; begonnen hatten wir am 7. Januar.\n\nDie Jahreszahl 1671 findet sich auch am oberen Rand von S. 546. Auf dieser Seite ist, offenbar vom Schreiber selbst, der Porphyrianische Baum mit Feder und Tinte gezeichnet. Auf dem Stamm des Baumes lässt sich deutlich der Name **Frater Meinradus Higger** erkennen.\n\nDer Verfasser ist unbekannt.",
+    "latin": "993 pagg.; teg. a1; script. 1671\n\n(Logica): p. 1–992.\n\n_Initium_ Prooemii p. 1: Ingressuri stadium (!) Philosophicum à logica incipimus........ _Clausula_ p. 992: absolvimus 13 Julii. 1671 incoepimus 7 Januarii.\n\nNumerus anni 1671 invenitur etiam p. 546 in margine superiore. Qua in pagina (uti videtur ab ipso scribente codicem) Arbor Porphyriana calamo atramentoque depicta est. Cuiusvis in arboris stipite nomen **Frater Meinradus Higger** facile reperies.\n\nAuctor ignotus."
   }
 }

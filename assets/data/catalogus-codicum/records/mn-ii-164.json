@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-164",
   "signature": "MN II 164",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "117",
   "heading": {
     "title": "Rechenbuech Mit der Ziffer auf allerley Haus- und Kauffmans-Rechnung",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1688"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Rechenbuech Mit der Ziffer auf allerley Haus- und Kauffmans-Rechnung",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Rechenbuch mit der Ziffer auf allerlei Haus- und Kaufmannsrechnung",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -162,13 +169,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-164/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 164",
     "titles": "Rechenbuech Mit der Ziffer auf allerley Haus- und Kauffmans-Rechnung \nRechenbuch mit der Ziffer auf allerlei Haus- und Kaufmannsrechnung",
-    "persons": "Jacobus Ferdinandus Gererstorffer Autor author \nJacobus Ferdinandus Gererstorffer Schreiber scribe \nP. Anselmus Gererstorffer unspecified unspecified",
+    "persons": "Jacobus Ferdinandus Gererstorffer Autor author Seitenstetten \nJacobus Ferdinandus Gererstorffer Schreiber scribe  \nP. Anselmus Gererstorffer unspecified unspecified ",
     "incipits": "",
     "explicits": "",
-    "notes": "Als Lehrbuch in Frage und Antwort angelegt.",
-    "physical": "Papier \n470 pagg. \ndescription: Einband aus einem Fragment eines gedruckten Missale zum Beginn der Fastenzeit; der Rücken ist abgeschnitten."
+    "notes": "Als Lehrbuch in Frage und Antwort angelegt. \nAll mein Anfang Zu diser Frist\nDaß sey im Namen Unsers Herrn Jesu Christ.\nDer Verleyhe mir sein Göttliche gnadt.\nVleisßig Zulehrnen frue Und spatt. \nmonachus Seitenstett.",
+    "physical": "Papier \n470 pagg. \ndescription: Einband aus einem Fragment eines gedruckten Missale zum Beginn der Fastenzeit; der Rücken ist abgeschnitten.",
+    "german": "470 Seiten; Einband aus einem Fragment eines gedruckten Missale beim Beginn der Fastenzeit; der Rücken ist abgeschnitten; geschrieben 1688.\n\n**Rechenbuech Mit der Ziffer auf allerley Haus: Unnd Kauffmans Rechnung Vortheillig Zumachen, Gründtlich beschriben, auch In frag Und Antwort gestelt, durch Jacobum Ferdinandum Gererstorffer, Welcher Darzue Angefangen hat. den 16. Septembris Anno 1688.**\n\n**All mein Anfang Zu diser Frist  \nDaß sey im Namen Unsers Herrn Jesu Christ.  \nDer Verleyhe mir sein Göttliche gnadt.  \nVleisßig Zulehrnen frue Und spatt.**\n\n[rechts:] **monachus Seitenstett.** = Seitenstettner Mönch.\n\nDer Verfasser dieses Buches kann kaum P. Anselmus Gererstorffer sein, der 1680 geboren wurde und wohl nicht bereits 1688 ein Lehrbuch der Rechenkunst verfassen konnte. Er war aber sicher mit diesem P. Anselmus verwandt. Wahrscheinlich schrieb der Verfasser den Codex eigenhändig, doch ist dies nicht sicher.",
+    "latin": "470 pagg.; tegumentum est fragmentum libri missalis typis impressi (ad caput Quadragesimae); dorsum abscissum; script. 1688\n\nRechenbuech Mit der Ziffer auf allerley Haus: Unnd Kauffmans Rechnung Vortheillig Zumachen, Gründtlich beschriben, auch In frag Und Antwort gestelt, durch Jacobum Ferdinandum Gererstorffer, Welcher Darzue Angefangen hat. den 16. Septembris Anno 1688.\n\nAll mein Anfang Zu diser Frist  \nDaß sey im Namen Unsers Herrn Jesu Christ.  \nDer Verleyhe mir sein Göttliche gnadt.  \nVleisßig Zulehrnen frue Und spatt.\n\n[rechts:] monachus Seitenstett.\n\nAuctor huius libri vix potest esse P. Anselmus Gererstorffer, quippe, qui anno 1680 natus non facile anno 1688 librum ad instruendum in arte ratiocinandi componere potuerit. At certe consanguinitate iunctus erat cum illo P. Anselmo. Veri simile est, auctorem sua manu scripsisse codicem nostrum, sed non est certum."
   }
 }

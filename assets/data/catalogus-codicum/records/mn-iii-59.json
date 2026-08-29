@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-59",
   "signature": "MN III 59",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "271",
   "heading": {
     "title": "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "kurz vor 1800"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–264",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-59/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 59",
     "titles": "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen \nGuter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Grauer Pappeinband mit braunem Lederrücken und eingeprägten Verzierungen."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Grauer Pappeinband mit braunem Lederrücken und eingeprägten Verzierungen.",
+    "german": "Oktavformat; 264 Seiten; grauer Pappeinband mit braunem Lederrücken und eingeprägten Verzierungen.\n\n**Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen**\n\nWeder Schreiber noch Verfasser dieses Andachtsbuches sind bekannt. Dass es kurz vor 1800 entstand, zeigt die Vorrede:\n\n**„.....Dies bezeuget, dieses ruft jedem wahren Menschenfreunde, jedem redlichen Forscher der Wahrheit, jedem klugen beförderer des guten am Ende des 18ten Jahrhunderts laut zu die Erfahrung:“**",
+    "latin": "8°; 264 pagg.; tegumentum cani cum dorso scorteo fusci coloris; tegumento (chartaceo) quaedam ornamenta impressa sunt.\n\n**Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen**\n\nNeque quis hunc librum devotionum scripserit neque quis composuerit scio. Sed paulo ante annum 1800 compositum esse codicem nostrum praefatio indicat dicens: **„.....Dies bezeuget, dieses ruft jedem wahren Menschenfreunde, jedem redlichen Forscher der Wahrheit, jedem klugen beförderer des guten am Ende des 18ten Jahrhunderts laut zu die Erfahrung:“**"
   }
 }

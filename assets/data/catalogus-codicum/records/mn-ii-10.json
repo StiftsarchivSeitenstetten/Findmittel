@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-10",
   "signature": "MN II 10",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "10",
   "heading": {
     "title": "Tractatus de Virtutibus Fide, Spe, et Charitate",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1620"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Tractatus de Virtutibus Fide, Spe, et Charitate",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Virtutibus Fide, Spe, et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1r–196v",
+      "locus": "fol. 1r - 196v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Disputant scolastici Theologi De fide.....",
+          "locus": "fol. 1r",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Disputant scolastici Theologi De fide....."
+        "text": "Disputant scolastici Theologi De fide.....",
+        "locus": "fol. 1r",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -152,13 +167,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 10",
     "titles": "Tractatus de Virtutibus Fide, Spe, et Charitate \nTractatus de Virtutibus Fide, Spe, et Charitate",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "Disputant scolastici Theologi De fide.....",
     "explicits": "",
     "notes": "Vermerk Bl. 200v: in ista materia sunt octo in universum [lectiones].",
-    "physical": "Papier \nII + 202 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \nII + 202 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "II + 202 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; um 1620 (wie MN II 9).\n\n**Abhandlung über die Tugenden Glaube, Hoffnung und Liebe:** Bl. 1r–196v.\n\nAnfang Bl. 1r: **Die scholastischen Theologen disputieren über den Glauben.....**\n\nVermerk Bl. 200v: **In diesem Stoff gibt es insgesamt acht [Vorlesungen].**\n\nDer Verfasser ist unbekannt. Es ist erkennbar, dass mehrere Hände diesen Codex geschrieben haben, und zwar dieselben wie Codex MN II 9 (siehe oben S. 9!).",
+    "latin": "II + 202 foll.; teg. a1; ca annum 1620 (ut MN II 9)\n\nTractatus de Virtutibus Fide, Spe, et Charitate: fol. 1r - 196v.\n\nInitium fol. 1r: Disputant scolastici Theologi De fide.....\n\nNota fol. 200v: in ista materia sunt octo in universum [lectiones].\n\nAuctor ignotus; apparet plures manus hunc codicem conscripsisse atque easdem ut codicem MN II 9 (vide supra p. 9!)."
   }
 }

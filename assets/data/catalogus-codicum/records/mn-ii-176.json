@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-176",
   "signature": "MN II 176",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "135–136",
   "heading": {
     "title": "Tractatus De Sacramentis in genere",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1693"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–165r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Gratia quae nobis profluxit ex passione, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Gratia quae nobis profluxit ex passione, ......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +80,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Baptismo et Confirmatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 166r–213v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Controversia Prima. De Baptismo. Inter Sacramenta in specie, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Controversia Prima. De Baptismo. Inter Sacramenta in specie, ......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -81,15 +110,35 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Venerabili Eucharistia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 215r–269r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Controversia Prima. De Venerabili Eucharistia prout est sacramentum. Omissis variis nominibus, quibus appellari solet......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 29 Augusti 1693. Hora tertia pomeridiana.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Controversia Prima. De Venerabili Eucharistia prout est sacramentum. Omissis variis nominibus, quibus appellari solet......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus 29 Augusti 1693. Hora tertia pomeridiana.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -198,13 +247,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 176",
     "titles": "Tractatus De Sacramentis in genere \nTractatus De Sacramentis in genere \nTractatus De Baptismo et Confirmatione \nTractatus De Venerabili Eucharistia",
-    "persons": "P. Edmund Ruedorffer author or lecturer author_or_lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Edmund Ruedorffer author or lecturer author_or_lecturer Kloster Lambach / Universität Salzburg \nFr. Gabriel Sumadtinger Schreiber scribe Seitenstetten",
+    "incipits": "Gratia quae nobis profluxit ex passione, ...... \nControversia Prima. De Baptismo. Inter Sacramenta in specie, ...... \nControversia Prima. De Venerabili Eucharistia prout est sacramentum. Omissis variis nominibus, quibus appellari solet......",
+    "explicits": "Absolvimus 29 Augusti 1693. Hora tertia pomeridiana.",
     "notes": "",
-    "physical": "Papier \n274 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n274 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "274 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1693.\n\na) **Abhandlung über die Sakramente im Allgemeinen:** fol. 1r–165r. Anfang der Vorrede: Die Gnade, die uns aus dem Leiden zufloss,......\n\nb) **Abhandlung über Taufe und Firmung:** fol. 166r–213v. Anfang: Erste Kontroverse über die Taufe. Unter den Sakramenten im Einzelnen......\n\nc) **Abhandlung über die ehrwürdige Eucharistie:** fol. 215r–269r. Anfang: Erste Kontroverse über die ehrwürdige Eucharistie, insofern sie Sakrament ist. Unter Übergehung der verschiedenen Namen, mit denen sie bezeichnet wird...... Schluss: **Wir beendeten [dies] am 29. August 1693 um drei Uhr nachmittags.**\n\nInitialen auf dem Vorderdeckel: **F G S P S 1694**. Daher besteht kein Zweifel, dass Fr. Gabriel Sumadtinger, Profess von Seitenstetten, auch diesen Codex schrieb.\n\nDieselben Abhandlungen finden sich in MN II 185 und MN II 189. MN II 185 nennt P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg, als Vortragenden; damit ist auch der Verfasser unseres Codex bestimmt.",
+    "latin": "274 foll.; teg. a2; script. 1693\n\na) Tractatus De Sacramentis in genere: fol. 1r–165r. Initium Prooemii: Gratia quae nobis profluxit ex passione, ......\n\nb) Tractatus De Baptismo, et Confirmatione: fol. 166r–213v. Initium: Controversia Prima. De Baptismo. Inter Sacramenta in specie, ......\n\nc) Tractatus De Venerabili Eucharistia: fol. 215r–269r. Initium: Controversia Prima. De Venerabili Eucharistia prout est sacramentum. Omissis variis nominibus, quibus appellari solet...... Clausula: Absolvimus 29 Augusti 1693. Hora tertia pomeridiana.\n\nLitterae initiales in parte adversa tegumenti: F G S P S 1 6 9 4  \nQua de causa non est dubitandum, quin etiam codicem nostrum F. Gabriel Sumadtinger Professus Seittenstettensis scripserit. Eosdem autem tractatus reperies in codicibus MN II 185 et 189 (quos vide inferius!) Quod in codice MN II 185 nuntiatur P. Edmundum Ruedorffer Professum Lambacensem et Professorem Salisburgensem hos tractatus dictavisse, etiam auctorem codicis nostri scimus."
   }
 }

@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 263
 ms_contents:
-  title: De Sponsalibus
   items:
   - label: a
     title: De Sponsalibus
     locus: fol. 1r–41v
-    incipit: 'De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro'
+    incipits:
+    - text: 'De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

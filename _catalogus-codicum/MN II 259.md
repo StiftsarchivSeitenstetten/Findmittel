@@ -14,21 +14,29 @@ ms_contents:
   - label: a
     title: Proemium
     locus: fol. 1r–2r
-    incipit: Agredimur (!) Deo Auspice totius Theologiae difficillimam partem
+    incipits:
+    - text: Agredimur (!) Deo Auspice totius Theologiae difficillimam partem, .........
+    title_status: unspecified
   - label: b
     title: Disputatio prolegomena (!). De necessitate, natura, et qualitate Theologiae
     locus: fol. 2r–33r
-    incipit: Existere in rerum naturâ
+    incipits:
+    - text: Existere in rerum naturâ....
+    title_status: unspecified
   - label: c
     title: Pars Prima. De Deo Uno
     locus: fol. 33v–193r
-    incipit: 'Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam'
+    incipits:
+    - text: 'Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam..'
+    title_status: unspecified
   - label: d
     title: Pars Secunda. De Deo Trino
-    title_type: supplied
     locus: fol. 193r–207r
-    incipit: Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis
     note: Nur die Inhaltsbezeichnung „De Deo Trino“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    incipits:
+    - text: Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis ........
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

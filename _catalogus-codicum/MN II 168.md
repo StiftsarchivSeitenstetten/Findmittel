@@ -12,18 +12,37 @@ ms_contents:
   items:
   - label: a
     title: Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae
-    locus: S. 5–573
+    locus: p. 5 - 573
     note: Der Verfasser gibt an, bereits acht Jahre zuvor über die Buße vorgetragen zu haben.
+    incipits:
+    - locus: p. 5
+      label: Proloquii
+      text: Reiicior in portum, unde ante octennium solveram, et diuturno labore altum Theologiae pelagus emensus fueram.....
+    title_status: unspecified
   - label: b
     title: Tractatus De sacramento extremae Unctionis
-    locus: S. 573–588
+    locus: p. 573 - 588
+    incipits:
+    - locus: p. 583
+      text: Nomine extremae unctionis intelligitur illa unctio.....
+    title_status: unspecified
   - label: c
     title: Tractatus De sacramento Ordinis
-    locus: S. 588–622
+    locus: p. 588 - 622
+    incipits:
+    - locus: p. 588
+      text: Agimus nunc de sacramentis quibus homo perficitur......
+    title_status: unspecified
   - label: d
     title: Tractatus De sacramento Matrimonii
-    locus: S. 622–679
-    completeness: incomplete
+    locus: p. 622 - 679
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - locus: p. 622
+      text: Speciales huius materiae difficultates integro anno Tractant Canonistae....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

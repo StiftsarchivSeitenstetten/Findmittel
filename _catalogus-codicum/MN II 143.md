@@ -15,10 +15,29 @@ ms_contents:
     title: Compendium Institutionum Dialecticarum
     locus: fol. 1–42
     end_date: '1684-12-09'
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Praemitti semper solent Summulae,....
+    colophons:
+    - locus: fol. 42r
+      text: Absolvimus auxiliante Deo hoc compendium Dialecticarum Die 9. Decembris anteprandium. 1684.
+    title_status: unspecified
   - label: b
     title: Disputationum Philosophicarum Tractatus Primus In Universam Aristotelis Logicam
-    locus: fol. 1–301 (=45–345)
+    locus: fol. 1–301
     end_date: '1685-05-25'
+    incipits:
+    - locus: fol. 1
+      label: Prologi
+      text: Multi liberalium inimici artium....
+    - locus: p. IX
+      text: Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....
+    colophons:
+    - locus: fol. 301
+      text: Absolvimus die 25 Maii....1685. F. Adamus Weissenhoffer scripsit etiam duos sequentes codices. Easdem partes continet Cod. MN II 146.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

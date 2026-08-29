@@ -12,14 +12,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 17
 ms_contents:
-  title: "In Organum Aristotelis Disputationes."
   items:
-  - label: "a"
-    title: "In Organum Aristotelis Disputationes."
-    locus: "S. 1r–476"
-    incipit: "Aggressurus logicam......"
-    explicit: "Finita 20. Augusti Anno 1632. lectionibus 220:"
-    note: "Der Katalog vermutet, dass die Vorlesungen an der Universität Graz gehalten wurden."
+  - label: a
+    title: In Organum Aristotelis Disputationes.
+    locus: p. 197
+    note: Der Katalog vermutet, dass die Vorlesungen an der Universität Graz gehalten wurden.
+    incipits:
+    - text: Aggressurus logicam......
+      label: disputationis primae pag. 1r
+    title_status: unspecified
+    colophons:
+    - locus: p. 197
+      text: 'Finita 20. Augusti Anno 1632. lectionibus 220:'
 phys_desc:
   object_form: codex
   support: Papier

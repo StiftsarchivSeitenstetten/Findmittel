@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-9",
   "signature": "MN II 9",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "9",
   "heading": {
     "title": "MS in libros Decretalium et de Judiciis.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "um 1620"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "MS in libros Decretalium et de Judiciis.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "MS in libros Decretalium et de Judiciis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "attested",
+        "typeLabel": "überlieferter Titel"
       },
-      "locus": "Bl. 1r–126v",
+      "locus": "fol. 74r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -141,13 +148,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-9/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 9",
     "titles": "MS in libros Decretalium et de Judiciis. \nMS in libros Decretalium et de Judiciis.",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Kommentare zu verschiedenen Titeln des ersten und zweiten Buches der Dekretalen bis Tit. 28; danach wurden mehrere Blätter herausgeschnitten. Das Titelblatt fehlt. \nTitelblatt fehlt; nach Tit. 28 wurden mehrere Blätter herausgeschnitten.",
-    "physical": "Papier \nIII + 126 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \nIII + 126 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "III + 126 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; um 1620 (aufgrund der Einbandform).\n\nDas Titelblatt fehlt. Rückenaufschrift: **MS in libros Decretalium et de Judiciis.** Dieser Codex enthält Kommentare zu verschiedenen Titeln des ersten und zweiten Buches der Dekretalen (bis Tit. 28; danach wurden mehrere Blätter herausgeschnitten).\n\nWahrscheinlich wurden diese Vorlesungen an der Universität Graz gehalten; denn auf Bl. 74r wird gefragt, ob der Salzburger Bischof einen Kleriker oder Laien bestrafen könne, der in der Diözese Seckau sündigt.\n\nVermerk Bl. 123v: **In diesem Stoff gibt es insgesamt 33 (?) Vorlesungen.**\n\nVerfasser und Schreiber sind unbekannt. [Handschriftlicher Nachtrag:] Es scheinen jedoch mehrere Hände unterscheidbar zu sein.",
+    "latin": "III + 126 foll.; teg. a1; ca. 1620 (propter formam teg.)\n\nFolium titulare deest. Inscriptio in dorso tegumenti: \"MS in libros Decretalium et de Judiciis.\" Continet hic codex commentarios in varios titulos libri I et II Decretalium (usque ad Tit. 28; postea complura folia excerpta sunt).\n\nVeri simile est has lectiones in Universitate Graecensi traditas esse; quaeritur enim fol. 74r, num Episcopus Salisburgensis punire possit Clericum vel Laicum in dioecesi Seccoviensi peccantem.\n\nNota fol. 123v: In hac materia 33 in universum sunt (?) lectiones\n\nAuctor et scriptor ignoti. [Nachtrag handschriftlich:] Videntur tamen plures manus distinguendae esse."
   }
 }

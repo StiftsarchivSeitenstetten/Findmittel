@@ -10,12 +10,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 58
 ms_contents:
-  title: "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798"
   items:
-  - label: "a"
-    title: "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798"
-    locus: "S. 1–138"
-    note: "Zahlreiche spätere Einträge zwischen den Zeilen mit anderer Tinte."
+  - label: a
+    title: Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798
+    locus: S. 1–138
+    note: Zahlreiche spätere Einträge zwischen den Zeilen mit anderer Tinte.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

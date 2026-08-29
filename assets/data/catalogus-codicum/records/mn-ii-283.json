@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-283",
   "signature": "MN II 283",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "230",
   "heading": {
     "title": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1751/52"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,35 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus De Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–49",
+      "locus": "p. 5–49",
       "language": "",
+      "incipits": [
+        {
+          "text": "Explicata Dei unius et Trini essentia, attributisque......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 29. Januarii 1752.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Explicata Dei unius et Trini essentia, attributisque"
+        "text": "Explicata Dei unius et Trini essentia, attributisque......",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus 29. Januarii 1752.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -70,17 +91,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Creatura Corporali",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 51–88",
+      "locus": "p. 51–88",
       "language": "",
+      "incipits": [
+        {
+          "text": "Post considerationem Spiritualis creaturae,......",
+          "locus": "p. 53",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finivimus 15. Aprilis 1752.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Post considerationem Spiritualis creaturae"
+        "text": "Post considerationem Spiritualis creaturae,......",
+        "locus": "p. 53",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Finivimus 15. Aprilis 1752.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -100,17 +141,40 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Beatitudine Hominis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 91–134",
+      "locus": "p. 91–134",
       "language": "",
+      "incipits": [
+        {
+          "text": "Amor Divinus circulum efficit admirabilem",
+          "id": "incipit-1"
+        },
+        {
+          "label": "Tractatus Primi In primam Secundae S",
+          "text": "Thomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,......",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finivimus quinta Junii 1752.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Amor Divinus circulum efficit admirabilem"
+        "text": "Amor Divinus circulum efficit admirabilem",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Finivimus quinta Junii 1752.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -125,17 +189,40 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 135–209",
+      "locus": "p. 135–209",
       "language": "",
+      "incipits": [
+        {
+          "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos",
+          "id": "incipit-1"
+        },
+        {
+          "label": "Tractatus Secundi De Actibus Humanis",
+          "text": "p. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos.....",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finivimus 11 Augusti in Pomeridiana lectione 1752.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos"
+        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Finivimus 11 Augusti in Pomeridiana lectione 1752.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -303,13 +390,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 283",
     "titles": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis \nTractatus Scholastico-Dogmaticus De Angelis \nTractatus Secundus De Creatura Corporali \nTractatus De Beatitudine Hominis \nTractatus De Actibus Humanis",
-    "persons": "P. Norbertus Pampichler Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "Explicata Dei unius et Trini essentia, attributisque \nPost considerationem Spiritualis creaturae \nAmor Divinus circulum efficit admirabilem \nProgredimur cum Angelico duce nostro ad explicandos actus humanos",
-    "explicits": "",
+    "persons": "P. Norbertus Pampichler Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe ",
+    "incipits": "Explicata Dei unius et Trini essentia, attributisque...... \nPost considerationem Spiritualis creaturae,...... \nAmor Divinus circulum efficit admirabilem \nThomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,...... \nProgredimur cum Angelico duce nostro ad explicandos actus humanos \np. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos.....",
+    "explicits": "Absolvimus 29. Januarii 1752. \nFinivimus 15. Aprilis 1752. \nFinivimus quinta Junii 1752. \nFinivimus 11 Augusti in Pomeridiana lectione 1752.",
     "notes": "Nur „Secundus“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.",
-    "physical": "Papier \n212 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n212 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "212 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.\n\n**Scholastisch-dogmatische Abhandlungen über die Engel, die körperliche Schöpfung, die Glückseligkeit und die menschlichen Handlungen**, diktiert von P. Norbertus Pambichler im Jahr 1751, beginnend am 23. Dezember. Die Tageszahl wurde nach einer Randnotiz auf S. 5 ergänzt: **Wir begannen am 23. Dezember 1751 nach dem Mittagessen.**\n\na) **Scholastisch-dogmatische Abhandlung über die Engel:** S. 5–49. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind,...... Schluss: **Wir beendeten [dies] am 29. Januar 1752.**\n\nb) **Zweite Abhandlung über die körperliche Schöpfung:** S. 51–88. Anfang S. 53: Nach der Betrachtung der geistigen Schöpfung,...... Schluss: **Wir beendeten [dies] am 15. April 1752.**\n\nc) **Abhandlung über die Glückseligkeit des Menschen:** S. 91–134. Anfang der ersten Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen S. 93: Die göttliche Liebe bildet einen wunderbaren Kreis,...... Schluss: **Wir beendeten [dies] am 5. Juni 1752.**\n\nd) **Abhandlung über die menschlichen Handlungen:** S. 135–209. Anfang der zweiten Abhandlung über die menschlichen Handlungen S. 137: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: **Wir beendeten [dies] am 11. August 1752 in der Nachmittagsvorlesung.**\n\nDieser Codex ist Band VI des scholastisch-theologischen Kurses, der von 1750 bis 1753 in Seitenstetten gehalten wurde. Der Schreiber des gesamten Kurses ist unbekannt.",
+    "latin": "212 pagg.; teg. c3d; script. 1751/52\n\n**Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Norberto Pambichler dictati Anno 1751 à die (23. Decembris).** (Numerum diei apposui e nota in margine p. 5: Incepimus 23. Decembris Anno 1751. à meridie)\n\na) Tractatus Scholastico-Dogmaticus De Angelis: p. 5–49.  \nInitium: Explicata Dei unius et Trini essentia, attributisque......  \nClausula: Absolvimus 29. Januarii 1752.\n\nb) Tractatus (Secundus) De Creatura Corporali: p. 51–88.  \nInitium p. 53: Post considerationem Spiritualis creaturae,......  \nClausula: Finivimus 15. Aprilis 1752.\n\nc) Tractatus De Beatitudine Hominis: p. 91–134.  \nInitium Tractatus Primi In primam Secundae S: Thomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,......  \nClausula: Finivimus quinta Junii 1752.\n\nd) Tractatus De Actibus Humanis: p. 135–209.  \nInitium Tractatus Secundi De Actibus Humanis: p. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos.....  \nClausula: Finivimus 11 Augusti in Pomeridiana lectione 1752.\n\nHic codex tomus VI est illius cursus theologiae Scholasticae, qui ab anno 1750 usque ad annum 1753 in monasterio Seitenstettensi traditus est. Scriptorem totius cursus illius nescimus."
   }
 }

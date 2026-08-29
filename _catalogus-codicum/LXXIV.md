@@ -10,14 +10,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: LXXIV
 ms_contents:
-  title: "Breve Fundamentum Cantus Choralis"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Breve Fundamentum Cantus Choralis"
-    title_type: supplied
-    locus: "Bl. 1r–25v"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern; das Werk ist verstümmelt."
+  - label: a
+    title: Breve Fundamentum Cantus Choralis
+    locus: p. 159
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern; das Werk ist verstümmelt.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

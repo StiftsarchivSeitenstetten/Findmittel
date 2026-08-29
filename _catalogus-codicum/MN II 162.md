@@ -13,13 +13,17 @@ ms_contents:
   items:
   - label: a
     title: Disputatio Prima De Virtute et obiecto Justitiae
-    locus: S. 3–302
+    locus: p. 3–302
+    title_status: unspecified
   - label: b
     title: Disputatio Secunda De Restitutione in genere
-    locus: S. 303–393
+    locus: p. 303–393
+    title_status: unspecified
   - label: c
     title: Disputatio tertia De Iniuriis et Restitutione in Specie
-    locus: S. 393–548
+    locus: p. 393–548
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

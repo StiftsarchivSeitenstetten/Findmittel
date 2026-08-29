@@ -14,8 +14,20 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107.'
+    title: Praeliminaria Logicae (
+    locus: p. 4), L
+    incipits:
+    - label: Proloquii
+      text: 'p. 5: Speciosam juxta, ac formosam Rachelem.......'
+    title_status: unspecified
   - label: b
     catalog_statement: 'Logica Magna seu Philosophia Rationalis: p. 109–588.'
+    title: Logica Magna seu Philosophia Rationalis
+    locus: p. 109–588
+    incipits:
+    - locus: p. 109
+      text: Exantlatis sponsalitiis laboribus......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

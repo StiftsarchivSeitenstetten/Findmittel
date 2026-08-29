@@ -15,11 +15,25 @@ ms_contents:
   items:
   - label: a
     title: Summulae seu brevis introductio in Logicam
-    locus: S. 7–58
+    locus: p. 7–58
+    incipits:
+    - locus: p. 7
+      text: Quemadmodum qui legendi artem rectè scire desiderat.
+    colophons:
+    - locus: p. 58
+      text: Absolvimus Summulas 23 Novembris Anno 1658.
+    title_status: unspecified
   - label: b
     title: Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis
-    locus: S. 67–398
-    completeness: Am Ende zahlreiche Blätter herausgeschnitten.
+    locus: p. 67–398
+    completeness:
+      status: defective
+      note: Am Ende zahlreiche Blätter herausgeschnitten.
+    incipits:
+    - locus: p. 67
+      label: Prooemii
+      text: Ingressuri scopulosum Logicae fretum....
+    title_status: unspecified
   responsibility:
   - role: author
     name: unbekannt

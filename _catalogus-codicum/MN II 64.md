@@ -15,12 +15,22 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus De Actibus Humanis
-    locus: fol. 1–135v
+    locus: fol. 1 - 135v
     index: fol. 136r–137v
+    incipits:
+    - locus: fol. 2r
+      label: Praefationis
+      text: Theologia secundum Ethemolo(g)iam....
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Vitiis et Peccatis
-    locus: fol. 139–222v
+    locus: fol. 1 - 83
     index: fol. 223–224r
+    incipits:
+    - locus: fol. 1
+      label: Prooemii
+      text: Post Tractationem de actibus humanis in genere.... Index fol. 84 - 85r (=223 - 224r)
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Udalricus Freyberger

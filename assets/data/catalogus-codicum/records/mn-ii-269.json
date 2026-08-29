@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-269",
   "signature": "MN II 269",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "214–215",
   "heading": {
     "title": "Tractatus Theologicus De Deo uno",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1735/36"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Deo uno",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–190",
+      "locus": "p. 3–190",
       "language": "",
+      "incipits": [
+        {
+          "text": "De Theologiae nostrae praestantia, utilitate, ac necessitudine profari,.....",
+          "locus": "p. 7",
+          "label": "(Proemii)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "De Theologiae nostrae praestantia, utilitate, ac necessitudine profari"
+        "text": "De Theologiae nostrae praestantia, utilitate, ac necessitudine profari,.....",
+        "locus": "p. 7",
+        "label": "(Proemii)",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -70,15 +87,29 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Deo Trino",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 195–244",
+      "locus": "p. 195–244",
       "language": "",
+      "incipits": [
+        {
+          "text": "Consideratis his, ait S. Doctor......",
+          "locus": "p. 197",
+          "label": "Partis Secundae De Deo Trino",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Consideratis his, ait S. Doctor"
+        "text": "Consideratis his, ait S. Doctor......",
+        "locus": "p. 197",
+        "label": "Partis Secundae De Deo Trino",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -95,17 +126,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus de Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 247–350",
+      "locus": "p. 247–350",
       "language": "",
+      "incipits": [
+        {
+          "text": "Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se, ......",
+          "locus": "p. 249",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Tractatum hunc finivimus 24. Martii 1736.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se"
+        "text": "Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se, ......",
+        "locus": "p. 249",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Tractatum hunc finivimus 24. Martii 1736.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -195,13 +246,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-269/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 269",
     "titles": "Tractatus Theologicus De Deo uno \nTractatus Theologicus De Deo uno \nTractatus Theologicus De Deo Trino \nTractatus Theologicus de Angelis",
-    "persons": "P. Corbinian Thomas Dozent lecturer \nFr. Romanus Gengl Schreiber scribe",
-    "incipits": "De Theologiae nostrae praestantia, utilitate, ac necessitudine profari \nConsideratis his, ait S. Doctor \nTractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se",
-    "explicits": "",
+    "persons": "P. Corbinian Thomas Dozent lecturer Kloster Elchingen / Universität Salzburg \nFr. Romanus Gengl Schreiber scribe Seitenstetten",
+    "incipits": "De Theologiae nostrae praestantia, utilitate, ac necessitudine profari,..... \nConsideratis his, ait S. Doctor...... \nTractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se, ......",
+    "explicits": "Tractatum hunc finivimus 24. Martii 1736.",
     "notes": "",
-    "physical": "Papier \n354 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n354 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "354 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1735/36.\n\na) **Theologische Abhandlung über den einen Gott**, diktiert von P. Corbinian Thomas, Profess des berühmten kaiserlichen Klosters Elchingen, und aufgezeichnet von Fr. Romanus Gengl, Profess des Klosters Seitenstetten in Niederösterreich, 1735: S. 3–190.\n\nAnfang der Vorrede S. 7: Von der Vorzüglichkeit, dem Nutzen und der Notwendigkeit unserer Theologie zu sprechen,.....\n\nb) **Theologische Abhandlung über den dreieinigen Gott**, diktiert von demselben P. Corbinian Thomas im Jahr 1735: S. 195–244. Anfang des zweiten Teils über den dreieinigen Gott S. 197: Nachdem dies betrachtet worden ist, sagt der heilige Lehrer......\n\nc) **Theologische Abhandlung über die Engel**, diktiert von demselben P. Corbinian Thomas, 1736: S. 247–350. Anfang S. 249: Theologisch-scholastische Abhandlung über die Engel. Nachdem unser hl. Thomas Gott betrachtet hat, wie er in sich selbst ist,...... Schluss: **Wir beendeten diese Abhandlung am 24. März 1736.**\n\nFr. Romanus Gengl schrieb nicht nur unseren gesamten Codex, sondern auch den folgenden.",
+    "latin": "354 pagg.; teg. a1; script. 1735/36\n\na) Tractatus Theologicus De Deo uno Dictatus à Clarissimo Domino P. Corbiniano Thomas Celeberrimi, ac Imperialis Monasterii Elchingensis Professo. exceptus Verò à Fr. Romano Gengl Monasterii Seittenstettensis in inferiori Austria Professo Anno (?) 1735: p. 3–190. Initium (Proemii) p. 7: **De Theologiae nostrae praestantia, utilitate, ac necessitudine profari,.....**\n\n\n\n\nb) Tractatus Theologicus De Deo Trino Dictatus ab Eodem Domino P. Corbiniano (Thomas) Anno 1735: p. 195–244. Initium Partis Secundae De Deo Trino p. 197: **Consideratis his, ait S. Doctor......**\n\nc) Tractatus Theologicus de Angelis Dictatus ab Eodem Domino P. Corbiniano (Thomas). Anno 1736: p. 247–350. Initium p. 249: **Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se, ......** Clausula: **Tractatum hunc finivimus 24. Martii 1736.**\n\nF. Romanus Gengl non solum totum codicem nostrum, sed etiam sequentem scripsit."
   }
 }

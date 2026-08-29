@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-291",
   "signature": "MN II 291",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "235",
   "heading": {
     "title": "Tractatus Scholastico-Dogmaticus Isagogicus",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1754/55"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus Isagogicus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–119",
+      "locus": "p. 7–119",
       "language": "",
+      "incipits": [
+        {
+          "text": "Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur"
+        "text": "Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus Scholastico-Dogmaticus De Deo. Praefatio",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 121",
+      "locus": "p. 121",
       "language": "",
+      "incipits": [
+        {
+          "text": "Altius jam mentis oculi et ad deum ipsum attollendi sunt,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Altius jam mentis oculi et ad deum ipsum attollendi sunt"
+        "text": "Altius jam mentis oculi et ad deum ipsum attollendi sunt,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -90,15 +113,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars I De Deo Uno ejus existentia, natura et proprietatibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 121–342",
+      "locus": "p. 121–342",
       "language": "",
+      "incipits": [
+        {
+          "text": "Amplissimae cùm sint de deo ejusque Divinis attributis considerationes......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Amplissimae cùm sint de deo ejusque Divinis attributis considerationes"
+        "text": "Amplissimae cùm sint de deo ejusque Divinis attributis considerationes......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -110,18 +143,43 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Secunda de Deo Trino",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 343–389",
+      "locus": "p. 343–389",
       "language": "",
+      "incipits": [
+        {
+          "text": "Ad mysterium ascendimus omnium Religionis Christianae sublimissimum...... (Alterum",
+          "id": "incipit-1"
+        },
+        {
+          "label": "in dimidio dextro paginae eiusdem",
+          "text": "Postquam egimus de attributis divinis absolutis, ad relativa devenimus.....)",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi. 18. Augusti 1755",
+          "id": "colophon-1"
+        },
+        {
+          "text": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi.",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Ad mysterium ascendimus omnium Religionis Christianae sublimissimum"
+        "text": "Ad mysterium ascendimus omnium Religionis Christianae sublimissimum...... (Alterum",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi."
+        "text": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi. 18. Augusti 1755",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [
@@ -254,13 +312,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 291",
     "titles": "Tractatus Scholastico-Dogmaticus Isagogicus \nTractatus Scholastico-Dogmaticus Isagogicus \nTractatus Theologicus Scholastico-Dogmaticus De Deo. Praefatio \nPars I De Deo Uno ejus existentia, natura et proprietatibus \nPars Secunda de Deo Trino",
-    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe",
-    "incipits": "Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur \nAltius jam mentis oculi et ad deum ipsum attollendi sunt \nAmplissimae cùm sint de deo ejusque Divinis attributis considerationes \nAd mysterium ascendimus omnium Religionis Christianae sublimissimum",
-    "explicits": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi.",
+    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe Stift Seitenstetten",
+    "incipits": "Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur,...... \nAltius jam mentis oculi et ad deum ipsum attollendi sunt,...... \nAmplissimae cùm sint de deo ejusque Divinis attributis considerationes...... \nAd mysterium ascendimus omnium Religionis Christianae sublimissimum...... (Alterum \nPostquam egimus de attributis divinis absolutis, ad relativa devenimus.....)",
+    "explicits": "In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi. 18. Augusti 1755 \nIn Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi.",
     "notes": "Nur die Inhaltsbezeichnung „Praefatio“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.",
-    "physical": "Papier \n394 pagg. \ncode: c3; description: Brauner Pappeinband."
+    "physical": "Papier \n394 pagg. \ncode: c3; description: Brauner Pappeinband.",
+    "german": "394 Seiten; brauner Pappeinband; geschrieben 1754/55.\n\na) **Scholastisch-dogmatische Einführungsabhandlung:** S. 7–119. Anfang: Da wir in diesem Jahr unsere scholastischen Arbeiten beim Anfang der theologischen Abhandlungen selbst beginnen,......\n\nb) **Scholastisch-dogmatische theologische Abhandlung über Gott. Vorrede:** S. 121. Anfang: Nun müssen die Augen des Geistes höher erhoben werden, zu Gott selbst,......\n\nc) **Erster Teil über den einen Gott, seine Existenz, Natur und Eigenschaften:** S. 121–342. Anfang: Da die Betrachtungen über Gott und seine göttlichen Eigenschaften überaus umfangreich sind,......\n\nd) **Zweiter Teil über den dreieinigen Gott:** S. 343–389. Anfang: Wir steigen zum erhabensten Geheimnis der ganzen christlichen Religion auf...... Ein zweiter Anfang auf der rechten Hälfte derselben Seite lautet: Nachdem wir von den absoluten göttlichen Eigenschaften gehandelt haben, kommen wir zu den relativen.....\n\nSchluss:\n**In dir, heilige Dreifaltigkeit, sieh die vollendeten Mühen;  \nin dir gib mir, die Ruhe ewig fortzusetzen.  \n18. August 1755.**\n\nDer Schriftcharakter ist derselbe wie in den beiden vorhergehenden und den beiden folgenden Codices und weist **P. Norbertus Pampichler** als Schreiber aus. Betrachtet man die Anlage des Codex, besteht auch kein Zweifel, dass er zugleich Verfasser ist: Wie in den vorhergehenden Codices bereitete er hier seine theologischen Vorlesungen vor.",
+    "latin": "394 pagg.; teg. c3; script. 1754/55\n\na) Tractatus Scholastico-Dogmaticus Isagogicus: p. 7–119.  \nInitium: Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur,......\n\nb) Tractatus Theologicus Scholastico-Dogmaticus De Deo. (Praefatio): p. 121.  \nInitium: Altius jam mentis oculi et ad deum ipsum attollendi sunt,......\n\nc) Pars I De Deo Uno ejus existentia, natura et proprietatibus: p. 121–342.  \nInitium: Amplissimae cùm sint de deo ejusque Divinis attributis considerationes......\n\nd) Pars Secunda de Deo Trino: p. 343–389.  \nInitium: Ad mysterium ascendimus omnium Religionis Christianae sublimissimum......  \n(Alterum initium in dimidio dextro paginae eiusdem: Postquam egimus de attributis divinis absolutis, ad relativa devenimus.....)  \nClausula:  \nIn Te, sancta Trias! finitos cerne labores:  \nIn Te da requiem perpetuare mihi.  \n18. Augusti 1755\n\nCharacter scripturae, quippe qui idem sit atque in duobus codicibus praecedentibus et duobus sequentibus, **P. Norbertum Pampichler** esse scriptorem codicis nostri indicat. Porro si qua ratione compositus exaratusque sit codex noster, animadverteris, iam non dubitabis, quin P. Norbertus Pampichler etiam auctor codicis nostri sit. Nam profecto in hoc codice eodem modo lectiones theologicas habendas praeparavit, quo in codicibus praecedentibus."
   }
 }

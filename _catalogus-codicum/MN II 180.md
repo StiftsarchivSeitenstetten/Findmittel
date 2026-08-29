@@ -13,9 +13,16 @@ ms_contents:
   - label: a
     title: Tractatus De Deo Uno
     locus: fol. 1r–177v
+    incipits:
+    - label: Prooemii
+      text: Accedimus ad nobilissimam, ac difficillimam Theologiae partem.....
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Deo Trino, sive De Augustissimo Sanctissimae Trinitatis Mysterio
     locus: fol. 178r–201r
+    incipits:
+    - text: Augustissimum Sanctissimae Trinitatis mysterium, ad quod contemplandum.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

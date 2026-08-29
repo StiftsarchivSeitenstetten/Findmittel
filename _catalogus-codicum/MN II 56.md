@@ -18,10 +18,22 @@ ms_contents:
   items:
   - label: a
     title: Commentarius in 8 Libros Physicorum Aristotelis
-    locus: Bl. 1–357v
+    locus: fol. 1 - 357v
+    incipits:
+    - label: Prooemii
+      text: Progredimur â Logicatibus senticetis....
+    colophons:
+    - text: 'fol. 357v: absolvimus primo die Mensis Martii (1653)'
+    title_status: unspecified
   - label: b
     title: Index
-    locus: Bl. 358r–361v
+    locus: fol. 358r - 361v
+    incipits:
+    - label: Prooemii
+      text: Progredimur â Logicatibus senticetis....
+    colophons:
+    - text: 'fol. 357v: absolvimus primo die Mensis Martii (1653)'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

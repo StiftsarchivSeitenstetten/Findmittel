@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-46",
   "signature": "MN II 46",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "29",
   "heading": {
     "title": "De Ortu et Interitu / De Generatione et Corruptione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1649/50"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Fortsetzung eines philosophischen Kurses mit Aristoteles-Kommentaren und ethischen Disputationen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Ortu et Interitu / De Generatione et Corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1–89r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -64,13 +71,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Mundo et Coelo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 89v–96v",
+      "locus": "fol. 89v - 96v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -82,13 +93,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Meteorologia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 97r–107r",
+      "locus": "fol. 97r - 107r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -100,14 +115,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 109r–170v",
+      "locus": "fol. 109r - 170v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Postquam Aristoteles 8 Libris Physicorum examinasset substantiam....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Postquam Aristoteles 8 Libris Physicorum examinasset substantiam....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -118,15 +145,37 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Metaphysica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 170v–175r",
+      "locus": "fol. 170v - 175r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Scripsit 14 Libris Metaphysicorum Aristoteles....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 175r",
+          "text": "paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE chronographica anni quo absolvi, quo Mars absolvit et Pax florere coepit. (1650). Ad partes a - e pertinet etiam",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Scripsit 14 Libris Metaphysicorum Aristoteles....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 175r",
+        "text": "paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE chronographica anni quo absolvi, quo Mars absolvit et Pax florere coepit. (1650). Ad partes a - e pertinet etiam",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -136,13 +185,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationes Ethicae De Voluntate et eius Actibus, Item de Passionibus Animae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 177r–196v",
+      "locus": "fol. 177r - 196v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -240,13 +293,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 46",
     "titles": "De Ortu et Interitu / De Generatione et Corruptione \nDe Ortu et Interitu / De Generatione et Corruptione \nDe Mundo et Coelo \nMeteorologia \nDe Anima \nMetaphysica \nDisputationes Ethicae De Voluntate et eius Actibus, Item de Passionibus Animae",
-    "persons": "P. Christoph Khlinggshirn lecturer parts a e lecturer_parts_a_e \nP. Henricus Oderwolff (?) lecturer part f lecturer_part_f \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Christoph Khlinggshirn lecturer parts a e lecturer_parts_a_e  \nP. Henricus Oderwolff (?) lecturer part f lecturer_part_f  \nunbekannt Schreiber scribe ",
+    "incipits": "Postquam Aristoteles 8 Libris Physicorum examinasset substantiam.... \nScripsit 14 Libris Metaphysicorum Aristoteles....",
+    "explicits": "paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE chronographica anni quo absolvi, quo Mars absolvit et Pax florere coepit. (1650). Ad partes a - e pertinet etiam",
     "notes": "Fortsetzung eines philosophischen Kurses mit Aristoteles-Kommentaren und ethischen Disputationen.",
-    "physical": "Papier \nIII + 203 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \nIII + 203 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "III + 203 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1649/50.\n\na) **Erste Disputation über die zwei Bücher des Aristoteles „Über Entstehen und Vergehen“ beziehungsweise „Über Entstehung und Vergehen“:** Bl. 1–89r. Anfang Bl. 1r: **Wir erklären dieses Buch, während wir auf die göttliche Geburt warten....**\n\nb) **Disputation zu den Büchern „Über die Welt und den Himmel“:** Bl. 89v–96v.\n\nc) **Meteorologie:** Bl. 97r–107r.\n\nd) **Disputationen zu den Büchern „Über die Seele“:** Bl. 109r–170v. Anfang: **Nachdem Aristoteles in acht Büchern der Physik die Substanz untersucht hatte....**\n\ne) **Eine einzige Disputation zur Metaphysik:** Bl. 170v–175r. Anfang: **Aristoteles schrieb in vierzehn Büchern der Metaphysik....**\n\nSchluss Bl. 175r: **paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE**, eine chronographische Inschrift für das Jahr, in dem ich abschloss, in dem Mars ein Ende fand und der Friede zu blühen begann (1650).\n\nZu den Teilen a–e gehört auch der Vermerk Bl. IIIr: **Der dritte Teil wurde unter dem ehrwürdigen P. Christoph Khlinggshirn geschrieben; nachdem er diesen im Jahr 1650 beendet hatte, entschlief er, von heftigem Fieber befallen, in Wien am dem hl. Thomas von Aquin geweihten Tag des Jahres 1651 im Herrn.**\n\nf) **Ethische Disputationen über den Willen und seine Akte sowie über die Leidenschaften der Seele:** Bl. 177r–196v. Am Ende ist vermerkt: **Dieses unvollständige Stück stammt, wenn ich mich nicht täusche, von einem Pater mit dem Eigennamen Henricus Oderwolff; dieser wurde anderswohin gerufen und kehrte nicht mehr zurück, sondern nahm in Abwesenheit Abschied und übernahm 1650 das Amt des Pfarrers von Petreita in Schlesien.** Es scheint daher, dass P. Henricus Oderwolff den Teil f diktiert hat.",
+    "latin": "III + 203 foll.; teg. a1; script. 1649/50\n\na) *Disputatio I In Duos Libros Aristotelis De Ortu et Interitu seu de Generatione et Corruptione:* fol. 1 - 89r. *Initium* fol. 1r: Explicamus hunc librum quando inter expectationem Divinae Generationis....\n\nb) *Disputatio In Libros De Mundo et Coelo:* fol. 89v - 96v.\n\nc) *Mete[oro]logia:* fol. 97r - 107r.\n\nd) *Disputationes In libros De Anima:* fol. 109r - 170v. *Initium:* Postquam Aristoteles 8 Libris Physicorum examinasset substantiam....\n\ne) *Disputatio Unica In Metaphysicam:* fol. 170v - 175r. *Initium:* Scripsit 14 Libris Metaphysicorum Aristoteles....\n\nClausula fol. 175r: paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE chronographica anni quo absolvi, quo Mars absolvit et Pax florere coepit. (1650). Ad partes a - e pertinet etiam nota fol. IIIr: Pars Tertia Sub Reverendo Patre Christophoro Khlinggshirn conscripta, qui hâc absolutâ Anno 1650 calidis febribus obdormivit in Domino Viennae die Divo Thomae Aquinati Sacro Anno 1651.\n\nf) *Disputationes Ethicae De Voluntate et eius Actibus, Item de Passionibus Animae:* fol. 177r - 196v. In fine notatum est: Quae imperfectum a Patre ni fallor proprio nomine dicto Henrico Oderwolff, qui alio avocatus non amplius rediit, sed absens valedixit, et officium Parochi Petreitae suscepit in Silesia Anno 1650. (Videtur igitur P. Henricus Oderwolff partem f dictasse.)"
   }
 }

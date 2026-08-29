@@ -9,10 +9,10 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 18
 ms_contents:
-  title: "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt"
   items:
-  - label: "a"
-    title: "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt"
+  - label: a
+    title: Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

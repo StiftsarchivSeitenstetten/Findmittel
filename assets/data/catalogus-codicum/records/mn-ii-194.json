@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-194",
   "signature": "MN II 194",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "144–145",
   "heading": {
     "title": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1696 oder 1697"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 6–150",
+      "locus": "p. 6–150",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 6",
+          "label": "Disputationis I. De Substantia Angelorum secundum se",
+          "text": "Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 6",
+        "label": "Disputationis I. De Substantia Angelorum secundum se",
+        "text": "Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -71,14 +90,30 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Quaestiuncula De obiecto Intellectionis angelicae",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 3",
+          "locus": "p. 3",
           "language": "",
-          "incipit": null,
+          "incipits": [
+            {
+              "locus": "p. 6",
+              "label": "Disputationis I. De Substantia Angelorum secundum se",
+              "text": "Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.",
+              "id": "incipit-1"
+            }
+          ],
+          "explicits": [],
+          "colophons": [],
+          "incipit": {
+            "locus": "p. 6",
+            "label": "Disputationis I. De Substantia Angelorum secundum se",
+            "text": "Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.",
+            "id": "incipit-1"
+          },
           "explicit": null,
           "notes": [],
           "dates": [],
@@ -89,13 +124,17 @@
           "id": "item-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio prima De Substantia Angelorum secundum se",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "ab S. 6",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -109,13 +148,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus quartus in primam secundae Summae Angelicae De Actibus humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 150–319",
+      "locus": "p. 150–319",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -222,13 +265,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 194",
     "titles": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nTractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nQuaestiuncula De obiecto Intellectionis angelicae \nDisputatio prima De Substantia Angelorum secundum se \nTractatus quartus in primam secundae Summae Angelicae De Actibus humanis",
-    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "Fr. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3. \nArticulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.",
     "explicits": "",
-    "notes": "Titel und Vorrede fehlen; behandelt werden die Fragen 50–64 und 106–115. \nincomplete",
-    "physical": "Papier \n324 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+    "notes": "Titel und Vorrede fehlen; behandelt werden die Fragen 50–64 und 106–115. \nincomplete \nTractatus De Angelis et Actibus Humanis. M. S. \nHer Von Mortnsberg (?) rukh et ökh.",
+    "physical": "Papier \n324 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+    "german": "324 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1696 oder 1697.\n\na) **Dritte Abhandlung zum ersten Teil der Summa des hl. Thomas über Substanz, Eigenschaften, Wirkungen und Ursachen der Engel, von Frage 50–64 und 106–115:** S. 6–150. Titel und Vorrede fehlen. Anfang der ersten Disputation über die Substanz der Engel an sich, S. 6: Erster Artikel. Ob die Engel gänzlich unkörperlich seien? Zunächst ist zu beachten: Der Name Engel bezeichnet etymologisch.....\n\nZu diesem Traktat gehört in gewisser Weise auch die kleine Frage **Über den Gegenstand der engelhaften Erkenntnis** auf S. 3.\n\nb) **Vierte Abhandlung zur Prima Secundae der engelgleichen Summa über die menschlichen Handlungen:** S. 150–319. Anfang der Vorrede S. 150: Nachdem der hl. Thomas im ersten Teil der theologischen Summa über Gott, den Besten und Größten, gehandelt hat..... Schluss S. 319: **Hier ist meiner Theologie ein festes Ende gesetzt.....**\n\nWegen derselben Schrift ist anzunehmen, dass auch diesen Codex wie die acht vorhergehenden wahrscheinlich Fr. Joannes Rigele schrieb. Dieser empfing am 6. Januar 1697 die Priesterweihe; daher beendete er seine theologischen Studien entweder 1696 oder 1697, und in diesem Zeitraum muss auch der Codex entstanden sein.\n\nRückenaufschrift: **Tractatus De Angelis et Actibus Humanis. M. S.**\n\nDieselben Abhandlungen enthält MN II 211, dort jedoch mit Titel und Vorrede des ersten sowie mit einer vierten Disputation über das Gewissen im zweiten Traktat. Der Verfasser ist unbekannt.\n\nAnweisung für den Buchbinder am unteren Rand von S. 3: **Her Von Mortnsberg (?) rukh et ökh.** Der Name im ersten Teil ist schwer zu lesen; der zweite Teil verlangt, Rücken und Kanten mit Leder zu versehen.",
+    "latin": "324 pagg.; teg. c2d; script. 1696 aut 1697\n\na) (Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum à Quaestione 50 usque 64 et à 106 usque 115): p. 6–150. Inscriptio et Prooemium desunt. Initium Disputationis I. De Substantia Angelorum secundum se p. 6: Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.\n\nb) Tractatus 4. in primam secundae Summae Angelicae De Actibus humanis: p. 150–319. Initium Prooemii p. 150: Postquam Divus Thomas in prima parte Summae Theologicae egit De Deo Optimo Maximo.....\n\n\n\n\nClausula p. 319: hic Theologiae meae est fixus terminus.......\n\nAtqui propter eandem Scripturam putandum est, etiam codicem nostrum ut octo praecedentes probabiliter a F. Joanne Rigele scriptum esse. (Vide supra p. 144 ad codicem MN II 193 et 141 ad codicem MN II 188!) Frater autem ille die 6. Januarii 1697 sacerdotium suscepit. Qua de causa aut anno 1696 aut anno 1697 studia theologica finivit. Itaque etiam codicem nostrum 1696 aut 1697 scripsit.\n\nInscriptio dorsi: Tractatus De Angelis et Actibus Humanis. M. S.  \nQuos tractatus etiam codex MN II 211 continet, sed cum titulo (quem in codicem nostrum transtuli) et prooemio prioris et disputatione quarta (De Conscientia) alterius tractatus. (De quo codice infra!) Auctor ignotus.\n\nNota pro bibliopego in margine inferiore p. 3: Her Von Mortnsberg (?) rukh et ökh. (Nomen in priore huius notae parte difficile intellectu est. Altera autem pars indicat bibliopego, ut dorsum et extrema libri corio tegat.)"
   }
 }

@@ -9,8 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 114
 ms_contents:
-  catalogue_title_or_summary: Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra
-    p. 60/61).
+  items:
+  - catalog_statement: Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).
+    title: Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra
+    locus: p. 60/61
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

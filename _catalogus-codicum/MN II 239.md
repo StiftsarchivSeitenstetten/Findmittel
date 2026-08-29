@@ -9,12 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 239
 ms_contents:
-  title: Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione
   items:
   - label: a
     title: Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione
-    locus: S. 5–677
+    locus: p. 5
     end_date_display: 20. Februar, Jahr nicht angegeben
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: Postquam in itinere peripatetico implexos Logicae calles feliciter emensi sumus,.....
+    colophons:
+    - locus: p. 677
+      text: absolvimus 20 februarii.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-5",
   "signature": "MN III 5",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "59",
   "heading": {
     "title": "Politicae gnomae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1667"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Politicae gnomae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 13–19",
+      "locus": "p. 13–19",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Morales gnomae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 47–55",
+      "locus": "p. 47–54",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,41 +102,99 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Panegyricus Ennodii et Plinii",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "text": "Inhaltseinheit c",
+        "typeRaw": null,
+        "typeLabel": null
       },
-      "locus": "S. 79–115",
+      "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
         {
           "type": "note",
-          "text": "Zusammenfassende strukturierte Inhaltsbezeichnung; der Katalog nennt „Panegyricus Ennodii“ S. 79–88 und „Plinii“ S. 88–114; 175 sententiae mit Anhang S. 115."
+          "text": "175 sententiae cum appendice p. 115."
         }
       ],
-      "dates": [
-        {
-          "type": "end_date_display",
-          "display": "9. November 1667"
-        }
-      ],
+      "dates": [],
       "persons": [],
-      "subitems": []
+      "subitems": [
+        {
+          "id": "item-c-1",
+          "label": "c.1",
+          "type": "",
+          "physicalUnit": "",
+          "title": {
+            "text": "Panegyricus Ennodii",
+            "typeRaw": "unspecified",
+            "typeLabel": ""
+          },
+          "locus": "p. 79–88",
+          "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-c-2",
+          "label": "c.2",
+          "type": "",
+          "physicalUnit": "",
+          "title": {
+            "text": "Plinii",
+            "typeRaw": "unspecified",
+            "typeLabel": ""
+          },
+          "locus": "p. 88–114",
+          "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [
+            {
+              "locus": "p. 114",
+              "text": "Finis Panegyrici. 9. Novembris Anno 1667.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": null,
+          "explicit": {
+            "locus": "p. 114",
+            "text": "Finis Panegyrici. 9. Novembris Anno 1667.",
+            "id": "colophon-1"
+          },
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
     },
     {
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ex Plauti Amphitruone",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 143–145",
+      "locus": "p. 143–145",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -142,13 +211,17 @@
       "id": "item-e-1",
       "label": "e.1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Exempla è Talione Stengelii",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 173–177",
+      "locus": "p. 173–177",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -160,13 +233,17 @@
       "id": "item-e-2",
       "label": "e.2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ex Stengelio De Fame",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 178",
+      "locus": "p. 178), Vi",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -178,13 +255,17 @@
       "id": "item-e-3",
       "label": "e.3",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vis et Virtus Exemplorum Stengelii",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 179–181",
+      "locus": "p. 179–181), D",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -196,13 +277,17 @@
       "id": "item-e-4",
       "label": "e.4",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De poenitentia Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 181–182",
+      "locus": "p. 181–182), D",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -214,13 +299,17 @@
       "id": "item-e-5",
       "label": "e.5",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Casu et fortuna Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 183–186",
+      "locus": "p. 183–186), D",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -232,13 +321,17 @@
       "id": "item-e-6",
       "label": "e.6",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De sortibus Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 187–190",
+      "locus": "p. 187–190), Cr",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -250,13 +343,17 @@
       "id": "item-e-7",
       "label": "e.7",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Croesus et Irus eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 190–193",
+      "locus": "p. 190–193",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -273,13 +370,17 @@
       "id": "item-e-8",
       "label": "e.8",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ex eiusdem De Honore",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 194–198",
+      "locus": "p. 194–198), M",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -291,13 +392,17 @@
       "id": "item-e-9",
       "label": "e.9",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Mundus et eius partes Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 198–201",
+      "locus": "p. 198–201), M",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -309,13 +414,17 @@
       "id": "item-e-10",
       "label": "e.10",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Matrimonia fausta et infausta Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 201–206",
+      "locus": "p. 201–206), D",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -327,13 +436,17 @@
       "id": "item-e-11",
       "label": "e.11",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Monstris et Monstrosis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 207–210",
+      "locus": "p. 207–210",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -345,13 +458,17 @@
       "id": "item-e-12",
       "label": "e.12",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Spes & fiducia Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 211–215",
+      "locus": "p. 211–215",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -363,13 +480,17 @@
       "id": "item-e-13",
       "label": "e.13",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ex Ruinard",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 215–217",
+      "locus": "p. 215–217",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -381,13 +502,17 @@
       "id": "item-e-14",
       "label": "e.14",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ex Libro Historiarum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 217–220",
+      "locus": "p. 217–220), M",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -399,13 +524,17 @@
       "id": "item-e-15",
       "label": "e.15",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Mercurius Histor(icus) (aut Historiarum?)",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 220–255",
+      "locus": "p. 220–255",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -422,13 +551,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Fabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 269–270",
+      "locus": "p. 269–270",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -516,13 +649,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-5/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 5",
-    "titles": "Politicae gnomae \nPoliticae gnomae \nMorales gnomae \nPanegyricus Ennodii et Plinii \nEx Plauti Amphitruone \nExempla è Talione Stengelii \nEx Stengelio De Fame \nVis et Virtus Exemplorum Stengelii \nDe poenitentia Eiusdem \nDe Casu et fortuna Eiusdem \nDe sortibus Eiusdem \nCroesus et Irus eiusdem \nEx eiusdem De Honore \nMundus et eius partes Eiusdem \nMatrimonia fausta et infausta Eiusdem \nDe Monstris et Monstrosis \nSpes & fiducia Eiusdem \nEx Ruinard \nEx Libro Historiarum \nMercurius Histor(icus) (aut Historiarum?) \nFabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "titles": "Politicae gnomae \nPoliticae gnomae \nMorales gnomae \nInhaltseinheit c \nPanegyricus Ennodii \nPlinii \nEx Plauti Amphitruone \nExempla è Talione Stengelii \nEx Stengelio De Fame \nVis et Virtus Exemplorum Stengelii \nDe poenitentia Eiusdem \nDe Casu et fortuna Eiusdem \nDe sortibus Eiusdem \nCroesus et Irus eiusdem \nEx eiusdem De Honore \nMundus et eius partes Eiusdem \nMatrimonia fausta et infausta Eiusdem \nDe Monstris et Monstrosis \nSpes & fiducia Eiusdem \nEx Ruinard \nEx Libro Historiarum \nMercurius Histor(icus) (aut Historiarum?) \nFabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
-    "explicits": "",
-    "notes": "65 sententiae. \n69 sententiae mit Anhang S. 55. \nZusammenfassende strukturierte Inhaltsbezeichnung; der Katalog nennt „Panegyricus Ennodii“ S. 79–88 und „Plinii“ S. 88–114; 175 sententiae mit Anhang S. 115. \n13 sententiae. \nDer Katalogbearbeiter konnte dieses Werk nicht nachweisen und verweist auf „Croesus et Codrus“. \nDie Auflösung „icus“ und die Alternative „aut Historiarum?“ stehen im Katalogtext in runden Klammern und sind editorisch ergänzt; 287 exempla insgesamt für Teil e. \n10 fabulae.",
-    "physical": "Papier \n8° min., 312 pagg., scriptus 1667 \nKleines Oktavformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "explicits": "Finis Panegyrici. 9. Novembris Anno 1667.",
+    "notes": "65 sententiae. \n69 sententiae mit Anhang S. 55. \n175 sententiae cum appendice p. 115. \n13 sententiae. \nDer Katalogbearbeiter konnte dieses Werk nicht nachweisen und verweist auf „Croesus et Codrus“. \nDie Auflösung „icus“ und die Alternative „aut Historiarum?“ stehen im Katalogtext in runden Klammern und sind editorisch ergänzt; 287 exempla insgesamt für Teil e. \n10 fabulae.",
+    "physical": "Papier \n8° min., 312 pagg., scriptus 1667 \nKleines Oktavformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 312 Seiten; geschrieben 1667.\n\na) **Politische Sinnsprüche:** S. 13–19, 65 Sentenzen.\n\nb) **Moralische Sinnsprüche:** S. 47–54, 69 Sentenzen, mit Anhang S. 55.\n\nc) **Panegyricus des Ennodius** S. 79–88 und **des Plinius** S. 88–114, insgesamt 175 Sentenzen, mit Anhang S. 115. Schluss S. 114: **Ende des Panegyricus. 9. November 1667.**\n\nd) **Aus Plautus, Amphitruo:** S. 143–145, 13 Sentenzen.\n\ne) Beispiele aus verschiedenen Werken Georg Stengels SJ: aus *Talio* S. 173–177, *De Fame* S. 178, *Vis et Virtus Exemplorum* S. 179–181, *De poenitentia* S. 181–182, *De Casu et fortuna* S. 183–186, *De sortibus* S. 187–190, *Croesus et Irus* S. 190–193 – dieses Werk konnte der Katalogbearbeiter nirgends finden; bekannt ist *Croesus et Codrus* –, aus *De Honore* S. 194–198, *Mundus et eius partes* S. 198–201, *Matrimonia fausta et infausta* S. 201–206, *De Monstris et Monstrosis* S. 207–210, *Spes & fiducia* S. 211–215; außerdem aus Ruinard S. 215–217, aus einem *Liber Historiarum* S. 217–220 und aus einem *Mercurius Historicus* oder *Historiarum* S. 220–255; insgesamt 287 Beispiele.\n\nNB: Die Schriften Georg Stengels SJ († 1651) erschienen in Ingolstadt. Der Ruinard, dessen Werk der Kompilator benutzte, kann nicht der berühmte Mauriner P. Theoderich Thierry Ruinart OSB sein, der erst 1657 geboren wurde. Welches Geschichtswerk exzerpiert wurde, weiß der Katalogbearbeiter nicht. Die Beispiele 250 und 261 auf S. 229–230 beweisen nicht, dass dieser *Mercurius Historicus* erst nach 1667 erschienen wäre, da gerade diese beiden Beispiele vielleicht gar nicht aus diesem Buch stammen.\n\nf) **Fabeln und Apologe** aus Stengels *Talio*, *De Virtute exemplorum* und *Croesus et Irus*: S. 269–270, zehn Fabeln.\n\nWahrscheinlich wurde das Büchlein vom Kompilator selbst geschrieben; unbekannt bleibt jedoch, wer so viele Bücher las und exzerpierte.",
+    "latin": "8° min., 312 pagg., scriptus 1667\n\na) Politicae gnomae: p. 13–19 (65 sententiae).\n\nb) Morales gnomae: p. 47–54 (69 sententiae) cum appendice p. 55.\n\nc) Panegyricus Ennodii (p. 79–88) et Plinii (p. 88–114) (175 sententiae) cum appendice p. 115. Clausula p. 114: Finis Panegyrici. 9. Novembris Anno 1667.\n\nd) Ex Plauti Amphitruone: p. 143–145 (13 sententiae).\n\ne) Exempla è Talione Stengelii (p. 173–177), Ex Stengelio De Fame (p. 178), Vis et Virtus Exemplorum Stengelii (p. 179–181), De poenitentia Eiusdem (p. 181–182), De Casu et fortuna Eiusdem (p. 183–186), De sortibus Eiusdem (p. 187–190), Croesus et Irus eiusdem (p. 190–193; quod opus nusquam inveni; notum est opus inscriptum: Croesus et Codrus), Ex eiusdem De Honore (p. 194–198), Mundus et eius partes Eiusdem (p. 198–201), Matrimonia fausta et infausta Eiusdem (p. 201–206), De Monstris et Monstrosis (Eiusdem) (p. 207–210), Spes & fiducia Eiusdem (p. 211–215), Ex Ruinard (p. 215–217), Ex Libro Historiarum (p. 217–220), Mercurius Histor(icus) (aut Historiarum?) (p. 220–255) (287 exempla).\n\nNB! Opuscula Georgii Stengelii SJ (†1651) Ingolstadii in lucem evenerunt. Ruinard, cuius opere usus est compilator noster, non potest esse egregius ille P. Theodericus (Thierry) Ruinart OSB congregationis S. Mauri (nat. 1657!). Quem librum Historiarum auctor noster excerpserit, nescio. Exempla 250 et 261 (p. 229–230) non demonstrant hunc librum non ante annum 1667 editum esse; nam duo haec exempla fortasse non ex isto libro Mercurium Historicum excerpta sunt.\n\nf) Fabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem (p. 269–270; 10 fabulae).\n\nVeri simile est hunc libellum ab ipso compilatore scriptum esse, sed non novimus, quis tot libros legerit et excerpserit."
   }
 }

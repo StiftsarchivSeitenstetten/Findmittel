@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-29-j-xv-2m",
   "signature": "Arch. Cod. 29 J (XV 2m)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "263",
   "heading": {
     "title": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1786"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–424",
+      "locus": "p. 260–261",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-29-j-xv-2m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 29 J (XV 2m)",
     "titles": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786. \nCommentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
-    "persons": "P. Bertholdus Stolz Autor author \nP. Bertholdus Stolz Schreiber scribe",
+    "persons": "P. Bertholdus Stolz Autor author  \nP. Bertholdus Stolz Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Rückenaufschrift: Commentarius litteralis in regulam S. Benedicti.",
-    "physical": "Papier \nIV + 424 pagg. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nIV + 424 pagg. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Folioformat; IV + 424 Seiten; sehr schöner weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1786.\n\n**Kommentar zur Regel unseres heiligen Vaters Benedikt, mit eingestreuten Unterweisungen für das Ordensleben. Verfasser: P. Bertholdus Stolz OSB, Profess von Seitenstetten, 1786.**\n\nRückenaufschrift: **Wörtlicher Kommentar zur Regel des hl. Benedikt.**\n\nDer Schriftvergleich mit Arch. Cod. 29 A, 29 B und 29 L zeigt, dass der Verfasser den Codex eigenhändig schrieb.\n\nDer Kommentar ist lateinisch verfasst.",
+    "latin": "fol.; IV + 424 pagg.; teg. a2 (perpulchrum); scriptus 1786\n\n**Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.**\n\nInscriptio dorsi: **Commentarius litteralis in regulam S. Benedicti.**\n\nScripturam huius codicis si comparaveris cum codicibus 29A, 29B, 29L, facile videbis auctorem codicem nostrum sua ipsius manu scripsisse. (Codices 29 A, B, L supra p. 260–261 tractavimus!)\n\nCommentarius noster in lingua Latina compositus est."
   }
 }

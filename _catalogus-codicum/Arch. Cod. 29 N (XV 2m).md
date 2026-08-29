@@ -14,23 +14,67 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Notae brevissimae, partim Germanicae, partim Latinae: p. 1–11'
+    title: Notae brevissimae, partim Germanicae, partim Latinae
+    locus: p. 1–11
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Monita Servanda in ipso ingressu Novitiatûs, et tempore novitiatûs, ac reliquis vitae Religiosae annis:
-      p. 13–16'
+    catalog_statement: 'Monita Servanda in ipso ingressu Novitiatûs, et tempore novitiatûs, ac reliquis vitae Religiosae annis: p. 13–16'
+    title: Monita Servanda in ipso ingressu Novitiatûs, et tempore novitiatûs, ac reliquis vitae Religiosae annis
+    locus: p. 13–16
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: c
     catalog_statement: 'Alia Monita Novitio utilissima: p. 16–25'
+    title: Alia Monita Novitio utilissima
+    locus: p. 16–25
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: d
-    catalog_statement: 'Sex Religiosorum Vitia quae referuntur â Thaulero Just(itiae?) Spir(i)t(u?) Cap. 28. ut revelata cuidam
-      â Domino non sine quaerimonia: p. 26–27'
+    catalog_statement: 'Sex Religiosorum Vitia quae referuntur â Thaulero Just(itiae?) Spir(i)t(u?) Cap. 28. ut revelata cuidam â Domino non sine
+      quaerimonia: p. 26–27'
+    title: Sex Religiosorum Vitia quae referuntur â Thaulero Just(itiae?) Spir(i)t(u?) Cap. 28. ut revelata cuidam â Domino non sine quaerimonia
+    locus: p. 26–27
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: e
     catalog_statement: 'Formula Honestae Vitae Patris Bernardi Abbatis: p. 28–36'
+    title: Formula Honestae Vitae Patris Bernardi Abbatis
+    locus: p. 28–36
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: f
-    catalog_statement: 'De Educatione Religiosa: p. 37–112. Initium: Acturus de educatione Religiosorum, praeprimis sequor
-      Clementis VIIIvi Bullam,....'
+    catalog_statement: 'De Educatione Religiosa: p. 37–112. Initium: Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,....'
+    title: De Educatione Religiosa
+    locus: p. 37–112
+    incipits:
+    - text: Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,....
+    title_status: unspecified
   - label: g
     catalog_statement: 'Mortificationes Ex et internae Pro Singulis mensibus totius Anni: p. 123–148'
+    title: Mortificationes Ex et internae Pro Singulis mensibus totius Anni
+    locus: p. 123–148
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
   - label: h
     catalog_statement: 'Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title: Brevissima notata Latina
+    incipits:
+    - text: 'Acturus de educatione Religiosorum, praeprimis sequor Clementis VIIIvi Bullam,.... g) Mortificationes Ex et internae Pro Singulis
+        mensibus totius Anni: p. 123–148 h) Brevissima notata Latina p. 149 et Germanica (1808): p. 166–167'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

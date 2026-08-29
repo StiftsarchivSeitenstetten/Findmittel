@@ -9,11 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 183
 ms_contents:
-  title: Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam
   items:
   - label: a
     title: Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam
-    locus: S. 7–573
+    locus: p. 7–573
+    incipits:
+    - label: Prooemii
+      text: Idem nobis usu venit, quod mercatoribus,......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

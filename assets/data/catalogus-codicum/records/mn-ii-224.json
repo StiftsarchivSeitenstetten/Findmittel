@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-224",
   "signature": "MN II 224",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "174–175",
   "heading": {
     "title": "Tractatus De Vitiis et Peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1705"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Vitiis et Peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 2r–141v",
+      "locus": "fol. 2r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 2r",
+          "text": "Praesens Tractatus illa complectitur,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 141v",
+          "text": "Absolvimus praesentem tractatum die 8 Junii Anno 1705.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 2r",
+        "text": "Praesens Tractatus illa complectitur,......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 141v",
+        "text": "Absolvimus praesentem tractatum die 8 Junii Anno 1705.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,15 +95,35 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 143r–168v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Lex in ampla et metaphora significatione......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Lex in ampla et metaphora significatione......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -168,13 +215,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-224/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 224",
     "titles": "Tractatus De Vitiis et Peccatis \nTractatus De Vitiis et Peccatis \nTractatus De Legibus",
-    "persons": "P. Ludovicus Babenstuber Dozent lecturer \nFr. Benedictus Calles Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Ludovicus Babenstuber Dozent lecturer Kloster Ettal / Universität Salzburg \nFr. Benedictus Calles Schreiber scribe Seitenstetten",
+    "incipits": "Praesens Tractatus illa complectitur,...... \nLex in ampla et metaphora significatione......",
+    "explicits": "Absolvimus praesentem tractatum die 8 Junii Anno 1705. \nAbsolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.",
     "notes": "Die Schulen wurden aus bestimmten Gründen früher beendet.",
-    "physical": "Papier \n171 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n171 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "171 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.\n\na) **Abhandlung über Laster und Sünden**, diktiert von P. Ludovicus Babenstuber, Benediktiner und Profess des berühmten Klosters Ettal, Doktor der heiligen Theologie, erster Professor derselben an der erzbischöflichen Universität Salzburg sowie geistlicher Rat des Erzbischofs von Salzburg und des Bischofs von Freising; aufgezeichnet von Fr. Benedictus Calles, Benediktiner von Seitenstetten, 1705.\n\nAnfang fol. 2r: Die vorliegende Abhandlung umfasst jene Dinge......\n\nSchluss fol. 141v: **Wir beendeten diese Abhandlung am 8. Juni 1705.**\n\nb) **Abhandlung über die Gesetze:** fol. 143r–168v. Anfang: Gesetz wird in weiter und übertragener Bedeutung...... Schluss: **Wir beendeten diese Abhandlung am 28. Juli, als die Schulen aus bestimmten Gründen früher beendet wurden.**\n\nOhne Zweifel diktierte P. Ludovicus Babenstuber auch die Vorlesungen von Teil b.",
+    "latin": "171 foll.; teg. a1; script. 1705\n\na) Tractatus De Vitiis et Peccatis Dictatus â ......P. Ludovico Babenstuber Ordinis S: P. Benedicti, Celeberrimi Monasterii ad Beatissimam Virginem Ettalensem Professo: Sacrosanctae Theologiae Doctore, Eiusdemque in Alma ac Archi-Episcopali Universitate Professore Primario, Celsissimorum ac Reverendissimorum Sacri Romani Imperii Principum Archi-Episcopi Salisburgensis, et Episcopi Frisingensis Consiliario Ecclesiastico. et calamô exceptus â F. Benedicto Calles Benedictino ad Beatissimam Virginem in Seittenstetten. Anno 1705.\n\nInitium fol. 2r: Praesens Tractatus illa complectitur,......\n\nClausula fol. 141v: Absolvimus praesentem tractatum die 8 Junii Anno 1705.\n\nb) Tractatus De Legibus: fol. 143r–168v.  \nInitium: Lex in ampla et metaphora significatione......  \nClausula: Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.\n\nSine dubio P. Ludovicus Babenstuber etiam lectiones partis b dictavit."
   }
 }

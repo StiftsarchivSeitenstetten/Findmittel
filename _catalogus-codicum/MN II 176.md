@@ -13,14 +13,26 @@ ms_contents:
   - label: a
     title: Tractatus De Sacramentis in genere
     locus: fol. 1r–165r
+    incipits:
+    - label: Prooemii
+      text: Gratia quae nobis profluxit ex passione, ......
+    title_status: unspecified
   - label: b
     title: Tractatus De Baptismo et Confirmatione
     locus: fol. 166r–213v
+    incipits:
+    - text: Controversia Prima. De Baptismo. Inter Sacramenta in specie, ......
+    title_status: unspecified
   - label: c
     title: Tractatus De Venerabili Eucharistia
     locus: fol. 215r–269r
     end_date: '1693-08-29'
     end_time_display: 15 Uhr
+    incipits:
+    - text: Controversia Prima. De Venerabili Eucharistia prout est sacramentum. Omissis variis nominibus, quibus appellari solet......
+    colophons:
+    - text: Absolvimus 29 Augusti 1693. Hora tertia pomeridiana.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

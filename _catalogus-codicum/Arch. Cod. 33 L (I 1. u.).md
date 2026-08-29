@@ -10,12 +10,12 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 33 L (I 1. u.)
 ms_contents:
-  title: "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch"
   items:
-  - label: "a"
-    title: "Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch"
-    locus: "Bl. 1r–66v"
-    note: "Carmina et Epigrammata Latina Prona."
+  - label: a
+    title: Spelacum Veritatis. Eruderatum a Michaele Ernesto Pennegartner ab et in Luch
+    locus: Bl. 1r–66v
+    note: Carmina et Epigrammata Latina Prona.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

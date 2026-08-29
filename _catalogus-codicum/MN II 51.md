@@ -13,24 +13,48 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 51
 ms_contents:
-  summary: Vorlesungen über Gerechtigkeit und Recht, Verträge sowie über den dreieinigen und einen Gott; mit zahlreichen zeitgeschichtlichen
-    Notizen.
+  summary: Vorlesungen über Gerechtigkeit und Recht, Verträge sowie über den dreieinigen und einen Gott; mit zahlreichen zeitgeschichtlichen Notizen.
   items:
   - label: a
     title: Index
     locus: Bl. 1r
+    title_status: unspecified
   - label: b
     title: De Iustitia et Iure
-    locus: Bl. 1–33
+    locus: fol. 1 - 33
+    incipits:
+    - locus: fol. 1r
+      text: Aggredimur tractatum et scitu et utilitate longè utilissimum....
+    colophons:
+    - locus: fol. 33v
+      text: Absolvimus hunc tractatum 12 Januarii quâ 7a (?) (fuit enim hodie dies Jovis) nocte (?) vidi Comoediam in aula Imperatoris exhibitam,
+        ubi erat videre theatrum artificiosissimis perspectivis ab initio columnarum, 2°. arborum, 3 Columnarum instar pallatii, 4°. Petrarum
+        instar montosi littoris Marini, mare illud alluens. 5°. instar horti amoeni viridis arcubus foliorum statuis exornatorum in praesentibus
+        viridium columnarum. Volatusque personarum iam è coelo in terram iam è terrâ in coelum evolantium videre erat. In hâc Comoedia Ferdinandus
+        quartus Rex Hungarorum et Bohemorum Ipse in Cataphractura (in Harnisch) Lanceis Nicolominum ducem, et dux Regem Impetivit, Lanceis fractis
+        gladiis dimicabant. 1652.
+    title_status: unspecified
   - label: c
     title: De Contractibus
-    locus: Bl. 34–152
+    locus: fol. 34 - 152
+    incipits:
+    - locus: fol. 34r
+      text: Contractus ..(?).. accipi potest 1°. latè et Impropriè....
+    explicits:
+    - locus: fol. 152r
+      text: Haec Sub Patre Joanne Fertholdo Societatis Jesu Sacerdote Primario Professore. Viennae. 1652.
+    title_status: unspecified
   - label: d
     title: De Deo Trino et Uno
-    locus: Bl. 1r–163v (= 154–317)
+    locus: fol. 1r - 163v
+    incipits:
+    - text: 'Deum esse fide Divina creditur.... (= f. 154/317) fol. 65v (= 219v):'
+    title_status: unspecified
   - label: e
     title: Index rerum alphabeticus
-    locus: Bl. 163v–166r (= 316–319)
+    locus: fol. 163v - 166r
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

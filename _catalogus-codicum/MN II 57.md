@@ -14,27 +14,53 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 57
 ms_contents:
-  summary: Fortsetzung des philosophischen Kurses Amandus Pachlers mit De coelis, De ortu et interitu, De anima und Metaphysik
-    sowie einer Briefabschrift.
+  summary: Fortsetzung des philosophischen Kurses Amandus Pachlers mit De coelis, De ortu et interitu, De anima und Metaphysik sowie einer Briefabschrift.
   items:
   - label: a
     title: Commentarius in Libros De Coelis
-    locus: Bl. 1–72
+    locus: fol. 1 - 72
+    incipits:
+    - label: Prooemii
+      text: Dignum est ut humanum ingenium attollat oculos....
+    colophons:
+    - text: Absolvimus secundo Martii 1653.
+    title_status: unspecified
   - label: b
     title: In Duos Libros De Ortu et Interitu
-    locus: Bl. 72v–175v
+    locus: fol. 72v - 175v
+    incipits:
+    - label: Prooemii
+      text: De coelis per elementa ad terram descendimus....
+    colophons:
+    - text: Finivimus 31 Maii 1653.
+    title_status: unspecified
   - label: c
     title: Commentarius In 3. Libros De Anima
-    locus: Bl. 167–264v
+    locus: fol. 167 - 264v
+    incipits:
+    - label: Prooemii
+      text: Accedimus paulatim ad finem physicae....
+    colophons:
+    - text: Absolvimus tertio Septembris Anno 1653.
+    title_status: unspecified
   - label: d
     title: Indices ad partes a–c
     locus: Bl. 265r–267r
+    title_status: unspecified
   - label: e
     title: Commentarius In Quatuordecim Libros Metaphysicorum Aristotelis
-    locus: Bl. 1–31r (= 268r–298r)
+    locus: fol. 1 - 31r
+    incipits:
+    - label: Proaemii
+      text: Accedimus ad supremum scientiae naturalis apicem....
+    colophons:
+    - locus: fol. 31
+      text: Absolvimus .... nostrum Cursum Philosophicum Sonantibus tympanis et organis. 15 Septembris Anno 1653.
+    title_status: unspecified
   - label: f
     title: Litterae Datae ex Monasterio Seittenstöttensi
-    locus: Bl. 32 (=299)
+    locus: fol. 32
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

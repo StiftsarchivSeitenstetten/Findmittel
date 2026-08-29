@@ -10,11 +10,16 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 H (XVIII 2m)
 ms_contents:
-  title: "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......"
   items:
-  - label: "a"
-    title: "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......"
-    locus: "S. 1–156"
+  - label: a
+    title: Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori
+      Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum
+      codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV
+      Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice
+      seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique
+      historicis et criticis notulis,......
+    locus: S. 1–156
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

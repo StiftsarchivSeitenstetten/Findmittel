@@ -10,17 +10,21 @@ ms_identifier:
   idno: MN III 60
 ms_contents:
   items:
-  - label: "a"
-    title: "Zum wahren Angedenken"
-    locus: "S. III"
-    note: "Deutsches Mahngedicht; die in Klammern stehende Inhaltsbeschreibung stammt vom Katalogbearbeiter und wurde nicht als Titel übernommen."
-  - label: "b"
-    title: "Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:"
-    locus: "S. IV, 1–153, 169–172"
-    note: "Mit Register „Aller hierin Begriffenen gebettern“ S. 169–172."
-  - label: "c"
-    title: "Litaney zu allen Heiligen Gottes"
-    locus: "S. 154–167"
+  - label: a
+    title: Zum wahren Angedenken
+    locus: p. III
+    note: Deutsches Mahngedicht; die in Klammern stehende Inhaltsbeschreibung stammt vom Katalogbearbeiter und wurde nicht als Titel übernommen.
+    title_status: unspecified
+  - label: b
+    title: 'Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen:
+      Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:'
+    locus: p. IV, 1–153
+    note: Mit Register „Aller hierin Begriffenen gebettern“ S. 169–172.
+    title_status: unspecified
+  - label: c
+    title: Litaney zu allen Heiligen Gottes
+    locus: p. 154–167
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

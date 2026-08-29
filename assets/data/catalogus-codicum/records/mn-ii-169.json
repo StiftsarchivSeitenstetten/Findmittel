@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-169",
   "signature": "MN II 169",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "131–132",
   "heading": {
     "title": "Logica Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1689/90"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Logica Aristotelico-Thomistica",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica minor sive Summulae Dialecticae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–43v",
+      "locus": "fol. 1–43",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Antiloquii",
+          "text": "Summulas hoc est Logices maioris Synopsin.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 43v",
+          "text": "Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Antiloquii",
+        "text": "Summulas hoc est Logices maioris Synopsin.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 43v",
+        "text": "Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,15 +97,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Maior",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "fol. 45–276v",
+      "locus": "fol. 45–276",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Praefationis In Logicam Maiorem",
+          "text": "fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 276v",
+          "text": "Absolvimus autem in pervigilio Pentecostes ..... (1690)",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Praefationis In Logicam Maiorem",
+        "text": "fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 276v",
+        "text": "Absolvimus autem in pervigilio Pentecostes ..... (1690)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -203,13 +256,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 169",
     "titles": "Logica Aristotelico-Thomistica \nLogica minor sive Summulae Dialecticae \nLogica Maior",
-    "persons": "P. Pontianus Schüz Dozent lecturer \nFr. Ambrosius Prevenhueber Schreiber scribe \nAegidius Stadler unspecified unspecified \nAmbrosius Prevenhueber unspecified unspecified \nModestus Meyr de Biberg unspecified unspecified",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n278 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Pontianus Schüz Dozent lecturer Kloster Ottobeuren / Universität Salzburg \nFr. Ambrosius Prevenhueber Schreiber scribe Seitenstetten \nAegidius Stadler unspecified unspecified  \nAmbrosius Prevenhueber unspecified unspecified  \nModestus Meyr de Biberg unspecified unspecified ",
+    "incipits": "Summulas hoc est Logices maioris Synopsin..... \nfol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est.....",
+    "explicits": "Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689). \nAbsolvimus autem in pervigilio Pentecostes ..... (1690)",
+    "notes": "AE. &. A. &. M. (??) / In Convictu 27. Maii. 1691.",
+    "physical": "Papier \n278 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "278 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf Vorder- und Rückdeckel die Initialen des Namens Christi **IHS**; geschrieben 1689/90.\n\n**Aristotelisch-thomistische Logik**, vorgetragen von P. Pontianus Schüz, Benediktiner und Profess des freien, exemten und kaiserlichen Klosters Ottobeuren, Doktor der freien Künste und Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Ambrosius Prevenhueber, Benediktiner und Profess von Seitenstetten, 1690.\n\nNotiz am unteren Rand des Titelblattes: **AE. &. A. &. M. (??) / In Convictu 27. Maii. 1691.**\n\na) **Kleine Logik oder Summulae der Dialektik:** fol. 1–43. Anfang der Vorrede: Die Summulae, das heißt eine Zusammenfassung der größeren Logik..... Schluss fol. 43v: **Wir beendeten unsere kleine Logik oder die Summulae der Dialektik am 7. Dezember 1689.**\n\nb) **(Größere Logik):** fol. 45–276. Anfang der Vorrede fol. 45r: Dass wir die Logik zuerst sehen, bevor wir sie hören, ist höchst notwendig..... Schluss fol. 276v: **Wir beendeten [sie] am Vorabend von Pfingsten 1690.**\n\nDieselben Logikvorlesungen enthält Archivcodex 34 Y. Vielleicht sind die Buchstaben **AE. &. A. &. M.** die Anfangsbuchstaben der Namen der Seitenstettner Mitbrüder Aegidius Stadler (Profess 1689), Ambrosius Prevenhueber (Profess 1688) und Modestus Meyr de Biberg (Profess 1690), die wahrscheinlich 1691 im Salzburger Ordenskonvikt lebten.",
+    "latin": "278 foll.; teg. a2, in parte adversa et aversa tegumenti litterae initiales nominis Christi: I H S; script. 1689/90\n\nLogica Aristotelico-Thomistica. Ab ..... P. Pontiano Schüz, Ordinis S. P. Benedicti Liberi et Exempti ac Imperialis Monasterii Ottoburani Professo, Artium Liberalium, et Philosophiae Doctore, et Professore ordinario. Tradita, hincque excepta à Religioso F. Ambrosio\n\n\n\n\nPrevenhueber, Eundem Ordinem Professo in Seittenstetten. Anno 1690\n\nNota in margine inferiore folii titularis: AE. &. A. &. M. (??)  \nIn Convictu 27. Maii. 1691.\n\na) Logica minor sive Summulae Dialecticae: fol. 1–43. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris Synopsin.....  \nClausula fol. 43v: Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).\n\nb) (Logica Maior): fol. 45–276. Initium Praefationis In Logicam Maiorem: fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est..... Clausula fol. 276v: Absolvimus autem in pervigilio Pentecostes ..... (1690)\n\nEasdem lectiones Logices continet codex Archivi 34 Y (vide infra!) Forsitan litterae AE. &. A. &. M. initia sint nominum Confratrum Seitenstettensium Aegidii Stadler (prof. 1689), Ambrosii Prevenhueber (prof. 1688), Modesti Meyr de Biberg (prof. 1690), probabiliter in convictu regularium Salisburgi degentium anno 1691."
   }
 }

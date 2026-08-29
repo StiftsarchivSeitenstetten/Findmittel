@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-118",
   "signature": "MN II 118",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "64",
   "heading": {
-    "title": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1670"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,47 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 2v–248r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "fol. 2r",
+          "label": "Prooemii",
+          "text": "Explicatis praecedenti anno tribus novae legis sacramentis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 285r",
+          "text": "Absolvimus 4 Octobris die festo S: Francisci antemeridianis horis 1670.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 2r",
+        "label": "Prooemii",
+        "text": "Explicatis praecedenti anno tribus novae legis sacramentis.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 285r",
+        "text": "Absolvimus 4 Octobris die festo S: Francisci antemeridianis horis 1670.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r)."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -119,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-118/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 118",
-    "titles": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r). \nTractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
+    "titles": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae \nTractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n288 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "incipits": "Explicatis praecedenti anno tribus novae legis sacramentis.....",
+    "explicits": "Absolvimus 4 Octobris die festo S: Francisci antemeridianis horis 1670.",
+    "notes": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
+    "physical": "Papier \n288 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "288 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1670.\n\n**Dritte Abhandlung zum dritten Teil des heiligen Lehrers über die übrigen vier Sakramente**, nämlich:\n\n- über das Sakrament der Buße: fol. 2v–248r;\n- über das Sakrament der Letzten Ölung: fol. 248v–255v;\n- über das Sakrament der Weihe: fol. 255v–265r;\n- über das Sakrament der Ehe: fol. 265r–285r.\n\nAnfang der Vorrede fol. 2r: Nachdem im vorangegangenen Jahr drei Sakramente des Neuen Gesetzes erklärt worden sind..... Schluss fol. 285r: Wir beendeten [dies] am 4. Oktober, dem Fest des hl. Franziskus, vormittags, 1670.\n\nDer Schriftcharakter zeigt, dass auch diesen Codex Fr. Ambrosius Marholt schrieb.\n\nDieselbe Abhandlung enthält auch Archivcodex 34–17; der Verfasser bleibt unbekannt.",
+    "latin": "288 foll.; teg. a2 (ut in codice MN II 98); script. 1670\n\nTractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).\n\n_Initium_ Prooemii fol. 2r: Explicatis praecedenti anno tribus novae legis sacramentis..... _Clausula_ fol. 285r: Absolvimus 4 Octobris die festo S: Francisci antemeridianis horis 1670.\n\nTypus scripturae manifestat etiam hunc codicem **F. Ambrosium Marholt** (de quo supra ad cod. MN II 98 in pag. 62!) scripsisse.\n\nEundem tractatum invenies etiam in archivi codice 34–17 (de quo plura inferius!); nihilominus auctor ignotus."
   }
 }

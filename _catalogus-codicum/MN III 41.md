@@ -10,64 +10,80 @@ ms_identifier:
   idno: MN III 41
 ms_contents:
   items:
-  - label: "a"
-    title: "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen"
-    locus: "S. 1–15"
-  - label: "b"
-    title: "Verschiedene Vorbedeutungen"
-    title_type: "supplied"
-    locus: "S. 15–62"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "c"
-    title: "Salz aus Krautern etc. Zu praeparieren und Ziehen"
-    locus: "S. 62–64"
-  - label: "d"
-    title: "Vor Raupen oder Würm im Kohl und Kraut"
-    locus: "S. 64"
-  - label: "e"
-    title: "Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten"
-    locus: "S. 65–258"
-  - label: "f"
-    title: "Salpeter oder Salniter Zu krügen unterschiedliche weis"
-    locus: "S. 258–287"
-  - label: "g"
-    title: "Verschiedene Ratschläge"
-    title_type: "supplied"
-    locus: "S. 287–309"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "h"
-    title: "Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?)"
-    locus: "S. 309–327"
-  - label: "i"
-    title: "Was Monathlich bey den bäumen Zu Thuen"
-    locus: "S. 328–333"
-  - label: "j"
-    title: "Von Einigen Obst-bäumen insonderheit"
-    locus: "S. 337–364"
-  - label: "k"
-    title: "Von der Obsternte"
-    title_type: "supplied"
-    locus: "S. 364–379"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "l"
-    title: "Obst und Baum-gartten"
-    locus: "S. 380–515"
-  - label: "m"
-    title: "Verschiedene Ratschläge"
-    title_type: "supplied"
-    locus: "S. 515–532"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "n"
-    title: "Register aller Hierinen Enthaltenen Sachen"
-    locus: "S. 533–549"
-    note: "Die Angabe „alphabeticum“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
-  - label: "o"
-    title: "Wanzen, Item Schwaben und Keffer Zu Vertreiben"
-    locus: "S. 550"
-  - label: "p"
-    title: "Salpeter Zu Figieren"
-    locus: "S. 550"
-    note: "Unvollständig; am Ende fehlen vermutlich etwa 20 Seiten."
+  - label: a
+    title: Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen
+    locus: p. 1–15
+    title_status: unspecified
+  - label: b
+    title: Verschiedene Vorbedeutungen
+    locus: p. 15–62
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: Salz aus Krautern etc. Zu praeparieren und Ziehen
+    locus: p. 62–64
+    title_status: unspecified
+  - label: d
+    title: Vor Raupen oder Würm im Kohl und Kraut
+    locus: p. 64
+    title_status: unspecified
+  - label: e
+    title: Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten
+    locus: p. 65–258
+    title_status: unspecified
+  - label: f
+    title: Salpeter oder Salniter Zu krügen unterschiedliche weis
+    locus: p. 258–287
+    title_status: unspecified
+  - label: g
+    title: Verschiedene Ratschläge
+    locus: p. 287–309
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: h
+    title: Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?)
+    locus: p. 309–327
+    title_status: unspecified
+  - label: i
+    title: Was Monathlich bey den bäumen Zu Thuen
+    locus: p. 328–333
+    title_status: unspecified
+  - label: j
+    title: Von Einigen Obst-bäumen insonderheit
+    locus: p. 337–364
+    title_status: unspecified
+  - label: k
+    title: Von der Obsternte
+    locus: p. 364–379
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: l
+    title: Obst und Baum-gartten
+    locus: p. 380–515
+    title_status: unspecified
+  - label: m
+    title: Verschiedene Ratschläge
+    locus: p. 515–532
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: n
+    title: Register aller Hierinen Enthaltenen Sachen
+    locus: p. 533–549
+    note: Die Angabe „alphabeticum“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
+  - label: o
+    title: Wanzen, Item Schwaben und Keffer Zu Vertreiben
+    locus: p. 550
+    title_status: unspecified
+  - label: p
+    title: Salpeter Zu Figieren
+    locus: p. 550
+    note: Unvollständig; am Ende fehlen vermutlich etwa 20 Seiten.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

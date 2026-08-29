@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-233",
   "signature": "MN II 233",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "182–183",
   "heading": {
     "title": "Summulae seu brevis Manuductio ad Logicam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1708/09"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Summulae seu brevis Manuductio ad Logicam",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Summulae seu brevis Manuductio ad Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. I, III, 1–196",
+      "locus": "p. I et III, 1–196",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. III",
+          "label": "Prooemii",
+          "text": "Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. III",
+        "label": "Prooemii",
+        "text": "Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [
@@ -154,13 +173,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-233/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 233",
     "titles": "Summulae seu brevis Manuductio ad Logicam \nSummulae seu brevis Manuductio ad Logicam",
-    "persons": "P. Hieronymus Pesneker Dozent lecturer \nP. Joseph Malletz Dozent lecturer \nGeorg Wenceslaus Wiedon Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Hieronymus Pesneker Dozent lecturer Zisterzienserkloster Ossegg / Erzbischöfliches Seminar Prag \nP. Joseph Malletz Dozent lecturer Zisterzienserkloster Ossegg / Erzbischöfliches Seminar Prag \nGeorg Wenceslaus Wiedon Schreiber scribe Erzbischöfliches Seminar Prag",
+    "incipits": "Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIII + 210 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "notes": "G. Wiedon",
+    "physical": "Papier \nIII + 210 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "III + 210 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1708/09.\n\n**Summulae oder kurze Einführung in die Logik**, die im erzbischöflichen Seminar in Prag von den ehrwürdigen und gelehrten Professoren P. Hieronymus Pesneker und P. Joseph Malletz, Zisterziensern und Professen des Klosters Ossegg, vorgetragen und von ihrem Schüler und Hörer Georg Wenceslaus Wiedon am 6. Dezember 1708 und 1709 aufgezeichnet wurden: S. I, III, 1–196.\n\nAnfang der Vorrede S. III: Philosophie, was nichts anderes ist als Liebe und Streben nach Weisheit,......\n\nWelche Teile dieser Abhandlung P. Hieronymus Pesneker und welche P. Joseph Malletz diktierten, konnte der Katalogbearbeiter nicht unterscheiden. Beide waren Mönche des Klosters Ossegg, heute Osek in Böhmen.\n\nDer Name des Schreibers **G. Wiedon** ist auch auf der Innenseite des Einbandes eingeprägt.",
+    "latin": "III + 210 pagg.; teg. b1; script. 1708/09\n\nSummulae seu brevis Manuductio ad Logicam Quas In Celeberrimo Archi-Episcopali Seminario Pragensi â Reverendis ac doctissimis Patribus Professoribus Hieronymo Pesneker: Et Josepho Malletz: Sacri ordinis Cisterciensis Ossecii Professis, Excepit eiusdem studii indignus discipulus et Auditor Dominus Georgius Wenceslaus Wiedon. Die 6 Decembris Annô 1708: et 1709: p. I et III, 1–196\n\nInitium Prooemii p. III: Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......\n\nQuae pars huius tractatus a P. Hieronymo Pesneker, quae a P. Josepho Malletz dictata sit, discernere non potui. Uterque est monachus monasterii Ossegg (hodie Osek) in Bohemia.\n\nNomen scriptoris G: Wiedon etiam parti adversae tegumenti impressum est."
   }
 }

@@ -12,28 +12,40 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis
-    locus: S. 5–240
-    incipit: Evehimur tandem in ipsum Doctrinae sacrae principium, et finem
+    locus: p. 5–240
+    incipits:
+    - text: Evehimur tandem in ipsum Doctrinae sacrae principium, et finem,......
+    title_status: unspecified
   - label: b
     title: Tractatus Scholastico-Positivus De Deo Trino
-    locus: S. 245–319
-    incipit: Sumum (!) Religionis nostrae mysterium
+    locus: p. 245–319
+    incipits:
+    - text: Sumum (!) Religionis nostrae mysterium ......
+    title_status: unspecified
   - label: c
     title: Tractatus Scholastico-Dogmaticus De Angelis
-    locus: S. 321–376
-    incipit: Explicata Dei unius, et Trini essentia, attributisque
+    locus: p. 321–376
+    incipits:
+    - text: Explicata Dei unius, et Trini essentia, attributisque......
+    title_status: unspecified
   - label: d
     title: Tractatus Secundus. De creatura corporali
-    locus: S. 377–418
-    incipit: Post considerationem spiritualis creaturae
+    locus: p. 377–418
+    incipits:
+    - text: Post considerationem spiritualis creaturae,......
+    title_status: unspecified
   - label: e
     title: Tractatus Primus in Primam secundae S. Thomae Aquinatis. de Ultimo fine seu Beatitudine hominis
-    locus: S. 420–471
-    incipit: Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita
+    locus: p. 420–471
+    incipits:
+    - text: Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita......
+    title_status: unspecified
   - label: f
     title: Tractatus Secundus De Actibus Humanis
-    locus: S. 472–566
-    incipit: Progredimur cum Angelico duce nostro ad explicandos actus humanos
+    locus: p. 472–566
+    incipits:
+    - text: Progredimur cum Angelico duce nostro ad explicandos actus humanos,...
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

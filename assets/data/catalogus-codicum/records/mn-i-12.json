@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-12",
   "signature": "MN I 12",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "220",
   "heading": {
     "title": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "vermutlich zwischen 1742 und 1745"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "translation": "",
     "summary": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII.",
-    "language": "de",
+    "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,31 +48,44 @@
     {
       "id": "item-1",
       "label": "",
-      "type": "",
+      "type": "session_protocols",
+      "physicalUnit": "",
       "title": {
-        "text": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "protocolla 52 sessionum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
         {
-          "type": "summary",
-          "text": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII."
+          "type": "completeness",
+          "text": "Desunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent."
         },
         {
-          "type": "missing_contents",
-          "text": "session: 4; locus: fol. 48–64; status: missing; session: 35; status: missing"
+          "type": "number_of_sessions",
+          "text": "52"
         },
         {
-          "type": "contents",
-          "text": "type: session_protocols; number_of_sessions: 52; date: 20. November 1741 bis 12. März 1742; place: Frankfurt; participants: Kurfürsten oder deren Gesandte; subject_person: Karl VII."
+          "type": "participants",
+          "text": "Kurfürsten oder deren Gesandte"
+        },
+        {
+          "type": "subject_person",
+          "text": "Karl VII."
         }
       ],
-      "dates": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "20. November 1741 bis 12. März 1742"
+        }
+      ],
       "persons": [],
       "subitems": []
     }
@@ -164,13 +180,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-12/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 12",
-    "titles": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi \nWahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe \nKarl VII. subject; Kaiser subject; Kaiser",
+    "titles": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi \nprotocolla 52 sessionum",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe  \nKarl VII. subject; Kaiser subject; Kaiser ",
     "incipits": "",
     "explicits": "",
-    "notes": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII. \nde \nProtokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII. \nsession: 4; locus: fol. 48–64; status: missing; session: 35; status: missing \ntype: session_protocols; number_of_sessions: 52; date: 20. November 1741 bis 12. März 1742; place: Frankfurt; participants: Kurfürsten oder deren Gesandte; subject_person: Karl VII. \nDer Katalog nennt insgesamt 52 Faszikel und zugleich Protokolle von 52 Sitzungen, vermerkt jedoch, dass die Faszikel zur vierten und fünfunddreißigsten Sitzung fehlen. Diese Angaben werden ohne Harmonisierung übernommen. \nDie Datierung auf 1742–1745 ist eine Vermutung des Katalogbearbeiters und keine unmittelbar im Codex belegte Datierung. \nDie blaue Farbe der seidenen Bänder wird ausdrücklich im Katalog vermerkt und als physisches Merkmal erfasst.",
-    "physical": "Papier \n52 Faszikel = 541 Blätter \nFolio \nunit_type: Faszikel; units: 52; construction: Die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden.; sewing_or_ties: material: Seide; color: blau"
+    "notes": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII. \nDesunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent. \n52 \nKurfürsten oder deren Gesandte \nKarl VII. \nDer Katalog nennt insgesamt 52 Faszikel und zugleich Protokolle von 52 Sitzungen, vermerkt jedoch, dass die Faszikel zur vierten und fünfunddreißigsten Sitzung fehlen. Diese Angaben werden ohne Harmonisierung übernommen. \nDie Datierung auf 1742–1745 ist eine Vermutung des Katalogbearbeiters und keine unmittelbar im Codex belegte Datierung. \nDie blaue Farbe der seidenen Bänder wird ausdrücklich im Katalog vermerkt und als physisches Merkmal erfasst.",
+    "physical": "Papier \n52 Faszikel = 541 Blätter \nFolio \nunit_type: Faszikel; units: 52; construction: Die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden.; sewing_or_ties: material: Seide; color: blau",
+    "german": "52 Faszikel = 541 Blätter; Folioformat; die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden; sämtliche Faszikel werden jedoch lose in einem Papierumschlag mit Lederrücken aufbewahrt, der das Format der Blätter etwas überragt (Großfolio).\n\n**Aufschrift des Umschlags:** Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Tatsächlich enthält unser Umschlag die Protokolle von 52 Sitzungen, welche die Kurfürsten oder deren Gesandte in Frankfurt vom 20. November 1741 bis zum 12. März 1742 abhielten. Es fehlen jedoch die Faszikel mit den Protokollen der vierten Sitzung (fol. 48–64) und der fünfunddreißigsten Sitzung.\n\nEs ist sehr zu bezweifeln, dass diese Protokolle erst nach dem Tod Karls VII. abgeschrieben wurden. Daher würde ich, wenn auch nicht ganz ohne Vorbehalt, annehmen, dass unsere Faszikel zwischen den Jahren 1742 und 1745 geschrieben wurden.\n\nWie diese Faszikel über die Wahl und Krönung eines Kaisers, der den österreichischen Interessen überaus feindlich gesinnt war, in ein österreichisches Kloster gelangten, ist eine Frage, die einer Klärung würdig ist.\n\nIm Übrigen kenne ich weder den Kompilator noch den Schreiber.\n\n(Die Seidenbänder, welche die Blätter der Faszikel zusammenhalten, sind blau gefärbt.)",
+    "latin": "52 fasciculi = 541 foll.; fol.; uniuscuiusque fasciculi folia ligamine serico coniuncta sunt; omnes autem fasciculi soluti in involucro chartaceo cum dorso scorteo servantur, quod ambitum foliorum aliquantum excedit (fol. mai.).\n\n**Inscriptio involucri:** Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Et re vera continet involucrum nostrum protocolla 52 sessionum, quas principes electorales aut eorum nuntii Francofurti a die 20. Novembris 1741 usque ad diem 12. Martii 1742 instituerunt. Desunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent.\n\nValde dubitandum est, num haec protocolla Carolo Septimo iam mortuo descripta sint. Qua de causa fasciculos nostros inter annos 1742 et 1745 scriptos esse, etsi non sine ulla haesitatione, putaverim.\n\nQuo modo hi fasciculi de electione et coronatione imperatoris rerum Austriacarum inimicissimi in monasterium Austriacum devenerint, digna est, quae solvatur, quaestio.\n\nCeterum neque compilatorem scio neque scriptorem.\n\n(Ligamina serica, quae fasciculorum folia coniungunt, caeruleo colore tincta sunt.)"
   }
 }

@@ -9,9 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 118
 ms_contents:
-  catalogue_title_or_summary: 'Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de
-    Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r;
-    de Sacramento Matrimonii: fol. 265r–285r).'
+  items:
+  - catalog_statement: 'Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol.
+      2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).'
+    title: 'Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae'
+    locus: fol. 2v–248r
+    incipits:
+    - locus: fol. 2r
+      label: Prooemii
+      text: Explicatis praecedenti anno tribus novae legis sacramentis.....
+    colophons:
+    - locus: fol. 285r
+      text: 'Absolvimus 4 Octobris die festo S: Francisci antemeridianis horis 1670.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,13 +13,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 7
 ms_contents:
-  title: "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)"
   items:
-  - label: "a"
-    title: "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)"
-    locus: "S. 5–458"
-    incipit: "Virtutes Theologicas, quae immediate circa Deum...."
-    explicit: "Finis huius Tractatus 5 Die Septembris Anno 1620"
+  - label: a
+    title: 'Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi,
+      Professore ordinario M DC XIX (1619)'
+    locus: p. 5 - 458
+    incipits:
+    - text: Virtutes Theologicas, quae immediate circa Deum....
+      label: Proemii
+    title_status: unspecified
+    colophons:
+    - locus: p. 458
+      text: Finis huius Tractatus 5 Die Septembris Anno 1620
 phys_desc:
   object_form: codex
   support: Papier

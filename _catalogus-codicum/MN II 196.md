@@ -12,15 +12,29 @@ ms_contents:
   items:
   - label: a
     title: Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis
-    locus: S. 1–172
+    locus: p. 1–172
     note: Gegenüber MN II 197 ist nach der dortigen Schlussformel auf S. 169–172 ein Zusatz enthalten.
+    incipits:
+    - locus: p. 1
+      text: Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata.....
+    title_status: unspecified
   - label: b
     title: Logica Aristotelico Thomistica per usitatas hoc tempore Quaestiones exposita
-    locus: S. 1–504 (=173–676)
-    dated_clausulae:
-    - locus: S. 141 (=313)
-      date: '1696-01-28'
-      note: Schluss der ersten Disputation; Samstag am verlegten Fest des hl. Paulus Eremita.
+    locus: p. 1–504
+    incipits:
+    - locus: p. 1
+      label: Proemii
+      text: Quae hucusque dicta sunt non incongrue appellari possunt.....
+    colophons:
+    - locus: p. 141
+      text: Finivimus 28 Januarii die Sabbathi ante nonam in festo translato Eremitae.
+    title_status: unspecified
+    notes:
+    - 'Eandem clausulam reperies in proximo codice MN II 197, qui in fine logicae maioris etiam numerum anni 1696 perhibet. Et re vera 28. Januarii
+      anno 1696 erat dies Sabbati. Codex MN II 197 non solum eandem logicam maiorem, sed etiam eandem minorem praebet, quam codex noster, sed
+      tribus circiter paginis breviorem. Addidit enim codex noster ad clausulam „....dicta sufficiant“ supplementum quoddam: p. 169–172. Nihilominus
+      non est rationabile dubium, quin codex MN II 197 easdem lectiones contineat atque codex noster. Attamen auctor ignotus. Immo codicis nostri
+      neque scriptorem novimus.'
 phys_desc:
   object_form: codex
   support: Papier

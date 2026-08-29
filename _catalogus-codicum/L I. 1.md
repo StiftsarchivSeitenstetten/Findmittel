@@ -10,11 +10,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: L I. 1
 ms_contents:
-  title: "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I."
   items:
-  - label: "a"
-    title: "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I."
-    locus: "S. 1–484"
+  - label: a
+    title: Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.
+    locus: S. 1–484
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

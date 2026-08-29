@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-29-d-xv-2m",
   "signature": "Arch. Cod. 29 D (XV 2m)",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi",
         "typeRaw": "supplied",
@@ -52,6 +56,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,6 +75,7 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi",
         "typeRaw": "supplied",
@@ -75,6 +83,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,6 +102,7 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Diversi per annum occurrentes",
         "typeRaw": "supplied",
@@ -98,6 +110,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -196,13 +211,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 29 D (XV 2m)",
     "titles": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Diversi per annum occurrentes",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen. \nAus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen. \nAus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen.",
-    "physical": "Papier \n85 pagg. \nQuartformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "physical": "Papier \n85 pagg. \nQuartformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Quartformat; 85 Seiten; vollständig mit Blümchen verzierter Pappeinband.\n\nAuch dieser Codex enthält dieselben drei Teile wie Arch. Cod. 29 B und entstand daher zweifellos ungefähr um 1780.\n\nEr scheint jedoch nicht von P. Bertholdus Stolz, sondern von einer anderen Hand geschrieben zu sein. Da er wesentlich nachlässiger ausgeführt ist als 29 B und 29 L, könnte 29 D sogar jenes Arbeitsexemplar sein, in dem der Verfasser die Seitenstettner Riten zunächst entwarf.\n\nDaher bleibt zweifelhaft, ob P. Bertholdus Stolz tatsächlich Verfasser dieser liturgischen Abhandlungen war, obwohl er als Sakristeiverwalter, zweimaliger Prior und Novizenmeister liturgisch erfahren war.",
+    "latin": "4°; 85 pagg.; teg. chartaceum totum flosculis ornatum\n\nEtiam hic codex illas tres partes continet, quas supra in Codice 29 B invenimus. Quae cum ita sint, non est dubium, quin etiam cod. 29 D circa annum 1780 ortus sit. At videtur hic codex non a P. Bertholdo Stolz, sed ab alia manu scriptus esse, et cum multo negligentius scriptus sit, quam codices 29 B et 29 L, probabiliter codex 29 D illud est exemplar, quo auctor tractatus de ritibus Seitenstettensibus concepit composuitque. Qua de re dubito, num P. Bertholdus Stolz re vera istos tractatus liturgicos composuerit, qui in codicibus 29 B, 29 L, 29 D ad nostram usque aetatem pervenerunt, quamvis peritus esset rerum liturgicarum, quippe qui Sacrae Supellectilis custos et bis Prior claustralis et Novitiorum Magister esset."
   }
 }

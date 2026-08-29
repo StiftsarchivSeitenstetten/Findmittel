@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-8",
   "signature": "97.1.8",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "208",
   "heading": {
     "title": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1723 (?)"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–ca. 650",
+      "locus": "p. 207",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -141,13 +148,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.8",
     "titles": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876. \nCodicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
-    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "persons": "Johann Fischer Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \nca. 650 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \nca. 650 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; etwa 650 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.**\n\nDa dieser Codex lediglich die beiden vorausgehenden fortsetzt, siehe oben S. 207 bei Codex 97.1.6 zu Verfasser, Schreiber und Entstehung des Gesamtwerks.",
+    "latin": "fol.; ca. 650 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.**\n\nHic cum nil nisi continuet codex duos codices praecedentes, vide supra p. 207, quae ad codicem 97.1.6 de auctore, scriptore, origine totius operis dixerimus!"
   }
 }

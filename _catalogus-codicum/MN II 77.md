@@ -15,12 +15,27 @@ ms_contents:
   items:
   - label: a
     title: Summulae seu Institutiones Dialecticae
-    title_type: supplied
     locus: fol. 2–81v
     note: Titelblatt fehlt.
+    colophons:
+    - locus: fol. 81v
+      text: absolvimus Summulas 6 Decembris in festo Sancti Nicolai Anno 1660.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Commentarius In Organum Aristotelis
     locus: fol. 84–446
+    incipits:
+    - locus: fol. 84r
+      label: Praefationis
+      text: De praeludiis ad rem, de summulis ad ipsam transgredimur summam....
+    colophons:
+    - locus: fol. 206v
+      text: Absolvimus nostra Prolegomena vigesimo sexto Januarii.... Anno 1661.
+    - locus: fol. 446v
+      text: Absolvimus 20 Maii post prandium praesentibus Dominis Dominis Reverendissimis Abbatibus in Confirmatione Magnifici Domini Patris Rectoris
+        1+6+6+1.
+    title_status: unspecified
   responsibility:
   - role: author
     name: unbekannt

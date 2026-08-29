@@ -12,11 +12,21 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Ecclesia Militante eiusque Notis
-    locus: S. 1–180
+    locus: p. 1–180
+    incipits:
+    - locus: p. 1
+      text: Pessimam sibi fidem faciunt haeretici.....
+    title_status: unspecified
   - label: b
     title: Tractatus controversisticus De Clericis et Monachis
-    locus: S. 185–321
-    note: Der Prolog verweist auf die Behandlung der streitenden Kirche im vorhergehenden Studienjahr; der Codex enthält damit Vorlesungen aus zwei aufeinanderfolgenden Studienjahren.
+    locus: p. 185–321
+    note: Der Prolog verweist auf die Behandlung der streitenden Kirche im vorhergehenden Studienjahr; der Codex enthält damit Vorlesungen aus
+      zwei aufeinanderfolgenden Studienjahren.
+    incipits:
+    - label: Prooemii
+      text: Actum est anno superiori de nomine, definitione, et qualitate verae ecclesiae militantis in terris.... (Continet igitur codex noster
+        lectiones duobus continuis annis scholaribus habitas!)
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

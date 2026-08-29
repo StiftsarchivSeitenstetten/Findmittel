@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-50",
   "signature": "MN II 50",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "31–32",
   "heading": {
     "title": "Tractatus De Sacramentis in Communi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1650/51"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Theologische und moraltheologische Vorlesungen über Sakramente, Dekalog, menschliche Handlungen, Gesetze sowie Sünden und Laster.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,37 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Sacramentis in Communi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–122",
+      "locus": "p. 3 - 122",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Materia huius anni authore Deo....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 122",
+          "text": "Hic Tractatus est finitus 16 Januarii â prandiis quando dictare debebat P. Brogiolly (Progiolly?) qui tunc infirmus fuit Anno 1651.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Materia huius anni authore Deo....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 122",
+        "text": "Hic Tractatus est finitus 16 Januarii â prandiis quando dictare debebat P. Brogiolly (Progiolly?) qui tunc infirmus fuit Anno 1651.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -63,13 +88,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Sacramentis in particulari",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 123–434",
+      "locus": "p. 123 - 434",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,15 +110,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Tribus Primis Praeceptis Decalogi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 437–528",
+      "locus": "p. 437 - 528",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Currenti Studiorum Anno 1650 ex praescripto Scholastico....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "p. 528",
+          "text": "Huc usque P. Angelus Progyolo S. Jesu Philosophiae Decanus Natione Venetus, Patritius Conditione. (Disputatio I: De Conscientia; II: De Legibus)",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "text": "Currenti Studiorum Anno 1650 ex praescripto Scholastico....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 528",
+        "text": "Huc usque P. Angelus Progyolo S. Jesu Philosophiae Decanus Natione Venetus, Patritius Conditione. (Disputatio I: De Conscientia; II: De Legibus)",
+        "id": "explicit-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -99,15 +150,37 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 529–617",
+      "locus": "p. 529 - 617",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Voluntarium recte definitum est id....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 617",
+          "text": "Hanc lectionem scripsi in Vigilia seu Sabbato Palmarum quo finivimus materiam de actibus humanis et libero arbitrio praeside P. Henrico Herding S. S. Theologiae Doctore, qui etiam materiam de Legibus resumpsit dictavitque ab initio iter incipiendo, licet P. P. Angelus Progyolo materiam eandem iam inceperit. die 16 Aprilis 1651.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Voluntarium recte definitum est id....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 617",
+        "text": "Hanc lectionem scripsi in Vigilia seu Sabbato Palmarum quo finivimus materiam de actibus humanis et libero arbitrio praeside P. Henrico Herding S. S. Theologiae Doctore, qui etiam materiam de Legibus resumpsit dictavitque ab initio iter incipiendo, licet P. P. Angelus Progyolo materiam eandem iam inceperit. die 16 Aprilis 1651.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -117,14 +190,28 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 618–674",
+      "locus": "p. 618 - 674",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 618",
+          "text": "Dico 1°: nomen Legis sumitur pro regula directrice actionum moralium....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 618",
+        "text": "Dico 1°: nomen Legis sumitur pro regula directrice actionum moralium....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -135,13 +222,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Peccatis et Vitiis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 675–773",
+      "locus": "p. 675 - 773",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -153,13 +244,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index rerum alphabeticus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 774–778",
+      "locus": "p. 774 - 778",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -259,13 +354,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-50/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 50",
     "titles": "Tractatus De Sacramentis in Communi \nTractatus De Sacramentis in Communi \nDe Sacramentis in particulari \nDe Tribus Primis Praeceptis Decalogi \nDe Actibus Humanis \nDe Legibus \nDe Peccatis et Vitiis \nIndex rerum alphabeticus",
-    "persons": "P. Matthias Bastianschiz SJ lecturers lecturers \nP. Angelus Progyolo SJ lecturers lecturers \nP. Henricus Herding SJ lecturers lecturers \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Theologische und moraltheologische Vorlesungen über Sakramente, Dekalog, menschliche Handlungen, Gesetze sowie Sünden und Laster.",
-    "physical": "Papier \n778 Seiten \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    "persons": "P. Matthias Bastianschiz SJ lecturers lecturers  \nP. Angelus Progyolo SJ lecturers lecturers  \nP. Henricus Herding SJ lecturers lecturers  \nunbekannt Schreiber scribe ",
+    "incipits": "Materia huius anni authore Deo.... \nCurrenti Studiorum Anno 1650 ex praescripto Scholastico.... \nVoluntarium recte definitum est id.... \nDico 1°: nomen Legis sumitur pro regula directrice actionum moralium....",
+    "explicits": "Huc usque P. Angelus Progyolo S. Jesu Philosophiae Decanus Natione Venetus, Patritius Conditione. (Disputatio I: De Conscientia; II: De Legibus) \nHic Tractatus est finitus 16 Januarii â prandiis quando dictare debebat P. Brogiolly (Progiolly?) qui tunc infirmus fuit Anno 1651. \nHanc lectionem scripsi in Vigilia seu Sabbato Palmarum quo finivimus materiam de actibus humanis et libero arbitrio praeside P. Henrico Herding S. S. Theologiae Doctore, qui etiam materiam de Legibus resumpsit dictavitque ab initio iter incipiendo, licet P. P. Angelus Progyolo materiam eandem iam inceperit. die 16 Aprilis 1651.",
+    "notes": "Theologische und moraltheologische Vorlesungen über Sakramente, Dekalog, menschliche Handlungen, Gesetze sowie Sünden und Laster. \ntype: eyewitness_note; location: S. 449; subject: Elefantenkuh und Bär; date_display: 12. November 1650",
+    "physical": "Papier \n778 Seiten \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial.",
+    "german": "778 Seiten, bedeckt von zwei im 15. Jahrhundert handschriftlich beschriebenen Pergamentblättern; geschrieben 1650/51.\n\na) **Abhandlung über die Sakramente im Allgemeinen:** S. 3–122. Am oberen Rand von S. 3: **Diese Abhandlung wurde vom sehr ehrwürdigen P. Matthias Bastianschiz diktiert, Generalpräfekt der Scholaren im Wiener Kolleg, einem siebzigjährigen Priester der Gesellschaft Jesu**; am unteren Rand: **1653**. Anfang: **Der Stoff dieses Jahres, mit Gottes Hilfe....** Schluss S. 122: **Diese Abhandlung wurde am 16. Januar nach dem Mittagessen beendet, als P. Brogiolly (Progiolly?) hätte diktieren sollen, der damals krank war, im Jahr 1651.**\n\nb) **Zweite und folgende Abhandlungen. Über die Sakramente im Einzelnen:** S. 123–434; die Abhandlung über die Ehe ist unvollständig.\n\nS. 435/436 wurden gestrichen, mit dem Vermerk S. 435: **Ich habe schlecht geschrieben, daher habe ich es am 18. August 1651 gestrichen.**\n\nc) **Abhandlung über die drei ersten Gebote des Dekalogs:** S. 437–528. Am oberen Rand von S. 437: **Diese Abhandlung wurde vom sehr ehrwürdigen P. Angelus Progyolo, Priester der Gesellschaft Jesu, im Archigymnasium des Wiener Kollegs diktiert.** Anfang: **Im laufenden Studienjahr 1650 gemäß der Schulvorschrift....** Schluss S. 528: **Bis hierher P. Angelus Progyolo SJ, Dekan der Philosophie, von Herkunft Venezianer, dem Stand nach Patrizier.** (Disputation I: Über das Gewissen; II: Über die Gesetze.)\n\nd) **Abhandlung über die menschlichen Handlungen:** S. 529–617. Am oberen Rand von S. 529: **Diese Abhandlung wurde vom sehr ehrwürdigen P. Henricus Herding, Dekan der Philosophie, diktiert.** Anfang: **Das Freiwillige wird richtig definiert als dasjenige....** Schluss S. 617: **Diese Lektion schrieb ich am Vorabend beziehungsweise Samstag vor Palmsonntag, an dem wir den Stoff über die menschlichen Handlungen und den freien Willen unter P. Henricus Herding, Doktor der heiligen Theologie, beendeten; dieser nahm auch den Stoff über die Gesetze wieder auf und diktierte ihn von Anfang an erneut, obwohl P. Angelus Progyolo denselben Stoff bereits begonnen hatte. 16. April 1651.**\n\ne) **Abhandlung über die Gesetze:** S. 618–674 (mit Register bis S. 778?). Anfang S. 618: **Ich sage erstens: Der Name Gesetz wird für eine Regel genommen, die moralische Handlungen lenkt....**\n\nf) **Abhandlung über Sünden und Laster:** S. 675–773. Abschnitt 1: **Über die Sünde der Unzucht und Unmäßigkeit**; Abschnitt 2: **Über das Sakrament der Ehe**; Abschnitt 3: **Über die Sünde des Diebstahls und die Pflicht zur Restitution**; Abschnitt 4: **Über die Verpflichtung bestimmter in der Praxis vorkommender Stände**; Abschnitt 5: **Über die Umstände der Sünden, die der Beichtvater kennen muss.**\n\ng) **Alphabetisches Sachregister:** S. 774–778.\n\nVermerk S. 449: **Heute, am 12. November, sah ich eine Elefantenkuh von vier Ellen Höhe. Wie man feststellen konnte, zeigte sie sehr klug, dass sie verschiedene Kunststücke beherrschte. Vor allem bat sie mit ausgestrecktem Rüssel um Semmeln; eine mit dem Rüssel ergriffene Semmel führte sie, den Rüssel kreisförmig einrollend, zum Maul. Mit dem Rüssel [Text gestrichen] focht sie (?), hob einen Kreuzer vom Boden auf und spielte mit einem ergriffenen Stöckchen auf einer Trommel. Auch (?) an diesem Tag kam ein Bär aus Tyrnau in das Konvikt, durch die Freigebigkeit des hochwürdigsten Erzbischofs von Gran, Herrn Ilipai, für drei fl. petariis (?) übersandt. 1650.**",
+    "latin": "778 pagg., tectae duobus foliis membranaceis, saec. XV manu scriptis; script. 1650/51\n\na) *Tractatus De Sacramentis in Communi:* p. 3 - 122; pag. 3 in margine superiore: Hic Tractatus dictatus est ab Admodum Reverendo P. Matthia Bastianschiz Scholarium Viennae in Collegio Praefecto Generali Viro Septuagenario Societatis Jesu Sacerdote; in margine inferiore: 1653; *initium:* Materia huius anni authore Deo.... *clausula* p. 122: Hic Tractatus est finitus 16 Januarii â prandiis quando dictare debebat P. Brogiolly (Progiolly?) qui tunc infirmus fuit Anno 1651.\n\nb) *Tractatus II et sequentes: De Sacramentis in particulari:* p. 123 - 434 (tractatus de Matrimonio imperfectus!)\n\n(p. 435/36 deletae cum nota p. 435: Male scripsi ideo delevi 18 Augusti 1651.)\n\nc) *Tractatus De Tribus Primis Praeceptis Decalogi:* p. 437 - 528. Nota in margine superiore p. 437: Hic Tractatus dictatus est ab Admodum Reverendo P. Angelo Progyolo Societatis Jesu Sacerdote Viennae in Collegii Archigymnasio. *Initium:* Currenti Studiorum Anno 1650 ex praescripto Scholastico.... *Clausula* p. 528: Huc usque P. Angelus Progyolo S. Jesu Philosophiae Decanus Natione Venetus, Patritius Conditione. (Disputatio I: De Conscientia; II: De Legibus)\n\nd) *Tractatus De Actibus Humanis:* p. 529 - 617. Nota in margine superiore p. 529: Hic Tractatus dictatus est ab Admodum Reverendo P. Henrico Herding Philosophiae Decano. *Initium:* Voluntarium recte definitum est id.... *Clausula* p. 617: Hanc lectionem scripsi in Vigilia seu Sabbato Palmarum quo finivimus materiam de actibus humanis et libero arbitrio praeside P. Henrico Herding S. S. Theologiae Doctore, qui etiam materiam de Legibus resumpsit dictavitque ab initio iter incipiendo, licet P. P. Angelus Progyolo materiam eandem iam inceperit. die 16 Aprilis 1651.\n\ne) *Tractatus De Legibus:* p. 618 - 674 (cum indice usque ad p. 778?).\n\n*Initium* p. 618: Dico 1°: nomen Legis sumitur pro regula directrice actionum moralium....\n\nf) *Tractatus De Peccatis et Vitiis:* p. 675 - 773 (Sectio 1: De peccato Luxuriae et intemperantiae; Sectio 2: De Sacramento Matrimonii; Sectio 3: De peccato Furti et obligatione restitutionis; Sectio 4: De Obligatione certorum statuum, in praxi occurrentium; Sectio 5: De Circumstantiis peccatorum quas confessarius debet scire.)\n\ng) (Index rerum alphabeticus): p. 774 - 778\n\nNota p. 449: Hodie quae est dies 12 novembris vidi Elephantum foemellam altitudine quatuor ulnarum quae ut experiri licuit prudentissime varia artificia sese scire ostendit, imprimis proboscide (= probboscide) extenso semellas (Semmeln) petivit in eoque semellam aprehensam ori in circulum proboscide rotato eam imposuit quo in proboscide [textus deletus] digladiatus est cruciferum (Kreuzer) elevavit ex terra lusit in tympano apraehenso bacillo etiam (?) haec in die ursus venit ad convictum medii anni Tyrnavia liberalitate Illustrissimi et Reverendissimi Strigoniensis Archiepiscopi domino Ilipai tribus fl. petariis (?) transmissus 1650."
   }
 }

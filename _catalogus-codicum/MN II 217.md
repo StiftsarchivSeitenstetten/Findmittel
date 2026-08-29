@@ -9,13 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 217
 ms_contents:
-  title: Jus Civile sive Commentarius In quinquaginta Libros Digestorum
   items:
   - label: a
     title: Jus Civile sive Commentarius In quinquaginta Libros Digestorum
     locus: S. 1–716
     end_locus: S. 712
     end_date: '1703-07-20'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

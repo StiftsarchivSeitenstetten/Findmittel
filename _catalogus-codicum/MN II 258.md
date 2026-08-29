@@ -9,19 +9,23 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 258
 ms_contents:
-  title: Tractatus. in Physicam Aristotelis
   items:
   - label: a
     title: Tractatus. in Physicam Aristotelis
     locus: fol. 1r–269v
-    incipit: Emenso itinere peripatetico, contritisque logicae vepribus
     note: Enthält die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.
+    incipits:
+    - text: Emenso itinere peripatetico, contritisque logicae vepribus ...........
+      label: Proemii
+    title_status: unspecified
   - label: b
     title: Proemium
     locus: fol. 1r–2r
+    title_status: unspecified
   - label: c
     title: Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae
     locus: fol. 2r–10v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

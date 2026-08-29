@@ -12,14 +12,29 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Sacramentis in genere
-    locus: S. 1–335
+    locus: p. 1–335
+    incipits:
+    - locus: p. 1
+      label: Prooemii
+      text: Gratia quae nobis profluxit ex passione et meritis Christi.....
+    title_status: unspecified
   - label: b
     title: Tractatus De Baptismo et Confirmatione
-    locus: S. 335–454
+    locus: p. 335–454
+    incipits:
+    - locus: p. 335
+      label: Controversiae I De Baptismo
+      text: Intra Sacramenta in specie.....
+    title_status: unspecified
   - label: c
     title: Tractatus De Venerabili (!)
-    locus: S. 455–580
+    locus: p. 455–580
     note: Das Incipit bezeichnet den Gegenstand als Eucharistie; der Katalogtitel bricht nach „De Venerabili“ ab und ist mit Ausrufezeichen markiert.
+    incipits:
+    - locus: p. 455
+      label: Controversiae I De Venerabili Eucharistiam prout est Sacramentum
+      text: omissis variis nominibus quibus appellari solet Eucharistia.......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

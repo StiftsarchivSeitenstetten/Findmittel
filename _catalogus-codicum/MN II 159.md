@@ -9,23 +9,32 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 159
 ms_contents:
-  title: Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere
-    et specie
+  title: Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere et specie
   items:
   - label: a
     title: Disputatio De Virtute et obiecto Justitiae
-    locus: S. 1–275
+    locus: p. 1–275
     end_date_display: 14. April 1687
     certainty: year_inferred_from_context
+    colophons:
+    - text: 'NB: absolvimus hanc disputationem die 14. Aprilis.'
+    title_status: unspecified
   - label: b
     title: Disputatio secunda De Restitutione in genere
-    locus: S. 276–407
+    locus: p. 276–407
     end_date_display: 11. Juni 1687
     certainty: year_inferred_from_context
+    colophons:
+    - text: Absolvimus hanc disputationem die 11 Junii. Hodie Reverendissimus noster infulatus est.
+    title_status: unspecified
   - label: c
     title: Disputatio tertia De Injuriis et Restitutione in specie
-    locus: S. 408–653
+    locus: p. 408–653
     end_date: '1687-08-27'
+    colophons:
+    - text: Anno 1687 Die 27 Augusti.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

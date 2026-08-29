@@ -15,15 +15,29 @@ ms_contents:
   items:
   - label: a
     title: Commentarius Primus In Octo Libros Physicorum
-    locus: S. 5–622
-    title_type: supplied
+    locus: p. 5–622
+    incipits:
+    - locus: p. 5
+      label: (Prooemii)
+      text: Post sententias, ut vocatu Logicae, superata.....
+    colophons:
+    - locus: p. 622
+      text: Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Commentarius Secundus in IV. Libros De Coelis
-    locus: S. 627–804
-    title_type: supplied
-  - label: c
-    title: Commentarius tertius In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione
-    status: nicht erhalten; weder in diesem noch in einem anderen Codex gefunden
+    locus: p. 627–804
+    incipits:
+    - text: Si ab Universali Corporis naturalis consideratione....
+    colophons:
+    - text: Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664.
+    notes:
+    - Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. Qui tamen commentarius neque in hoc codice
+      neque in alio invenitur.
+    title_status: supplied
+    title_source: cataloguer
+    title_source: cataloguer
   responsibility:
   - role: author
     name: unbekannt

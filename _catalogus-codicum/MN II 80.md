@@ -13,13 +13,36 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 80
 ms_contents:
-  title: Disputationes In Octo Libros Physicorum Aristotelis
-  locus: S. 5–1034
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser
   - role: author
     name: unbekannt
+  items:
+  - title: Disputationes In Octo Libros Physicorum Aristotelis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 5–1034
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....
+    colophons:
+    - locus: p. 260
+      text: Et haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus.
+    - locus: p. 623
+      text: Absolvimus Secundum Librum Physicorum 24 Novembris.
+    - locus: p. 779
+      text: Tertium Librum 9 Decembris finivimus.
+    - locus: p. 1019
+      text: Absolvimus Continuum continuo Labore non capiendum 28 Januarii menè.
+    - locus: p. 880
+      text: Proxima die post Epiphaniam hoc est 7 Januarii.
+    - locus: p. 1034
+      text: '...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus.'
+    explicits:
+    - locus: p. 923
+      text: Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.
 phys_desc:
   object_form: codex
   support: Papier

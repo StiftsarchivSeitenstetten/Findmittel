@@ -9,19 +9,24 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 312
 ms_contents:
-  title: Achte Predigt=Sammlung G W(?) 1821
   items:
   - label: a
     title: Achte Predigt=Sammlung G W(?) 1821
     locus: S. 1–284
-    note: Zwischen „Predigt=Sammlung“ und der unsicheren Auflösung „G W(?)“ steht ein handschriftliches Monogramm; Predigten 1821 in Straubing und ab S. 185 im Jahr 1822 als Pfarrer in Rattenberg gehalten.
+    note: Zwischen „Predigt=Sammlung“ und der unsicheren Auflösung „G W(?)“ steht ein handschriftliches Monogramm; Predigten 1821 in Straubing
+      und ab S. 185 im Jahr 1822 als Pfarrer in Rattenberg gehalten.
+    title_status: unspecified
   - label: b
     title: Fragmente eines Tagebuches
-    locus: S. 285–290
+    locus: p. 285–290) et D
+    title_status: unspecified
   - label: c
     title: Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit
-    locus: S. 291–294
-    completeness: mutilated
+    locus: p. 291–294
+    completeness:
+      status: defective
+      note: mutilated
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

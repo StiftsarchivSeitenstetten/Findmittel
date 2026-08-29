@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-26",
   "signature": "MN II 26",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "17–18",
   "heading": {
-    "title": "(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1634"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Parallelüberlieferung zu Teilen von MN II 23; Simon Fyrbas, mitgeschrieben von Matthias Massermair.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 127",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Protologiae",
+          "text": "Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Protologiae",
+        "text": "Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,13 +88,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Pronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX....* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem b codicis MN II 23!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Pronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 148 - 166",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -92,14 +115,30 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Liber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione:* fol. 2 (?) - 108 cum Indice fol. 109 - 112 (= fol. 167 - 278). Initium Protologiae fol. 167: Physica in communi corpus naturale qua naturale in communi considerat.... Idem initium eundemque tractatum invenies supra p. 15 in parte d codicis MN II 23.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Liber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 2",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 167",
+          "label": "Protologiae",
+          "text": "Physica in communi corpus naturale qua naturale in communi considerat.... Idem",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 167",
+        "label": "Protologiae",
+        "text": "Physica in communi corpus naturale qua naturale in communi considerat.... Idem",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -115,13 +154,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Syntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634).* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem e codicis MN II 23!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Syntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 281 - 295",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,14 +181,28 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Theoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634): fol. 1 - 28r cum Indice fol. 27v - 28v (= fol. 296 - 324). Initium fol. 296r: Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 28r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 296r",
+          "text": "Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 296r",
+        "text": "Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -241,13 +298,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 26",
-    "titles": "(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua. \n(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua. \n*Pronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX....* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem b codicis MN II 23!) \n*Liber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione:* fol. 2 (?) - 108 cum Indice fol. 109 - 112 (= fol. 167 - 278). Initium Protologiae fol. 167: Physica in communi corpus naturale qua naturale in communi considerat.... Idem initium eundemque tractatum invenies supra p. 15 in parte d codicis MN II 23. \n*Syntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634).* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem e codicis MN II 23!) \n(Theoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634): fol. 1 - 28r cum Indice fol. 27v - 28v (= fol. 296 - 324). Initium fol. 296r: Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
-    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer \nFr. Matthias Massermair OSB Schreiber scribe",
-    "incipits": "",
+    "titles": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634 \nTheoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634 \nPronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX \nLiber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione \nSyntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634) \nTheoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634",
+    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer  \nFr. Matthias Massermair OSB Schreiber scribe ",
+    "incipits": "Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 \nPhysica in communi corpus naturale qua naturale in communi considerat.... Idem \nPost simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
     "explicits": "",
     "notes": "Parallelüberlieferung zu Teilen von MN II 23; Simon Fyrbas, mitgeschrieben von Matthias Massermair. \n(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua. \n*Pronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX....* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem b codicis MN II 23!) \n*Liber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione:* fol. 2 (?) - 108 cum Indice fol. 109 - 112 (= fol. 167 - 278). Initium Protologiae fol. 167: Physica in communi corpus naturale qua naturale in communi considerat.... Idem initium eundemque tractatum invenies supra p. 15 in parte d codicis MN II 23. \n*Syntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634).* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem e codicis MN II 23!) \n(Theoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634): fol. 1 - 28r cum Indice fol. 27v - 28v (= fol. 296 - 324). Initium fol. 296r: Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!",
-    "physical": "Papier \nKomplexer Mischband aus Handschrift und Drucken \nQuartformat \ndescription: Lederner Einband von rehbrauner oder brauner Farbe mit eingeprägten ungefärbten Pflanzenornamenten."
+    "physical": "Papier \nKomplexer Mischband aus Handschrift und Drucken \nQuartformat \ndescription: Lederner Einband von rehbrauner oder brauner Farbe mit eingeprägten ungefärbten Pflanzenornamenten.",
+    "german": "II + 147 handschriftliche Blätter + IV + 32 gedruckte Seiten (= Bl. 148–166) + 113 handschriftliche Blätter (= Bl. 167–280?) + IV + 24 gedruckte Seiten (= Bl. 281–295) + 30 handschriftliche Blätter (= Bl. 296–326); lederner Einband von rehbrauner oder brauner Farbe mit eingeprägten ungefärbten Pflanzenornamenten, wie bei Arch. Cod. 34 TT.\n\n**a) Physikalische Theorien zu den vier Büchern des Aristoteles Über den Himmel**, diktiert von P. Simon Fyrbas, Mönch von Scheyern, mitgeschrieben von Fr. Matthias Massermair, Profess von Seitenstetten. Salzburg 1634: Bl. 1–127. Anfang der Protologie Bl. 1r: **So weit der Himmel von der Erde entfernt ist, um so viel edler....** Aus diesem Anfang ergibt sich, dass diese Abhandlung dieselbe ist wie jene in Codex MN II 23, Bl. 1–124 (siehe oben S. 15) und daher von P. Simon Fyrbas vorgetragen wurde. Den Schreiber erschließen wir aus dem Einband. Bl. 128–147 leer.\n\n**b) Philosophische Lehrsätze über die Natur des Himmels**, unter dem Vorsitz von P. Fr. Simon Fyrbas verteidigt von P. Wolfgang David [Probsti?], Profess des Klosters Monacense, im Jahr MDCXXX.... (Weiteres über denselben gedruckten Traktat siehe oben S. 15 zu Teil b von Codex MN II 23!)\n\n**c) Einziges Buch physikalischer Theorien zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** Bl. 2 (?)–108 mit Register Bl. 109–112 (= Bl. 167–278). Anfang der Protologie Bl. 167: **Die Physik im Allgemeinen betrachtet den natürlichen Körper, insofern er als natürlicher Körper im Allgemeinen betrachtet wird....** Denselben Anfang und dieselbe Abhandlung findet man oben S. 15 in Teil d von Codex MN II 23.\n\n**d) Physikalische Lehrsätze über die Natur des Werdens....**, unter dem Vorsitz von P. Fr. Simon Fyrbas verteidigt von Fr. Odo Guzinger, Profess des Klosters Monense, 1634. (Weiteres über denselben gedruckten Traktat siehe oben S. 15 zu Teil e von Codex MN II 23!)\n\n**e) Physikalische Theorien zu den vier Büchern des Aristoteles über die Meteore**, diktiert von P. Simon Fyrbas, mitgeschrieben von Fr. Matthias Massermair, 1634: Bl. 1–28r mit Register Bl. 27v–28v (= Bl. 296–324). Anfang Bl. 296r: **Nach den einfachen Körpern haben wir die vollkommenen gemischten Körper behandelt.....** Vergleiche daher oben S. 15 dieselbe Abhandlung in Teil c von Codex MN II 23. Über Schreiber und Zeit siehe oben Teil a)!",
+    "latin": "II + 147 foll. manuscr. + IV + 32 pagg. typis impressae (= fol. 148 - 166) + 113 foll. manuscripta (= fol. 167 - 280?) + IV + 24 pagg. typis mandatae (= fol. 281 - 295) + 30 foll. manuscr. (= fol. 296 - 326); tegumentum ut in cod. 34 TT (vide supra!)\n\n\n\n\na) (Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua.\n\nb) *Pronunciata Philosophica. De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide [Probsti?] ....Monacensi Professo....Anno M.DC.XXX....* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem b codicis MN II 23!)\n\nc) *Liber Unicus Theoriarum Physicarum ad II Libros Aristotelis de Generatione et corruptione:* fol. 2 (?) - 108 cum Indice fol. 109 - 112 (= fol. 167 - 278). Initium Protologiae fol. 167: Physica in communi corpus naturale qua naturale in communi considerat.... Idem initium eundemque tractatum invenies supra p. 15 in parte d codicis MN II 23.\n\nd) *Syntagmata Physica, De Natura Generationis.... Praeside P. F. Simone Fyrbas .... Propugnata a.... F. Oddone Guzinger ....Monensi Professo ....Anno M.DC.XXXIV (1634).* (Cetera de eodem tractatu typis impresso vide supra p. 15 ad partem e codicis MN II 23!)\n\ne) (Theoriae Physicae ad IV Aristotelis Libros Meteororum dictatae ab .....P. Simone Fyrbas.....Exceptae a F. Matthia Massermair....anno 1634): fol. 1 - 28r cum Indice fol. 27v - 28v (= fol. 296 - 324). Initium fol. 296r: Post simplicia corpora perfecta corpora mixta tractavimus..... Confer igitur supra p. 15 eundem tractatum in parte c codicis MN II 23. De scriptore et tempore vide supra in parte a)!"
   }
 }

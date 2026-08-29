@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-15",
   "signature": "MN I 15",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "208",
   "heading": {
     "title": "Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1723 (?)"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "Alphabetisches Gesamtregister zu dem vierteiligen Codex Provincialis, der in den Codices 97.1.6–9 überliefert ist.",
     "language": "de",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-1",
       "label": "1",
       "type": "index",
+      "physicalUnit": "",
       "title": {
         "text": "Index über Alle Vier Theil des Codicis Provincialis",
-        "typeRaw": "shortened_from_original",
-        "typeLabel": "aus dem Originaltitel gekürzt"
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -195,13 +202,16 @@
       "note": "Titel, Verfasser, Schreiber sowie Entstehungszeit von Handschrift und Einband sind nach Aussage des Katalogs von Codex 97.1.6 zu übernehmen."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 15",
     "titles": "Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet. \nIndex über Alle Vier Theil des Codicis Provincialis",
-    "persons": "unbekannt index compiler index_compiler",
+    "persons": "unbekannt index compiler index_compiler ",
     "incipits": "",
     "explicits": "",
     "notes": "Alphabetisches Gesamtregister zu dem vierteiligen Codex Provincialis, der in den Codices 97.1.6–9 überliefert ist. \nde \nAlphabetisches Gesamtregister zu allen vier Teilen des Codex Provincialis. \nDie sachliche Zugehörigkeit zu den Codices 97.1.6–9 wird vom Katalog durch Vergleich der Überschriften erschlossen. \nDie Angaben zu Verfasser und Schreiber werden nicht eigenständig aus MN I 15 gewonnen, sondern durch ausdrücklichen Rückverweis auf Codex 97.1.6. \nOb der Verfasser des Codex Provincialis zugleich der Kompilator dieses alphabetischen Gesamtregisters war, bleibt laut Katalog offen.",
-    "physical": "Papier \n298 Seiten \nFolio \ncode: b1 mit weißem Rücken; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \n298 Seiten \nFolio \ncode: b1 mit weißem Rücken; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; 298 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet.**\n\nWenn man diese Überschrift mit den Überschriften der vorhergehenden Codices 97.1.6–9 vergleicht, erkennt man sofort, dass unser Codex das (alphabetische) Register jenes Werkes ist, das diese vier Codices enthalten. Daher gilt das, was wir bei Codex 97.1.6 über den Titel, den Verfasser, den Schreiber sowie die Entstehungszeit der Handschrift und des Einbandes erläutert haben, auch für diesen Codex; lediglich bleibt ungewiss, ob der Verfasser des Werkes selbst auch dieses Gesamtregister zusammengestellt hat.",
+    "latin": "fol.; 298 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet.**\n\nQuam cum comparaveris inscriptionem cum inscriptionibus codicum praecedentium 97.1.6–9, statim intelliges codicem nostrum esse indicem (alphabeticum) illius operis, quod isti quattuor codices continent. Qua de re quae ad codicem 97.1.6 de inscriptione, auctore, scriptore, tempore scripturae tecturaeque explicavimus, etiam ad hunc codicem pertinent, nisi forte incertum est, num ipse auctor operis etiam hunc indicem generalem composuerit."
   }
 }

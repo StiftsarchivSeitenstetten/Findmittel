@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 267
 ms_contents:
-  title: Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727
   items:
   - label: a
-    title: Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta. Annô 1727
-    locus: S. 3–216
+    title: Argumenta Dictata et Correcta à Reverendo Magistro Georgio Pasócger et à me Mathias Viehpaur Parviste diligentissimè et ornatè inscripta.
+      Annô 1727
+    locus: p. 3–216
     note: Deutsche Themen zur alten Geschichte mit lateinischen Übersetzungen und korrigierten Fassungen.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

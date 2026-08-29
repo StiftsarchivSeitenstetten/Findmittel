@@ -12,11 +12,21 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum
-    locus: S. 7–220
+    locus: p. 7–220
     note: Behandelt werden die Fragen 50–64 und 106–115.
+    incipits:
+    - locus: p. 7
+      label: Proemii
+      text: Postquam Divus Thomas Dei naturam......
+    title_status: unspecified
   - label: b
     title: Tractatus Quartus In primam secundae Summae Angelicae De Actibus humanis
-    locus: S. 220–504
+    locus: p. 220–504
+    incipits:
+    - locus: p. 221
+      label: Proemii
+      text: Postquam Divus Thomas in I. parte Summae Theologicae egit......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

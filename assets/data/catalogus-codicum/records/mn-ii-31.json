@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-31",
   "signature": "MN II 31",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "21",
   "heading": {
     "title": "Commentarii in Organum Aristotelis Anno 1637.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1637"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarii in Organum Aristotelis Anno 1637.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarii in Organum Aristotelis Anno 1637.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–558",
       "language": "",
+      "incipits": [
+        {
+          "text": "Magna pars mortalium conqueritur de naturae malignitate (?).....",
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Magna pars mortalium conqueritur de naturae malignitate (?)....."
+        "text": "Magna pars mortalium conqueritur de naturae malignitate (?).....",
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -146,13 +163,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-31/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 31",
     "titles": "Commentarii in Organum Aristotelis Anno 1637. \nCommentarii in Organum Aristotelis Anno 1637.",
-    "persons": "P. Michael Truseter OSB Dozent lecturer \nunbekannt Schreiber scribe",
+    "persons": "P. Michael Truseter OSB Dozent lecturer  \nunbekannt Schreiber scribe ",
     "incipits": "Magna pars mortalium conqueritur de naturae malignitate (?).....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n558 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "notes": "F A M P S",
+    "physical": "Papier \n558 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "558 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1637.\n\n**Kommentare zum Organon des Aristoteles, 1637.**\n\nAnfang der Vorrede S. 1: **Ein großer Teil der Sterblichen beklagt sich über die Bosheit (?) der Natur.....**\n\nAm Rand S. 1: **Diktiert von dem ehrwürdigen P. Fr. Michael Truseter, Mönch von Michaelbeuern**, der im folgenden Jahr Abt dieses Klosters wurde. **1637, 27. März.**\n\nVergoldete Initialen auf der Vorderseite des Einbandes: **F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis.**",
+    "latin": "558 pagg.; teg. a2; script. 1637\n\nCommentarii in Organum Aristotelis Anno 1637.\n\nInitium Prooemii p. 1: Magna pars mortalium conqueritur de naturae malignitate (?).....\n\nIn margine p. 1: Dictante R. P. F. Michaele Truseter Monacho Burensi (= Michaelburano, cuius monasterii anno post abbas factus est). 1637. 27 Martii.\n\nLitterae initiales (inauratae) in parte adversa tegumenti: F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis"
   }
 }

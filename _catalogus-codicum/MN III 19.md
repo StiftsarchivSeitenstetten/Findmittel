@@ -9,15 +9,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 19
 ms_contents:
-  title: "In Librum 1. et 2. Decretalium"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "In Librum 1. et 2. Decretalium"
-    title_type: "supplied"
-    locus: "S. 4–191 bzw. S. 1–280 (= 197–477)"
-    incipit: "Jus Canonicum est ius ex Sacris Canonis seu regulis ecclesiasticis collectum......"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+  - label: a
+    title: In Librum 1. et 2. Decretalium
+    locus: p. 4–191
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    incipits:
+    - text: Jus Canonicum est ius ex Sacris Canonis seu regulis ecclesiasticis collectum......
+      locus: p. 3
+      label: Proaemii Juris Canonici
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

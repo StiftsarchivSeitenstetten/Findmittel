@@ -15,10 +15,25 @@ ms_contents:
     locus: fol. 1–222
     start_date: '1689-11-06'
     end_date: '1690-07-31'
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Salutem hominis et operum eius honestatem .....
+    colophons:
+    - locus: fol. 222v
+      text: Absolvimus hunc Tractatum die 31. Julii. 1690.
+    title_status: unspecified
   - label: b
     title: Tractatus In Secundam Secundae Divi Thomae de Virtutibus Theologicis. Fide, Spe, et Charitate
     locus: fol. 223–255
     end_date: '1690-09-01'
+    incipits:
+    - locus: fol. 223r
+      text: Disputatio prima. De Fide. Tres esse virtutes Theologicas......
+    colophons:
+    - locus: fol. 255r
+      text: 149. Lectiones universim. Absolvimus 1. Septembris 1690.
+    title_status: unspecified
   lecture_count_total: 149
 phys_desc:
   object_form: codex

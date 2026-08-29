@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-53",
   "signature": "MN III 53",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "262",
   "heading": {
     "title": "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1780 (?)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-53/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 53",
     "titles": "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter \nGeistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband abgeschnitten."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband abgeschnitten.",
+    "german": "Kleines Oktavformat; 90 Seiten; Einband abgeschnitten; geschrieben um 1780 (?).\n\n**Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter.**\n\nDie Überschriften der einzelnen Gebete sind grün und golden verziert. Im Übrigen sind weder Verfasser noch Schreiber bekannt. Aufgrund von Form und Verzierung der Schrift datiert der Katalogbearbeiter das Büchlein ungefähr auf 1780.",
+    "latin": "8° min.; 90 pagg.; teg. abscissum; scriptus ca. 1780 (?)\n\n**Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter.**\n\nInscriptiones singularum precum viridi aureoque colore ornatae sunt. Ceterum neque auctor notus neque scriptor. Sed propter formam ornamentaque scripturae puto circa annum 1780 hunc codicillum scriptum esse."
   }
 }

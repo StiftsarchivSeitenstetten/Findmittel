@@ -16,9 +16,24 @@ ms_contents:
   summary: Praktische Sakramentenlehre mit Abschrift eines kasuistischen Werkes von Valerius Reginaldus SJ.
   items:
   - label: a
-    catalog_statement: '*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus....'
+    catalog_statement: '*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383
+      (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet
+      à malis actibus....'
+    title: 'De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641)'
+    locus: p. 7 - 383
+    incipits:
+    - locus: p. 9
+      label: Praefationis
+      text: Ut homo declinet à malis actibus....
+    title_status: unspecified
   - label: b
-    catalog_statement: '*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.'
+    catalog_statement: '*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium.
+      In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod
+      primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.'
+    title: Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes
+      distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior
+    locus: p. 403 - 495
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

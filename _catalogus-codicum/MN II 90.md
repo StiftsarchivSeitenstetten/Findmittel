@@ -17,12 +17,22 @@ ms_contents:
   - label: a
     title: Dialectica Seu Introductio Ad Philosophiam
     locus: fol. 1–26v
+    incipits:
+    - locus: fol. 1r
+      text: Dialectica ex Graeco Dialeges (!) derivatur........
+    title_status: unspecified
   - label: b
     title: Logica seu Prima Pars Cursus Philosophiae
     locus: fol. 27–267r
+    title_status: unspecified
   - label: c
     title: Compendium Logicae
-    locus: fol. 278–328v
+    locus: fol. 1–51v
+    incipits:
+    - locus: fol. 1
+      label: Disputationis Primae et Secundae De Obiecto et Natura Logicae
+      text: Dico primo Logica est facultas intellectualis.....
+    title_status: unspecified
   responsibility:
   - role: author
     name: unbekannt

@@ -17,8 +17,12 @@ ms_contents:
   items:
   - label: a
     title: In Octo Libros Physicorum Aristotelis
-    locus: Bl. 1–269
+    locus: fol. 2v - 36v
     note: Mit Disputatio Proemialis De Habitibus und Index Definitionum Physicarum.
+    incipits:
+    - locus: fol. 1r
+      text: Hoc tandem est Studium quod tibi Promitti saepius audisti....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

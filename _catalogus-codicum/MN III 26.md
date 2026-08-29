@@ -9,15 +9,32 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 26
 ms_contents:
-  title: "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711"
+  title: Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno
+    1711
   items:
-  - label: "a"
-    title: "Libellus Professionis sive Explicatio formulae Professionis Benedictinae"
-    locus: "S. 3–123"
-    incipit: "Si turpè est Patritio, et Nobili, et causas oranti..."
-  - label: "b"
-    title: "Syllabus Quaestionum"
-    locus: "S. 124–125"
+  - label: a
+    title: Libellus Professionis sive Explicatio formulae Professionis Benedictinae
+    locus: p. 3–123
+    incipits:
+    - text: Si turpè est Patritio, et Nobili, et causas oranti...
+      locus: p. 4
+      label: Praefatiunculae in explicationem formulae Professionis Benedictinae
+    colophons:
+    - locus: p. 125
+      text: Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).
+    title_status: unspecified
+  - label: b
+    title: Syllabus Quaestionum
+    locus: p. 124–125
+    incipits:
+    - locus: p. 4
+      label: Praefatiunculae in explicationem formulae Professionis Benedictinae
+      text: Si turpè est Patritio, et Nobili, et causas oranti...
+    colophons:
+    - locus: p. 125
+      text: Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

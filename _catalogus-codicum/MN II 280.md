@@ -13,14 +13,22 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Positivus De Deo Uno, ac Divinis Attributis
-    locus: S. 5–172
-    incipit: Evehimur tandem in ipsum doctrinae Sacrae principium et finem
+    locus: p. 5–172
     end_date_display: 27. Mai 1751
+    incipits:
+    - text: Evehimur tandem in ipsum doctrinae Sacrae principium et finem
+    title_status: unspecified
   - label: b
     title: Tractatus De Deo Trino. Anno. 1.7.51. 28. Mensis Maii
-    locus: S. 179–226
-    incipit: Summum religionis nostrae mysterium
+    locus: p. 179–226
     end_date_display: 14. Juni 1751
+    incipits:
+    - text: Summum religionis nostrae mysterium,.....
+      locus: p. 181
+    colophons:
+    - text: Die 14 Junii Anno 1751. (cetera ut in parte a!).
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

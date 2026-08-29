@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-33",
   "signature": "MN II 33",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "22",
   "heading": {
-    "title": "(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis....",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus de Legibus",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1638"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Theologische Sammelhandschrift zu Gesetzen, Gnade und Sakramenten; Teil c von Thomas Ringmair.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Legibus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 5 - 123",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "text": "Tractatus de legibus est quidem communis Theologis et Jurisperitis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "text": "Tractatus de legibus est quidem communis Theologis et Jurisperitis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +86,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Divina Gratia",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 125 - 390",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "[gestrichen",
+          "text": "in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "[gestrichen",
+        "text": "in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,14 +123,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 407",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 407",
+          "text": "Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 407",
+        "text": "Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -196,13 +241,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-33/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 33",
-    "titles": "(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis.... \n(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis.... \n(Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus..... \nTractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
-    "persons": "unbekannt author parts a b author_parts_a_b \nP. Thomas Ringmair OSB author part c author_part_c \nFr. Gabriel Saur OSB scribe pp 413 662 scribe_pp_413_662 \nunbekannt other scribes other_scribes",
-    "incipits": "",
+    "titles": "Tractatus de Legibus \nTractatus de Legibus \nTractatus De Divina Gratia \nTractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium",
+    "persons": "unbekannt author parts a b author_parts_a_b  \nP. Thomas Ringmair OSB author part c author_part_c  \nFr. Gabriel Saur OSB scribe pp 413 662 scribe_pp_413_662  \nunbekannt other scribes other_scribes ",
+    "incipits": "Tractatus de legibus est quidem communis Theologis et Jurisperitis.... \nin] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus..... \nPost Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
     "explicits": "",
     "notes": "Theologische Sammelhandschrift zu Gesetzen, Gnade und Sakramenten; Teil c von Thomas Ringmair. \n(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis.... \n(Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus..... \nTractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....",
-    "physical": "Papier \n882 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \n882 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "882 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1638.\n\n**a) Abhandlung über die Gesetze:** S. 5–123; Anfang S. 5: **Die Abhandlung über die Gesetze ist zwar Theologen und Rechtsgelehrten gemeinsam....**\n\n**b) Abhandlung über die göttliche Gnade:** S. 125–390; Anfang [gestrichen: in] der Vorrede zur Abhandlung über die göttliche Gnade aus der *Prima Secundae* des hl. Thomas S. 125: **Da wir über die göttliche Gnade handeln wollen, bedürfen wir zuerst des Lichtes der Gnade.....**\n\n**c) Abhandlung über die Sakramente aus dem dritten Teil des hl. Thomas**, diktiert von dem ehrwürdigen P. Thomas Ringmair aus Wessobrunn, ordentlichem Professor usw. Salzburg 1638. Anfang S. 407: **Nach dem Leiden des Herrn sind die Sakramente die wichtigsten Werkzeuge unseres Heils.....**\n\nÜber die Sakramente im Allgemeinen: S. 407–560.\n\nÜber das, was zum Sakrament der Taufe gehört: S. 560–642.\n\nÜber das Sakrament der Firmung: S. 643–662.\n\nÜber das Sakrament der Eucharistie: S. 663–878.\n\nDer Verfasser der Teile a) und b) ist ungewiss, ebenso der Schreiber der Seiten 5–413 und 663–878. Die Seiten 413–662 schrieb dagegen Fr. Gabriel Saur, Profess von Seitenstetten, wie der Vermerk S. 662 zeigt: **Bis hierher schrieb F. G. S. P. S. im Jahr 1638.** (Dass S. 413–662 von derselben Hand geschrieben wurden, ergibt sich aus dem Schriftcharakter.)",
+    "latin": "882 pagg., teg. a2; script. 1638\n\na) (Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis....\n\nb) (Tractatus De Divina Gratia): p. 125 - 390; initium [gestrichen: in] Proaemii in Tractatum De Divina Gratia ex 1a 2ae S. Thomae p. 125: Tractaturi de divina gratia lumine gratiae inprimis indigemus.....\n\nc) Tractatus De Sacramentis ex 3a parte S. Thomae Dictatus à R. P. Thoma Ringmair Wessenbrunnensi Professore Ordinario, &c: Salisburgi. 1. 6. 38. Initium p. 407: Post Dominicam passionem Sacramenta sunt potissima Instrumenta nostrae Salutis.....\n\nDe Sacramentis in Genere p. 407 - 560;\n\nDe pertinentibus ad Sacramentum Baptismi: p. 560 - 642\n\nDe Sacramento Confirmationis: p. 643 - 662\n\nDe Sacramento Eucharistiae: p. 663 - 878\n\nAuctor partis a) et b) incertus, item scriptor pagg. 5 - 413, 663 - 878; paginas vero 413 - 662 scripsit Fr. Gabriel Saur, Professus Seittenstettensis, ut nota p. 662 ostendit: Huc usque descripsit F. G. S. P. S. Anno M. DC XXXVIII. (PP. 413 - 662 ab eadem manu scriptas esse e charactere scripturae intelligitur.)"
   }
 }

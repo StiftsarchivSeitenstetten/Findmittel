@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 70
 ms_contents:
-  title: "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele"
   items:
-  - label: "a"
-    title: "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele"
-    locus: "S. 1–196"
+  - label: a
+    title: Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen
+      Seele
+    locus: p. 196
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

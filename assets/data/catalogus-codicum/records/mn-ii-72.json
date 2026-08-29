@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-72",
   "signature": "MN II 72",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "46–47",
   "heading": {
     "title": "Tractatus Tertius In Duos Libros De Generatione Et corruptione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1655"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius In Duos Libros De Generatione Et corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–195",
+      "locus": "p. 1",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Proloquii",
+          "text": "Recta scientiarum methodus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Proloquii",
+        "text": "Recta scientiarum methodus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,15 +83,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus IV In Quatuor Libros Aristotelis De Meteoris",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 207–244",
+      "locus": "p. 207–244",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 207",
+          "text": "Post traditam generalem doctrinam....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 244",
+          "text": "Absolvimus 22 Maii 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 207",
+        "text": "Post traditam generalem doctrinam....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 244",
+        "text": "Absolvimus 22 Maii 1655.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -82,15 +125,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus V. In Tres Libros De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 251–388",
+      "locus": "p. 251–388",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 251",
+          "text": "De anima praesens pertractatio est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 388",
+          "text": "die 17 Augusti Anno 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 251",
+        "text": "De anima praesens pertractatio est....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 388",
+        "text": "die 17 Augusti Anno 1655.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -100,15 +167,41 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 393–504",
+      "locus": "p. 393",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 393",
+          "label": "Prooemii",
+          "text": "Non suprema scientiarum physica est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 504",
+          "text": "Absolvimus 17. Septembris. 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 393",
+        "label": "Prooemii",
+        "text": "Non suprema scientiarum physica est....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 504",
+        "text": "Absolvimus 17. Septembris. 1655.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -193,13 +286,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 72",
     "titles": "Tractatus Tertius In Duos Libros De Generatione Et corruptione \nTractatus Tertius In Duos Libros De Generatione Et corruptione \nTractatus IV In Quatuor Libros Aristotelis De Meteoris \nTractatus V. In Tres Libros De Anima \nIn XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus",
-    "persons": "P. Anselm Schlager Dozent lecturer",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Anselm Schlager Dozent lecturer ",
+    "incipits": "Recta scientiarum methodus.... \nPost traditam generalem doctrinam.... \nDe anima praesens pertractatio est.... \nNon suprema scientiarum physica est....",
+    "explicits": "Absolvimus 22 Maii 1655. \ndie 17 Augusti Anno 1655. \nAbsolvimus 17. Septembris. 1655.",
     "notes": "",
-    "physical": "Papier \n506 Seiten \ndescription: Pergamenteinband des 14. oder 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+    "physical": "Papier \n506 Seiten \ndescription: Pergamenteinband des 14. oder 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+    "german": "506 Seiten; Pergamenteinband aus dem 14. oder 15. Jahrhundert, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1655.\n\na) **Dritte Abhandlung zu den zwei Büchern Über Werden und Vergehen:** S. 1–195. Anfang der Vorrede S. 1: Die richtige Methode der Wissenschaften....\n\nb) **Vierte Abhandlung zu den vier Büchern des Aristoteles Über die Meteorologie:** S. 207–244 (=1–38); Anfang S. 207: Nach Darlegung der allgemeinen Lehre....  \nSchluss S. 244 (=38): **Wir beendeten [dies] am 22. Mai 1655.**\n\nc) **Fünfte Abhandlung zu den drei Büchern Über die Seele:** S. 251–388 (=1–140). Anfang S. 251: Die vorliegende Behandlung der Seele ist....  \nSchluss S. 388 (=140): **am 17. August 1655.**\n\nd) **Sechste und letzte Abhandlung zu den zwölf Büchern der Metaphysik des Aristoteles:** Anfang der Vorrede S. 393: Die Physik ist nicht die höchste der Wissenschaften.... Schluss S. 504 (=109): **Wir beendeten [dies] am 17. September 1655.**\n\nWenn man diesen Codex mit dem vorhergehenden vergleicht, erkennt man leicht, dass er dieselben Abhandlungen enthält wie jener; daher ist es wahrscheinlich, dass P. Anselm Schlager, Andechser Mönch, sie vorgetragen hat.",
+    "latin": "506 pagg.; teg. membranaceum saec. XIV. aut XV. modis musicis ornate inscriptum; script. 1655\n\na) Tractatus Tertius In Duos Libros De Generatione Et corruptione: pag. 1–195. Initium Proloquii p. 1: Recta scientiarum methodus....\n\n\n\n\nb) Tractatus IV In Quatuor Libros Aristotelis De Meteoris: p. 207–244 (=1–38); initium p. 207: Post traditam generalem doctrinam....  \nClausula p. 244 (=38): Absolvimus 22 Maii 1655.\n\nc) Tractatus V. In Tres Libros De Anima: p. 251–388 (=1–140). Initium p. 251: De anima praesens pertractatio est....  \nClausula p. 388 (=140): die 17 Augusti Anno 1655.\n\nd) In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus: Initium Prooemii p. 393: Non suprema scientiarum physica est.... Clausula p. 504 (=109): Absolvimus 17. Septembris. 1655.\n\nQuem si comparaveris codicem cum praecedente, facile videbis, eosdem eum continere tractatus, quos ille, ideoque veri simile esse P. Anselmum Schlager Monachum Andecensem eos tradidisse."
   }
 }

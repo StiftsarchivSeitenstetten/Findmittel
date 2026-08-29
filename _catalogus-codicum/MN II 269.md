@@ -12,20 +12,33 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus De Deo uno
-    locus: S. 3–190
-    incipit: De Theologiae nostrae praestantia, utilitate, ac necessitudine profari
+    locus: p. 3–190
     date_display: 1735 (?)
+    incipits:
+    - text: De Theologiae nostrae praestantia, utilitate, ac necessitudine profari,.....
+      locus: p. 7
+      label: (Proemii)
+    title_status: unspecified
   - label: b
     title: Tractatus Theologicus De Deo Trino
-    locus: S. 195–244
-    incipit: Consideratis his, ait S. Doctor
+    locus: p. 195–244
     date_display: '1735'
+    incipits:
+    - text: Consideratis his, ait S. Doctor......
+      locus: p. 197
+      label: Partis Secundae De Deo Trino
+    title_status: unspecified
   - label: c
     title: Tractatus Theologicus de Angelis
-    locus: S. 247–350
-    incipit: 'Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se'
+    locus: p. 247–350
     date_display: '1736'
     end_date_display: 24. März 1736
+    incipits:
+    - text: 'Tractatus Theologico Scholasticus De Angelis: Postquam Divus Thomas noster Deum ut est in se, ......'
+      locus: p. 249
+    colophons:
+    - text: Tractatum hunc finivimus 24. Martii 1736.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

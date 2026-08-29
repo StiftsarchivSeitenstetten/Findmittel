@@ -12,10 +12,12 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae
-    locus: S. 1–393
+    locus: p. 1–393
+    title_status: unspecified
   - label: b
     title: Tractatus in tertiam partem Divi Thomae de Sacramentis Extremae unctionis, ordinis et Matrimonii
-    locus: S. 393–532
+    locus: p. 393–532
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

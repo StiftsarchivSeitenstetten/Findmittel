@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-116",
   "signature": "MN II 116",
   "aliases": [
@@ -9,19 +9,22 @@
   "catalogPage": "72",
   "heading": {
     "title": "Codex MN II 116",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {},
   "contentsOverview": {
-    "title": "Codex MN II 116",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -33,16 +36,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codex MN II 116",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Codex MN II 116"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -86,13 +98,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-116/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 116",
     "titles": "Codex MN II 116 \nCodex MN II 116",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n334 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Codex MN II 116",
+    "physical": "Papier \n334 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "334 Blätter; Einband wie bei Codex MN II 111; Entstehungszeit ungefähr um 1670.\n\na) **(Abhandlung über die Gesetze):** fol. 1–94r; Register fol. 94v–96r. Anfang der Vorrede fol. 1r: Auch dem Moraltheologen kommt es zu, von den Gesetzen zu handeln.....\n\nb) **(Abhandlung über die Zensuren):** fol. 97–204v; Register fol. 205r–206r. Anfang der Vorrede fol. 97r: Die Kenntnis der kirchlichen Zensuren ist vor allem dem Beichtvater notwendig.....\n\nc) **(Über Verlöbnisse und Ehe):** fol. 210–329v (=1–120); fol. 33–40 sind zwischen fol. 24 und 25 eingeschoben. Anfang der ersten Frage über die Verlöbnisse fol. 210r: *Sponsalia* wird von *spondere* hergeleitet......\n\nSchreiber und Verfasser sind unbekannt; Schrift und Einband gehören jedoch ungefähr in die Zeit um 1670.",
+    "latin": "334 foll.; teg. a2 ut in codice MN II 111\n\na) (Tractatus De Legibus): fol. 1–94r cum Indice fol. 94v–96r. _Initium_ Praefationis In Tractatum De Legibus fol. 1r: De legibus agere etiam ad Theologum moralem spectat.....\n\nb) (Tractatus De Censuris): fol. 97–204v cum Indice fol. 205r–206r. _Initium_ Praefationis in Tractatum De Censuris fol. 97r: Notitia de censuris Ecclesiasticis confessario in primis necessaria est.....\n\nc) (De Sponsalibus et Matrimonio): fol. 210–329v (=1–120; NB: foll. 33–40 inter foll. 24 et 25 inserta sunt!). _Initium_ Quaestionis primae De sponsalibus fol. 210r: Sponsalia â spondendo dicta sunt......\n\nScriptor et auctor ignoti, sed forma scripturae tegumentique spectant fere ad annum 1670."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-250",
   "signature": "MN II 250",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "193",
   "heading": {
     "title": "CoMpenDIosa artIs RhetorICes",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1714"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "CoMpenDIosa artIs RhetorICes",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "CoMpenDIosa artIs RhetorICes",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–143",
+      "locus": "p. 7–143",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -143,13 +150,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-250/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 250",
     "titles": "CoMpenDIosa artIs RhetorICes \nCoMpenDIosa artIs RhetorICes",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "In drei Bücher gegliedert; gewidmet Franz Wenzel Adalbert Joseph Anton Johann Hieronymus, Graf Colloredo von Walsee. Das Chronogramm ergibt 1714.",
-    "physical": "Papier \n128 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten Figuren verziert."
+    "notes": "In drei Bücher gegliedert; gewidmet Franz Wenzel Adalbert Joseph Anton Johann Hieronymus, Graf Colloredo von Walsee. Das Chronogramm ergibt 1714. \ntype: coat_of_arms; locus: S. 11 und Vorderdeckel; description: Wappen der Grafen Colloredo von Walsee; auf dem Einband ursprünglich vergoldet.",
+    "physical": "Papier \n128 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten Figuren verziert.",
+    "german": "128 Seiten; lederner Einband von rehbrauner oder brauner Farbe, mit eingeprägten Figuren verziert.\n\n**Kurze Darstellung der rhetorischen Kunst** – Chronogramm auf 1714.\n\n**Im Monat Januar begonnen und in Oppotochna vorgetragen** – ebenfalls Chronogramm auf 1714.\n\nGewidmet dem hochgeborenen Herrn Franz Wenzel Adalbert Joseph Anton Johann Hieronymus, Graf des Heiligen Römischen Reiches Colloredo von Walsee: S. 7–143, in drei Bücher gegliedert.\n\nS. 11 ist das Wappen der Grafen Colloredo von Walsee kunstvoll gezeichnet. Dasselbe Wappen ist auch auf dem Vorderdeckel eingeprägt und war ursprünglich vergoldet; von dieser Vergoldung ist heute fast nichts mehr erhalten.\n\nDas Buch ist äußerst sorgfältig geschrieben. Umso mehr ist zu bedauern, dass einige Blätter fehlen, nämlich zwischen S. 30 und 31 – Kapitel XVI und XVII des ersten Buches; nach einer anderen Vermutung könnten diese bereits vom Verfasser selbst ausgelassen worden sein.\n\nMöglicherweise handelt es sich um einen Auszug aus einem umfangreicheren Rhetorikbuch. Mehrfach werden das *Manuale Rhetoricum* und Cyprianus Soarius zitiert.\n\nAuch die erhaltenen Blätter waren in ihrer Reihenfolge stark durcheinandergeraten. Der Katalogbearbeiter versuchte, soweit möglich, die ursprüngliche Blattfolge wiederherzustellen.\n\nVerfasser und Schreiber sind unbekannt.",
+    "latin": "128 pagg.; teg. b1 figuris impressis (vide infra!) ornatum\n\nCoMpenDIosa artIs RhetorICes (Chronogramma ad annum 1714!)  \nMense IanVarIo InChoata atqVe OppotoChnae traDIta (Chronogr. 1714)  \nIllustrissimo Domino Domino Francisco Wenceslao Adalberto Iosepho Antonio Ioanni Hieronymo Sacri Romani Imperii Comiti Colloredo de Walsee: p. 7–143 (in tres libros divisa)\n\np. 11 insigne comitum Colloredo de Walsee artificiose depictum est. Idem insigne etiam parti adversae tegumenti impressum et olim auro linitum est, quod tamen aurum nunc paene deest.\n\nLiber noster diligentissime scriptus est. Ideo valde dolemus, quod pauca folia amissa sunt, scilicet inter paginas 30 et 31 (caput XVI. et XVII libri primi; alio coniecto iam ab ipso auctore non tractata esse videntur). Qua de re liber noster fortasse excerptus est e maiore Rhetorices libro. Laudatur pluries Manuale Rhetoricum et Cyprianus Soarius. Etiam quae servata sunt folia ordine valde perturbata erant. Quantum potui, conatus sum originalem restituere ordinem foliorum.\n\nTam auctor ignotus quam scriptor."
   }
 }

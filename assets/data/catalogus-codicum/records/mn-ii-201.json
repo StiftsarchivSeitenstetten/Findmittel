@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-201",
   "signature": "MN II 201",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "151",
   "heading": {
     "title": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1699/1700"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Proloquii",
+          "text": "Cum finis et scopus Totius Summae Theologicae.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 241v",
+          "text": "Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Proloquii",
+        "text": "Cum finis et scopus Totius Summae Theologicae.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 241v",
+        "text": "Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -144,13 +171,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-201/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 201",
     "titles": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio \nTractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
-    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Carolus Schrenk Dozent lecturer St. Peter in Salzburg / Universität Salzburg \nFr. Engelbertus Veser Schreiber scribe Seitenstetten",
+    "incipits": "Cum finis et scopus Totius Summae Theologicae.....",
+    "explicits": "Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.",
     "notes": "",
-    "physical": "Papier \n242 foll. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Vorder- und Rückdeckel rot, die übrigen Teile weiß."
+    "physical": "Papier \n242 foll. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Vorder- und Rückdeckel rot, die übrigen Teile weiß.",
+    "german": "242 Blätter; Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken, Vorder- und Rückdeckel rot, die übrigen Teile weiß; geschrieben 1699/1700.\n\n**Zehnte Abhandlung zum dritten Teil des hl. Thomas von Aquin über das verborgene Geheimnis der Menschwerdung**, vorgetragen von P. Carolus Schrenk, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Engelbertus Veser, Benediktiner und Profess von Seitenstetten, im Jahr 1699.\n\nAnfang der Vorrede: Da Ziel und Zweck der gesamten theologischen Summa..... Schluss fol. 241v: **Wir beendeten diese Abhandlung über das Geheimnis der Menschwerdung am 26. August 1700.**\n\nFr. Engelbertus Veser schrieb auch den vorhergehenden und die fünf folgenden Codices.",
+    "latin": "242 foll.; teg. d (pars adversa et aversa rubra, cetera alba)\n\nTractatus decimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Arcano Incarnationis Mysterio. Traditus â .....P. Carolo Schrenk, ordinis S. P. Benedicti, Celeberrimi et Antiquissimi Monasterii ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Exceptus â F. Engelberto Veser, ordinis S. P. Benedicti Professo Seittenstettensi Anno 1699.\n\nInitium Proloquii: Cum finis et scopus Totius Summae Theologicae.....  \nClausula fol. 241v: Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.\n\nIdem F. Engelbertus Veser etiam codicem praecedentem et quinque sequentes exaravit."
   }
 }

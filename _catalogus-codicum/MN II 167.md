@@ -12,15 +12,28 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De gratia
-    locus: S. 5–562
-    completeness: incomplete
-    note: Der Schluss fehlt; die Abhandlung ist unvollständig.
+    locus: p. 5
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - locus: p. 5
+      text: Nomen gratiae tripliciter solet accipi......
+    notes:
+    - Der Schluss fehlt; die Abhandlung ist unvollständig.
+    - Clausula deest
+    title_status: unspecified
   - label: b
     title: Tractatus De Fide, Spe, Charitate
-    locus: S. 569–677
+    locus: p. 569–677
     subitems:
     - title: Disputatio prima De fide
-      locus: S. 569–677
+      locus: p. 569–677
+      title_status: unspecified
+    incipits:
+    - locus: p. 569
+      text: Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

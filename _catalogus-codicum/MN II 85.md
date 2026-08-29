@@ -17,15 +17,39 @@ ms_contents:
   - label: a
     title: Tractatus De Virtute, et Sacramento Paenitentiae
     locus: fol. 3–223
+    incipits:
+    - locus: fol. 4r
+      label: Quaestionis 85 De sacramento paenitentiae secundum quod est virtus
+      text: Paenitentia coevum nascenti malo antidotum (!).
+    colophons:
+    - locus: fol. 223v
+      text: Absolvimus Tractatum de paenitentia 27. Maii in Vigilia Pentecostes....
+    title_status: unspecified
   - label: b
     title: Tractatus De Sacramento extremae Unctionis
     locus: fol. 226–268
+    incipits:
+    - locus: fol. 226r
+      label: Quaestionis Primae Praeliminaris de potentia obedientiali
+      text: Ne oleum, et ...(?).. tam in hoc, quam in aliis sacramentis.............
+    colophons:
+    - locus: fol. 268v
+      text: 18. Aug. absolvimus Anno 1662.
+    title_status: unspecified
   - label: c
     title: Tractatus tertius De Sacramento Ordinis
     locus: fol. 269–315
+    incipits:
+    - locus: fol. 269r
+      text: Restant 2. Sacramenta ordinis, et matrimonii....
+    title_status: unspecified
   - label: d
     title: Tractatus quartus De Sacramento Matrimonii
     locus: fol. 316–350r
+    incipits:
+    - locus: fol. 316r
+      text: Quinque distinguuntur passim in matrimonio....
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser

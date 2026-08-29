@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-6-xviii-3h",
   "signature": "Arch. Cod. 34–6 (XVIII 3h)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "267–268",
   "heading": {
     "title": "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1792"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–180",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-6-xviii-3h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–6 (XVIII 3h)",
     "titles": "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft. \nMaterialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.",
-    "persons": "P. Benedictus Walcher Bearbeiter compiler \nP. Benedictus Walcher Schreiber scribe",
+    "persons": "P. Benedictus Walcher Bearbeiter compiler  \nP. Benedictus Walcher Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \nII + 180 pagg. \nQuartformat \ndescription: Blaugrauer Pappeinband."
+    "physical": "Papier \nII + 180 pagg. \nQuartformat \ndescription: Blaugrauer Pappeinband.",
+    "german": "Quartformat; II + 180 Seiten; blaugrauer Pappeinband; geschrieben 1792.\n\n**Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.**\n\nZum selben von P. Benedictus Walcher gesammelten und geschriebenen Werk gehören auch der vorausgehende und der folgende Codex.",
+    "latin": "4°; II + 180 pagg.; teg. chartaceum caesium; scriptus 1792\n\n**Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.**\n\nAd idem opus a P. Benedicto Walcher collectum scriptumque pertinent etiam codex praecedens et subsequens."
   }
 }

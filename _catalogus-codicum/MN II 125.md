@@ -12,16 +12,30 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 125.
   items:
   - label: a
-    title: 'Praefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem
-      de Deo, rebusque divinis significat....'
-    locus: p. 3 - 8.
+    title: Praefatio In Casus Conscientiae
+    locus: p. 3 - 8
+    incipits:
+    - locus: p. 3
+      text: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....
+    title_status: unspecified
   - label: b
-    title: 'Tractatus I De actibus humanis: p. 9 - 538. Initium Quaestionis I p. 9: actus humanus proprie est, qui â voluntate
-      deliberatâ procedit.... Clausula: absolvimus 24 Maii.'
-    locus: p. 9 - 538.
+    title: Tractatus I De actibus humanis
+    locus: p. 9 - 538
+    incipits:
+    - locus: p. 9
+      label: Quaestionis I
+      text: actus humanus proprie est, qui â voluntate deliberatâ procedit....
+    colophons:
+    - text: absolvimus 24 Maii.
+    title_status: unspecified
   - label: c
-    title: '(Tractatus II De vitiis et peccatis): p. 541 - 661. Initium p. 541: Post Tractationem de actibus humanis in genere....'
-    locus: p. 541 - 661.
+    title: Tractatus II De vitiis et peccatis
+    locus: p. 541 - 661
+    title_status: supplied
+    title_source: cataloguer
+    incipits:
+    - locus: p. 541
+      text: Post Tractationem de actibus humanis in genere....
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-214",
   "signature": "MN II 214",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "168",
   "heading": {
     "title": "Summulae sive Introductio ad Logicam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1701"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Summulae sive Introductio ad Logicam",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,37 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Summulae sive Introductio ad Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–125",
+      "locus": "p. 5–125",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Proloquii Ad Philosophiae Neo Auditores",
+          "text": "Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Proloquii Ad Philosophiae Neo Auditores",
+        "text": "Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -159,13 +184,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 214",
     "titles": "Summulae sive Introductio ad Logicam \nSummulae sive Introductio ad Logicam",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....",
+    "explicits": "Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.",
     "notes": "",
-    "physical": "Papier \n130 pagg. \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n130 pagg. \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+    "german": "130 Seiten; marmorierter Pappeinband; geschrieben 1701.\n\n**Summulae oder Einführung in die Logik:** S. 5–125.\n\nAnfang der Vorrede an die neuen Hörer der Philosophie: Ich weiß nicht, welchem unheilvollen Geschick des immer wechselnden Glücks ich es zuschreiben soll.....\n\nSchluss: **Diese Summulae über die Termini beendeten wir am Ende des Advents, nämlich am Heiligen Abend, dem 24. Dezember 1701.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.",
+    "latin": "130 pagg.; teg. c2; script. 1701\n\n(Summulae sive Introductio ad Logicam): p. 5–125\n\nInitium Proloquii Ad Philosophiae Neo Auditores: Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....\n\nClausula: Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.\n\nNeque auctor notus neque scriptor, sed idem scriptor etiam duos codices sequentes exaravit."
   }
 }

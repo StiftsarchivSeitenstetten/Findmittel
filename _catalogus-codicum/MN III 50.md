@@ -10,14 +10,18 @@ ms_identifier:
   idno: MN III 50
 ms_contents:
   items:
-  - label: "a"
-    title: "Hand Büchelein Worinen Sehr Schöne Morgen Abends Meß= Beicht und Communion Wie auch Litaney und andere Schönen Gebetter zu finden Seyn Geschriben In Jahr Christi, 1773 den 1sten (= ersten) Abrill"
-    locus: "S. 1–132"
-    note: "Die parenthetische Auflösung „= ersten“ stammt vom Katalogbearbeiter; der Titel als solcher ist überliefert."
-  - label: "b"
-    title: "geistlicher Schilt gegen Leibliche und geistliche gefahrlichkeiten allzeit bey sich zu Tragen: Darinnen sehr Schöne Kröftige (kräftige) Seegen und gebetter zu finden Seind deilß Von der Kirchen, und heil. Vätter gemacht, und vom pabst urbano VIII: Rom: approbiret worden"
-    locus: "S. 133–152"
-    note: "Die parenthetische Auflösung „kräftige“ stammt vom Katalogbearbeiter; der Titel als solcher ist überliefert."
+  - label: a
+    title: Hand Büchelein Worinen Sehr Schöne Morgen Abends Meß= Beicht und Communion Wie auch Litaney und andere Schönen Gebetter zu finden Seyn
+      Geschriben In Jahr Christi, 1773 den 1sten (= ersten) Abrill
+    locus: p. 1–132
+    note: Die parenthetische Auflösung „= ersten“ stammt vom Katalogbearbeiter; der Titel als solcher ist überliefert.
+    title_status: unspecified
+  - label: b
+    title: 'geistlicher Schilt gegen Leibliche und geistliche gefahrlichkeiten allzeit bey sich zu Tragen: Darinnen sehr Schöne Kröftige (kräftige)
+      Seegen und gebetter zu finden Seind deilß Von der Kirchen, und heil. Vätter gemacht, und vom pabst urbano VIII: Rom: approbiret worden'
+    locus: p. 133–152
+    note: Die parenthetische Auflösung „kräftige“ stammt vom Katalogbearbeiter; der Titel als solcher ist überliefert.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

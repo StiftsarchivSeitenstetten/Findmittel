@@ -9,7 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 119
 ms_contents:
-  catalogue_title_or_summary: '(Logica): p. 1–992.'
+  items:
+  - catalog_statement: '(Logica): p. 1–992.'
+    title: Logica
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 1–992
+    incipits:
+    - locus: p. 1
+      label: Prooemii
+      text: Ingressuri stadium (!) Philosophicum à logica incipimus........
+    colophons:
+    - locus: p. 992
+      text: absolvimus 13 Julii. 1671 incoepimus 7 Januarii.
 phys_desc:
   object_form: codex
   support: Papier

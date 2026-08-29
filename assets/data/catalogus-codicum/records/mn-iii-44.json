@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-44",
   "signature": "MN III 44",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "241",
   "heading": {
     "title": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1780 (?)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -133,13 +140,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-44/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 44",
     "titles": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus \nDie Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
-    "persons": "Sincerus Autor author \nunbekannt Schreiber scribe",
+    "persons": "Sincerus Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+    "german": "Oktavformat; 110 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1780 (?).\n\n**Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.**\n\nDer Katalogbearbeiter hält **Sincerus** nicht für den wirklichen Namen des Verfassers, sondern für ein Pseudonym, unter dem dieser seine Person verbarg. Der Name des Schreibers ist völlig unbekannt. Aufgrund des Schriftcharakters ist eine Entstehung um 1780 wahrscheinlich.",
+    "latin": "8°; 110 pagg.; teg. b1; scriptus circa annum 1780 (?)\n\n**Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.**\n\nPuto tamen vocem Sincerus non esse verum nomen auctoris, sed fictum, quo personam suam tegat. Scriptoris vero nomen omnino ignotum est. Sed circa annum 1780 scriptum esse codicem nostrum veri simile est propter characterem scripturae."
   }
 }

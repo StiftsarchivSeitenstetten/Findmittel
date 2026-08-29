@@ -9,19 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 31
 ms_contents:
-  title: "Liber precatorius"
-  title_type: "supplied"
+  title: Liber precatorius
   items:
-  - label: "a"
-    title: "Instructiones spirituales"
-    title_type: "supplied"
-    locus: "fol. II–X, 3–8"
-    note: "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet; der überlieferte deutsche Titel ist mit mehreren Blättern verloren."
-  - label: "b"
-    title: "Piae preces"
-    title_type: "supplied"
-    locus: "übrige Blätter"
-    note: "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet."
+  - label: a
+    title: Instructiones spirituales
+    locus: fol. II–X, 3–8
+    note: Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet; der überlieferte deutsche Titel ist mit mehreren Blättern
+      verloren.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    locus: übrige Blätter
+    note: Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet.
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

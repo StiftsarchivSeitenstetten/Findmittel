@@ -16,11 +16,20 @@ ms_contents:
   items:
   - label: a
     title: Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis
-    locus: S. 5–796
+    locus: p. 5–796
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: Ingressuri scopulosum Logicae fretum......
+    colophons:
+    - locus: p. 796
+      text: '...hoc anno 1659 17 Maii absolvimus....'
+    title_status: unspecified
   - label: b
     title: Conclusiones ex Universa Logica
-    locus: S. 801–819
+    locus: p. 801–819
     extent: 19 Conclusiones
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Fr. Theophilus Janckh

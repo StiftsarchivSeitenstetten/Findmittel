@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-94",
   "signature": "MN II 94",
   "aliases": [
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "In librum tertium Decretalium",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–344",
+      "locus": "p. 1–344",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Tituli Primi De Vita et honestate Clericorum",
+          "text": "p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Tituli Primi De Vita et honestate Clericorum",
+        "text": "p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +86,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Librum quartum Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 387–580",
+      "locus": "p. 1–193",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 387",
+          "text": "Praefatio. Totus hic liber tractat de matrimonio....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 387",
+        "text": "Praefatio. Totus hic liber tractat de matrimonio....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -180,13 +211,16 @@
       "note": "Gleiche Verstümmelung."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 94",
     "titles": "In librum tertium Decretalium \nIn librum tertium Decretalium \nTractatus In Librum quartum Decretalium",
-    "persons": "P. Bernardus Leittner Schreiber scribe \nP. Ludovicus Engel Dozent lecturer",
-    "incipits": "",
+    "persons": "P. Bernardus Leittner Schreiber scribe  \nP. Ludovicus Engel Dozent lecturer ",
+    "incipits": "p. 1: Duo sunt genera Christianorum scribit S. Hieronymus..... \nPraefatio. Totus hic liber tractat de matrimonio....",
     "explicits": "",
-    "notes": "Bis zum Anfang des 22. Titels.",
-    "physical": "Papier \n386 + 200 = 586 Seiten \ndescription: Einband aus zwei Pergamentblättern, Fragment von Lesungen des göttlichen Offiziums aus dem 15. Jahrhundert."
+    "notes": "Bis zum Anfang des 22. Titels. \nConscripta à P. Bernardo. \ncf. Admont 1050/1",
+    "physical": "Papier \n386 + 200 = 586 Seiten \ndescription: Einband aus zwei Pergamentblättern, Fragment von Lesungen des göttlichen Offiziums aus dem 15. Jahrhundert.",
+    "german": "386 + 200 = 586 Seiten; Einband aus zwei zusammengeklebten Pergamentblättern, einem im 15. Jahrhundert geschriebenen Fragment von Lesungen des göttlichen Offiziums; geschrieben **[ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]**.\n\na) **(Zum dritten Buch der Dekretalen):** S. 1–344, bis zum Anfang des 22. Titels. Anfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker**, S. 1: **Es gibt zwei Arten von Christen, schreibt der hl. Hieronymus.....**\n\n> **Handschriftlicher Nachtrag am Seitenende:** *cf. Admont 1050/1.*\n\nb) **Abhandlung zum vierten Buch der Dekretalen:** S. 1–193 (=387–580).\n\nAnfang S. 387: **Vorrede. Dieses gesamte Buch handelt von der Ehe....**\n\nVermerk auf einem Vorsatzblatt dieses Codex: **Conscripta à P. Bernardo.** Dass damit niemand anderes als **P. Bernardus Leittner** gemeint ist, zeigt dieselbe Schrift wie in Codex MN II 93 (siehe oben S. 59/60).\n\nAls **Pater** wurde er jedoch kaum vor dem Jahr 1672 bezeichnet, in dem er wahrscheinlich zum Priester geweiht wurde. Daher scheint der Vermerk auf dem Vorsatzblatt erst angebracht worden zu sein, als der Codex bereits lange geschrieben war.\n\nDenn Teil a findet sich mit derselben Verstümmelung auch in Teil c des Codex MN II 114 (siehe unten S. 71) und wurde im Jahr 1620 von **P. Ludovicus Engel**, einem Melker Mönch, in Salzburg vorgetragen. Es ist wahrscheinlich, dass derselbe Professor auch Teil b unseres Codex diktierte.",
+    "latin": "386 + 200 = 586 pagg.; teg. duobus foliis membranaceis (fragmentum lectionum divini officii saec. XV. scriptum) conglutinatum; script. [ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]\n\na) (In librum tertium Decretalium): p. 1–344 (usque ad initium tituli 22). Initium Tituli Primi De Vita et honestate Clericorum: p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....\n\n[Handschriftlicher Nachtrag am Seitenende: \"cf. Admont 1050/1\".]\n\n\n\n\nb) Tractatus In Librum quartum Decretalium: p. 1–193 (= 387–580).\n\n_Initium_ p. 387: Praefatio. Totus hic liber tractat de matrimonio....\n\nNota in folio praeliminari huius codicis: Conscripta à P. Bernardo. Quem non nisi **P. Bernardum Leittner** esse ostendit eadem scriptura ut in codice MN II 93 (vide supra p. 59/60!). Nomine autem Patris vix ante annum 1672, quo anno probabiliter sacerdotio initiatus est, appellabatur. Qua de causa nota in folio praeliminari, codice iam pridem scripto, apposita esse videtur. Etenim pars a (cum eadem mutilatione) invenitur etiam in parte c codicis MN II 114 (vide infra p. 71) anno 1620 a **P. Ludovico Engel** Monacho Mellicensi Salisburgi tradita. Veri simile est eundem professorem etiam partem b codicis nostri dictavisse."
   }
 }

@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 219
 ms_contents:
-  title: Jus Civile sive Commentarius In quinquaginta Libros Digestorum
   items:
   - label: a
     title: Jus Civile sive Commentarius In quinquaginta Libros Digestorum
-    locus: S. 1–818
+    locus: p. 1–818
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

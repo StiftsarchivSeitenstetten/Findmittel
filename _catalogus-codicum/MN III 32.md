@@ -10,86 +10,115 @@ ms_identifier:
   idno: MN III 32
 ms_contents:
   items:
-  - label: "a"
-    title: "Underscheidt Guoter Und bößen novizen"
-    locus: "S. 1–11"
-  - label: "b"
-    title: "Ein Schöne Lehr für die so newlich haben Profession Gethuon"
-    locus: "S. 11–19"
-  - label: "c"
-    title: "Ein schöne lehr wie man den Eignen willen soll Verlaugnen"
-    locus: "S. 19–32"
-  - label: "d"
-    title: "Von allerley frächeit Und Vermäßenheit"
-    locus: "S. 32–40"
-  - label: "e"
-    title: "Von Allerley UnEhrerbietigkeit"
-    locus: "S. 40–46"
-  - label: "f"
-    title: "Zucht In der Kirchen"
-    locus: "S. 46–50"
-  - label: "g"
-    title: "Zucht in den Kleidern"
-    locus: "S. 50–52"
-  - label: "h"
-    title: "Zucht In Den Blick"
-    locus: "S. 53–56"
-  - label: "i"
-    title: "Von Allerley Zucht"
-    locus: "S. 56–71"
-  - label: "j"
-    title: "Lehr Für Ein novizin"
-    locus: "S. 71–73"
-  - label: "k"
-    title: "Waß Ist Daß Gebätt? wie muß Ich Den bäten – Wie muß Ich singen?"
-    locus: "S. 74–75"
-  - label: "l"
-    title: "Wie Muß Ich die Unordentliche liebe Und begihrligkkeit Überwinden?"
-    locus: "S. 75–77"
-  - label: "m"
-    title: "Waß Ist der Eigne Verstandt Urtheill Und meinung?"
-    locus: "S. 77–79"
-  - label: "n"
-    title: "Waß Ist Zum allerschädlichisten Einer die recht will Geistlich Leben?"
-    locus: "S. 79–81"
-  - label: "o"
-    title: "Wie muß Ich mich In dem Reden Abtöden?"
-    locus: "S. 82–83"
-  - label: "p"
-    title: "Ein Kurtze lehr Daß Heilige stillschweigen Zuo halten"
-    locus: "S. 83–84"
-  - label: "q"
-    title: "Wie Weiß Christum den Herren Under Dem Essen vor augen Zuo haben"
-    locus: "S. 84–92"
-  - label: "r"
-    title: "Meinung wie man all sein Thuon Und laßen köne Zuo Got richten und ordnen"
-    locus: "S. 92–97"
-  - label: "s"
-    title: "Ein kurtze Lehr Für Allerley Cröütz Und widerwärtigkeiten"
-    locus: "S. 97–101"
-  - label: "t"
-    title: "Etliche Mitell Alles Recht Und wohl Zuo verichten"
-    locus: "S. 102–103"
-  - label: "u"
-    title: "Weiß Daß Leben Oder Leyden Christi Zuo betrachten"
-    locus: "S. 104–108"
-  - label: "v"
-    title: "Ein Kurtzes memento Oder gedächtnuß Im Ambt der Heiligen meß Oder so Offts man Ein Crucifix ansicht nutzlich Zuo gebrauchen"
-    locus: "S. 108–111"
-  - label: "w"
-    title: "Ein kurtze doch kräfftige Übung wan man für das Heilige Sacrament kombt Oder alle stundt Und so Offt man will mit nutz Zuo sprechen"
-    locus: "S. 111–117"
-  - label: "x"
-    title: "Schutz Gebetlein wen tu Dich wilt bereiten auf das noviziat Oder Geistliche hochzeit"
-    locus: "S. 117–120"
-  - label: "y"
-    title: "Meinung Für Eine Die will Geistlich werden"
-    locus: "S. 121–123"
-  - label: "z"
-    title: "Gynaeceum: Regum; Regis: Geistliches Frauwenzimer des königes aller künigen Zuo nutz Und Ehren? Aller Der Jenigen so Under der Regull deß Aller heilligisten Vaters S: Benedicti: Got Zuo dienen sich verlobt heten? Opera? Reverendi P. F(ratris) Gabrielis: Buzelini: Ordinis Imperialis monasterii: Weingartensis"
-    title_type: "supplied"
-    locus: "S. 127–273"
-    note: "Die Auflösung „ratris“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+  - label: a
+    title: Underscheidt Guoter Und bößen novizen
+    locus: p. 1–11
+    title_status: unspecified
+  - label: b
+    title: Ein Schöne Lehr für die so newlich haben Profession Gethuon
+    locus: p. 11–19
+    title_status: unspecified
+  - label: c
+    title: Ein schöne lehr wie man den Eignen willen soll Verlaugnen
+    locus: p. 19–32
+    title_status: unspecified
+  - label: d
+    title: Von allerley frächeit Und Vermäßenheit
+    locus: p. 32–40
+    title_status: unspecified
+  - label: e
+    title: Von Allerley UnEhrerbietigkeit
+    locus: p. 40–46
+    title_status: unspecified
+  - label: f
+    title: Zucht In der Kirchen
+    locus: p. 46–50
+    title_status: unspecified
+  - label: g
+    title: Zucht in den Kleidern
+    locus: p. 50–52
+    title_status: unspecified
+  - label: h
+    title: Zucht In Den Blick
+    locus: p. 53–56
+    title_status: unspecified
+  - label: i
+    title: Von Allerley Zucht
+    locus: p. 56–71
+    title_status: unspecified
+  - label: j
+    title: Lehr Für Ein novizin
+    locus: p. 71–73
+    title_status: unspecified
+  - label: k
+    title: Waß Ist Daß Gebätt? wie muß Ich Den bäten – Wie muß Ich singen?
+    locus: p. 74–75
+    title_status: unspecified
+  - label: l
+    title: Wie Muß Ich die Unordentliche liebe Und begihrligkkeit Überwinden?
+    locus: p. 75–77
+    title_status: unspecified
+  - label: m
+    title: Waß Ist der Eigne Verstandt Urtheill Und meinung?
+    locus: p. 77–79
+    title_status: unspecified
+  - label: n
+    title: Waß Ist Zum allerschädlichisten Einer die recht will Geistlich Leben?
+    locus: p. 79–81
+    title_status: unspecified
+  - label: o
+    title: Wie muß Ich mich In dem Reden Abtöden?
+    locus: p. 82–83
+    title_status: unspecified
+  - label: p
+    title: Ein Kurtze lehr Daß Heilige stillschweigen Zuo halten
+    locus: p. 83–84
+    title_status: unspecified
+  - label: q
+    title: Wie Weiß Christum den Herren Under Dem Essen vor augen Zuo haben
+    locus: p. 84–92
+    title_status: unspecified
+  - label: r
+    title: Meinung wie man all sein Thuon Und laßen köne Zuo Got richten und ordnen
+    locus: p. 92–97
+    title_status: unspecified
+  - label: s
+    title: Ein kurtze Lehr Für Allerley Cröütz Und widerwärtigkeiten
+    locus: p. 97–101
+    title_status: unspecified
+  - label: t
+    title: Etliche Mitell Alles Recht Und wohl Zuo verichten
+    locus: p. 102–103
+    title_status: unspecified
+  - label: u
+    title: Weiß Daß Leben Oder Leyden Christi Zuo betrachten
+    locus: p. 104–108
+    title_status: unspecified
+  - label: v
+    title: Ein Kurtzes memento Oder gedächtnuß Im Ambt der Heiligen meß Oder so Offts man Ein Crucifix ansicht nutzlich Zuo gebrauchen
+    locus: p. 108–111
+    title_status: unspecified
+  - label: w
+    title: Ein kurtze doch kräfftige Übung wan man für das Heilige Sacrament kombt Oder alle stundt Und so Offt man will mit nutz Zuo sprechen
+    locus: p. 111–117
+    title_status: unspecified
+  - label: x
+    title: Schutz Gebetlein wen tu Dich wilt bereiten auf das noviziat Oder Geistliche hochzeit
+    locus: p. 117–120
+    title_status: unspecified
+  - label: y
+    title: Meinung Für Eine Die will Geistlich werden
+    locus: p. 121–123
+    title_status: unspecified
+  - label: z
+    title: 'Gynaeceum: Regum; Regis: Geistliches Frauwenzimer des königes aller künigen Zuo nutz Und Ehren? Aller Der Jenigen so Under der Regull
+      deß Aller heilligisten Vaters S: Benedicti: Got Zuo dienen sich verlobt heten? Opera? Reverendi P. F(ratris) Gabrielis: Buzelini: Ordinis
+      Imperialis monasterii: Weingartensis'
+    locus: p. 127–273
+    note: Die Auflösung „ratris“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    notes:
+    - p. 273 cor Mariae adumbratum est, sub quo numerus anni 1723 invenitur.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

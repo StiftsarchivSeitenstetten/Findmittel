@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-27",
   "signature": "MN I 27",
   "aliases": [
@@ -11,8 +11,8 @@
   "catalogPage": "177",
   "heading": {
     "title": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1705"
   },
   "date": {
@@ -30,17 +30,29 @@
   },
   "contentsOverview": {
     "title": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
-    "translation": "Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen.",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
+    "translation": "",
     "summary": "",
     "language": "la",
     "locus": "",
+    "incipits": [
+      {
+        "locus": "p. 3",
+        "label": "Initium Anteloquii",
+        "text": "Purissimos hodie fontes propino vobis,....",
+        "translation": "Heute biete ich euch die reinsten Quellen dar,....",
+        "id": "incipit-1"
+      }
+    ],
+    "explicits": [],
+    "colophons": [],
     "incipit": {
-      "locus": "S. 3",
+      "locus": "p. 3",
       "label": "Initium Anteloquii",
       "text": "Purissimos hodie fontes propino vobis,....",
-      "translation": "Heute biete ich euch die reinsten Quellen dar,...."
+      "translation": "Heute biete ich euch die reinsten Quellen dar,....",
+      "id": "incipit-1"
     },
     "explicit": null,
     "part": "",
@@ -52,13 +64,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–96",
+      "locus": "p. 3–96",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -75,13 +91,17 @@
       "id": "item-2",
       "label": "2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus primus De Baptismo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 96–135",
+      "locus": "p. 96–135",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -98,13 +118,17 @@
       "id": "item-3",
       "label": "3",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Sacramento Confirmationis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 135–156",
+      "locus": "p. 135–156",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -121,13 +145,17 @@
       "id": "item-4",
       "label": "4",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius De Venerabili Eucharistiae Sacramento",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 157–210",
+      "locus": "p. 157–210",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -241,13 +269,16 @@
       "note": "MN II 225 enthält dieselben Abhandlungen und belegt Autor, Ort und Jahr der Vorlesung."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 27",
-    "titles": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie. \nQuellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen. \nTractatus De Sacramentis in genere \nTractatus primus De Baptismo \nTractatus Secundus De Sacramento Confirmationis \nTractatus Tertius De Venerabili Eucharistiae Sacramento",
-    "persons": "P. Caelestin Pley author; lecturer author; lecturer \nunbekannt Schreiber scribe \nP. Caelestin Pley author and lecturer author_and_lecturer \nunbekannt Schreiber scribe",
+    "titles": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie. \nTractatus De Sacramentis in genere \nTractatus primus De Baptismo \nTractatus Secundus De Sacramento Confirmationis \nTractatus Tertius De Venerabili Eucharistiae Sacramento",
+    "persons": "P. Caelestin Pley author; lecturer author; lecturer Stift Seitenstetten \nunbekannt Schreiber scribe  \nP. Caelestin Pley author and lecturer author_and_lecturer  \nunbekannt Schreiber scribe ",
     "incipits": "Purissimos hodie fontes propino vobis,....",
     "explicits": "",
     "notes": "la \nAbhandlung über die Sakramente im Allgemeinen \nErste Abhandlung. Über die Taufe \nZweite Abhandlung. Über das Sakrament der Firmung \nDritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie \nDie Zuschreibung an P. Caelestin Pley sowie die Datierung und Lokalisierung des Diktats beruhen auf dem Parallelcodex MN II 225.",
-    "physical": "Papier \n212 Seiten \nFolio \ndescription: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n212 Seiten \nFolio \ndescription: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Folioformat; 212 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.\n\n**Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen.**\n\nAnfang der Vorrede S. 3: Heute biete ich euch die reinsten Quellen dar,....\n\na) Abhandlung über die Sakramente im Allgemeinen: S. 3–96\n\nb) Verschiedene Abhandlungen über die Sakramente im Einzelnen:  \nErste Abhandlung. Über die Taufe: S. 96–135.  \nZweite Abhandlung. Über das Sakrament der Firmung: S. 135–156.  \nDritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie: S. 157–210.\n\nDer Schreiber ist unbekannt. Dass der Verfasser P. Caelestin Pley, Profess von Seitenstetten, ist und dass er diese Abhandlungen im Jahr 1705 in Salzburg diktierte, erfahren wir aus Codex MN II 225 (oben S. 175), der dieselben Abhandlungen enthält.",
+    "latin": "fol., 212 pag.; teg. a1; script. 1705\n\nFontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.\n\nInitium Anteloquii p. 3: Purissimos hodie fontes propino vobis,....\n\na) Tractatus De Sacramentis in genere: p. 3–96\n\nb) Tractatus varii De Sacramentis in Specie  \nTractatus primus De Baptismo: p. 96–135.  \nTractatus Secundus De Sacramento Confirmationis: p. 135–156.  \nTractatus Tertius De Venerabili Eucharistiae Sacramento: p. 157–210.\n\nScriptor ignotus. Auctorem autem esse P. Caelestinum Pley Professum Seitenstettensem eumque anno 1705 Salisburgi dictavisse hos tractatus, ex codice MN II 225 (supra p. 175) eosdem tractatus continente cognoscimus."
   }
 }

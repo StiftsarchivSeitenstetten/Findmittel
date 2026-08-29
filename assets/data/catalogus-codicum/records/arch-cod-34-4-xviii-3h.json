@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-4-xviii-3h",
   "signature": "Arch. Cod. 34–4 (XVIII 3h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "251",
   "heading": {
-    "title": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "inter annos 1772 et 1777"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–4 (XVIII 3h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–226",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 241–340.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 241–340",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -142,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-4-xviii-3h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–4 (XVIII 3h)",
-    "titles": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226 \nFabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226 \nSancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 241–340.",
-    "persons": "P. Emmeramus Kolb translator and scribe translator_and_scribe",
+    "titles": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis \nFabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis \nSancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis",
+    "persons": "P. Emmeramus Kolb translator and scribe translator_and_scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–4 (XVIII 3h). \nFabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226 \nSancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 241–340.",
-    "physical": "Papier \n340 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+    "physical": "Papier \n340 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+    "german": "Folioformat; 340 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen verziert; geschrieben zwischen 1772 und 1777.\n\na) **Die Fabel, dass der heilige Leib des Patriarchen Benedikt im Grab von Fleury ruhe, entlarvt. Erste apologetische Dissertation des Philipp Maria Macchiarelli OSB Cam., an Gregor Galisius, Abt von Montecassino. Neapel 1713. Aus dem Italienischen ins Lateinische übersetzt von P. Emmeramus Kolb OSB aus Seitenstetten:** S. 1–226.\n\nb) **Apologetische Dissertation über den hl. Gregor den Großen als Verehrer der Regel des Patriarchen Benedikt**, von Philipp Macchiarelli OSB Cam., an Benedikt, Abt von La Cava (?) und die übrigen Äbte und Mönche von S. Severino in Neapel. Neapel 1713. Aus dem Italienischen ins Lateinische übersetzt von **P. Emmeramus Kolb**, Benediktiner von Seitenstetten: S. 241–340.\n\nP. Emmeramus Kolb widmete auch diesen kunstvoll geschriebenen Codex seinem Abt Dominicus Güsmann, und zwar zwischen dessen Professjubiläum am 8. Dezember 1772 und seinem Tod am 20. März 1777.",
+    "latin": "fol.; 340 pagg.; teg. b1 (dorsum flosculis impressis et inauratis ornatum); scriptus inter annos 1772 et 1777\n\na) **Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis:** p. 1–226\n\nb) **Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis:** p. 241–340.\n\nP. Emmeramus Kolb etiam hunc codicem ornatissime exaratum abbati suo Dominico Güsmann dedicavit, idque inter jubilaeum professionis, quod abbas ille die 8. Decembris 1772 celebravit, et diem 20. Martii 1777, quo die mortuus est abbas ille dignissimus."
   }
 }

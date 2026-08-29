@@ -12,17 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I
-    locus: S. 1–95
-    incipit: 'Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I. De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa'
+    locus: p. 1–95
+    incipits:
+    - text: Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I.
+        De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa:......
+      locus: p. 3
+    title_status: unspecified
   - label: b
     title: Commentarius In Arnoldi Corvini a Beldern Jus Canonicum Pars II.
-    locus: S. 1–348 (= S. 96–443)
-    incipit: 'Ad Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur'
+    locus: p. 1–348 (= 96–443)
     note: Im Katalogtext steht der Verfassername hier als „P. Placidi Fixelmillner (!)“.
+    incipits:
+    - text: Ad Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur
+      locus: p. 3 (=98)
+    title_status: unspecified
   - label: c
     title: Index Titulorum
-    locus: S. 350–354 (= S. 445–449)
+    locus: p. 350–354 (=445–449)
     note: Der Katalog ergänzt in runden Klammern „utriusque partis“; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

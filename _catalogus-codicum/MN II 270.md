@@ -9,12 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 270
 ms_contents:
-  title: Tractatus De Incarnatione
   items:
   - label: a
     title: Tractatus De Incarnatione
-    locus: S. 3–196
-    incipit: Verbum Dei incarnatum esse fide Divina certum est
+    locus: p. 3
+    incipits:
+    - text: Verbum Dei incarnatum esse fide Divina certum est,.....
+      locus: p. 3
+      label: Praefationis in Tractatum De Incarnatione
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

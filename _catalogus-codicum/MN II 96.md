@@ -17,10 +17,20 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus De Vitiis, atque peccatis
-    locus: S. 1–193
+    locus: p. 1–193
+    incipits:
+    - locus: p. 1
+      label: Quaestionis Primae
+      text: Notandum est primo haec vocabula virtus,....
+    title_status: unspecified
   - label: b
     title: Tractatus Casistico practicus in materiam de Jure, et Justitia
-    locus: S. 194–475
+    locus: p. 1–282
+    incipits:
+    - locus: p. 194
+      label: Prooemii
+      text: Agemus hoc anno Deo opitulante De Jure, et Justitia........
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Fr. Bernardus Leittner

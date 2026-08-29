@@ -14,11 +14,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 84
 ms_contents:
-  title: Tractatus In Tertiam partem S. Thomae Aquinatis De Arcano Incarnationis Mysterio
-  locus: S. 5–615
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser
+  items:
+  - title: Tractatus In Tertiam partem S. Thomae Aquinatis De Arcano Incarnationis Mysterio
+    title_status: unspecified
+    locus: p. 5–615
+    incipits:
+    - locus: p. 6
+      label: Proloquii
+      text: 'Cum scopus totius Summae theologicae sit agere de Deo.... Inscriptio dorsi: MS Reverendissimi Abelzhauser Seittenstettensis de Incarnatione.
+        Qui codicem nostrum inter annum 1660 et 1665 videtur scripsisse. (Cetera de scribente supra p. 51 ad codicem MN II 80!)'
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-47",
   "signature": "MN II 47",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "30",
   "heading": {
     "title": "Tractatus Primus De Sacramentis in Communi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1648/49"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Vorlesungen über die Sakramente im Allgemeinen und im Einzelnen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus De Sacramentis in Communi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–75",
+      "locus": "p. 1 - 75",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Praefationis",
+          "text": "Quoniam Utilitas, Necessitas et praestantia....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Praefationis",
+        "text": "Quoniam Utilitas, Necessitas et praestantia....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,13 +81,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus II–VIII De singulis sacramentis in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 75–568",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -162,13 +183,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 47",
     "titles": "Tractatus Primus De Sacramentis in Communi \nTractatus Primus De Sacramentis in Communi \nTractatus II–VIII De singulis sacramentis in specie",
-    "persons": "P. Pius Theisengseer OP Dozent lecturer \nFr. Ingenuus Vogtius, Profess von Seitenstetten Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Pius Theisengseer OP Dozent lecturer  \nFr. Ingenuus Vogtius, Profess von Seitenstetten Schreiber scribe ",
+    "incipits": "Quoniam Utilitas, Necessitas et praestantia....",
     "explicits": "",
     "notes": "Vorlesungen über die Sakramente im Allgemeinen und im Einzelnen.",
-    "physical": "Papier \nX + 574 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \nX + 574 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "X + 574 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1648/49.\n\na) **Erste Abhandlung. Über die Sakramente im Allgemeinen**, 1650 (in diesem Jahr scheint jedoch nur das Titelblatt verziert und bemalt worden zu sein): S. 1–75. Anfang der Vorrede: **Da Nutzen, Notwendigkeit und Vorzüglichkeit....**\n\nb) **Abhandlungen II–VIII über die einzelnen Sakramente im Besonderen:** S. 75–568. Schluss S. 568: **Wir beendeten am 16. Oktober 1649 unter dem sehr ehrwürdigen Ordensmann und hochgelehrten P. Pius Theisengseer, Lektor aus dem Predigerorden. Geschrieben und abgeschrieben hat Fr. Ingenuus Vogtius aus dem Orden des hl. Vaters Benedikt, Profess des Klosters Seitenstetten.**\n\n**Rückenaufschrift:** Tractatus Casistici De Sacramentis.... = „Kasuistische Abhandlungen über die Sakramente....“\n\n**NB.** Dieselben Vorlesungen über die Sakramente enthält Codex MN II 44.",
+    "latin": "X + 574 pagg.; teg. a1; script. 1648/49\n\na) *Tractatus Primus De Sacramentis in Communi* 1650 (quo tamen anno nil nisi pagina titularis videtur ornata pictaque esse): p. 1 - 75. *Initium* Praefationis: Quoniam Utilitas, Necessitas et praestantia....\n\nb) *Tractatus II - VIII (De singulis sacramentis in specie):* p. 75 - 568. *Clausula* p. 568: Absolvimus 16. Octobris .1.6.4.9. Sub Admodum Reverendo Religioso nec non doctissimo P. Pio Theisengseer, Domino Lectore. Ordinis Praedicatorum. Scripsit ac descripsit Fr. Ingenuus Vogtius. Ordinis S. P. Benedicti. Monasterii Seittenstettensis professus. *Inscriptio dorsi:* Tractatus Casistici De Sacramentis....\n\nN. B. Easdem lectiones de Sacramentis continet Cod. MN II 44 (vide supra p. 27!)"
   }
 }

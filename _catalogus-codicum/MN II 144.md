@@ -14,18 +14,47 @@ ms_contents:
   - label: a
     title: Tractatus in duos Libros Aristotelis De Ortu et interitu sive De Generatione et corruptione
     locus: fol. 440–582v
+    incipits:
+    - locus: fol. 440r
+      label: Disputationis Primae
+      text: Agimus hic in praesenti de modo quo res naturales....
+    title_status: unspecified
   - label: b
     title: Tractatus In Tres Libros Aristotelis De Anima
     locus: fol. 583–688
     end_date: '1686-06-25'
+    incipits:
+    - locus: fol. 583r
+      label: Disputationis primae
+      text: Haec est pulcherrima philosophiae pars.....
+    title_status: unspecified
+    colophons:
+    - locus: fol. 688r
+      text: 25 Junii 1686.
   - label: c
     title: Tractatus De Metheoris
     locus: fol. 688v–733v
     end_date_display: 10. (?) Juli 1686
+    incipits:
+    - label: Disputationis I
+      text: Appellatur hic tractatus de Meteoris,.....
+    title_status: unspecified
+    notes:
+    - 10 (?) Julii incepimus Metaphysicam, Physicam vero Physici scribere. Eadem die circa horam quintam duo studiosi furtivi ex civitate quae
+      vocatur Liephering (?) ad carceres fuerunt deducti.
   - label: d
     title: Tractatus In Libros Metaphysicorum Aristotelis. De Objecto Metaphysicae et de Entis attributis
     locus: fol. 734r–774v
     end_date: '1686-07-20'
+    incipits:
+    - text: Haec est ultima Philosophiae pars....
+    colophons:
+    - locus: fol. 775r
+      text: Absolvimus 20 Julii.....1686.
+    title_status: unspecified
+    notes:
+    - Eosdem tractatus continet etiam Cod. MN II 147. Scriptor noster etiam duos praecedentes codices exaravit.
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

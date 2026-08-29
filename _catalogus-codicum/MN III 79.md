@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 79
 ms_contents:
-  title: "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche"
   items:
-  - label: "a"
-    title: "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche"
-    locus: "S. 1–318"
-    note: "Technisch reproduziertes Manuskript, nicht eigenhändig geschrieben."
+  - label: a
+    title: Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche
+    locus: S. 1–318
+    note: Technisch reproduziertes Manuskript, nicht eigenhändig geschrieben.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

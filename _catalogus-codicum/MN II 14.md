@@ -18,10 +18,31 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'fol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha)'
+    locus: fol. 1r
   - label: b
-    catalog_statement: '*Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r.'
+    catalog_statement: '*Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate
+      Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten
+      eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r.'
+    title: Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore
+      Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem
+      ordinem professo. 1625. Anno MDCXXIX (1629)
+    locus: fol. 1 - 253r
+    title_status: unspecified
+    incipits:
+    - label: Prooemii
+      text: philosophiae studium nihil aliud est.......
+    colophons:
+    - locus: fol. 253r
+      text: Primo die Februarii Anno post Christum natum 1630.
   - label: c
-    catalog_statement: '*Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg.'
+    catalog_statement: '*Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata
+      a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso.
+      Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg.'
+    title: Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro
+      Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis
+      Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici
+    locus: VIII + 36 pagg
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

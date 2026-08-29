@@ -9,12 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 271
 ms_contents:
-  title: Tractatus Theologicus De Admirando Incarnationis Misterio
   items:
   - label: a
     title: Tractatus Theologicus De Admirando Incarnationis Misterio
     locus: S. 9–222
-    incipit: Augustissimum Incarnationis misterium detractat S. Thomas
+    incipits:
+    - text: Augustissimum Incarnationis misterium detractat S. Thomas
+    - label: Tractatus De Incarnatione
+      text: 'p. 9: Augustissimum Incarnationis misterium detractat S. Thomas.....'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

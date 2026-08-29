@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-227",
   "signature": "MN II 227",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "176–177",
   "heading": {
     "title": "Tractatus de Angelis et De actibus humanis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1705 (?)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus de Angelis et De actibus humanis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Angelis et De actibus humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–336",
+      "locus": "p. 3–336",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Egimus ante annum de Deo in se et actionibus eius ad intra.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Egimus ante annum de Deo in se et actionibus eius ad intra.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -132,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-227/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 227",
     "titles": "Tractatus de Angelis et De actibus humanis \nTractatus de Angelis et De actibus humanis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Egimus ante annum de Deo in se et actionibus eius ad intra.",
     "explicits": "",
     "notes": "Die im überlieferten Titel angekündigte Abhandlung über die menschlichen Handlungen ist nicht enthalten und war offenbar nie Bestandteil des Codex. \nincomplete",
-    "physical": "Papier \n338 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n338 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "338 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1705 (?).\n\n**Abhandlung über die Engel und über die menschlichen Handlungen:** S. 3–336.\n\nAnfang: Im vergangenen Jahr handelten wir von Gott in sich selbst und seinen inneren Handlungen.\n\nZu beachten ist, dass die im Titel angekündigte Abhandlung über die menschlichen Handlungen in unserem Codex nicht enthalten ist und offenbar auch nie enthalten war.\n\nVerfasser und Schreiber sind unbekannt. Aufgrund von Einbandform und Schriftcharakter vermutet der Katalogbearbeiter eine Entstehung um 1700 oder 1705.",
+    "latin": "338 pagg.; teg. a1; script. ca. 1705 (?)\n\nTractatus de Angelis et De actibus humanis: p. 3–336\n\nInitium: Egimus ante annum de Deo in se et actionibus eius ad intra.\n\nNota bene tractatum de actibus humanis in codice nostro, ut ab inscriptione indicatur, ita non inveniri neque umquam inventum esse.\n\nAuctorem et scriptorem me nescire concedo.\n\nPropter formam tegumenti et characterem scribendi opinor hunc codicem circa annum 1700 aut 1705 scriptum esse."
   }
 }

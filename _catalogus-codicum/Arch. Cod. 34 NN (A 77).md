@@ -10,12 +10,14 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 NN (A 77)
 ms_contents:
-  title: "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782."
   items:
-  - label: "a"
-    title: "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782."
-    locus: "S. 1–370"
-    note: "Die parenthetische Buchstabenauflösung in „Inst(r)uctio“ betrifft nur eine Stelle des überlieferten Titels; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum,
+      Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.
+    locus: S. 1–370
+    note: Die parenthetische Buchstabenauflösung in „Inst(r)uctio“ betrifft nur eine Stelle des überlieferten Titels; der Titel als solcher ist
+      nicht supplied.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

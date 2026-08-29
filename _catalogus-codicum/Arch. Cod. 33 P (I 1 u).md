@@ -13,141 +13,314 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 33 P (I 1 u).
   items:
   - label: a
-    catalog_statement: 'Pia Exercitia pro diebus Bacchaenalium (id est pro diebus a Dominica Quinquagesima usque ad Feriam
-      IV Cinerum): p. 1–8. Initium p. 1: Nunquam major cordi Christi afflictio.... (Auctor et scriptor ignoti.)'
+    catalog_statement: 'Pia Exercitia pro diebus Bacchaenalium (id est pro diebus a Dominica Quinquagesima usque ad Feriam IV Cinerum): p. 1–8.
+      Initium p. 1: Nunquam major cordi Christi afflictio.... (Auctor et scriptor ignoti.)'
+    title: Pia Exercitia pro diebus Bacchaenalium (id est pro diebus a Dominica Quinquagesima usque ad Feriam IV Cinerum)
+    locus: p. 1–8
+    incipits:
+    - locus: p. 1
+      text: Nunquam major cordi Christi afflictio....
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Forma De Epistolis Conscribendis: p. 9–39. Initium p. 9: Quare et unde dicentur litterae Epistola
-      – Quia Epistola latinum verbum .... (P. 29–39: exemplum Epistolae gratulatoriae) Auctor et scriptor ignoti, nisi forte
-      signum W in margine inferiore p. 29 indicat litteras initiales scribentis.'
+    catalog_statement: 'Forma De Epistolis Conscribendis: p. 9–39. Initium p. 9: Quare et unde dicentur litterae Epistola – Quia Epistola latinum
+      verbum .... (P. 29–39: exemplum Epistolae gratulatoriae) Auctor et scriptor ignoti, nisi forte signum W in margine inferiore p. 29 indicat
+      litteras initiales scribentis.'
+    title: Forma De Epistolis Conscribendis
+    locus: p. 9–39
+    incipits:
+    - locus: p. 9
+      text: 'Quare et unde dicentur litterae Epistola – Quia Epistola latinum verbum .... (P. 29–39: exemplum Epistolae gratulatoriae) Auctor
+        et scriptor ignoti, nisi forte signum W in margine inferiore p. 29 indicat litteras initiales scribentis.'
+    title_status: unspecified
   - label: c
-    catalog_statement: '(Lexicon nominum synonymorum, ordine alphabetico dispositum): p. 41–48 (nomina Aer – liber) [handschriftlicher
-      Nachtrag: „continuatur infra in parte P!“]'
+    catalog_statement: '(Lexicon nominum synonymorum, ordine alphabetico dispositum): p. 41–48 (nomina Aer – liber) [handschriftlicher Nachtrag:
+      „continuatur infra in parte P!“]'
+    title: Lexicon nominum synonymorum, ordine alphabetico dispositum
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 41–48
   - label: d
-    catalog_statement: '(Alterum lexicon alphabeticum quasdam voces in soluta oratione aut in poesi usitatas per synonyma
-      aut versionem germanicam interpretans): p. 49–87'
+    catalog_statement: '(Alterum lexicon alphabeticum quasdam voces in soluta oratione aut in poesi usitatas per synonyma aut versionem germanicam
+      interpretans): p. 49–87'
+    title: Alterum lexicon alphabeticum quasdam voces in soluta oratione aut in poesi usitatas per synonyma aut versionem germanicam interpretans
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 49–87
   - label: e
     catalog_statement: '(Interpretatio aliquot vocularum graecarum): p. 89'
+    title: Interpretatio aliquot vocularum graecarum
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 89
   - label: f
     catalog_statement: 'Res militaris (id est dicta in re militari saepius usitata): p. 90'
+    title: Res militaris (id est dicta in re militari saepius usitata)
+    locus: p. 90
+    title_status: unspecified
   - label: g
     catalog_statement: 'De Orthographia: p. 91–92'
+    title: De Orthographia
+    locus: p. 91–92
+    title_status: unspecified
   - label: h
     catalog_statement: '(Aliquot brevissimae narrationes): p. 93–95'
+    title: Aliquot brevissimae narrationes
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 93–95
   - label: i
     catalog_statement: 'Regulae faciendi interpunctiones: p. 95–96'
+    title: Regulae faciendi interpunctiones
+    locus: p. 95–96
+    title_status: unspecified
   - label: j
     catalog_statement: 'De emendata Syllabarum divisione: p. 97–98'
+    title: De emendata Syllabarum divisione
+    locus: p. 97–98
+    title_status: unspecified
   - label: k
-    catalog_statement: '(Lexicographica): p. 98–101 (termini technici partim e Graeca in Latinam, partim e Latina in Germanicam
-      linguam vertuntur.)'
+    catalog_statement: '(Lexicographica): p. 98–101 (termini technici partim e Graeca in Latinam, partim e Latina in Germanicam linguam vertuntur.)'
+    title: Lexicographica
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 98–101
   - label: l
     catalog_statement: 'Notanda Circa Orthographiam: p. 102–107'
+    title: Notanda Circa Orthographiam
+    locus: p. 102–107
+    title_status: unspecified
   - label: m
-    catalog_statement: '(Lexicon, quo voces Latinae rare occurrentes in linguam Germanicam vertuntur, iuxta alphabetum dispositum):
-      p. 109–144'
+    catalog_statement: '(Lexicon, quo voces Latinae rare occurrentes in linguam Germanicam vertuntur, iuxta alphabetum dispositum): p. 109–144'
+    title: Lexicon, quo voces Latinae rare occurrentes in linguam Germanicam vertuntur, iuxta alphabetum dispositum
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 109–144
   - label: n
-    catalog_statement: 'Phrases: p. 149–184 (Ad quasdam materias Germanice secundum alphabetum ordinatas collectae sunt variae
-      phrases Latinae hanc materiam respicientes.)'
+    catalog_statement: 'Phrases: p. 149–184 (Ad quasdam materias Germanice secundum alphabetum ordinatas collectae sunt variae phrases Latinae
+      hanc materiam respicientes.)'
+    title: Phrases
+    locus: p. 149–184
+    title_status: unspecified
   - label: o
-    catalog_statement: 'Proverbia: p. 185–194 (Ad proverbia Germanica afferuntur proverbia Latina, quae fere eandem sententiam
-      exprimunt.)'
+    catalog_statement: 'Proverbia: p. 185–194 (Ad proverbia Germanica afferuntur proverbia Latina, quae fere eandem sententiam exprimunt.)'
+    title: Proverbia
+    locus: p. 185–194
+    title_status: unspecified
   - label: p
-    catalog_statement: '(Lexicographica): p. 195–201 (Voces Latinae rare occurrentes in linguam Germanicam vertuntur; quae
-      nonnullae p. 197 ad materiam de mercatura pertinent). In pag. 197 numerus annalis 1696 invenitur in margine superiore.'
+    catalog_statement: '(Lexicographica): p. 195–201 (Voces Latinae rare occurrentes in linguam Germanicam vertuntur; quae nonnullae p. 197 ad
+      materiam de mercatura pertinent). In pag. 197 numerus annalis 1696 invenitur in margine superiore.'
+    title: Lexicographica
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 195–201
   - label: q
     catalog_statement: '(Phrases): p. 203–212. (Phrasibus Germanicis Latinae apponuntur, quae fere idem dicunt, aut vice versa.)'
+    title: Phrases
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 203–212
   - label: r
     catalog_statement: '(Regulae ad usum accentuum Graecorum): p. 213–217'
+    title: Regulae ad usum accentuum Graecorum
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 213–217
   - label: s
-    catalog_statement: 'Nomenclatura De omnibus rebus: p. 219–244 (Nomina Latina rare occurrentia ordine alphabetico in Linguam
-      Germanicam vertuntur: series prior A–Z secundum litteras initiales nominum Germanicorum disposita p. 219–231; altera
-      haud bene ordinata nec sine magnis lacunis: p. 231–244). p. 244 nomen (scribentis?) Joannes Ferdinandus Benedictus Merkh
-      (quem vide supra p. 122 ad partem X codicis 34–5)'
+    catalog_statement: 'Nomenclatura De omnibus rebus: p. 219–244 (Nomina Latina rare occurrentia ordine alphabetico in Linguam Germanicam vertuntur:
+      series prior A–Z secundum litteras initiales nominum Germanicorum disposita p. 219–231; altera haud bene ordinata nec sine magnis lacunis:
+      p. 231–244). p. 244 nomen (scribentis?) Joannes Ferdinandus Benedictus Merkh (quem vide supra p. 122 ad partem X codicis 34–5)'
+    title: Nomenclatura De omnibus rebus
+    locus: p. 219–244
+    title_status: unspecified
   - label: t
-    catalog_statement: (Nomenclator) p. 245–314 (Viginti octo capita, e quibus tamen primum ultimo loco positum esse videtur,
-      scilicet p. 313–314; singulis nominibus Latinis apposita sunt genus grammaticum, numerus declinationis, versio Germanica;
-      unumquodque caput continet permulta nomina, quae species eiusdem generis proximi logici exprimunt, ex. gr. caput secundum
-      Partes humani corporis, caput tertium de animalibus quadrupedibus.)
+    catalog_statement: (Nomenclator) p. 245–314 (Viginti octo capita, e quibus tamen primum ultimo loco positum esse videtur, scilicet p. 313–314;
+      singulis nominibus Latinis apposita sunt genus grammaticum, numerus declinationis, versio Germanica; unumquodque caput continet permulta
+      nomina, quae species eiusdem generis proximi logici exprimunt, ex. gr. caput secundum Partes humani corporis, caput tertium de animalibus
+      quadrupedibus.)
+    title: Nomenclator
+    title_status: supplied
+    title_source: cataloguer
   - label: u
     catalog_statement: 'Modi relaxationum (Nomina ad varios ludos pertinentia in linguam Germanicam vertuntur.): p. 315–316'
+    title: Modi relaxationum (Nomina ad varios ludos pertinentia in linguam Germanicam vertuntur.)
+    locus: p. 315–316
+    title_status: unspecified
   - label: v
-    catalog_statement: '(Nomenclator rerum militarium): p. 317–322 (nomina Latina Germanice interpretata). Notae in marginibus
-      superioribus: p. 317: Anno 1696; p. 321: 1696 ultimo octobris'
+    catalog_statement: '(Nomenclator rerum militarium): p. 317–322 (nomina Latina Germanice interpretata). Notae in marginibus superioribus: p.
+      317: Anno 1696; p. 321: 1696 ultimo octobris'
+    title: Nomenclator rerum militarium
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 317–322
   - label: w
-    catalog_statement: '(Epigrammata et Elegiae): p. 323–334 (ex. gr. Luna; Iris; Grando; De ascensione Domini; Ad Clementem
-      Pontificem; Echo)'
+    catalog_statement: '(Epigrammata et Elegiae): p. 323–334 (ex. gr. Luna; Iris; Grando; De ascensione Domini; Ad Clementem Pontificem; Echo)'
+    title: Epigrammata et Elegiae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 323–334
   - label: x
     catalog_statement: '(Carmina artificiosa): p. 335 (Echo) – 336'
+    title: Carmina artificiosa
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 335
   - label: y
     catalog_statement: 'Definitiones et Descriptiones: p. 337–342 (Res definienda aut describenda in margine notatur.)'
+    title: Definitiones et Descriptiones
+    locus: p. 337–342
+    title_status: unspecified
   - label: z
     catalog_statement: 'Notanda aliqua circa carmina facienda: p. 349–361'
+    title: Notanda aliqua circa carmina facienda
+    locus: p. 349–361
+    title_status: unspecified
   - label: A
     catalog_statement: 'De Connexione partium ad transitionem: p. 361–373'
+    title: De Connexione partium ad transitionem
+    locus: p. 361–373
+    title_status: unspecified
   - label: B
     catalog_statement: 'De amplificatione rerum: p. 374–378, et Rhetorica: p. 378–379'
+    title: De amplificatione rerum
+    locus: p. 374–378
+    title_status: unspecified
   - label: C
-    catalog_statement: 'Peregrinus quidam ad loca sacra visitando profectus post caetera religiosa in monte Calveriae prae
-      affectu e amoris magnitudine expirat: p. 381–390 (Elegia); Descriptio alicuius relictâ urbe ruri exiguis opibus contenti...:
-      p. 391 (Elegia); Descriptio famae Caesaris cuiusdam: p. 391 (Carmen heroicum).'
+    catalog_statement: 'Peregrinus quidam ad loca sacra visitando profectus post caetera religiosa in monte Calveriae prae affectu e amoris magnitudine
+      expirat: p. 381–390 (Elegia); Descriptio alicuius relictâ urbe ruri exiguis opibus contenti...: p. 391 (Elegia); Descriptio famae Caesaris
+      cuiusdam: p. 391 (Carmen heroicum).'
+    title: Peregrinus quidam ad loca sacra visitando profectus post caetera religiosa in monte Calveriae prae affectu e amoris magnitudine expirat
+    locus: p. 381–390
+    title_status: unspecified
   - label: D
-    catalog_statement: '(De Epithetis aliquot rebus attributis): p. 392–393; Signa antiqua, quorum aliqua etiamnum apud nos
-      vigent: p. 393–397 (ex. gr. pallium pro Philosophia, clausum Iani templum pro pace...) NB! Quo modo bene adhibenda sint
-      talia signa, depromptis exemplis Jacobi Balde Societatis Jesu celeberrimi poetae demonstratur.'
+    catalog_statement: '(De Epithetis aliquot rebus attributis): p. 392–393; Signa antiqua, quorum aliqua etiamnum apud nos vigent: p. 393–397
+      (ex. gr. pallium pro Philosophia, clausum Iani templum pro pace...) NB! Quo modo bene adhibenda sint talia signa, depromptis exemplis Jacobi
+      Balde Societatis Jesu celeberrimi poetae demonstratur.'
+    title: De Epithetis aliquot rebus attributis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 392–393
   - label: E
     catalog_statement: 'De amplificationis poeticae Elegantia: p. 398–402 (cum exemplis celeberrimorum poetarum)'
+    title: De amplificationis poeticae Elegantia
+    locus: p. 398–402
+    title_status: unspecified
   - label: F
-    catalog_statement: 'Modi faciles ex quovis brevi themate formandi variandique carmen. (NB! Haec inscriptio ut 409 scripta
-      est, ita etiam ad pagg. 404–406 pertinere potest.): p. 404–420'
+    catalog_statement: 'Modi faciles ex quovis brevi themate formandi variandique carmen. (NB! Haec inscriptio ut 409 scripta est, ita etiam ad
+      pagg. 404–406 pertinere potest.): p. 404–420'
+    title: Modi faciles ex quovis brevi themate formandi variandique carmen. (NB! Haec inscriptio ut 409 scripta est, ita etiam ad pagg. 404–406
+      pertinere potest.)
+    locus: p. 404–420
+    title_status: unspecified
   - label: G
     catalog_statement: 'Modus Carminum Heroicorum: p. 421–423'
+    title: Modus Carminum Heroicorum
+    locus: p. 421–423
+    title_status: unspecified
   - label: H
     catalog_statement: 'latinarum Declinationum Quantitates aliaeque res metricae: p. 424/8'
+    title: latinarum Declinationum Quantitates aliaeque res metricae
+    locus: p. 424/8
+    title_status: unspecified
   - label: I
     catalog_statement: 'Adminicula quaedam ad facilius conficiendum versum: p. 429–430'
+    title: Adminicula quaedam ad facilius conficiendum versum
+    locus: p. 429–430
+    title_status: unspecified
   - label: J
     catalog_statement: 'Formulae commendandi alios: p. 433–435'
+    title: Formulae commendandi alios
+    locus: p. 433–435
+    title_status: unspecified
   - label: K
     catalog_statement: 'Epistola responsoria in quâ frater fratri significet dolorem ob absentiam: p. 437–438'
+    title: Epistola responsoria in quâ frater fratri significet dolorem ob absentiam
+    locus: p. 437–438
+    title_status: unspecified
   - label: L
     catalog_statement: 'Methodus Conscribendarum Epistolarum: p. 439–453'
+    title: Methodus Conscribendarum Epistolarum
+    locus: p. 439–453
+    title_status: unspecified
   - label: M
     catalog_statement: 'Methodus brevis Conscribendi Epistolas: p. 455–458, 454, 459–464'
+    title: Methodus brevis Conscribendi Epistolas
+    locus: p. 455–458, 454, 459–464
+    title_status: unspecified
   - label: N
-    catalog_statement: 'Tractatus alter de Poesi artificiosa (!): p. 465–506 (p. 487 inveniuntur sex chronosticha ad annum
-      1681.)'
+    catalog_statement: 'Tractatus alter de Poesi artificiosa (!): p. 465–506 (p. 487 inveniuntur sex chronosticha ad annum 1681.)'
+    title: Tractatus alter de Poesi artificiosa (!)
+    locus: p. 465–506
+    title_status: unspecified
   - label: O
     catalog_statement: '(Res metricae): p. 507–512'
+    title: Res metricae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 507–512
   - label: P
-    catalog_statement: '(Lexicon Synonymorum): p. 513–518 (alphabetice dispositum a littera l usque ad litteram t, id est
-      continuatio partis c, supra p. 126 nostri catalogi)'
+    catalog_statement: '(Lexicon Synonymorum): p. 513–518 (alphabetice dispositum a littera l usque ad litteram t, id est continuatio partis c,
+      supra p. 126 nostri catalogi)'
+    title: Lexicon Synonymorum
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 513–518
   - label: Q
-    catalog_statement: '(Elegiae et Epigrammata): p. 519–688, exceptis tamen paginis: 579: carmen heroicum versuum Leoninorum;
-      in fine chronogramma:'
+    catalog_statement: '(Elegiae et Epigrammata): p. 519–688, exceptis tamen paginis: 579: carmen heroicum versuum Leoninorum; in fine chronogramma:'
+    title: Elegiae et Epigrammata
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 519–688
   - label: R
-    catalog_statement: 'Diva Catharina Philosophorum iuxta ac Rhetorum, Patrona, Nuptiali Mundo in Sponsam adornata et Reverendis,
-      Nobilibus, ac Doctissimis Dominis Dominis Artium Liberalium et Philosophiae Magistris, In Alma Caesarea Regiaque Pragensi
-      Collegii Societatis Jesu Universitate Supremâ Philosophiae laureâ coronatis Sapientiae Sponsâ ab Oratoria facultate
-      eiusdem Universitatis Anno 1646. Judis Typis Academicis: p. 689–711 (quattuor orationes e libro typis impresso).'
+    catalog_statement: 'Diva Catharina Philosophorum iuxta ac Rhetorum, Patrona, Nuptiali Mundo in Sponsam adornata et Reverendis, Nobilibus,
+      ac Doctissimis Dominis Dominis Artium Liberalium et Philosophiae Magistris, In Alma Caesarea Regiaque Pragensi Collegii Societatis Jesu
+      Universitate Supremâ Philosophiae laureâ coronatis Sapientiae Sponsâ ab Oratoria facultate eiusdem Universitatis Anno 1646. Judis Typis
+      Academicis: p. 689–711 (quattuor orationes e libro typis impresso).'
+    title: Diva Catharina Philosophorum iuxta ac Rhetorum, Patrona, Nuptiali Mundo in Sponsam adornata et Reverendis, Nobilibus, ac Doctissimis
+      Dominis Dominis Artium Liberalium et Philosophiae Magistris, In Alma Caesarea Regiaque Pragensi Collegii Societatis Jesu Universitate Supremâ
+      Philosophiae laureâ coronatis Sapientiae Sponsâ ab Oratoria facultate eiusdem Universitatis Anno 1646. Judis Typis Academicis
+    locus: p. 689–711
+    title_status: unspecified
   - label: S
-    catalog_statement: 'Pro Virgilio Themata explicata: p. 713–716 (argumentum historiae Aeneae et sequentia e celeberrimo
-      opere Vergilii poetae).'
+    catalog_statement: 'Pro Virgilio Themata explicata: p. 713–716 (argumentum historiae Aeneae et sequentia e celeberrimo opere Vergilii poetae).'
+    title: Pro Virgilio Themata explicata
+    locus: p. 713–716
+    title_status: unspecified
   - label: T
-    catalog_statement: 'Themata ex Rhetorica data à R. P. Max(imiliano) Teu...(?) (Pronomen abbreviatum est, ultimae litterae
-      nominis gentilis utpote altero folio inductae iam non possunt legi!): p. 716–743.'
+    catalog_statement: 'Themata ex Rhetorica data à R. P. Max(imiliano) Teu...(?) (Pronomen abbreviatum est, ultimae litterae nominis gentilis
+      utpote altero folio inductae iam non possunt legi!): p. 716–743.'
+    title: Themata ex Rhetorica data à R. P. Max(imiliano) Teu...(?) (Pronomen abbreviatum est, ultimae litterae nominis gentilis utpote altero
+      folio inductae iam non possunt legi!)
+    locus: p. 716–743
+    title_status: unspecified
   - label: U
-    catalog_statement: '(Themata Germanica cum versione Latina ad res grammaticales exercendas): p. 745–806 (Thema Germanicum
-      interdum deest!)'
+    catalog_statement: '(Themata Germanica cum versione Latina ad res grammaticales exercendas): p. 745–806 (Thema Germanicum interdum deest!)'
+    title: Themata Germanica cum versione Latina ad res grammaticales exercendas
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 745–806
   - label: V
     catalog_statement: 'Exercitia Monastica, et Actus practici Vitae Religiosae: p. 807–882'
+    title: Exercitia Monastica, et Actus practici Vitae Religiosae
+    locus: p. 807–882
+    title_status: unspecified
   - label: X
     catalog_statement: '(Grammaticalia linguae Graecae rudimenta): p. 882–907'
+    title: Grammaticalia linguae Graecae rudimenta
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 882–907
   - label: Y
     catalog_statement: 'Notanda (in declinationes Latinas cum Latinorum tum Graecorum nominum): p. 917–948'
+    title: Notanda (in declinationes Latinas cum Latinorum tum Graecorum nominum)
+    title_status: unspecified
   - label: Y₁
-    catalog_statement: '(Themata Latina et Germanica de animalibus, praesertim avibus): p. 950–961. (Etiam in his carminibus
-      Latinis hic metrum non quantitate syllabarum dirigitur, sed accentu verborum. Unaquaque stropha quaternis versibus consistit,
-      qui bina metra [lectio incerta] paribus syllabis finalibus iuncta continent.)'
+    catalog_statement: '(Themata Latina et Germanica de animalibus, praesertim avibus): p. 950–961. (Etiam in his carminibus Latinis hic metrum
+      non quantitate syllabarum dirigitur, sed accentu verborum. Unaquaque stropha quaternis versibus consistit, qui bina metra [lectio incerta]
+      paribus syllabis finalibus iuncta continent.)'
+    title: Themata Latina et Germanica de animalibus, praesertim avibus
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 950–961
 phys_desc:
   object_form: codex
   support: Papier

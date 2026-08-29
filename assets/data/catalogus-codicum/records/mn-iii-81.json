@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-81",
   "signature": "MN III 81",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "253–254",
   "heading": {
     "title": "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1772"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–266",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -144,13 +151,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-81/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 81",
     "titles": "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim \nTägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die im Codex eingetragene Jahreszahl 1672 wird vom Katalog als Schreibfehler für 1772 beurteilt. \nDie im Codex eingetragene Jahreszahl 1672 ist nach dem Katalog ein Schreibfehler; korrekt ist 1772.",
-    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+    "german": "Oktavformat; 266 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken und Kanten kunstvoll mit sehr feinen eingeprägten und vergoldeten Blümchen geschmückt; geschrieben 1772.\n\n**Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim.**\n\nAm rechten Rand des Titelblattes steht von einer anderen Hand: **Anno Dom(ini) MD.CLXXII = 1672.**\n\nDa mit der erhabensten Königin von Ungarn und Böhmen zweifellos Kaiserin Maria Theresia (1740–1780) gemeint ist und außerdem Schrift, Orthographie und Sprachgebrauch auf eine Entstehung um 1770 deuten, besteht kein Zweifel, dass die Jahreszahl 1672 ein Schreibfehler ist. Gemeint ist 1772.\n\nDas Büchlein ist nicht nur äußerst sorgfältig und kunstvoll geschrieben, sondern auch mit zahlreichen mit Feder und Tinte ausgeführten Zeichnungen geschmückt.\n\nTrotzdem glaubt der Katalogbearbeiter nicht, dass gerade dieses Exemplar eigens zum Gebrauch der Kaiserin geschrieben wurde. Wahrscheinlich wurden mehrere derartige Büchlein hergestellt, von denen eines Maria Theresia geschenkt wurde.\n\nSchreiber und Kompilator sind unbekannt.\n\nDer wertvolle Codex wird in einem mit rehbraunem Leder bezogenen Schuber aufbewahrt.\n\nAuf der Rückseite eines Vorsatzblattes steht die Signatur **L K 9**. Da dies keine Seitenstettner Bibliothekssignatur ist, scheint das Büchlein aus einer anderen Bibliothek nach Seitenstetten gelangt zu sein.",
+    "latin": "8°; 266 pagg.; teg. b1, dorsum et margines tenerrimis flosculis impressis et inauratis artificiose ornata; script. 1772\n\n**Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim.**\n\nIn margine dextera folii titularis ab alia manu scriptum est: **Anno Dom(ini) MD.CLXXII = 1672**, sed cum Augustissima illa Regina Hungariae et Boemiae sine dubio Imperatrix sit Maria Theresia (1740–1780) et insuper scriptura, orthographia, sermonis ratio ortum esse codicillum nostrum pretiosissimum circa annum 1770 indicent, non est dubium, quin numerus ille anni 1672 lapsus sit calami.\n\nOpusculum nostrum non solum diligentissime et ornatissime scriptum, sed etiam multis adumbrationibus ipso atramento calamoque artificiose factis decoratum est. Nihilominus non puto ipsum codicem nostrum scriptum esse, ut Imperatrix illa eo uteretur; probabiliter plures codicilli huius generis scripti sunt, e quibus unus Imperatrici Mariae Theresiae dono datus est.\n\nCeterum tam scriptor quam compilator ignotus.\n\nCodex noster pretiosus in capsa corio cervini coloris munita servatur. In folio praeliminari verso invenitur signum **L K 9**; quod cum non sit signum bibliothecae Seitenstettensis, codicillus noster ex alia bibliotheca in Seitenstettensem videtur translatus esse."
   }
 }

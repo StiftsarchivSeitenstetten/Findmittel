@@ -13,13 +13,28 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in primam secundae Divi Thomae de gratia
-    locus: p. 5 - 556.
+    locus: p. 5 - 556
+    incipits:
+    - locus: p. 5
+      label: Prooemii
+      text: Siquidem quod est sanitas (?) ad videndum solem.....
+    title_status: unspecified
   - label: b
     title: Tractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate
-    locus: p. 557 - 610 (
+    locus: p. 557 - 610
+    incipits:
+    - locus: p. 557
+      label: Articuli primi De Fide
+      text: Tres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est.....
+    title_status: unspecified
   - label: c
     title: Sacra Scriptura Historia compendiosa Sacrosanctae Scripturae
-    locus: p. 637 - 1007.
+    locus: p. 637 - 1007
+    incipits:
+    - locus: p. 637
+      label: Praefationis
+      text: Quae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

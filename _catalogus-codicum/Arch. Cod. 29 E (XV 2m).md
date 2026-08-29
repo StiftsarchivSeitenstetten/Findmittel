@@ -10,11 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 29 E (XV 2m)
 ms_contents:
-  title: "Caeremoniale secundum consuetudinem Ecclesiae B. M. V. in Seittenstötten Desumptum et accomod[at]um ex Romano pro Abbate privilegiato de mitra et caeteris Pontificalibus. Sub Casparo Plautio Abbate dignissimo Seittenstötten[s]i Anno MDCXVI 1616 Quarto Idus Martii in Festo S. Gregorii Papae, et Ecclesiae Doctoris eximii."
   items:
-  - label: "a"
-    title: "Caeremoniale secundum consuetudinem Ecclesiae B. M. V. in Seittenstötten Desumptum et accomod[at]um ex Romano pro Abbate privilegiato de mitra et caeteris Pontificalibus. Sub Casparo Plautio Abbate dignissimo Seittenstötten[s]i Anno MDCXVI 1616 Quarto Idus Martii in Festo S. Gregorii Papae, et Ecclesiae Doctoris eximii."
-    locus: "Bl. 1r–21v"
+  - label: a
+    title: Caeremoniale secundum consuetudinem Ecclesiae B. M. V. in Seittenstötten Desumptum et accomod[at]um ex Romano pro Abbate privilegiato
+      de mitra et caeteris Pontificalibus. Sub Casparo Plautio Abbate dignissimo Seittenstötten[s]i Anno MDCXVI 1616 Quarto Idus Martii in Festo
+      S. Gregorii Papae, et Ecclesiae Doctoris eximii.
+    locus: Bl. 1r–21v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

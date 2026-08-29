@@ -13,10 +13,31 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 M (XVIII 3m).
   items:
   - label: a
-    catalog_statement: 'Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac
-      Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57.'
+    catalog_statement: 'Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P.
+      Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57.'
+    title: Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler,
+      Monasterii Seitenstettensis Priore emerito
+    locus: p. 3–57
+    incipits:
+    - locus: p. 5
+      text: Deliberatio haec nihil est aliud,.....
+    colophons:
+    - locus: p. 57
+      text: Requies aeterna Authori!
+    title_status: unspecified
   - label: b
     catalog_statement: 'Tractatus Quintus Philosophia Moralis, Seu Ethica: p. 61–165.'
+    title: Tractatus Quintus Philosophia Moralis, Seu Ethica
+    locus: p. 61–165
+    incipits:
+    - locus: p. 61
+      text: Ethica Seu Philosophia Moralis â moribus......
+    explicits:
+    - locus: p. 165
+      text: 'omnia pene ex P. Gallo Cartier (Ordinis S. Benedicti, qui anno 1756 opus ediderat, cui inscriptio: Philosophia eclectica ad mentem
+        et methodum celeberrimorum nostrae aetatis philosophorum concinnata et in quatuor partes, Logicam nempe, Metaphysicam, Physicam et Ethicam
+        distributa.)'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

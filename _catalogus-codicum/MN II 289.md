@@ -12,23 +12,37 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-dogmaticus De Angelis
-    locus: S. 7–86
-    incipit: Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit
+    locus: p. 7–86
     note: Additamenta S. 87–88.
+    incipits:
+    - text: Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit,.....
+    title_status: unspecified
   - label: b
     title: Tractatus II. De creatura corporali
-    locus: S. 91–163
-    incipit: Post considerationem Spiritualis creaturae
+    locus: p. 91–163
+    incipits:
+    - text: Post considerationem Spiritualis creaturae,.......
+    title_status: unspecified
   - label: c
     title: Tractatus I. in I. Secundae S. Thomae Aquinatis De ultimo fine seu beatitudine hominis
-    locus: S. 165–241
-    incipit: Amor Divinus circulum efficit admirabilem
+    locus: p. 165–241
+    incipits:
+    - text: Amor Divinus circulum efficit admirabilem......
+    title_status: unspecified
   - label: d
     title: Tractatus II. De actibus humanis
-    locus: S. 243–383
-    incipit: Progredimur cum Angelico duce nostro ad explicandos actus humanos
+    locus: p. 243–383
     end_date_display: 11. August 1752
-    explicit: 'Sicque die Veneris suspendimus Organa nostra, quo solet et fidicen plectra referre domum.'
+    incipits:
+    - text: Progredimur cum Angelico duce nostro ad explicandos actus humanos,.....
+    explicits:
+    - text: ) Sicque die Veneris suspendimus Organa nostra, quo solet et fidicen plectra referre domum.
+      label: adduntur hi versus impares
+    title_status: unspecified
+    colophons:
+    - text: 11 Augusti 1752.
+    notes:
+    - (Cui
 phys_desc:
   object_form: codex
   support: Papier

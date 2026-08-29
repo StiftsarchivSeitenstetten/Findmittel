@@ -13,11 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–15 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: 'Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus
-      Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.'
+    catalog_statement: 'Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic
+      dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.'
+    title: Selectum Ex Universo Jure Canonico Collegium
+    locus: p. 1–210
+    incipits:
+    - locus: p. 1
+      text: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit....
+    colophons:
+    - locus: p. 210
+      text: Absolvi 22 Martii Salisburgi Anno 1655.
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258);
-      finis huius partis deest.'
+    catalog_statement: 'Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258); finis huius partis
+      deest.'
+    title: Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio
+    locus: p. 1–48
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

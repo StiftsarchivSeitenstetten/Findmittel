@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-197",
   "signature": "MN II 197",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "146–147",
   "heading": {
     "title": "Summulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1695/96"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Summulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 4–100r (=S. 7–199)",
+      "locus": "fol. 4–100",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 4r",
+          "text": "Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 100r",
+          "text": "Finitae hae summulae Anno 1695 die 16 Decembris die Veneris ante prandium nonnihil ante tertium quadrantem ad Nonam.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 4r",
+        "text": "Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 100r",
+        "text": "Finitae hae summulae Anno 1695 die 16 Decembris die Veneris ante prandium nonnihil ante tertium quadrantem ad Nonam.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -62,6 +89,10 @@
         {
           "type": "certainty",
           "text": "probable"
+        },
+        {
+          "type": "notes",
+          "text": "(Forsitan numerum anni minus diligenter scriptum praecipue „1694“ legas, sed 16. Decembris anno 1695 erat dies Veneris.)"
         }
       ],
       "dates": [
@@ -77,15 +108,45 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Aristotelico Thomistica per usitatas hoc tempore quaestiones exposita",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–200 (=201–400) + S. 1–645 (=401–1045)",
+      "locus": "p. 1–200",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Proemii",
+          "text": "Quae hucusque dicta sunt, non incongrue appellari possunt......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "label": "Disputationis I",
+          "text": "finivimus 28 Januarii die Sabbati ante tertium quadrantem ad nonam in Festo translato S. Pauli Eremitae.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 645",
+          "label": "totius Logicae",
+          "text": "Absolvimus 1696. 26 Maii. in Festo Divi Bedae Doctoris et Confessoris. Dum reliquiae immitterentur in fossam Reverendissimo Abbate ad S. Petrum, cuius officio, quod",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "label": "Proemii",
+        "text": "Quae hucusque dicta sunt, non incongrue appellari possunt......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "label": "Disputationis I",
+        "text": "finivimus 28 Januarii die Sabbati ante tertium quadrantem ad nonam in Festo translato S. Pauli Eremitae.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -99,13 +160,17 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio prima",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "S. 1–200 (=201–400)",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -122,13 +187,17 @@
           "id": "item-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputationes secunda et tertia",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "S. 1–645 (=401–1045)",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -243,13 +312,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 197",
     "titles": "Summulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis \nSummulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis \nLogica Aristotelico Thomistica per usitatas hoc tempore quaestiones exposita \nDisputatio prima \nDisputationes secunda et tertia",
-    "persons": "Fr. Columbanus Leopolder Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Die Jahreszahl könnte flüchtig als 1694 gelesen werden; der Freitag, 16. Dezember, spricht nach dem Katalog für 1695. \nprobable",
-    "physical": "Papier \n(100 fol. =) 200 + 200 + 654 = 1054 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "persons": "Fr. Columbanus Leopolder Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata.... \nQuae hucusque dicta sunt, non incongrue appellari possunt......",
+    "explicits": "Finitae hae summulae Anno 1695 die 16 Decembris die Veneris ante prandium nonnihil ante tertium quadrantem ad Nonam. \nfinivimus 28 Januarii die Sabbati ante tertium quadrantem ad nonam in Festo translato S. Pauli Eremitae. \nAbsolvimus 1696. 26 Maii. in Festo Divi Bedae Doctoris et Confessoris. Dum reliquiae immitterentur in fossam Reverendissimo Abbate ad S. Petrum, cuius officio, quod",
+    "notes": "Die Jahreszahl könnte flüchtig als 1694 gelesen werden; der Freitag, 16. Dezember, spricht nach dem Katalog für 1695. \nprobable \n(Forsitan numerum anni minus diligenter scriptum praecipue „1694“ legas, sed 16. Decembris anno 1695 erat dies Veneris.) \nLogica M. S. F. Columbani Seittenstettensis 1696. \nHer Columb – seit (?)..... \nDer nach der Schlussformel folgende Satz über die Teilnahme an einer Beisetzung wurde vom Buchbinder am Rand teilweise abgeschnitten und ist nicht vollständig lesbar.",
+    "physical": "Papier \n(100 fol. =) 200 + 200 + 654 = 1054 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "100 Blätter (= 200 Seiten) + 200 + 654 = 1054 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1695/96.\n\na) **Summulae oder Einführung in die aristotelische Logik nach der Lehre des hl. Thomas von Aquin:** fol. 4–100. Anfang fol. 4r (= S. 7): Unter dem Schutz Gottes, des dreifach Besten und Größten, und mit Hilfe der unbefleckten Jungfrau Maria..... Schluss fol. 100r (= S. 199): **Diese Summulae wurden am Freitag, dem 16. Dezember 1695, vor dem Mittag, kurz vor dem dritten Viertel zur Non beendet.** Die Jahreszahl könnte flüchtig auch 1694 gelesen werden, doch war der 16. Dezember 1695 ein Freitag.\n\nb) **Aristotelisch-thomistische Logik, dargestellt nach den heute üblichen Fragen:** S. 1–200 (=201–400, Disputation I) + 1–645 (=401–1045, Disputationen II und III). Anfang der Vorrede: Was bisher gesagt wurde, kann nicht unpassend genannt werden.....\n\nSchluss der ersten Disputation: **Wir beendeten [sie] am 28. Januar, einem Samstag, kurz vor dem dritten Viertel zur Non, am verlegten Fest des hl. Paulus Eremita.**\n\nSchluss der gesamten Logik S. 1045: **Wir beendeten [sie] 1696 am 26. Mai, am Fest des hl. Beda, Doktor und Bekenner.** Der anschließende Satz über eine Beisetzung in St. Peter ist durch den Buchbinder am Rand teilweise abgeschnitten.\n\nDen Schreiber nennt die Rückenaufschrift: **Logica M. S. F. Columbani Seittenstettensis 1696.** Ebenso verweist eine Buchbinderanweisung fol. 4r auf **F. Columban**. Gemeint ist Fr. Columbanus Leopolder, der 1694 im Kloster Seitenstetten Profess ablegte. Er schrieb auch die drei folgenden Codices. Der Verfasser ist unbekannt; dieselben Vorlesungen finden sich bereits in MN II 196.",
+    "latin": "(100 fol. =) 200 + 200 + 654 = 1054 pagg.; teg. a1; scr. 1695/96\n\na) Summulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S: Thomae Aquinatis: fol. 4–100. Initium fol. 4r (= pag. 7): Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata.... Clausula fol. 100r (= pag. 199): Finitae hae summulae Anno 1695 die 16 Decembris die Veneris ante prandium nonnihil ante tertium quadrantem ad Nonam. (Forsitan numerum anni minus diligenter scriptum praecipue „1694“ legas, sed 16. Decembris anno 1695 erat dies Veneris.)\n\nb) Logica Aristotelico Thomistica per usitatas hoc tempore quaestiones exposita: p. 1–200 (= 201–400 = Disputatio I) + 1–645 (= 401–1045 = Disputatio II et III). Initium Proemii: Quae hucusque dicta sunt, non incongrue appellari possunt...... Clausula Disputationis I: finivimus 28 Januarii die Sabbati ante tertium quadrantem ad nonam in Festo translato S. Pauli Eremitae. Clausula totius Logicae p. 645 (= 1045): Absolvimus 1696. 26 Maii. in Festo Divi Bedae Doctoris et Confessoris. Dum reliquiae immitterentur in fossam Reverendissimo Abbate ad S. Petrum, cuius officio, quod\n\n\n\n\nipse faciebat in aula academica .....portans Lumen in Lichnitide praesens eram. (Ultimam lineam bibliopegus paene resecuit, ita ut partim legi non possit.)\n\nScriptorem huius codicis indicat inscriptio dorsi: Logica M. S. F. Columbani Seittenstettensis 1696. et nota pro bibliopego fol. 4r: Her Columb – seit (?)....., dico F. Columbanum Leopolder ordinem S. Benedicti professum in Seitenstetten anno 1694. Qui etiam tres codices sequentes scripsit. Auctorem autem nescio, etsi easdem lectiones iam in codice praecedente MN II 196 invenimus."
   }
 }

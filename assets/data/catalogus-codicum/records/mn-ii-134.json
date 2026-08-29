@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-134",
   "signature": "MN II 134",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "86",
   "heading": {
     "title": "Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1680, 1678"
   },
   "date": {
@@ -39,6 +39,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 134.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -50,15 +53,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 1 - 564.",
+      "locus": "p. 1 - 564",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii. De Utilitate, et Necessitate Juris Canonici",
+          "text": "p. 1: Ut in ipso Juris Canonici ingressu praeviis velut vestigiis,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 564",
+          "text": "Et hic esto Libri primi Decretalium finis, 26 Augusti 1680.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii. De Utilitate, et Necessitate Juris Canonici",
+        "text": "p. 1: Ut in ipso Juris Canonici ingressu praeviis velut vestigiis,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 564",
+        "text": "Et hic esto Libri primi Decretalium finis, 26 Augusti 1680.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -68,15 +95,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Loca obscuriora et difficiliora Sacrae Scripturae: Illustrata ab......Patre Josepho Mezger, Benedictino in Antiquissimo Monasterio S. Petri Odeo Salisburgi Professo, Sacrae Scripturae Professore Ordinario. Scriptis Excepta à Fratre Leopoldo Wimmer Ordinis S. Benedicti in Seittenstetten Professo. Anno 1678",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 1 - 192.",
+      "locus": "p. 1 - 192",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Praefationis",
+          "text": "Scriptura Divina, veluti immensum et profundissimum aequor est.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 192",
+          "text": "Absolvimus hunc tractatum die 5 Octobris, S. Placido, Sociorumque illius Martyrum benedictae turbae Sacro, Anno 1678.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Praefationis",
+        "text": "Scriptura Divina, veluti immensum et profundissimum aequor est.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 192",
+        "text": "Absolvimus hunc tractatum die 5 Octobris, S. Placido, Sociorumque illius Martyrum benedictae turbae Sacro, Anno 1678.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -154,13 +207,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-134/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 134",
     "titles": "Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680 \nCommentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680 \nLoca obscuriora et difficiliora Sacrae Scripturae: Illustrata ab......Patre Josepho Mezger, Benedictino in Antiquissimo Monasterio S. Petri Odeo Salisburgi Professo, Sacrae Scripturae Professore Ordinario. Scriptis Excepta à Fratre Leopoldo Wimmer Ordinis S. Benedicti in Seittenstetten Professo. Anno 1678",
-    "persons": "Fr. Leopold Wimmer Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Leopold Wimmer Schreiber scribe ",
+    "incipits": "p. 1: Ut in ipso Juris Canonici ingressu praeviis velut vestigiis,.... \nScriptura Divina, veluti immensum et profundissimum aequor est.....",
+    "explicits": "Et hic esto Libri primi Decretalium finis, 26 Augusti 1680. \nAbsolvimus hunc tractatum die 5 Octobris, S. Placido, Sociorumque illius Martyrum benedictae turbae Sacro, Anno 1678.",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 134.",
-    "physical": "Papier \nII + 566 + 192 = 760 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nII + 566 + 192 = 760 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "II + 566 + 192 = 760 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1680 und 1678.\n\na) **Kommentar zum ersten Buch der Dekretalen über Ämter und Diener der Kirche**, an der Universität Salzburg unter P. Caelestinus Sfondrati, Benediktiner von St. Gallen in der Schweiz, Doktor der heiligen Theologie und beider Rechte sowie ordentlicher Professor des kanonischen Rechts; aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1680: S. 1–564.\n\nVermerk S. II: Die Vorrede und die ersten drei Titel des ersten Buches diktierte P. Volpertus Motzl, Benediktiner des Klosters Scheyern. Da er jedoch vom Tod ereilt wurde, übernahm P. Caelestinus Sfondrati, Benediktiner von St. Gallen, Doktor beider Rechte und ordentlicher Professor des kanonischen Rechts, und diktierte beziehungsweise vollendete 1680 das gesamte erste Buch.\n\nAnfang der Vorrede **Über Nutzen und Notwendigkeit des kanonischen Rechts**, S. 1: Damit wir gleich beim Eintritt in das kanonische Recht gleichsam auf vorgezeichneten Spuren....\n\nSchluss S. 564: Und hier sei das Ende des ersten Buches der Dekretalen, 26. August 1680.\n\nb) **Dunklere und schwierigere Stellen der Heiligen Schrift**, erläutert von P. Joseph Mezger, Benediktiner von St. Peter in Salzburg und ordentlicher Professor der Heiligen Schrift; aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678: S. 1–192 (=569–760).\n\nAnfang der Vorrede S. 569: Die göttliche Schrift ist gleichsam ein unermessliches und sehr tiefes Meer..... Schluss S. 760: Wir beendeten diese Abhandlung am 5. Oktober, dem Fest des hl. Placidus und seiner Mitmärtyrer, 1678.\n\nAufschrift auf der Vorderseite des Einbandes: **F L W P S** = Fr. Leopoldus Wimmer Professus Seittenstettensis, 1681; in diesem Jahr wurde der Codex eingebunden.\n\nDer Vermerk S. II zeigt, dass der gesamte Teil a von P. Caelestinus Sfondrati vorgetragen wurde, der später Kardinal der Heiligen Römischen Kirche wurde.",
+    "latin": "II + 566 + 192 = 760 pagg.; teg. a2; script. 1680, 1678\n\na) Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680: p. 1 - 564.\n\nNota p. II: Dictavit Prooemium, Una cum tribus primis titulis huius libri primi Decretalium, ......Pater Volpertus Motzl Ordinis S. Benedicti, in Celeberrimo Bavariae Monasterio Shyrensi Professus. Verùm, quia morte praeventus erat, huius Vices Supplens, integrum hunc librum primum dictavit, et absolvit.......Pater Caelestinus Sfondrati, Ordinis S. Benedicti in Celeberrimo Monasterio ad Divum Gallum in Helvetiâ Professus, Juris Utriusque Doctor et Sacrorum Canonum Professor Ordinarius, Anno 1680.\n\nInitium Prooemii. De Utilitate, et Necessitate Juris Canonici: p. 1: Ut in ipso Juris Canonici ingressu praeviis velut vestigiis,....\n\nClausula p. 564: Et hic esto Libri primi Decretalium finis, 26 Augusti 1680.\n\nb) Loca obscuriora et difficiliora Sacrae Scripturae: Illustrata ab......Patre Josepho Mezger, Benedictino in Antiquissimo Monasterio S. Petri Odeo Salisburgi Professo, Sacrae Scripturae Professore Ordinario. Scriptis Excepta à Fratre Leopoldo Wimmer Ordinis S. Benedicti in Seittenstetten Professo. Anno 1678: p. 1 - 192.\n\nInitium Praefationis p. 1 (= 569): Scriptura Divina, veluti immensum et profundissimum aequor est..... Clausula p. 192 (= 760): Absolvimus hunc tractatum die 5 Octobris, S. Placido, Sociorumque illius Martyrum benedictae turbae Sacro, Anno 1678.\n\nInscriptio partis adversae tegumenti: F L W P S (= F. Leopoldus Wimmer Professus Seittenstettensis) 1681 (quo anno codex noster tegumento munitus est.)\n\nNB! Nota p. II, quam supra exscripsimus, ostendit totam partem a codicis nostri a P. Caelestino Sfondrati, qui postea Sanctae Romanae Ecclesiae Cardinalis creatus est, traditam esse."
   }
 }

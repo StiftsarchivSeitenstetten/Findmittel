@@ -13,14 +13,19 @@ ms_contents:
   items:
   - label: a
     title: Pars Prima De Gratia, Justificatione et Merito
-    locus: S. 5–385
+    locus: p. 5–385
     start_date: '1701-11-09'
     end_date: '1702-07-01'
+    title_status: unspecified
   - label: b
     title: Pars Secunda De Virtutibus Theologicis Fide, Spe et Charitate
-    locus: S. 386–425
-    completeness: incomplete
+    locus: p. 386–425
+    completeness:
+      status: defective
+      note: incomplete
     note: Der Teil ist durch zahlreiche Lücken beschädigt und scheint unvollständig zu sein.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

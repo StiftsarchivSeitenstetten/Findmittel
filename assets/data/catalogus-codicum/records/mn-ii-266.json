@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-266",
   "signature": "MN II 266",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "210",
   "heading": {
     "title": "Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1724"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Friderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden. Dresden Bey Johann Jacob Wincklern 1724",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. III, 1–247",
+      "locus": "p. III, 1–247",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "M(agistri?) Johannis Isaaci Hollandi vegetabel Werckh",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 259–560",
+      "locus": "p. 259–560",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -161,13 +172,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-266/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 266",
     "titles": "Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724 \nFriderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden. Dresden Bey Johann Jacob Wincklern 1724 \nM(agistri?) Johannis Isaaci Hollandi vegetabel Werckh",
-    "persons": "Maria Magdalena Antonia Vogl Besitzer owner \nunbekannt Schreiber scribe",
+    "persons": "Maria Magdalena Antonia Vogl Besitzer owner  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Kapitel- und Sachregister S. 248–258. \nDie in runden Klammern stehende Auflösung „agistri?“ ist eine editorische Ergänzung des Katalogtexts.",
-    "physical": "Papier \nIV + 562 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext."
+    "physical": "Papier \nIV + 562 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext.",
+    "german": "IV + 562 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1724.\n\n**Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724**\n\na) **Friderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden. Dresden Bey Johann Jacob Wincklern 1724:** S. III, 1–247; Kapitel- und Sachregister S. 248–258.\n\nb) **M(agistri?) Johannis Isaaci Hollandi vegetabel Werckh:** S. 259–560.\n\nDer gesamte Codex wurde von einer einzigen Hand äußerst sorgfältig geschrieben; es ist jedoch nicht sicher, dass Maria Magdalena Antonia Vogl selbst die Schreiberin war. Ebenso bleibt ungewiss, ob diese Frau, der das Arzneibuch gehörte, mit P. Franz Vogl verwandt war, der 1722 in Seitenstetten Profess ablegte. Seine Mutter war sie jedenfalls nicht, denn diese hieß Maria Juliana.",
+    "latin": "IV + 562 pagg.; teg. b1; script. 1724\n\n**Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724**\n\na) **Friderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden. Dresden Bey Johann Jacob Wincklern 1724:** p. III, 1–247 cum Indice Capitum et Rerum p. 248–258\n\nb) **M(agistri?) Johannis Isaaci Hollandi vegetabel Werckh:** p. 259–560.\n\nTotus codex ab una eademque manu accuratissime scriptus est; at non est certum ipsam Mariam Magdalenam Antoniam Vogl esse scriptricem. Insuper incertum est, num femina illa, cui proprius erat hic liber medicinarum, consanguinea sit cum P. Francisco Vogl, qui anno 1722 in monasterio Seitenstettensi vota nuncupavit. Certe non fuit mater eius, quippe cui matri esset nomen Maria Juliana."
   }
 }

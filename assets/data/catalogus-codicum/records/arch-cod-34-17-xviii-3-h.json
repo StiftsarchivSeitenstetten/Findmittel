@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-17-xviii-3-h",
   "signature": "Arch. Cod. 34–17 (XVIII 3 h)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "70–71",
   "heading": {
     "title": "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,15 +42,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–770",
       "language": "",
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Prooemii",
+          "text": "Explicatis praecedenti anno tribus novae legis sacramentis...... Inscriptio dorsi: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Explicatis praecedenti anno tribus novae legis sacramentis......"
+        "locus": "p. 5",
+        "label": "Prooemii",
+        "text": "Explicatis praecedenti anno tribus novae legis sacramentis...... Inscriptio dorsi: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -128,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-17-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–17 (XVIII 3 h)",
     "titles": "Tractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis. \nTractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.",
-    "persons": "unbekannt Autor author \nFr. Ernst Weissenberger Schreiber scribe",
-    "incipits": "Explicatis praecedenti anno tribus novae legis sacramentis......",
+    "persons": "unbekannt Autor author  \nFr. Ernst Weissenberger Schreiber scribe ",
+    "incipits": "Explicatis praecedenti anno tribus novae legis sacramentis...... Inscriptio dorsi: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.",
     "explicits": "",
     "notes": "Rückenaufschrift: MS. F. Ernesti Weissenberger Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.",
-    "physical": "Papier \n770 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n770 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 770 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111; geschrieben um 1670.\n\n**Dritte Abhandlung zum dritten Teil des hl. Thomas über die übrigen vier Sakramente.**\n\nAnfang der Vorrede S. 5: „Nachdem im vergangenen Jahr drei Sakramente des Neuen Bundes erklärt worden sind....“\n\nRückenaufschrift: **MS. des Fr. Ernst Weissenberger aus Seitenstetten über Buße, Letzte Ölung, Weihe und Ehe.**\n\nDer Verfasser ist unbekannt.\n\nDieselbe Abhandlung enthält MN II 118, 1670 geschrieben. Es ist jedoch nicht sicher, dass auch unser Codex in diesem Jahr entstand. Vielleicht wiederholte der Professor dieselben Vorlesungen in mehreren Jahren. Schwer vorstellbar – wenn auch nicht unmöglich – ist, dass Fr. Ernst im selben Jahr MN II 109, MN II 112 und Arch. Cod. 34–17 schrieb.",
+    "latin": "770 pagg.; 4°; teg. a2 ut in cod. MN II 111; script. ca. 1670\n\nTractatus Tertius In Tertiam Partem Divi Thomae De Reliquis Quatuor Sacramentis.\n\n_Initium_ Prooemii p. 5: Explicatis praecedenti anno tribus novae legis sacramentis...... _Inscriptio dorsi_: MS. **F. Ernesti Weissenberger** Seittenstettensis de Poenitentia, Extrema Unctione ordine et Matrimonio.\n\nAuctor ignotus.\n\nEundem tractatum continet etiam codex MN II 118 (vide supra p. 64!) anno 1670 scriptus. Attamen non est certum, etiam nostrum codicem in illo anno scriptum esse. Forsitan professor easdem lectiones pluribus in annis repetiverit. Vix enim credibile (etiam non impossibile) est fratrem Ernestum uno eodemque anno codices MN II 109 (supra p. 68), 112 (supra p. 69), 34–17 scripsisse."
   }
 }

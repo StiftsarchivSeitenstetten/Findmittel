@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "cccii",
   "signature": "CCCII",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "5",
   "heading": {
-    "title": "(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Hieronymi Megiserii Deliciae ordinum equestrium",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "saec. 15 et 16 (17?)"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. CCCII.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Hieronymi Megiserii Deliciae ordinum equestrium",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 77r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen: fol. 83r. - 104r. (saec. 16 script.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 83r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Piccardorum dogmata: latine; fol. 105r - 110v; saec. XV.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Piccardorum dogmata: latine",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 105r - 110v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -158,13 +173,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/cccii/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "CCCII",
-    "titles": "(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593 \n(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593 \nVerzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen: fol. 83r. - 104r. (saec. 16 script.) \nPiccardorum dogmata: latine; fol. 105r - 110v; saec. XV.",
+    "titles": "Hieronymi Megiserii Deliciae ordinum equestrium \nHieronymi Megiserii Deliciae ordinum equestrium \nVerzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen \nPiccardorum dogmata: latine",
     "persons": "",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Bibl. Cod. CCCII. \n(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593 \nVerzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen: fol. 83r. - 104r. (saec. 16 script.) \nPiccardorum dogmata: latine; fol. 105r - 110v; saec. XV.",
-    "physical": "Papier \n4°, 110 foll., teg. d (nigrum), script. saec. 15 et 16 (17?) \nQuartformat \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; nähere Farb- und Materialangaben siehe Katalogtext."
+    "physical": "Papier \n4°, 110 foll., teg. d (nigrum), script. saec. 15 et 16 (17?) \nQuartformat \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; nähere Farb- und Materialangaben siehe Katalogtext.",
+    "german": "Quartformat; 110 Blätter; Halblederband mit schwarzem Rücken; geschrieben im 15. und 16. Jahrhundert (17.?).\n\na) **(Hieronymus Megiser, *Deliciae ordinum equestrium*):** fol. 1–77r, deutsch. Fol. 77r: **Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593**\n\nb) **Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen:** fol. 83r–104r; im 16. Jahrhundert geschrieben.\n\nc) **Lehren der Picarden:** lateinisch; fol. 105r–110v; im 15. Jahrhundert geschrieben.\n\nBesitzvermerk auf der Innenseite des Vorderdeckels: **Ex libris Wolfgangi Pancratii Trabre....(?) anno 1675** – oder vielmehr 1615?",
+    "latin": "4°, 110 foll., teg. d (nigrum), script. saec. 15 et 16 (17?)\n\na) (Hieronymi Megiserii *Deliciae ordinum equestrium*): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593\n\nb) Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen: fol. 83r. - 104r. (saec. 16 script.)\n\nc) Piccardorum dogmata: latine; fol. 105r - 110v; saec. XV.\n\nNota in tegumento adverso ab intrinsecus: Ex libris Wolfgangi Pancratii Trabre....(?) anno 1675 (vel potius 1615?)"
   }
 }

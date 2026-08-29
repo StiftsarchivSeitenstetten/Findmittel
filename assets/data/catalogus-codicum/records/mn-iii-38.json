@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-38",
   "signature": "MN III 38",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "216",
   "heading": {
     "title": "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1737"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. I",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -144,13 +151,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-38/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 38",
     "titles": "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737 \nGeistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Rot gefärbter Pappeinband mit feinen Randverzierungen."
+    "notes": "type: medical_recipe; locus: S. III; possible_hand: Teresiä Steilbelmilin; certainty: probable",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Rot gefärbter Pappeinband mit feinen Randverzierungen.",
+    "german": "Kleines Oktavformat; IV + 182 Seiten; rot gefärbter Pappeinband, am Rand mit feinen Verzierungen; geschrieben 1737.\n\n**Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737.**\n\nS. I Besitzvermerk: **Joseph Steiblmilner Gehörig Anno 1773.**\n\nS. III steht ein medizinisches Rezept, wahrscheinlich von jener Person geschrieben, deren Name in der vorletzten Zeile erscheint: **Teresiä Steilbelmilin**. Sie war vermutlich Ehefrau oder Verwandte Joseph Steiblmilners.\n\nS. IV befindet sich ein Kupferstich von Martin Engelbrecht, Augsburg.\n\nSchreiber und Verfasser sind unbekannt.",
+    "latin": "8° min.; IV + 182 pagg.; teg. chartaceum rubro colore fucatum et in margine teneris ornamentis decoratum; script. 1737\n\n**Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737.**\n\np. I nota possidentis: **Joseph Steiblmilner Gehörig Anno 1773**\n\np. III: praeceptum medicinale probabiliter ab ea scriptum, cuius nomen in linea paenultima reperitur: **Teresiä Steilbelmilin** (quae probabiliter uxor aut consanguinea Josephi Steiblmilner fuit.)\n\np. IV: imago chalcographice adumbrata a Martino Engelbrecht Augustae Vindelicorum.\n\nTam scriptor quam auctor ignotus."
   }
 }

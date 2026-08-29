@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-276",
   "signature": "MN II 276",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "218–219",
   "heading": {
     "title": "Mathesis Pura",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nach 1742"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Mathesis Pura",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prolegomena Matheseos Purae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–5",
+      "locus": "p. 3–5 et V",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-a-1",
       "label": "a.1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vorbericht",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 6–23",
+      "locus": "p. 6–23",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,13 +92,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Erste Gründe der allgemeinen Mathematik",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 23–76",
+      "locus": "p. 23–76",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -99,13 +114,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Erste Gründe der Rechenkunst",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 77–177",
+      "locus": "p. 77–177",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -122,13 +141,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Erste Gründe der Geometrie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 179–360",
+      "locus": "p. 179–360",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -140,13 +163,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Erste Gründe der Trigonometrie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 361–370",
+      "locus": "p. 361–370",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -158,13 +185,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Erste Gründe der Dynamie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 370–381",
+      "locus": "p. 370–381",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -250,13 +281,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-276/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 276",
     "titles": "Mathesis Pura \nProlegomena Matheseos Purae \nVorbericht \nErste Gründe der allgemeinen Mathematik \nErste Gründe der Rechenkunst \nErste Gründe der Geometrie \nErste Gründe der Trigonometrie \nErste Gründe der Dynamie",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Der Katalog ergänzt in runden Klammern die editorische Inhaltsbezeichnung „Arithmetic“; sie wurde nicht als überlieferter Titel behandelt. \nDie in runden Klammern stehende Erläuterung „Von Erfindung der Größe in der Geschwindigkeit“ ist eine editorische Inhaltsbezeichnung und wurde nicht als überlieferter Titel behandelt.",
-    "physical": "Papier \n386 pagg. \ntype: illustrations; applies_to: Teile d–f; description: Zahlreiche elegante Zeichnungen. \ndescription: Blauer Pappeinband."
+    "physical": "Papier \n386 pagg. \ntype: illustrations; applies_to: Teile d–f; description: Zahlreiche elegante Zeichnungen. \ndescription: Blauer Pappeinband.",
+    "german": "386 Seiten; blauer Pappeinband; geschrieben nicht vor 1742.\n\n**Reine Mathematik**\n\na) **Prolegomena der reinen Mathematik:** S. 3–5 und **Vorbericht:** S. 6–23.\n\nb) **Erste Gründe der allgemeinen Mathematik:** S. 23–76.\n\nc) **Erste Gründe der Rechenkunst (Arithmetic):** S. 77–177.\n\nd) **Erste Gründe der Geometrie:** S. 179–360.\n\ne) **Erste Gründe der Trigonometrie:** S. 361–370.\n\nf) **Erste Gründe der Dynamie (= Von Erfindung der Größe in der Geschwindigkeit):** S. 370–381.\n\nAbgesehen von einigen lateinischen Definitionen und Einteilungen ist das gesamte Werk deutsch geschrieben. Verfasser und Schreiber sind unbekannt. Auf S. 4 wird „Brückners historia philosophiae critica“ zitiert; da dieses Werk 1742 erschien, kann unser Band nicht vor diesem Jahr geschrieben worden sein. Wegen der ausgefeilteren deutschen Syntax und einer Schreibweise, die moderner ist als jene um 1740, vermute ich jedoch eine etwas spätere Entstehung. NB: Der richtig geschriebene Name des zitierten Autors lautet Brucker.\n\nDie Teile d–f sind durch zahlreiche elegante Zeichnungen illustriert.",
+    "latin": "386 pagg.; teg. chartaceum caeruleo colore fucatum; scr. p. 1742\n\n**Mathesis Pura**\n\na) Prolegomena Matheseos Purae: p. 3–5 et Vorbericht: p. 6–23  \nb) Erste Gründe der allgemeinen Mathematik: p. 23–76  \nc) Erste Gründe der Rechenkunst (Arithmetic): p. 77–177  \nd) Erste Gründe der Geometrie: p. 179–360  \ne) Erste Gründe der Trigonometrie: p. 361–370  \nf) Erste Gründe der Dynamie (= Von Erfindung der Größe in der Geschwindigkeit): p. 370–381\n\nPraeter quasdam definitiones et divisiones Latinas totum opus in lingua Germanica exaratum est. Nescimus vero, a quo compositum, a quo conscriptum sit. p. 4 laudatur „Brückners historia philosophiae critica;“ quae cum anno 1742 in lucem evenerit, tomus noster ante annum istum non potest esse scriptus. Sed propter syntaxin Germanicam magis perpolitam et rectiorem rationem scribendi, quam circa annum 1740 in usu erat, aliquantum posterius puto opus nostrum ortum esse. (NB! Auctori laudato verum nomen est Brucker!)\n\nPartes d–f multis et elegantibus adumbrationibus illustratae sunt."
   }
 }

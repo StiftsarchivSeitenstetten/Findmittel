@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-158",
   "signature": "MN II 158",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "159–160",
   "heading": {
     "title": "Tractatus in Physicam particularem Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1700"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,26 @@
       "id": "item-a",
       "label": "a",
       "type": "proemium",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Physicam particularem Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3",
+      "locus": "p. 3",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Superavimus duriora planior nunc et jucundior via restat....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Superavimus duriora planior nunc et jucundior via restat....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -57,14 +72,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio prima De Mundo in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–59",
+      "locus": "p. 3–59",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Disputatio haec duabus quaestionibus absolvitur......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Disputatio haec duabus quaestionibus absolvitur......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -75,14 +102,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio secunda De globo terraque",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 59–125",
+      "locus": "p. 59–125",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Postquam priori disputatione de mundo.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Postquam priori disputatione de mundo.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -93,14 +132,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio tertia De athmosphaera Et Metheoris",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 125–187",
+      "locus": "p. 125–187",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Mundum subterraneum ejusque superficiem egressessi;.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Mundum subterraneum ejusque superficiem egressessi;.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -111,14 +162,26 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio quarta De corpore coelesti",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 187–227",
+      "locus": "p. 187–227",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Super globum terramque et ipsam admosphaeram (!) altius progressi....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Super globum terramque et ipsam admosphaeram (!) altius progressi....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -129,14 +192,26 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio quinta (usque ad septimam) In libros Aristotelis de ortu et interitu seu de generatione et corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 227–530",
+      "locus": "p. 227–530",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Postquam omnem mundi corporei fabricam lustravimus......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Postquam omnem mundi corporei fabricam lustravimus......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -147,14 +222,26 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio octava (et nona) De anima et corpore animati in communi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 530–648",
+      "locus": "p. 530–648",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Hactenus curas nostras.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Hactenus curas nostras.......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -170,13 +257,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Theses Metaphysicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 649–650",
+      "locus": "p. 649–650",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -188,6 +279,7 @@
       "id": "item-i",
       "label": "i",
       "type": "printed_illustrations",
+      "physicalUnit": "",
       "title": {
         "text": "Gedruckte astronomische Kupferstichskizzen",
         "typeRaw": null,
@@ -195,6 +287,9 @@
       },
       "locus": "S. 651 und 653",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -274,13 +369,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-158/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 158",
     "titles": "Tractatus in Physicam particularem Aristotelis \nTractatus in Physicam particularem Aristotelis \nDisputatio prima De Mundo in genere \nDisputatio secunda De globo terraque \nDisputatio tertia De athmosphaera Et Metheoris \nDisputatio quarta De corpore coelesti \nDisputatio quinta (usque ad septimam) In libros Aristotelis de ortu et interitu seu de generatione et corruptione \nDisputatio octava (et nona) De anima et corpore animati in communi \nTheses Metaphysicae \nGedruckte astronomische Kupferstichskizzen",
-    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt author or lecturer author_or_lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "Superavimus duriora planior nunc et jucundior via restat.... \nDisputatio haec duabus quaestionibus absolvitur...... \nPostquam priori disputatione de mundo..... \nMundum subterraneum ejusque superficiem egressessi;..... \nSuper globum terramque et ipsam admosphaeram (!) altius progressi.... \nPostquam omnem mundi corporei fabricam lustravimus...... \nHactenus curas nostras.......",
     "explicits": "",
     "notes": "Unvollständig. \nGedruckte astronomische Kupferstichskizzen",
-    "physical": "Papier \n680 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n680 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "680 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1700.\n\na) **Abhandlung über die spezielle Physik des Aristoteles. Vorrede:** S. 3. Anfang: Die schwierigeren Dinge haben wir überwunden; nun bleibt ein ebenerer und angenehmerer Weg....\n\nb) **Erste Disputation über die Welt im Allgemeinen:** S. 3–59.\n\nc) **Zweite Disputation über Erdkugel und Erde:** S. 59–125.\n\nd) **Dritte Disputation über Atmosphäre und Meteore:** S. 125–187.\n\ne) **Vierte Disputation über den Himmelskörper:** S. 187–227.\n\nf) **Fünfte bis siebte Disputation zu den Büchern des Aristoteles Über Werden und Vergehen:** S. 227–530.\n\ng) **Achte und neunte Disputation über Seele und beseelten Körper im Allgemeinen:** S. 530–648. Dieser Teil ist unvollständig.\n\nh) **20 metaphysische Thesen:** S. 649–650.\n\ni) **Gedruckte astronomische Kupferstichskizzen:** S. 651 und 653.\n\nVerfasser und Schreiber sind unbekannt. Der Schriftcharakter weist auf eine Entstehung um 1700.",
+    "latin": "680 pagg.; teg. a1; script. ca. 1700\n\na) Tractatus in Physicam particularem Aristotelis. (Prooemium): p. 3. Initium: Superavimus duriora planior nunc et jucundior via restat....\n\nb) Disputatio prima: De Mundo in genere: p. 3–59. Initium: Disputatio haec duabus quaestionibus absolvitur......\n\nc) Disputatio secunda. De globo terraque: p. 59–125. Initium: Postquam priori disputatione de mundo.....\n\nd) Disputatio tertia. De athmosphaera Et Metheoris: p. 125–187. Initium: Mundum subterraneum ejusque superficiem egressessi;.....\n\ne) Disputatio quarta. De corpore coelesti: p. 187–227. Initium: Super globum terramque et ipsam admosphaeram (!) altius progressi....\n\nf) Disputatio quinta (usque ad septimam) In libros (!) Aristotelis de ortu et interitu seu de generatione et corruptione: p. 227–530. Initium: Postquam omnem mundi corporei fabricam lustravimus......\n\ng) Disputatio octava (et nona). De anima et corpore animati in communi: p. 530–648. (Haec pars imperfecta est!) Initium: Hactenus curas nostras.......\n\nh) (20) Theses Metaphysicae: p. 649–650\n\ni) Adumbrationes astronomicae chalcographicae impressae: p. 651 et 653.\n\nAuctor scriptorque ignoti. Character scripturae indicat codicem nostrum circa annum 1700 ortum esse."
   }
 }

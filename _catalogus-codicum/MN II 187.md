@@ -13,7 +13,12 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum
-    locus: S. 1–160
+    locus: p. 1–160
+    incipits:
+    - label: Prooemii
+      text: Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

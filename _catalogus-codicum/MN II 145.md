@@ -12,27 +12,49 @@ ms_contents:
   items:
   - label: a
     title: Commentaria in 8 Libros Physicorum Aristotelis
-    title_type: supplied
-    locus: S. 3–37
-    completeness: Nur Ende des Kommentars zum 6. sowie Kommentare zum 7. und 8. Buch erhalten; der übrige Teil war in einem
-      anderen Band gebunden und fehlt.
+    locus: p. 3–37
+    completeness:
+      status: defective
+      note: Nur Ende des Kommentars zum 6. sowie Kommentare zum 7. und 8. Buch erhalten; der übrige Teil war in einem anderen Band gebunden und
+        fehlt.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Commentaria in libros Aristotelis De generatione et corruptione
-    locus: S. 37–174
+    locus: p. 37–174
+    incipits:
+    - text: Ubi Aristoteles absolvit Agroasmata (!) Physica.....
+    title_status: unspecified
   - label: c
     title: Tractatus in Meteora
-    locus: S. 175–200
+    locus: p. 175–200
+    incipits:
+    - label: Quaestionis Unicae De natura et effectibus Meteorum
+      text: Meteora nihil aliud sunt, quam.....
+    title_status: unspecified
   - label: d
     title: Commentaria in libros de animâ
-    locus: S. 200–332
+    locus: p. 200–332
+    incipits:
+    - locus: p. 200
+      text: Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....
+    title_status: unspecified
   - label: e
     title: Commentaria in Libros de caelis
-    locus: S. 333–361
+    locus: p. 333–361
+    incipits:
+    - text: Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....
+    title_status: unspecified
   - label: f
     title: Commentaria in 14 Libros Metaphysicorum Aristotelis
-    title_type: supplied
-    locus: S. 367–429
-  completeness: Unvollständig; der erste Teil der Kommentare zur Physik und das Titelblatt des zweiten Teils fehlen.
+    locus: p. 367–429
+    incipits:
+    - text: Metaphysica omnium scientiarum Naturalium Regina,....
+    title_status: supplied
+    title_source: cataloguer
+  completeness:
+    status: defective
+    note: Unvollständig; der erste Teil der Kommentare zur Physik und das Titelblatt des zweiten Teils fehlen.
 phys_desc:
   object_form: codex
   support: Papier

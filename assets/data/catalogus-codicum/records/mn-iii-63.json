@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-63",
   "signature": "MN III 63",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "273",
   "heading": {
     "title": "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1802"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,35 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–153",
+      "locus": "p. 153",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 153",
+          "text": "Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H: Doleo, quod plenum nomen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "explicit": {
+        "locus": "p. 153",
+        "text": "Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H: Doleo, quod plenum nomen",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "scriptoris, cuius istae litterae probabiliter sunt initiales, nusquam invenio."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -134,13 +156,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-63/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 63",
     "titles": "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802 \nDer Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802",
-    "persons": "I. H. Schreiber scribe \nAnna Maria Haigenederin / Varianten Besitzer owner",
+    "persons": "I. H. Schreiber scribe  \nAnna Maria Haigenederin / Varianten Besitzer owner ",
     "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+    "explicits": "Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H: Doleo, quod plenum nomen",
+    "notes": "scriptoris, cuius istae litterae probabiliter sunt initiales, nusquam invenio.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 156 Seiten; lederner Einband von rehbrauner oder brauner Farbe, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1802.\n\n**Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802**\n\nSchluss S. 153: **Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H:** Der Katalogbearbeiter bedauert, dass er den vollständigen Namen des Schreibers, dessen Initialen diese Buchstaben wohl sind, nirgends finden konnte.\n\nAlle Seiten des Gebetbuches sind mit einem mit Feder und Pinsel ausgeführten Rand geschmückt. Auch die Anfänge der einzelnen Teile und Gebete sind in verschiedenen Farben verziert.\n\nEin von anderer Hand geschriebener Besitzvermerk steht S. 156: **Der Ana Maria Haigenederin (Gaigenederin? Haizenederin? Gaizenederin?) Wagner Meisterin in Klein=münchen zugehörig**.",
+    "latin": "8° min.; 156 pagg.; teg. b1, in margine et dorso decenter ornamentis impressis et inauratis decoratum; scriptus anno 1802\n\n**Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802**\n\n**Clausula p. 153:** Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H: Doleo, quod plenum nomen scriptoris, cuius istae litterae probabiliter sunt initiales, nusquam invenio.\n\nOmnes paginae huius libelli precatorii decoratae sunt margine calamo penicilloque ornata. Sed et initia singularum partium precumque variis coloribus decenter decorata sunt.\n\nNota possidentis ab alia manu scripta invenitur p. 156: **Der Ana Maria Haigenederin (Gaigenederin? Haizenederin? Gaizenederin?) Wagner Meisterin in Klein=münchen zugehörig**"
   }
 }

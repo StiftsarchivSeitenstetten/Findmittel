@@ -12,12 +12,18 @@ ms_contents:
   items:
   - label: a
     title: Conclusiones Logicae
-    locus: S. I–III
+    locus: p. I–III
     number_of_conclusions: 53
+    title_status: unspecified
   - label: b
     title: Quaestiones Logicales Honori Praesentationis Virginis
-    locus: S. VI, 1–601
+    locus: p. VI, 1–601
     date: '1686-11-21'
+    incipits:
+    - locus: p. 1
+      label: Quaestionis Primae De Prolegomenis Logicalibus
+      text: Frustra ponerentur media ad aliquem finem,......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -12,11 +12,16 @@ ms_contents:
   items:
   - label: a
     title: Tractatus de vitiis et Peccatis
-    locus: S. 1–364
+    locus: p. 1–364
+    incipits:
+    - locus: p. 1
+      text: Post examinatam materiam de actibus humanis.....
+    title_status: unspecified
   - label: b
     title: Tractatus tertius De Legibus in Communi et particulari
-    locus: S. 364–484
+    locus: p. 364–484
     note: Die Zählung als dritte Abhandlung bezieht sich auf die Folge menschliche Handlungen, Laster und Sünden sowie Gesetze.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

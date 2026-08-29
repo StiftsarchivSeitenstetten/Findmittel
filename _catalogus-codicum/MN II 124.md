@@ -14,15 +14,28 @@ ms_contents:
   - label: a
     title: Commentarius quintus De Actibus Humanis
     locus: fol. 1–117
+    incipits:
+    - locus: fol. 1r
+      text: Actus humanus ille dicitur......
+    colophons:
+    - locus: fol. 117v
+      text: Absolvimus Die 26 Augusti 1673.
+    title_status: unspecified
   - label: b
     title: Commentarius In Tractatum De Vitiis Et Peccatis
-    locus: fol. 1–75 (=122–196)
+    locus: fol. 1–75
+    incipits:
+    - label: Quaestionis Primae
+      text: 'fol. 122r: Praesuppono primo: nomine vitii et peccati hic intelligi......'
+    title_status: unspecified
   - label: c
     title: 1676 Casus Reverendissimo Nostro Moderno (scilicet abbati Seittenstettensi Adamo Piringer?) reservati
-    locus: fol. 119 (=239)v. (6 Ca
+    locus: fol. 119
+    title_status: unspecified
   - label: d
     title: Casus Episcopo reservati
-    locus: fol. 120 (=240)r. (8 Ca
+    locus: fol. 120
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

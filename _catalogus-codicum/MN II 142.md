@@ -12,14 +12,26 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Sacramentis in genere
-    title_type: supplied
-    locus: S. 7–447
+    locus: p. 7–447
+    incipits:
+    - locus: p. 7
+      text: Post Tractatum De verbo incarnato ac De Redemptione per ipsum factâ.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus De Baptismo et confirmatione
-    locus: S. 448–529
+    locus: p. 448–529
+    incipits:
+    - label: Disputationis primae
+      text: 'p. 448:'
+    title_status: unspecified
   - label: c
     title: Tractatus De SacroSanctâ Eucharistiâ
-    locus: S. 529–592
+    locus: p. 529–592
+    incipits:
+    - locus: p. 529
+      text: Sub duplici ratione considerari potest hoc Sacrosanctum Mysterium..
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

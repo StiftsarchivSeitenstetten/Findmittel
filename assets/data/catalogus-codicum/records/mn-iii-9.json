@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-9",
   "signature": "MN III 9",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "147",
   "heading": {
     "title": "Compendium Logicae. 1696",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1696"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Compendium Logicae. 1696",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Compendium Logicae. 1696",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–187v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum."
+        "text": "Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum.",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -157,13 +170,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 9",
     "titles": "Compendium Logicae. 1696 \nCompendium Logicae. 1696",
-    "persons": "Fr. Columbanus Leopolder Schreiber scribe \nFr. Columbanus Leopolder Bearbeiter compiler",
+    "persons": "Fr. Columbanus Leopolder Schreiber scribe  \nFr. Columbanus Leopolder Bearbeiter compiler ",
     "incipits": "Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum.",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Kleines Oktavformat; 189 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1696.\n\n**Kompendium der Logik. 1696:** fol. 1–187v.\n\nAnfang der ersten Disputation **Was ist Philosophie?**: Sie ist die Erkenntnis natürlicher Dinge durch natürliche Mittel in Hinordnung auf die Wahrheit.\n\nUnter dem Titel steht die Buchbinderanweisung **Columbanus Seittenstettensis**. Auch diesen Codex schrieb daher Fr. Columbanus Leopolder, der ebenso den vorhergehenden und die beiden folgenden Codices schrieb.\n\nVielleicht hat dieser Kleriker das Kompendium selbst zusammengestellt; unbekannt ist jedoch, welches Werk oder welche Vorlesungen er dabei benutzte.",
+    "latin": "8° min.; 189 foll.; teg. a1; script. 1696\n\nCompendium Logicae. 1696: fol. 1–187v. Initium disputationis primae. Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum. Subter titulum nota pro bibliopego: Columbanus Seittenstettensis. Etiam hunc igitur codicem exaravit F. Columbanus Leopolder, qui etiam praecedentem et duos subsequentes codices conscripsit. Fortasse frater ille clericus codicem nostrum ipse compilavit; nescio autem, cuius opere aut lectionibus ad compendium exarandum usus sit."
   }
 }

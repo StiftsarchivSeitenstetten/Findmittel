@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-273",
   "signature": "MN II 273",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "217",
   "heading": {
     "title": "Tractatus Theologico-Scholasticus De Gratia, Justificatione, et Merito, Virtutibusque Theologicis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1738"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Theologico-Scholasticus De Gratia, Justificatione, et Merito, Virtutibusque Theologicis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologico-Scholasticus De gratia, justificatione, et merito",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 11–165",
+      "locus": "p. 11–165",
       "language": "",
+      "incipits": [
+        {
+          "text": "Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset"
+        "text": "Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus theologico-Scholasticus. De Virtutibus theologicis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 167–253",
+      "locus": "p. 167–253",
       "language": "",
+      "incipits": [
+        {
+          "text": "Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus"
+        "text": "Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus,.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -164,13 +187,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-273/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 273",
     "titles": "Tractatus Theologico-Scholasticus De Gratia, Justificatione, et Merito, Virtutibusque Theologicis \nTractatus Theologico-Scholasticus De gratia, justificatione, et merito \nTractatus theologico-Scholasticus. De Virtutibus theologicis",
-    "persons": "P. Corbinian Thomas Dozent lecturer \nFr. Norbertus Pampichler Schreiber scribe",
-    "incipits": "Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset \nMateria De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus",
+    "persons": "P. Corbinian Thomas Dozent lecturer Kloster Elchingen / Universität Salzburg \nFr. Norbertus Pampichler Schreiber scribe Seitenstetten",
+    "incipits": "Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset \nMateria De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus,.....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n284 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "notes": "type: inserted_fragment; locus: Innenseite des Vorderdeckels; description: Fragment eines Briefmusters (?) mit einem Chronogramm auf 1738 und der Unterschrift F. Norbertus.",
+    "physical": "Papier \n284 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "284 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1738.\n\n**Theologisch-scholastische Abhandlung über Gnade, Rechtfertigung und Verdienst sowie die theologischen Tugenden**, vorgetragen von P. Corbinian Thomas, Benediktiner und Profess des kaiserlichen Klosters Elchingen, Doktor der heiligen Theologie, ordentlicher Professor der Scholastik, geistlicher Rat des Salzburger Fürsterzbischofs und Vize-Rektor der Universität; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und damals Theologiestudent im ersten Jahr, 1738.\n\na) **Theologisch-scholastische Abhandlung über Gnade, Rechtfertigung und Verdienst:** S. 11–165. Anfang: Nachdem unser heiliger Lehrer von den menschlichen Handlungen als Mitteln zum Heil gehandelt hatte,.....\n\nb) **Theologisch-scholastische Abhandlung über die theologischen Tugenden:** S. 167–253. Anfang: Auf die Materie über die Gnade und das dazu Gehörige folgt jener goldene dreifache Strick,.....\n\nFr. Norbertus Pampichler schrieb auch den vorhergehenden und die beiden folgenden Codices.\n\nAuf die Innenseite des Vorderdeckels klebte der Katalogbearbeiter ein Fragment eines Briefmusters (?) mit der Unterschrift: **F. NorbertVs Confrater Vester InDIgnIssIMVs gratIas agIt pro gratVLatione, et Vestros faVores effLagItat.** Es handelt sich um ein Chronogramm auf das Jahr 1738.",
+    "latin": "284 pagg.; teg. c2d; script. 1738\n\n**Tractatus Theologico-Scholasticus De Gratia, Justificatione, et Merito, Virtutibusque Theologicis. Datus A......P. Corbiniano Thomas Ordinis S. P. Benedicti Imperialis Monasterii Elchingensis, Sacrosanctae Theologiae Doctore, ejusdemque in Scholasticis Professore Ordinario, Celsissimi et Reverendissimi Archiepiscopi et Sacri Romani Imperii Principis Salisburgensis Consiliario Ecclesiastico, ac Universitatis Vice-Rectore Exceptus à F. Norberto Pampichler Ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo, pro tempore Sacrosanctae Theologiae in primum annum auditore Annô MDCCXXXVIII (1738)**\n\na) Tractatus Theologico-Scholasticus De gratia, justificatione, et merito: p. 11–165. Initium: **Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset,.....**\n\nb) Tractatus theologico-Scholasticus. De Virtutibus theologicis: p. 167–253. Initium: **Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus,.....**\n\nF. Norbertus Pampichler scripsit etiam codicem praecedentem et duos sequentes.\n\nParti adversae tegumenti ab intrinsecus affixi fragmentum exemplaris epistolae (?) cum subscriptione: **F. NorbertVs Confrater Vester InDIgnIssIMVs gratIas agIt pro gratVLatione, et Vestros faVores effLagItat.** (Chronogramma pro anno 1738)"
   }
 }

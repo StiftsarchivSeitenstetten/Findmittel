@@ -10,14 +10,19 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 D (XVIII 2m)
 ms_contents:
-  title: "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II"
-  title_type: supplied
+  title: Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico
+    huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus
+    celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II
   items:
-  - label: "a"
-    title: "Tomus II"
-    title_type: supplied
-    locus: "S. 527–876"
-    note: "Der Katalog bezeichnet den Inhalt durch Rückverweis als zweiten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt."
+  - label: a
+    title: Tomus II
+    locus: S. 527–876
+    note: Der Katalog bezeichnet den Inhalt durch Rückverweis als zweiten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel
+      ist daraus ergänzt.
+    title_status: supplied
+    title_source: cataloguer
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

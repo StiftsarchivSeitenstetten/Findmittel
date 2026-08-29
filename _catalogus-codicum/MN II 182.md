@@ -12,18 +12,33 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Deo uno et trino
-    locus: S. 5–405
+    locus: p. 5–405
     subitems:
     - title: Disputatio prima De Deo uno
-      locus: S. 9–349
+      locus: p. 9–349
+      title_status: unspecified
     - title: Disputatio secunda De Deo Trino
-      locus: S. 349–405
+      locus: p. 349–405
+      incipits:
+      - text: Trinitatis Mysterium S. Doctor à quaestione 27 usque ad 33 tractat......
+      title_status: unspecified
+    incipits:
+    - text: Universam Theologiam in 3 dividit partes Divus Doctor Angelicus......
+    - text: Cum sacra Doctrina seu Theologia, ut numero priori notavi, ab hoc tractatu exordium sumat,......
+    - text: Trinitatis Mysterium S. Doctor à quaestione 27 usque ad 33 tractat......
+    title_status: unspecified
   - label: b
     title: Tractatus nonus (?) in secundam secundae Divi Doctoris Aquinatis Doctoris Angelici De Jure et Justitia
-    locus: S. 415–612
-    completeness: incomplete
+    locus: p. 415–612
+    completeness:
+      status: defective
+      note: incomplete
     certainty: uncertain
     note: Die Ordnungszahl „nonus“ ist im Katalog mit Fragezeichen versehen; die Abhandlung scheint verstümmelt zu sein.
+    incipits:
+    - label: Proloquii
+      text: Postquam Sanctus Doctor priori tractatu tres virtutes Theologicas....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

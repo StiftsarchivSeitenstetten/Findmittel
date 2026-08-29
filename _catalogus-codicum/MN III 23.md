@@ -9,12 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 23
 ms_contents:
-  title: "Liber 5. Decretalium"
   items:
-  - label: "a"
-    title: "Liber 5. Decretalium"
-    locus: "S. 1–325"
-    incipit: "Accusatio est criminis apud competentem Judicem ......."
+  - label: a
+    title: Liber 5. Decretalium
+    locus: p. 1–325
+    incipits:
+    - text: Accusatio est criminis apud competentem Judicem .......
+      label: Tituli I. De Accusationibus
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

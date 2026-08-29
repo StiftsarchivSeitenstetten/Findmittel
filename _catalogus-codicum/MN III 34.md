@@ -9,28 +9,35 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 34
 ms_contents:
-  title: "Additiones ad quosdam tractatus theologicos"
-  title_type: "supplied"
+  title: Additiones ad quosdam tractatus theologicos
   items:
-  - label: "a"
-    title: "Ad Tractatum Decimum: De Praeceptis Ecclesiae"
-    locus: "S. 1–23"
-  - label: "b"
-    title: "Ad Tractatum Undecimum: De beneficiis Ecclesiasticis"
-    locus: "S. 23–32"
-  - label: "c"
-    title: "Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis"
-    locus: "S. 32–67"
-  - label: "d"
-    title: "Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis"
-    locus: "S. 67–111"
-  - label: "e"
-    title: "Ad Tractatum Decimum quartum: De Sacramentis"
-    locus: "S. 111–321"
-  - label: "f"
-    title: "Index continens novas Additiones"
-    locus: "S. 323–406"
-    note: "Nach Sachen alphabetisch geordnet."
+  - label: a
+    title: 'Ad Tractatum Decimum: De Praeceptis Ecclesiae'
+    locus: p. 1–23
+    title_status: unspecified
+  - label: b
+    title: 'Ad Tractatum Undecimum: De beneficiis Ecclesiasticis'
+    locus: p. 23–32
+    title_status: unspecified
+  - label: c
+    title: 'Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis'
+    locus: p. 32–67
+    title_status: unspecified
+  - label: d
+    title: 'Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis'
+    locus: p. 67–111
+    title_status: unspecified
+  - label: e
+    title: 'Ad Tractatum Decimum quartum: De Sacramentis'
+    locus: p. 111–321
+    title_status: unspecified
+  - label: f
+    title: Index continens novas Additiones
+    locus: p. 323–406
+    note: Nach Sachen alphabetisch geordnet.
+    title_status: unspecified
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

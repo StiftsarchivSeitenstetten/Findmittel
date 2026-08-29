@@ -9,35 +9,52 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 15
 ms_contents:
-  title: "Compendium ex Physica P. Coelestini"
+  title: Compendium ex Physica P. Coelestini
   items:
-  - label: "a"
-    title: "Tractatus primus Philosophiae Naturalis seu Physica Generalis"
-    title_type: "supplied"
-    locus: "S. 3–526"
-    incipit: "obiectum Physicae adaequatum est corpus naturale......"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "b"
-    title: "Tractatus Secundus Philosophiae Naturalis de mundo et Coelo"
-    locus: "S. 526–542"
-    incipit: "Mundum nos sumimus pro eo,....."
-  - label: "c"
-    title: "Tractatus tertius Physicae. De Generatione et Corruptione"
-    locus: "S. 543–572"
-    incipit: "Generatio tripliciter sumitur......."
-  - label: "d"
-    title: "Tractatus Physicae In 3 Libros de anima"
-    locus: "S. 572–619"
-    incipit: "Respondeo animam definiri, quod sit....."
-    end_date_display: "9. Juli 1700"
-  - label: "e"
-    title: "Philosophia Transnaturalis seu Metaphysica"
-    locus: "S. 620–629"
-    incipit: "An ens sit univocum....."
-    end_date_display: "17. Juli 1700"
-  - label: "f"
-    title: "Quaestiones in Examine propositae"
-    locus: "S. 631–639"
+  - label: a
+    title: Tractatus primus Philosophiae Naturalis seu Physica Generalis
+    locus: p. 3–526
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    incipits:
+    - text: obiectum Physicae adaequatum est corpus naturale......
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Tractatus Secundus Philosophiae Naturalis de mundo et Coelo
+    locus: p. 526–542
+    incipits:
+    - text: Mundum nos sumimus pro eo,.....
+    title_status: unspecified
+  - label: c
+    title: Tractatus tertius Physicae. De Generatione et Corruptione
+    locus: p. 543–572
+    incipits:
+    - text: Generatio tripliciter sumitur.......
+    title_status: unspecified
+  - label: d
+    title: Tractatus Physicae In 3 Libros de anima
+    locus: p. 572–619
+    end_date_display: 9. Juli 1700
+    incipits:
+    - text: Respondeo animam definiri, quod sit.....
+    title_status: unspecified
+    colophons:
+    - text: 9 Julii 1700.
+  - label: e
+    title: Philosophia Transnaturalis seu Metaphysica
+    locus: p. 620–629
+    end_date_display: 17. Juli 1700
+    incipits:
+    - text: An ens sit univocum.....
+      label: Disputationis unicae
+    colophons:
+    - text: absolvimus 1700 17 Julii die Sabbati.
+    title_status: unspecified
+  - label: f
+    title: Quaestiones in Examine propositae
+    locus: p. 631–639
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

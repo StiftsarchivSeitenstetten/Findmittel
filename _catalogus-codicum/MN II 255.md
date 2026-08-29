@@ -9,13 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 255
 ms_contents:
-  title: Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio
   items:
   - label: a
     title: Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio
-    locus: fol. 1r–147r
-    incipit: Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit
+    locus: fol. 1r
     end_date_display: 29. August 1716
+    incipits:
+    - text: Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....
+      locus: fol. 1r
+      label: Proemii
+    title_status: unspecified
+    colophons:
+    - text: 'fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:'
 phys_desc:
   object_form: codex
   support: Papier

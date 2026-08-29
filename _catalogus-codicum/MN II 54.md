@@ -14,30 +14,51 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 54
 ms_contents:
-  summary: Theologische und exegetische Abhandlungen über Glaube, Hoffnung und Liebe, Apostelgeschichte, Schriftprolegomena,
-    Buße und Psalmen.
+  summary: Theologische und exegetische Abhandlungen über Glaube, Hoffnung und Liebe, Apostelgeschichte, Schriftprolegomena, Buße und Psalmen.
   items:
   - label: a
     title: De Fide, Spe et Charitate
-    locus: S. 3–397
+    locus: p. 3 - 397
+    incipits:
+    - locus: p. 5
+      text: Suppono 1° ex Philosophia obiectum materiale et formale esse....
+    colophons:
+    - locus: p. 397
+      text: Datum die 7a Septembris 1655 sub Herdingo.
+    title_status: unspecified
   - label: b
     title: Notata digniora ex Actibus Apostolorum
     locus: S. 399–485
+    title_status: unspecified
   - label: c
     title: Prolegomena In totam Sacram Scripturam
-    locus: S. 487–613
+    locus: p. 487 - 613
+    incipits:
+    - text: Tractant hanc de prolegomenis materiam....
+    title_status: unspecified
   - label: d
     title: De Virtute Poenitentiae
-    locus: S. 621–923
+    locus: p. 621 - 923
+    incipits:
+    - text: Poenitentia dupliciter considerari potest....
+    title_status: unspecified
   - label: e
     title: De Sacramento Poenitentiae
-    locus: S. 923–1005
+    locus: p. 923 - 1005
+    incipits:
+    - text: Expeditis poenitentiae sive ut virtuti propriis....
+    title_status: unspecified
   - label: f
     title: Index in Explicationem Psalmorum
     locus: S. 1006–1010 und 1005
+    title_status: unspecified
   - label: g
     title: Notata digna Ex secunda quinquagena Psalmorum
-    locus: Bl. 1–88v
+    locus: fol. 1 - 88v
+    incipits:
+    - text: Ex Psalmo 1° (!) Miserere mei Deus. Compositus est is à Davide.... Auctor partis a Henricus Herding SJ, ceterum scriptor totius codicis
+        et auctores partium b - g ignoti.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

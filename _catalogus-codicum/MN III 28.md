@@ -9,14 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 28
 ms_contents:
-  title: "Compendium Tractatus De Incarnationis Mysterio"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Compendium Tractatus De Incarnationis Mysterio"
-    title_type: "supplied"
-    locus: "S. 5–284"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; die übrigen Seiten sind leer."
+  - label: a
+    title: Compendium Tractatus De Incarnationis Mysterio
+    locus: p. 5–284
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; die übrigen Seiten sind leer.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

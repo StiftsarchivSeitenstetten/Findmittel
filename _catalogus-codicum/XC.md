@@ -10,11 +10,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: XC
 ms_contents:
-  title: Arztney Biechl
   items:
   - label: a
     title: Arztney Biechl
     note: Das Werk ist verstümmelt.
+    title_status: unspecified
+    locus: p. 201 - 202
 phys_desc:
   object_form: codex
   support: Papier

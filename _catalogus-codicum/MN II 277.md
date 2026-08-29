@@ -13,10 +13,15 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur
-    locus: S. 4–57
+    locus: p. 4–57
+    title_status: unspecified
   - label: b
-    title: 'Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur'
-    locus: S. 58–142
+    title: 'Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs
+      Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non
+      tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur'
+    locus: p. 58–142
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

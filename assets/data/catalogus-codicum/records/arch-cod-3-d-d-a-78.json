@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-3-d-d-a-78",
   "signature": "Arch. Cod. 3 D D (A 78)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "259",
   "heading": {
     "title": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1774–1781"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–193",
+      "locus": "p. 15",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -128,13 +135,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-d-d-a-78/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 3 D D (A 78)",
     "titles": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774 \nBreviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
-    "persons": "P. Anselmus Wisgrill Autor author \nP. Anselmus Wisgrill Schreiber scribe",
+    "persons": "P. Anselmus Wisgrill Autor author  \nP. Anselmus Wisgrill Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Mit Serie der Oberen auf dem Sonntagberg bis 1781.",
-    "physical": "Papier \n193 pagg. \nOktavformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n193 pagg. \nOktavformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Oktavformat; 193 Seiten; grauer Pappeinband; geschrieben ungefähr 1774–1781.\n\n**Kurze Geschichte unseres Klosters und bemerkenswerter Ereignisse 1107–1774**, mit einer Reihe der Oberen auf dem Sonntagberg bis 1781.\n\nDer Katalogbearbeiter hält **P. Anselmus Wisgrill**, Bibliothekar und später Beichtvater auf dem Sonntagberg, für Verfasser und Schreiber dieses Büchleins. Die Schrift ist jener seines im Stiftsarchiv Seitenstetten unter der Signatur **3 B I j** verwahrten Tagebuches sehr ähnlich, insbesondere auf S. 15 und 40.",
+    "latin": "8°; 193 pagg.; teg. c1; scriptus ca. 1774–1781\n\n**Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774** (cum Serie Superiorum in Sacro Monte usque ad annum 1781)\n\nAuctorem scriptoremque huius codicilli esse **P. Anselmum Wisgrill**, Bibliothecarium et postea confessarium in Sacro Monte, qui dicitur Sonntagberg, existimo. Scriptura enim codicis nostri consimilis est Diario, quod in archivo monasterii Seitenstettensis asservatur sub signo **3 B I j** ab illo monacho Seitenstettensi Anselmo Wisgrill esse conscriptum vix negabis, si comparaveris p. 15 (ad annum 1775) et 40 eiusdem diarii."
   }
 }

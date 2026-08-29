@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-167",
   "signature": "MN II 167",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "131",
   "heading": {
     "title": "Tractatus De gratia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1690 (?)"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,23 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De gratia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–562",
+      "locus": "p. 5",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "text": "Nomen gratiae tripliciter solet accipi......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "text": "Nomen gratiae tripliciter solet accipi......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
-          "type": "note",
+          "type": "completeness",
+          "text": "incomplete"
+        },
+        {
+          "type": "notes",
           "text": "Der Schluss fehlt; die Abhandlung ist unvollständig."
         },
         {
-          "type": "completeness",
-          "text": "incomplete"
+          "type": "notes",
+          "text": "Clausula deest"
         }
       ],
       "dates": [],
@@ -72,14 +93,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Fide, Spe, Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 569–677",
+      "locus": "p. 569–677",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 569",
+          "text": "Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 569",
+        "text": "Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -89,13 +124,17 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio prima De fide",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 569–677",
+          "locus": "p. 569–677",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -178,13 +217,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-167/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 167",
     "titles": "Tractatus De gratia \nTractatus De gratia \nTractatus De Fide, Spe, Charitate \nDisputatio prima De fide",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Nomen gratiae tripliciter solet accipi...... \nDisputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......",
     "explicits": "",
-    "notes": "Der Schluss fehlt; die Abhandlung ist unvollständig. \nincomplete",
-    "physical": "Papier \n682 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "incomplete \nDer Schluss fehlt; die Abhandlung ist unvollständig. \nClausula deest",
+    "physical": "Papier \n682 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "682 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1690 (?).\n\na) **Abhandlung über die Gnade:** S. 5–562. Anfang S. 5: Das Wort Gnade wird gewöhnlich in dreifachem Sinn gebraucht...... Der Schluss fehlt, da die Abhandlung unvollständig ist.\n\nb) **Abhandlung über Glaube, Hoffnung und Liebe:** S. 569–677. Anfang S. 569: Erste Disputation über den Glauben. In der Heiligen Schrift hat das Wort Glaube verschiedene Bedeutungen......\n\nVerfasser und Schreiber sind unbekannt; die Schrift scheint jedoch am Ende des 17. Jahrhunderts entstanden zu sein.",
+    "latin": "682 pagg.; teg. a2; script. ca. 1690 (?)\n\na) Tractatus De gratia: pag. 5–562. Initium p. 5: Nomen gratiae tripliciter solet accipi...... Clausula deest, quod tractatus non perfectus est.\n\nb) Tractatus De Fide, Spe, Charitate: p. 569–677. Initium p. 569: Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......\n\nAuctor et scriptor ignoti, sed scriptura in fine saec. XVII orta esse videtur."
   }
 }

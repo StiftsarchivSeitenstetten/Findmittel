@@ -9,9 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 101
 ms_contents:
-  catalogue_title_or_summary: Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi
-    et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus
-    A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.
+  items:
+  - catalog_statement: Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad
+      S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi
+      manu propria 1670.
+    title: Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum
+      Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi
+      manu propria 1670
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

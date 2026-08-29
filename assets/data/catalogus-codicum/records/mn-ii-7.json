@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-7",
   "signature": "MN II 7",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "9",
   "heading": {
     "title": "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1619/20"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,18 +49,38 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–458",
+      "locus": "p. 5 - 458",
       "language": "",
+      "incipits": [
+        {
+          "text": "Virtutes Theologicas, quae immediate circa Deum....",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 458",
+          "text": "Finis huius Tractatus 5 Die Septembris Anno 1620",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Virtutes Theologicas, quae immediate circa Deum...."
+        "text": "Virtutes Theologicas, quae immediate circa Deum....",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Finis huius Tractatus 5 Die Septembris Anno 1620"
+        "locus": "p. 458",
+        "text": "Finis huius Tractatus 5 Die Septembris Anno 1620",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [],
@@ -156,13 +179,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 7",
     "titles": "Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619) \nTractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619)",
-    "persons": "P. Alphons Seidedi SJ Autor author \nP. Alphons Seidedi SJ Dozent lecturer \nunbekannt Schreiber scribe",
+    "persons": "P. Alphons Seidedi SJ Autor author  \nP. Alphons Seidedi SJ Dozent lecturer  \nunbekannt Schreiber scribe ",
     "incipits": "Virtutes Theologicas, quae immediate circa Deum....",
     "explicits": "Finis huius Tractatus 5 Die Septembris Anno 1620",
     "notes": "",
-    "physical": "Papier \n466 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \n466 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "466 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1619/20.\n\n**Abhandlung über Recht und Gerechtigkeit. Vorgetragen von dem ehrwürdigen P. Alphons, Doktor der heiligen Theologie und ordentlichem Professor derselben an der Universität Graz, 1619:** S. 5–458.\n\nAnfang der Vorrede: **Die theologischen Tugenden, die unmittelbar auf Gott gerichtet sind....**\n\nSchlussvermerk S. 458: **Ende dieser Abhandlung, 5. September 1620.**\n\nNB. Ohne Zweifel ist der Verfasser dieser Abhandlung derselbe P. Alphons Seidedi SJ, der 1616 die Moraltheologie über Gewissensfälle vorgetragen hatte. (Siehe S. 7/8 zu Codex MN II 4!)\n\nDer Schreiber dieses Codex hat auch den folgenden Codex geschrieben.\n\nDas Ende jeder einzelnen Vorlesung wird mit Nummer, Tag und Monat am Rand vermerkt.",
+    "latin": "466 pagg.; teg. a1; script. 1619/20\n\n*Tractatus de Jure, et Justitia. Traditus à Reverendo Patre Alphonso SS: Theologiae Doctore, ac eiusdem in alma Universitate Graecensi, Professore ordinario M DC XIX (1619):* p. 5 - 458\n\nInitium Proemii: Virtutes Theologicas, quae immediate circa Deum....\n\nClausula p. 458: Finis huius Tractatus 5 Die Septembris Anno 1620\n\nN. B. Sine dubio auctor huius tractatus idem P. Alphonsus Seidedi SJ est, qui anno 1616 Theologiam Moralem de Casibus Conscientiae tradiderat. (Vide p. 7/8 ad Cod. MN II 4!)\n\nScriptor autem huius codicis etiam sequentem codicem exaravit.\n\nFinis uniuscuiusque lectionis cum numero, die menseque in margine notatur."
   }
 }

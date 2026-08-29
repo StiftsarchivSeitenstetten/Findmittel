@@ -13,13 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–23 (A 77).
   items:
   - label: a
-    catalog_statement: 'Libri aliquot de praecipuis ac selectioribus Sacrae Scripturae materiis. Admodum Reverendi Religiosissimi
-      et clarissimi Domini Patris Benedicti Abelzhauser, monachi Benedictini in Seittenstötten, ibidemque Prioris dignissimi:
-      p. 1–159 [handschriftlich korrigiert; ursprüngliche Zahl überschrieben]. Initium: Praefatio et intentio operis. Nunquam
-      non opere pretium duxi.......'
+    catalog_statement: 'Libri aliquot de praecipuis ac selectioribus Sacrae Scripturae materiis. Admodum Reverendi Religiosissimi et clarissimi
+      Domini Patris Benedicti Abelzhauser, monachi Benedictini in Seittenstötten, ibidemque Prioris dignissimi: p. 1–159 [handschriftlich korrigiert;
+      ursprüngliche Zahl überschrieben]. Initium: Praefatio et intentio operis. Nunquam non opere pretium duxi.......'
+    title: Libri aliquot de praecipuis ac selectioribus Sacrae Scripturae materiis. Admodum Reverendi Religiosissimi et clarissimi Domini Patris
+      Benedicti Abelzhauser, monachi Benedictini in Seittenstötten, ibidemque Prioris dignissimi
+    locus: p. 1–159
+    incipits:
+    - text: Praefatio et intentio operis. Nunquam non opere pretium duxi.......
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Libri aliquot De Variis Controversisticis Materiis. 1672. Mense Novembris: p. 163–299. Initium: Videbat
-      olim de nocte vir desideriorum et magnus Propheta Daniel......'
+    catalog_statement: 'Libri aliquot De Variis Controversisticis Materiis. 1672. Mense Novembris: p. 163–299. Initium: Videbat olim de nocte
+      vir desideriorum et magnus Propheta Daniel......'
+    title: Libri aliquot De Variis Controversisticis Materiis. 1672. Mense Novembris
+    locus: p. 163–299
+    incipits:
+    - text: Videbat olim de nocte vir desideriorum et magnus Propheta Daniel......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,13 +13,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 9
 ms_contents:
-  title: "MS in libros Decretalium et de Judiciis."
   items:
-  - label: "a"
-    title: "MS in libros Decretalium et de Judiciis."
-    title_source: spine
-    locus: "Bl. 1r–126v"
-    note: "Kommentare zu verschiedenen Titeln des ersten und zweiten Buches der Dekretalen bis Tit. 28; danach wurden mehrere Blätter herausgeschnitten. Das Titelblatt fehlt."
+  - label: a
+    title: MS in libros Decretalium et de Judiciis.
+    title_source: title_page
+    locus: fol. 74r
+    note: Kommentare zu verschiedenen Titeln des ersten und zweiten Buches der Dekretalen bis Tit. 28; danach wurden mehrere Blätter herausgeschnitten.
+      Das Titelblatt fehlt.
+    title_status: attested
 phys_desc:
   object_form: codex
   support: Papier

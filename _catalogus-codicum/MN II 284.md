@@ -12,16 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Positivus De Vitiis et Peccatis
-    locus: S. 7–135
-    incipit: Postquam S. Doctor de actibus humanis
+    locus: p. 7–135
     start_date_display: 6. November 1752
     end_date_display: 28. Februar 1753
+    incipits:
+    - text: 'Postquam S: Doctor de actibus humanis,......'
+      locus: p. 9
+    colophons:
+    - text: Absolvimus 28. Februarii. 1753.
+    title_status: unspecified
   - label: b
     title: Tractatus Scholastico-Positivus De Legibus
-    locus: S. 143–253
-    incipit: Tandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem
+    locus: p. 143–253
     start_date_display: 9. März 1753
     end_date_display: 25. März 1753
+    incipits:
+    - text: Tandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem......
+    colophons:
+    - text: Absolvimus vicesima quinta Martii. 1753.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

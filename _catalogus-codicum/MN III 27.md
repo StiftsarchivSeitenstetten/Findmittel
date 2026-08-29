@@ -10,18 +10,22 @@ ms_identifier:
   idno: MN III 27
 ms_contents:
   items:
-  - label: "a"
-    title: "Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita"
-    locus: "S. 5–67"
-  - label: "b"
-    title: "Verzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen"
-    locus: "S. 69"
-  - label: "c"
-    title: "Processus Seu Ordo Eligendi, vel postulandi novum Praelatum"
-    locus: "S. 79–100"
-  - label: "d"
-    title: "Argutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris"
-    locus: "S. 103–123"
+  - label: a
+    title: Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita
+    locus: p. 5–67
+    title_status: unspecified
+  - label: b
+    title: Verzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen
+    locus: p. 69
+    title_status: unspecified
+  - label: c
+    title: Processus Seu Ordo Eligendi, vel postulandi novum Praelatum
+    locus: p. 79–100
+    title_status: unspecified
+  - label: d
+    title: Argutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris
+    locus: p. 103–123
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

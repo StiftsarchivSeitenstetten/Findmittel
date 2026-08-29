@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-29-l-xv-2m",
   "signature": "Arch. Cod. 29 L (XV 2m)",
   "aliases": [
@@ -28,6 +28,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,6 +42,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi",
         "typeRaw": "supplied",
@@ -46,6 +50,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,6 +69,7 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi",
         "typeRaw": "supplied",
@@ -69,6 +77,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,6 +96,7 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Diversi per annum occurrentes",
         "typeRaw": "supplied",
@@ -92,6 +104,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -182,13 +197,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 29 L (XV 2m)",
     "titles": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi \nRitus Diversi per annum occurrentes",
-    "persons": "P. Bertholdus Stolz Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Bertholdus Stolz Schreiber scribe  \nunbekannt Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "Aus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen. \nAus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen. \nAus dem Katalogverweis auf dieselben drei Teile wie Arch. Cod. 29 B übernommen.",
-    "physical": "Papier \n93 pagg. \nFolioformat \ncode: c3; description: Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n93 pagg. \nFolioformat \ncode: c3; description: Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+    "german": "Folioformat; 93 Seiten; brauner Pappeinband; geschrieben um 1780.\n\nDieser Codex enthält dieselben drei Teile wie Arch. Cod. 29 B. Auch der Schreiber ist zweifellos derselbe.\n\nDaher schrieb wohl **P. Bertholdus Stolz** auch diesen Codex.",
+    "latin": "fol.; 93 pagg.; teg. c3; scriptus circa annum 1780\n\nHic codex easdem tres partes continet, quas praecedens codex 29 B; immo etiam eundem scriptorem esse utriusque codicis, non negandum est. Qua de causa **P. Bertholdum Stolz** hunc quoque codicem scripsisse puto."
   }
 }

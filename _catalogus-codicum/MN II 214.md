@@ -9,12 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 214
 ms_contents:
-  title: Summulae sive Introductio ad Logicam
   items:
   - label: a
     title: Summulae sive Introductio ad Logicam
-    locus: S. 5–125
+    locus: p. 5–125
     end_date: '1701-12-24'
+    incipits:
+    - label: Proloquii Ad Philosophiae Neo Auditores
+      text: Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....
+    colophons:
+    - text: Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

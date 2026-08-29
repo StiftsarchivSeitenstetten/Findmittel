@@ -12,12 +12,15 @@ ms_contents:
   items:
   - label: a
     title: Vom Amte des Wortes, oder vom Religions-Unterrichte
-    locus: S. 1–228
+    locus: p. 1–228
+    title_status: unspecified
   - label: b
     title: Argumenta concionum
-    title_type: supplied
-    locus: S. 241–272
-    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; am Rand scheint jeweils der Name des Predigers zu stehen.
+    locus: p. 241–272
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; am
+      Rand scheint jeweils der Name des Predigers zu stehen.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

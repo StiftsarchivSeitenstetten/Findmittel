@@ -10,16 +10,18 @@ ms_identifier:
   idno: MN III 29
 ms_contents:
   items:
-  - label: "a"
-    title: "Tractatus Scholasticus De Gratia"
-    title_type: "supplied"
-    locus: "S. 5–178"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "b"
-    title: "Tractatus De Virtutibus Theologicis Fide, Spe, et Charitate"
-    title_type: "supplied"
-    locus: "S. 179–180"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; nur der erste Artikel ist sehr kurz ausgeführt."
+  - label: a
+    title: Tractatus Scholasticus De Gratia
+    locus: p. 5–178
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Tractatus De Virtutibus Theologicis Fide, Spe, et Charitate
+    locus: p. 179–180
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; nur der erste Artikel ist sehr kurz ausgeführt.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

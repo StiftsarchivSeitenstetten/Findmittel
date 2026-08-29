@@ -18,18 +18,37 @@ ms_contents:
   - label: a
     title: Commentarius In Philosophiam Naturalem
     locus: fol. 1–288r
+    incipits:
+    - label: Prooemii Physices
+      text: Postquam in itinere peripatetico Spineta logicae feliciter egressi.
+    colophons:
+    - locus: fol. 230v
+      text: '...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668.'
+    - locus: fol. 288r
+      text: '...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.'
+    title_status: unspecified
   - label: b
     title: Tractatus In tres Libros De Anima
     locus: fol. 288v–365v
+    incipits:
+    - text: Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....
+    title_status: unspecified
   - label: c
     title: Tractatus in Quatuor Libros Meteorologicorum
     locus: fol. 365v–382r
+    incipits:
+    - text: Quae nunc tractanda aggredimur non tam difficilia sunt....
+    title_status: unspecified
   - label: d
     title: Disputatio XIII In quatuor libros de Caelis
     locus: fol. 382r–389v
+    title_status: unspecified
   - label: e
     title: Tractatus In Methaphysicam
     locus: fol. 389v–400r
+    incipits:
+    - text: Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Michael Seitz

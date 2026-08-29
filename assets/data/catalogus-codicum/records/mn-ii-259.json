@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-259",
   "signature": "MN II 259",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "196–197",
   "heading": {
     "title": "Tractatus in Primam Partem Divi Thomae De Deo uno et Trino",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1715"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus in Primam Partem Divi Thomae De Deo uno et Trino",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Proemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–2r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Agredimur (!) Deo Auspice totius Theologiae difficillimam partem, .........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Agredimur (!) Deo Auspice totius Theologiae difficillimam partem"
+        "text": "Agredimur (!) Deo Auspice totius Theologiae difficillimam partem, .........",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio prolegomena (!). De necessitate, natura, et qualitate Theologiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 2r–33r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Existere in rerum naturâ....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Existere in rerum naturâ"
+        "text": "Existere in rerum naturâ....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,15 +108,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima. De Deo Uno",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 33v–193r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam..",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam"
+        "text": "Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam..",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -105,15 +138,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Secunda. De Deo Trino",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 193r–207r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis ........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis"
+        "text": "Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis ........",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -212,13 +255,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 259",
     "titles": "Tractatus in Primam Partem Divi Thomae De Deo uno et Trino \nProemium \nDisputatio prolegomena (!). De necessitate, natura, et qualitate Theologiae \nPars Prima. De Deo Uno \nPars Secunda. De Deo Trino",
-    "persons": "unbekannt Dozent lecturer \nFr. Hieronymus Hueber Schreiber scribe",
-    "incipits": "Agredimur (!) Deo Auspice totius Theologiae difficillimam partem \nExistere in rerum naturâ \nPostquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam \nHactenus quantum satis erat egimus de Deo Uno, eiusque attributis",
+    "persons": "unbekannt Dozent lecturer  \nFr. Hieronymus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Agredimur (!) Deo Auspice totius Theologiae difficillimam partem, ......... \nExistere in rerum naturâ.... \nPostquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam.. \nHactenus quantum satis erat egimus de Deo Uno, eiusque attributis ........",
     "explicits": "",
     "notes": "Nur die Inhaltsbezeichnung „De Deo Trino“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.",
-    "physical": "Papier \n210 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n210 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "210 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1715.\n\n**Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott.**\n\na) **Vorrede:** fol. 1r–2r. Anfang: Unter Gottes Führung nehmen wir den schwierigsten Teil der gesamten Theologie in Angriff.........\n\nb) **Prolegomenale Disputation über Notwendigkeit, Natur und Beschaffenheit der Theologie:** fol. 2r–33r. Anfang: Dass es in der Wirklichkeit.....\n\nc) **Erster Teil. Über den einen Gott:** fol. 33v–193r. Anfang: Nachdem der heilige Lehrer in der prolegomenalen Frage die Vorzüglichkeit der Theologie selbst.....\n\nd) **Zweiter Teil. Über den dreieinigen Gott:** fol. 193r–207r. Anfang: Bisher haben wir, soweit es genügte, vom einen Gott und seinen Eigenschaften gehandelt........\n\nDass auch diesen Codex Fr. Hieronymus Hueber schrieb, zeigt derselbe Schriftcharakter wie im vorhergehenden Codex.\n\nWer die Vorlesungen diktierte, ist unbekannt, obwohl dieselben Vorlesungen bereits in MN II 254 vorkommen. Der Vergleich der beiden Codices bestätigt zugleich die Datierung unseres Codex.",
+    "latin": "210 foll.; teg. a1; script. 1715\n\nTractatus in Primam Partem Divi Thomae De Deo uno et Trino.\n\na) Proemium: fol. 1r–2r.  \nInitium: Agredimur (!) Deo Auspice totius Theologiae difficillimam partem, .........\n\nb) Disputatio prolegomena (!). De necessitate, natura, et qualitate Theologiae: fol. 2r–33r.  \nInitium: Existere in rerum naturâ....\n\nc) Pars Prima. De Deo Uno: fol. 33v–193r.  \nInitium: Postquam S: Doctor in quaestione prolegomenali ipsiusmet theologiae excellentiam..\n\nd) Pars Secunda (De Deo Trino): fol. 193r–207r.  \nInitium: Hactenus quantum satis erat egimus de Deo Uno, eiusque attributis ........\n\nHunc quoque codicem a F. Hieronymo Hueber scriptum esse character scripturae idem atque in codice praecedente satis demonstrat.\n\nQuis autem lectiones codicis nostri dictaverit, nescimus, etsi easdem lectiones iam supra p. 194 in codice MN II 254 invenimus.\n\nQuae comparatio codicum ostendit etiam, quando codex noster scriptus sit."
   }
 }

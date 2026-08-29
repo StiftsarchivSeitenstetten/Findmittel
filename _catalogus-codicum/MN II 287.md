@@ -12,25 +12,45 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico positivus De Incarnatione verbi Divini
-    locus: S. 3–227
-    incipit: Hoc praecipuum post Sanctissimam Trinitatem mysterium
+    locus: p. 3–227
+    incipits:
+    - text: Hoc praecipuum post Sanctissimam Trinitatem mysterium,......
+    title_status: unspecified
   - label: b
     title: Tractatus Scholastico Dogmaticus De Angelis
-    locus: S. 233–262
-    incipit: Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit
+    locus: p. 233–262
+    incipits:
+    - text: Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit,......
+    title_status: unspecified
   - label: c
     title: Tractatus Secundus De Creatione Corporali
-    locus: S. 263–290
-    incipit: Post considerationem spiritualis creaturae
+    locus: p. 263–290
+    incipits:
+    - text: Post considerationem spiritualis creaturae,......
+    title_status: unspecified
   - label: d
     title: Tractatus Primus In Primam Secundae S. Thomae Aquinatis De Ultimo fine, seu beatitudine hominis
-    locus: S. 291–323
-    incipit: Amor Divinus circulum efficit admirabilem
+    locus: p. 291–323
+    incipits:
+    - text: Amor Divinus circulum efficit admirabilem,......
+    title_status: unspecified
   - label: e
     title: Tractatus Secundus De Actibus humanis
-    locus: S. 323–395
-    incipit: Progredimur cum Angelico duce nostro ad explicandos actus humanos
+    locus: p. 323–395
     end_date_display: 11. August 1752
+    incipits:
+    - text: Progredimur cum Angelico duce nostro ad explicandos actus humanos,...
+    colophons:
+    - locus: p. 230
+      label: codicis MN II 283 (supra
+      text: Finivimus 11 Augusti in Pomeridiana lectione 1752.
+    - text: undecimâ Augusti
+    title_status: unspecified
+    notes:
+    - Et re vera, cum partes b–e codicis nostri cum partibus a–d codicis MN II 283 plane consentiant, non est dubium, quin partes b–e codicis
+      nostri anno scholari 1751/52 a P. Norberto Pampichler in cursu theologico Seitenstettensi dictatae sint. Partem autem a iam invenimus in
+      codice MN II 282 (supra p. 229!), cuius inscriptio indicat hunc tractatum De Incarnatione verbi divini eodem anno scholari 1751/52 a P.
+      Benedicto Veit dictatum esse.
 phys_desc:
   object_form: codex
   support: Papier

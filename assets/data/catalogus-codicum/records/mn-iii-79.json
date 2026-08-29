@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-79",
   "signature": "MN III 79",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "283",
   "heading": {
     "title": "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nach 1872"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–318",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-79/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 79",
     "titles": "Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche \nZeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche",
-    "persons": "unbekannt Autor author \ntechnisch reproduziertes Manuskript production production",
+    "persons": "unbekannt Autor author  \ntechnisch reproduziertes Manuskript production production ",
     "incipits": "",
     "explicits": "",
     "notes": "Technisch reproduziertes Manuskript, nicht eigenhändig geschrieben.",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Schwarzer Einband; genaue Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Schwarzer Einband; genaue Verzierung siehe Katalogtext.",
+    "german": "Oktavformat; 318 Seiten; schwarzer Einband, auf dem Vorderdeckel mit vergoldetem Titel und auf dem Rückdeckel mit einer kunstvoll eingeprägten Darstellung des Letzten Abendmahls; auch der Rücken ist verziert und vergoldet.\n\n**Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche.**\n\nAuf dem Vorderdeckel steht außerdem: **Ich und mein Haus wir wollen dem Herrn dienen.**\n\nDa der Jerusalemer Patriarch Valerga nach S. 40 bereits verstorben war, wurde das Büchlein sicher nach 1872 geschrieben.\n\nDer Verfasser ist unbekannt, scheint aber ein Laie gewesen zu sein.\n\nDer Codex ist nicht eigenhändig geschrieben, sondern technisch als Manuskript reproduziert.",
+    "latin": "8°; 318 pagg.; teg. nigrum, cuius parti adversae titulus inauratus, cuius parti aversae artificiosa imago Caenae Domini impressa sunt, cuius etiam dorsum ornatum et inauratum est.\n\n**Zeitgemässe Betrachtungen über das heilige Land und die heiligen Stätten. von einem Augenzeugen mit Scitzen aus dem Tagebuche.**\n\nParti vero adversae haec inscriptio impressa est: **Ich und mein Haus wir wollen dem Herrn dienen.**\n\nCum iuxta p. 40 Hierosolymitanus Patriarcha Valerga iam mortuus sit, codicillus noster certe post annum 1872 scriptus est. Auctor ignotus est; at videtur homo laicus esse. Codicillus noster non ab ipsa manu scriptus est, sed manuscriptum uti dicunt technice reproductum."
   }
 }

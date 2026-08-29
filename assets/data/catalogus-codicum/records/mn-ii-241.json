@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-241",
   "signature": "MN II 241",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "187",
   "heading": {
     "title": "Institutiones Dialecticae in Universam Aristotelis Philosophiam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1709/10"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutiones Dialecticae in Universam Aristotelis Philosophiam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–85",
+      "locus": "p. 1–85",
       "language": "",
+      "incipits": [
+        {
+          "text": "Aggressuri nobilissimum Philosophiae Studium........",
+          "locus": "p. 1",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "1709. Septimo Decembris.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Aggressuri nobilissimum Philosophiae Studium"
+        "text": "Aggressuri nobilissimum Philosophiae Studium........",
+        "locus": "p. 1",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "1709. Septimo Decembris.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -70,17 +95,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In universam Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–175r (= S. 89–437)",
+      "locus": "fol. 1r–175r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Praemissis hucusque institutionibus........",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Die 26. Maii 1710.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Praemissis hucusque institutionibus"
+        "text": "Praemissis hucusque institutionibus........",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Die 26. Maii 1710.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -186,13 +231,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 241",
     "titles": "Institutiones Dialecticae in Universam Aristotelis Philosophiam \nInstitutiones Dialecticae in Universam Aristotelis Philosophiam \nTractatus In universam Logicam",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "Aggressuri nobilissimum Philosophiae Studium \nPraemissis hucusque institutionibus",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Aggressuri nobilissimum Philosophiae Studium........ \nPraemissis hucusque institutionibus........",
+    "explicits": "1709. Septimo Decembris. \nDie 26. Maii 1710.",
     "notes": "",
-    "physical": "Papier \n88 pagg. + 176 foll. (=352 pagg.) = 440 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n88 pagg. + 176 foll. (=352 pagg.) = 440 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "88 Seiten + 176 Blätter (= 352 Seiten), zusammen 440 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.\n\na) **Institutionen der Dialektik zur gesamten Philosophie des Aristoteles:** S. 1–85. Anfang der Vorrede S. 1: Im Begriff, das vornehmste Studium der Philosophie in Angriff zu nehmen........ Schluss: **1709, am 7. Dezember.**\n\nb) **Abhandlung über die gesamte Logik:** fol. 1r–175r (= S. 89–437). Anfang der Vorrede: Nachdem bisher die Institutionen vorausgeschickt worden sind........ Schluss: **Am 26. Mai 1710.**\n\nWeder Verfasser noch Schreiber sind bekannt, obwohl derselbe Schreiber auch die beiden folgenden Codices ausführte.",
+    "latin": "88 pagg. + 176 foll. (=352 pagg.) = 440 pagg.; teg. c3d\n\na) Institutiones Dialecticae in Universam Aristotelis Philosophiam: p. 1–85. Initium Proemii p. 1: Aggressuri nobilissimum Philosophiae Studium........\n\nClausula: 1709. Septimo Decembris.\n\nb) Tractatus In universam Logicam: fol. 1r–175r (= p. 89–437).\n\nInitium Proemii: Praemissis hucusque institutionibus........\n\nClausula: Die 26. Maii 1710.\n\nNec auctor notus nec scriptor, quamquam idem scriptor etiam duos codices sequentes exaravit."
   }
 }

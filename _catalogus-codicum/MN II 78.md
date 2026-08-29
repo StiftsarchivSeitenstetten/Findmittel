@@ -18,10 +18,23 @@ ms_contents:
   - label: a
     title: Disputatio Sexta. De Sacramento Paenitentiae
     locus: fol. 1–50v
+    incipits:
+    - locus: fol. 1r
+      text: Secunda post naufragium tabula est paenitentia.....
+    title_status: unspecified
   - label: b
     title: Tres Quaestiones De Sacrificio Missae
-    title_type: supplied
-    locus: fol. 56–97
+    locus: fol. 1–42
+    incipits:
+    - locus: fol. 1
+      text: Omissis iterum variis derivationibus nominis missae......
+    colophons:
+    - locus: fol. 42
+      text: 'Interim sit honor Deo In saeCULUM (Chronogramma, quod indicat annum 1661). Absolvimus ipso festo S. Placidi 4 Octobris, sub Admodum
+        .... P. Desiderio Schapenger Monacho Benedictino in Seon: SS: Theologiae Doctore et Casuum Conscientiae Professore ordinario. Conscripta
+        a Fr. Ignatio ab Arzt eiusdem ordinis in Monasterio Divae Virginis Seittenstettensi Inferioris Austriae professo. Anno 1661.'
+    title_status: supplied
+    title_source: cataloguer
   responsibility:
   - role: lecturer
     name: P. Desiderius Schapenger

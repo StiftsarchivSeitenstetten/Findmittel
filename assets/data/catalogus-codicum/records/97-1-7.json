@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-7",
   "signature": "97.1.7",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "207–208",
   "heading": {
     "title": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1723 (?)"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–ca. 600",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -131,13 +138,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.7",
     "titles": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226. \nCodicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
-    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "persons": "Johann Fischer Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \nca. 600 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \nca. 600 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; etwa 600 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.**\n\nDa dieser Codex lediglich den vorausgehenden fortsetzt, gilt hinsichtlich Verfasser, Schreiber und Entstehung das dort Gesagte.",
+    "latin": "fol.; ca. 600 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.**\n\nCum hic codex nil nisi codicem praecedentem prosequatur, vide, quae supra de auctore, scriptore, origine exposuerimus!"
   }
 }

@@ -10,12 +10,16 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 LL (A 77)
 ms_contents:
-  title: "Compendium Tractatus theologici de Deo Uno et Trino, ab Admodum Reverendo P. Mauritio Marchesi anno Domini 1731 Professore Sacrosanctae Theologiae in universitate Graecensi secundario traditi, per F. Paulum Reich Ordinis S. P. Benedicti Professum Seittenstettensem elaboratum."
   items:
-  - label: "a"
-    title: "Compendium Tractatus theologici de Deo Uno et Trino, ab Admodum Reverendo P. Mauritio Marchesi anno Domini 1731 Professore Sacrosanctae Theologiae in universitate Graecensi secundario traditi, per F. Paulum Reich Ordinis S. P. Benedicti Professum Seittenstettensem elaboratum."
-    locus: "S. 1–272"
-    incipit: "Disputatio Prima De Existentia, Essentia, et Divinis Attributis Articulus Primus An et quomodo nobis innotescat Existentia Dei: Praenotendum Primo: Quia (?) ab omnibus non atheis admittatur et statuatur....."
+  - label: a
+    title: Compendium Tractatus theologici de Deo Uno et Trino, ab Admodum Reverendo P. Mauritio Marchesi anno Domini 1731 Professore Sacrosanctae
+      Theologiae in universitate Graecensi secundario traditi, per F. Paulum Reich Ordinis S. P. Benedicti Professum Seittenstettensem elaboratum.
+    locus: p. 7
+    incipits:
+    - text: 'Disputatio Prima De Existentia, Essentia, et Divinis Attributis Articulus Primus An et quomodo nobis innotescat Existentia Dei: Praenotendum
+        Primo: Quia (?) ab omnibus non atheis admittatur et statuatur.....'
+      locus: p. 7
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

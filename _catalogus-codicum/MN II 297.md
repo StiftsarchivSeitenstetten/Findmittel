@@ -12,12 +12,16 @@ ms_contents:
   items:
   - label: a
     title: Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae
-    locus: S. 1–26
-    completeness: mutilated
+    locus: p. 1–26
+    completeness:
+      status: defective
+      note: mutilated
     note: Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten.
+    title_status: unspecified
   - label: b
     title: Annotationes Quaedam Physices
-    locus: S. 27–130
+    locus: p. 27–130
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

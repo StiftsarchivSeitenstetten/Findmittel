@@ -17,13 +17,29 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Casisticus De Actibus Humanis
-    locus: Bl. 1–243
+    locus: fol. 1 - 243
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis In casus Conscientiae
+      text: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....
+    colophons:
+    - locus: fol. 243v
+      text: Absolvimus 24 Maii. Anno 1.6.5.2.
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Vitiis et peccatis
-    locus: Bl. 244r–355r
+    locus: fol. 244r - 355r
+    incipits:
+    - locus: fol. 245r
+      label: Prooemii
+      text: Post tractationem de actibus humanis in genere....
+    colophons:
+    - text: Absolvimus hunc tractatum de Vitiis et Peccatis decimo die Octobris (1652)
+    title_status: unspecified
   - label: c
     title: Index totius Tractatus
-    locus: Bl. 355v–358r
+    locus: fol. 355v - 358r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

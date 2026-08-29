@@ -9,7 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 109
 ms_contents:
-  catalogue_title_or_summary: 'Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.'
+  items:
+  - catalog_statement: 'Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.'
+    title: Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis
+    locus: p. 1–362
+    incipits:
+    - locus: p. 1
+      text: 'Superavimus tandem (= tandem) auspice Deo, promovente conatus nostros...... Inscriptio dorsi: Physica MS. F. Ernesti.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

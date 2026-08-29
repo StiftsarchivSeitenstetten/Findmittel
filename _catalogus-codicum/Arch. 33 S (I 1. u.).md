@@ -14,10 +14,19 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Calendarium Romanum et Generale: p. 23 - 41'
+    title: Calendarium Romanum et Generale
+    locus: p. 23 - 41
+    title_status: unspecified
   - label: b
     catalog_statement: Officium Beatissimae Virginis et Matris Domini et Salvatoris Nostri
+    title: Officium Beatissimae Virginis et Matris Domini et Salvatoris Nostri
+    locus: p. 41 - 116
+    title_status: unspecified
   - label: c
     catalog_statement: 'Historia Ve: (= Verecundae ?) Susannae (item versibus ornata): p. 117 - 134'
+    title: 'Historia Ve: (= Verecundae ?) Susannae (item versibus ornata)'
+    locus: p. 117 - 134
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,14 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 51
 ms_contents:
-  title: "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778"
   items:
-  - label: "a"
-    title: "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778"
-    locus: "S. 1–137"
-  - label: "b"
-    title: "Register"
-    locus: "S. 138–140"
+  - label: a
+    title: Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778
+    locus: p. 1–137
+    title_status: unspecified
+  - label: b
+    title: Register
+    locus: p. 138–140
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

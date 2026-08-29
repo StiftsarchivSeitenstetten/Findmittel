@@ -13,7 +13,6 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 62
 ms_contents:
-  title: Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum
   responsibility:
   - role: lecturer
     name: P. Dominicus Caesar
@@ -21,6 +20,13 @@ ms_contents:
   - role: scribe
     name: Fr. Joachim Hartung
     affiliation: Seitenstetten
+  items:
+  - title: Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum
+    title_status: unspecified
+    incipits:
+    - locus: p. VII
+      label: Prooemii
+      text: Ut nemo derepente fit maximus....
 phys_desc:
   object_form: codex
   support: Papier

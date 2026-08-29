@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-11",
   "signature": "97.1.11",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "47",
   "heading": {
     "title": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nach 1655"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1r–126v",
+      "locus": "fol. 77v et 79r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "label": "nominis",
+          "text": "Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "label": "nominis",
+        "text": "Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -138,13 +155,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/97-1-11/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.11",
     "titles": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc. \nArcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
-    "explicits": "",
+    "explicits": "Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.",
     "notes": "",
-    "physical": "Papier \n126 foll.; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774 \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \n126 foll.; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774 \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; 126 Blätter; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken. Auf dem Vorderdeckel: **D. A. S. (= Dominicus Abbas Seittenstettensis) 1774**.\n\n**Geheimnisse oder besonders bemerkenswerte Notizen, vor allem die Stände Oberösterreichs betreffend usw.**\n\nAuf dem Titelblatt steht die Namensunterschrift **Jo(annes) Bapt(ista) Kedif (Redif?)**. Der Katalogbearbeiter hält sie für einen Besitzvermerk.\n\nAls Terminus post quem für die Entstehung erscheint das Jahr 1655, auf das sich die Vorgänge fol. 77v und 79r beziehen. 1774 erhielt der Codex lediglich einen neuen Einband.",
+    "latin": "fol.; 126 foll.; teg. b1 cum dorso albo; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774\n\nArcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.\n\nIn pagina titulari subscriptio nominis: Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.\n\nTerminus, post quem codex noster ortus est, videtur esse annus 1655, quo anno acta sunt, quae fol. 77v et 79r inveniuntur. Anno 1774 hic codex non nisi novo tegumento munitus est."
   }
 }

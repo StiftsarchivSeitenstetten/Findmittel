@@ -12,10 +12,14 @@ ms_contents:
   items:
   - label: a
     title: Philosophiae Tractatus Secundus in Octo libros phisicorum
-    locus: S. 3–293
+    locus: p. 3–293
+    incipits:
+    - text: Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......
+    title_status: unspecified
   - label: b
     title: Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae
-    locus: S. 294–297
+    locus: p. 294–297
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

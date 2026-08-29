@@ -9,18 +9,22 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 320
 ms_contents:
-  title: 'Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706'
   items:
   - label: a
-    title: 'Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706'
-    locus: S. 1–468
+    title: 'Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen
+      Worden Durch Einen Liebhaber Dißer Kunst Anno 1706'
+    locus: p. 1–468
+    title_status: unspecified
   - label: b
-    title: 'Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet'
-    locus: S. 469–499
+    title: 'Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen
+      ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet'
+    locus: p. 469–499
+    title_status: unspecified
   - label: c
     title: Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben
-    locus: S. 501–507
+    locus: p. 1
     note: Zwei weitere medizinische Ratschläge stehen auf der letzten Seite.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

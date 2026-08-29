@@ -12,15 +12,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 30
 ms_contents:
-  title: "Commentarius In IV. Institutionum Imperialium libros"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Commentarius In IV. Institutionum Imperialium libros"
-    title_type: supplied
-    locus: "Bl. 1r–550v"
-    incipit: "Inprimis scire oportet forum esse duplex...."
-    note: "Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern."
+  - label: a
+    title: Commentarius In IV. Institutionum Imperialium libros
+    locus: fol. 1r
+    note: Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern.
+    incipits:
+    - text: Inprimis scire oportet forum esse duplex....
+      locus: fol. 1r
+      label: Prolegomenorum In IV. Institutionum Imperialium Libros
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

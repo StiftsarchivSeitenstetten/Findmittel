@@ -14,13 +14,26 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48'
+    title: Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 1–48
   - label: b
     catalog_statement: '(Aliquot documenta, quae ad historiam ecclesiasticam spectant): p. 51–127'
+    title: Aliquot documenta, quae ad historiam ecclesiasticam spectant
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 51–127
   - label: c
-    catalog_statement: (Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus
-      Güsmann L annos a professione monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem
-      drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi
-      Seitenstettensis).
+    catalog_statement: (Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione
+      monastica peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi
+      inscriptioni graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis).
+    title: Secundae nuptiae) (Drama Latinum gratulatorium, ad diem 8. Decembris 1772, quo die abbas Dominicus Güsmann L annos a professione monastica
+      peractos celebraturus erat, probabiliter a P. Romano Digl compositum; nam idem drama etiam in fasciculo 1D A52 invenitur, ubi inscriptioni
+      graphitide suppositum est nomen P. Romani Digl, monachi Seitenstettensis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. autem 127 reperitur numerus anni 1768
 phys_desc:
   object_form: codex
   support: Papier

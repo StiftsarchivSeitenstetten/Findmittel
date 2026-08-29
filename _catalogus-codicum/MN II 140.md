@@ -13,10 +13,19 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in Philosophiam Aristotelico Thomisticam
-    locus: p. 1–68. I
+    locus: p. 1–68
+    title_status: unspecified
   - label: b
     title: Tractatus In Logicam
-    locus: p. 69–462. I
+    locus: p. 69–462
+    incipits:
+    - locus: p. 69
+      label: Prooemii
+      text: Logica quam Deo aspirante aggredimur.....
+    colophons:
+    - locus: p. 462
+      text: Finita 31 Maii 1684.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

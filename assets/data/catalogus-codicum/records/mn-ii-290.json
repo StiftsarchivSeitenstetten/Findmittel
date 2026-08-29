@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-290",
   "signature": "MN II 290",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "234–235",
   "heading": {
     "title": "Tractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1753/54"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,35 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–239",
+      "locus": "p. 7–239",
       "language": "",
+      "incipits": [
+        {
+          "text": "Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "8. Maii 1754.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis"
+        "text": "Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis......",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "8. Maii 1754.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -70,17 +91,35 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus De Virtutibus theologicis, Fide, Spe et charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 251–389",
+      "locus": "p. 251–389",
       "language": "",
+      "incipits": [
+        {
+          "text": "De justificatione secundum essentiam spectata hactenus egimus,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "17. Augusti 1754.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "De justificatione secundum essentiam spectata hactenus egimus"
+        "text": "De justificatione secundum essentiam spectata hactenus egimus,.....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "17. Augusti 1754.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -212,13 +251,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 290",
     "titles": "Tractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito \nTractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito \nTractatus Scholastico-Dogmaticus De Virtutibus theologicis, Fide, Spe et charitate",
-    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe",
-    "incipits": "Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis \nDe justificatione secundum essentiam spectata hactenus egimus",
-    "explicits": "",
+    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe Stift Seitenstetten",
+    "incipits": "Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis...... \nDe justificatione secundum essentiam spectata hactenus egimus,.....",
+    "explicits": "8. Maii 1754. \n17. Augusti 1754.",
     "notes": "",
-    "physical": "Papier \n398 pagg. \ncode: c3; description: Brauner Pappeinband."
+    "physical": "Papier \n398 pagg. \ncode: c3; description: Brauner Pappeinband.",
+    "german": "398 Seiten; brauner Pappeinband; geschrieben 1753/54.\n\na) **Scholastisch-dogmatische Abhandlung zur Prima Secundae des hl. Thomas über göttliche Gnade, Rechtfertigung und Verdienst:** S. 7–239. Anfang: Nachdem der engelgleiche Lehrer in diesem Teil seiner Summa über gute und böse menschliche Handlungen gehandelt hat...... Schluss: **8. Mai 1754.**\n\nb) **Scholastisch-dogmatische Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 251–389. Anfang: Bisher haben wir von der Rechtfertigung ihrem Wesen nach gehandelt,..... Schluss: **17. August 1754.**\n\nDass **P. Norbertus Pampichler** den Codex geschrieben hat, zeigt die sehr ähnliche Schrift gegenüber dem vorhergehenden. Dass er zugleich der Verfasser ist, ergibt sich auch daraus, dass – wie bei MN II 289 – die Seiten halbseitig beschrieben wurden, um Ergänzungen einzutragen. P. Norbertus Pampichler benutzte unseren Codex also zweifellos wie den vorhergehenden zur Vorbereitung seiner theologischen Vorlesungen.",
+    "latin": "398 pagg.; teg. c3; script. 1753/54\n\na) Tractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito: p. 7–239.  \nInitium: Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis......  \nClausula: 8. Maii 1754.\n\nb) Tractatus Scholastico-Dogmaticus De Virtutibus theologicis, Fide, Spe et charitate: p. 251–389.  \nInitium: De justificatione secundum essentiam spectata hactenus egimus,.....  \nClausula: 17. Augusti 1754.\n\nHunc codicem a **P. Norberto Pampichler** scriptum esse, forma scripturae indicat, quippe quae simillima sit codici praecedenti. Sed auctorem quoque esse eundem intelligemus, si consideraverimus etiam huius codicis paginas dimidiatas esse ad additamenta inserenda ut codicis MN II 289 (vide supra!). Qua de causa sine dubio P. Norbertus Pampichler codice nostro ad praeparandas lectiones theologicas eadem ratione usus est qua codice praecedente."
   }
 }

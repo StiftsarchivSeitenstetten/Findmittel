@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-m-xviii-3m",
   "signature": "Arch. Cod. 34 M (XVIII 3m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "247–248",
   "heading": {
-    "title": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1768"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 M (XVIII 3m).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 3–57",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "text": "Deliberatio haec nihil est aliud,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 57",
+          "text": "Requies aeterna Authori!",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "text": "Deliberatio haec nihil est aliud,.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 57",
+        "text": "Requies aeterna Authori!",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -68,15 +95,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus Quintus Philosophia Moralis, Seu Ethica: p. 61–165.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus Quintus Philosophia Moralis, Seu Ethica",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 61–165",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 61",
+          "text": "Ethica Seu Philosophia Moralis â moribus......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "p. 165",
+          "text": "omnia pene ex P. Gallo Cartier (Ordinis S. Benedicti, qui anno 1756 opus ediderat, cui inscriptio: Philosophia eclectica ad mentem et methodum celeberrimorum nostrae aetatis philosophorum concinnata et in quatuor partes, Logicam nempe, Metaphysicam, Physicam et Ethicam distributa.)",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 61",
+        "text": "Ethica Seu Philosophia Moralis â moribus......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 165",
+        "text": "omnia pene ex P. Gallo Cartier (Ordinis S. Benedicti, qui anno 1756 opus ediderat, cui inscriptio: Philosophia eclectica ad mentem et methodum celeberrimorum nostrae aetatis philosophorum concinnata et in quatuor partes, Logicam nempe, Metaphysicam, Physicam et Ethicam distributa.)",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -160,13 +211,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-m-xviii-3m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 M (XVIII 3m)",
-    "titles": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57. \nInstructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57. \nTractatus Quintus Philosophia Moralis, Seu Ethica: p. 61–165.",
-    "persons": "P. Norbertus Pampichler Autor author \nP. Michael Rothmayr probable author probable_author",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito \nInstructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito \nTractatus Quintus Philosophia Moralis, Seu Ethica",
+    "persons": "P. Norbertus Pampichler Autor author  \nP. Michael Rothmayr probable author probable_author ",
+    "incipits": "Deliberatio haec nihil est aliud,..... \nEthica Seu Philosophia Moralis â moribus......",
+    "explicits": "omnia pene ex P. Gallo Cartier (Ordinis S. Benedicti, qui anno 1756 opus ediderat, cui inscriptio: Philosophia eclectica ad mentem et methodum celeberrimorum nostrae aetatis philosophorum concinnata et in quatuor partes, Logicam nempe, Metaphysicam, Physicam et Ethicam distributa.) \nRequies aeterna Authori!",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 M (XVIII 3m). \nInstructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57. \nTractatus Quintus Philosophia Moralis, Seu Ethica: p. 61–165.",
-    "physical": "Papier \n170 pagg. \nGroßquartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n170 pagg. \nGroßquartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Großquartformat; 170 Seiten; grauer Pappeinband; geschrieben 1768.\n\na) **Unterweisung für jene, die über die Wahl ihres Lebensstandes beraten**, von **P. Norbertus Pampichler**, emeritiertem Prior des Klosters Seitenstetten: S. 3–57. Anfang: „Diese Überlegung ist nichts anderes....“ Schluss: **Ewige Ruhe dem Verfasser!**\n\nb) **Fünfte Abhandlung: Moralphilosophie oder Ethik:** S. 61–165. Anfang: „Ethik oder Moralphilosophie hat ihren Namen von den Sitten....“ Schluss: Fast alles aus **P. Gallus Cartier**, Benediktiner, der 1756 seine *Philosophia eclectica* veröffentlichte.\n\nSchreiber des gesamten Codex und Verfasser von Teil b sind unbekannt. P. Norbertus Pampichler starb am 25. Dezember 1768 und hatte zwei Monate zuvor das Priorat niedergelegt. Daher verfasste er Teil a wohl im Herbst 1768, sofern er die Unterweisung nicht schon früher schrieb. Der Schreiber begann die Abschrift möglicherweise zwischen seiner Amtsniederlegung und seinem Tod und beendete sie erst nach dem Tod des Verfassers.\n\nNach dem folgenden Codex ist **P. Michael Rothmayr** wahrscheinlich Verfasser von Teil b.",
+    "latin": "4° mai.; 170 pagg.; teg. c1; script. 1768\n\na) **Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito:** p. 3–57.  \n**Initium p. 5:** Deliberatio haec nihil est aliud,.....  \n**Clausula p. 57:** Requies aeterna Authori!\n\nb) **Tractatus Quintus Philosophia Moralis, Seu Ethica:** p. 61–165.  \n**Initium p. 61:** Ethica Seu Philosophia Moralis â moribus......  \n**Clausula p. 165:** omnia pene ex P. Gallo Cartier (Ordinis S. Benedicti, qui anno 1756 opus ediderat, cui inscriptio: *Philosophia eclectica ad mentem et methodum celeberrimorum nostrae aetatis philosophorum concinnata et in quatuor partes, Logicam nempe, Metaphysicam, Physicam et Ethicam distributa.*)\n\nScriptor totius codicis et auctor partis b ignoti. P. Norbertus Pampichler die 25. Decembris 1768 defunctus est. Duobus mensibus ante Prioris officium resignavit. Qua de causa in autumno anni 1768 partem a codicis nostri composuit, nisi forte iam antequam prioris officio renuntiavit, hanc instructionem exaraverat, scriptor autem partem a codicis nostri inter resignationem et mortem auctoris coepit et auctore iam mortuo finivit.\n\nPS: Ut ad codicem subsequentem demonstrabimus, probabiliter auctor partis b **P. Michael Rothmayr** est, monachus Seitenstettensis."
   }
 }

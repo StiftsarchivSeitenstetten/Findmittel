@@ -14,29 +14,48 @@ ms_contents:
   - label: a
     title: Prooemium
     locus: fol. 1r–2r
+    incipits:
+    - text: Tandem superato logicarum difficultatum spineto......
+    title_status: unspecified
   - label: b
     title: Controversia Prolegomenalis ad totam Physicam De essentia et obiecto Physicae
     locus: fol. 2r–63v
+    incipits:
+    - locus: fol. 2v
+      label: Sectionis I
+      text: Cum Deus mundum tradiderit disputationi hominum.....
+    title_status: unspecified
   - label: c
     title: Pars Prima Physicae De intrinsecis et extrinsecis constitutivis ac principiis et affectionibus communibus rerum
     locus: fol. 63v–489v
+    incipits:
+    - label: Controversiae praeviae ad Caput Primum
+      text: 'fol. 64r: Cum in subsequentibus fiat quaestio......'
+    title_status: unspecified
   - label: d
     title: Caput, Articulus et paragraphus unicus in libros Aristotelis De Mundo et Caelo
     locus: fol. 493r–514v
-    completeness: incomplete
+    completeness:
+      status: defective
+      note: incomplete
+    title_status: unspecified
   - label: e
     title: Caput Secundum Partis Secundae In libros Aristotelis De Ortu et Interitu
     locus: fol. 529r–605v
     end_date: '1699-05-27'
+    title_status: unspecified
   - label: f
     title: Pars Tertia Physicae De Anima
     locus: fol. 607r–743v
     end_date: '1699-07-09'
     end_time_display: morgens
+    title_status: unspecified
   - label: g
     title: Commentarius Secundus In Metaphysicam Aristotelis
     locus: fol. 748r–778v
     end_date: '1699-07-18'
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

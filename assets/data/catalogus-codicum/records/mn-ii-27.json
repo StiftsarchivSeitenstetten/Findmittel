@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-27",
   "signature": "MN II 27",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "19",
   "heading": {
     "title": "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1636; Titelblatt trägt 1637"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,20 +49,49 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1r–260v",
+      "locus": "fol. 1 - 260v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Qualis praerogativa, quae utilitas sit scientiae logicae....",
+          "locus": "fol. 1",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 260v",
+          "text": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636. In folio titulari insigne monasterii Seittenstettensis delineatum est cum litteris initialibus M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637.",
+          "id": "colophon-1"
+        },
+        {
+          "text": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636.",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Qualis praerogativa, quae utilitas sit scientiae logicae...."
+        "text": "Qualis praerogativa, quae utilitas sit scientiae logicae....",
+        "locus": "fol. 1",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636."
+        "locus": "fol. 260v",
+        "text": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636. In folio titulari insigne monasterii Seittenstettensis delineatum est cum litteris initialibus M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637.",
+        "id": "colophon-1"
       },
-      "notes": [],
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Auctor et scriptor (vel scriptores?) ignoti."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -68,13 +100,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Index",
+        "text": "indice",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "Bl. 261r–264v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -165,13 +201,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-27/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 27",
-    "titles": "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici \nCommentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici \nIndex",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "titles": "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici \nCommentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici \nindice",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "Qualis praerogativa, quae utilitas sit scientiae logicae....",
-    "explicits": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636.",
-    "notes": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung.",
-    "physical": "Papier \n264 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "explicits": "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636. In folio titulari insigne monasterii Seittenstettensis delineatum est cum litteris initialibus M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637. \nFinem 12 Septembris nostrae logicae imposuimus, Anni....1636.",
+    "notes": "Auctor et scriptor (vel scriptores?) ignoti. \nVom Katalog verwendete strukturelle Inhaltsbezeichnung. \ntype: title_page_emblem; description: Wappen des Klosters Seitenstetten mit M. B. M. V. I. S. und Jahreszahl 1637",
+    "physical": "Papier \n264 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "264 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1636.\n\n**Kommentare und Fragen zur gesamten Logik des Aristoteles nach der Lehre des hl. Thomas, des Doctor Angelicus:** Bl. 1–260v, mit Register Bl. 261–264.\n\nAnfang Bl. 1: **Welche Vorrangstellung und welcher Nutzen der Wissenschaft der Logik zukommt....** Schluss Bl. 260v: **Wir setzten unserer Logik am 12. September des Jahres 1636 ein Ende.** Auf dem Titelblatt ist das Wappen des Klosters Seitenstetten gezeichnet mit den Initialen **M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637.** Verfasser und Schreiber (oder Schreiber?) sind unbekannt.",
+    "latin": "264 foll.; teg. a2; script. 1636\n\n*Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici:* fol. 1 - 260v cum indice fol. 261 - 264.\n\nInitium fol. 1: Qualis praerogativa, quae utilitas sit scientiae logicae.... Clausula fol. 260v: Finem 12 Septembris nostrae logicae imposuimus, Anni....1636. In folio titulari insigne monasterii Seittenstettensis delineatum est cum litteris initialibus M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637. Auctor et scriptor (vel scriptores?) ignoti."
   }
 }

@@ -13,22 +13,24 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 24"
 ms_contents:
-  overall_title:
-    title: "Trinitas in Unitate Dei Salus mundi per Dominum Nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars II. Salus per Filium Dominum Nostrum Jesum Christum Deum-Hominem, inventa ab eo Redemtione aeterna, Spes nostra."
-    title_type: "original"
-    language: "la"
   responsibility:
-    - role: "author"
-      name: "Mathias Beyr"
+  - role: author
+    name: Mathias Beyr
   part:
     number: 2
-    designation: "Salus per Filium Dominum Nostrum Jesum Christum Deum-Hominem, inventa ab eo Redemtione aeterna, Spes nostra"
+    designation: Salus per Filium Dominum Nostrum Jesum Christum Deum-Hominem, inventa ab eo Redemtione aeterna, Spes nostra
   relations:
-    - type: "continuation_of"
-      target: "[[MN I 23]]"
-    - type: "promised_part"
-      target: "Pars III"
-      status: "not_found_by_cataloguer"
+  - type: continuation_of
+    target: '[[MN I 23]]'
+  - type: promised_part
+    target: Pars III
+    status: not_found_by_cataloguer
+  items:
+  - title: Trinitas in Unitate Dei Salus mundi per Dominum Nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars II. Salus
+      per Filium Dominum Nostrum Jesum Christum Deum-Hominem, inventa ab eo Redemtione aeterna, Spes nostra.
+    title_status: unspecified
+    languages:
+    - la
 phys_desc:
   object_form: "codex"
   format: "Großquart"

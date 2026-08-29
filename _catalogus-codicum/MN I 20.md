@@ -15,19 +15,20 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 20"
 ms_contents:
-  overall_title:
-    title: "Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens."
-    title_type: "original"
-    language: "de"
-  summary: "Deutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt."
+  summary: Deutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt.
   responsibility:
-    - role: "original_author"
-      name: "Laurentius Scupuli"
-    - role: "translator"
-      name: "unbekannt"
+  - role: original_author
+    name: Laurentius Scupuli
+  - role: translator
+    name: unbekannt
   relations:
-    - type: "continued_by"
-      target: "[[MN I 21]]"
+  - type: continued_by
+    target: '[[MN I 21]]'
+  items:
+  - title: Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.
+    title_status: unspecified
+    languages:
+    - de
 phys_desc:
   object_form: "codex"
   format: "Großquart"

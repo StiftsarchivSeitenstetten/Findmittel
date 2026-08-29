@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-13",
   "signature": "MN I 13",
   "aliases": [
@@ -11,8 +11,8 @@
   "catalogPage": "245",
   "heading": {
     "title": "Acta Pacis Passarovicensis collecta et compaginata 1765",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nicht vor 1765"
   },
   "date": {
@@ -30,12 +30,15 @@
   },
   "contentsOverview": {
     "title": "Acta Pacis Passarovicensis collecta et compaginata 1765",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
-    "translation": "Akten des Friedens von Passarowitz, gesammelt und zusammengebunden 1765",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
+    "translation": "",
     "summary": "Sammlung von Akten und Berichten zu den im Jahr 1718 in Passarowitz geführten Friedensverhandlungen mit dem Osmanischen Reich.",
     "language": "la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -47,13 +50,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Beschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–800",
+      "locus": "p. 3–800",
       "language": "main: de; embedded: la; it",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -145,13 +152,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-13/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 13",
-    "titles": "Acta Pacis Passarovicensis collecta et compaginata 1765 \nAkten des Friedens von Passarowitz, gesammelt und zusammengebunden 1765 \nBeschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "titles": "Acta Pacis Passarovicensis collecta et compaginata 1765 \nBeschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Sammlung von Akten und Berichten zu den im Jahr 1718 in Passarowitz geführten Friedensverhandlungen mit dem Osmanischen Reich. \nla \nDie eigentliche Beschreibung ist deutschsprachig und enthält eingestreute Dokumente in lateinischer und italienischer Sprache. \nDie Jahreszahl 1765 liefert lediglich einen terminus post quem bzw. terminus a quo für die Entstehung des Codex; eine exakte Datierung auf 1765 ist nach Aussage des Katalogbearbeiters nicht gesichert. \nZwischen der historischen Datierung des behandelten Ereignisses von 1718 und der Entstehung bzw. Zusammenstellung des Codex ab 1765 ist zu unterscheiden. \nDer Codex ist mehrsprachig: deutscher Haupttext mit eingebetteten lateinischen und italienischen Dokumenten.",
-    "physical": "Papier \n804 Seiten \nFolio \ncode: c1; description: Grauer Pappeinband."
+    "physical": "Papier \n804 Seiten \nFolio \ncode: c1; description: Grauer Pappeinband.",
+    "german": "Folioformat; 804 Seiten; grauer Pappeinband; geschrieben nicht vor 1765.\n\n**Akten des Friedens von Passarowitz, gesammelt und zusammengebunden 1765 (S. 1)**\n\n**Beschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen:** S. 3–800. (Die eigentliche Beschreibung ist in deutscher Sprache abgefasst, enthält jedoch eingestreute Dokumente in lateinischer oder italienischer Sprache.)\n\nSowohl der Kompilator des Werkes als auch der Schreiber des Codex sind unbekannt. Es ist ungewiss, ob unser Codex bereits im Jahr 1765 geschrieben wurde.",
+    "latin": "fol.; 804 pagg.; teg. c1; script. non ante 1765\n\n**Acta Pacis Passarovicensis collecta et compaginata 1765 (p. 1)**\n\n**Beschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen:** p. 3–800 (Ipsa descriptio utitur lingua Germanica, sed immiscet documenta lingua Latina aut Italica composita.) Tam compilator operis quam scriptor codicis ignotus. Incertum est, num codex noster iam 1765 scriptus sit."
   }
 }

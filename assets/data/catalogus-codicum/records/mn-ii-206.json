@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-206",
   "signature": "MN II 206",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "154–155",
   "heading": {
     "title": "Discursus Quintus De Anima sive Animastica De corpore ut animato",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1698"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus Quintus De Anima sive Animastica De corpore ut animato",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–356",
+      "locus": "p. 1–356",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Nobiliorem hominis partem aggredimur.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Nobiliorem hominis partem aggredimur.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,15 +80,35 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus ultimus Metaphysicus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 373–464",
+      "locus": "p. 373–464",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Metaphysica dicitur quasi trans- et ultra physicam scientia.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Die quarta Octobris hora pomeridiana absolvimus hunc Cursum philosophicum primo quadrante ad tertiam Plassii. (Hoc nomen Plassii videtur indicare professorem, qui hunc discursum praelegit. Qua de re, quod in illo tempore Salisburgi non erat professor nomine Plassius aut Plass, codex noster lectiones non Salisburgi habitas exhibet.) Idem indicat forma tegumenti et Latinitas codicis nostri.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Metaphysica dicitur quasi trans- et ultra physicam scientia.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Die quarta Octobris hora pomeridiana absolvimus hunc Cursum philosophicum primo quadrante ad tertiam Plassii. (Hoc nomen Plassii videtur indicare professorem, qui hunc discursum praelegit. Qua de re, quod in illo tempore Salisburgi non erat professor nomine Plassius aut Plass, codex noster lectiones non Salisburgi habitas exhibet.) Idem indicat forma tegumenti et Latinitas codicis nostri.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -86,14 +123,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus Primus De Coelo et Mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 485–593",
+      "locus": "p. 485–593",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Postquam Aristoteles in libris 8 physicorum disputasset......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Postquam Aristoteles in libris 8 physicorum disputasset......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -104,14 +153,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus Secundus In librum primum de ortu et interitu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 593–728",
+      "locus": "p. 593–728",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ait hic Aristoteles de variis speciebus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ait hic Aristoteles de variis speciebus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -122,14 +183,28 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus tertius De Elementis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 728–773",
+      "locus": "p. 728–773",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 729",
+          "text": "Postquam Philosophus in libro primo de ortu et interitu egisset.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 729",
+        "text": "Postquam Philosophus in libro primo de ortu et interitu egisset.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -140,14 +215,30 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Discursus Quartus De Metheoris Physicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 791–863",
+      "locus": "p. 791–863",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 793",
+          "label": "Discursus quarti In quatuor libros Metheoro-logicos",
+          "text": "Post tractationem de Elementis seu corporibus simplicibus,..... Numeri discursuum indicant, hos discursus non eo ordine, quo in codice nostro inveniuntur, dictatos esse, sed seriem partium, cum ad codicem iungerentur, mutatam esse. Qua de causa etiam inscriptio codicis non in initio, sed in medio codicis (p. 483) invenitur.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 793",
+        "label": "Discursus quarti In quatuor libros Metheoro-logicos",
+        "text": "Post tractationem de Elementis seu corporibus simplicibus,..... Numeri discursuum indicant, hos discursus non eo ordine, quo in codice nostro inveniuntur, dictatos esse, sed seriem partium, cum ad codicem iungerentur, mutatam esse. Qua de causa etiam inscriptio codicis non in initio, sed in medio codicis (p. 483) invenitur.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -255,13 +346,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-206/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 206",
     "titles": "Discursus Quintus De Anima sive Animastica De corpore ut animato \nDiscursus Quintus De Anima sive Animastica De corpore ut animato \nDiscursus ultimus Metaphysicus \nDiscursus Primus De Coelo et Mundo \nDiscursus Secundus In librum primum de ortu et interitu \nDiscursus tertius De Elementis \nDiscursus Quartus De Metheoris Physicae",
-    "persons": "Fr. Conradus Curtius Schreiber scribe \nPlassius (?) Dozent lecturer",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n874 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "persons": "Fr. Conradus Curtius Schreiber scribe Zisterzienserkloster Goldenkron/Heiligenkron in Böhmen \nPlassius (?) Dozent lecturer ",
+    "incipits": "Nobiliorem hominis partem aggredimur..... \nMetaphysica dicitur quasi trans- et ultra physicam scientia..... \nPostquam Aristoteles in libris 8 physicorum disputasset...... \nAit hic Aristoteles de variis speciebus.... \nPostquam Philosophus in libro primo de ortu et interitu egisset..... \nPost tractationem de Elementis seu corporibus simplicibus,..... Numeri discursuum indicant, hos discursus non eo ordine, quo in codice nostro inveniuntur, dictatos esse, sed seriem partium, cum ad codicem iungerentur, mutatam esse. Qua de causa etiam inscriptio codicis non in initio, sed in medio codicis (p. 483) invenitur.",
+    "explicits": "Die quarta Octobris hora pomeridiana absolvimus hunc Cursum philosophicum primo quadrante ad tertiam Plassii. (Hoc nomen Plassii videtur indicare professorem, qui hunc discursum praelegit. Qua de re, quod in illo tempore Salisburgi non erat professor nomine Plassius aut Plass, codex noster lectiones non Salisburgi habitas exhibet.) Idem indicat forma tegumenti et Latinitas codicis nostri.",
+    "notes": "Frater Conradus Curtius Anno 1698 die 3 Septembris. \ntype: illustration; locus: S. 154; subject: Aufbau des Auges \nFrater Conradus Curtius Professus Aae (= Aureae aut Stae = Sanctae) Coronae. \nF. C. C. P. S. C.",
+    "physical": "Papier \n874 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "874 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1698.\n\na) **Fünfte Abhandlung über die Seele oder Animastik, über den Körper als beseelten:** S. 1–356. Anfang S. 1: Wir wenden uns dem edleren Teil des Menschen zu..... Vermerk des Schreibers am oberen Rand von S. 109: **Frater Conradus Curtius, 3. September 1698.** Auf S. 154 befindet sich außerdem eine Skizze des Aufbaus des Auges.\n\nb) **Letzte metaphysische Abhandlung:** S. 373–464. Anfang: Metaphysik heißt gleichsam die über die Physik hinausgehende Wissenschaft..... Schluss: **Am 4. Oktober nachmittags beendeten wir diesen philosophischen Kurs, im ersten Viertel nach zwei, unter Plassius.** Der Name Plassius scheint den Professor zu bezeichnen. Da damals in Salzburg kein Professor dieses Namens bekannt ist, stammen die Vorlesungen offenbar nicht aus Salzburg; darauf weisen auch Einband und Latein hin.\n\n**Dritter Teil des philosophischen Kurses und der Disputationen, der die übrigen physikalischen Abhandlungen umfasst:** S. 483–863.\n\nc) **Erste Abhandlung über Himmel und Welt:** S. 485–593.\n\nd) **Zweite Abhandlung zum ersten Buch Über Werden und Vergehen:** S. 593–728.\n\ne) **Dritte Abhandlung über die Elemente:** S. 728–773. Vermerk am unteren Rand von S. 773: **Frater Conradus Curtius Professus Aae (= Aureae oder Stae = Sanctae) Coronae.** Der Schreiber war also Profess des Zisterzienserklosters Goldenkron/Heiligenkron in Böhmen.\n\nf) **Vierte Abhandlung über die Meteore:** S. 791–863. Initialen des Schreibers S. 791: **F. C. C. P. S. C. = Frater Conradus Curtius Professus Sanctae Coronae.**\n\nDie Nummerierung der Abhandlungen zeigt, dass sie ursprünglich in anderer Reihenfolge diktiert wurden und erst beim Zusammenstellen des Codex umgeordnet wurden. Daher steht auch die Gesamtüberschrift nicht am Anfang, sondern in der Mitte des Codex auf S. 483.",
+    "latin": "874 pagg.; teg. b1; script. 1698\n\na) Discursus Quintus De Anima, sive Animastica De corpore ut animato: p. 1–356. Initium p. 1: Nobiliorem hominis partem aggredimur.....  \nNota scribentis in margine superiore p. 109: Frater Conradus Curtius Anno 1698 die 3 Septembris.  \nAdverte etiam adumbrationem structurae oculi p. 154!\n\nb) Discursus ultimus Metaphysicus: p. 373–464. Initium: Metaphysica dicitur quasi trans- et ultra physicam scientia..... Clausula: Die quarta Octobris hora pomeridiana absolvimus hunc Cursum philosophicum primo quadrante ad tertiam Plassii. (Hoc nomen Plassii videtur indicare professorem, qui hunc discursum praelegit. Qua de re, quod in illo tempore Salisburgi non erat professor nomine Plassius aut Plass, codex noster lectiones non Salisburgi habitas exhibet.) Idem indicat forma tegumenti et Latinitas codicis nostri.\n\nCursus et Discursus Philosophici Pars Tertia Complectens reliquos Tractatus Physicae: p. 483–863\n\nc) Discursus Primus De Coelo et Mundo: p. 485–593. Initium: Postquam Aristoteles in libris 8 physicorum disputasset......\n\nd) Discursus Secundus In librum primum de ortu et interitu: p. 593–728. Initium: Ait hic Aristoteles de variis speciebus....\n\ne) Discursus tertius De Elementis: p. 728–773. Initium p. 729: Postquam Philosophus in libro primo de ortu et interitu egisset.....  \nNota in margine inferiore p. 773: Frater Conradus Curtius Professus Aae (= Aureae aut Stae = Sanctae) Coronae. Erat igitur scriptor huius codicis professus monasterii Ad Auream (vel Sanctam) Coronam nuncupati, dioeceseos Budovissensis in Bohemia, Ordinis Cisterciensium. Quod monasterium vulgo dicebatur Heilig-kron aut Golden-kron.\n\nf) Discursus Quartus De Metheoris Physicae: p. 791–863. Litterae initiales scriptoris in margine inferiore p. 791: F. C. C. P. S. C. = Frater Conradus Curtius Professus Sanctae Coronae. Initium Discursus quarti In quatuor libros Metheoro-logicos p. 793: Post tractationem de Elementis seu corporibus simplicibus,.....  \nNumeri discursuum indicant, hos discursus non eo ordine, quo in codice nostro inveniuntur, dictatos esse, sed seriem partium, cum ad codicem iungerentur, mutatam esse. Qua de causa etiam inscriptio codicis non in initio, sed in medio codicis (p. 483) invenitur."
   }
 }

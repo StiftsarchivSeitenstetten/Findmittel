@@ -10,39 +10,46 @@ ms_identifier:
   idno: MN III 74
 ms_contents:
   items:
-  - label: "a"
-    title: "Proprietates digniores"
-    locus: "S. 5–6"
-    note: "Hebraice – Latine."
-  - label: "b"
-    title: "Diversa consilia practica et praecepta medicinalia"
-    title_type: "supplied"
-    locus: "S. 7–16"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "c"
-    title: "Anleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren"
-    locus: "S. 17–24"
-    note: "Tractatus mutilus."
-  - label: "d"
-    title: "Iterum diversa consilia practica"
-    title_type: "supplied"
-    locus: "S. 27–33"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "e"
-    title: "Consilia ad epistolas officiales recte scribendas"
-    title_type: "supplied"
-    locus: "S. 119–121"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "f"
-    title: "Diversa carmina Germanica"
-    title_type: "supplied"
-    locus: "S. 127–154"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; mit einzelnen lateinischen Versen und Aussprüchen."
-  - label: "g"
-    title: "Iterum diversa consilia practica"
-    title_type: "supplied"
-    locus: "S. 1–8, 28 (= 181–188, 208)"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+  - label: a
+    title: Proprietates digniores
+    locus: p. 5–6
+    note: Hebraice – Latine.
+    title_status: unspecified
+  - label: b
+    title: Diversa consilia practica et praecepta medicinalia
+    locus: p. 7–16
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: Anleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren
+    locus: p. 17–24
+    note: Tractatus mutilus.
+    title_status: unspecified
+  - label: d
+    title: Iterum diversa consilia practica
+    locus: p. 27–33
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: e
+    title: Consilia ad epistolas officiales recte scribendas
+    locus: p. 119–121
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: f
+    title: Diversa carmina Germanica
+    locus: p. 127–154
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; mit einzelnen lateinischen Versen und Aussprüchen.
+    title_status: supplied
+    title_source: cataloguer
+  - label: g
+    title: Iterum diversa consilia practica
+    locus: p. 1–8, 28
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

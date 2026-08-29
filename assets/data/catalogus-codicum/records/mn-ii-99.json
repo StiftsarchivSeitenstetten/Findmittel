@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-99",
   "signature": "MN II 99",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "63",
   "heading": {
     "title": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1669"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–135r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Hunc tractatum ita absolvit Sanctus Doctor......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Hunc tractatum ita absolvit Sanctus Doctor......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,14 +81,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 138r–167v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae in quaestionem 90 S",
+          "text": "Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Disputationis Primae in quaestionem 90 S",
+        "text": "Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -178,13 +209,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 99",
     "titles": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam \nTractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam \nTractatus De Legibus",
-    "persons": "Fr. Ambrosius Marholt Schreiber scribe \nP. Benedictus Pettschacher author or lecturer author_or_lecturer",
-    "incipits": "",
+    "persons": "Fr. Ambrosius Marholt Schreiber scribe  \nP. Benedictus Pettschacher author or lecturer author_or_lecturer St. Lambrecht",
+    "incipits": "Hunc tractatum ita absolvit Sanctus Doctor...... \nDoctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n170 Blätter \ncode: a2; description: Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "MS. Reverendissimi Marholt Seittenstettensis sub P. Pettschacher de Vitiis et peccatis ac Legibus 1669.",
+    "physical": "Papier \n170 Blätter \ncode: a2; description: Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "170 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.\n\na) **Abhandlung über Laster und Sünden zur Prima Secundae des hl. Thomas, von Frage 71 bis Frage 90:** fol. 1–135r. Anfang fol. 1r: **Der heilige Lehrer schließt diese Abhandlung folgendermaßen ab......**\n\nb) **Abhandlung über die Gesetze:** fol. 138r–167v. Anfang der ersten Disputation zu Frage 90 des heiligen Lehrers **Über das Gesetz im Allgemeinen**, fol. 138r: **Du wirst zunächst fragen, ob das Gesetz ein Akt der Vernunft oder des Willens sei?.....**\n\nRückenaufschrift: **Handschrift des hochwürdigsten Marholt aus Seitenstetten unter P. Pettschacher über Laster und Sünden sowie Gesetze, 1669.**\n\nDer Schreiber ist also **Fr. Ambrosius Marholt** (siehe zu Codex MN II 98), der Verfasser hingegen **P. Benedictus Pettschacher**, Profess des Klosters St. Lambrecht in der Steiermark.\n\nDieselben Vorlesungen findet man in den Codices MN II 103 und MN II 111.",
+    "latin": "170 foll.; teg. a2 (ut in codice MN II 98); script. 1669\n\na) Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam: fol. 1–135r. _Initium_ fol. 1r: Hunc tractatum ita absolvit Sanctus Doctor......\n\nb) Tractatus De Legibus: fol. 138r–167v. _Initium_ Disputationis Primae in quaestionem 90 S: Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....\n\nInscriptio dorsi: MS. Reverendissimi Marholt Seittenstettensis sub P. Pettschacher de Vitiis et peccatis ac Legibus 1669.\n\nScriptor igitur est **Fr. Ambrosius Marholt** (vide ad cod. MN II 98!), auctor autem **P. Benedictus Pettschacher**, Monachus ad S. Lambertum in Styria professus.\n\nEasdem lectiones invenies in codicibus MN II 103 et 111."
   }
 }

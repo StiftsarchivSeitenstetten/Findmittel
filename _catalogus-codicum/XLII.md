@@ -10,10 +10,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: XLII
 ms_contents:
-  title: Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.
   items:
   - label: a
-    title: Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.
+    title: Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis.
+      Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur.
+      Opus in Volumina VII Distributum.
+    title_status: unspecified
+    locus: p. 75–76
 phys_desc:
   object_form: codex
   support: Papier

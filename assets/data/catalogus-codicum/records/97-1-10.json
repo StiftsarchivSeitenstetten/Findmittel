@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-10",
   "signature": "97.1.10",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "47–48",
   "heading": {
     "title": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1656 (laut Titel)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1r–439v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,6 +75,7 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
         "typeRaw": "supplied",
@@ -75,6 +83,9 @@
       },
       "locus": "24 Blätter",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -165,13 +176,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/97-1-10/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.10",
     "titles": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656. \nCodex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656. \nIndex",
-    "persons": "Joannes Baptista Suttinger Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "Joannes Baptista Suttinger Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied. Die Materien sind alphabetisch geordnet. \nVom Katalog verwendete strukturelle Inhaltsbezeichnung.",
-    "physical": "Papier \n439 foll. et 24 foll. Index; numerus annalis, linea obsoleta restituitur: 1774 \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "physical": "Papier \n439 foll. et 24 foll. Index; numerus annalis, linea obsoleta restituitur: 1774 \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Folioformat; 439 Blätter sowie 24 Blätter Register; Einband wie beim vorhergehenden Codex 97.1.11. Die Jahreszahl ist wegen einer verblassten Linie zu 1774 zu ergänzen.\n\n**Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.**\n\nAuf dem Titelblatt der Besitzvermerk: **ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709**, mit anderer Tinte als der Haupttext.\n\nDie Materien sind alphabetisch geordnet.",
+    "latin": "fol.; 439 foll. et 24 foll. Index; teg. ut supra in cod. 97.1.11; numerus annalis, linea obsoleta restituitur: 1774\n\nCodex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch **Joannem Baptistam Suttinger** der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.\n\nNota in pagina titulari: ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709 (alio atramento, quam quo ipse codex scriptus est).\n\nRes gerendae in hoc codice ordine alphabetico dispositae sunt.\n\n\n<!-- PDF-Seite 52 -->"
   }
 }

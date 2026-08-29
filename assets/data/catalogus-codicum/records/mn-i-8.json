@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-8",
   "signature": "MN I 8",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "204–205",
   "heading": {
     "title": "Episcoporum Laureacensium Pataviensiumque Catalogus",
-    "titleTypeRaw": "supplied_from_main_item",
-    "titleTypeLabel": "supplied from main item",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1723 oder wenig später"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Episcoporum Laureacensium Pataviensiumque Catalogus",
-    "titleTypeRaw": "supplied_from_main_item",
-    "titleTypeLabel": "supplied from main item",
-    "translation": "Katalog der Bischöfe von Lorch und Passau",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
     "summary": "",
-    "language": "",
+    "language": "la; de",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Dedicatio operis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–2",
+      "locus": "p. 1–2",
       "language": "la",
+      "incipits": [
+        {
+          "text": "Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae..."
+        "text": "Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae...",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -84,13 +97,17 @@
       "id": "item-b",
       "label": "b",
       "type": "index",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–4",
+      "locus": "p. 3–4",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -107,13 +124,17 @@
       "id": "item-c",
       "label": "c",
       "type": "index",
+      "physicalUnit": "",
       "title": {
         "text": "Summi Templi Pataviensis Praepositorum Index",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–10",
+      "locus": "p. 5–10",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -135,13 +156,17 @@
       "id": "item-d",
       "label": "d",
       "type": "index",
+      "physicalUnit": "",
       "title": {
         "text": "Summi Templi Pataviensis Decanorum Index",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 12–17",
+      "locus": "p. 12–17",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -163,13 +188,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Episcoporum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu recognitus ac interpolatus",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 19–288",
+      "locus": "p. 19–288",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -336,13 +365,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-8/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 8",
-    "titles": "Episcoporum Laureacensium Pataviensiumque Catalogus \nKatalog der Bischöfe von Lorch und Passau \nDedicatio operis \nIndex \nSummi Templi Pataviensis Praepositorum Index \nSummi Templi Pataviensis Decanorum Index \nEpiscoporum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu recognitus ac interpolatus",
-    "persons": "Kaspar Bruschius poeta laureatus; author poeta laureatus; author \nLaurentius Hochwart reviser; Passauer Kanoniker reviser; Passauer Kanoniker \nLaurentius Hochwart Autor author \nKaspar Bruschius original compiler original_compiler \nLaurentius Hochwart reviser reviser \nunbekannt continuator continuator",
+    "titles": "Episcoporum Laureacensium Pataviensiumque Catalogus \nDedicatio operis \nIndex \nSummi Templi Pataviensis Praepositorum Index \nSummi Templi Pataviensis Decanorum Index \nEpiscoporum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu recognitus ac interpolatus",
+    "persons": "Kaspar Bruschius poeta laureatus; author poeta laureatus; author  \nLaurentius Hochwart reviser; Passauer Kanoniker reviser; Passauer Kanoniker  \nLaurentius Hochwart Autor author  \nKaspar Bruschius original compiler original_compiler  \nLaurentius Hochwart reviser reviser  \nunbekannt continuator continuator ",
     "incipits": "Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae...",
     "explicits": "",
-    "notes": "Widmung an Propst, Dekan, Senior und gesamtes Kapitel der Passauer Kirche. \nVerzeichnet ausschließlich die Namen der Passauer Bischöfe. \nVerzeichnis der Pröpste der Passauer Domkirche \nVerzeichnis der Dekane der Passauer Domkirche \nKatalog der Bischöfe von Lorch und Passau, zuerst herausgegeben vom Dichter Bruschius und von Laurentius Hochwart auf Befehl seiner Vorgesetzten überprüft und ergänzt \nDie Fortsetzung bis 1605 kann nicht von Laurentius Hochwart stammen, da dieser 1570 starb. \nDie Datierung 1723 oder wenig später beruht auf der Tatsache, dass Teil c bis 1723 reicht und der gesamte Codex von derselben Hand geschrieben wurde. \nDer Katalog unterscheidet mehrere Werkstufen: Bruschius um 1550, Hochwarts Überarbeitung 1553, eine anonyme Fortsetzung bis 1605 sowie eine weitere Ergänzung der Pröpste und Dekane bis 1723 bzw. 1716.",
-    "physical": "Papier \n292 Seiten \nFolio \nlocus: Teil e; description: Nur die äußere Hälfte der Seiten ist beschrieben. \ncode: c2; description: Marmorierter Pappeinband."
+    "notes": "la; de \nWidmung an Propst, Dekan, Senior und gesamtes Kapitel der Passauer Kirche. \nVerzeichnet ausschließlich die Namen der Passauer Bischöfe. \nVerzeichnis der Pröpste der Passauer Domkirche \nVerzeichnis der Dekane der Passauer Domkirche \nKatalog der Bischöfe von Lorch und Passau, zuerst herausgegeben vom Dichter Bruschius und von Laurentius Hochwart auf Befehl seiner Vorgesetzten überprüft und ergänzt \nDie Fortsetzung bis 1605 kann nicht von Laurentius Hochwart stammen, da dieser 1570 starb. \nDie Datierung 1723 oder wenig später beruht auf der Tatsache, dass Teil c bis 1723 reicht und der gesamte Codex von derselben Hand geschrieben wurde. \nDer Katalog unterscheidet mehrere Werkstufen: Bruschius um 1550, Hochwarts Überarbeitung 1553, eine anonyme Fortsetzung bis 1605 sowie eine weitere Ergänzung der Pröpste und Dekane bis 1723 bzw. 1716. \nEin wohl zu bewahrendes Manuscript.",
+    "physical": "Papier \n292 Seiten \nFolio \nlocus: Teil e; description: Nur die äußere Hälfte der Seiten ist beschrieben. \ncode: c2; description: Marmorierter Pappeinband.",
+    "german": "Folioformat; 292 Seiten; marmorierter Pappeinband; geschrieben 1723 oder wenig später.\n\na) (Widmung des Werkes): S. 1–2.\n\n*Den ehrwürdigen Vätern in Christus und Herren, dem Propst, Dekan, Senior und dem gesamten Kapitel der Passauer Kirche entbietet Laurentius Hochwart aus Tirschenreuth seinen Gruß. Der Dichter Bruschius hat die Passauer Bischöfe herausgegeben und sie euch, hochwürdigste Väter, gewidmet. Da er jedoch darin aufgrund dichterischer Freiheit einige Unebenheiten und rauhe Stellen eingestreut hat, die einen Gelehrten stören könnten, wünschte Eure ehrwürdige Vaterschaft, dass ich den Band überprüfe und diese rauhen Stellen glätte und einebne ..... Es sind jedoch so wenige Dinge, die um der historischen Richtigkeit willen in diesem Büchlein hinzugefügt, entfernt oder verändert worden sind, dass Bruschius erkennen müsste, dass ihm dadurch keine Kränkung, sondern ein Dienst erwiesen worden ist. Dies lege ich euch, meinen hochverehrten Vätern und Herren, wiederum zur Beurteilung und Begutachtung vor und empfehle mich demütig zu jeglichem Gehorsam und Dienst. Gegeben zu Passau an den Kalenden des November im Jahre des Herrn 1553.*\n\nb) Register (das lediglich die Namen der Passauer Bischöfe zusammenstellt): S. 3–4.\n\nc) Verzeichnis der Pröpste der Passauer Domkirche: S. 5–10 (bis zum Jahr 1723!).\n\nd) Verzeichnis der Dekane der Passauer Domkirche: S. 12–17 (bis 1716!).\n\ne) **Katalog der Bischöfe von Lorch und Passau, zuerst herausgegeben vom Dichter Bruschius und von Laurentius Hochwart auf Befehl seiner Vorgesetzten überprüft und ergänzt:** S. 19–288.\n\n(Kaspar) **Bruschius**, gekrönter Dichter, veröffentlichte um das Jahr 1550 das historische Werk *De Laureaco et de Patavio* („Über Lorch und Passau“), in das er auch einen Bischofskatalog aufnahm. Diesen Katalog überprüfte **Laurentius Hochwart**, geboren in Tirschenreuth in der Oberpfalz (daher *thyrsonrutinus*!), der im Jahr 1549 zum Passauer Kanoniker ernannt worden war, im Jahr 1553 auf Befehl seiner Vorgesetzten. Doch auch diese Überarbeitung setzte ein mir unbekannter Verfasser – gewiss nicht Laurentius Hochwart selbst, da dieser bereits im Jahr 1570 gestorben war – bis zum Jahr 1605 fort (siehe S. 288!). Dass diese Fortsetzung ungefähr zu jener Zeit verfasst wurde, ist daraus zu schließen, dass auf S. 288 über den im Jahr 1598 verstorbenen Bischof Urban gesagt wird: *Noch immer trauern um ihn und beweinen ihn seine Diener, die Bürger und die Untertanen.* Diesem fortgesetzten Werk wiederum stellte ein vierter Verfasser ein Verzeichnis der Passauer Pröpste bis zum Jahr 1723 und der Dekane bis zum Jahr 1716 voran.\n\nDa der gesamte Codex von ein und derselben Hand geschrieben wurde, kann er nicht vor dem Jahr 1723 entstanden sein. Der Schreiber ist unbekannt.\n\nVermerk auf der Innenseite des Vorderdeckels: **Ein wohl zu bewahrendes Manuscript.**\n\nÜber den Dichter Bruschius siehe *Allgemeine Deutsche Biographie*, Bd. III, Leipzig 1876, S. 453–455, s. v. Brusch: Kaspar (von Horawitz); über Laurentius Hochwart ebenda, Bd. XII, Leipzig 1880, S. 529–530, s. v. Hochwart: Lorenz (von Oefele).\n\nIn Teil e ist jeweils nur die äußere Hälfte der Seiten beschrieben.",
+    "latin": "fol., 292 pagg.; teg. c2; script. 1723 aut paulo post\n\na) (Dedicatio operis): p. 1–2.\n\n*Reverendis in Christo Patribus, et Dominis Praeposito, Decano, Seniori, totique Capitulo Pataviensis Ecclesiae, Laurentius HochWartus thyrsonrutinus Salutem Dicit. Bruschius Poeta Passavienses Episcopos vobis Patribus amplissimis inscriptos edidit. Cum vero illic pro poetica Licentia remoras et Salebras quasdam asperas intersperserit, quae Doctorem offendere possint: voluit Reverenda Paternitas Vestra ut recognito volumine, asperitudines ipsas levigatas complanarem..... Sunt autem tam pauca, quae pro Rerum certitudine vel addita, vel ablata, vel imitata sunt in Libello, ut Bruchius (!) non offensionem, sed officium sibi factum agnoscere debeat. Id, quod vobis Patribus meis, et Dominis observandissimis iterum dijudicandum, et censendum offero, me ad omnem obedientiam, et obsequium humiliter commendans. Datum Pataviae Calendis Novembribus Anno Domini M. D: L III (1553).*\n\nb) Index (qui sola nomina Episcoporum Pataviensium congerit): p. 3–4\n\nc) Summi Templi Pataviensis Praepositorum Index: p. 5–10 (usque ad annum 1723!)\n\nd) Summi Templi Pataviensis Decanorum Index: p. 12–17 (usque 1716!)\n\ne) **Episc(op)orum Laureacensium Pataviensiumque Catalogus à Bruschio Poeta primum aeditus, ac à Laurentio HochWarto majorum Suorum jussu recognitus ac interpolatus:** p. 19–288.\n\n(Caspar) **Bruschius**, poeta laureatus, circa annum 1550 opus historicum *De Laureaco et de Patavio* edidit, cui etiam catalogum episcoporum inseruit. Quem catalogum **Laurentius HochWart**, natus in loco Tirschenreut in Palatinatu Superiore (ideoque thyrsonrutinus!), anno 1549 canonicus Pataviensis creatus, anno 1553 iussu Superiorum recognovit. Sed et hanc recognitionem nescio quis auctor (certo non ipse Laurentius Hochwart, quippe qui iam anno 1570 mortuus sit) usque ad annum 1605 (vide p. 288!) continuavit. Quam continuationem fere illo tempore factam esse, ex eo coniiciendum est, quod p. 288 de episcopo Urbano anno 1598 mortuo dicitur: *Lugent ipsum adhuc et deflent famuli, Cives, et Subditi.* Sed et huic operi continuato quartus auctor Indicem Praepositorum Pataviensium usque ad annum 1723 et Decanorum usque ad annum 1716 anteposuit.\n\nQuod totus codex ab una eademque manu scriptus est, non potest ortus esse ante annum 1723. Scriptor ignotus.\n\nNota in parte adversa tegumenti ab intrinsecus: **Ein wohl zu bewahrendes Manuscript.**\n\nDe Bruschio Poeta vide *Allgemeine Deutsche Biographie*, Tom. III, Lipsiae 1876, p. 453–455 s. v. Brusch: Kaspar (auctore Horawitz), de Laurentio Hochwart ibidem, Tom. XII, Lipsiae 1880, p. 529–530 s. v. Hochwart: Lorenz (auctore de Oefele).\n\nIn parte e nonnisi exterius dimidium paginarum inscriptum est."
   }
 }

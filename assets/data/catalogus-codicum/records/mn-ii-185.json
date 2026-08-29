@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-185",
   "signature": "MN II 185",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "140",
   "heading": {
     "title": "Tractatus De Sacramentis in Genere",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1693"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Sacramentis in Genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–373",
+      "locus": "p. 1–373",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii Tractatus De Sacramentis in Genere",
+          "text": "p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 373",
+          "text": "absolvimus die 16. Maii Anno 1693.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii Tractatus De Sacramentis in Genere",
+        "text": "p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 373",
+        "text": "absolvimus die 16. Maii Anno 1693.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,13 +95,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Baptismo et Confirmatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 374–479",
+      "locus": "p. 374–479",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -86,13 +117,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Venerabili Eucharistia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 481–602",
+      "locus": "p. 481–602",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -197,13 +232,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 185",
     "titles": "Tractatus De Sacramentis in Genere \nTractatus De Sacramentis in Genere \nTractatus De Baptismo et Confirmatione \nTractatus De Venerabili Eucharistia",
-    "persons": "P. Edmund Ruedorffer Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Edmund Ruedorffer Dozent lecturer Kloster Lambach / Universität Salzburg \nunbekannt Schreiber scribe ",
+    "incipits": "p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,.....",
+    "explicits": "absolvimus die 16. Maii Anno 1693.",
     "notes": "",
-    "physical": "Papier \n604 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken ist mit schwarzen Verzierungen versehen."
+    "physical": "Papier \n604 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken ist mit schwarzen Verzierungen versehen.",
+    "german": "604 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken, der Rücken mit schwarzen Verzierungen; geschrieben 1693.\n\na) **Abhandlung über die Sakramente im Allgemeinen**, verfasst bzw. vorgetragen von P. Edmund Ruedorffer, Benediktiner des Klosters Lambach, Doktor der heiligen Theologie und ordentlicher Professor in Salzburg, 1693: S. 1–373. Anfang der Vorrede S. 3: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss..... Schluss S. 373: **Wir beendeten [dies] am 16. Mai 1693.**\n\nb) **Abhandlung über Taufe und Firmung:** S. 374–479. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....\n\nc) **Abhandlung über die ehrwürdige Eucharistie:** S. 481–602. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....\n\nDa die einzelnen Vorlesungsabschnitte im ganzen Codex in einer einzigen fortlaufenden Reihe nummeriert sind – so endet Teil a mit Abschnitt 557 und Teil b beginnt mit Abschnitt 558 –, hat P. Edmund Ruedorffer ohne Zweifel den gesamten Codex diktiert. Der Schreiber ist unbekannt.\n\nDieselben Abhandlungen enthalten MN II 176 und MN II 189.",
+    "latin": "604 pagg.; teg. c2d (cum dorso nigris ornamentis decorato); 1693\n\na) Tractatus De Sacramentis in Genere Authore ..... P. Edmundo Ruedorffer Benedictino ex Celeberrimo Monasterio Lambacensi, Sacrosanctae Theologiae Doctore, et Professore Salisburgensi ordinario. 1693: p. 1–373. Initium Prooemii Tractatus De Sacramentis in Genere: p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,..... Clausula p. 373: absolvimus die 16. Maii Anno 1693.\n\nb) Tractatus De Baptismo et Confirmatione: p. 374–479. Initium Controversiae primae. De Baptismo. Inter Sacramenta in Specie merito.....\n\nc) Tractatus De Venerabili Eucharistia: p. 481–602. Initium Controversiae primae. De Venerabili Eucharistia, prout est Sacramentum. Omissis variis nominibus, quibus appellari solet Eucharistia,.....\n\nQuod toto in codice nostro sectiones lectionum in margine una eademque serie numerantur (ex. gr. tractatus a sectione n. 557 finitur, tractatus b sectione n. 558 incipit!), P. Edmundus Ruedorffer sine dubio totum codicem dictavit. Scriptor autem ignotus. Eosdem tractatus exhibent codices MN II 176 (supra p. 135) et MN II 189 (quem vide inferius!)."
   }
 }

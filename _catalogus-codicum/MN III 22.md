@@ -9,12 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 22
 ms_contents:
-  title: "Liber 4. Decretalium"
   items:
-  - label: "a"
-    title: "Liber 4. Decretalium"
-    locus: "S. 1–188"
-    incipit: "Sponsalia a spondendo dicta:....."
+  - label: a
+    title: Liber 4. Decretalium
+    locus: p. 1–188
+    incipits:
+    - text: Sponsalia a spondendo dicta:.....
+      label: Tituli 1. De sponsalibus et matrimonio
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

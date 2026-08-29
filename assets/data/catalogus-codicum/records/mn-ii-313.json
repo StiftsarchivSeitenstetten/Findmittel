@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-313",
   "signature": "MN II 313",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "279–280",
   "heading": {
     "title": "Regula Sancti Patris Nostri Benedicti, Abbatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1847"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Regula Sancti Patris Nostri Benedicti, Abbatis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Regula Sancti Patris Nostri Benedicti, Abbatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–84",
+      "locus": "fol. praeliminari: Fr",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -143,13 +150,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-313/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 313",
     "titles": "Regula Sancti Patris Nostri Benedicti, Abbatis \nRegula Sancti Patris Nostri Benedicti, Abbatis",
-    "persons": "Fr. Josephus Krenn Schreiber scribe \nS. Benedictus Abbas source author source_author",
+    "persons": "Fr. Josephus Krenn Schreiber scribe Stift Seitenstetten \nS. Benedictus Abbas source author source_author ",
     "incipits": "",
     "explicits": "",
     "notes": "Nach der Ordnung der Regel-Lesung in Chor und Refektorium gegliedert; jedem Kapitel ist ein elegisches Distichon vorangestellt, den Abschnitten folgen zusammenfassende trochäische Tetrameter. \nwithout_prologue",
-    "physical": "Papier \n84 pagg. \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierung siehe Katalogtext."
+    "physical": "Papier \n84 pagg. \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierung siehe Katalogtext.",
+    "german": "84 Seiten; schwarzer Ledereinband mit vergoldeter Randlinie; geschrieben 1847.\n\n**Regel unseres heiligen Vaters Benedikt, des Abtes.**\n\n**Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.**\n\nSiehe auch auf einem Vorsatzblatt: **Fr. Joseph. Seitenstetten 1847.**\n\nDieses Büchlein wurde von jenem Novizen sorgfältig geschrieben. Es enthält die Regel des hl. Benedikt ohne den Prolog, jedoch nach jener Ordnung gegliedert, die beim Lesen der Regel im Chor und bei Tisch befolgt wird.\n\nJedem Kapitel der Regel ist außerdem ein elegisches Distichon vorangestellt; den einzelnen Abschnitten folgen jeweils einige trochäische Tetrameter, welche den Inhalt des betreffenden Kapitels oder Abschnitts zusammenfassen.\n\nDiese Verse finden sich bereits in älteren Ausgaben der Benediktsregel, etwa in jener, die 1730 in Bonn auf Kosten Leonard Rommerskirchens erschien.",
+    "latin": "84 pagg.; teg. b2 linea marginali aurata ornatum; script. 1847\n\n**Regula Sancti Patris Nostri Benedicti, Abbatis.**\n\n**Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.**\n\n(Vide etiam in fol. praeliminari: **Fr. Joseph. Seitenstetten 1847.**)\n\nContinet hic libellus ab illo novitio diligenter scriptus Regulam S. Benedicti sine Prologo, sed divise secundum ordinem, qui in lectione S. Regulae in choro et ad mensam servatur. Praemittuntur insuper singulis capitibus S. Regulae singula disticha elegiaca et adduntur singulis divisionibus aliquot tetrametri trochaici, qui argumentum illius capitis aut divisionis componunt. Versus illi iam in vetustioribus editionibus S. Regulae inveniuntur, ex. gr. in illa, quae Bonnae, Sumptibus Leonardi Rommerskirchen, Anno M.D.CC.XXX (1730) in lucem evenit."
   }
 }

@@ -9,17 +9,32 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 149
 ms_contents:
-  title: Tractatus In Tertiam Divi Thomae partem De Incarnatione
   items:
   - label: a
     title: Tractatus In Tertiam Divi Thomae partem De Incarnatione
-    locus: fol. 1r–259v
+    locus: fol. 1r
     start_date: '1687-11-07'
     end_date: '1688-08-28'
     lecture_count: 150
+    incipits:
+    - locus: fol. 1r
+      label: Tractatus De Incarnatione
+      text: Tertiam Divi Thomae partem favente Deo auspicamur....
+    colophons:
+    - locus: fol. 259v
+      text: In universim (!) 150 Lectiones. Die 28. Augusti 1688. Finis.
+    title_status: unspecified
+    notes:
+    - (Sequitur fol. 261r–268r Index super Tractatum de Incarnatione)
   - label: b
     title: Index super Tractatum de Incarnatione
-    locus: fol. 261r–268r
+    locus: fol. VIIr
+    colophons:
+    - locus: fol. 259v
+      text: In universim (!) 150 Lectiones. Die 28. Augusti 1688. Finis.
+    title_status: unspecified
+    notes:
+    - (Sequitur fol. 261r–268r Index super Tractatum de Incarnatione)
 phys_desc:
   object_form: codex
   support: Papier

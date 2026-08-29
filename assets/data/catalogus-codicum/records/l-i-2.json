@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "l-i-2",
   "signature": "L I. 2",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "264–265",
   "heading": {
     "title": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1785/1805"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–364",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -142,13 +149,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/l-i-2/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "L I. 2",
     "titles": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II. \nCodicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.",
-    "persons": "P. Rudolphus Kapeller Autor author \nP. Wolfgangus Mitter Autor author \nunbekannt Schreiber scribe",
+    "persons": "P. Rudolphus Kapeller Autor author  \nP. Wolfgangus Mitter Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n364 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \n364 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; 364 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1785/1805.\n\n**Katalog der Handschriften der Bibliothek Seitenstetten, Band II.**\n\nIn der Forschung ist umstritten, ob **P. Rudolphus Kapeller** oder **P. Wolfgangus Mitter**, beide Seitenstettner Mönche, Verfasser dieses zweibändigen Katalogs der mittelalterlichen Handschriften war.\n\nDa der Katalog sowohl Handschriften des 1784 aufgehobenen Chorherrenstifts Ardagger enthält, die damals nach Seitenstetten kamen, als auch einen Codex, der 1805 den Franzosen abgenommen wurde, muss er zwischen 1784 und 1805 geschrieben worden sein.\n\n> **Anmerkung zum Seitenbild:** Bei Datierungen und Signaturen stehen handschriftliche Korrekturzeichen; die gedruckte Lesung wurde beibehalten.",
+    "latin": "fol.; 364 pagg.; teg. b1 cum dorso albo; script. 1785/1805  \n**Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.**\n\nDisputant viri litterati, utrum **P. Rudolphus Kapeller** an **P. Wolfgangus Mitter**, uterque monachus Seitenstettensis, auctor sit huius catalogi librorum in medio aevo manuscriptorum, in duos tomos divisi. Qui catalogus, cum tam codices Ardacensis canoniae, qui canonia illa anno 1784 sublata in bibliothecam Seitenstettensem translati sunt, quam codicem anno 1805 a Francogallis ereptum contineat, inter annos 1784 et 1805 scriptus est.\n\n> **Anmerkung zum Seitenbild:** Bei den Datierungen und Signaturen stehen handschriftliche Korrekturzeichen; die gedruckte Lesung ist hier beibehalten."
   }
 }

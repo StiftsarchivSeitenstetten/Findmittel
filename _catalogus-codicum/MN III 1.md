@@ -9,20 +9,26 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 1
 ms_contents:
-  title: "Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570"
+  title: 'Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen
+    seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570'
   items:
-  - label: "a"
-    title: "Die haubtartickl deß Christlichen glaubens...."
-    locus: "S. 4–137"
-  - label: "b"
-    title: "Bekhanntnus des glaubens, Doctoris martini Lutteri"
-    locus: "S. 138–254"
-  - label: "c"
-    title: "Unterschied rechter und falscher Khirchen"
-    locus: "S. 254–319"
-  - label: "d"
-    title: "Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht"
-    locus: "S. 319–354"
+  - label: a
+    title: Die haubtartickl deß Christlichen glaubens....
+    locus: p. 4 - 137
+    title_status: unspecified
+  - label: b
+    title: Bekhanntnus des glaubens, Doctoris martini Lutteri
+    locus: p. 138 - 254
+    title_status: unspecified
+  - label: c
+    title: Unterschied rechter und falscher Khirchen
+    locus: p. 254 - 319
+    title_status: unspecified
+  - label: d
+    title: 'Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht'
+    locus: p. 319 - 354
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

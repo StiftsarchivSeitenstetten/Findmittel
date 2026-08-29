@@ -14,16 +14,20 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 19"
 ms_contents:
-  overall_title:
-    title: "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807."
-    title_type: "original"
-    language: "de"
-  summary: "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt."
+  summary: Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt.
   responsibility:
-    - role: "translator_or_copyist"
-      name: "Philipp V."
-      certainty: "uncertain"
-      note: "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
+  - role: translator_or_copyist
+    name: Philipp V.
+    certainty: uncertain
+    note: Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung;
+      der volle Name ist unbekannt.
+  items:
+  - title: Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs.
+      Ph. V. 1807.
+    title_status: unspecified
+    languages:
+    - de
+    locus: p. 11
 phys_desc:
   object_form: "codex"
   format: "Großquart"

@@ -13,12 +13,21 @@ ms_contents:
   - label: a
     title: 'Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia'
     locus: fol. 1r–154r
-    incipit: Ingens difficultatum pelagus se nobis aperit
+    incipits:
+    - text: Ingens difficultatum pelagus se nobis aperit,.....
+      label: Proemii
+    title_status: unspecified
   - label: b
     title: Tractatus Scholasticus In Secundam Secundae Doctoris Angelici, Divi Thomae Aquinatis De Fide, Spe, et charitate
     locus: fol. 155v–187v
-    incipit: 'Initium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones'
     end_date_display: 31. August 1714
+    incipits:
+    - text: 'Initium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones'
+    - label: Disputationis primae. De Fide
+      text: Praenotandum, varias esse Fidei acceptiones:.........
+    title_status: unspecified
+    colophons:
+    - text: '1714. 31. Augusti:'
 phys_desc:
   object_form: codex
   support: Papier

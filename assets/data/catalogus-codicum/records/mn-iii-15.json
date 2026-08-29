@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-15",
   "signature": "MN III 15",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "165–166",
   "heading": {
     "title": "Compendium ex Physica P. Coelestini",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1699/1700"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Compendium ex Physica P. Coelestini",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus primus Philosophiae Naturalis seu Physica Generalis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 3–526",
+      "locus": "p. 3–526",
       "language": "",
+      "incipits": [
+        {
+          "text": "obiectum Physicae adaequatum est corpus naturale......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "obiectum Physicae adaequatum est corpus naturale......"
+        "text": "obiectum Physicae adaequatum est corpus naturale......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +83,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus Philosophiae Naturalis de mundo et Coelo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 526–542",
+      "locus": "p. 526–542",
       "language": "",
+      "incipits": [
+        {
+          "text": "Mundum nos sumimus pro eo,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Mundum nos sumimus pro eo,....."
+        "text": "Mundum nos sumimus pro eo,.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -90,15 +113,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus tertius Physicae. De Generatione et Corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 543–572",
+      "locus": "p. 543–572",
       "language": "",
+      "incipits": [
+        {
+          "text": "Generatio tripliciter sumitur.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Generatio tripliciter sumitur......."
+        "text": "Generatio tripliciter sumitur.......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -110,17 +143,35 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Physicae In 3 Libros de anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 572–619",
+      "locus": "p. 572–619",
       "language": "",
+      "incipits": [
+        {
+          "text": "Respondeo animam definiri, quod sit.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "9 Julii 1700.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Respondeo animam definiri, quod sit....."
+        "text": "Respondeo animam definiri, quod sit.....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "9 Julii 1700.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -135,17 +186,37 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Philosophia Transnaturalis seu Metaphysica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 620–629",
+      "locus": "p. 620–629",
       "language": "",
+      "incipits": [
+        {
+          "text": "An ens sit univocum.....",
+          "label": "Disputationis unicae",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "absolvimus 1700 17 Julii die Sabbati.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "An ens sit univocum....."
+        "text": "An ens sit univocum.....",
+        "label": "Disputationis unicae",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "absolvimus 1700 17 Julii die Sabbati.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -160,13 +231,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Quaestiones in Examine propositae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 631–639",
+      "locus": "p. 631–639",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -258,13 +333,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 15",
     "titles": "Compendium ex Physica P. Coelestini \nTractatus primus Philosophiae Naturalis seu Physica Generalis \nTractatus Secundus Philosophiae Naturalis de mundo et Coelo \nTractatus tertius Physicae. De Generatione et Corruptione \nTractatus Physicae In 3 Libros de anima \nPhilosophia Transnaturalis seu Metaphysica \nQuaestiones in Examine propositae",
-    "persons": "P. Coelestinus Romoser de Romoseck Dozent lecturer \nunbekannt Schreiber scribe",
+    "persons": "P. Coelestinus Romoser de Romoseck Dozent lecturer  \nunbekannt Schreiber scribe ",
     "incipits": "obiectum Physicae adaequatum est corpus naturale...... \nMundum nos sumimus pro eo,..... \nGeneratio tripliciter sumitur....... \nRespondeo animam definiri, quod sit..... \nAn ens sit univocum.....",
-    "explicits": "",
+    "explicits": "9 Julii 1700. \nabsolvimus 1700 17 Julii die Sabbati.",
     "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.",
-    "physical": "Papier \n8° min., 650 pagg. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8° min., 650 pagg. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Kleines Oktavformat; 650 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1699/1700.\n\n**Kompendium aus der Physik des P. Coelestin**, also aus den Vorlesungen, die P. Coelestinus Romoser von Romoseck, Profess von Admont, im Studienjahr 1699/1700 in Salzburg hielt.\n\na) **Erste Abhandlung der Naturphilosophie oder allgemeine Physik:** S. 3–526. Anfang: Der adäquate Gegenstand der Physik ist der Naturkörper......\n\nb) **Zweite Abhandlung der Naturphilosophie über Welt und Himmel:** S. 526–542. Anfang: Unter Welt verstehen wir.....\n\nc) **Dritte Abhandlung der Physik über Werden und Vergehen:** S. 543–572. Anfang: Werden wird in dreifacher Weise verstanden.......\n\nd) **Abhandlung der Physik zu den drei Büchern Über die Seele:** S. 572–619. Anfang: Ich antworte, die Seele werde definiert als..... Schluss: **9. Juli 1700.**\n\ne) **Übernatürliche Philosophie oder Metaphysik:** S. 620–629. Anfang der einzigen Disputation: Ob das Seiende univok sei..... Schluss: **Wir beendeten [dies] 1700 am Samstag, dem 17. Juli.**\n\nf) **Prüfungsfragen:** S. 631–639.\n\nDerselbe Philosophiestudent schrieb auch den vorausgehenden Codex. Wer dieser Schreiber war, bleibt unbekannt.",
+    "latin": "8° min., 650 pagg.; teg. a1; script. 1699/1700\n\nCompendium ex Physica P. Coelestini (id est lectionum, quas P. Coelestinus Romoser de Romoseck professus Admontensis Salisburgi habuit anno scholari 1699/1700.)\n\na) (Tractatus primus Philosophiae Naturalis seu Physica Generalis): p. 3–526. Initium: obiectum Physicae adaequatum est corpus naturale......\n\nb) Tractatus Secundus Philosophiae Naturalis de mundo et Coelo: p. 526–542. Initium: Mundum nos sumimus pro eo,.....\n\nc) Tractatus tertius Physicae. De Generatione et Corruptione: p. 543–572. Initium: Generatio tripliciter sumitur.......\n\nd) Tractatus Physicae In 3 Libros de anima: p. 572–619. Initium: Respondeo animam definiri, quod sit..... Clausula: 9 Julii 1700.\n\n\n\n\ne) Philosophia Transnaturalis seu Metaphysica: p. 620–629. Initium Disputationis unicae: An ens sit univocum..... Clausula: absolvimus 1700 17 Julii die Sabbati.\n\nf) Quaestiones in Examine propositae: p. 631–639.\n\nIdem studiosus philosophiae etiam codicem praecedentem conscripsit. At incertum, quis fuerit ille scriptor."
   }
 }

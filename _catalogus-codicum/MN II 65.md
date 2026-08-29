@@ -16,13 +16,26 @@ ms_contents:
   items:
   - label: a
     type: verses
-    locus: S. III
+    locus: p. III
   - label: b
     title: Commentarius In organum Aristotelis Philosophorum Principis
-    locus: S. V, 1–359
+    locus: p. V et 1–359
+    incipits:
+    - locus: p. 1
+      label: Proloquii in Logicam Aristotelis
+      text: Cum Logica modus sit et instrumentum Sciendi.....
+    colophons:
+    - locus: p. 84
+      text: Absolvimus 22 Decembris (1653);
+    - locus: p. 244
+      text: Absolvimus haec postpraedicamenta in Vigilia Sanctissimi Patris nostri Benedicti (20. Martii) Anno 1654.
+    - locus: p. 359
+      text: Absolvimus hanc Logicam 27 Maii Anno 1654.
+    title_status: unspecified
   - label: c
     title: Nomina Convictorum Anno 654. mecum commorentium
     locus: S. 364–367
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Anselm Schlager

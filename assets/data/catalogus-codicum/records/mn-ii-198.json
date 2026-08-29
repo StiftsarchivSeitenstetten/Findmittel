@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-198",
   "signature": "MN II 198",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "149–150",
   "heading": {
     "title": "Conciones quadragesimales",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1697"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "Deutsch",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Conciones quadragesimales",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–277",
+      "locus": "p. 1–277",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -73,13 +80,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Concio coram Venerabili",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 278–300",
+      "locus": "p. 278–300",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -173,13 +184,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-198/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 198",
     "titles": "Conciones quadragesimales \nConciones quadragesimales \nConcio coram Venerabili",
-    "persons": "P. Aloysius Dilatsch (?) preacher preacher \nP. (?) Joseph Nydermayr Schreiber scribe \nP. Felix Fossa preacher preacher",
+    "persons": "P. Aloysius Dilatsch (?) preacher preacher Theatinerorden \nP. (?) Joseph Nydermayr Schreiber scribe  \nP. Felix Fossa preacher preacher Theatinerorden",
     "incipits": "",
     "explicits": "",
     "notes": "Deutsch \nÖffentlich im Salzburger Dom gehalten. \nDie Namensform des Predigers von Teil a ist unsicher; als mögliche Form nennt der Katalog Delagetio.",
-    "physical": "Papier \n302 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n302 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "302 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1697.\n\na) **Fastenpredigten**, öffentlich im Salzburger Dom gehalten vom hochwürdigen P. Aloysius Dilatsch aus dem Theatinerorden und 1697 von P. (?) Joseph Nydermayr aufgezeichnet: S. 1–277.\n\nb) **Predigt vor dem Allerheiligsten**, gehalten vom ehrwürdigen P. Felix Fossa, Theatiner: S. 278–300.\n\nDer Name des Predigers in Teil a scheint nach dem Gehör geschrieben zu sein; möglicherweise lautete er Delagetio. Sämtliche Predigten wurden in deutscher Sprache gehalten und niedergeschrieben.",
+    "latin": "302 pagg.; teg. a2; scriptus anno 1697\n\na) Conciones quadragesimales á Plurimum Reverendo Patre Aloysio Dilatscho ex ordine Theatinorum in Ecclesia Cathedrali Salisburgensi publice peroratae et â Patre (?) Josepho Nydermayr conscriptae anno 1697?: p. 1–277\n\nb) Concio coram Venerabili Habita â Reverendo Patre Felice Fossa Caietano (= ex ordine Theatinorum): p. 278–300\n\nNomen concionatoris in parte a videtur secundum sonum vocis scriptum esse; fortasse nomen erat ei Delagetio. Omnes conciones lingua Germanica habitae scriptaeque sunt."
   }
 }

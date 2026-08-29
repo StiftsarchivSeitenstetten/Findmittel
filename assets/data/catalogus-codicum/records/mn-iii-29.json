@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-29",
   "signature": "MN III 29",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholasticus De Gratia",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–178",
+      "locus": "p. 5–178",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Virtutibus Theologicis Fide, Spe, et Charitate",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 179–180",
+      "locus": "p. 179–180",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -171,13 +182,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 29",
     "titles": "Tractatus Scholasticus De Gratia \nTractatus Scholasticus De Gratia \nTractatus De Virtutibus Theologicis Fide, Spe, et Charitate",
-    "persons": "Fr. Hieronymus Hueber Schreiber scribe \nFr. Hieronymus Hueber Bearbeiter compiler",
+    "persons": "Fr. Hieronymus Hueber Schreiber scribe  \nFr. Hieronymus Hueber Bearbeiter compiler ",
     "incipits": "",
     "explicits": "",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; nur der erste Artikel ist sehr kurz ausgeführt.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Kleines Oktavformat; 296 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1714 (?).\n\na) **Scholastische Abhandlung über die Gnade:** S. 5–178.\n\nb) **Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 179–180.\n\nVon Teil b ist nur der erste Artikel und dieser äußerst kurz ausgeführt. Auch Teil a ist keine unmittelbare Mitschrift theologischer Vorlesungen, sondern ein Kompendium solcher Vorlesungen.\n\nDer Schriftcharakter, der mit den vorausgehenden und folgenden Codices übereinstimmt, zeigt, dass Fr. Hieronymus Hueber, Seitenstettner Mönch, dieses Kompendium schrieb. Zweifellos zog er jene Vorlesungen zusammen, die MN II 252 enthält: Anordnung von Disputationen, Fragen und Artikeln ist dieselbe, viele Stellen stimmen sogar wörtlich überein.\n\nDa MN II 252 im Jahr 1714 geschrieben wurde, ist wahrscheinlich, dass auch unser Codex damals entstand. Wer die von Fr. Hieronymus Hueber zusammengefassten Vorlesungen hielt, ist noch nicht sicher ermittelt.",
+    "latin": "8° min.; 296 pagg.; teg. a2; script. 1714 (?)\n\na) (Tractatus Scholasticus De Gratia): p. 5–178.\n\nb) (Tractatus De Virtutibus Theologicis Fide, Spe, et Charitate): p. 179–180.\n\nPartis b) nil nisi articulus primus, isque quam brevissime scriptus est. Etiam pars a non sunt ipsae lectiones theologicae ab audiente theologiae studioso notatae, sed compendium talium lectionum. Quod compendium a **F. Hieronymo Hueber** monacho Seitenstettensi scriptum esse manifestat character scribendi idem atque in codicibus praecedentibus et sequentibus. Qui clericus sine dubio eas lectiones in hoc compendio contraxit, quas codex MN II 252 exhibet; etenim dispositio disputationum, quaestionum, articulorum eadem est, immo multi loci inter se plane ad verbum consonant. Qui cum scriptus sit codex anno 1714 (Vide supra p. 194!), etiam codicem nostrum hoc anno ortum esse probabile est. Quis autem lectiones a F. Hieronymo Hueber contractas habuerit, nondum certe est investigatum."
   }
 }

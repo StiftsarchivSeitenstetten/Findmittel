@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 310
 ms_contents:
-  title: Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799
   items:
   - label: a
-    title: Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799
+    title: Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis,
+      Locis, Observationibus Descriptionibus Tomus Primus Anno 1799
     locus: S. 1–526
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

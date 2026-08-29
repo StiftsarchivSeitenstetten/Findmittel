@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-52",
   "signature": "MN III 52",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "257",
   "heading": {
     "title": "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1779"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–175",
+      "locus": "p. 1–175",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-52/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 52",
     "titles": "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779 \nGebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779",
-    "persons": "Offerlbauer Schreiber scribe \nJohann Preisch Besitzer owner",
+    "persons": "Offerlbauer Schreiber scribe  \nJohann Preisch Besitzer owner ",
     "incipits": "",
     "explicits": "",
     "notes": "„Monogramma“ ist eine parenthetische Erläuterung des Katalogbearbeiters; der Titel als solcher ist überliefert.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 178 Seiten; schwarzer Ledereinband mit feinen eingeprägten Verzierungen; geschrieben 1779.\n\n**Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779:** S. 1–175.\n\nJede Seite ist von einem doppelten roten Rand eingefasst. Die Überschriften der einzelnen Teile und Gebete sind in Rot, Grün und sogar Gold ausgeführt.\n\nDer Schreiber scheint seinen Namen am unteren linken Rand von S. 84 eingetragen zu haben: **Offerlbauer**.\n\nS. 176 schrieb eine andere Hand, nämlich die eines Besitzers:\n\n**Mein Liebes Büchlein Ich Laß dir sagen: wann dich einer weeg will tragen: so sprich laß mich mit Rueh: Ich gehör dem Johann Preisch zue:**\n\nOb der Schreiber die Gebete selbst sammelte und zusammenstellte, ist ungewiss.",
+    "latin": "8° min.; 178 pagg.; teg. b2 teneris ornamentis impressis decoratum; scriptus anno 1779\n\n**Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779:** p. 1–175.\n\nSingulae paginae duplici margine rubra circumscriptae sunt. Inscriptiones singularum partium precumque rubro, viridi, immo etiam aureo colore tinctae sunt. Scriptor huius libelli precatorii nomen suum videtur in margine inferiore a parte sinistra scripsisse: **Offerlbauer p. 84.**\n\np. 176 alia manus, dico possidentis, scripsit: **Mein Liebes Büchlein Ich Laß dir sagen: wann dich einer weeg will tragen: so sprich laß mich mit Rueh: Ich gehör dem Johann Preisch zue:**\n\nNum scriptor ipse preces codicilli nostri collegerit et composuerit incertum est."
   }
 }

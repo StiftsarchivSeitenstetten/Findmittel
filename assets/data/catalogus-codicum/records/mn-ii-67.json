@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-67",
   "signature": "MN II 67",
   "aliases": [
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,46 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus In Libros Octo Physicorum Aristotelis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 2–313",
+      "locus": "p. 2–313",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 2",
+          "label": "Proloquii",
+          "text": "Peragrato horribili logicae deserto.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 62",
+          "text": "Absolvimus hunc librum primum primo die Septembris. 1654 Anno.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 313",
+          "text": "Absolvimus 9. Januarii 1655.",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 2",
+        "label": "Proloquii",
+        "text": "Peragrato horribili logicae deserto.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 62",
+        "text": "Absolvimus hunc librum primum primo die Septembris. 1654 Anno.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,16 +98,47 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus secundus In Libros Quatuor De Caelis et Mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 328–432",
+      "locus": "p. 1–105",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "p. 328",
+          "label": "Proloquii",
+          "text": "Postquam Philosophus in 8. libris physicorum egit de corpore naturali in communi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 51",
+          "text": "Absolvimus 25 Januarii Anno 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 328",
+        "label": "Proloquii",
+        "text": "Postquam Philosophus in 8. libris physicorum egit de corpore naturali in communi.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 51",
+        "text": "Absolvimus 25 Januarii Anno 1655.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Clausula in fine tractatus deest."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -163,13 +228,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 67",
     "titles": "Tractatus Primus In Libros Octo Physicorum Aristotelis \nTractatus Primus In Libros Octo Physicorum Aristotelis \nTractatus secundus In Libros Quatuor De Caelis et Mundo",
-    "persons": "P. Anselm Schlager Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n327 + 111 = 438 Seiten \ndescription: Pergamentmakulatur des 15. Jahrhunderts mit handschriftlichem Fragment des göttlichen Offiziums."
+    "persons": "P. Anselm Schlager Dozent lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "Peragrato horribili logicae deserto..... \nPostquam Philosophus in 8. libris physicorum egit de corpore naturali in communi.....",
+    "explicits": "Absolvimus hunc librum primum primo die Septembris. 1654 Anno. \nAbsolvimus 9. Januarii 1655. \nAbsolvimus 25 Januarii Anno 1655.",
+    "notes": "Clausula in fine tractatus deest.",
+    "physical": "Papier \n327 + 111 = 438 Seiten \ndescription: Pergamentmakulatur des 15. Jahrhunderts mit handschriftlichem Fragment des göttlichen Offiziums.",
+    "german": "327 + 111 = 438 Seiten; mit einem Pergamentblatt des 15. Jahrhunderts eingebunden, das ein handschriftliches Fragment des göttlichen Offiziums enthält; geschrieben 1654/55.\n\na) **(Erste Abhandlung zu den acht Büchern der Physik des Aristoteles):** S. 2–313; das Titelblatt fehlt. Anfang der Vorrede S. 2: Nachdem wir die schreckliche Wüste der Logik durchquert haben..... Schlussvermerke: S. 62: **Wir beendeten dieses erste Buch am ersten Tag des September im Jahr 1654.** .... S. 313: **Wir beendeten [dies] am 9. Januar 1655.**\n\nb) **Zweite Abhandlung zu den vier Büchern Über den Himmel und die Welt:** S. 1–105 (=328–432). Anfang der Vorrede S. 328: Nachdem der Philosoph in den acht Büchern der Physik vom Naturkörper im Allgemeinen gehandelt hat..... Vermerk auf derselben Seite: **Wir begannen diese Bücher am 9. Januar 1655.** Schluss S. 51: **Wir beendeten [dies] am 25. Januar im Jahr 1655.** Der Schlussvermerk am Ende der Abhandlung fehlt.\n\nAn die einzelnen Schlussvermerke dieses Codex schließen sich jeweils Sprüche an, die entweder der Heiligen Schrift oder profanen Büchern entnommen sind.\n\nDieselben Abhandlungen enthält Codex MN II 70 (siehe unten!); aus ihm erfahren wir, dass **P. Anselm Schlager**, Andechser Mönch, diese Vorlesungen diktierte. Der Schreiber dieses Codex ist unbekannt.",
+    "latin": "327 + 111 = 438 pagg., tectae folio membranaceo saeculi XV continente particulam Divini Officii manu scriptam; script. 1654/55\n\na) (Tractatus Primus In Libros Octo Physicorum Aristotelis): p. 2–313; folium titulare deest. Initium Proloquii p. 2: Peragrato horribili logicae deserto..... Clausulae: p. 62: Absolvimus hunc librum primum primo die Septembris. 1654 Anno. .... p. 313: Absolvimus 9. Januarii 1655.\n\nb) Tractatus secundus In Libros Quatuor De Caelis et Mundo: p. 1–105 (=328–432). Initium Proloquii p. 328: Postquam Philosophus in 8. libris physicorum egit de corpore naturali in communi..... Nota in eadem pagina: Coepimus aggredi hos libros 9 Januarii 1655. Clausula p. 51: Absolvimus 25 Januarii Anno 1655. Clausula in fine tractatus deest. Accedunt ad singulas huius codicis clausulas quaedam sententiae aut e Sacra Scriptura aut e libris profanis sumptae.\n\nEosdem tractatus exhibet codex MN II 70 (vide infra!), e quo reperimus **P. Anselmum Schlager** Monachum Andecensem has lectiones dictasse. Scriptor huius codicis ignotus."
   }
 }

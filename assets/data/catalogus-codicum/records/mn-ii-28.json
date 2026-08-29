@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-28",
   "signature": "MN II 28",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "19–20",
   "heading": {
     "title": "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1636"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,18 +49,51 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–508",
+      "locus": "p. 509 - 513",
       "language": "",
+      "incipits": [
+        {
+          "text": "Philosophia Primo dicto etymon quibusdam definitur....",
+          "locus": "p. 1",
+          "label": "Prooemii Logicae Peripateticae sive Doctrinae in universam logicam Aristotelis Peripateticae Tradi solitae",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "P. 513",
+          "text": "Tota logica continet 19. tractatus. 31 quaestiones. 102 articulos.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [
+        {
+          "locus": "p. 47",
+          "text": "Absolvimus 18 Januarii 1636.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 508",
+          "text": "Absolvimus 5. Septembris Anno 1636.",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Philosophia Primo dicto etymon quibusdam definitur...."
+        "text": "Philosophia Primo dicto etymon quibusdam definitur....",
+        "locus": "p. 1",
+        "label": "Prooemii Logicae Peripateticae sive Doctrinae in universam logicam Aristotelis Peripateticae Tradi solitae",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Absolvimus 5. Septembris Anno 1636."
+        "locus": "P. 513",
+        "text": "Tota logica continet 19. tractatus. 31 quaestiones. 102 articulos.",
+        "id": "explicit-1"
       },
       "notes": [
         {
@@ -73,13 +109,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Index",
+        "text": "Indice",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "S. 509–513",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -165,13 +205,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-28/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 28",
-    "titles": "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636) \nLogica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636) \nIndex",
-    "persons": "P. Julius Maulderer SJ Dozent lecturer \nBartholomaeus Piscator Schreiber scribe",
+    "titles": "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636) \nLogica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636) \nIndice",
+    "persons": "P. Julius Maulderer SJ Dozent lecturer  \nBartholomaeus Piscator Schreiber scribe ",
     "incipits": "Philosophia Primo dicto etymon quibusdam definitur....",
-    "explicits": "Absolvimus 5. Septembris Anno 1636.",
+    "explicits": "Tota logica continet 19. tractatus. 31 quaestiones. 102 articulos. \nAbsolvimus 18 Januarii 1636. \nAbsolvimus 5. Septembris Anno 1636.",
     "notes": "Die parenthetischen Orts- und Datumsauflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied. \nVom Katalog verwendete strukturelle Inhaltsbezeichnung.",
-    "physical": "Papier \n514 Seiten \nQuartformat \ndescription: Einband aus einem umgewendeten Pergamentblatt."
+    "physical": "Papier \n514 Seiten \nQuartformat \ndescription: Einband aus einem umgewendeten Pergamentblatt.",
+    "german": "514 Seiten; Einband aus einem umgewendeten Pergamentblatt; geschrieben 1636.\n\n**Peripatetische Logik, vorgetragen von P. Julius Maulderer SJ; mitgeschrieben von Bartholomaeus Piscator aus Fisch im katholischen Gymnasium der Gesellschaft Jesu bei St. Anna in Augsburg. 1636:** S. 1–508, mit Register S. 509–513.\n\nAnfang der Vorrede zur peripatetischen Logik oder der gewöhnlich vorgetragenen Lehre zur gesamten aristotelischen Logik S. 1: **Philosophie wird, zunächst etymologisch betrachtet, von einigen definiert....** Schluss S. 47: **Wir schlossen am 18. Januar 1636 ab......**; S. 508: **Wir schlossen am 5. September 1636 ab.** S. 513: **Die gesamte Logik umfasst 19 Abhandlungen, 31 Fragen und 102 Artikel.**\n\nDer Schreiber dieses Codex scheint derselbe zu sein wie der der beiden folgenden Codices.",
+    "latin": "514 pagg., teg. e folio membranaceo verso; script. 1636\n\n*Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636):* pag. 1 - 508 cum Indice p. 509 - 513\n\nInitium Prooemii Logicae Peripateticae sive Doctrinae in universam logicam Aristotelis Peripateticae Tradi solitae p. 1: Philosophia Primo dicto etymon quibusdam definitur.... Clausula p. 47: Absolvimus 18 Januarii 1636......p. 508: Absolvimus 5. Septembris Anno 1636. P. 513: Tota logica continet 19. tractatus. 31 quaestiones. 102 articulos.\n\nScriptor huius codicis idem esse videtur atque duorum codicum sequentium."
   }
 }

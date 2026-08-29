@@ -9,10 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 38
 ms_contents:
-  title: "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737"
   items:
-  - label: "a"
-    title: "Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen begriffen seind: Anno 1737"
+  - label: a
+    title: 'Geistliches Handt Büchlein worin allerhandt Schöne Morgen, Abendt. Meß. Beicht und Communion. Neben andern Gebetter sambt 3 litoneyen
+      begriffen seind: Anno 1737'
+    title_status: unspecified
+    locus: p. I
 phys_desc:
   object_form: codex
   support: Papier

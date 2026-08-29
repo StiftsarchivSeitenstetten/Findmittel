@@ -9,55 +9,68 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 10
 ms_contents:
-  title: "Compendium Physicae iuxta mentem S. Doctoris"
+  title: Compendium Physicae iuxta mentem S. Doctoris
   items:
-  - label: "a"
-    title: "Quaestio prolegomenalis: An physica sit scientia"
-    locus: "fol. 1r–3v"
-  - label: "b"
-    title: "Liber primus Physicorum"
-    locus: "fol. 3v, S. 4–118"
-  - label: "c"
-    title: "Liber secundus Physicorum"
-    locus: "S. 118–267"
-    note: "Liber de Causis."
-  - label: "d"
-    title: "Notata De Praemotione iuxta Reverendum P. Placidum"
-    locus: "S. 267–268"
-  - label: "e"
-    title: "De Substantia utrum sit immediate operativa ex Professore"
-    locus: "S. 268–269"
-  - label: "f"
-    title: "Ex Repetitione Collegii"
-    locus: "S. 271–304"
-  - label: "g"
-    title: "Obiectiones in postthesibus"
-    locus: "S. 304–317"
-  - label: "h"
-    title: "De Causis aliqua in Postthesibus in Collegio Rupertino allata"
-    locus: "S. 317–320"
-  - label: "i"
-    title: "Explicatio P. D. (= Domini?) Professoris in Schola"
-    title_type: "supplied"
-    locus: "S. 320–331"
-    note: "Die Auflösung „= Domini?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
-  - label: "j"
-    title: "Obiectiones ex Repetitione in Refectorio"
-    locus: "S. 335–382"
-  - label: "k"
-    title: "Quaestiones in Examine habitae Reverendi Clarissimi P. Caroli"
-    locus: "S. 383"
-  - label: "l"
-    title: "Obiectiones Clarissimi P. Mariani"
-    locus: "S. 384–385"
-  - label: "m"
-    title: "Obiectiones Reverendi P. Professoris"
-    locus: "S. 385–387"
-  - label: "n"
-    title: "De unione. Notata iuxta Fr. Joh. (= ? Forsitan legendum sit: Jos.)"
-    title_type: "supplied"
-    locus: "S. 399"
-    note: "Die alternative Lesung steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+  - label: a
+    title: 'Quaestio prolegomenalis: An physica sit scientia'
+    locus: fol. 1r–3v
+    title_status: unspecified
+  - label: b
+    title: Liber primus Physicorum
+    locus: fol. 3v, p. 4–118
+    title_status: unspecified
+  - label: c
+    title: Liber secundus Physicorum
+    locus: p. 118–267
+    note: Liber de Causis.
+    title_status: unspecified
+  - label: d
+    title: Notata De Praemotione iuxta Reverendum P. Placidum
+    locus: p. 267–268
+    title_status: unspecified
+  - label: e
+    title: De Substantia utrum sit immediate operativa ex Professore
+    locus: p. 268/9
+    title_status: unspecified
+  - label: f
+    title: Ex Repetitione Collegii
+    locus: p. 271–304
+    title_status: unspecified
+  - label: g
+    title: Obiectiones in postthesibus
+    locus: p. 304–317
+    title_status: unspecified
+  - label: h
+    title: De Causis aliqua in Postthesibus in Collegio Rupertino allata
+    locus: p. 317–320
+    title_status: unspecified
+  - label: i
+    title: Explicatio P. D. (= Domini?) Professoris in Schola
+    locus: p. 320–331
+    note: Die Auflösung „= Domini?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
+  - label: j
+    title: Obiectiones ex Repetitione in Refectorio
+    locus: p. 335–382
+    title_status: unspecified
+  - label: k
+    title: Quaestiones in Examine habitae Reverendi Clarissimi P. Caroli
+    locus: p. 383
+    title_status: unspecified
+  - label: l
+    title: Obiectiones Clarissimi P. Mariani
+    locus: S. 384–385
+    title_status: unspecified
+  - label: m
+    title: Obiectiones Reverendi P. Professoris
+    locus: p. 385–387
+    title_status: unspecified
+  - label: n
+    title: 'De unione. Notata iuxta Fr. Joh. (= ? Forsitan legendum sit: Jos.)'
+    locus: p. 399
+    note: Die alternative Lesung steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

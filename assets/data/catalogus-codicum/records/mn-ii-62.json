@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-62",
   "signature": "MN II 62",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "39",
   "heading": {
     "title": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1652/53"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,35 +49,34 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. VII",
+          "label": "Prooemii",
+          "text": "Ut nemo derepente fit maximus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. VII",
+        "label": "Prooemii",
+        "text": "Ut nemo derepente fit maximus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
-      "persons": [
-        {
-          "name": "P. Dominicus Caesar",
-          "roleRaw": "lecturer",
-          "roleLabel": "Dozent",
-          "scope": "item",
-          "itemId": "item-1",
-          "affiliation": "Ober-Alteich"
-        },
-        {
-          "name": "Fr. Joachim Hartung",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1",
-          "affiliation": "Seitenstetten"
-        }
-      ],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -91,22 +93,6 @@
       "roleRaw": "scribe",
       "roleLabel": "Schreiber",
       "scope": "contents",
-      "affiliation": "Seitenstetten"
-    },
-    {
-      "name": "P. Dominicus Caesar",
-      "roleRaw": "lecturer",
-      "roleLabel": "Dozent",
-      "scope": "item",
-      "itemId": "item-1",
-      "affiliation": "Ober-Alteich"
-    },
-    {
-      "name": "Fr. Joachim Hartung",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1",
       "affiliation": "Seitenstetten"
     }
   ],
@@ -173,13 +159,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-62/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 62",
     "titles": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum \nOrganum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
-    "persons": "P. Dominicus Caesar Dozent lecturer \nFr. Joachim Hartung Schreiber scribe \nP. Dominicus Caesar Dozent lecturer \nFr. Joachim Hartung Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Dominicus Caesar Dozent lecturer Ober-Alteich \nFr. Joachim Hartung Schreiber scribe Seitenstetten",
+    "incipits": "Ut nemo derepente fit maximus....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \nVII + 446 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "Logica P. Dominici Caesare Oberaltachsis M S â F. Joachimo Hartung Seittenstettensi 1652.",
+    "physical": "Papier \nVII + 446 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "VII + 446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1652/53.\n\n**Werkzeug der Philosophie, aus der Lehre des hl. Thomas und des Aristoteles getreu erklärt von ... P. Dominicus Caesar, Benediktinermönch und Profess des Klosters Ober-Alteich, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Profess in Seitenstetten, im Jahr 1652 am 21. November.**\n\n**Anfang** der Vorrede S. VII: Wie niemand plötzlich der Größte wird....\n\nRückenaufschrift: **Logik des P. Dominicus Caesar von Oberaltaich, Handschrift von Fr. Joachim Hartung aus Seitenstetten, 1652.**",
+    "latin": "VII + 446 pagg.; teg. a1; script. 1652/53\n\n*Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum ab .... P. Dominico Caesare Monacho Benedictino ad Monasterium Superiorem (id est Ober-Alteich) Professo Exceptum â Religioso F. Joachimo Hartung eiusdem Ordinis Professo in Seittenstetten Anno 1652 Undecimo Calendas Decembris.*\n\n*Initium* Prooemii p. VII: Ut nemo derepente fit maximus....\n\nInscriptio dorsi: Logica P. Dominici Caesare Oberaltachsis M S â F. Joachimo Hartung Seittenstettensi 1652."
   }
 }

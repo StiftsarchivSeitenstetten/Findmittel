@@ -13,18 +13,33 @@ ms_contents:
   - label: a
     title: Tractatus De Angelis
     locus: fol. 1r–73v
-    incipit: Postquam Deum unum Trinum et eius ad intra processiones
     end_date_display: 21. Februar 1716
+    incipits:
+    - text: Postquam Deum unum Trinum et eius ad intra processiones......
+      label: Proemii
+    colophons:
+    - text: Anno 1716. Die 21. Februarii
+    title_status: unspecified
   - label: b
     title: Tractatus De Actibus humanis
-    locus: fol. 1r–81r (= fol. 75r–155r)
-    incipit: Consideravimus hactenus cum S. Doctore Deum
+    locus: fol. 1r–81r
     end_date_display: 25. (?) Juli 1716
+    incipits:
+    - text: Consideravimus hactenus cum S. Doctore Deum, .......
+      label: Proemii
+    colophons:
+    - text: 'Die 25 (?) Julii: Anno 1716.'
+    title_status: unspecified
   - label: c
     title: Tractatus. De Conscientia
-    locus: fol. 1r–17r (= fol. 156r–172r)
-    incipit: Post explicatos Actus humanos tam in genere, quam in specie
+    locus: fol. 1r–17r
     end_date_display: 29. August 1716
+    incipits:
+    - text: Post explicatos Actus humanos tam in genere, quam in specie,.......
+      label: Proloquii
+    colophons:
+    - text: 'Anno 1716. Die 29. Augusti:'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,13 +10,19 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–11 (XVIII 3 h)
 ms_contents:
-  title: "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687)."
   items:
-  - label: "a"
-    title: "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687)."
-    locus: "S. IX–Bl. 231v"
-    incipit: "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus....."
-    explicit: "Lectio 140 Die 2. Septembris 1687."
+  - label: a
+    title: Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti
+      Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso
+      F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).
+    locus: p. IX
+    incipits:
+    - text: Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....
+      locus: p. IX
+    colophons:
+    - locus: fol. 231v
+      text: Lectio 140 Die 2. Septembris 1687.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,15 +9,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 139
 ms_contents:
-  title: "Collegia Juris Canonici in Libros I - V Decretalium"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Collegia Juris Canonici in Libros I - V Decretalium"
-    title_type: supplied
-    locus: "S. 5–1454"
-    incipit: "Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus...."
-    note: "Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern. Das fünfte Buch der Dekretalen wird ab S. 1455 nur noch den Kasuisten überlassen."
+  - label: a
+    title: Collegia Juris Canonici in Libros I - V Decretalium
+    locus: p. 5 - 1454
+    note: Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern. Das fünfte Buch der Dekretalen wird ab S.
+      1455 nur noch den Kasuisten überlassen.
+    incipits:
+    - text: 'Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus....'
+      locus: p. 5
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

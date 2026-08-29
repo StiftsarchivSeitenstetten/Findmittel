@@ -17,44 +17,40 @@ ms_identifier:
   idno: "MN I 15"
 
 ms_contents:
-  overall_title:
-    title: "Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet."
-    title_type: "original"
-    language: "de"
-
-  summary: "Alphabetisches Gesamtregister zu dem vierteiligen Codex Provincialis, der in den Codices 97.1.6–9 überliefert ist."
-
+  summary: Alphabetisches Gesamtregister zu dem vierteiligen Codex Provincialis, der in den Codices 97.1.6–9 überliefert ist.
   items:
-    - item: 1
-      type: "index"
-      title: "Index über Alle Vier Theil des Codicis Provincialis"
-      title_type: "shortened_from_original"
-      contents_note: "Alphabetisches Gesamtregister zu allen vier Teilen des Codex Provincialis."
-      indexed_parts:
-        - part: 1
-          number_range:
-            from: 1
-            to: 672
-          source_codex: "97.1.6"
-
-        - part: 2
-          number_range:
-            from: 673
-            to: 1226
-          source_codex: "97.1.7"
-
-        - part: 3
-          number_range:
-            from: 1227
-            to: 1876
-          source_codex: "97.1.8"
-
-        - part: 4
-          number_range:
-            from: 1877
-            to: 2410
-          source_codex: "97.1.9"
-
+  - item: 1
+    type: index
+    title: Index über Alle Vier Theil des Codicis Provincialis
+    contents_note: Alphabetisches Gesamtregister zu allen vier Teilen des Codex Provincialis.
+    indexed_parts:
+    - part: 1
+      number_range:
+        from: 1
+        to: 672
+      source_codex: 97.1.6
+    - part: 2
+      number_range:
+        from: 673
+        to: 1226
+      source_codex: 97.1.7
+    - part: 3
+      number_range:
+        from: 1227
+        to: 1876
+      source_codex: 97.1.8
+    - part: 4
+      number_range:
+        from: 1877
+        to: 2410
+      source_codex: 97.1.9
+    title_status: supplied
+    title_source: cataloguer
+  title: Index über Alle Vier Theil des Codicis Provincialis deren Der Erste von N° 1. bis N° 672. Der Anderter von N° 673. bis N° 1226. Der Dritte
+    von N° 1227 bis N° 1876. Der Vierte von N° 1877 bis N° 2410. In sich begreiffet.
+  languages:
+  - de
+  title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

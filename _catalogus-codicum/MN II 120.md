@@ -9,7 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 120
 ms_contents:
-  catalogue_title_or_summary: (Physica Aristotelis)
+  items:
+  - catalog_statement: (Physica Aristotelis)
+    title: Physica Aristotelis
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

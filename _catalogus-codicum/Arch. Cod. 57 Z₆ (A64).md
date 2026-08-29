@@ -10,14 +10,14 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 57 Z₆ (A64)
 ms_contents:
-  title: "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590"
-  title_type: supplied
   items:
-  - label: "a"
-    title: "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590"
-    title_type: supplied
-    locus: "Bl. 1r–125v"
-    note: "Die deutsche Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern. Am Anfang und Ende fehlen mehrere Blätter."
+  - label: a
+    title: Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590
+    locus: p. 3 - 50
+    note: Die deutsche Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern. Am Anfang und Ende fehlen
+      mehrere Blätter.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

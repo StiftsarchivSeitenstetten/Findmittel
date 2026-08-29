@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-104",
   "signature": "MN II 104",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "65",
   "heading": {
-    "title": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1669"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,37 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 3–629",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Prooemii",
+          "text": "Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Prooemii",
+        "text": "Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+        "id": "incipit-1"
+      },
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -119,13 +143,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-104/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 104",
-    "titles": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,...... \nTractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+    "titles": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario \nTractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario",
     "persons": "",
-    "incipits": "",
+    "incipits": "Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n634 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+    "physical": "Papier \n634 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "634 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.\n\n**Theologische Abhandlung über die Sakramente im Allgemeinen und im Einzelnen**, diktiert von P. Desiderius Schapperger, Benediktiner von Seeon, Doktor der heiligen Theologie und ordentlicher Professor derselben: S. 3–629.\n\nAnfang der Vorrede S. 5: Nach der Betrachtung jener Dinge, sagt der engelgleiche Lehrer hier in der Vorrede,......\n\nDieselben Vorlesungen enthält auch Codex MN II 113 sowie die Teile a–d von MN II 100. Dass Fr. Engelbertus Elsnigg diesen Codex 1669 schrieb, zeigen dieselben Initialen auf dem Einband wie bei MN II 103.",
+    "latin": "634 pagg.; teg. a2 (ut in codice MN II 98); script. 1669\n\nTractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre **Desiderio Schapperger** Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. _Initium_ Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......\n\nEasdem lectiones continet etiam codex MN II 113 (vide infra!) et pars a–d codicis MN II 100 (vide supra p. 63!). Hunc codicem scripsisse **F. Engelbertum Elsnigg** 1669 eaedem litterae initiales in tegumento ostendunt atque in codice MN II 103."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-175",
   "signature": "MN II 175",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "135",
   "heading": {
     "title": "Tractatus De Dei Creatoris primario effectu sive De Angelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1692"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Dei Creatoris primario effectu sive De Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–129v",
+      "locus": "fol. 1–129",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 129v",
+          "text": "Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 129v",
+        "text": "Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,15 +95,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–113r (=134–246r)",
+      "locus": "fol. 1r–113",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 113",
+          "text": "Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 113",
+        "text": "Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -161,13 +210,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-175/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 175",
     "titles": "Tractatus De Dei Creatoris primario effectu sive De Angelis \nTractatus De Dei Creatoris primario effectu sive De Angelis \nCommentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis",
-    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe Seitenstetten \nunbekannt author or lecturer author_or_lecturer ",
+    "incipits": "Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus..... \nProoemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,.....",
+    "explicits": "Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium. \nAbsolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.",
     "notes": "",
-    "physical": "Papier \nII + 131 + 122 = 255 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nII + 131 + 122 = 255 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "II + 131 + 122 = 255 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.\n\na) **Abhandlung über die erste Wirkung Gottes des Schöpfers oder über die Engel:** fol. 1–129. Anfang fol. 1r: Nachdem jene Dinge betrachtet sind, die Gott an sich betreffen, insofern er nämlich einer und dreieinig ist..... Schluss fol. 129v: **Wir beendeten diese Abhandlung über die Engel am 2. Mai 1692 vor dem Mittagessen.**\n\nb) **Kommentar zur Prima Secundae der Summa des engelgleichen Lehrers. Erste Abhandlung über die menschlichen Handlungen:** fol. 1r–113 (=134–246). Anfang der Vorrede: Da Gott, der Beste und Größte, nicht nur Ursprung der geschaffenen Dinge ist..... Schluss fol. 113 (=246)r: **Wir beendeten diese Abhandlung über die menschlichen Handlungen am 1. September 1692 vor dem Mittagessen.**\n\nAuf dem Vorderdeckel steht dieselbe Aufschrift wie beim vorhergehenden Codex. Daher schrieb auch diesen Codex Fr. Gabriel Sumadtinger. Wessen Vorlesungen er hier aufgezeichnet hat und wer somit der Verfasser ist, weiß ich nicht.",
+    "latin": "II + 131 + 122 = 255 foll.; teg. a2; script. 1692\n\na) Tractatus De Dei Creatoris primario effectu sive De Angelis: fol. 1–129. Initium fol. 1r: Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus..... Clausula fol. 129v: Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.\n\nb) Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis: fol. 1r–113 (= 134–246). Initium: Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,..... Clausula fol. 113 (246)r: Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.\n\nIn adversa parte tegumenti eadem inscriptio, quae in codice praecedenti. Qua de re (quod etiam in dorso codicis nostri notatur) F. Gabriel Sumadtinger etiam hunc codicem scripsit. Cuius tamen lectiones in codice nostro exceperit ideoque auctorem nostrum nescio."
   }
 }

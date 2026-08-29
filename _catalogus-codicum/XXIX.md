@@ -10,11 +10,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: XXIX
 ms_contents:
-  title: Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.
   items:
   - label: a
-    title: Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.
+    title: Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog
+      Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.
     note: Im Katalog alternativ als Chronik Österreichs eines gewissen Matthäus, eher aber des Gregor Hagen, bis 1398 beschrieben; deutschsprachig.
+    title_status: unspecified
+    locus: p. 46 - 48
 phys_desc:
   object_form: codex
   support: Papier

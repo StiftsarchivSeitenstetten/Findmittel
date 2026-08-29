@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-288",
   "signature": "MN II 288",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "233",
   "heading": {
     "title": "Tractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1751/52"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–240",
+      "locus": "p. 5–240",
       "language": "",
+      "incipits": [
+        {
+          "text": "Evehimur tandem in ipsum Doctrinae sacrae principium, et finem,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Evehimur tandem in ipsum Doctrinae sacrae principium, et finem"
+        "text": "Evehimur tandem in ipsum Doctrinae sacrae principium, et finem,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Positivus De Deo Trino",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 245–319",
+      "locus": "p. 245–319",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sumum (!) Religionis nostrae mysterium ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sumum (!) Religionis nostrae mysterium"
+        "text": "Sumum (!) Religionis nostrae mysterium ......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,15 +108,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus De Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 321–376",
+      "locus": "p. 321–376",
       "language": "",
+      "incipits": [
+        {
+          "text": "Explicata Dei unius, et Trini essentia, attributisque......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Explicata Dei unius, et Trini essentia, attributisque"
+        "text": "Explicata Dei unius, et Trini essentia, attributisque......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -105,15 +138,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus. De creatura corporali",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 377–418",
+      "locus": "p. 377–418",
       "language": "",
+      "incipits": [
+        {
+          "text": "Post considerationem spiritualis creaturae,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Post considerationem spiritualis creaturae"
+        "text": "Post considerationem spiritualis creaturae,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -125,15 +168,25 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus in Primam secundae S. Thomae Aquinatis. de Ultimo fine seu Beatitudine hominis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 420–471",
+      "locus": "p. 420–471",
       "language": "",
+      "incipits": [
+        {
+          "text": "Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita"
+        "text": "Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -145,15 +198,25 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 472–566",
+      "locus": "p. 472–566",
       "language": "",
+      "incipits": [
+        {
+          "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos,...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos"
+        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos,...",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -269,13 +332,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 288",
     "titles": "Tractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis \nTractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis \nTractatus Scholastico-Positivus De Deo Trino \nTractatus Scholastico-Dogmaticus De Angelis \nTractatus Secundus. De creatura corporali \nTractatus Primus in Primam secundae S. Thomae Aquinatis. de Ultimo fine seu Beatitudine hominis \nTractatus Secundus De Actibus Humanis",
-    "persons": "P. Benedictus Veit Dozent lecturer \nP. Norbertus Pampichler Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "Evehimur tandem in ipsum Doctrinae sacrae principium, et finem \nSumum (!) Religionis nostrae mysterium \nExplicata Dei unius, et Trini essentia, attributisque \nPost considerationem spiritualis creaturae \nAmor Dei circulum efficit admirabilem, ait Dionysius Areopagita \nProgredimur cum Angelico duce nostro ad explicandos actus humanos",
+    "persons": "P. Benedictus Veit Dozent lecturer Stift Seitenstetten \nP. Norbertus Pampichler Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe ",
+    "incipits": "Evehimur tandem in ipsum Doctrinae sacrae principium, et finem,...... \nSumum (!) Religionis nostrae mysterium ...... \nExplicata Dei unius, et Trini essentia, attributisque...... \nPost considerationem spiritualis creaturae,...... \nAmor Dei circulum efficit admirabilem, ait Dionysius Areopagita...... \nProgredimur cum Angelico duce nostro ad explicandos actus humanos,...",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n572 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n572 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "572 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.\n\na) **Scholastisch-positive Abhandlung über den einen Gott und die göttlichen Eigenschaften:** S. 5–240. Anfang: Endlich erheben wir uns zum Ursprung und Ziel der heiligen Lehre selbst,......\n\nb) **Scholastisch-positive Abhandlung über den dreieinigen Gott:** S. 245–319. Anfang: Das höchste Geheimnis unserer Religion......\n\nc) **Scholastisch-dogmatische Abhandlung über die Engel:** S. 321–376. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind,......\n\nd) **Zweite Abhandlung über die körperliche Schöpfung:** S. 377–418. Anfang: Nach der Betrachtung der geistigen Schöpfung,......\n\ne) **Erste Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen:** S. 420–471. Anfang: Die Liebe Gottes bildet einen wunderbaren Kreis, sagt Dionysius Areopagita,......\n\nf) **Zweite Abhandlung über die menschlichen Handlungen:** S. 472–566. Anfang: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,....\n\nDie Teile a und b enthalten dieselben Abhandlungen wie MN II 280. Dessen Verfasser wurde oben als **P. Benedictus Veit**, Seitenstettner Mönch, bestimmt, der diese Vorlesungen 1751 im Seitenstettner theologischen Kurs hielt.\n\nDie Teile c–f sind dieselben Abhandlungen wie in MN II 283 und in den Teilen b–e von MN II 287; sie wurden im Studienjahr 1751/52 von **P. Norbertus Pampichler** im Seitenstettner Hausstudium vorgetragen.\n\nDer Schreiber ist unbekannt.",
+    "latin": "572 pagg.; teg. c3d; script. 1751/52\n\na) Tractatus Scholastico-Positivus De Deo Uno ac Divinis Attributis: p. 5–240.  \nInitium: Evehimur tandem in ipsum Doctrinae sacrae principium, et finem,......\n\nb) Tractatus Scholastico-Positivus De Deo Trino: p. 245–319.  \nInitium: Sumum (!) Religionis nostrae mysterium ......\n\nc) Tractatus Scholastico-Dogmaticus De Angelis: p. 321–376.  \nInitium: Explicata Dei unius, et Trini essentia, attributisque......\n\nd) Tractatus Secundus. De creatura corporali: p. 377–418.  \nInitium: Post considerationem spiritualis creaturae,......\n\ne) Tractatus Primus in Primam secundae S: Thomae Aquinatis. de Ultimo fine seu Beatitudine hominis: p. 420–471.  \nInitium: Amor Dei circulum efficit admirabilem, ait Dionysius Areopagita......\n\nf) Tractatus Secundus De Actibus Humanis: p. 472–566.  \nInitium: Progredimur cum Angelico duce nostro ad explicandos actus humanos,...\n\nPartes a et b codicis nostri eosdem tractatus continent, quos Cod. MN II 280, cuius auctorem supra p. 228 invenimus esse **P. Benedictum Veit**, monachum Seitenstettensem, qui hos tractatus anno 1751 in cursu theologico Seitenstettensi tradiderit.\n\nPartes autem c–f iidem sunt tractatus, quos iam in codice MN II 283 (supra p. 230) et in partibus b–e codicis MN II 287 (supra p. 232) reperimus eosque a **P. Norberto Pampichler** anno scholari 1751/52 in studio domestico Seitenstettensi traditos.\n\nScriptorem autem nescio."
   }
 }

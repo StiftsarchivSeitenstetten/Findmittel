@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-s-xviii-3-m",
   "signature": "Arch. Cod. 34 S (XVIII 3 m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "96–102",
   "heading": {
-    "title": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1688"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 S (XVIII 3 m).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 7 - 18",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,14 +69,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R: p. 19 - 29. Initium: Eia! incitat hodie in ausus elingues linguas..... Nota p. 29: R. Anselmus Praun Professus Mallerstorphensis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 19 - 29",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Eia! incitat hodie in ausus elingues linguas.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Eia! incitat hodie in ausus elingues linguas.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -85,14 +104,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Panegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7.: p. 31 - 39. Initium p. 31: Ergo hodie sors super me cecidit, Auditores Academici..... Nota p. 39: In aula Academica ipso festo S. Bonifacii 1686. R. P. Colomannus Seherb Professus Mellicensis pro tempore Juris Utriusque Studiosus Salisburgensis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Panegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 31 - 39",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 31",
+          "text": "Ergo hodie sors super me cecidit, Auditores Academici.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 31",
+        "text": "Ergo hodie sors super me cecidit, Auditores Academici.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -108,14 +141,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti: p. 41 - 48. Initium: Horreo, et totis artubus contremisco, Auditores Academici..... Nota p. 48: 13. Novembris 1685. R. P. Anselmus Schramb Professus Mellicensis pro tempore Juris Studiosus Salisburgi in Convictu.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 41 - 48",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Horreo, et totis artubus contremisco, Auditores Academici.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Horreo, et totis artubus contremisco, Auditores Academici.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -131,14 +176,28 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio De Sanctis Monachis Ordinis S. Benedicti: p. 49 - 59. Initium p. 49: Papae! quis ex ipsa totius orbis facie terrae ..... (Orator ignotus!) Nota in margine p. 49: 13. Novembris 1688.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio De Sanctis Monachis Ordinis S. Benedicti",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 49 - 59",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 49",
+          "text": "Papae! quis ex ipsa totius orbis facie terrae .....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 49",
+        "text": "Papae! quis ex ipsa totius orbis facie terrae .....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -154,15 +213,29 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti: p. 61 - 76. Thema: Fulgebunt iusti sicut stellae Caeli. Subscriptio p. 76: F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis (auctor).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 61 - 76",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 76",
+          "text": "F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 76",
+        "text": "F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -177,14 +250,26 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Encomium Divi Patriarchae Benedicti Idaea veri Herois: p. 77 - 84. Initium: Quemadmodum rarò ex delicatis Persarum Gynaecaeis..... (Auctor ignotus.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Encomium Divi Patriarchae Benedicti Idaea veri Herois",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 77 - 84",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quemadmodum rarò ex delicatis Persarum Gynaecaeis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quemadmodum rarò ex delicatis Persarum Gynaecaeis.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -200,14 +285,26 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Epistola petitoria Monastici cuculli, simulque mundi pericula repraesentans: p. 84 - 87. Initium: Inter primas, Amplissime Praesul, homini..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Epistola petitoria Monastici cuculli, simulque mundi pericula repraesentans",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 84 - 87",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Inter primas, Amplissime Praesul, homini.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Inter primas, Amplissime Praesul, homini.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -223,14 +320,26 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Exercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse: p. 87 - 89. Initium: Ploranda est sané plerorumque Juvenum..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Exercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 87 - 89",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ploranda est sané plerorumque Juvenum.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ploranda est sané plerorumque Juvenum.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -246,13 +355,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Historia tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit: p. 89 - 91. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Historia tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 89 - 91",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -269,14 +382,28 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio pro solenni initio (scilicet Anni scholaris Academici?): p. 92 - 100. Initium p. 92: Cùm Mars armipotens sublimi vectus quadrigâ..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio pro solenni initio (scilicet Anni scholaris Academici?)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 92 - 100",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 92",
+          "text": "Cùm Mars armipotens sublimi vectus quadrigâ.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 92",
+        "text": "Cùm Mars armipotens sublimi vectus quadrigâ.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -292,14 +419,26 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Vita Divi Bonifacii super terram Militia, In oratione panegyrica proposita: p. 101 - 117. Initium: Ad arma! ad arma! Auditores Academici...... Nota p. 117: In Aula Academica Salisburgi pro festo S. Bonifacii 10 Junii 1687. Religiosus F. Romanus Schyrensis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Vita Divi Bonifacii super terram Militia, In oratione panegyrica proposita",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 101 - 117",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ad arma! ad arma! Auditores Academici......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ad arma! ad arma! Auditores Academici......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -315,14 +454,26 @@
       "id": "item-m",
       "label": "m",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus: p. 119 - 124. Initium: An hodie splendidissimo Natalium gaudiorum Sub astro..... (Neque ipse auctor notus neque cui abbati consecraverit orationem!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 119 - 124",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "An hodie splendidissimo Natalium gaudiorum Sub astro.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "An hodie splendidissimo Natalium gaudiorum Sub astro.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -338,14 +489,26 @@
       "id": "item-n",
       "label": "n",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Christus Subactis Mundi hostibus triumphat: p. 125 - 130. Initium: Ergò ne adhuc caeca sudat antiquitas..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Christus Subactis Mundi hostibus triumphat",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 125 - 130",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ergò ne adhuc caeca sudat antiquitas.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ergò ne adhuc caeca sudat antiquitas.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -361,14 +524,26 @@
       "id": "item-o",
       "label": "o",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint: p. 131 - 132. Initium: Jactent tantummodo fabulosa Poetarum commenta..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 131 - 132",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Jactent tantummodo fabulosa Poetarum commenta.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Jactent tantummodo fabulosa Poetarum commenta.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -384,14 +559,26 @@
       "id": "item-p",
       "label": "p",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta: p. 133 - 139. Initium: Aniciana familia...... Nota p. 139: R. F. Modestus Resmen Ordinis S. Benedicti Professus Garstensis 11 Julii 1686 in Aula Academica.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 133 - 139",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Aniciana familia......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Aniciana familia......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -407,14 +594,26 @@
       "id": "item-q",
       "label": "q",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684: p. 139 - 143. Initium: Haud equidem indignor..... (Auctor professorque natalizans ignoti!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 139 - 143",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Haud equidem indignor.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Haud equidem indignor.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -430,14 +629,26 @@
       "id": "item-r",
       "label": "r",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Gratiarum actio: p. 144 - 145. Initium: Tandem NN. lassas contrahimus antennas..... (Auctor ignotus; videtur studiosus pro sodalibus professori post cursum philosophicum finitum gratias agere.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Gratiarum actio",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 144 - 145",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tandem NN. lassas contrahimus antennas.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tandem NN. lassas contrahimus antennas.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -453,14 +664,26 @@
       "id": "item-s",
       "label": "s",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Aggratulatio in Natalem: p. 146 - 147. Initium: Illucescente ter fortunata luce,.... Nota in margine p. 146: P. Anselmus Schramb Professus Mellicensis (scilicet orationem habuit). Nota p. 147: 22. Novembris 1686.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Aggratulatio in Natalem",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 146 - 147",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Illucescente ter fortunata luce,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Illucescente ter fortunata luce,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -476,14 +699,26 @@
       "id": "item-t",
       "label": "t",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Admodum Reverende, Religiosissime ac Clarissime Domine Decane: p. 148. (Haec oratiuncula precatur professorem quendam, ut studiosos philosophiae examinet.) Nota in margine superiore: 1687. Initium: Quemadmodum profectò iam autumno.... Nota in fine orationis: R. F. J. Pictor (aut Tictor?) Quo in monasterio Religiosus iste Frater vota nuncupaverit, ignotum est.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Admodum Reverende, Religiosissime ac Clarissime Domine Decane",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 148",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quemadmodum profectò iam autumno....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quemadmodum profectò iam autumno....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -499,14 +734,26 @@
       "id": "item-u",
       "label": "u",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratiuncula Valedictoria: p. 149 - 152. Initium: Ergòne fatali necessitate fixum manet,... Notae p. 152: R. F. Anselmus Schramb Professus Mellicensis 1687 (orationem habuit).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratiuncula Valedictoria",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 149 - 152",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ergòne fatali necessitate fixum manet,...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ergòne fatali necessitate fixum manet,...",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -522,14 +769,26 @@
       "id": "item-v",
       "label": "v",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Exercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur: p. 153 - 154. Initium: Liber grandis mysterii.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Exercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 153 - 154",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Liber grandis mysterii....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Liber grandis mysterii....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -545,14 +804,26 @@
       "id": "item-w",
       "label": "w",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Propositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem: p. 154 - 155. Initium: Vix concipiebatur in sterili Annae utero.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Propositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 154 - 155",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Vix concipiebatur in sterili Annae utero....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Vix concipiebatur in sterili Annae utero....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -568,13 +839,17 @@
       "id": "item-x",
       "label": "x",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Propositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur: p. 155 - 156. Thema: S. Xaverius regnum Japoniae vastissimum Christo per praedicationem Evangelii subiecit. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Propositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 155 - 156",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -591,13 +866,17 @@
       "id": "item-y",
       "label": "y",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Exercitium Oratorium: p. 157. Thema: Ex gratiae Deiparae profluxit humano generi felicitas. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Exercitium Oratorium",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 157",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -614,13 +893,17 @@
       "id": "item-z",
       "label": "z",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Declamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae: p. 158 - 169. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Declamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 158 - 169",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -637,14 +920,26 @@
       "id": "item-a-2",
       "label": "A",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Periodus amplificata ab adjunctis seu circumstantiis: p. 170. Initium: Leopoldus in Austria Marchionatus,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Periodus amplificata ab adjunctis seu circumstantiis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 170",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Leopoldus in Austria Marchionatus,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Leopoldus in Austria Marchionatus,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -660,13 +955,17 @@
       "id": "item-b-2",
       "label": "B",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Propositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem: p. 170 - 172. Thema: S. Catharina in fide constans à Maximino Alexandriae Imperatore ad mortem condemnata. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Propositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 170 - 172",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -683,14 +982,26 @@
       "id": "item-c-2",
       "label": "C",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Hypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe: p. 172 - 173. Initium: Ecce festivâ instituti ordinis pompâ.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Hypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 172 - 173",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ecce festivâ instituti ordinis pompâ....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ecce festivâ instituti ordinis pompâ....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -706,13 +1017,17 @@
       "id": "item-d-2",
       "label": "D",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Propositio amplificata per augmentum vel incrementum oratorium: p. 174. Thema: S. Andreas sponte elegit in cruce pro Christo mori. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Propositio amplificata per augmentum vel incrementum oratorium",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 174",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -729,14 +1044,26 @@
       "id": "item-e-2",
       "label": "E",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Adornatus à Viennensi Suada Christi resurgentis triumphus: p. 175 - 181. Initium: Tragico nuper inter postremas..... Nota in margine p. 175: Anno 1683. Sub R. P. Synn Societatis Jesu.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Adornatus à Viennensi Suada Christi resurgentis triumphus",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 175 - 181",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tragico nuper inter postremas.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tragico nuper inter postremas.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -752,14 +1079,26 @@
       "id": "item-f-2",
       "label": "F",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio pro festo Pentecostes: p. 181 - 191. Initium: Pugnassent utinam majores nostri,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio pro festo Pentecostes",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 181 - 191",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Pugnassent utinam majores nostri,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Pugnassent utinam majores nostri,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -775,14 +1114,26 @@
       "id": "item-g-2",
       "label": "G",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Nihil sub sole stabile, ergo qui stat videat ne cadat: p. 192 - 193. Initium: Ea est subsolarium rerum mobilis conditio,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Nihil sub sole stabile, ergo qui stat videat ne cadat",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 192 - 193",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ea est subsolarium rerum mobilis conditio,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ea est subsolarium rerum mobilis conditio,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -798,14 +1149,26 @@
       "id": "item-h-2",
       "label": "H",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Divi Thomae Aquinatis de Venere Victoria: p. 194 - 195. Initium: Etsi multa sint scelera,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Divi Thomae Aquinatis de Venere Victoria",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 194 - 195",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Etsi multa sint scelera,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Etsi multa sint scelera,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -821,14 +1184,26 @@
       "id": "item-i-2",
       "label": "I",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Triumphus Gloriosae Virginis Mariae in Caelos Assumptae: p. 195 - 197. Initium: Recedite vani veterum Quiritum Imperatorumque triumphi,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Triumphus Gloriosae Virginis Mariae in Caelos Assumptae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 195 - 197",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Recedite vani veterum Quiritum Imperatorumque triumphi,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Recedite vani veterum Quiritum Imperatorumque triumphi,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -844,14 +1219,26 @@
       "id": "item-j-2",
       "label": "J",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Bethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur: p. 199 - 217. Initium: Inter acerba brumae frigora.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Bethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 199 - 217",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Inter acerba brumae frigora....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Inter acerba brumae frigora....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -867,19 +1254,35 @@
       "id": "item-k-2",
       "label": "K",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Flagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Flagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 218 - 245",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Sanctiores quadragesimalis Jeiunii feriae....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Sanctiores quadragesimalis Jeiunii feriae....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
           "type": "catalog_statement",
           "text": "Flagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!)"
+        },
+        {
+          "type": "completeness",
+          "text": "Nihil deest!"
         }
       ],
       "dates": [],
@@ -890,14 +1293,26 @@
       "id": "item-m-2",
       "label": "M",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum: p. 247 - 252. Initium: Assumpta est Maria in Caelum..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 247 - 252",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Assumpta est Maria in Caelum.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Assumpta est Maria in Caelum.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -913,14 +1328,26 @@
       "id": "item-n-2",
       "label": "N",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio in laudem Eloquentiae: p. 253 - 267. Initium: Salve Illustrissime ac Generosissime Domine Comes Collade.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio in laudem Eloquentiae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 253 - 267",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Salve Illustrissime ac Generosissime Domine Comes Collade....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Salve Illustrissime ac Generosissime Domine Comes Collade....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -936,14 +1363,26 @@
       "id": "item-o-2",
       "label": "O",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24: p. 269 - 281. Initium: Sic est, Sodales Mariani,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 269 - 281",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Sic est, Sodales Mariani,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Sic est, Sodales Mariani,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -959,14 +1398,26 @@
       "id": "item-p-2",
       "label": "P",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683: p. 283 - 288. Initium: Ite et vos in vineam meam....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 283 - 288",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ite et vos in vineam meam....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ite et vos in vineam meam....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -982,14 +1433,26 @@
       "id": "item-q-2",
       "label": "Q",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica, In qua S. Scholastica columbae comparatur: p. 289 - 303. Initium: Illustre Nursinorum decus.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica, In qua S. Scholastica columbae comparatur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 289 - 303",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Illustre Nursinorum decus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Illustre Nursinorum decus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1005,14 +1468,26 @@
       "id": "item-r-2",
       "label": "R",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio De Sancto Patriarcha Benedicto: p. 305 - 319. Initium: Pomposissima Regina florum virguncula Rosa est.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio De Sancto Patriarcha Benedicto",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 305 - 319",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Pomposissima Regina florum virguncula Rosa est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Pomposissima Regina florum virguncula Rosa est....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1028,14 +1503,26 @@
       "id": "item-z7",
       "label": "z₇",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio de Passione Domini: p. 321–336. Initium: Si unquam tempus aliquod,..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio de Passione Domini",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 321–336",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Si unquam tempus aliquod,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Si unquam tempus aliquod,.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1051,14 +1538,26 @@
       "id": "item-z8",
       "label": "z₈",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio de Resurrectione Domini: p. 337–348. Initium: Quae etiamnum irrevocabilis innititur veritatis basi,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio de Resurrectione Domini",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 337–348",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quae etiamnum irrevocabilis innititur veritatis basi,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quae etiamnum irrevocabilis innititur veritatis basi,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1074,14 +1573,26 @@
       "id": "item-u-2",
       "label": "u",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Epinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima: p. 349–358. Initium: Heu quid video! versórne [unleserlich] sopito.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Epinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 349–358",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Heu quid video! versórne [unleserlich] sopito....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Heu quid video! versórne [unleserlich] sopito....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1097,14 +1608,26 @@
       "id": "item-v-2",
       "label": "v",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica de S. Georgio Martyre: p. 359–376. Initium: Mentita es, invidiosa fabularum buccina,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica de S. Georgio Martyre",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 359–376",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Mentita es, invidiosa fabularum buccina,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Mentita es, invidiosa fabularum buccina,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1120,14 +1643,26 @@
       "id": "item-w-2",
       "label": "w",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica De Sancto Joanne Baptista: p. 377–391. Initium: Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica De Sancto Joanne Baptista",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 377–391",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.)",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1143,14 +1678,26 @@
       "id": "item-x-2",
       "label": "x",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? p. 393–400. Initium: Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico?",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 393–400",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1166,14 +1713,26 @@
       "id": "item-y-2",
       "label": "y",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Problema. Praestetne celeres, an lentos motus animi habere? p. 401–412. (Haec oratio in duas partes divisa est, quarum prior pro celeribus, altera pro lentis loquitur.) Initium: Celeres animi motus propugnaturus.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Problema. Praestetne celeres, an lentos motus animi habere?",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 401–412",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Celeres animi motus propugnaturus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Celeres animi motus propugnaturus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1189,14 +1748,26 @@
       "id": "item-z-2",
       "label": "z",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Problema. An utilior quaestio sit propositum cognitionis, vel actionis: p. 413–420. (Haec quoque oratio in duas partes divisa est, quarum prior stat pro proposito cognitionis, altera propugnat propositum actionis.) Initium: Nemo profectò, si.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Problema. An utilior quaestio sit propositum cognitionis, vel actionis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 413–420",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Nemo profectò, si....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Nemo profectò, si....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1212,14 +1783,26 @@
       "id": "item-z1",
       "label": "z₁",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Valedictio Philosophica: p. 421–428. Initium: Tandem. Seu ut typotio Maximilianus primus..... Nota in margine p. 421: 1685. 20 Julii. (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Valedictio Philosophica",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 421–428",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tandem. Seu ut typotio Maximilianus primus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tandem. Seu ut typotio Maximilianus primus.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1235,14 +1818,26 @@
       "id": "item-z2",
       "label": "z₂",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Gradus Baccalaureatûs: p. 429–436. Initium: Intellexi vota et desideria vestra...... (Auctor, qui hanc orationem ad baccalaureatus lauream conferendam habuit, ignotus.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Gradus Baccalaureatûs",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 429–436",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Intellexi vota et desideria vestra......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Intellexi vota et desideria vestra......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1258,14 +1853,26 @@
       "id": "item-z3",
       "label": "z₃",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Actio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio: p. 437–447. Initium: Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Actio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 437–447",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.)",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1281,14 +1888,26 @@
       "id": "item-z4",
       "label": "z₄",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano: p. 449–451. Initium: Si apud eum judicem.... (Auctor ign.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 449–451",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Si apud eum judicem....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Si apud eum judicem....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1304,14 +1923,26 @@
       "id": "item-z5",
       "label": "z₅",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Refutatur (scilicet Veritas) à Mendacio: p. 452–453. Initium: Tantum abest aequissime Judex,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Refutatur (scilicet Veritas) à Mendacio",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 452–453",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tantum abest aequissime Judex,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tantum abest aequissime Judex,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1327,14 +1958,26 @@
       "id": "item-z6",
       "label": "z₆",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Conqueritur veritas eò quod ita modò ab omnibus depellatur: p. 453–454. Initium: Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Conqueritur veritas eò quod ita modò ab omnibus depellatur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 453–454",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.)",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1350,14 +1993,26 @@
       "id": "item-z7-2",
       "label": "z₇",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur: p. 455–462. Initium: Vereor Auditores humanissimi, vereor inquam,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 455–462",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Vereor Auditores humanissimi, vereor inquam,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Vereor Auditores humanissimi, vereor inquam,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1373,14 +2028,26 @@
       "id": "item-z8-2",
       "label": "z₈",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Memoria passionis Dominicae: p. 463–468. Initium: Transitum de contradictorio in contradictorium..... Nota p. 468: 14. Aprilis 1685. R. P. Bruno Schlibnigg Ordinis S. Benedicti professus in Carinthia (ad S. Paulum....) (Ultima linea a bibliopego abscisa!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Memoria passionis Dominicae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 463–468",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Transitum de contradictorio in contradictorium.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Transitum de contradictorio in contradictorium.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1396,14 +2063,26 @@
       "id": "item-z9",
       "label": "z₉",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris: p. 469–475. Initium: Nescio Mariani Domini Sodales,..... Nota p. 475: facta à Religioso F. Bernardo Lind Professo Yrrseensi pro tempore Praefecto (Sodalitatis) (Monasterium Irsee Ordinis S. Benedicti ad Dioecesim Augustanam pertinebat!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 469–475",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Nescio Mariani Domini Sodales,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Nescio Mariani Domini Sodales,.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1419,14 +2098,26 @@
       "id": "item-z10",
       "label": "z₁₀",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser: p. 477–482. Initium: Ad Philosophorum theses hodiernâ luce vos invito....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 477–482",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ad Philosophorum theses hodiernâ luce vos invito....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ad Philosophorum theses hodiernâ luce vos invito....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1442,14 +2133,26 @@
       "id": "item-z11",
       "label": "z₁₁",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti: p. 483–490. Initium: Date locum, portas aperite.... Nota p. 490: Religiosus F. Bernardus Lind Professus Yrseensis. 11 Julii 1685 (?) in Aula Academica. (de auctore supra ad partem z₉!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 483–490",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Date locum, portas aperite....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Date locum, portas aperite....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1465,14 +2168,26 @@
       "id": "item-z12",
       "label": "z₁₂",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Politia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta: p. 491–498. Initium: Vestro equidem communi omnium solatio.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Politia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 491–498",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Vestro equidem communi omnium solatio....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Vestro equidem communi omnium solatio....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1488,13 +2203,17 @@
       "id": "item-z13",
       "label": "z₁₃",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio de Nativitate Domini: p. 499–510. Thema: Parvulus natus est nobis. Isaias. (Auctor ignotus) (Pag. 502 immediate sequitur p. 507)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio de Nativitate Domini",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 499–510",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -1511,14 +2230,26 @@
       "id": "item-z14",
       "label": "z₁₄",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio De Nativitate Christi: p. 511–517. Initium: Inauditam demiramini resultantis..... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio De Nativitate Christi",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 511–517",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Inauditam demiramini resultantis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Inauditam demiramini resultantis.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1534,14 +2265,26 @@
       "id": "item-z15",
       "label": "z₁₅",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio De Caelesti Sancti Ignatii ambitione: p. 519–541. Initium: Usque adeò mortalium animis desiderium.... Nota p. 541: facta à R. P. Koffer Societatis Jesu verè iuxta artificium. (Eandem orationem exhibet Cod. MN II 135 in parte W; vide supra p. 91!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio De Caelesti Sancti Ignatii ambitione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 519–541",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Usque adeò mortalium animis desiderium....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Usque adeò mortalium animis desiderium....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1557,14 +2300,26 @@
       "id": "item-z16",
       "label": "z₁₆",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Ad Sanctissimam Virginem Mariam sine macula conceptam: p. 543–553. Initium: Adorna thalamum tuum Sion,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Ad Sanctissimam Virginem Mariam sine macula conceptam",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 543–553",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Adorna thalamum tuum Sion,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Adorna thalamum tuum Sion,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1580,14 +2335,26 @@
       "id": "item-z17",
       "label": "z₁₇",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684: p. 555–560. Initium: Quò vos Mariani Domini Candidati...... Nota p. 560: facta A Religioso F. Bern(ardo Lind) Professo Yrseensi pro tempore Praefecto (de quo supra ad partem z₉!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 555–560",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quò vos Mariani Domini Candidati......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quò vos Mariani Domini Candidati......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1603,14 +2370,26 @@
       "id": "item-z18",
       "label": "z₁₈",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti: p. 561–575. Initium: Sum qui Sum, et sunt qui sunt, Auditores.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 561–575",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Sum qui Sum, et sunt qui sunt, Auditores....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Sum qui Sum, et sunt qui sunt, Auditores....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1626,14 +2405,26 @@
       "id": "item-z19",
       "label": "z₁₉",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio (ad Sodales Marianos habita): p. 577–584. Initium: Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio (ad Sodales Marianos habita)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 577–584",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.)",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1649,14 +2440,26 @@
       "id": "item-z20",
       "label": "z₂₀",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio Pro festo omnium Sanctorum Monachorum: p. 585–592. Initium: Aurium delicias et Tullianas expectatis epulas.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio Pro festo omnium Sanctorum Monachorum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 585–592",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Aurium delicias et Tullianas expectatis epulas....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Aurium delicias et Tullianas expectatis epulas....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1672,14 +2475,26 @@
       "id": "item-z21",
       "label": "z₂₁",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem: p. 593–603. Initium: Regia Majestas eâ semper prodit formâ,..... Nota p. 603: R. P. Edmundus Grabman. Professus Seonensis pro tempore Professor Rhetorices. 1684 (Sine dubio P. Edmundus Grabman idem est atque P. Edmundus Gramont, professus Seonensis, qui orationes q et s codicis MN II 135 – supra p. 89! – habuit.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 593–603",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Regia Majestas eâ semper prodit formâ,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Regia Majestas eâ semper prodit formâ,.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1695,13 +2510,17 @@
       "id": "item-z22",
       "label": "z₂₂",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari: p. 605–615. Argumentum p. 605: Cyrus summum despectum regi fecit, et maximam audaciam consecutus, ergo quàm iustissimè supplicio afficiendus. [Randnotiz:] De auctore vide proximam partem! Nota p. 615: Sequetur Defensio et Responsio.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 605–615",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -1718,15 +2537,37 @@
       "id": "item-z23",
       "label": "z₂₃",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Defensio et Responsio Cyri Artabazis coram Rege Astyage: p. 616–626. Initium: Gratulor mihi non parum.... Subscriptio p. 626: Joannes Daniel Pockh. 1673. (scilicet habuit hanc defensionem ideoque probabiliter etiam orationem partis z₂₂.)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Defensio et Responsio Cyri Artabazis coram Rege Astyage",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 616–626",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Gratulor mihi non parum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 626",
+          "text": "Joannes Daniel Pockh. 1673.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Gratulor mihi non parum....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 626",
+        "text": "Joannes Daniel Pockh. 1673.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -1741,14 +2582,26 @@
       "id": "item-z24",
       "label": "z₂₄",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Oratio demonstrativa Vituperium ignaviae: p. 629–634. Initium: Pudet me – ita me Deus amet – officii mei,.... (Auctor ignotus!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Oratio demonstrativa Vituperium ignaviae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 629–634",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Pudet me – ita me Deus amet – officii mei,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Pudet me – ita me Deus amet – officii mei,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -1816,13 +2669,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-s-xviii-3-m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 S (XVIII 3 m)",
-    "titles": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem). \nOratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem). \nOratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R: p. 19 - 29. Initium: Eia! incitat hodie in ausus elingues linguas..... Nota p. 29: R. Anselmus Praun Professus Mallerstorphensis. \nPanegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7.: p. 31 - 39. Initium p. 31: Ergo hodie sors super me cecidit, Auditores Academici..... Nota p. 39: In aula Academica ipso festo S. Bonifacii 1686. R. P. Colomannus Seherb Professus Mellicensis pro tempore Juris Utriusque Studiosus Salisburgensis. \nOratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti: p. 41 - 48. Initium: Horreo, et totis artubus contremisco, Auditores Academici..... Nota p. 48: 13. Novembris 1685. R. P. Anselmus Schramb Professus Mellicensis pro tempore Juris Studiosus Salisburgi in Convictu. \nOratio De Sanctis Monachis Ordinis S. Benedicti: p. 49 - 59. Initium p. 49: Papae! quis ex ipsa totius orbis facie terrae ..... (Orator ignotus!) Nota in margine p. 49: 13. Novembris 1688. \nOratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti: p. 61 - 76. Thema: Fulgebunt iusti sicut stellae Caeli. Subscriptio p. 76: F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis (auctor). \nEncomium Divi Patriarchae Benedicti Idaea veri Herois: p. 77 - 84. Initium: Quemadmodum rarò ex delicatis Persarum Gynaecaeis..... (Auctor ignotus.) \nEpistola petitoria Monastici cuculli, simulque mundi pericula repraesentans: p. 84 - 87. Initium: Inter primas, Amplissime Praesul, homini..... (Auctor ignotus!) \nExercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse: p. 87 - 89. Initium: Ploranda est sané plerorumque Juvenum..... (Auctor ignotus!) \nHistoria tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit: p. 89 - 91. (Auctor ignotus!) \nOratio pro solenni initio (scilicet Anni scholaris Academici?): p. 92 - 100. Initium p. 92: Cùm Mars armipotens sublimi vectus quadrigâ..... (Auctor ignotus!) \nVita Divi Bonifacii super terram Militia, In oratione panegyrica proposita: p. 101 - 117. Initium: Ad arma! ad arma! Auditores Academici...... Nota p. 117: In Aula Academica Salisburgi pro festo S. Bonifacii 10 Junii 1687. Religiosus F. Romanus Schyrensis. \nOculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus: p. 119 - 124. Initium: An hodie splendidissimo Natalium gaudiorum Sub astro..... (Neque ipse auctor notus neque cui abbati consecraverit orationem!) \nChristus Subactis Mundi hostibus triumphat: p. 125 - 130. Initium: Ergò ne adhuc caeca sudat antiquitas..... (Auctor ignotus!) \nOratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint: p. 131 - 132. Initium: Jactent tantummodo fabulosa Poetarum commenta..... (Auctor ignotus!) \nOratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta: p. 133 - 139. Initium: Aniciana familia...... Nota p. 139: R. F. Modestus Resmen Ordinis S. Benedicti Professus Garstensis 11 Julii 1686 in Aula Academica. \nOratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684: p. 139 - 143. Initium: Haud equidem indignor..... (Auctor professorque natalizans ignoti!) \nGratiarum actio: p. 144 - 145. Initium: Tandem NN. lassas contrahimus antennas..... (Auctor ignotus; videtur studiosus pro sodalibus professori post cursum philosophicum finitum gratias agere.) \nAggratulatio in Natalem: p. 146 - 147. Initium: Illucescente ter fortunata luce,.... Nota in margine p. 146: P. Anselmus Schramb Professus Mellicensis (scilicet orationem habuit). Nota p. 147: 22. Novembris 1686. \nAdmodum Reverende, Religiosissime ac Clarissime Domine Decane: p. 148. (Haec oratiuncula precatur professorem quendam, ut studiosos philosophiae examinet.) Nota in margine superiore: 1687. Initium: Quemadmodum profectò iam autumno.... Nota in fine orationis: R. F. J. Pictor (aut Tictor?) Quo in monasterio Religiosus iste Frater vota nuncupaverit, ignotum est. \nOratiuncula Valedictoria: p. 149 - 152. Initium: Ergòne fatali necessitate fixum manet,... Notae p. 152: R. F. Anselmus Schramb Professus Mellicensis 1687 (orationem habuit). \nExercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur: p. 153 - 154. Initium: Liber grandis mysterii.... (Auctor ignotus!) \nPropositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem: p. 154 - 155. Initium: Vix concipiebatur in sterili Annae utero.... (Auctor ignotus!) \nPropositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur: p. 155 - 156. Thema: S. Xaverius regnum Japoniae vastissimum Christo per praedicationem Evangelii subiecit. (Auctor ignotus!) \nExercitium Oratorium: p. 157. Thema: Ex gratiae Deiparae profluxit humano generi felicitas. (Auctor ignotus!) \nDeclamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae: p. 158 - 169. (Auctor ignotus!) \nPeriodus amplificata ab adjunctis seu circumstantiis: p. 170. Initium: Leopoldus in Austria Marchionatus,.... (Auctor ignotus!) \nPropositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem: p. 170 - 172. Thema: S. Catharina in fide constans à Maximino Alexandriae Imperatore ad mortem condemnata. (Auctor ignotus!) \nHypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe: p. 172 - 173. Initium: Ecce festivâ instituti ordinis pompâ.... (Auctor ignotus!) \nPropositio amplificata per augmentum vel incrementum oratorium: p. 174. Thema: S. Andreas sponte elegit in cruce pro Christo mori. (Auctor ignotus!) \nAdornatus à Viennensi Suada Christi resurgentis triumphus: p. 175 - 181. Initium: Tragico nuper inter postremas..... Nota in margine p. 175: Anno 1683. Sub R. P. Synn Societatis Jesu. \nOratio pro festo Pentecostes: p. 181 - 191. Initium: Pugnassent utinam majores nostri,.... (Auctor ignotus!) \nNihil sub sole stabile, ergo qui stat videat ne cadat: p. 192 - 193. Initium: Ea est subsolarium rerum mobilis conditio,.... (Auctor ignotus!) \nDivi Thomae Aquinatis de Venere Victoria: p. 194 - 195. Initium: Etsi multa sint scelera,.... (Auctor ignotus!) \nTriumphus Gloriosae Virginis Mariae in Caelos Assumptae: p. 195 - 197. Initium: Recedite vani veterum Quiritum Imperatorumque triumphi,.... (Auctor ignotus!) \nBethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur: p. 199 - 217. Initium: Inter acerba brumae frigora.... (Auctor ignotus!) \nFlagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!) \nOratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum: p. 247 - 252. Initium: Assumpta est Maria in Caelum..... (Auctor ignotus!) \nOratio in laudem Eloquentiae: p. 253 - 267. Initium: Salve Illustrissime ac Generosissime Domine Comes Collade.... (Auctor ignotus!) \nOratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24: p. 269 - 281. Initium: Sic est, Sodales Mariani,.... (Auctor ignotus!) \nOratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683: p. 283 - 288. Initium: Ite et vos in vineam meam.... \nOratio Panegyrica, In qua S. Scholastica columbae comparatur: p. 289 - 303. Initium: Illustre Nursinorum decus.... (Auctor ignotus!) \nOratio De Sancto Patriarcha Benedicto: p. 305 - 319. Initium: Pomposissima Regina florum virguncula Rosa est.... (Auctor ignotus!) \nOratio de Passione Domini: p. 321–336. Initium: Si unquam tempus aliquod,..... (Auctor ignotus!) \nOratio de Resurrectione Domini: p. 337–348. Initium: Quae etiamnum irrevocabilis innititur veritatis basi,.... (Auctor ignotus!) \nEpinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima: p. 349–358. Initium: Heu quid video! versórne [unleserlich] sopito.... (Auctor ignotus!) \nOratio Panegyrica de S. Georgio Martyre: p. 359–376. Initium: Mentita es, invidiosa fabularum buccina,.... (Auctor ignotus!) \nOratio Panegyrica De Sancto Joanne Baptista: p. 377–391. Initium: Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.) \nOratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? p. 393–400. Initium: Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... (Auctor ignotus!) \nProblema. Praestetne celeres, an lentos motus animi habere? p. 401–412. (Haec oratio in duas partes divisa est, quarum prior pro celeribus, altera pro lentis loquitur.) Initium: Celeres animi motus propugnaturus.... (Auctor ignotus!) \nProblema. An utilior quaestio sit propositum cognitionis, vel actionis: p. 413–420. (Haec quoque oratio in duas partes divisa est, quarum prior stat pro proposito cognitionis, altera propugnat propositum actionis.) Initium: Nemo profectò, si.... (Auctor ignotus!) \nValedictio Philosophica: p. 421–428. Initium: Tandem. Seu ut typotio Maximilianus primus..... Nota in margine p. 421: 1685. 20 Julii. (Auctor ignotus!) \nGradus Baccalaureatûs: p. 429–436. Initium: Intellexi vota et desideria vestra...... (Auctor, qui hanc orationem ad baccalaureatus lauream conferendam habuit, ignotus.) \nActio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio: p. 437–447. Initium: Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) (Auctor ignotus!) \nOratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano: p. 449–451. Initium: Si apud eum judicem.... (Auctor ign.) \nRefutatur (scilicet Veritas) à Mendacio: p. 452–453. Initium: Tantum abest aequissime Judex,.... (Auctor ignotus!) \nConqueritur veritas eò quod ita modò ab omnibus depellatur: p. 453–454. Initium: Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.) \nOratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur: p. 455–462. Initium: Vereor Auditores humanissimi, vereor inquam,.... (Auctor ignotus!) \nMemoria passionis Dominicae: p. 463–468. Initium: Transitum de contradictorio in contradictorium..... Nota p. 468: 14. Aprilis 1685. R. P. Bruno Schlibnigg Ordinis S. Benedicti professus in Carinthia (ad S. Paulum....) (Ultima linea a bibliopego abscisa!) \nOratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris: p. 469–475. Initium: Nescio Mariani Domini Sodales,..... Nota p. 475: facta à Religioso F. Bernardo Lind Professo Yrrseensi pro tempore Praefecto (Sodalitatis) (Monasterium Irsee Ordinis S. Benedicti ad Dioecesim Augustanam pertinebat!) \nOratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser: p. 477–482. Initium: Ad Philosophorum theses hodiernâ luce vos invito.... \nOratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti: p. 483–490. Initium: Date locum, portas aperite.... Nota p. 490: Religiosus F. Bernardus Lind Professus Yrseensis. 11 Julii 1685 (?) in Aula Academica. (de auctore supra ad partem z₉!) \nPolitia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta: p. 491–498. Initium: Vestro equidem communi omnium solatio.... (Auctor ignotus!) \nOratio de Nativitate Domini: p. 499–510. Thema: Parvulus natus est nobis. Isaias. (Auctor ignotus) (Pag. 502 immediate sequitur p. 507) \nOratio De Nativitate Christi: p. 511–517. Initium: Inauditam demiramini resultantis..... (Auctor ignotus!) \nOratio De Caelesti Sancti Ignatii ambitione: p. 519–541. Initium: Usque adeò mortalium animis desiderium.... Nota p. 541: facta à R. P. Koffer Societatis Jesu verè iuxta artificium. (Eandem orationem exhibet Cod. MN II 135 in parte W; vide supra p. 91!) \nOratio Ad Sanctissimam Virginem Mariam sine macula conceptam: p. 543–553. Initium: Adorna thalamum tuum Sion,.... (Auctor ignotus!) \nOratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684: p. 555–560. Initium: Quò vos Mariani Domini Candidati...... Nota p. 560: facta A Religioso F. Bern(ardo Lind) Professo Yrseensi pro tempore Praefecto (de quo supra ad partem z₉!) \nOratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti: p. 561–575. Initium: Sum qui Sum, et sunt qui sunt, Auditores.... (Auctor ignotus!) \nOratio (ad Sodales Marianos habita): p. 577–584. Initium: Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.) \nOratio Pro festo omnium Sanctorum Monachorum: p. 585–592. Initium: Aurium delicias et Tullianas expectatis epulas.... (Auctor ignotus!) \nOratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem: p. 593–603. Initium: Regia Majestas eâ semper prodit formâ,..... Nota p. 603: R. P. Edmundus Grabman. Professus Seonensis pro tempore Professor Rhetorices. 1684 (Sine dubio P. Edmundus Grabman idem est atque P. Edmundus Gramont, professus Seonensis, qui orationes q et s codicis MN II 135 – supra p. 89! – habuit.) \nOratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari: p. 605–615. Argumentum p. 605: Cyrus summum despectum regi fecit, et maximam audaciam consecutus, ergo quàm iustissimè supplicio afficiendus. [Randnotiz:] De auctore vide proximam partem! Nota p. 615: Sequetur Defensio et Responsio. \nDefensio et Responsio Cyri Artabazis coram Rege Astyage: p. 616–626. Initium: Gratulor mihi non parum.... Subscriptio p. 626: Joannes Daniel Pockh. 1673. (scilicet habuit hanc defensionem ideoque probabiliter etiam orationem partis z₂₂.) \nOratio demonstrativa Vituperium ignaviae: p. 629–634. Initium: Pudet me – ita me Deus amet – officii mei,.... (Auctor ignotus!)",
+    "titles": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri \nOratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri \nOratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R \nPanegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7 \nOratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti \nOratio De Sanctis Monachis Ordinis S. Benedicti \nOratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti \nEncomium Divi Patriarchae Benedicti Idaea veri Herois \nEpistola petitoria Monastici cuculli, simulque mundi pericula repraesentans \nExercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse \nHistoria tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit \nOratio pro solenni initio (scilicet Anni scholaris Academici?) \nVita Divi Bonifacii super terram Militia, In oratione panegyrica proposita \nOculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus \nChristus Subactis Mundi hostibus triumphat \nOratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint \nOratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta \nOratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684 \nGratiarum actio \nAggratulatio in Natalem \nAdmodum Reverende, Religiosissime ac Clarissime Domine Decane \nOratiuncula Valedictoria \nExercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur \nPropositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem \nPropositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur \nExercitium Oratorium \nDeclamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae \nPeriodus amplificata ab adjunctis seu circumstantiis \nPropositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem \nHypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe \nPropositio amplificata per augmentum vel incrementum oratorium \nAdornatus à Viennensi Suada Christi resurgentis triumphus \nOratio pro festo Pentecostes \nNihil sub sole stabile, ergo qui stat videat ne cadat \nDivi Thomae Aquinatis de Venere Victoria \nTriumphus Gloriosae Virginis Mariae in Caelos Assumptae \nBethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur \nFlagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum \nOratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum \nOratio in laudem Eloquentiae \nOratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24 \nOratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683 \nOratio Panegyrica, In qua S. Scholastica columbae comparatur \nOratio De Sancto Patriarcha Benedicto \nOratio de Passione Domini \nOratio de Resurrectione Domini \nEpinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima \nOratio Panegyrica de S. Georgio Martyre \nOratio Panegyrica De Sancto Joanne Baptista \nOratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? \nProblema. Praestetne celeres, an lentos motus animi habere? \nProblema. An utilior quaestio sit propositum cognitionis, vel actionis \nValedictio Philosophica \nGradus Baccalaureatûs \nActio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio \nOratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano \nRefutatur (scilicet Veritas) à Mendacio \nConqueritur veritas eò quod ita modò ab omnibus depellatur \nOratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur \nMemoria passionis Dominicae \nOratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris \nOratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser \nOratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti \nPolitia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta \nOratio de Nativitate Domini \nOratio De Nativitate Christi \nOratio De Caelesti Sancti Ignatii ambitione \nOratio Ad Sanctissimam Virginem Mariam sine macula conceptam \nOratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684 \nOratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti \nOratio (ad Sodales Marianos habita) \nOratio Pro festo omnium Sanctorum Monachorum \nOratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem \nOratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari \nDefensio et Responsio Cyri Artabazis coram Rege Astyage \nOratio demonstrativa Vituperium ignaviae",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Katalogbeschreibung von Arch. Cod. 34 S (XVIII 3 m). \nOratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem). \nOratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R: p. 19 - 29. Initium: Eia! incitat hodie in ausus elingues linguas..... Nota p. 29: R. Anselmus Praun Professus Mallerstorphensis. \nPanegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7.: p. 31 - 39. Initium p. 31: Ergo hodie sors super me cecidit, Auditores Academici..... Nota p. 39: In aula Academica ipso festo S. Bonifacii 1686. R. P. Colomannus Seherb Professus Mellicensis pro tempore Juris Utriusque Studiosus Salisburgensis. \nOratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti: p. 41 - 48. Initium: Horreo, et totis artubus contremisco, Auditores Academici..... Nota p. 48: 13. Novembris 1685. R. P. Anselmus Schramb Professus Mellicensis pro tempore Juris Studiosus Salisburgi in Convictu. \nOratio De Sanctis Monachis Ordinis S. Benedicti: p. 49 - 59. Initium p. 49: Papae! quis ex ipsa totius orbis facie terrae ..... (Orator ignotus!) Nota in margine p. 49: 13. Novembris 1688. \nOratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti: p. 61 - 76. Thema: Fulgebunt iusti sicut stellae Caeli. Subscriptio p. 76: F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis (auctor). \nEncomium Divi Patriarchae Benedicti Idaea veri Herois: p. 77 - 84. Initium: Quemadmodum rarò ex delicatis Persarum Gynaecaeis..... (Auctor ignotus.) \nEpistola petitoria Monastici cuculli, simulque mundi pericula repraesentans: p. 84 - 87. Initium: Inter primas, Amplissime Praesul, homini..... (Auctor ignotus!) \nExercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse: p. 87 - 89. Initium: Ploranda est sané plerorumque Juvenum..... (Auctor ignotus!) \nHistoria tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit: p. 89 - 91. (Auctor ignotus!) \nOratio pro solenni initio (scilicet Anni scholaris Academici?): p. 92 - 100. Initium p. 92: Cùm Mars armipotens sublimi vectus quadrigâ..... (Auctor ignotus!) \nVita Divi Bonifacii super terram Militia, In oratione panegyrica proposita: p. 101 - 117. Initium: Ad arma! ad arma! Auditores Academici...... Nota p. 117: In Aula Academica Salisburgi pro festo S. Bonifacii 10 Junii 1687. Religiosus F. Romanus Schyrensis. \nOculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus: p. 119 - 124. Initium: An hodie splendidissimo Natalium gaudiorum Sub astro..... (Neque ipse auctor notus neque cui abbati consecraverit orationem!) \nChristus Subactis Mundi hostibus triumphat: p. 125 - 130. Initium: Ergò ne adhuc caeca sudat antiquitas..... (Auctor ignotus!) \nOratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint: p. 131 - 132. Initium: Jactent tantummodo fabulosa Poetarum commenta..... (Auctor ignotus!) \nOratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta: p. 133 - 139. Initium: Aniciana familia...... Nota p. 139: R. F. Modestus Resmen Ordinis S. Benedicti Professus Garstensis 11 Julii 1686 in Aula Academica. \nOratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684: p. 139 - 143. Initium: Haud equidem indignor..... (Auctor professorque natalizans ignoti!) \nGratiarum actio: p. 144 - 145. Initium: Tandem NN. lassas contrahimus antennas..... (Auctor ignotus; videtur studiosus pro sodalibus professori post cursum philosophicum finitum gratias agere.) \nAggratulatio in Natalem: p. 146 - 147. Initium: Illucescente ter fortunata luce,.... Nota in margine p. 146: P. Anselmus Schramb Professus Mellicensis (scilicet orationem habuit). Nota p. 147: 22. Novembris 1686. \nAdmodum Reverende, Religiosissime ac Clarissime Domine Decane: p. 148. (Haec oratiuncula precatur professorem quendam, ut studiosos philosophiae examinet.) Nota in margine superiore: 1687. Initium: Quemadmodum profectò iam autumno.... Nota in fine orationis: R. F. J. Pictor (aut Tictor?) Quo in monasterio Religiosus iste Frater vota nuncupaverit, ignotum est. \nOratiuncula Valedictoria: p. 149 - 152. Initium: Ergòne fatali necessitate fixum manet,... Notae p. 152: R. F. Anselmus Schramb Professus Mellicensis 1687 (orationem habuit). \nExercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur: p. 153 - 154. Initium: Liber grandis mysterii.... (Auctor ignotus!) \nPropositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem: p. 154 - 155. Initium: Vix concipiebatur in sterili Annae utero.... (Auctor ignotus!) \nPropositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur: p. 155 - 156. Thema: S. Xaverius regnum Japoniae vastissimum Christo per praedicationem Evangelii subiecit. (Auctor ignotus!) \nExercitium Oratorium: p. 157. Thema: Ex gratiae Deiparae profluxit humano generi felicitas. (Auctor ignotus!) \nDeclamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae: p. 158 - 169. (Auctor ignotus!) \nPeriodus amplificata ab adjunctis seu circumstantiis: p. 170. Initium: Leopoldus in Austria Marchionatus,.... (Auctor ignotus!) \nPropositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem: p. 170 - 172. Thema: S. Catharina in fide constans à Maximino Alexandriae Imperatore ad mortem condemnata. (Auctor ignotus!) \nHypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe: p. 172 - 173. Initium: Ecce festivâ instituti ordinis pompâ.... (Auctor ignotus!) \nPropositio amplificata per augmentum vel incrementum oratorium: p. 174. Thema: S. Andreas sponte elegit in cruce pro Christo mori. (Auctor ignotus!) \nAdornatus à Viennensi Suada Christi resurgentis triumphus: p. 175 - 181. Initium: Tragico nuper inter postremas..... Nota in margine p. 175: Anno 1683. Sub R. P. Synn Societatis Jesu. \nOratio pro festo Pentecostes: p. 181 - 191. Initium: Pugnassent utinam majores nostri,.... (Auctor ignotus!) \nNihil sub sole stabile, ergo qui stat videat ne cadat: p. 192 - 193. Initium: Ea est subsolarium rerum mobilis conditio,.... (Auctor ignotus!) \nDivi Thomae Aquinatis de Venere Victoria: p. 194 - 195. Initium: Etsi multa sint scelera,.... (Auctor ignotus!) \nTriumphus Gloriosae Virginis Mariae in Caelos Assumptae: p. 195 - 197. Initium: Recedite vani veterum Quiritum Imperatorumque triumphi,.... (Auctor ignotus!) \nBethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur: p. 199 - 217. Initium: Inter acerba brumae frigora.... (Auctor ignotus!) \nFlagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!) \nOratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum: p. 247 - 252. Initium: Assumpta est Maria in Caelum..... (Auctor ignotus!) \nOratio in laudem Eloquentiae: p. 253 - 267. Initium: Salve Illustrissime ac Generosissime Domine Comes Collade.... (Auctor ignotus!) \nOratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24: p. 269 - 281. Initium: Sic est, Sodales Mariani,.... (Auctor ignotus!) \nOratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683: p. 283 - 288. Initium: Ite et vos in vineam meam.... \nOratio Panegyrica, In qua S. Scholastica columbae comparatur: p. 289 - 303. Initium: Illustre Nursinorum decus.... (Auctor ignotus!) \nOratio De Sancto Patriarcha Benedicto: p. 305 - 319. Initium: Pomposissima Regina florum virguncula Rosa est.... (Auctor ignotus!) \nOratio de Passione Domini: p. 321–336. Initium: Si unquam tempus aliquod,..... (Auctor ignotus!) \nOratio de Resurrectione Domini: p. 337–348. Initium: Quae etiamnum irrevocabilis innititur veritatis basi,.... (Auctor ignotus!) \nEpinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima: p. 349–358. Initium: Heu quid video! versórne [unleserlich] sopito.... (Auctor ignotus!) \nOratio Panegyrica de S. Georgio Martyre: p. 359–376. Initium: Mentita es, invidiosa fabularum buccina,.... (Auctor ignotus!) \nOratio Panegyrica De Sancto Joanne Baptista: p. 377–391. Initium: Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.) \nOratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? p. 393–400. Initium: Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... (Auctor ignotus!) \nProblema. Praestetne celeres, an lentos motus animi habere? p. 401–412. (Haec oratio in duas partes divisa est, quarum prior pro celeribus, altera pro lentis loquitur.) Initium: Celeres animi motus propugnaturus.... (Auctor ignotus!) \nProblema. An utilior quaestio sit propositum cognitionis, vel actionis: p. 413–420. (Haec quoque oratio in duas partes divisa est, quarum prior stat pro proposito cognitionis, altera propugnat propositum actionis.) Initium: Nemo profectò, si.... (Auctor ignotus!) \nValedictio Philosophica: p. 421–428. Initium: Tandem. Seu ut typotio Maximilianus primus..... Nota in margine p. 421: 1685. 20 Julii. (Auctor ignotus!) \nGradus Baccalaureatûs: p. 429–436. Initium: Intellexi vota et desideria vestra...... (Auctor, qui hanc orationem ad baccalaureatus lauream conferendam habuit, ignotus.) \nActio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio: p. 437–447. Initium: Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) (Auctor ignotus!) \nOratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano: p. 449–451. Initium: Si apud eum judicem.... (Auctor ign.) \nRefutatur (scilicet Veritas) à Mendacio: p. 452–453. Initium: Tantum abest aequissime Judex,.... (Auctor ignotus!) \nConqueritur veritas eò quod ita modò ab omnibus depellatur: p. 453–454. Initium: Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.) \nOratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur: p. 455–462. Initium: Vereor Auditores humanissimi, vereor inquam,.... (Auctor ignotus!) \nMemoria passionis Dominicae: p. 463–468. Initium: Transitum de contradictorio in contradictorium..... Nota p. 468: 14. Aprilis 1685. R. P. Bruno Schlibnigg Ordinis S. Benedicti professus in Carinthia (ad S. Paulum....) (Ultima linea a bibliopego abscisa!) \nOratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris: p. 469–475. Initium: Nescio Mariani Domini Sodales,..... Nota p. 475: facta à Religioso F. Bernardo Lind Professo Yrrseensi pro tempore Praefecto (Sodalitatis) (Monasterium Irsee Ordinis S. Benedicti ad Dioecesim Augustanam pertinebat!) \nOratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser: p. 477–482. Initium: Ad Philosophorum theses hodiernâ luce vos invito.... \nOratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti: p. 483–490. Initium: Date locum, portas aperite.... Nota p. 490: Religiosus F. Bernardus Lind Professus Yrseensis. 11 Julii 1685 (?) in Aula Academica. (de auctore supra ad partem z₉!) \nPolitia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta: p. 491–498. Initium: Vestro equidem communi omnium solatio.... (Auctor ignotus!) \nOratio de Nativitate Domini: p. 499–510. Thema: Parvulus natus est nobis. Isaias. (Auctor ignotus) (Pag. 502 immediate sequitur p. 507) \nOratio De Nativitate Christi: p. 511–517. Initium: Inauditam demiramini resultantis..... (Auctor ignotus!) \nOratio De Caelesti Sancti Ignatii ambitione: p. 519–541. Initium: Usque adeò mortalium animis desiderium.... Nota p. 541: facta à R. P. Koffer Societatis Jesu verè iuxta artificium. (Eandem orationem exhibet Cod. MN II 135 in parte W; vide supra p. 91!) \nOratio Ad Sanctissimam Virginem Mariam sine macula conceptam: p. 543–553. Initium: Adorna thalamum tuum Sion,.... (Auctor ignotus!) \nOratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684: p. 555–560. Initium: Quò vos Mariani Domini Candidati...... Nota p. 560: facta A Religioso F. Bern(ardo Lind) Professo Yrseensi pro tempore Praefecto (de quo supra ad partem z₉!) \nOratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti: p. 561–575. Initium: Sum qui Sum, et sunt qui sunt, Auditores.... (Auctor ignotus!) \nOratio (ad Sodales Marianos habita): p. 577–584. Initium: Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.) \nOratio Pro festo omnium Sanctorum Monachorum: p. 585–592. Initium: Aurium delicias et Tullianas expectatis epulas.... (Auctor ignotus!) \nOratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem: p. 593–603. Initium: Regia Majestas eâ semper prodit formâ,..... Nota p. 603: R. P. Edmundus Grabman. Professus Seonensis pro tempore Professor Rhetorices. 1684 (Sine dubio P. Edmundus Grabman idem est atque P. Edmundus Gramont, professus Seonensis, qui orationes q et s codicis MN II 135 – supra p. 89! – habuit.) \nOratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari: p. 605–615. Argumentum p. 605: Cyrus summum despectum regi fecit, et maximam audaciam consecutus, ergo quàm iustissimè supplicio afficiendus. [Randnotiz:] De auctore vide proximam partem! Nota p. 615: Sequetur Defensio et Responsio. \nDefensio et Responsio Cyri Artabazis coram Rege Astyage: p. 616–626. Initium: Gratulor mihi non parum.... Subscriptio p. 626: Joannes Daniel Pockh. 1673. (scilicet habuit hanc defensionem ideoque probabiliter etiam orationem partis z₂₂.) \nOratio demonstrativa Vituperium ignaviae: p. 629–634. Initium: Pudet me – ita me Deus amet – officii mei,.... (Auctor ignotus!)",
-    "physical": "Papier \n656 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "incipits": "Eia! incitat hodie in ausus elingues linguas..... \nErgo hodie sors super me cecidit, Auditores Academici..... \nHorreo, et totis artubus contremisco, Auditores Academici..... \nPapae! quis ex ipsa totius orbis facie terrae ..... \nQuemadmodum rarò ex delicatis Persarum Gynaecaeis..... \nInter primas, Amplissime Praesul, homini..... \nPloranda est sané plerorumque Juvenum..... \nCùm Mars armipotens sublimi vectus quadrigâ..... \nAd arma! ad arma! Auditores Academici...... \nAn hodie splendidissimo Natalium gaudiorum Sub astro..... \nErgò ne adhuc caeca sudat antiquitas..... \nJactent tantummodo fabulosa Poetarum commenta..... \nAniciana familia...... \nHaud equidem indignor..... \nTandem NN. lassas contrahimus antennas..... \nIllucescente ter fortunata luce,.... \nQuemadmodum profectò iam autumno.... \nErgòne fatali necessitate fixum manet,... \nLiber grandis mysterii.... \nVix concipiebatur in sterili Annae utero.... \nLeopoldus in Austria Marchionatus,.... \nEcce festivâ instituti ordinis pompâ.... \nTragico nuper inter postremas..... \nPugnassent utinam majores nostri,.... \nEa est subsolarium rerum mobilis conditio,.... \nEtsi multa sint scelera,.... \nRecedite vani veterum Quiritum Imperatorumque triumphi,.... \nInter acerba brumae frigora.... \nSanctiores quadragesimalis Jeiunii feriae.... \nAssumpta est Maria in Caelum..... \nSalve Illustrissime ac Generosissime Domine Comes Collade.... \nSic est, Sodales Mariani,.... \nIte et vos in vineam meam.... \nIllustre Nursinorum decus.... \nPomposissima Regina florum virguncula Rosa est.... \nSi unquam tempus aliquod,..... \nQuae etiamnum irrevocabilis innititur veritatis basi,.... \nHeu quid video! versórne [unleserlich] sopito.... \nMentita es, invidiosa fabularum buccina,.... \nIndisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.) \nMagnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... \nCeleres animi motus propugnaturus.... \nNemo profectò, si.... \nTandem. Seu ut typotio Maximilianus primus..... \nIntellexi vota et desideria vestra...... \nVeni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) \nSi apud eum judicem.... \nTantum abest aequissime Judex,.... \nConsumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.) \nVereor Auditores humanissimi, vereor inquam,.... \nTransitum de contradictorio in contradictorium..... \nNescio Mariani Domini Sodales,..... \nAd Philosophorum theses hodiernâ luce vos invito.... \nDate locum, portas aperite.... \nVestro equidem communi omnium solatio.... \nInauditam demiramini resultantis..... \nUsque adeò mortalium animis desiderium.... \nAdorna thalamum tuum Sion,.... \nQuò vos Mariani Domini Candidati...... \nSum qui Sum, et sunt qui sunt, Auditores.... \nQuid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.) \nAurium delicias et Tullianas expectatis epulas.... \nRegia Majestas eâ semper prodit formâ,..... \nGratulor mihi non parum.... \nPudet me – ita me Deus amet – officii mei,....",
+    "explicits": "F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis \nJoannes Daniel Pockh. 1673.",
+    "notes": "Katalogbeschreibung von Arch. Cod. 34 S (XVIII 3 m). \nOratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem). \nOratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R: p. 19 - 29. Initium: Eia! incitat hodie in ausus elingues linguas..... Nota p. 29: R. Anselmus Praun Professus Mallerstorphensis. \nPanegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7.: p. 31 - 39. Initium p. 31: Ergo hodie sors super me cecidit, Auditores Academici..... Nota p. 39: In aula Academica ipso festo S. Bonifacii 1686. R. P. Colomannus Seherb Professus Mellicensis pro tempore Juris Utriusque Studiosus Salisburgensis. \nOratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti: p. 41 - 48. Initium: Horreo, et totis artubus contremisco, Auditores Academici..... Nota p. 48: 13. Novembris 1685. R. P. Anselmus Schramb Professus Mellicensis pro tempore Juris Studiosus Salisburgi in Convictu. \nOratio De Sanctis Monachis Ordinis S. Benedicti: p. 49 - 59. Initium p. 49: Papae! quis ex ipsa totius orbis facie terrae ..... (Orator ignotus!) Nota in margine p. 49: 13. Novembris 1688. \nOratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti: p. 61 - 76. Thema: Fulgebunt iusti sicut stellae Caeli. Subscriptio p. 76: F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis (auctor). \nEncomium Divi Patriarchae Benedicti Idaea veri Herois: p. 77 - 84. Initium: Quemadmodum rarò ex delicatis Persarum Gynaecaeis..... (Auctor ignotus.) \nEpistola petitoria Monastici cuculli, simulque mundi pericula repraesentans: p. 84 - 87. Initium: Inter primas, Amplissime Praesul, homini..... (Auctor ignotus!) \nExercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse: p. 87 - 89. Initium: Ploranda est sané plerorumque Juvenum..... (Auctor ignotus!) \nHistoria tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit: p. 89 - 91. (Auctor ignotus!) \nOratio pro solenni initio (scilicet Anni scholaris Academici?): p. 92 - 100. Initium p. 92: Cùm Mars armipotens sublimi vectus quadrigâ..... (Auctor ignotus!) \nVita Divi Bonifacii super terram Militia, In oratione panegyrica proposita: p. 101 - 117. Initium: Ad arma! ad arma! Auditores Academici...... Nota p. 117: In Aula Academica Salisburgi pro festo S. Bonifacii 10 Junii 1687. Religiosus F. Romanus Schyrensis. \nOculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus: p. 119 - 124. Initium: An hodie splendidissimo Natalium gaudiorum Sub astro..... (Neque ipse auctor notus neque cui abbati consecraverit orationem!) \nChristus Subactis Mundi hostibus triumphat: p. 125 - 130. Initium: Ergò ne adhuc caeca sudat antiquitas..... (Auctor ignotus!) \nOratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint: p. 131 - 132. Initium: Jactent tantummodo fabulosa Poetarum commenta..... (Auctor ignotus!) \nOratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta: p. 133 - 139. Initium: Aniciana familia...... Nota p. 139: R. F. Modestus Resmen Ordinis S. Benedicti Professus Garstensis 11 Julii 1686 in Aula Academica. \nOratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684: p. 139 - 143. Initium: Haud equidem indignor..... (Auctor professorque natalizans ignoti!) \nGratiarum actio: p. 144 - 145. Initium: Tandem NN. lassas contrahimus antennas..... (Auctor ignotus; videtur studiosus pro sodalibus professori post cursum philosophicum finitum gratias agere.) \nAggratulatio in Natalem: p. 146 - 147. Initium: Illucescente ter fortunata luce,.... Nota in margine p. 146: P. Anselmus Schramb Professus Mellicensis (scilicet orationem habuit). Nota p. 147: 22. Novembris 1686. \nAdmodum Reverende, Religiosissime ac Clarissime Domine Decane: p. 148. (Haec oratiuncula precatur professorem quendam, ut studiosos philosophiae examinet.) Nota in margine superiore: 1687. Initium: Quemadmodum profectò iam autumno.... Nota in fine orationis: R. F. J. Pictor (aut Tictor?) Quo in monasterio Religiosus iste Frater vota nuncupaverit, ignotum est. \nOratiuncula Valedictoria: p. 149 - 152. Initium: Ergòne fatali necessitate fixum manet,... Notae p. 152: R. F. Anselmus Schramb Professus Mellicensis 1687 (orationem habuit). \nExercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur: p. 153 - 154. Initium: Liber grandis mysterii.... (Auctor ignotus!) \nPropositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem: p. 154 - 155. Initium: Vix concipiebatur in sterili Annae utero.... (Auctor ignotus!) \nPropositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur: p. 155 - 156. Thema: S. Xaverius regnum Japoniae vastissimum Christo per praedicationem Evangelii subiecit. (Auctor ignotus!) \nExercitium Oratorium: p. 157. Thema: Ex gratiae Deiparae profluxit humano generi felicitas. (Auctor ignotus!) \nDeclamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae: p. 158 - 169. (Auctor ignotus!) \nPeriodus amplificata ab adjunctis seu circumstantiis: p. 170. Initium: Leopoldus in Austria Marchionatus,.... (Auctor ignotus!) \nPropositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem: p. 170 - 172. Thema: S. Catharina in fide constans à Maximino Alexandriae Imperatore ad mortem condemnata. (Auctor ignotus!) \nHypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe: p. 172 - 173. Initium: Ecce festivâ instituti ordinis pompâ.... (Auctor ignotus!) \nPropositio amplificata per augmentum vel incrementum oratorium: p. 174. Thema: S. Andreas sponte elegit in cruce pro Christo mori. (Auctor ignotus!) \nAdornatus à Viennensi Suada Christi resurgentis triumphus: p. 175 - 181. Initium: Tragico nuper inter postremas..... Nota in margine p. 175: Anno 1683. Sub R. P. Synn Societatis Jesu. \nOratio pro festo Pentecostes: p. 181 - 191. Initium: Pugnassent utinam majores nostri,.... (Auctor ignotus!) \nNihil sub sole stabile, ergo qui stat videat ne cadat: p. 192 - 193. Initium: Ea est subsolarium rerum mobilis conditio,.... (Auctor ignotus!) \nDivi Thomae Aquinatis de Venere Victoria: p. 194 - 195. Initium: Etsi multa sint scelera,.... (Auctor ignotus!) \nTriumphus Gloriosae Virginis Mariae in Caelos Assumptae: p. 195 - 197. Initium: Recedite vani veterum Quiritum Imperatorumque triumphi,.... (Auctor ignotus!) \nBethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur: p. 199 - 217. Initium: Inter acerba brumae frigora.... (Auctor ignotus!) \nFlagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!) \nNihil deest! \nOratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum: p. 247 - 252. Initium: Assumpta est Maria in Caelum..... (Auctor ignotus!) \nOratio in laudem Eloquentiae: p. 253 - 267. Initium: Salve Illustrissime ac Generosissime Domine Comes Collade.... (Auctor ignotus!) \nOratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24: p. 269 - 281. Initium: Sic est, Sodales Mariani,.... (Auctor ignotus!) \nOratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683: p. 283 - 288. Initium: Ite et vos in vineam meam.... \nOratio Panegyrica, In qua S. Scholastica columbae comparatur: p. 289 - 303. Initium: Illustre Nursinorum decus.... (Auctor ignotus!) \nOratio De Sancto Patriarcha Benedicto: p. 305 - 319. Initium: Pomposissima Regina florum virguncula Rosa est.... (Auctor ignotus!) \nOratio de Passione Domini: p. 321–336. Initium: Si unquam tempus aliquod,..... (Auctor ignotus!) \nOratio de Resurrectione Domini: p. 337–348. Initium: Quae etiamnum irrevocabilis innititur veritatis basi,.... (Auctor ignotus!) \nEpinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima: p. 349–358. Initium: Heu quid video! versórne [unleserlich] sopito.... (Auctor ignotus!) \nOratio Panegyrica de S. Georgio Martyre: p. 359–376. Initium: Mentita es, invidiosa fabularum buccina,.... (Auctor ignotus!) \nOratio Panegyrica De Sancto Joanne Baptista: p. 377–391. Initium: Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.) \nOratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? p. 393–400. Initium: Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... (Auctor ignotus!) \nProblema. Praestetne celeres, an lentos motus animi habere? p. 401–412. (Haec oratio in duas partes divisa est, quarum prior pro celeribus, altera pro lentis loquitur.) Initium: Celeres animi motus propugnaturus.... (Auctor ignotus!) \nProblema. An utilior quaestio sit propositum cognitionis, vel actionis: p. 413–420. (Haec quoque oratio in duas partes divisa est, quarum prior stat pro proposito cognitionis, altera propugnat propositum actionis.) Initium: Nemo profectò, si.... (Auctor ignotus!) \nValedictio Philosophica: p. 421–428. Initium: Tandem. Seu ut typotio Maximilianus primus..... Nota in margine p. 421: 1685. 20 Julii. (Auctor ignotus!) \nGradus Baccalaureatûs: p. 429–436. Initium: Intellexi vota et desideria vestra...... (Auctor, qui hanc orationem ad baccalaureatus lauream conferendam habuit, ignotus.) \nActio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio: p. 437–447. Initium: Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) (Auctor ignotus!) \nOratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano: p. 449–451. Initium: Si apud eum judicem.... (Auctor ign.) \nRefutatur (scilicet Veritas) à Mendacio: p. 452–453. Initium: Tantum abest aequissime Judex,.... (Auctor ignotus!) \nConqueritur veritas eò quod ita modò ab omnibus depellatur: p. 453–454. Initium: Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.) \nOratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur: p. 455–462. Initium: Vereor Auditores humanissimi, vereor inquam,.... (Auctor ignotus!) \nMemoria passionis Dominicae: p. 463–468. Initium: Transitum de contradictorio in contradictorium..... Nota p. 468: 14. Aprilis 1685. R. P. Bruno Schlibnigg Ordinis S. Benedicti professus in Carinthia (ad S. Paulum....) (Ultima linea a bibliopego abscisa!) \nOratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris: p. 469–475. Initium: Nescio Mariani Domini Sodales,..... Nota p. 475: facta à Religioso F. Bernardo Lind Professo Yrrseensi pro tempore Praefecto (Sodalitatis) (Monasterium Irsee Ordinis S. Benedicti ad Dioecesim Augustanam pertinebat!) \nOratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser: p. 477–482. Initium: Ad Philosophorum theses hodiernâ luce vos invito.... \nOratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti: p. 483–490. Initium: Date locum, portas aperite.... Nota p. 490: Religiosus F. Bernardus Lind Professus Yrseensis. 11 Julii 1685 (?) in Aula Academica. (de auctore supra ad partem z₉!) \nPolitia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta: p. 491–498. Initium: Vestro equidem communi omnium solatio.... (Auctor ignotus!) \nOratio de Nativitate Domini: p. 499–510. Thema: Parvulus natus est nobis. Isaias. (Auctor ignotus) (Pag. 502 immediate sequitur p. 507) \nOratio De Nativitate Christi: p. 511–517. Initium: Inauditam demiramini resultantis..... (Auctor ignotus!) \nOratio De Caelesti Sancti Ignatii ambitione: p. 519–541. Initium: Usque adeò mortalium animis desiderium.... Nota p. 541: facta à R. P. Koffer Societatis Jesu verè iuxta artificium. (Eandem orationem exhibet Cod. MN II 135 in parte W; vide supra p. 91!) \nOratio Ad Sanctissimam Virginem Mariam sine macula conceptam: p. 543–553. Initium: Adorna thalamum tuum Sion,.... (Auctor ignotus!) \nOratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684: p. 555–560. Initium: Quò vos Mariani Domini Candidati...... Nota p. 560: facta A Religioso F. Bern(ardo Lind) Professo Yrseensi pro tempore Praefecto (de quo supra ad partem z₉!) \nOratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti: p. 561–575. Initium: Sum qui Sum, et sunt qui sunt, Auditores.... (Auctor ignotus!) \nOratio (ad Sodales Marianos habita): p. 577–584. Initium: Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.) \nOratio Pro festo omnium Sanctorum Monachorum: p. 585–592. Initium: Aurium delicias et Tullianas expectatis epulas.... (Auctor ignotus!) \nOratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem: p. 593–603. Initium: Regia Majestas eâ semper prodit formâ,..... Nota p. 603: R. P. Edmundus Grabman. Professus Seonensis pro tempore Professor Rhetorices. 1684 (Sine dubio P. Edmundus Grabman idem est atque P. Edmundus Gramont, professus Seonensis, qui orationes q et s codicis MN II 135 – supra p. 89! – habuit.) \nOratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari: p. 605–615. Argumentum p. 605: Cyrus summum despectum regi fecit, et maximam audaciam consecutus, ergo quàm iustissimè supplicio afficiendus. [Randnotiz:] De auctore vide proximam partem! Nota p. 615: Sequetur Defensio et Responsio. \nDefensio et Responsio Cyri Artabazis coram Rege Astyage: p. 616–626. Initium: Gratulor mihi non parum.... Subscriptio p. 626: Joannes Daniel Pockh. 1673. (scilicet habuit hanc defensionem ideoque probabiliter etiam orationem partis z₂₂.) \nOratio demonstrativa Vituperium ignaviae: p. 629–634. Initium: Pudet me – ita me Deus amet – officii mei,.... (Auctor ignotus!)",
+    "physical": "Papier \n656 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Quartformat; 656 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1688.\n\n**Sammlung von Reden und anderen rhetorischen Übungen**\n\na) **Rede zu Ehren der Söhne des hl. Benedikt am Fest der heiligen Mönche unseres Ordens:** S. 7–18. Thema: „Ein weiser Sohn ist der Ruhm des Vaters.“ Vermerk S. 18: P. Anselmus Schramb, Profess von Melk, hielt diese Rede am 13. November 1687.\n\nb) **Rede zum Fest der Gedächtnisfeier des hl. Vaters Benedikt:** S. 19–29. Anfang: „Wohlan! Heute treibt es selbst sprachlose Zungen zu Wagnissen....“ Vermerk S. 29: P. Anselmus Praun, Profess von Mallersdorf.\n\nc) **Panegyrik auf den hl. Bonifatius**, Benediktiner, Erzbischof von Mainz, Märtyrer und Patron des Salzburger Benediktinerkonvikts, zum Thema „Er hat alles gut gemacht“ (Mt 7): S. 31–39. Vermerk: In der Aula academica am Fest des hl. Bonifatius 1686 von P. Colomannus Seherb, Profess von Melk und damaligem Studenten beider Rechte in Salzburg.\n\nd) **Rede zu Ehren der heiligen Mönche des Benediktinerordens:** S. 41–48. Vermerk: 13. November 1685, P. Anselmus Schramb, Profess von Melk und damaliger Rechtsstudent im Salzburger Konvikt.\n\ne) **Rede über die heiligen Mönche des Benediktinerordens:** S. 49–59. Redner unbekannt. Randnotiz: 13. November 1688.\n\nf) **Panegyrische Rede zum Fest aller heiligen Mönche des Benediktinerordens:** S. 61–76. Thema: „Die Gerechten werden leuchten wie die Sterne des Himmels.“ Unterschrift S. 76: **F. J. K. Mon. Seitt. = Fr. Josephus Koppler, Seitenstettner Mönch**, der damit als Verfasser erscheint.\n\ng) **Lob des hl. Patriarchen Benedikt als Ideal des wahren Helden:** S. 77–84. Verfasser unbekannt.\n\nh) **Bittbrief um den Mönchshabit, zugleich Darstellung der Gefahren der Welt:** S. 84–87. Verfasser unbekannt.\n\ni) **Rhetorische Übung: Der Kopf soll gebildet und der Geist gepflegt werden, nicht aber die Haare gekräuselt und genährt:** S. 87–89. Verfasser unbekannt.\n\nj) **Tragische Geschichte eines unglücklichen jungen Mannes**, der gegen die Mahnungen seiner verwitweten Mutter sein Vermögen mit einer Dirne in Lübeck verprasste und sich schließlich aus Verzweiflung in einem Garten mit einem großen Messer erstach: S. 89–91. Verfasser unbekannt.\n\nk) **Rede zum feierlichen Beginn**, wohl des akademischen Schuljahres: S. 92–100. Verfasser unbekannt.\n\nl) **Das Leben des hl. Bonifatius als Kriegsdienst auf Erden**, in einer panegyrischen Rede: S. 101–117. Gehalten in der Salzburger Aula academica am Fest des hl. Bonifatius, 10. Juni 1687, von Fr. Romanus aus Scheyern.\n\nm) **Das Auge der Vorsehung**, dem hochwürdigsten Abt Malachias zum Geburtstag gewidmet und beschrieben: S. 119–124. Weder Verfasser noch der gemeinte Abt sind sicher bekannt.\n\nn) **Christus triumphiert über die besiegten Feinde der Welt:** S. 125–130. Verfasser unbekannt.\n\no) **Panegyrische Rede zum Lob der Wiege Christi**, mit der Frage, aus welchem Holz sie gefertigt gewesen sei: S. 131–132. Verfasser unbekannt.\n\np) **Rede über den hl. Patriarchen Benedikt an seinem Gedenktag:** S. 133–139. Vermerk: Fr. Modestus Resmen, Profess von Garsten, 11. Juli 1686 in der Aula academica.\n\nq) **Geburtstagsrede für einen hochwürdigen Professor**, gehalten in der Rhetorik im Dezember 1684: S. 139–143. Verfasser und gefeierter Professor unbekannt.\n\nr) **Danksagung:** S. 144–145. Offenbar bedankt sich ein Student im Namen seiner Mitschüler beim Professor nach Abschluss eines philosophischen Kurses. Verfasser unbekannt.\n\ns) **Glückwunsch zum Geburtstag:** S. 146–147. Randnotiz: P. Anselmus Schramb, Profess von Melk; 22. November 1686.\n\nt) **Kurze Ansprache an einen Dekan**, mit der Bitte, die Philosophiestudenten zu prüfen: S. 148. Randnotiz 1687; am Ende **Fr. J. Pictor (oder Tictor?)**. Sein Kloster ist unbekannt.\n\nu) **Abschiedsrede:** S. 149–152. P. Anselmus Schramb, Profess von Melk, 1687.\n\nv) **Rhetorische Übung**, in der das fleischgewordene Wort unter der Metapher des Wortes und die Gottesmutter unter der Allegorie des Buches mittels Hypotyposis, Frage und Sustentatio dargestellt werden: S. 153–154.\n\nw) **Durch rhetorische Subiectio erweiterter Satz:** Maria besiegte bei ihrer Empfängnis den höllischen Drachen: S. 154–155.\n\nx) **Durch rhetorische Steigerung erweiterter Satz:** Der hl. Franz Xaver unterwarf durch die Predigt des Evangeliums das weite Königreich Japan Christus: S. 155–156.\n\ny) **Rhetorische Übung:** Aus der Gnade der Gottesmutter floss dem Menschengeschlecht das Heil: S. 157.\n\nz) **Rhetorische Deklamation:** Ist der Sieg des Mars vornehmer als der Sieg der Beredsamkeit?: S. 158–169.\n\nA) **Durch Umstände erweiterte Periode:** S. 170; über Markgraf Leopold von Österreich.\n\nB) **Durch Aufzählung vorausgehender Umstände erweiterter Satz:** Die hl. Katharina, im Glauben standhaft, wird von Kaiser Maximinus in Alexandria zum Tod verurteilt: S. 170–172.\n\nC) **Hypotyposis der drei heiligen Könige**, wie sie Christus Gaben darbringen, mit rhetorischer Apostrophe an sie: S. 172–173.\n\nD) **Durch Steigerung erweiterter Satz:** Der hl. Andreas wählte freiwillig den Tod am Kreuz für Christus: S. 174.\n\nE) **Der Triumph des auferstandenen Christus, ausgeschmückt von Wiener Beredsamkeit:** S. 175–181. Randnotiz: 1683, unter P. Synn SJ.\n\nF) **Rede zum Pfingstfest:** S. 181–191.\n\nG) **Nichts unter der Sonne ist beständig; wer steht, sehe zu, dass er nicht falle:** S. 192–193.\n\nH) **Sieg des hl. Thomas von Aquin über die Venus:** S. 194–195.\n\nI) **Triumph der glorreichen, in den Himmel aufgenommenen Jungfrau Maria:** S. 195–197.\n\nJ) **Die Blume des Feldes von Bethlehem, das fleischgewordene Wort, von Wiener Beredsamkeit den Rhetorikschülern auf dem Feld der Eloquenz zur Begrüßung vorgestellt:** S. 199–217.\n\nK) **Die Geißelung. Tragisches Schauspiel des leidenden Christus**, in fünf Hauptgeheimnissen, ebenso vielen Figuren und Szenen mit den Farben der Beredsamkeit dargestellt: S. 218–245. Der Text ist vollständig.\n\nM) **Rede eines Mitglieds der Marianischen Kongregation**, das beklagt, der Leib der seligen Jungfrau sei ihm entzogen worden: S. 247–252.\n\nN) **Rede zum Lob der Beredsamkeit:** S. 253–267.\n\nO) **Rede nach Sirach 24: „Wie eine Rose wurde ich in Jericho gepflanzt“:** S. 269–281.\n\nP) **Rede zum feierlichen Beginn der thomistischen Philosophie**, gehalten von **P. Benedictus Widl**, Profess von St. Emmeram in Regensburg und ordentlichem Professor der Philosophie, 1683: S. 283–288.\n\nQ) **Panegyrische Rede, in der die hl. Scholastika mit einer Taube verglichen wird:** S. 289–303.\n\nR) **Rede über den hl. Patriarchen Benedikt:** S. 305–319.\n\nS1) **Rede über das Leiden des Herrn:** S. 321–336.\n\nS2) **Rede über die Auferstehung des Herrn:** S. 337–348.\n\nS3) **Siegeslied oder Glückwunschübung an die Rhetoren von der glücklich überwundenen Fastenzeit, gewidmet von der Beredsamkeit:** S. 349–358.\n\nS4) **Panegyrische Rede über den hl. Märtyrer Georg:** S. 359–376.\n\nS5) **Panegyrische Rede über den hl. Johannes den Täufer:** S. 377–391.\n\nS6) **Problemrede:** Ist es ruhmreicher, auf dem Feld des Mars zu kämpfen als im philosophischen Studium?: S. 393–400.\n\nS7) **Problem:** Ist es besser, schnelle oder langsame Bewegungen des Geistes zu haben?: S. 401–412. Der erste Teil spricht für schnelle, der zweite für langsame Regungen.\n\nS8) **Problem:** Ist als Ziel der Erkenntnis oder der Handlung die nützlichere Frage anzusehen?: S. 413–420. Auch diese Rede argumentiert in zwei Teilen.\n\nS9) **Philosophischer Abschied:** S. 421–428. Randnotiz: 20. Juli 1685.\n\nS10) **Verleihung des Bakkalaureatsgrades:** S. 429–436. Der Redner, der den Grad verlieh, ist unbekannt.\n\nS11) **Gerichtsrede gegen die „Geißeln der Wahrheit“**, gesprochen vom christlichen Cheridemus vor dem Geist der Wahrheit: S. 437–447. Als Vorbild gilt wohl der Grieche Charidemus, der wegen seiner freimütigen Kritik an den Kriegsvorbereitungen des Perserkönigs Dareios gegen Alexander 333 v. Chr. hingerichtet wurde.\n\nS12) **Anklage der Lüge durch die Wahrheit vor dem christlichen Cheridemus:** S. 449–451.\n\nS13) **Widerlegung der Wahrheit durch die Lüge:** S. 452–453.\n\nS14) **Klage der Wahrheit, weil sie von allen vertrieben wird:** S. 453–454.\n\nS15) **Demonstrative Rede, dass Armut dem Reichtum vorzuziehen sei:** S. 455–462.\n\nS16) **Gedächtnis des Leidens des Herrn:** S. 463–468. Vermerk: 14. April 1685; P. Bruno Schlibnigg OSB, Profess von St. Paul in Kärnten.\n\nS17) **Rede in der Aula bei der Wahl des Präfekten der Marianischen Kongregation Mariä Himmelfahrt**, 17. Dezember 1684: S. 469–475. Gehalten von Fr. Bernardus Lind, Profess von Irsee, damals Präfekt der Kongregation.\n\nS18) **Panegyrische Rede in der Salzburger Aula academica von L. B. (= Freiherr?) Lasser:** S. 477–482.\n\nS19) **Panegyrische Rede zum Gedenkfest des hl. Vaters Benedikt:** S. 483–490. Fr. Bernardus Lind, Profess von Irsee, 11. Juli 1685 (?) in der Aula academica.\n\nS20) **Himmlische Staatskunst oder Maria, Königin der Engel:** Panegyrik darüber, durch welche Kunst oder Staatsklugheit Maria Königin der Engel geworden sei: S. 491–498.\n\nS21) **Rede über die Geburt des Herrn**, Thema: „Ein Kind ist uns geboren“ (Jesaja): S. 499–510. S. 502 folgt unmittelbar S. 507.\n\nS22) **Rede über Christi Geburt:** S. 511–517.\n\nS23) **Rede über den himmlischen Ehrgeiz des hl. Ignatius:** S. 519–541. Gehalten von **P. Koffer SJ**; dieselbe Rede enthält MN II 135 W.\n\nS24) **Rede an die ohne Makel empfangene Jungfrau Maria:** S. 543–553.\n\nS25) **Rede bei der Aufnahme von Konviktoren in die Marianische Kongregation Mariä Himmelfahrt**, 1684: S. 555–560. Von Fr. Bernardus Lind, Profess von Irsee.\n\nS26) **Kurze Rede zum Fest aller heiligen Mönche des Benediktinerordens:** S. 561–575.\n\nS27) **Rede an die Marianischen Sodalen:** S. 577–584.\n\nS28) **Rede zum Fest aller heiligen Mönche:** S. 585–592.\n\nS29) **Beratende Rede:** Ist es besser, als Hirte denn als König geboren zu werden?: S. 593–603. Vermerk: **P. Edmundus Grabman**, Profess von Seeon und damaliger Rhetorikprofessor, 1684. Er ist wohl identisch mit P. Edmundus Gramont.\n\nS30) **Gerichtsrede:** Cyrus, Sohn von Bauern, wird angeklagt, weil er adelige Jünglinge schlagen ließ: S. 605–615. Am Ende: Es folgt Verteidigung und Antwort.\n\nS31) **Verteidigung und Antwort des Cyrus Artabazis vor König Astyages:** S. 616–626. Unterschrift: **Joannes Daniel Pockh, 1673**; er hielt wohl auch die vorausgehende Anklagerede.\n\nS32) **Demonstrative Rede: Tadel der Trägheit:** S. 629–634.\n\nDer gesamte Codex scheint von einer einzigen Hand geschrieben zu sein, obwohl gewisse Unterschiede im Schriftbild feststellbar sind. P. Martin Riesenhuber scheint den Schreiber für **Fr. Josephus Koppler** gehalten zu haben. Ob er dies allein aus der von Koppler gehaltenen Rede f schloss oder noch andere Gründe hatte, ist unbekannt.",
+    "latin": "4°; 656 pagg.; teg. a1; script. ca. 1688\n\n(Collectio orationum aliorumque exercitiorum rhetoricorum)\n\na) Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem).\n\nb) Oratio Pro et in festo Commemorationis S. P. Benedicti. Sine littera R: p. 19 - 29. Initium: Eia! incitat hodie in ausus elingues linguas..... Nota p. 29: R. Anselmus Praun Professus Mallerstorphensis.\n\nc) Panegyris In Laudem Divi Bonifacii, ordinis S. Benedicti Archi-Episcopi Moguntini et Martyris; Venerabilis Convictus Benedictino-Salisburgensis Tutelaris et Patroni Gloriosissimi ad illud (scilicet Thema) Bene omnia fecit. Matth. 7.: p. 31 - 39. Initium p. 31: Ergo hodie sors super me cecidit, Auditores Academici..... Nota p. 39: In aula Academica ipso festo S. Bonifacii 1686. R. P. Colomannus Seherb Professus Mellicensis pro tempore Juris Utriusque Studiosus Salisburgensis.\n\nd) Oratio. In honorem Sanctorum Monachorum Ordinis S. Benedicti: p. 41 - 48. Initium: Horreo, et totis artubus contremisco, Auditores Academici..... Nota p. 48: 13. Novembris 1685. R. P. Anselmus Schramb Professus Mellicensis pro tempore Juris Studiosus Salisburgi in Convictu.\n\n\n\ne) Oratio De Sanctis Monachis Ordinis S. Benedicti: p. 49 - 59. Initium p. 49: Papae! quis ex ipsa totius orbis facie terrae ..... (Orator ignotus!) Nota in margine p. 49: 13. Novembris 1688.\n\nf) Oratio panegyrica Pro festo omnium Sanctorum Monachorum ordinis S. P. Benedicti: p. 61 - 76. Thema: Fulgebunt iusti sicut stellae Caeli. Subscriptio p. 76: F. J. K. Mon. Seitt: = Frater Josephus Koppler Monachus Seittenstettensis (auctor).\n\ng) Encomium Divi Patriarchae Benedicti Idaea veri Herois: p. 77 - 84. Initium: Quemadmodum rarò ex delicatis Persarum Gynaecaeis..... (Auctor ignotus.)\n\nh) Epistola petitoria Monastici cuculli, simulque mundi pericula repraesentans: p. 84 - 87. Initium: Inter primas, Amplissime Praesul, homini..... (Auctor ignotus!)\n\ni) Exercitium Rhetoricum. Caput expolliendum, ingeniumque excolendum, non capillos crispandos et nutriendos esse: p. 87 - 89. Initium: Ploranda est sané plerorumque Juvenum..... (Auctor ignotus!)\n\nj) Historia tragica, De quodam miserabili Juvene, qui postquam contra adhortationem Matris viduae omnia bona cum quadam meretrice Lubecae (= in urbe Lübeck) luridé vivendo concoxisset, tandem ex desperatione se in quodam horto magno cultro transfodit: p. 89 - 91. (Auctor ignotus!)\n\nk) Oratio pro solenni initio (scilicet Anni scholaris Academici?): p. 92 - 100. Initium p. 92: Cùm Mars armipotens sublimi vectus quadrigâ..... (Auctor ignotus!)\n\nl) Vita Divi Bonifacii super terram Militia, In oratione panegyrica proposita: p. 101 - 117. Initium: Ad arma! ad arma! Auditores Academici...... Nota p. 117: In Aula Academica Salisburgi pro festo S. Bonifacii 10 Junii 1687. Religiosus F. Romanus Schyrensis.\n\nm) Oculus Providentiae Natalizanti Reverendissimo et Amplissimo Domino Domino Malachiae Abbati Vigilantissimo consecratus, atque descriptus: p. 119 - 124. Initium: An hodie splendidissimo Natalium gaudiorum Sub astro..... (Neque ipse auctor notus neque cui abbati consecraverit orationem!)\n\nn) Christus Subactis Mundi hostibus triumphat: p. 125 - 130. Initium: Ergò ne adhuc caeca sudat antiquitas..... (Auctor ignotus!)\n\no) Oratio Panegyrica In Laudem cunarum Christi, in qua quaesitur, ex quo ligno Christi cunae fabricatae fuerint: p. 131 - 132. Initium: Jactent tantummodo fabulosa Poetarum commenta..... (Auctor ignotus!)\n\np) Oratio De Sanctissimo Patre, ac Patriarcha Benedicto in eius commemoratione dicta: p. 133 - 139. Initium: Aniciana familia...... Nota p. 139: R. F. Modestus Resmen Ordinis S. Benedicti Professus Garstensis 11 Julii 1686 in Aula Academica.\n\n\n\nq) Oratio Genethliaca pro Natali Admodum Reverendi P. Professoris habita in Rhetorica Mense Decembris Anno 1684: p. 139 - 143. Initium: Haud equidem indignor..... (Auctor professorque natalizans ignoti!)\n\nr) Gratiarum actio: p. 144 - 145. Initium: Tandem NN. lassas contrahimus antennas..... (Auctor ignotus; videtur studiosus pro sodalibus professori post cursum philosophicum finitum gratias agere.)\n\ns) Aggratulatio in Natalem: p. 146 - 147. Initium: Illucescente ter fortunata luce,.... Nota in margine p. 146: P. Anselmus Schramb Professus Mellicensis (scilicet orationem habuit). Nota p. 147: 22. Novembris 1686.\n\nt) Admodum Reverende, Religiosissime ac Clarissime Domine Decane: p. 148. (Haec oratiuncula precatur professorem quendam, ut studiosos philosophiae examinet.) Nota in margine superiore: 1687. Initium: Quemadmodum profectò iam autumno.... Nota in fine orationis: R. F. J. Pictor (aut Tictor?) Quo in monasterio Religiosus iste Frater vota nuncupaverit, ignotum est.\n\nu) Oratiuncula Valedictoria: p. 149 - 152. Initium: Ergòne fatali necessitate fixum manet,... Notae p. 152: R. F. Anselmus Schramb Professus Mellicensis 1687 (orationem habuit).\n\nv) Exercitium oratorium in quo Verbum Incarnatum sub Metaphora Verbi et Deipara sub Alegoria libri per hypotiposim interrogatione et sustentatione exponitur: p. 153 - 154. Initium: Liber grandis mysterii.... (Auctor ignotus!)\n\nw) Propositio amplificata per subiectionem oratoriam Maria in sua conceptione vicit infernalem Draconem: p. 154 - 155. Initium: Vix concipiebatur in sterili Annae utero.... (Auctor ignotus!)\n\nx) Propositio amplificata per incrementum oratorium in quo sensim per suppositiones à minoribus ad summum ascenditur: p. 155 - 156. Thema: S. Xaverius regnum Japoniae vastissimum Christo per praedicationem Evangelii subiecit. (Auctor ignotus!)\n\ny) Exercitium Oratorium: p. 157. Thema: Ex gratiae Deiparae profluxit humano generi felicitas. (Auctor ignotus!)\n\nz) Declamatio Rhetorica. In qua iste status qualitativus exponitur, an victoria Martis nobilior sit censenda quam victoria eloquentiae: p. 158 - 169. (Auctor ignotus!)\n\nA) Periodus amplificata ab adjunctis seu circumstantiis: p. 170. Initium: Leopoldus in Austria Marchionatus,.... (Auctor ignotus!)\n\nB) Propositio amplificata pluribus periodis membris et incisis per antecedentium enumerationem: p. 170 - 172. Thema: S. Catharina in fide constans à Maximino Alexandriae Imperatore ad mortem condemnata. (Auctor ignotus!)\n\n\n\nC) Hypotiposis. Sanctorum trium Regum Christo offerentium munera et ad eos oratoria Apostrophe: p. 172 - 173. Initium: Ecce festivâ instituti ordinis pompâ.... (Auctor ignotus!)\n\nD) Propositio amplificata per augmentum vel incrementum oratorium: p. 174. Thema: S. Andreas sponte elegit in cruce pro Christo mori. (Auctor ignotus!)\n\nE) Adornatus à Viennensi Suada Christi resurgentis triumphus: p. 175 - 181. Initium: Tragico nuper inter postremas..... Nota in margine p. 175: Anno 1683. Sub R. P. Synn Societatis Jesu.\n\nF) Oratio pro festo Pentecostes: p. 181 - 191. Initium: Pugnassent utinam majores nostri,.... (Auctor ignotus!)\n\nG) Nihil sub sole stabile, ergo qui stat videat ne cadat: p. 192 - 193. Initium: Ea est subsolarium rerum mobilis conditio,.... (Auctor ignotus!)\n\nH) Divi Thomae Aquinatis de Venere Victoria: p. 194 - 195. Initium: Etsi multa sint scelera,.... (Auctor ignotus!)\n\nI) Triumphus Gloriosae Virginis Mariae in Caelos Assumptae: p. 195 - 197. Initium: Recedite vani veterum Quiritum Imperatorumque triumphi,.... (Auctor ignotus!)\n\nJ) Bethleemitici campi flos, Verbum Incarnatum à Viennensi Suada in campo eloquentiae Suis Rhetoricae alumnis salutandus proponitur: p. 199 - 217. Initium: Inter acerba brumae frigora.... (Auctor ignotus!)\n\nK) Flagellatio. Tragicum Christi patientis spectaculum per quinque magis praecipua mysteria quantotidem figuras et scenas coloribus eloquentiae repraesentatum: p. 218 - 245. Initium: Sanctiores quadragesimalis Jeiunii feriae.... (Auctor ignotus!) (Nihil deest!)\n\nM) Oratio Quâ Sodalis Beatae Virginis Mariae conqueritur, sibi Corpus Beatae Virginis esse sublatum: p. 247 - 252. Initium: Assumpta est Maria in Caelum..... (Auctor ignotus!)\n\nN) Oratio in laudem Eloquentiae: p. 253 - 267. Initium: Salve Illustrissime ac Generosissime Domine Comes Collade.... (Auctor ignotus!)\n\nO) Oratio Quasi plantatio rosae in Jericho. Ecclesiastici caput 24: p. 269 - 281. Initium: Sic est, Sodales Mariani,.... (Auctor ignotus!)\n\nP) Oratio In solenni initio Philosophiae Thomisticae habita A .... P. Benedicto Widl [gestrichenes Wort] Imperialis et Exempti Monasterii Ordinis S. Benedicti ad S. Emmeramum Ratisbonae Professo, Philosophiae Professore Ordinario. Anno 1683: p. 283 - 288. Initium: Ite et vos in vineam meam....\n\nQ) Oratio Panegyrica, In qua S. Scholastica columbae comparatur: p. 289 - 303. Initium: Illustre Nursinorum decus.... (Auctor ignotus!)\n\nR) Oratio De Sancto Patriarcha Benedicto: p. 305 - 319. Initium: Pomposissima Regina florum virguncula Rosa est.... (Auctor ignotus!)\n\n\n\nz₇) Oratio de Passione Domini: p. 321–336. Initium: Si unquam tempus aliquod,..... (Auctor ignotus!)\n\nz₈) Oratio de Resurrectione Domini: p. 337–348. Initium: Quae etiamnum irrevocabilis innititur veritatis basi,.... (Auctor ignotus!)\n\nu) Epinicion sive Exercitium gratulatorium Rhetoribus dedicatum ab Eloquentia de superata feliciter Quadragesima: p. 349–358. Initium: Heu quid video! versórne [unleserlich] sopito.... (Auctor ignotus!)\n\nv) Oratio Panegyrica de S. Georgio Martyre: p. 359–376. Initium: Mentita es, invidiosa fabularum buccina,.... (Auctor ignotus!)\n\nw) Oratio Panegyrica De Sancto Joanne Baptista: p. 377–391. Initium: Indisertus coràm fecundioris Suadae tyro facturus verba.... (Auct. ign.)\n\nx) Oratio Problematica An gloriosius sit certare in stadio Martiali, quàm studio Philosophico? p. 393–400. Initium: Magnam affinitatem, et indissolubilem quasi [unleserlich] amicabilitatis.... (Auctor ignotus!)\n\ny) Problema. Praestetne celeres, an lentos motus animi habere? p. 401–412. (Haec oratio in duas partes divisa est, quarum prior pro celeribus, altera pro lentis loquitur.) Initium: Celeres animi motus propugnaturus.... (Auctor ignotus!)\n\nz) Problema. An utilior quaestio sit propositum cognitionis, vel actionis: p. 413–420. (Haec quoque oratio in duas partes divisa est, quarum prior stat pro proposito cognitionis, altera propugnat propositum actionis.) Initium: Nemo profectò, si.... (Auctor ignotus!)\n\nz₁) Valedictio Philosophica: p. 421–428. Initium: Tandem. Seu ut typotio Maximilianus primus..... Nota in margine p. 421: 1685. 20 Julii. (Auctor ignotus!)\n\nz₂) Gradus Baccalaureatûs: p. 429–436. Initium: Intellexi vota et desideria vestra...... (Auctor, qui hanc orationem ad baccalaureatus lauream conferendam habuit, ignotus.)\n\nz₃) Actio judicialis in Mastyges Veritatis dicta à Cheridemo Christiano coram Spiritu Veritatis, qui venit arguere mundum de Judicio: p. 437–447. Initium: Veni laborantis, et oppressae Veritatis propugnator Cheridemus Christianus..... (Exemplar Cheridemi Christiani ille Charidemus Graecus videtur esse, qui Darii regis Persarum apparatum bellicosum contra Alexandrum Magnum institutum liberius exprobravit ideoque iubente rege anno 333 ante Christum natum interfectus est.) (Auctor ignotus!)\n\nz₄) Oratiuncula quâ accusatur à Veritate Mendacium coram Cheridemo Christiano: p. 449–451. Initium: Si apud eum judicem.... (Auctor ign.)\n\nz₅) Refutatur (scilicet Veritas) à Mendacio: p. 452–453. Initium: Tantum abest aequissime Judex,.... (Auctor ignotus!)\n\nz₆) Conqueritur veritas eò quod ita modò ab omnibus depellatur: p. 453–454. Initium: Consumpsi eheu! dolorem infelix Veritas,.... (Auct. ign.)\n\n\n\n\nz₇) Oratio In genere Demonstrativo. Quâ divitiis praestare paupertatem probatur: p. 455–462. Initium: Vereor Auditores humanissimi, vereor inquam,.... (Auctor ignotus!)\n\nz₈) Memoria passionis Dominicae: p. 463–468. Initium: Transitum de contradictorio in contradictorium..... Nota p. 468: 14. Aprilis 1685. R. P. Bruno Schlibnigg Ordinis S. Benedicti professus in Carinthia (ad S. Paulum....) (Ultima linea a bibliopego abscisa!)\n\nz₉) Oratio Habita in Aula pro Praefectura Marianae Sodalitatis Beatae Virginis Mariae in Caelum Assumptae Anno 1684. 17. Decembris: p. 469–475. Initium: Nescio Mariani Domini Sodales,..... Nota p. 475: facta à Religioso F. Bernardo Lind Professo Yrrseensi pro tempore Praefecto (Sodalitatis) (Monasterium Irsee Ordinis S. Benedicti ad Dioecesim Augustanam pertinebat!)\n\nz₁₀) Oratio Panegyrica Dicitur in aula Academica Salisburgi á L. B. (= Libero Barone?) Lasser: p. 477–482. Initium: Ad Philosophorum theses hodiernâ luce vos invito....\n\nz₁₁) Oratio Panegyrica pro Festo Commemorationis Sanctissimi P. Nostri Benedicti: p. 483–490. Initium: Date locum, portas aperite.... Nota p. 490: Religiosus F. Bernardus Lind Professus Yrseensis. 11 Julii 1685 (?) in Aula Academica. (de auctore supra ad partem z₉!)\n\nz₁₂) Politia Caelestis sive Maria Regina Angelorum id est Panegyris quâ exponitur, quâ arte seu politia Maria Regina Angelorum sit facta: p. 491–498. Initium: Vestro equidem communi omnium solatio.... (Auctor ignotus!)\n\nz₁₃) Oratio de Nativitate Domini: p. 499–510. Thema: Parvulus natus est nobis. Isaias. (Auctor ignotus) (Pag. 502 immediate sequitur p. 507)\n\nz₁₄) Oratio De Nativitate Christi: p. 511–517. Initium: Inauditam demiramini resultantis..... (Auctor ignotus!)\n\nz₁₅) Oratio De Caelesti Sancti Ignatii ambitione: p. 519–541. Initium: Usque adeò mortalium animis desiderium.... Nota p. 541: facta à R. P. Koffer Societatis Jesu verè iuxta artificium. (Eandem orationem exhibet Cod. MN II 135 in parte W; vide supra p. 91!)\n\nz₁₆) Oratio Ad Sanctissimam Virginem Mariam sine macula conceptam: p. 543–553. Initium: Adorna thalamum tuum Sion,.... (Auctor ignotus!)\n\nz₁₇) Oratio Habita in Susceptione Reverendorum (?) Dominorum Convictorum ad Sodalitatem Partheniam Beatae Virginis Mariae Assumptae. 1684: p. 555–560. Initium: Quò vos Mariani Domini Candidati...... Nota p. 560: facta A Religioso F. Bern(ardo Lind) Professo Yrseensi pro tempore Praefecto (de quo supra ad partem z₉!)\n\nz₁₈) Oratiuncula Pro Solenni Festo omnium Sanctorum Monachorum Ordinis S. P. Nostri Benedicti: p. 561–575. Initium: Sum qui Sum, et sunt qui sunt, Auditores.... (Auctor ignotus!)\n\n\n\n\nz₁₉) Oratio (ad Sodales Marianos habita): p. 577–584. Initium: Quid agitis? Ornatissimi Sodales. Fabri fabrilia tractant.... (Auct. ign.)\n\nz₂₀) Oratio Pro festo omnium Sanctorum Monachorum: p. 585–592. Initium: Aurium delicias et Tullianas expectatis epulas.... (Auctor ignotus!)\n\nz₂₁) Oratio In genere Deliberativo Sive Suasoria, an melius sit nasci Pastorem quàm Regem: p. 593–603. Initium: Regia Majestas eâ semper prodit formâ,..... Nota p. 603: R. P. Edmundus Grabman. Professus Seonensis pro tempore Professor Rhetorices. 1684 (Sine dubio P. Edmundus Grabman idem est atque P. Edmundus Gramont, professus Seonensis, qui orationes q et s codicis MN II 135 – supra p. 89! – habuit.)\n\nz₂₂) Oratio In genere Judiciali, ubi Cyrus rusticorum filius accusatur, quod nobiles Adolescentes curaverit verberari: p. 605–615. Argumentum p. 605: Cyrus summum despectum regi fecit, et maximam audaciam consecutus, ergo quàm iustissimè supplicio afficiendus. [Randnotiz:] De auctore vide proximam partem! Nota p. 615: Sequetur Defensio et Responsio.\n\nz₂₃) Defensio et Responsio Cyri Artabazis coram Rege Astyage: p. 616–626. Initium: Gratulor mihi non parum.... Subscriptio p. 626: Joannes Daniel Pockh. 1673. (scilicet habuit hanc defensionem ideoque probabiliter etiam orationem partis z₂₂.)\n\nz₂₄) Oratio demonstrativa Vituperium ignaviae: p. 629–634. Initium: Pudet me – ita me Deus amet – officii mei,.... (Auctor ignotus!)\n\nVeri similiter totus codex noster 34 S ab una eademque manu scriptus est, etiamsi quaedam differentiae scripturae distingui possunt. Videtur P. Martinus Riesenhuber arbitratus esse hunc scriptorem fuisse F. Josephum Koppler. Quod utrum e sola oratione f codicis nostri (supra p. 97) eaque a F. Josepho Koppler habita coniecerit an etiam aliis ex causis, nescio."
   }
 }

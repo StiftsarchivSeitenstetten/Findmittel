@@ -19,21 +19,35 @@ ms_contents:
   - label: a
     title: De Ortu et Interitu / De Generatione et Corruptione
     locus: Bl. 1–89r
+    title_status: unspecified
   - label: b
     title: De Mundo et Coelo
-    locus: Bl. 89v–96v
+    locus: fol. 89v - 96v
+    title_status: unspecified
   - label: c
     title: Meteorologia
-    locus: Bl. 97r–107r
+    locus: fol. 97r - 107r
+    title_status: unspecified
   - label: d
     title: De Anima
-    locus: Bl. 109r–170v
+    locus: fol. 109r - 170v
+    incipits:
+    - text: Postquam Aristoteles 8 Libris Physicorum examinasset substantiam....
+    title_status: unspecified
   - label: e
     title: Metaphysica
-    locus: Bl. 170v–175r
+    locus: fol. 170v - 175r
+    incipits:
+    - text: Scripsit 14 Libris Metaphysicorum Aristoteles....
+    colophons:
+    - locus: fol. 175r
+      text: paCeM à soLo Deo, pene De CoeLo et FINEM PHILOSOPHIAE chronographica anni quo absolvi, quo Mars absolvit et Pax florere coepit. (1650).
+        Ad partes a - e pertinet etiam
+    title_status: unspecified
   - label: f
     title: Disputationes Ethicae De Voluntate et eius Actibus, Item de Passionibus Animae
-    locus: Bl. 177r–196v
+    locus: fol. 177r - 196v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

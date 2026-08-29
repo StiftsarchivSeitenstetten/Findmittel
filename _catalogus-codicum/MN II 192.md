@@ -12,10 +12,18 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Gratia
-    locus: S. 1–335
+    locus: p. 1–335
+    incipits:
+    - locus: p. 1
+      label: Prooemii
+      text: quandoquidem homines (!) ad veram aeternamque felicitatem aspiranti non sufficit,
+    title_status: unspecified
   - label: b
     title: Tractatus Theologicus De Virtutibus Theologicis fide, spe et charitate
-    locus: S. 335–461
+    locus: p. 335–461
+    incipits:
+    - text: Cum operari sequatur ad esse......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

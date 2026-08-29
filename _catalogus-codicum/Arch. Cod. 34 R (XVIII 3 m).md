@@ -13,14 +13,32 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 R (XVIII 3 m).
   items:
   - label: a
-    catalog_statement: '(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414,
-      sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus
-      primo die Septembris .......'
+    catalog_statement: '(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117
+      excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris .......'
+    title: '(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus'
+    locus: fol. 1–414
+    colophons:
+    - locus: fol. 414v
+      text: absolvimus primo die Septembris .......
+    title_status: supplied
+    title_source: cataloguer
   - label: b
-    catalog_statement: 'Commentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. Initium
-      fol. 1r: Pars ista philosophiae tertia uti tempore ultima.... Clausula fol. 51r: Absolvimus 19. die Septembris.....horâ
-      pomeridianâ quo tempore eram in examine pro subdiaconatu 1670. Clausula altera fol. 52r: ....haec diuturno labore conscripta
-      a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.'
+    catalog_statement: 'Commentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. Initium fol. 1r: Pars ista
+      philosophiae tertia uti tempore ultima.... Clausula fol. 51r: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine
+      pro subdiaconatu 1670. Clausula altera fol. 52r: ....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.'
+    title: Commentarius in Aristotelis Metaphysicam. 1670. 2 September
+    locus: fol. 1–51
+    incipits:
+    - locus: fol. 1r
+      text: Pars ista philosophiae tertia uti tempore ultima....
+    colophons:
+    - locus: fol. 51r
+      text: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670.
+    explicits:
+    - locus: fol. 52r
+      label: altera
+      text: '....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

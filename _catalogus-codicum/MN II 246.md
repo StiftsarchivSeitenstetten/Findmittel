@@ -13,22 +13,33 @@ ms_contents:
   items:
   - label: a
     title: Prooemium totius Tractatus Theologici De Beatitudine, Angelis et Actibus Humanis
-    title_type: supplied
-    locus: S. 3
-    incipit: Sanctus Thomas postquam in prima parte
+    locus: p. 3
     note: Der Titelbestandteil „Prooemium totius“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    incipits:
+    - text: Sanctus Thomas postquam in prima parte
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Pars Prima De Beatitudine disputatio Unica
-    locus: S. 3–104
-    incipit: Beatitudo prout in praesenti accipitur
+    locus: p. 3–104
+    incipits:
+    - text: Beatitudo prout in praesenti accipitur......
+      locus: p. 4
+      label: Articuli primi
+    title_status: unspecified
   - label: c
     title: Pars Secunda. De Angelis
-    locus: S. 104–206
-    incipit: Post considerationem beatitudinis quoad eius formam et obiectum
+    locus: p. 104–206
+    incipits:
+    - text: Post considerationem beatitudinis quoad eius formam et obiectum......
+    title_status: unspecified
   - label: d
     title: Pars Tertia De Actibus Humanis
-    locus: S. 206–324
-    incipit: Considerata iam beatitudine seu fine ultimo creaturae rationalis
+    locus: p. 206–324
+    incipits:
+    - text: Considerata iam beatitudine seu fine ultimo creaturae rationalis......
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

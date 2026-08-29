@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-18-xviii-3-m",
   "signature": "Arch. Cod. 34–18 (XVIII 3 m)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "105",
   "heading": {
     "title": "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1685/86"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. IX–Bl. 439v",
+      "locus": "p. IX",
       "language": "",
+      "incipits": [
+        {
+          "text": "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....",
+          "locus": "p. IX",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur...."
+        "text": "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....",
+        "locus": "p. IX",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -150,13 +165,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–18 (XVIII 3 m)",
     "titles": "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686). \nTractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).",
-    "persons": "P. Bruno Schlibnigg Dozent lecturer \nFr. Adamus Weissenhoffer Schreiber scribe",
+    "persons": "P. Bruno Schlibnigg Dozent lecturer  \nFr. Adamus Weissenhoffer Schreiber scribe ",
     "incipits": "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....",
     "explicits": "",
     "notes": "Mit mehreren Zeichnungen.",
-    "physical": "Papier \nX pagg. + 439 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nX pagg. + 439 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; X Seiten + 439 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1685/86.\n\n**Abhandlung zur Physik des Aristoteles**, an der Universität Salzburg vorgetragen von **P. Bruno Schlibnigg**, Profess von St. Paul in Kärnten, Doktor und ordentlichem Professor der Philosophie; aufgezeichnet von **Fr. Adamus Weissenhoffer**, Profess von Seitenstetten, 1686.\n\nAnfang S. IX: **Zweite Abhandlung zu den acht Büchern der Physik des Aristoteles. Vom Dornengestrüpp der Logik schreiten wir fort....** Die erste Abhandlung war die Logik.\n\nRandnotiz S. IX: **13. Juli, Freitag 1685.**\n\nIm Codex befinden sich mehrere Zeichnungen.\n\nFr. Adam Weissenhoffer schrieb auch den vorausgehenden und den folgenden Codex. Dieselbe Abhandlung enthält MN II 147.",
+    "latin": "4°; X pagg. + 439 foll.; teg. a2; script. 1685/86\n\nTractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).\n\nInitium p. IX: Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur.... (NB: Tractatus 1 est Logica!)\n\nNota in margine superiore p. IX: 13 Julii. Die Veneris 1685.\n\nIn hoc codice inveniuntur complures rerum delineationes.\n\nF. Adamus Weissenhoffer etiam codicem praecedentem et subsequentem exaravit. Eundem tractatum, quem codex noster, continet etiam Cod. MN II 147. (Quem codicem vide aliquantum inferius!)"
   }
 }

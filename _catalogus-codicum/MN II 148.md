@@ -9,26 +9,43 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 148
 ms_contents:
-  title: Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam
-    in genere, quàm specie
+  title: Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie
   items:
   - label: a
     title: Disputatio Prima De Virtute et obiecto Justitiae
     locus: fol. 1v–97v
     end_date: '1687-04-14'
+    colophons:
+    - text: Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt.
+        (Chronogramma ad annum 1687)
+    title_status: unspecified
   - label: b
     title: Disputatio Secunda De Restitutione In Genere
     locus: fol. 98r–144v
     end_date: '1687-06-11'
+    colophons:
+    - text: Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo
+        Episcopo Stainer.
+    title_status: unspecified
   - label: c
     title: Disputatio Tertia De Iniuriis et Restitutione in specie
     locus: fol. 145r–220r
     end_date: '1687-08-27'
+    colophons:
+    - text: Die. 27. Augusti Anno 1687.
+    title_status: unspecified
   - label: d
-    title: Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere
-      et specie
+    title: Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie
     locus: fol. 221v–232v
+    incipits:
+    - locus: p. IX
+      text: Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....
+    colophons:
+    - locus: fol. 231v
+      text: Lectio 140 Die 2. Septembris 1687.
+    title_status: unspecified
   lecture_count: ca. 150
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

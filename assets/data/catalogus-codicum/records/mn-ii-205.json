@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-205",
   "signature": "MN II 205",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "153–154",
   "heading": {
     "title": "Tractatus De Gratia, Justificatione et Merito atque De Fide, Spe et Charitate",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1701/02"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus De Gratia, Justificatione et Merito atque De Fide, Spe et Charitate",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima De Gratia, Justificatione et Merito",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–385",
+      "locus": "p. 5–385",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -72,13 +79,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Secunda De Virtutibus Theologicis Fide, Spe et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 386–425",
+      "locus": "p. 386–425",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -171,13 +182,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-205/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 205",
     "titles": "Tractatus De Gratia, Justificatione et Merito atque De Fide, Spe et Charitate \nPars Prima De Gratia, Justificatione et Merito \nPars Secunda De Virtutibus Theologicis Fide, Spe et Charitate",
-    "persons": "P. Marianus Lendlmayr Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
+    "persons": "P. Marianus Lendlmayr Dozent lecturer Kloster Admont / Universität Salzburg \nFr. Engelbertus Veser Schreiber scribe Seitenstetten",
     "incipits": "",
     "explicits": "",
     "notes": "Der Teil ist durch zahlreiche Lücken beschädigt und scheint unvollständig zu sein. \nincomplete",
-    "physical": "Papier \n432 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n432 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+    "german": "432 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1701/02.\n\n**Abhandlung zur Prima Secundae des hl. Thomas über Gnade, Rechtfertigung und Verdienst und zur Secunda Secundae über Glaube, Hoffnung und Liebe**, vorgetragen von P. Marianus Lendlmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor; Fr. Engelbertus Veser, Profess von Seitenstetten, 9. November 1701.\n\nAnfang S. 5: Die Materie, die im gegenwärtigen Jahr zu behandeln vorgeschrieben ist.....\n\na) **Erster Teil über Gnade, Rechtfertigung und Verdienst:** S. 5–385. Anfang: Die Materie über die göttliche Gnade behandelt der heilige Lehrer..... Schluss: **Wir beendeten die Abhandlung über die Gnade mit göttlicher Gnade am 1. Juli 1702.**\n\nb) **Zweiter Teil über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 386–425. Dieser Teil ist durch zahlreiche Lücken beschädigt und scheint zudem unvollständig. Anfang S. 387: Die theologischen Tugenden heißen nach dem Griechischen.....\n\nDerselbe Schreiber schrieb auch die sechs vorhergehenden Codices.",
+    "latin": "432 pagg.; teg. c2d; script. 1701/02\n\nTractatus in Primam Secundae Divi Thomae. De Gratia, Justificatione et Merito. Et in Secundam Secundae. De Fide, Spe, et Charitate. Traditus â .....P. Mariano Lendlmayr. Ordinis S. P. Benedicti in Celeberrimo Asceterio Admontensi Professo Sacrosanctae Theologiae Doctore. Professore Ordinario. F. E. V. P. S. (= F. Engelbertus Veser Professus Seittenstettensis.) 9 Novembris 1701.\n\nInitium p. 5: Materia quae in praesenti anno tractanda praescribitur......\n\na) Pars I. de Gratia, Justificatione et Merito: p. 5–385. Initium: Materiam de gratia divina pertractat Sanctus Doctor..... Clausula: Absolvimus Tractatum de gratia cum gratia divina 1 Julii 1702.\n\nb) Pars II. de Virtutibus Theologicis Fide, Spe et Charitate: p. 386–425. (Haec pars ut multis lacunis vitiata est, ita etiam videtur manca esse.) Initium p. 387: Virtutes Theologicae ex graeco....\n\nIdem scriptor etiam sex codices praecedentes scripsit."
   }
 }

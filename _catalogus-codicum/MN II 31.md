@@ -13,12 +13,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 31
 ms_contents:
-  title: "Commentarii in Organum Aristotelis Anno 1637."
   items:
-  - label: "a"
-    title: "Commentarii in Organum Aristotelis Anno 1637."
-    locus: "S. 1–558"
-    incipit: "Magna pars mortalium conqueritur de naturae malignitate (?)....."
+  - label: a
+    title: Commentarii in Organum Aristotelis Anno 1637.
+    locus: S. 1–558
+    incipits:
+    - text: Magna pars mortalium conqueritur de naturae malignitate (?).....
+      locus: p. 1
+      label: Prooemii
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,13 +13,33 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Tertius De Angelis
-    locus: p. 9 - 245. I
+    locus: p. 9 - 245
+    incipits:
+    - locus: p. 9
+      text: Considerationem Divinarum processionum ad intra recto ordine subsequitur....
+    title_status: unspecified
   - label: b
     title: Tractatus quartus In Primam Secundae De actibus humanis
-    locus: p. 261 - 646. I
+    locus: p. 261 - 646
+    incipits:
+    - locus: p. 261
+      label: Proloquii
+      text: Postquam S. Doctor in prima parte disputavit de Deo ut est in se........
+    title_status: unspecified
   - label: c
     title: (Tractatus De Conscientia)
-    locus: p. 661 - 834. I
+    locus: p. 661 - 834
+    incipits:
+    - locus: p. 661
+      text: Post absolutam considerationem actuum humanorum......
+    colophons:
+    - locus: p. 646
+      label: partis b
+      text: „Solent authores hic quaestionem De conscientia attexere quam...... sequenti anno expediemus?“
+    title_status: supplied
+    title_source: cataloguer
+    notes:
+    - Ergo verisimile est partem b non post annum 1675 scriptam esse. Sed certo etiam pars b non multum ante annum 1676 tradita exceptaque est.
 phys_desc:
   object_form: codex
   support: Papier

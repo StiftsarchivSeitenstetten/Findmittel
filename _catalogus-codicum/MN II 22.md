@@ -17,9 +17,30 @@ ms_contents:
   summary: Physikvorlesung Simon Fyrbas’, mitgeschrieben von Benedict Graff, mit gedruckten Thesen und zeitgeschichtlichen Randnotizen.
   items:
   - label: a
-    catalog_statement: '*Theoriae Physicae ad VIII Aristotelis libros Physicorum Dictatae ab.....P. Simone Fyrbas....Monacho Schyrensi Exceptae a F. Benedicto Graff ....in Seittenstätten Professo. Salisburgi Anno MDCXXXIV.*'
+    catalog_statement: '*Theoriae Physicae ad VIII Aristotelis libros Physicorum Dictatae ab.....P. Simone Fyrbas....Monacho Schyrensi Exceptae
+      a F. Benedicto Graff ....in Seittenstätten Professo. Salisburgi Anno MDCXXXIV.*'
+    title: Theoriae Physicae ad VIII Aristotelis libros Physicorum Dictatae ab.....P. Simone Fyrbas....Monacho Schyrensi Exceptae a F. Benedicto
+      Graff ....in Seittenstätten Professo. Salisburgi Anno MDCXXXIV
+    locus: fol. 1r
+    title_status: unspecified
+    incipits:
+    - locus: fol. 1r
+      label: Protologiae ad Universam Physicam
+      text: Nil obstat cupidis....
+    colophons:
+    - locus: fol. 28v
+      text: 23 Junii Absolverunt F. placidus Freyberger, et agricola Alumnus. Caeteri ne leges academicas violarent, solitam recreationem universi
+        egerunt. (Sequuntur aliquot verba litteris Hebraicis scripta.)
   - label: b
-    catalog_statement: '*Theoremata Physica ad octo Libros Physicos Aristotelis, In Alma Universitate Salisburgensi, sub praesidio P. F. Honorati Kolb, Monachi Benedictini in Seeon, Philosophiae Professoris Ordinarii, Disputata a....P. Petro Peichtinger ....in monasterio Prunvening (= Prüvening, Prüfling) Professo, Philosophiae Baccalaureo. Ad diem ...Mensis Febr. An. MDCXXXIII. Salisburgi, ex Typographeo Christophori Katzenbergeri.....*'
+    catalog_statement: '*Theoremata Physica ad octo Libros Physicos Aristotelis, In Alma Universitate Salisburgensi, sub praesidio P. F. Honorati
+      Kolb, Monachi Benedictini in Seeon, Philosophiae Professoris Ordinarii, Disputata a....P. Petro Peichtinger ....in monasterio Prunvening
+      (= Prüvening, Prüfling) Professo, Philosophiae Baccalaureo. Ad diem ...Mensis Febr. An. MDCXXXIII. Salisburgi, ex Typographeo Christophori
+      Katzenbergeri.....*'
+    title: Theoremata Physica ad octo Libros Physicos Aristotelis, In Alma Universitate Salisburgensi, sub praesidio P. F. Honorati Kolb, Monachi
+      Benedictini in Seeon, Philosophiae Professoris Ordinarii, Disputata a....P. Petro Peichtinger ....in monasterio Prunvening (= Prüvening,
+      Prüfling) Professo, Philosophiae Baccalaureo. Ad diem ...Mensis Febr. An. MDCXXXIII. Salisburgi, ex Typographeo Christophori Katzenbergeri
+    locus: P
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

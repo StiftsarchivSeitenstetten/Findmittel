@@ -20,15 +20,37 @@ ms_contents:
     - title: Disputatio Praeliminaris De Conscientia
       locus: fol. 1r–41r
       end_date: '1689-01-17'
+      colophons:
+      - locus: fol. 41r
+        text: Finivimus hanc Disputationem die 17. Januarii Anno 1689.
+      title_status: supplied
+      title_source: cataloguer
+    incipits:
+    - locus: fol. IIIr
+      label: Prooemii
+      text: Quid et quantum malum sit Peccatum,....
+    colophons:
+    - locus: fol. 160r
+      text: Absolvimus 12. Julii. ante meridiem. 1689. et Sequentem Tractatum simul incepimus. (117 Lectiones)
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
-    locus: fol. 1–54v (=161–214)
+    locus: fol. 1–54v
     start_date: '1689-07-12'
     end_date: '1689-08-31'
     lecture_count: 27
+    incipits:
+    - label: Disputationis Primae
+      text: Nomen Legis iuxta Divum Thomam ......
+    colophons:
+    - text: 27 Lectiones. Absolvimus Die 31 Augusti 1689.
+    notes:
+    - 'Beginnereignis am Schluss des vorhergehenden Traktats: Sequentem Tractatum simul incepimus.'
+    title_status: unspecified
   - label: c
     title: Index super Tractatum de Conscientia; Item de Vitiis et Peccatis
-    locus: fol. 55r–65r (=215–225)
+    locus: fol. 55r–65r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

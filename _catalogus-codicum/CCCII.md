@@ -13,13 +13,23 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. CCCII.
   items:
   - label: a
-    catalog_statement: '(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu
-      Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593'
+    catalog_statement: '(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main,
+      Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593'
+    title: Hieronymi Megiserii Deliciae ordinum equestrium
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 77r
   - label: b
-    catalog_statement: 'Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller
-      zusammen gekhlaubter warnussen: fol. 83r. - 104r. (saec. 16 script.)'
+    catalog_statement: 'Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter
+      warnussen: fol. 83r. - 104r. (saec. 16 script.)'
+    title: Verzaichnus etlicher Treuhertziger Vätterlicher Dir meinem lieben Sohn Franz Christoffen Kevenhuller zusammen gekhlaubter warnussen
+    locus: fol. 83r
+    title_status: unspecified
   - label: c
     catalog_statement: 'Piccardorum dogmata: latine; fol. 105r - 110v; saec. XV.'
+    title: 'Piccardorum dogmata: latine'
+    locus: fol. 105r - 110v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

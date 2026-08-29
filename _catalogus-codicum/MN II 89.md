@@ -14,7 +14,6 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 89
 ms_contents:
-  title: Logica
   responsibility:
   - role: lecturer
     name: P. Stephanus Sevioviz (Senoviz?)
@@ -22,6 +21,21 @@ ms_contents:
   - role: scribe
     name: Dionysius Kerner
     origin: Griesbach
+  items:
+  - title: Logica
+    title_status: supplied
+    title_source: cataloguer
+    incipits:
+    - label: Sumulariae in Aristotelis logicam introductionis pag. 7
+      text: Solent ad
+    colophons:
+    - locus: p. 430
+      text: finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre Stephano Sevioviz (Senoviz?) Artium liberalium et Philosophiae Doctore
+        nec non eiusdemque professore ordinario. Graecii...... Dionysius Kerner Grispachensis.
+    notes:
+    - (Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio
+      Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis
+      codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.)
 phys_desc:
   object_form: codex
   support: Papier

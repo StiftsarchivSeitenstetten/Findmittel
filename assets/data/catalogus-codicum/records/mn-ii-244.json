@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-244",
   "signature": "MN II 244",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Summulae dialecticae seu Logica minor",
         "typeRaw": "supplied",
@@ -52,10 +56,27 @@
       },
       "locus": "fol. 1r–94v",
       "language": "",
+      "incipits": [
+        {
+          "text": "A Sumulis nostris iter nostrum peripateticum ordimur,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Et haec summatim de summulis. absolvimus 14 Decembris 1711.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "A Sumulis nostris iter nostrum peripateticum ordimur"
+        "text": "A Sumulis nostris iter nostrum peripateticum ordimur,.....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Et haec summatim de summulis. absolvimus 14 Decembris 1711.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -75,17 +96,37 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De his, quae Logicam maiorem concernunt",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 96r–494v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sat diu vestibulum peripateticum obambulavimus...",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus die 20 Maii 1712.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Sat diu vestibulum peripateticum obambulavimus"
+        "text": "Sat diu vestibulum peripateticum obambulavimus...",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus die 20 Maii 1712.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -183,13 +224,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 244",
     "titles": "Summulae dialecticae seu Logica minor \nSummulae dialecticae seu Logica minor \nTractatus De his, quae Logicam maiorem concernunt",
-    "persons": "P. Caelestin Mayr Autor author \nunbekannt Schreiber scribe",
-    "incipits": "A Sumulis nostris iter nostrum peripateticum ordimur \nSat diu vestibulum peripateticum obambulavimus",
-    "explicits": "",
+    "persons": "P. Caelestin Mayr Autor author Kloster St. Ulrich und Afra, Augsburg / Universität Salzburg \nunbekannt Schreiber scribe ",
+    "incipits": "A Sumulis nostris iter nostrum peripateticum ordimur,..... \nSat diu vestibulum peripateticum obambulavimus...",
+    "explicits": "Et haec summatim de summulis. absolvimus 14 Decembris 1711. \nAbsolvimus die 20 Maii 1712.",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist daher als editorisch ergänzt gekennzeichnet.",
-    "physical": "Papier \n496 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n496 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "496 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1711/12.\n\na) **(Summulae der Dialektik oder kleine Logik):** fol. 1r–94v. Anfang: Mit unseren Summulae beginnen wir unseren peripatetischen Weg,..... Schluss: **Und damit in Kürze genug von den Summulae; wir beendeten [sie] am 14. Dezember 1711.**\n\nb) **Abhandlung über jene Dinge, die zur größeren Logik gehören:** fol. 96r–494v. Anfang der Vorrede: Lange genug sind wir in der Vorhalle der Peripatetiker umhergegangen..... Schluss: **Wir beendeten [dies] am 20. Mai 1712.**\n\nDer Schreiber ist unbekannt. Dass der Verfasser P. Caelestin Meyr, Profess des Klosters St. Ulrich und Afra in Augsburg und Professor in Salzburg, war, zeigt der folgende Codex MN II 245, der dieselben Vorlesungen enthält und auch den Verfasser nennt.",
+    "latin": "496 foll.; teg. a1; script. 1711/12\n\na) (Summulae dialecticae seu Logica minor): fol. 1r–94v.  \nInitium: A Sumulis nostris iter nostrum peripateticum ordimur,.....  \nClausula: Et haec summatim de summulis. absolvimus 14 Decembris 1711.\n\nb) Tractatus De his, quae Logicam maiorem concernunt: fol. 96r–494v.  \nInitium Proemii: Sat diu vestibulum peripateticum obambulavimus...  \nClausula: Absolvimus die 20 Maii 1712.\n\nScriptor ignotus; auctorem vero esse P. Caelestinum Meyr, professum ad S. Udalricum et Afram Augustae Vindelicorum (Augsburg) et Professorem Salisburgensem, non negabis, si inspexeris codicem subsequentem MN II 245, qui easdem lectiones continens etiam auctorem nuntiat."
   }
 }

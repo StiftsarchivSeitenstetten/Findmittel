@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-7",
   "signature": "MN I 7",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "160–165",
   "heading": {
     "title": "Variae Relationes",
-    "titleTypeRaw": "spine_title",
-    "titleTypeLabel": "spine title",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {
@@ -23,12 +23,15 @@
   },
   "contentsOverview": {
     "title": "Variae Relationes",
-    "titleTypeRaw": "spine_title",
-    "titleTypeLabel": "spine title",
-    "translation": "Verschiedene Berichte",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
+    "translation": "",
     "summary": "Sammelhandschrift mit politischen, militärischen, rechtlichen und historischen Berichten, Mandaten, Dekreten, Verträgen und Rechtsgutachten vorwiegend des 16. und frühen 17. Jahrhunderts.",
-    "language": "",
+    "language": "de; la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -40,13 +43,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ratschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–13",
+      "locus": "p. 3–13",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Waß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 15–26",
+      "locus": "p. 15–26",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -86,13 +97,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Eines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 27–29",
+      "locus": "p. 27–29",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -109,13 +124,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Proposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 31–37",
+      "locus": "p. 31–37",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,15 +151,25 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Bericht über die Schlacht bei Keresztes",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 39–64",
+      "locus": "p. 39–64",
       "language": "",
+      "incipits": [
+        {
+          "text": "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen..."
+        "text": "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen...",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -170,13 +199,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Die schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 66–69",
+      "locus": "p. 66–69",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -206,13 +239,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Relation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 71–80",
+      "locus": "p. 71–80",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -229,13 +266,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Warhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 83–102",
+      "locus": "p. 83–102",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -256,13 +297,17 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Khayserliche Citation So an herrn Georgen Poppel außgangen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 103–109",
+      "locus": "p. 103–109",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -279,13 +324,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Beschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 111–112",
+      "locus": "p. 111–112",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -302,13 +351,17 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Der Fürl. Durchl. Inn Grätz Decret ann die Landtstendt In Steyer",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 113–116",
+      "locus": "p. 113–116",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -333,14 +386,26 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Relation Waß sich bey belegerung der Vestung Canischa, welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 121–151",
+      "locus": "p. 121–151",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Durchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten Jahrs,..... (1600) (Generalissimus Georgius Paradeiser anno 1600 arcem Kanischa, qui praefuit, diu obsessam hostibus tradidit.)",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Durchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten Jahrs,..... (1600) (Generalissimus Georgius Paradeiser anno 1600 arcem Kanischa, qui praefuit, diu obsessam hostibus tradidit.)",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [
@@ -364,15 +429,27 @@
       "id": "item-m",
       "label": "m",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 153–159",
+      "locus": "p. 153–159",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Actum & Signatum, Inn der Statt ober Ehenhaimb (= Oberehnheim = Obernai) denn 12 Octobris Anno (1)600.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Actum & Signatum, Inn der Statt ober Ehenhaimb (= Oberehnheim = Obernai) denn 12 Octobris Anno (1)600.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -387,13 +464,17 @@
       "id": "item-n",
       "label": "n",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Sibenbürgerische Relation",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 163–183",
+      "locus": "p. 163–183",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -410,13 +491,17 @@
       "id": "item-o",
       "label": "o",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Capitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 184–188",
+      "locus": "p. 184–188",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -455,13 +540,17 @@
       "id": "item-p",
       "label": "p",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Extract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 189–191",
+      "locus": "p. 189–191",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -487,13 +576,17 @@
       "id": "item-q",
       "label": "q",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Extract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften...",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 191–192",
+      "locus": "p. 191–192",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -515,15 +608,27 @@
       "id": "item-r",
       "label": "r",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Veldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 193–199",
+      "locus": "p. 193–199",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Datum Denn 21. Novembris Anno 1601. (Roßwuerm ab elite Rußwurm aut Rußwurm vocetur.) Auctor huius partis est Hermannus Christophorus Comes de Roßwurm (Rußwurm).",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Datum Denn 21. Novembris Anno 1601. (Roßwuerm ab elite Rußwurm aut Rußwurm vocetur.) Auctor huius partis est Hermannus Christophorus Comes de Roßwurm (Rußwurm).",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -546,13 +651,17 @@
       "id": "item-s",
       "label": "s",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Relation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 201–230",
+      "locus": "p. 201–230",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -569,13 +678,17 @@
       "id": "item-t",
       "label": "t",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Kurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 233–247",
+      "locus": "p. 233–247",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -592,13 +705,17 @@
       "id": "item-u",
       "label": "u",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Khunl. May. Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 249–254",
+      "locus": "p. 249–254",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -620,13 +737,17 @@
       "id": "item-v",
       "label": "v",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Warumb die Bibel Inn glaubens sachen nit khann Richter seinn",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 257–279",
+      "locus": "p. 257–279",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -646,13 +767,17 @@
       "id": "item-w",
       "label": "w",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Hierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro unnd dem Sofft (?) begeben hat...",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 281–293",
+      "locus": "p. 281–293",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -677,13 +802,17 @@
       "id": "item-x",
       "label": "x",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach, In October Im M.D.XX. Jahr",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 294–307",
+      "locus": "p. 294–307",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -708,13 +837,17 @@
       "id": "item-y",
       "label": "y",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Khüniglicher Mayestät Zue Behaimb unnd Hungern ... auff die Crönnung gehn Prag außzug vonn Wien ... der am fünfften tag Februarii Im 1527 Jahr beschehen Ist...",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 308–323",
+      "locus": "p. 308–323",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -731,15 +864,29 @@
       "id": "item-z",
       "label": "z",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Des Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 323–327",
+      "locus": "p. 323–327",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 327",
+          "text": "Beschehen Zue Raab den 27. Septembris Anno (15)94.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 327",
+        "text": "Beschehen Zue Raab den 27. Septembris Anno (15)94.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -754,13 +901,17 @@
       "id": "item-a-2",
       "label": "A",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Der Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 329–338",
+      "locus": "p. 329–338",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -777,13 +928,17 @@
       "id": "item-b-2",
       "label": "B",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ein Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag...",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 338–371",
+      "locus": "p. 338–371",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -800,15 +955,27 @@
       "id": "item-c-2",
       "label": "C",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Khönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 372–376",
+      "locus": "p. 372–376",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Geben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten Unnserer Reiche im Dritten, Ferdinandus..... (1528)",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Geben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten Unnserer Reiche im Dritten, Ferdinandus..... (1528)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -823,19 +990,35 @@
       "id": "item-d-2",
       "label": "D",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Infection ordnung der Statt Wienn",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 377–389",
+      "locus": "p. 377–389",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Actum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Actum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
           "text": "Der Katalogbearbeiter hält 1658 für wahrscheinlicher, weil der erwähnte Gesundheitsmeister erst von Maximilian II. eingesetzt worden sei."
+        },
+        {
+          "type": "notes",
+          "text": "Quaeritur igitur, utrum hoc decretum anno 1558 an 1658 editum sit. Sed cum magister sanitatis, quem edictum nostrum memorat, a Maximiliano II. ideoque post annum 1558 institutus sit, probabiliter ordo noster ad morbos contagiosos coercendos anno 1658 in lucem evenit."
         }
       ],
       "dates": [
@@ -851,13 +1034,17 @@
       "id": "item-e-2",
       "label": "E",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Conditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori 1606 inter utrosque tractatae et conclusae sunt",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 393–398",
+      "locus": "p. 393–398",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -879,13 +1066,17 @@
       "id": "item-f-2",
       "label": "F",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Reconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 399–419",
+      "locus": "p. 399–419",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -902,13 +1093,17 @@
       "id": "item-g-2",
       "label": "G",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Copy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung...",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 421–432",
+      "locus": "p. 421–432",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -925,21 +1120,61 @@
       "id": "item-h-2",
       "label": "H",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Serenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem et felicitatem Humillime precatur",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 434–460",
+      "locus": "p. 434–460",
       "language": "",
+      "incipits": [
+        {
+          "locus": "p. 434",
+          "label": "(Praefationis?)",
+          "text": "Dies hic solennis et praeclarissima saec(er = 24. Februarii)......",
+          "id": "incipit-1"
+        },
+        {
+          "locus": "p. 435",
+          "label": "prioris juris consultationis",
+          "text": "Cum multi ex Baronum, et equestris ordinis statibus,.....",
+          "id": "incipit-2"
+        },
+        {
+          "text": "Postquam de crimine protestantium......",
+          "id": "incipit-3"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 434",
+          "label": "(Praefationis)",
+          "text": "Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) Iurisconsultissimus S. B. P. I. V. D. (= Juris Utriusque Doctor) P. P.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Dies hic solennis et praeclarissima...; Cum multi ex Baronum, et equestris ordinis statibus...; Postquam de crimine protestantium..."
+        "locus": "p. 434",
+        "label": "(Praefationis?)",
+        "text": "Dies hic solennis et praeclarissima saec(er = 24. Februarii)......",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 434",
+        "label": "(Praefationis)",
+        "text": "Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) Iurisconsultissimus S. B. P. I. V. D. (= Juris Utriusque Doctor) P. P.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "contents_note",
           "text": "Enthält mindestens zwei Rechtsgutachten."
+        },
+        {
+          "type": "notes",
+          "text": "(Quae litterae initiales nondum explanatae sunt; qua de re auctorem huius iuris consultorum nondum investigavimus.)"
         }
       ],
       "dates": [
@@ -1163,13 +1398,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-7/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 7",
-    "titles": "Variae Relationes \nVerschiedene Berichte \nRatschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß \nWaß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben \nEines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung \nProposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten \nBericht über die Schlacht bei Keresztes \nDie schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten \nRelation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet \nWarhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten \nKhayserliche Citation So an herrn Georgen Poppel außgangen \nBeschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden \nDer Fürl. Durchl. Inn Grätz Decret ann die Landtstendt In Steyer \nRelation Waß sich bey belegerung der Vestung Canischa, welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen \nVergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg \nSibenbürgerische Relation \nCapitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta \nExtract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr \nExtract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften... \nVeldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa \nRelation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen \nKurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat \nKhunl. May. Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen \nWarumb die Bibel Inn glaubens sachen nit khann Richter seinn \nHierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro unnd dem Sofft (?) begeben hat... \nVernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach, In October Im M.D.XX. Jahr \nKhüniglicher Mayestät Zue Behaimb unnd Hungern ... auff die Crönnung gehn Prag außzug vonn Wien ... der am fünfften tag Februarii Im 1527 Jahr beschehen Ist... \nDes Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben \nDer Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr \nEin Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag... \nKhönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt \nInfection ordnung der Statt Wienn \nConditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori 1606 inter utrosque tractatae et conclusae sunt \nReconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae \nCopy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung... \nSerenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem et felicitatem Humillime precatur",
-    "persons": "Maximilian, Erzherzog von Österreich commissioner commissioner \nJoannes de Angliara Autor author \nFerdinand, Erzherzog von Österreich issuer issuer \nGeorg Paradeiser erwähnt mentioned \nJohann Friedrich II., Herzog von Sachsen erwähnt mentioned \nWilhelm von Grumbach erwähnt mentioned \nAugust, Kurfürst von Sachsen signatory signatory \nHermann Christoph Graf von Roßwurm Autor author \nunbekannt Autor author \nSelim I. subject subject \nKarl V. subject subject \nunbekannt Autor author",
-    "incipits": "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen... \nDies hic solennis et praeclarissima...; Cum multi ex Baronum, et equestris ordinis statibus...; Postquam de crimine protestantium...",
-    "explicits": "",
-    "notes": "Sammelhandschrift mit politischen, militärischen, rechtlichen und historischen Berichten, Mandaten, Dekreten, Verträgen und Rechtsgutachten vorwiegend des 16. und frühen 17. Jahrhunderts. \nDie ursprüngliche Überschrift fehlt; der Katalog gibt stattdessen den Beginn des Berichtes wieder. \nDer Katalogbearbeiter vermutet, dass der Bericht ursprünglich nicht deutsch abgefasst, sondern von einem Unbekannten ins Deutsche übersetzt wurde. \nDer Katalogbearbeiter bezweifelt die Jahreszahl 1698 und vermutet einen Abschreibfehler für 1598. \nJahreszahl fehlt; der Katalogbearbeiter datiert das gegen Häretiker gerichtete Dekret ungefähr um 1600. \nDatierung aus dem Inhalt von S. 253 erschlossen. \nDer Katalogbearbeiter hält 1658 für wahrscheinlicher, weil der erwähnte Gesundheitsmeister erst von Maximilian II. eingesetzt worden sei. \nDer Katalogbearbeiter verweist auf die Übereinstimmung der Geschichtsschreiber hinsichtlich des Abschlussortes. \nEnthält mindestens zwei Rechtsgutachten. \nDie Datierung des Codex ist problematisch. Der Katalog nennt zunächst als terminus post quem für den letzten Teil 1698, bezweifelt diese Jahreszahl jedoch später selbst und erwägt 1598. \nDie Datierung von Teil D bleibt zwischen 1558 und 1658 unsicher; der Katalogbearbeiter bevorzugt 1658. \nDie Datierung des Einbandes um 1700 wird als wahrscheinlich, die Datierung der Niederschrift des gesamten Codex um 1700 dagegen ausdrücklich als ungewiss bezeichnet. \nDie Signatur M III 5 wird als vermutlich ältere Signatur einer bislang unbekannten fremden Bibliothek erfasst und nicht als Seitenstettner Altsignatur interpretiert.",
-    "physical": "Papier \n466 Seiten \nKleines Folio \ncode: c2 mit weißem Lederrücken; description: Marmorierter Pappeinband mit weißem Lederrücken."
+    "titles": "Variae Relationes \nRatschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß \nWaß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben \nEines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung \nProposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten \nBericht über die Schlacht bei Keresztes \nDie schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten \nRelation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet \nWarhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten \nKhayserliche Citation So an herrn Georgen Poppel außgangen \nBeschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden \nDer Fürl. Durchl. Inn Grätz Decret ann die Landtstendt In Steyer \nRelation Waß sich bey belegerung der Vestung Canischa, welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen \nVergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg \nSibenbürgerische Relation \nCapitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta \nExtract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr \nExtract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften... \nVeldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa \nRelation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen \nKurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat \nKhunl. May. Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen \nWarumb die Bibel Inn glaubens sachen nit khann Richter seinn \nHierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro unnd dem Sofft (?) begeben hat... \nVernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach, In October Im M.D.XX. Jahr \nKhüniglicher Mayestät Zue Behaimb unnd Hungern ... auff die Crönnung gehn Prag außzug vonn Wien ... der am fünfften tag Februarii Im 1527 Jahr beschehen Ist... \nDes Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben \nDer Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr \nEin Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag... \nKhönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt \nInfection ordnung der Statt Wienn \nConditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori 1606 inter utrosque tractatae et conclusae sunt \nReconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae \nCopy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung... \nSerenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem et felicitatem Humillime precatur",
+    "persons": "Maximilian, Erzherzog von Österreich commissioner commissioner  \nJoannes de Angliara Autor author  \nFerdinand, Erzherzog von Österreich issuer issuer  \nGeorg Paradeiser erwähnt mentioned  \nJohann Friedrich II., Herzog von Sachsen erwähnt mentioned  \nWilhelm von Grumbach erwähnt mentioned  \nAugust, Kurfürst von Sachsen signatory signatory  \nHermann Christoph Graf von Roßwurm Autor author  \nunbekannt Autor author  \nSelim I. subject subject  \nKarl V. subject subject  \nunbekannt Autor author ",
+    "incipits": "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen... \nDurchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten Jahrs,..... (1600) (Generalissimus Georgius Paradeiser anno 1600 arcem Kanischa, qui praefuit, diu obsessam hostibus tradidit.) \nDies hic solennis et praeclarissima saec(er = 24. Februarii)...... \nCum multi ex Baronum, et equestris ordinis statibus,..... \nPostquam de crimine protestantium......",
+    "explicits": "Actum & Signatum, Inn der Statt ober Ehenhaimb (= Oberehnheim = Obernai) denn 12 Octobris Anno (1)600. \nDatum Denn 21. Novembris Anno 1601. (Roßwuerm ab elite Rußwurm aut Rußwurm vocetur.) Auctor huius partis est Hermannus Christophorus Comes de Roßwurm (Rußwurm). \nBeschehen Zue Raab den 27. Septembris Anno (15)94. \nGeben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten Unnserer Reiche im Dritten, Ferdinandus..... (1528) \nActum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten. \nDatum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) Iurisconsultissimus S. B. P. I. V. D. (= Juris Utriusque Doctor) P. P.",
+    "notes": "Sammelhandschrift mit politischen, militärischen, rechtlichen und historischen Berichten, Mandaten, Dekreten, Verträgen und Rechtsgutachten vorwiegend des 16. und frühen 17. Jahrhunderts. \nde; la \nDie ursprüngliche Überschrift fehlt; der Katalog gibt stattdessen den Beginn des Berichtes wieder. \nDer Katalogbearbeiter vermutet, dass der Bericht ursprünglich nicht deutsch abgefasst, sondern von einem Unbekannten ins Deutsche übersetzt wurde. \nDer Katalogbearbeiter bezweifelt die Jahreszahl 1698 und vermutet einen Abschreibfehler für 1598. \nJahreszahl fehlt; der Katalogbearbeiter datiert das gegen Häretiker gerichtete Dekret ungefähr um 1600. \nDatierung aus dem Inhalt von S. 253 erschlossen. \nDer Katalogbearbeiter hält 1658 für wahrscheinlicher, weil der erwähnte Gesundheitsmeister erst von Maximilian II. eingesetzt worden sei. \nQuaeritur igitur, utrum hoc decretum anno 1558 an 1658 editum sit. Sed cum magister sanitatis, quem edictum nostrum memorat, a Maximiliano II. ideoque post annum 1558 institutus sit, probabiliter ordo noster ad morbos contagiosos coercendos anno 1658 in lucem evenit. \nDer Katalogbearbeiter verweist auf die Übereinstimmung der Geschichtsschreiber hinsichtlich des Abschlussortes. \nEnthält mindestens zwei Rechtsgutachten. \n(Quae litterae initiales nondum explanatae sunt; qua de re auctorem huius iuris consultorum nondum investigavimus.) \nDie Datierung des Codex ist problematisch. Der Katalog nennt zunächst als terminus post quem für den letzten Teil 1698, bezweifelt diese Jahreszahl jedoch später selbst und erwägt 1598. \nDie Datierung von Teil D bleibt zwischen 1558 und 1658 unsicher; der Katalogbearbeiter bevorzugt 1658. \nDie Datierung des Einbandes um 1700 wird als wahrscheinlich, die Datierung der Niederschrift des gesamten Codex um 1700 dagegen ausdrücklich als ungewiss bezeichnet. \nDie Signatur M III 5 wird als vermutlich ältere Signatur einer bislang unbekannten fremden Bibliothek erfasst und nicht als Seitenstettner Altsignatur interpretiert.",
+    "physical": "Papier \n466 Seiten \nKleines Folio \ncode: c2 mit weißem Lederrücken; description: Marmorierter Pappeinband mit weißem Lederrücken.",
+    "german": "Kleines Folioformat; 466 Seiten; marmorierter Pappeinband mit weißem Lederrücken; zu verschiedenen Zeiten geschrieben, der letzte Teil jedoch nicht vor dem Jahr 1698.\n\n(Verschiedene Berichte. So lautet die Aufschrift auf dem Rücken!)\n\na) Ratschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß: S. 3–13. Datierung S. 13: Geben Inn Regenßpurg Freytags nach Cantate Anno XXXII. (1532).\n\nb) Waß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben (1576): S. 15–26.\n\nc) Eines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung: S. 27–29 (16. Jahrhundert?).\n\nd) Proposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten (1582): S. 31–37.\n\ne) (Die Überschrift fehlt; anstelle dieses Titels schreiben wir den Eingang dieses Berichtes ab:) Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen, daß Vonn der Im **verwichnen** 96 Jahr, wider denn Erbfeindt. Christlichen Nambenss Unnd glaubens, denn Türgkhen Inn Hungern gefürten Kriegs Expedition, sonderlich aber Vor dem denn 26. Octobris Neuen Callenders, bey Kerertes (?) fürgegangen Treffen widerwertige unnd unergründte discurs Unnd Reden, spargiert unnd ausgesprengt werden. Also haben wir umb mehrerlay Ursachenn willen, für ain sunder Hoche Unnd unverweydenliche Notturfft geachtet, waß sich Vom Anfang, solches KriegsWesens, biß zu dem Enndt Unnd Abzug zuegetragen hat, Summariè verfaßen zu laßen: S. 39–64. (Bericht über die am 26. Oktober 1596 bei Keresztes geschlagene Schlacht, dessen Abfassung Erzherzog Maximilian von Österreich veranlasste.)\n\nf) Die schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten, : S. 66–69. (Es wird über eine gewisse Insel – offenbar in Amerika – berichtet, die erstmals am 23. April 1519 entdeckt wurde.) Verfasser: Johannes de Angliara selbst, ein Italiener. Sein Bericht wurde jedoch vielleicht nicht in deutscher Sprache abgefasst, sondern von einem Unbekannten in unsere Sprache übersetzt.\n\ng) Relation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet: S. 71–80. (Bericht über die am 8. Oktober 1588 bei Szikszó geschlagene Schlacht.)\n\nh) Warhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten: S. 83–102. (Bericht darüber, wie Heinrich IV., König von Frankreich, bei Ivry seine Gegner besiegte. Die Ermordung Heinrichs IV. im Jahr 1610 wird durch die Überschrift selbst als Terminus ante quem für die Entstehung dieses Berichtes festgelegt.)\n\ni) Khayserliche Citation So an herrn Georgen Poppel außgangen: S. 103–109. (S. 105, Zeile 3: negsthin dieses 94 Jahres, auß Prager Schloß Vor Unnser Persohn zeigt, dass dieses Mandat im Jahr 1594 erlassen wurde.)\n\nj) Beschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden: S. 111–112. Datierung: Zue Prag den 10 Julii Anno Neun und Neunzigisten. (1599)\n\nk) Der Fürl. (= Fürstlichen) Durchl(aucht) Inn Grätz Decret ann die Landtstendt In Steyer vom 5 Martii Anno 99 (= 1599, denn das Dekret wurde von Erzherzog Ferdinand von Österreich erlassen): S. 113–116; dort findet sich die Schlussformel: Dekret durch den durchlauchtigsten Erzherzog, 5. März 1599. P. Casal.\n\nl) Relation Waß sich bey belegerung der Vestung Canischa (= Kanizsa), welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen: S. 121–151. Anfang: Durchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten Jahrs,..... (1600) (Der Generalissimus Georg Paradeiser übergab im Jahr 1600 die Festung Kanizsa, deren Kommandant er war, nach langer Belagerung den Feinden.)\n\nm) Vergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg: S. 153–159. Schlussformel: Geschehen und unterzeichnet in der Stadt ober Ehenhaimb (= Oberehnheim = Obernai) den 12. Oktober 1600.\n\nn) Sibenbürgerische Relation: S. 163–183. (Dieser Bericht ist mit dem 11. Februar 1601 datiert.)\n\no) Capitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta: S. 184–188. (Es wird berichtet, wie der Krieg gegen Johann Friedrich II., Herzog von Sachsen, und seinen Ratgeber Wilhelm von Grumbach erfolgreich geführt wurde. Diesen Bericht unterzeichnete der Sieger, August, Kurfürst von Sachsen, am 13. April 1567.)\n\np) Extract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr: S. 189–191.\n\nIch bezweifle, dass die Jahreszahl 1698 richtig ist; denn sehr viele Teile unseres Codex enthalten Urkunden und Akten, die entweder im 16. Jahrhundert oder zu Beginn des 17. Jahrhunderts entstanden sind. Außerdem passen die in diesem Auszug vorgelegten Pläne weniger zu den politischen und religiösen Verhältnissen um das Jahr 1700 als zu jenen um das Jahr 1600. Aus diesem Grund vermute ich, dass derjenige, der diesen Teil im 17. Jahrhundert abschrieb, irrtümlich die Zahl 1698 anstelle von 1598 niedergeschrieben hat.\n\n*(Handschriftliche Randnotiz: „nach dem Ausschnitt zu generalmandat“ — Lesung unsicher.)*\n\nq) Extract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften, allß Elsaß, Senitgen (= Sundgau?), Preißgen (= Breisgau?), Unnd Schwartzwall (= Schwarzwald), Unnd ann die Vier Waltstett (Waldstädte), Waltshuet (= Waldshut), Rainfelten (= Rheinfelden), Lauffenberg (= Lauffenburg), Unnd Söckchen (= Säckingen), Item die von Villingen und Brainlingern (= Bräunlingen) Außgangen: S. 191–192. (Eine Jahreszahl ist nicht angegeben; dieses gegen die Häretiker gerichtete Dekret scheint jedoch um das Jahr 1600 erlassen worden zu sein.)\n\nr) Veldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa (= Kanizsa): S. 193–199. Schlussformel: Datum Denn 21. Novembris Anno 1601. (Roßwuerm wird andernorts Rußwurm oder Rußwurm genannt.) Verfasser dieses Teiles ist Hermann Christoph Graf von Roßwurm (Rußwurm).\n\ns) Relation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen: S. 201–230. (Behandelt werden die militärischen Ereignisse des Jahres 1602 in Ungarn.)\n\nt) Kurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn (= Gran) In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat: S. 233–247.\n\nu) Khunl. (Khuniglicher) May(estät) Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen: S. 249–254. Was auf S. 253 berichtet wird, scheint darauf hinzuweisen, dass dieses Dekret gegen Ende des Jahres 1608 oder im Jahr 1609 erlassen wurde; in diesem Jahr war Erzherzog Matthias von Österreich König von Ungarn, aber noch nicht Kaiser.\n\nv) Warumb die Bibel Inn glaubens sachen nit khann Richter seinn: S. 257–279. (Verfasser unbekannt.)\n\nw) Hierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro (= Sultan von Kairo) unnd dem Sofft (?) begeben hat, unnd Verlauffenn Ist, wie sich hienach geschrieben findt, Erstlichen wie der Türckh hat mit Hörs Khrafft (= Heereskraft) eingenumben ain Statt genant Allepo, unnd ain Statt Damasco genant, unnd darnach die heillige Statt Jerusalem mit sambt der aller Vorgeschribnen Stett Lanndtschafft unnd Zuegehörung, unnd wie der groß Türckh hat Wollen Möß hören, Inn dem heilligen Grab Zue Jerusalem, unnsers Herrn Jesu Christy: S. 281–293. (Berichtet werden die Unternehmungen Sultan Selims I. in den Jahren 1516/17.)\n\nx) Vernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach (= Aachen), In October Im M.D.XX. Jahr. (Es wird dargestellt, wie Karl V. im Jahr 1520 die Krone des Römischen Reiches empfing.) S. 294–307.\n\ny) Khün(iglicher) May(estät) Zue Behaimb unnd Hungern, Infant In Hispanien, Ertzherzog Zue Österreich, Marggraff Zue Mähren, etc: Unsers gnedigisten Herrn, auff die Crönnung gehn Prag außzug vonn Wien, Empfung der Lanndtschafft, Herrn Ritterschafft unnd Stetten, auch andern diessein (= die seine) Mayestätt unnttergeben, Erlich Exceptiert unnd Empfangen haben, mitsampt seiner Khün(iglichen) May(estät) einzug Inn die Statt Praag, der am fünfften tag Febr(uarii) Im 1527 Jahr beschehen Ist, Sein hierinn In Wahrem Itinerarj unnd Wegbüechell, kürzlich beschrieben unnd Begrifffen: S. 308–323.\n\nz) Des Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben: S. 323–327. Schlussformel S. 327: Beschehen Zue Raab den 27. Septembris Anno (15)94.\n\nA) Der Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr (1527): S. 329–338.\n\nB) Ein Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag, Unnd was sich mittler Zeit daselbst täglich verlauffen, unnd Zuegetragen hat, Anno 1530: S. 338–371.\n\nC) Khönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt: S. 372–376. Schlussformel: Geben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten Unnserer Reiche im Dritten, Ferdinandus..... (1528)\n\n[Leerseite mit handschriftlichem Nachtrag.]\n\n> **Handschriftlicher Nachtrag:** teilweise lesbar. Sicher erkennbar sind u. a. „MN I 7 B“, „56 b? + 2“, „dato 21. Octobris 1578“, „Hanns ...“, „Generalmandat“. Die übrige Notiz ist aufgrund der Handschrift nicht sicher genug zu transkribieren.\n\nD) Infection ordnung der Statt Wienn: S. 377–389. Schlussformel: Actum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten. Es stellt sich daher die Frage, ob dieses Dekret im Jahr 1558 oder 1658 erlassen wurde. Da jedoch der in unserem Edikt erwähnte Gesundheitsmeister von Maximilian II., also nach dem Jahr 1558, eingesetzt wurde, ist unsere Ordnung zur Bekämpfung ansteckender Krankheiten wahrscheinlich im Jahr 1658 erlassen worden.\n\nE) Friedensbedingungen zwischen dem römischen und dem türkischen Kaiser, Rudolf II. und Sultan Mehmed I. (= Ahmed I. ?), wie sie im vorausgehenden Jahr 1606 zwischen beiden verhandelt und abgeschlossen wurden: S. 393–398. (Die Geschichtsschreiber stimmen darin überein, dass diese Vereinbarungen bei Zsitva-Török geschlossen wurden.)\n\nF) Aussöhnung mit den Ungarn, vollzogen am 23. Juni 1608, sowie die Bedingungen des Friedens mit den Türken: S. 399–419.\n\nG) Copy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung der Röm(isch) Keiß(erlichen) M(aies)t(ä)t auff dero Kay(serliches) schreiben geben Unndt über sendet haben: S. 421–432. (im Jahr 1608)\n\nH) Dem durchlauchtigsten und mächtigsten Fürsten, Herrn Herrn Matthias II., von Gottes Gnaden König der Ungarn, Erzherzog von Österreich, Markgraf von Mähren, Herzog von Burgund, Graf von Tirol usw., seinem allergnädigsten Herrn, wünscht [der Verfasser] im Namen des gesamten Kollegiums der Rechtsgelehrten der Wiener Hohen Schule demütigst Heil und Glück: S. 434–460.\n\nSchlussformel (der Vorrede) S. 434: Gegeben zu Wien in Österreich am dem Herrn Matthias geweihten Tag im Jahr 1609. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) hochgelehrter Rechtskundiger S. B. P. I. V. D. (= Doktor beider Rechte) P. P. (Diese Initialen sind noch nicht aufgelöst; daher haben wir den Verfasser dieser Rechtsgutachten noch nicht ermittelt.)\n\nAnfang (der Vorrede?) S. 434: „Dieser feierliche und überaus glänzende Tag ...“ (= 24. Februar).\n\nAnfang des ersten Rechtsgutachtens S. 435: „Da viele aus den Ständen der Barone und des Ritterstandes ...“\n\nÜberschrift (des anderen Rechtsgutachtens) S. 448: Ob aufgrund eines durch militärische Gewalt erworbenen [Rechts] die Landeseinwohner, die sich weigern, dem durchlauchtigsten Herrn Herrn Matthias, König von Ungarn, Erzherzog von Österreich, Markgraf von Mähren usw., die Huldigung zu leisten, ohne ein weiteres gerichtliches Verfahren rechtmäßig als Rebellen oder Majestätsverbrecher erklärt werden können. Anfang: „Nachdem über das Verbrechen der Protestierenden ...“\n\nIn unserem Codex scheinen mehrere Schreiber unterschieden werden zu müssen. Von ihnen schrieb der erste S. 3–26, 31–64 und 71–323, der zweite S. 27–29, der dritte S. 66–69 und 323–327, vielleicht auch S. 329–389, der vierte (oder fünfte) S. 393–419 und 434–460, der letzte S. 421–432.\n\nAuf der Innenseite des Vorderdeckels ist ein sehr kleiner Zettel aufgeklebt, der die Signatur **M III 5** trägt. Da derartige Signaturen weder in der Seitenstettner Bibliothek noch im Seitenstettner Archiv jemals verwendet wurden, steht fest, dass der Codex MN I 7 aus einer anderen Bibliothek in die Seitenstettner Bibliothek gelangt ist. Außerdem ist es wahrscheinlich, dass unser Codex um das Jahr 1700 mit seinem Einband versehen wurde. Ob er allerdings ebenfalls um das Jahr 1700 geschrieben wurde, ist ungewiss; diese Frage wird sich nicht entscheiden lassen, bevor die Fragen geklärt sind, die oben auf S. 162 bei Teil p und auf S. 164 bei Teil D erwähnt wurden.",
+    "latin": "fol. min.; **466** pagg.; teg. c2 cum dorso albo scorto; scriptus variis temporibus, sed ultima pars non ante annum 1698.\n\nVariae Relationes (Ita inscriptio dorsi!)\n\na) Ratschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß: p. 3–13. Datum p. 13: Geben Inn Regenßpurg Freytags nach Cantate Anno XXXII. (1532).\n\nb) Waß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben (1576): p. 15–26.\n\nc) Eines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung: p. 27–29 (saeculo XVI. ?)\n\nd) Proposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten (1582): p. 31–37.\n\ne) (Inscriptio deest; loco huius tituli proloquium huius relationis exscribimus:) Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen, daß Vonn der Im **verwichnen** 96 Jahr, wider denn Erbfeindt. Christlichen Nambenss Unnd glaubens, denn Türgkhen Inn Hungern gefürten Kriegs Expedition, sonderlich aber Vor dem denn 26. Octobris Neuen Callenders, bey Kerertes (?) fürgegangen Treffen widerwertige unnd unergründte discurs Unnd Reden, spargiert unnd ausgesprengt werden. Also haben wir umb mehrerlay Ursachenn willen, für ain sunder Hoche Unnd unverweydenliche Notturfft geachtet, waß sich Vom Anfang, solches KriegsWesens, biß zu dem Enndt Unnd Abzug zuegetragen hat, Summariè verfaßen zu laßen: p. 39–64. (Relatio de praelio prope Keresztes commisso die 26. Octobris 1596 quam Maximilianus Archidux Austriae componendam curavit.)\n\nf) Die schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten, : p. 66–69. (Refertur de quadam insula – uti videtur Americana – primo reperta die 23 Aprilis 1519.) Auctor: ipse Joannes de Angliara, natione Italianus. Cuius tamen relatio fortasse non lingua Germanica exarata, sed a nescio quo in linguam nostram versa est.\n\ng) Relation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet: p. 71–80. (Relatio de pugna prope Szikszö die 8. Octobris 1588 commissa.)\n\nh) Warhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten: p. 83–102. (Relatio, quomodo Henricus IV rex Francogalliae prope Ivry superaverit adversarios suos. Terminus, ante quem orta est origo huius relationis, trucidatio Henrici IV anno 1610 facta per ipsam inscriptionem ponitur.)\n\ni) Khayserliche Citation So an herrn Georgen Poppel außgangen: p. 103–109. (P. 105, linea 3: negsthin dieses 94 Jahres, auß Prager Schloß Vor Unnser Persohn monstrat hoc mandatum anno 1594 editum esse.)\n\nj) Beschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden: p. 111–112. Datum: Zue Prag den 10 Julii Anno Neun und Neunzigisten. (1599)\n\nk) Der Fürl. (= Fürstlichen) Durchl(aucht) Inn Grätz Decret ann die Landtstendt In Steyer vom 5 Martii Anno 99 (= 1599, nam decretum a Ferdinando Archiduce Austriae editum est.) p. 113–116, ubi invenitur clausula: Decretum per serenissimum Archiducem 5 Martii 1599. P. Casal.\n\nl) Relation Waß sich bey belegerung der Vestung Canischa (= Kanizsa), welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen: p. 121–151. Initium: Durchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten Jahrs,..... (1600) (Generalissimus Georgius Paradeiser anno 1600 arcem Kanischa, qui praefuit, diu obsessam hostibus tradidit.)\n\nm) Vergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg: p. 153–159. Clausula: Actum & Signatum, Inn der Statt ober Ehenhaimb (= Oberehnheim = Obernai) denn 12 Octobris Anno (1)600.\n\nn) Sibenbürgerische Relation: p. 163–183. (Quae relatio die 11 Februarii 1601 data est.)\n\no) Capitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta: p. 184–188. (Refertur, quomodo bellum contra Joannem Fridericum II. ducem Saxoniae eiusque consiliarium Guilielmum de Grumbach feliciter gestum sit. Quam relationem ipse victor Augustus elector Saxoniae signavit die 13. Aprilis Anno 1567.)\n\np) Extract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr: p. 189–191.\n\nDubito, num numerus annalis 1698 verus sit; plurimae enim partes codicis nostri diplomata et acta exhibent, quae aut saeculo XVI. aut ineunte saeculo XVII. orta sunt. Insuper quae in hoc extracto proponuntur consilia, rebus politicis et religiosis circa annum 1700 minus conveniunt quam circa annum 1600. Quae de causa suspicor hanc partem qui saeculo XVII. descripsit, mendose numerum 1698 pro 1598 ascripsisse.\n\n*(Randnotiz manu scripta: „nach dem Ausschnitt zu generalmandat“ — lectio incerta.)*\n\nq) Extract Auß Ertzherzogen Ferdinanden Zue Österreich & General [signum manu additum], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften, allß Elsaß, Senitgen (= Sundgau?), Preißgen (= Breisgau?), Unnd Schwartzwall (= Schwarzwald), Unnd ann die Vier Waltstett (Waldstädte), Waltshuet (= Waldshut), Rainfelten (= Rheinfelden), Lauffenberg (= Lauffenburg), Unnd Söckchen (= Säckingen), Item die von Villingen und Brainlingern (= Bräunlingen) Außgangen: p. 191–192. (Numerus anni non est appositus; videtur autem hoc decretum contra haereticos circa annum 1600 editum esse.)\n\nr) Veldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa (= Kanizsa): p. 193–199. Clausula: Datum Denn 21. Novembris Anno 1601. (Roßwuerm ab elite Rußwurm aut Rußwurm vocetur.) Auctor huius partis est Hermannus Christophorus Comes de Roßwurm (Rußwurm).\n\ns) Relation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen: p. 201–230. (Agitur de rebus militaribus anno 1602 in Hungaria gestis.)\n\nt) Kurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn (= Gran) In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat: p. 233–247.\n\nu) Khunl. (Khuniglicher) May(estät) Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen: p. 249–254. Quae p. 253 referuntur, videntur indicare hoc decretum exeunte anno 1608 aut anno 1609 editum esse, quo anno Matthias archidux Austriae rex Hungariae, sed nondum imperator fuit.\n\nv) Warumb die Bibel Inn glaubens sachen nit khann Richter seinn: p. 257–279. (Auctor ignotus.)\n\nw) Hierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro (= Sultan von Kairo) unnd dem Sofft (?) begeben hat, unnd Verlauffenn Ist, wie sich hienach geschrieben findt, Erstlichen wie der Türckh hat mit Hörs Khrafft (= Heereskraft) eingenumben ain Statt genant Allepo, unnd ain Statt Damasco genant, unnd darnach die heillige Statt Jerusalem mit sambt der aller Vorgeschribnen Stett Lanndtschafft unnd Zuegehörung, unnd wie der groß Türckh hat Wollen Möß hören, Inn dem heilligen Grab Zue Jerusalem, unnsers Herrn Jesu Christy: p. 281–293. (Referuntur acta Sultani Selim I anno 1516/17.)\n\nx) Vernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach (= Aachen), In October Im M.D.XX. Jahr. (Depingitur, quomodo Carolus V anno 1520 coronam imperii Romani acceperit.) p. 294–307.\n\ny) Khün(iglicher) May(estät) Zue Behaimb unnd Hungern, Infant In Hispanien, Ertzherzog Zue Österreich, Marggraff Zue Mähren, etc: Unsers gnedigisten Herrn, auff die Crönnung gehn Prag außzug vonn Wien, Empfung der Lanndtschafft, Herrn Ritterschafft unnd Stetten, auch andern diessein (= die seine) Mayestätt unnttergeben, Erlich Exceptiert unnd Empfangen haben, mitsampt seiner Khün(iglichen) May(estät) einzug Inn die Statt Praag, der am fünfften tag Febr(uarii) Im 1527 Jahr beschehen Ist, Sein hierinn In Wahrem Itinerarj unnd Wegbüechell, kürzlich beschrieben unnd Begrifffen: p. 308–323.\n\nz) Des Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben: p. 323–327. Clausula p. 327: Beschehen Zue Raab den 27. Septembris Anno (15)94.\n\nA) Der Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr (1527): p. 329–338.\n\nB) Ein Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag, Unnd was sich mittler Zeit daselbst täglich verlauffen, unnd Zuegetragen hat, Anno 1530: p. 338–371.\n\nC) Khönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt: p. 372–376. Clausula: Geben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten Unnserer Reiche im Dritten, Ferdinandus..... (1528)\n\n[Leerseite mit handschriftlichem Nachtrag.]\n\n> **Handschriftlicher Nachtrag:** teilweise lesbar. Sicher erkennbar sind u. a. „MN I 7 B“, „56 b? + 2“, „dato 21. Octobris 1578“, „Hanns ...“, „Generalmandat“. Die übrige Notiz ist aufgrund der Handschrift nicht sicher genug zu transkribieren.\n\nD) Infection ordnung der Statt Wienn: p. 377–389. Clausula: Actum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten. Quaeritur igitur, utrum hoc decretum anno 1558 an 1658 editum sit. Sed cum magister sanitatis, quem edictum nostrum memorat, a Maximiliano II. ideoque post annum 1558 institutus sit, probabiliter ordo noster ad morbos contagiosos coercendos anno 1658 in lucem evenit.\n\nE) Conditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori 1606 inter utrosque tractatae et conclusae sunt: p. 393–398. (Rerum scriptores haec in loco Zsitva-Török pacta esse consentiunt.)\n\nF) Reconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae: p. 399–419.\n\nG) Copy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung der Röm(isch) Keiß(erlichen) M(aies)t(ä)t auff dero Kay(serliches) schreiben geben Unndt über sendet haben: p. 421–432. (anno 1608)\n\nH) Serenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem et felicitatem Humillime precatur: p. 434–460. Clausula (Praefationis) p. 434: Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) Iurisconsultissimus S. B. P. I. V. D. (= Juris Utriusque Doctor) P. P. (Quae litterae initiales nondum explanatae sunt; qua de re auctorem huius iuris consultorum nondum investigavimus.)\n\nInitium (Praefationis?) p. 434: Dies hic solennis et praeclarissima saec(er = 24. Februarii)......\n\nInitium prioris juris consultationis p. 435: Cum multi ex Baronum, et equestris ordinis statibus,.....\n\nInscriptio (alterius juris consulti) p. 448: An virtute Militi optima quaesiti contra provinciales detrectantes praestare homagium Serenissimo Domino Domino Matthiae Hungariae Regi, Archiduci Austriae, Marchioni Moraviae etc. pro perduellibus, seu Majestatis reis, absque alio Judiciario processu legitimè declarari possint. Initium: Postquam de crimine protestantium......\n\nPlures videntur in codice nostro distinguendi esse scriptores, e quibus primus p. 3–26, 31–64, 71–323, secundus p. 27–29, tertius p. 66–69 et 323–327, fortasse etiam p. 329–389, quartus (aut quintus) p. 393–419 et 434–460, ultimus p. 421–432 scripsit.\n\nIn parte adversa tegumenti ab intrinsecus affixa est minima schedula, quae hoc signum **M III 5** exhibet. Cum talia signa neque in bibliotheca neque in tabulario Seitenstettensi unquam adhiberentur, certum est codicem MN I 7 ab alia bibliotheca in Seitenstettensem translatum esse. Insuper veri simile est codicem nostrum circa annum 1700 tegumento munitum esse. Num vero etiam circa annum 1700 scriptus sit, incertum est, neque dirimere poteris quaestionem hanc, antequam solveris quaestiones, quarum supra p. 162 ad partem p et p. 164 ad partem D mentionem fecimus."
   }
 }

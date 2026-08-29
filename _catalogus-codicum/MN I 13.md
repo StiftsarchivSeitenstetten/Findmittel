@@ -19,34 +19,29 @@ ms_identifier:
   idno: "MN I 13"
 
 ms_contents:
-  overall_title:
-    title: "Acta Pacis Passarovicensis collecta et compaginata 1765"
-    title_type: "original"
-    language: "la"
-    locus: "S. 1"
-    translation: "Akten des Friedens von Passarowitz, gesammelt und zusammengebunden 1765"
-
-  summary: "Sammlung von Akten und Berichten zu den im Jahr 1718 in Passarowitz geführten Friedensverhandlungen mit dem Osmanischen Reich."
-
+  summary: Sammlung von Akten und Berichten zu den im Jahr 1718 in Passarowitz geführten Friedensverhandlungen mit dem Osmanischen Reich.
   items:
-    - item: 1
-      title: "Beschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen"
-      title_type: "original"
-      locus: "S. 3–800"
-      language:
-        main: "de"
-        embedded:
-          - "la"
-          - "it"
-      contents_note: "Die eigentliche Beschreibung ist deutschsprachig und enthält eingestreute Dokumente in lateinischer und italienischer Sprache."
-      event:
-        type: "peace_negotiations"
-        date:
-          display: "1718"
-          when: 1718
-        place:
-          display: "Passarowitz"
-
+  - item: 1
+    title: Beschreibung Deren Anno 1718 zu Passarowitz mit denen Türcken fürgegangenen Fridens=Handlungen
+    locus: p. 3–800
+    contents_note: Die eigentliche Beschreibung ist deutschsprachig und enthält eingestreute Dokumente in lateinischer und italienischer Sprache.
+    event:
+      type: peace_negotiations
+      date:
+        display: '1718'
+        when: 1718
+      place:
+        display: Passarowitz
+    title_status: unspecified
+    language:
+      main: de
+      embedded:
+      - la
+      - it
+  title: Acta Pacis Passarovicensis collecta et compaginata 1765
+  languages:
+  - la
+  title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

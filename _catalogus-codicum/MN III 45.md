@@ -10,12 +10,14 @@ ms_identifier:
   idno: MN III 45
 ms_contents:
   items:
-  - label: "a"
-    title: "Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne"
-    locus: "S. 1–350"
-  - label: "b"
-    title: "Kupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen"
-    locus: "S. 351–354"
+  - label: a
+    title: Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne
+    locus: p. 1–350
+    title_status: unspecified
+  - label: b
+    title: Kupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen
+    locus: p. 351–354
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

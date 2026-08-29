@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-202",
   "signature": "MN II 202",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "151–152",
   "heading": {
     "title": "Tractatus Scholasticus De Angelis et Actibus Humanis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1699/1700"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,48 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholasticus De Angelis et Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–409",
+      "locus": "p. 5–409",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Consideravimus anno praecedenti Deum in seipso.......",
+          "id": "incipit-1"
+        },
+        {
+          "text": "Angelorum nomen ex privata sui institutione esse nomen officii......",
+          "id": "incipit-2"
+        },
+        {
+          "locus": "p. 297",
+          "text": "Actus humanus dicitur actus ex deliberatione factus....",
+          "id": "incipit-3"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+          "id": "colophon-1"
+        },
+        {
+          "text": "Die 28 Augusti. Anno 1700.",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "text": "Consideravimus anno praecedenti Deum in seipso.......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -67,15 +103,48 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Prooemium",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
-          "locus": "S. 7–8",
+          "locus": "p. 7–8",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "text": "Consideravimus anno praecedenti Deum in seipso.......",
+              "id": "incipit-1"
+            },
+            {
+              "text": "Angelorum nomen ex privata sui institutione esse nomen officii......",
+              "id": "incipit-2"
+            },
+            {
+              "locus": "p. 297",
+              "text": "Actus humanus dicitur actus ex deliberatione factus....",
+              "id": "incipit-3"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+              "id": "colophon-1"
+            },
+            {
+              "text": "Die 28 Augusti. Anno 1700.",
+              "id": "colophon-2"
+            }
+          ],
+          "incipit": {
+            "text": "Consideravimus anno praecedenti Deum in seipso.......",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -85,15 +154,44 @@
           "id": "item-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio Prima De Creatura Angelica",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 9–291",
+          "locus": "p. 9–291",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "text": "Angelorum nomen ex privata sui institutione esse nomen officii......",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "p. 297",
+              "text": "Actus humanus dicitur actus ex deliberatione factus....",
+              "id": "incipit-2"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+              "id": "colophon-1"
+            },
+            {
+              "text": "Die 28 Augusti. Anno 1700.",
+              "id": "colophon-2"
+            }
+          ],
+          "incipit": {
+            "text": "Angelorum nomen ex privata sui institutione esse nomen officii......",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Finis huius Tractatus de Angelis. 26. Maii. 1700.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [
             {
@@ -108,13 +206,17 @@
           "id": "item-3",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio Secunda In secundam Partem Divi Thomae de Actibus Humanis",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 295–409",
+          "locus": "p. 295–409",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -137,15 +239,59 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ethica Supernaturalis sive Theologia Practica De Bono et Malo Morali",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 413–600",
+      "locus": "p. 413–600",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+          "id": "incipit-1"
+        },
+        {
+          "text": "Praesens tractatus totius Theologiae moralis est basis....",
+          "id": "incipit-2"
+        },
+        {
+          "text": "Tametsi homo ad aeternam beatitudinem sit conditus..",
+          "id": "incipit-3"
+        },
+        {
+          "locus": "p. 1",
+          "label": "Proloquii",
+          "text": "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+          "id": "incipit-4"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 491",
+          "text": "Die 31 Augusti 1701.",
+          "id": "colophon-2"
+        },
+        {
+          "locus": "p. 582",
+          "text": "1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
+          "id": "colophon-3"
+        }
+      ],
+      "incipit": {
+        "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -159,15 +305,59 @@
           "id": "item-1-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Praefatio",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 415–416",
+          "locus": "p. 415–416",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+              "id": "incipit-1"
+            },
+            {
+              "text": "Praesens tractatus totius Theologiae moralis est basis....",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Tametsi homo ad aeternam beatitudinem sit conditus..",
+              "id": "incipit-3"
+            },
+            {
+              "locus": "p. 1",
+              "label": "Proloquii",
+              "text": "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+              "id": "incipit-4"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+              "id": "colophon-1"
+            },
+            {
+              "locus": "p. 491",
+              "text": "Die 31 Augusti 1701.",
+              "id": "colophon-2"
+            },
+            {
+              "locus": "p. 582",
+              "text": "1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
+              "id": "colophon-3"
+            }
+          ],
+          "incipit": {
+            "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -177,15 +367,59 @@
           "id": "item-2-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Tractatus Primus De Conscientia",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 416–536",
+          "locus": "p. 416–536",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+              "id": "incipit-1"
+            },
+            {
+              "text": "Praesens tractatus totius Theologiae moralis est basis....",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Tametsi homo ad aeternam beatitudinem sit conditus..",
+              "id": "incipit-3"
+            },
+            {
+              "locus": "p. 1",
+              "label": "Proloquii",
+              "text": "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+              "id": "incipit-4"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+              "id": "colophon-1"
+            },
+            {
+              "locus": "p. 491",
+              "text": "Die 31 Augusti 1701.",
+              "id": "colophon-2"
+            },
+            {
+              "locus": "p. 582",
+              "text": "1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
+              "id": "colophon-3"
+            }
+          ],
+          "incipit": {
+            "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [
             {
@@ -200,22 +434,61 @@
           "id": "item-3-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Tractatus Secundus De Actibus Humanis",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 537–600",
+          "locus": "p. 537–600",
           "language": "",
-          "incipit": null,
-          "explicit": null,
-          "notes": [],
-          "dates": [
+          "incipits": [
             {
-              "type": "dated_clausula",
-              "display": "locus: S. 582; date: 1700-07-10"
+              "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+              "id": "incipit-1"
+            },
+            {
+              "text": "Praesens tractatus totius Theologiae moralis est basis....",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Tametsi homo ad aeternam beatitudinem sit conditus..",
+              "id": "incipit-3"
+            },
+            {
+              "locus": "p. 1",
+              "label": "Proloquii",
+              "text": "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+              "id": "incipit-4"
             }
           ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+              "id": "colophon-1"
+            },
+            {
+              "locus": "p. 491",
+              "text": "Die 31 Augusti 1701.",
+              "id": "colophon-2"
+            },
+            {
+              "locus": "p. 582",
+              "text": "1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
+              "id": "colophon-3"
+            }
+          ],
+          "incipit": {
+            "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+            "id": "colophon-1"
+          },
+          "notes": [],
+          "dates": [],
           "persons": [],
           "subitems": []
         },
@@ -223,15 +496,59 @@
           "id": "item-4",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Fragmenta de legibus",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "nach S. 582",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+              "id": "incipit-1"
+            },
+            {
+              "text": "Praesens tractatus totius Theologiae moralis est basis....",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Tametsi homo ad aeternam beatitudinem sit conditus..",
+              "id": "incipit-3"
+            },
+            {
+              "locus": "p. 1",
+              "label": "Proloquii",
+              "text": "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+              "id": "incipit-4"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+              "id": "colophon-1"
+            },
+            {
+              "locus": "p. 491",
+              "text": "Die 31 Augusti 1701.",
+              "id": "colophon-2"
+            },
+            {
+              "locus": "p. 582",
+              "text": "1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
+              "id": "colophon-3"
+            }
+          ],
+          "incipit": {
+            "text": "quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -321,13 +638,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-202/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 202",
     "titles": "Tractatus Scholasticus De Angelis et Actibus Humanis \nTractatus Scholasticus De Angelis et Actibus Humanis \nProoemium \nDisputatio Prima De Creatura Angelica \nDisputatio Secunda In secundam Partem Divi Thomae de Actibus Humanis \nEthica Supernaturalis sive Theologia Practica De Bono et Malo Morali \nPraefatio \nTractatus Primus De Conscientia \nTractatus Secundus De Actibus Humanis \nFragmenta de legibus",
-    "persons": "P. Marianus Landmayr Dozent lecturer \nP. Ludovicus Patenstuber Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Marianus Landmayr Dozent lecturer Kloster Admont / Universität Salzburg \nP. Ludovicus Patenstuber Dozent lecturer Kloster Ettal / Universität Salzburg \nFr. Engelbertus Veser Schreiber scribe Seitenstetten",
+    "incipits": "Consideravimus anno praecedenti Deum in seipso....... \nAngelorum nomen ex privata sui institutione esse nomen officii...... \nActus humanus dicitur actus ex deliberatione factus.... \nConsideravimus anno praecedenti Deum in seipso....... \nAngelorum nomen ex privata sui institutione esse nomen officii...... \nActus humanus dicitur actus ex deliberatione factus.... \nAngelorum nomen ex privata sui institutione esse nomen officii...... \nActus humanus dicitur actus ex deliberatione factus.... \nquidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. \nPraesens tractatus totius Theologiae moralis est basis.... \nTametsi homo ad aeternam beatitudinem sit conditus.. \nPostquam Sanctus Doctor altissimum Incarnationis Mysterium...... \nquidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. \nPraesens tractatus totius Theologiae moralis est basis.... \nTametsi homo ad aeternam beatitudinem sit conditus.. \nPostquam Sanctus Doctor altissimum Incarnationis Mysterium...... \nquidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. \nPraesens tractatus totius Theologiae moralis est basis.... \nTametsi homo ad aeternam beatitudinem sit conditus.. \nPostquam Sanctus Doctor altissimum Incarnationis Mysterium...... \nquidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. \nPraesens tractatus totius Theologiae moralis est basis.... \nTametsi homo ad aeternam beatitudinem sit conditus.. \nPostquam Sanctus Doctor altissimum Incarnationis Mysterium...... \nquidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. \nPraesens tractatus totius Theologiae moralis est basis.... \nTametsi homo ad aeternam beatitudinem sit conditus.. \nPostquam Sanctus Doctor altissimum Incarnationis Mysterium......",
+    "explicits": "Finis huius Tractatus de Angelis. 26. Maii. 1700. \nDie 28 Augusti. Anno 1700. \nFinis huius Tractatus de Angelis. 26. Maii. 1700. \nDie 28 Augusti. Anno 1700. \nFinis huius Tractatus de Angelis. 26. Maii. 1700. \nDie 28 Augusti. Anno 1700. \nfinivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. \nDie 31 Augusti 1701. \n1700. 10 Julii. (Sequuntur fragmenta de legibus!) \nfinivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. \nDie 31 Augusti 1701. \n1700. 10 Julii. (Sequuntur fragmenta de legibus!) \nfinivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. \nDie 31 Augusti 1701. \n1700. 10 Julii. (Sequuntur fragmenta de legibus!) \nfinivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. \nDie 31 Augusti 1701. \n1700. 10 Julii. (Sequuntur fragmenta de legibus!) \nfinivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. \nDie 31 Augusti 1701. \n1700. 10 Julii. (Sequuntur fragmenta de legibus!)",
     "notes": "",
-    "physical": "Papier \n602 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Farbangaben siehe Katalogtext."
+    "physical": "Papier \n602 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Farbangaben siehe Katalogtext.",
+    "german": "602 Seiten; Halblederband wie bei MN II 201; geschrieben 1699/1700.\n\na) **Scholastische Abhandlung über die Engel und die menschlichen Handlungen**, vorgetragen von P. Marianus Landmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor, 1699: S. 5–409.\n\nVorrede S. 7–8. Anfang: Im vergangenen Jahr betrachteten wir Gott an sich.....\n\n**Erste Disputation über die Engel:** S. 9–291. Anfang: Der Name der Engel ist seiner eigentlichen Bedeutung nach ein Amtsname..... Schluss: **Ende dieser Abhandlung über die Engel, 26. Mai 1700.**\n\n**Zweite Disputation zur Prima Secundae des hl. Thomas über die menschlichen Handlungen:** S. 295–409. Datum: **26. Mai 1700.** Anfang S. 297: Ein menschlicher Akt heißt eine Handlung, die aus Überlegung erfolgt..... Schluss: **28. August 1700.**\n\nb) **Übernatürliche Ethik oder praktische Theologie über sittlich Gutes und Böses**, vorgetragen von P. Ludovicus Patenstuber, Benediktiner und Profess von Ettal, Doktor der heiligen Theologie und damaliger ordentlicher Professor der Moraltheologie; aufgezeichnet von Fr. Engelbertus Veser, Seitenstettner Benediktiner, 1699: S. 413–600.\n\nVorrede S. 415–416. Anfang: Was immer in diesem Leben Lob verdient.....\n\n**Erste Abhandlung über das Gewissen:** S. 416–536. Anfang: Diese Abhandlung ist die Grundlage der gesamten Moraltheologie..... Schluss: **Wir beendeten [sie] am 17. März 1700.**\n\n**Zweite Abhandlung über die menschlichen Handlungen:** S. 537–600. Anfang: Obwohl der Mensch zur ewigen Glückseligkeit geschaffen ist..... Schluss S. 582: **10. Juli 1700.** Danach folgen Fragmente über die Gesetze.\n\nDie Schrift zeigt, dass auch Teil a von Fr. Engelbertus Veser geschrieben wurde.",
+    "latin": "602 pagg.; teg. d (ut supra in codice MN II 201); scr. 1699/1700\n\na) Tractatus Scholasticus. De Angelis et Actibus Humanis. Traditus â .....P. Mariano Landmayr, Ordinis S. P. Benedicti, Celeberrimi Monasterii Admontensis Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. 1699: p. 5–409\n\n(Prooemium): p. 7–8. Initium: Consideravimus anno praecedenti Deum in seipso.......\n\nDisputatio Prima. de Creatura Angelica: p. 9–291. Initium: Angelorum nomen ex privata sui institutione esse nomen officii......  \nClausula: Finis huius Tractatus de Angelis. 26. Maii. 1700.\n\nDisputatio II. In secundam Partem Divi Thomae de Actibus Humanis. MDCCC (1700) 26 Maii: p. 295–409. Initium p. 297: Actus humanus dicitur actus ex deliberatione factus.... Clausula: Die 28 Augusti. Anno 1700.\n\nb) Ethica Supernaturalis, sive Theologia Practica. De Bono et Malo Morali. Tradita â .....P. Ludovico Patenstuber, Ordinis S. P. Benedicti Ad Divam Virginem Ettalensem Professo, Sacrosanctae Theologiae Doctore, et pro tempore Moralis Theologiae Professore ordinario. Calamô Excepta â F. Engelberto Veser Benedictino ac Professo Seittenstettensi. Anno Salutis 1699: p. 413–600.\n\nPraefatio p. 415–416. Initium: quidquid in hac luce laudem meretur..  \nTractatus Primus de Conscientia: p. 416–536. Initium: Praesens tractatus totius Theologiae moralis est basis.... Clausula: finivimus die 17 Martii 1700.  \nTractatus Secundus de Actibus Humanis: p. 537–600. Initium: Tametsi homo ad aeternam beatitudinem sit conditus..  \nClausula p. 582: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)\n\nScriptura docet etiam partem a a F. Engelberto Veser scriptam esse.\n\n\n\n\n### Arch. Cod. 34–7 (XVIII 3 h)\n\n4°; VI + 494 pagg.; teg. c2d; scriptus anno scholari 1700/1701\n\nTractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione, et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti in Beatae Virginis Monasterio Seittenstettensi Professo. 1700.\n\nInitium Proloquii p. 1: Postquam Sanctus Doctor altissimum Incarnationis Mysterium...... Nota p. 2: Novembre 1700.  \nClausula p. 491: Die 31 Augusti 1701.\n\nEasdem lectiones invenies etiam in codice MN II 213 (vide inferius!)"
   }
 }

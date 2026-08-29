@@ -9,16 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 198
 ms_contents:
-  language: Deutsch
   items:
   - label: a
     title: Conciones quadragesimales
-    locus: S. 1–277
+    locus: p. 1–277
     date: '1697'
     context: Öffentlich im Salzburger Dom gehalten.
+    title_status: unspecified
   - label: b
     title: Concio coram Venerabili
-    locus: S. 278–300
+    locus: p. 278–300
+    title_status: unspecified
+  languages:
+  - Deutsch
 phys_desc:
   object_form: codex
   support: Papier

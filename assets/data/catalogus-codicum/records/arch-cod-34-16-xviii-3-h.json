@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-16-xviii-3-h",
   "signature": "Arch. Cod. 34–16 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "54",
   "heading": {
-    "title": "Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus De Angelis",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1664"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–16 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Angelis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–332",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 6",
+          "label": "Praefationis",
+          "text": "Facile mortalis facundia excurrit in laudem Angelorum.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 312",
+          "text": "Absolvimus 15. Martii 1664.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 6",
+        "label": "Praefationis",
+        "text": "Facile mortalis facundia excurrit in laudem Angelorum.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 312",
+        "text": "Absolvimus 15. Martii 1664.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -68,14 +97,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur primo: Vocabulum finis hic sumi....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Actibus humanis in Primam Secundae S. Thomae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 341–644",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 343",
+          "text": "Supponitur primo: Vocabulum finis hic sumi....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 343",
+        "text": "Supponitur primo: Vocabulum finis hic sumi....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -91,15 +134,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia..... Clausula p. 794: Undecimo ....(?)..1664 desivimus.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus ultimus De Conscientia",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 645–794",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 645",
+          "text": "Quam utilis et necessaria sit theologia.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 794",
+          "text": "Undecimo ....(?)..1664 desivimus.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 645",
+        "text": "Quam utilis et necessaria sit theologia.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 794",
+        "text": "Undecimo ....(?)..1664 desivimus.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -170,13 +237,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-16-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–16 (XVIII 3 h)",
-    "titles": "Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664. \nTractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664. \nTractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur primo: Vocabulum finis hic sumi.... \nTractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia..... Clausula p. 794: Undecimo ....(?)..1664 desivimus.",
+    "titles": "Tractatus De Angelis \nTractatus De Angelis \nTractatus De Actibus humanis in Primam Secundae S. Thomae \nTractatus ultimus De Conscientia",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
+    "incipits": "Facile mortalis facundia excurrit in laudem Angelorum..... \nSupponitur primo: Vocabulum finis hic sumi.... \nQuam utilis et necessaria sit theologia.....",
+    "explicits": "Absolvimus 15. Martii 1664. \nUndecimo ....(?)..1664 desivimus.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–16 (XVIII 3 h). \nTractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664. \nTractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur primo: Vocabulum finis hic sumi.... \nTractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia..... Clausula p. 794: Undecimo ....(?)..1664 desivimus.",
-    "physical": "Papier \n4°, 794 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n4°, 794 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 794 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei MN II 80; geschrieben 1664.\n\na) **Abhandlung über die Engel:** S. 1–332. Anfang der Vorrede S. 6: „Leicht schweift menschliche Beredsamkeit zum Lob der Engel aus....“ Schluss S. 312: **Wir beendeten [dies] am 15. März 1664.**\n\nb) **Abhandlung über die menschlichen Handlungen zur Prima Secundae des hl. Thomas:** S. 341–644. Anfang S. 343: „Erstens wird vorausgesetzt: Das Wort Ziel wird hier genommen....“\n\nc) **Letzte Abhandlung über das Gewissen:** S. 645–794. Anfang S. 645: „Wie nützlich und notwendig die Theologie ist....“ Schluss S. 794: **Am elften .... 1664 beendeten wir [dies].**\n\nRückenaufschrift: **MS. Reverendissimi Abelzhauser Seittenstettensis de Angelis, actibus humanis, conscientia 1664.** Der Verfasser ist unbekannt.",
+    "latin": "4°, 794 pagg.; teg. a2 (ut in codice MN II 80); script. 1664\n\na) Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664.\n\nb) Tractatus De Actibus humanis in Primam Secundae S. Thomae: p. 341–644. Initium p. 343: Supponitur primo: Vocabulum finis hic sumi....\n\nc) Tractatus ultimus De Conscientia: p. 645–794. Initium p. 645: Quam utilis et necessaria sit theologia..... Clausula p. 794: Undecimo ....(?)..1664 desivimus.\n\nInscriptio dorsi: MS. Reverendissimi Abelzhauser Seittenstettensis de Angelis, actibus humanis, conscientia 1664. (Cetera de scribente vide supra p. 51 ad codicem MN II 80!) Auctor ignotus."
   }
 }

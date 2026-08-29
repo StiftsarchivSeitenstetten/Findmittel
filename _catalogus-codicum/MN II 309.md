@@ -9,12 +9,16 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 309
 ms_contents:
-  title: Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)
   items:
   - label: a
-    title: Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)
-    locus: S. 1–224
+    title: Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam
+      Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)
+    locus: p. 224
     end_date_display: Ende 1792
+    explicits:
+    - locus: p. 224
+      text: Ende 1792
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

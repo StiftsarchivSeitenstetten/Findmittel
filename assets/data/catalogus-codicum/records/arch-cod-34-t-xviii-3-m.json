@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-t-xviii-3-m",
   "signature": "Arch. Cod. 34 T (XVIII 3 m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "73",
   "heading": {
-    "title": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii......",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "1669/70"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,47 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii......",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "attested",
+        "typeLabel": "überlieferter Titel"
       },
-      "locus": "Bl. IIr",
+      "locus": "fol. 1–382r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Hactenus philosophi monitum obsecuti....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 382r",
+          "text": "absolvimus 8 februarii 1670........",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Hactenus philosophi monitum obsecuti....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 382r",
+        "text": "absolvimus 8 februarii 1670........",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "alternate_titles",
+          "text": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -63,35 +97,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
-      "title": {
-        "text": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670",
-        "typeRaw": null,
-        "typeLabel": null
-      },
-      "locus": "Bl. 1r–382r",
-      "language": "",
-      "incipit": {
-        "text": "Hactenus philosophi monitum obsecuti...."
-      },
-      "explicit": {
-        "text": "absolvimus 8 februarii 1670........"
-      },
-      "notes": [],
-      "dates": [],
-      "persons": [],
-      "subitems": []
-    },
-    {
-      "id": "item-c",
-      "label": "c",
-      "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index Rerum Omnium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 382v–387v",
+      "locus": "fol. 382v–387v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -172,13 +188,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-t-xviii-3-m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 T (XVIII 3 m)",
-    "titles": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670 \nPars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii...... \nTractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670 \nIndex Rerum Omnium",
-    "persons": "P. Paulus Metzger Dozent lecturer \nFr. Amandus Kerner Schreiber scribe",
+    "titles": "Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii...... \nPars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii...... \nIndex Rerum Omnium",
+    "persons": "P. Paulus Metzger Dozent lecturer  \nFr. Amandus Kerner Schreiber scribe ",
     "incipits": "Hactenus philosophi monitum obsecuti....",
     "explicits": "absolvimus 8 februarii 1670........",
-    "notes": "",
-    "physical": "Papier \nIII + 388 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670",
+    "physical": "Papier \nIII + 388 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; III + 388 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111; geschrieben 1669/70.\n\nFol. IIr: **Erster Teil der Physik. Über Prinzipien des Naturkörpers, Natur, Kunst, Gewaltsames sowie über Bewegung, Ort, Leere, Unendlichkeit, Kontinuum und Zeit. Begonnen am 22. Juni 1669.**\n\nFol. IIIr: **Erste Abhandlung zu den acht Büchern der Physik**, vorgetragen von **P. Paulus Metzger**, Benediktiner von St. Peter in Salzburg, Doktor der freien Künste und Philosophie, ordentlichem Professor und damaligem Dekan der Fakultät; aufgezeichnet von **Fr. Amandus Kerner**, Profess von Seitenstetten und Student der Physik und Gewissensfälle, 1670: fol. 1–382r, mit Sachregister fol. 382v–387v.\n\nAnfang der Vorrede fol. 1r: „Bisher haben wir der Mahnung des Philosophen gehorcht....“ Schluss fol. 382r: **Wir beendeten [dies] am 8. Februar 1670.**",
+    "latin": "III + 388 foll.; 4°; teg. a2 ut in codice MN II 111; script. [maschinschriftlich überschrieben:] 1669/70\n\nInscriptio folio IIr: Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii......\n\nInscriptio folio IIIr: Tractatus I in octo Libros Physicorum traditus ab ........ **P: Paulo Metzger** Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. **F: Amando Kerner** eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670: fol. 1–382r cum Indice Rerum Omnium fol. 382v–387v.\n\n_Initium_ Prooemii fol. 1r: Hactenus philosophi monitum obsecuti.... _Clausula_ fol. 382r: absolvimus 8 februarii 1670........"
   }
 }

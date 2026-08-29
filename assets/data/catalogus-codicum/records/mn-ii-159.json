@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-159",
   "signature": "MN II 159",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "113–114",
   "heading": {
     "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere et specie",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1686/87"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere et specie",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio De Virtute et obiecto Justitiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–275",
+      "locus": "p. 1–275",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "NB: absolvimus hanc disputationem die 14. Aprilis.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "NB: absolvimus hanc disputationem die 14. Aprilis.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "certainty",
@@ -73,15 +88,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio secunda De Restitutione in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 276–407",
+      "locus": "p. 276–407",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hanc disputationem die 11 Junii. Hodie Reverendissimus noster infulatus est.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus hanc disputationem die 11 Junii. Hodie Reverendissimus noster infulatus est.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "certainty",
@@ -101,15 +128,27 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio tertia De Injuriis et Restitutione in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 408–653",
+      "locus": "p. 408–653",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Anno 1687 Die 27 Augusti.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Anno 1687 Die 27 Augusti.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -229,13 +268,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 159",
     "titles": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere et specie \nDisputatio De Virtute et obiecto Justitiae \nDisputatio secunda De Restitutione in genere \nDisputatio tertia De Injuriis et Restitutione in specie",
-    "persons": "P. Paulus Mezger Dozent lecturer \nFr. Placidus Feigler Schreiber scribe",
+    "persons": "P. Paulus Mezger Dozent lecturer St. Peter, Salzburg \nFr. Placidus Feigler Schreiber scribe Seitenstetten",
     "incipits": "",
-    "explicits": "",
-    "notes": "year_inferred_from_context \nyear_inferred_from_context",
-    "physical": "Papier \n653 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "explicits": "NB: absolvimus hanc disputationem die 14. Aprilis. \nAbsolvimus hanc disputationem die 11 Junii. Hodie Reverendissimus noster infulatus est. \nAnno 1687 Die 27 Augusti.",
+    "notes": "year_inferred_from_context \nyear_inferred_from_context \nF:P:F:P:S \ntype: historical_note; context: Schlussvermerk der zweiten Disputation; date_display: 11. Juni 1687; subject: Infulierung des Seitenstettner Abtes; certainty: year_inferred_from_context",
+    "physical": "Papier \n653 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "653 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**Abhandlung zur Secunda Secundae des hl. Thomas über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen**, vorgetragen von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Placidus Feigler, Benediktiner und Profess von Seitenstetten, 1687.\n\nAnfang der Vorrede: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.....\n\na) **Disputation über Tugend und Gegenstand der Gerechtigkeit:** S. 1–275. Schluss: **Beendet am 14. April.**\n\nb) **Zweite Disputation über Restitution im Allgemeinen:** S. 276–407. Schluss: **Beendet am 11. Juni. Heute wurde unser hochwürdigster Abt infuliert.**\n\nc) **Dritte Disputation über Unrecht und Restitution im Einzelnen:** S. 408–653. Schluss: **27. August 1687.**\n\nDieselbe Abhandlung findet sich in MN II 148 und MN II 162. Fr. Placidus Feigler schrieb auch die beiden folgenden Codices.\n\nInitialen auf dem Vorderdeckel: **F:P:F:P:S** = Frater Placidus Feigler Professus Seittenstettensis.",
+    "latin": "653 pagg.; teg. a2; script. 1686/87\n\nTractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item de Contractibus in genere et specie. Traditus A ........P. Paulo Mezger, Ordinis S. P. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Professo Sacrosanctae Theologiae Doctore, et Professore Ordinario. Calamô vero exceptus A Religioso F. Placido Feigler eiusdem ordinis in Celeberrimo Divae Virginis Monasterio Seittenstettensi Inferioris Austriae Professo. Anno Domini M. D. C. LXXXVII. (1687)\n\n\n\n\nInitium (Prooemii) Tractatus De Jure et Justitia: A Theologicis ad virtutes Cardinales progreditur S. Doctor.....\n\na) Disputatio De Virtute et obiecto Justitiae: p. 1–275. Clausula: NB: absolvimus hanc disputationem die 14. Aprilis.\n\nb) Disputatio secunda. De Restitutione in genere: p. 276–407. Clausula: Absolvimus hanc disputationem die 11 Junii. Hodie Reverendissimus noster infulatus est.\n\nc) Disputatio tertia De Injuriis et Restitutione in specie: p. 408–653. Clausula: Anno 1687 Die 27 Augusti.\n\nQuas si disputationes clausulasque comparaveris, reperies eundem tractatum supra p. 108 in codice MN II 148 et infra in codice MN II 162. F. Placidus Feigler etiam duos sequentes codices scripsit.\n\nLitterae initiales in adverso tegumento: F:P:F:P:S = Frater Placidus Feigler Professus Seittenstettensis"
   }
 }

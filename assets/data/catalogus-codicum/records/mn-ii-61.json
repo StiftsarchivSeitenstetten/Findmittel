@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-61",
   "signature": "MN II 61",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "38–39",
   "heading": {
     "title": "Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1652"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "main: de; headings_and_marginalia: la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,35 +49,22 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
-      "language": "main: de; headings_and_marginalia: la",
+      "locus": "p. 3",
+      "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
       "dates": [],
-      "persons": [
-        {
-          "name": "P. Gregorius Lechner",
-          "roleRaw": "author",
-          "roleLabel": "Autor",
-          "scope": "item",
-          "itemId": "item-1",
-          "certainty": "probable"
-        },
-        {
-          "name": "P. Gregorius Lechner",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1",
-          "certainty": "probable"
-        }
-      ],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -91,22 +81,6 @@
       "roleRaw": "scribe",
       "roleLabel": "Schreiber",
       "scope": "contents",
-      "certainty": "probable"
-    },
-    {
-      "name": "P. Gregorius Lechner",
-      "roleRaw": "author",
-      "roleLabel": "Autor",
-      "scope": "item",
-      "itemId": "item-1",
-      "certainty": "probable"
-    },
-    {
-      "name": "P. Gregorius Lechner",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1",
       "certainty": "probable"
     }
   ],
@@ -187,13 +161,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-61/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 61",
     "titles": "Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae \nConsiderationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae",
-    "persons": "P. Gregorius Lechner Autor author \nP. Gregorius Lechner Schreiber scribe \nP. Gregorius Lechner Autor author \nP. Gregorius Lechner Schreiber scribe",
+    "persons": "P. Gregorius Lechner Autor author  \nP. Gregorius Lechner Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "main: de; headings_and_marginalia: la",
-    "physical": "Papier \n670 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "main: de; headings_and_marginalia: la \nlocus: S. 472; type: note; date: 1652-07-23 \nlocus: S. 522; type: note; date: 1652-07-30; subject: Primiz des P. V. Bonifacius Stumer \nlocus: S. 640; type: later_note; date: 1668; place: Wolfsbach; certainty: uncertain",
+    "physical": "Papier \n670 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "670 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1652.\n\n**Betrachtungen oder Erläuterungen über alle Evangelien des ganzen Jahres, nach den einzelnen Sonntagen und Festen der Heiligen geordnet.**\n\n**Das Ist: Etliche Underschidliche Erwegungen, Und Erklärungen Über die Heillige Evangelien. So zu ieden Sonn: Und Festtagen, durch daß Ganze Jahr, In der Christliche Catholische Kürch geordnet werden. Aus underschidliche, fürneme, Bewerte Lateinische Authoribus recolligiert, Und in die Teutsche Sprach Ubersetzt. 1.6.52** (deutsch; die Überschriften und Randbemerkungen sind lateinisch).\n\n**Verfasserzeichen** S. 3: **F G L** = P. Gregorius Lechner, der höchstwahrscheinlich auch selbst den Codex geschrieben hat.\n\nVermerk S. 472: **Vor der ersten Vesper von Trinitatis 1 V. Bonifacii Stumer, 23. Juli 1652.** S. 522: **NB an diesem Tag, das heißt am 30. Juli 1652, feierte P. V. Bonifacius Stumer seine Primiz.** S. 640: **bis ... (?)... Wolfsbach 1668** (mit anderer Tinte nachgetragen).",
+    "latin": "670 pagg.; teg. a1; script. 1652\n\n*Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae*\n\n\n\n*Das Ist: Etliche Underschidliche Erwegungen, Und Erklärungen Über die Heillige Evangelien. So zu ieden Sonn: Und Festtagen, durch daß Ganze Jahr, In der Christliche Catholische Kürch geordnet werden. Aus underschidliche, fürneme, Bewerte Lateinische Authoribus recolligiert, Und in die Teutsche Sprach Ubersetzt. 1.6.52* (Germanice, inscriptiones et notae marginales Latine)\n\n*Signum auctoris* p. 3: F G L = P. Gregorius Lechner, qui probabilissime et ipse codicem scripsit.\n\nNota p. 472: Ante primas Vesperas Trinitatis 1 V. Bonifacii Stumer 23. Julii 1652. p. 522: NB hoc die Id est: 30. Julii. 1652. Primitias habuit P. V. Bonifacius Stumer. p. 640: usque ad ... (?)... Wolfsbach 1668 (alio atramento postscriptum)"
   }
 }

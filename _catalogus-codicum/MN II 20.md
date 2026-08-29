@@ -13,18 +13,32 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 20
 ms_contents:
-  title: "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)"
   items:
-  - label: "a"
-    title: "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)"
-    locus: "Bl. 1r–318v"
-    incipit: "Illud, quod Sallustio teste, diu inter mortales certamen fuit,...."
-    explicit: "Absolvimus nono Maii 1.6.33"
-  - label: "b"
-    title: "Index"
-    title_type: supplied
-    locus: "Bl. 319r–326v"
-    note: "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+  - label: a
+    title: Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in
+      Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)
+    locus: fol. 1 - 318v
+    incipits:
+    - text: Illud, quod Sallustio teste, diu inter mortales certamen fuit,....
+      label: Protologiae ad Universam Philosophiam Aristotelis f. 1r
+    title_status: attested
+    title_source: title_page
+    colophons:
+    - locus: fol. 38r
+      text: Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)
+    - text: Absolvimus nono Maii 1.6.33
+  - label: b
+    title: Index
+    locus: Bl. 319r–326v
+    note: Vom Katalog verwendete strukturelle Inhaltsbezeichnung.
+    title_status: attested
+    title_source: title_page
+    incipits:
+    - label: Protologiae ad Universam Philosophiam Aristotelis f. 1r
+      text: Illud, quod Sallustio teste, diu inter mortales certamen fuit,....
+    colophons:
+    - locus: fol. 38r
+      text: Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)
 phys_desc:
   object_form: codex
   support: Papier

@@ -14,43 +14,85 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '(Variae Latinae considerationes de creatione et morte hominis): p. 3–19.'
+    title: Variae Latinae considerationes de creatione et morte hominis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 3–19
   - label: b
-    catalog_statement: '(Paraphrasis Latina Sequentiae celeberrimae: Dies irae dies illa, tetrametris trochaicis ornata; praecedit
-      autem alterum carmen eiusdem metri, continens decem strophas binorum tetrametrorum trochaicorum, ita ut prima stropha
-      illius paraphrasis numero 11 signata sit; totum carmen continet 30 strophas.): p. 19–25. Cui carmini haec praefatiuncula
-      praemittitur: ...brevi epitome, quae ad bonam ac felicem horam mortis, animae conducere poterunt, subsequentibus Rhythmis
-      compraehenduntur: qui, cum hymnorum more compositi sint pro cuiusvis libitu occini possunt, super hymnum. omni die dic
-      Mariae....'
+    catalog_statement: '(Paraphrasis Latina Sequentiae celeberrimae: Dies irae dies illa, tetrametris trochaicis ornata; praecedit autem alterum
+      carmen eiusdem metri, continens decem strophas binorum tetrametrorum trochaicorum, ita ut prima stropha illius paraphrasis numero 11 signata
+      sit; totum carmen continet 30 strophas.): p. 19–25. Cui carmini haec praefatiuncula praemittitur: ...brevi epitome, quae ad bonam ac felicem
+      horam mortis, animae conducere poterunt, subsequentibus Rhythmis compraehenduntur: qui, cum hymnorum more compositi sint pro cuiusvis libitu
+      occini possunt, super hymnum. omni die dic Mariae....'
+    title: 'Paraphrasis Latina Sequentiae celeberrimae: Dies irae dies illa, tetrametris trochaicis ornata; praecedit autem alterum carmen eiusdem
+      metri, continens decem strophas binorum tetrametrorum trochaicorum, ita ut prima stropha illius paraphrasis numero 11 signata sit; totum
+      carmen continet 30 strophas.'
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 19–25
   - label: c
-    catalog_statement: 'de quatuor novissimis notata: p. 26–27. p. 26 invenitur nomen scribentis: Ego P. Michael Steger Monachus
-      Seittenstettensis'
+    catalog_statement: 'de quatuor novissimis notata: p. 26–27. p. 26 invenitur nomen scribentis: Ego P. Michael Steger Monachus Seittenstettensis'
+    title: de quatuor novissimis notata
+    locus: p. 26–27
+    title_status: unspecified
   - label: d
-    catalog_statement: '(Pia exercitia in honorem S. Erasmi): p. 27–35. p. 30–34 Hymnus (iambicus). De S. Erasmo. Clausula
-      p. 35: Vita S. Erasmi Succincte descripta ex Surio, variis tamen Rhythmis'
+    catalog_statement: '(Pia exercitia in honorem S. Erasmi): p. 27–35. p. 30–34 Hymnus (iambicus). De S. Erasmo. Clausula p. 35: Vita S. Erasmi
+      Succincte descripta ex Surio, variis tamen Rhythmis'
+    title: Pia exercitia in honorem S. Erasmi
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 27–35
+    colophons:
+    - locus: p. 35
+      text: Vita S. Erasmi Succincte descripta ex Surio, variis tamen Rhythmis
   - label: e
-    catalog_statement: 'Novum exercitium ultimo anno, uti suspicor, vitae meae, in honorem Sanctorum Vulnerum Christi Crucifixi,.....:
-      p. 35–41 (Carmen 29 stropharum)'
+    catalog_statement: 'Novum exercitium ultimo anno, uti suspicor, vitae meae, in honorem Sanctorum Vulnerum Christi Crucifixi,.....: p. 35–41
+      (Carmen 29 stropharum)'
+    title: Novum exercitium ultimo anno, uti suspicor, vitae meae, in honorem Sanctorum Vulnerum Christi Crucifixi,
+    locus: p. 35–41
+    title_status: unspecified
   - label: f
     catalog_statement: '(Varia pia exercitia, maxime Rhythmis exarata): p. 57–112.'
+    title: Varia pia exercitia, maxime Rhythmis exarata
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 57–112
   - label: g
-    catalog_statement: '(Oratio ad Jesum Salvatorem nostrum, chronogrammatica). Nota in margine inferiore eiusdem paginae
-      119: hoc triplici Cronographico genus humanum Christo Domino Redemptori Suo gratias refert pro Redemptione Sua. (Chronogrammata
-      indicant annum 1742!)'
+    catalog_statement: '(Oratio ad Jesum Salvatorem nostrum, chronogrammatica). Nota in margine inferiore eiusdem paginae 119: hoc triplici Cronographico
+      genus humanum Christo Domino Redemptori Suo gratias refert pro Redemptione Sua. (Chronogrammata indicant annum 1742!)'
+    title: Oratio ad Jesum Salvatorem nostrum, chronogrammatica
+    title_status: supplied
+    title_source: cataloguer
   - label: h
-    catalog_statement: 'Exercitium de Venerabili Sacramento, quatenus in semetipso publicè expositum, et ut repraesentativum
-      Sub Sacrificio Missae, nec non speciali cultu â Domo Austriaca antiquitus iam iam â Praedecessoribus Imperatoribus ad
-      usque Serenissimam, piissimam Reginam nostram Mariam Theresiam devotissime veneratur. Rythmi devoti â pari Cultore Religioso
-      Compositi: p. 121–140. Nota in margine sinistra p. 121: Exercitium in mea infirmitate et pedis sinistri miseria, anno
-      1745. (Quod exercitium carmine Latino 53 stropharum iambicarum compositum est.)'
+    catalog_statement: 'Exercitium de Venerabili Sacramento, quatenus in semetipso publicè expositum, et ut repraesentativum Sub Sacrificio Missae,
+      nec non speciali cultu â Domo Austriaca antiquitus iam iam â Praedecessoribus Imperatoribus ad usque Serenissimam, piissimam Reginam nostram
+      Mariam Theresiam devotissime veneratur. Rythmi devoti â pari Cultore Religioso Compositi: p. 121–140. Nota in margine sinistra p. 121: Exercitium
+      in mea infirmitate et pedis sinistri miseria, anno 1745. (Quod exercitium carmine Latino 53 stropharum iambicarum compositum est.)'
+    title: Exercitium de Venerabili Sacramento, quatenus in semetipso publicè expositum, et ut repraesentativum Sub Sacrificio Missae, nec non
+      speciali cultu â Domo Austriaca antiquitus iam iam â Praedecessoribus Imperatoribus ad usque Serenissimam, piissimam Reginam nostram Mariam
+      Theresiam devotissime veneratur. Rythmi devoti â pari Cultore Religioso Compositi
+    locus: p. 121–140
+    title_status: unspecified
   - label: i
-    catalog_statement: 'Exercitium Ultimum, de resignatione perfecta in Mortem ipsam. Oblectatio, amor, et Desiderium moriendi.
-      id est: fundamentalis instructio, quemadmodum bonus ac timoratus, pius ac verus Christianus mortem non timeat, sed magno
-      desiderio ac Cupiditate expectet, cum gaudio amplectatur. annexa magna arte moriendi. Et quo modo Zelosus Parochus aut
-      Confessarius Clientem Parochianum, Pastor bonus moribundam oviculam suam Consolari, confortare ac ardenter cohortari
-      possit. Iuxta normam vulgò editam cui(us)dam Benedictini 1745: p. 149–200.'
+    catalog_statement: 'Exercitium Ultimum, de resignatione perfecta in Mortem ipsam. Oblectatio, amor, et Desiderium moriendi. id est: fundamentalis
+      instructio, quemadmodum bonus ac timoratus, pius ac verus Christianus mortem non timeat, sed magno desiderio ac Cupiditate expectet, cum
+      gaudio amplectatur. annexa magna arte moriendi. Et quo modo Zelosus Parochus aut Confessarius Clientem Parochianum, Pastor bonus moribundam
+      oviculam suam Consolari, confortare ac ardenter cohortari possit. Iuxta normam vulgò editam cui(us)dam Benedictini 1745: p. 149–200.'
+    title: 'Exercitium Ultimum, de resignatione perfecta in Mortem ipsam. Oblectatio, amor, et Desiderium moriendi. id est: fundamentalis instructio,
+      quemadmodum bonus ac timoratus, pius ac verus Christianus mortem non timeat, sed magno desiderio ac Cupiditate expectet, cum gaudio amplectatur.
+      annexa magna arte moriendi. Et quo modo Zelosus Parochus aut Confessarius Clientem Parochianum, Pastor bonus moribundam oviculam suam Consolari,
+      confortare ac ardenter cohortari possit. Iuxta normam vulgò editam cui(us)dam Benedictini 1745'
+    locus: p. 149–200
+    incipits:
+    - locus: p. 150
+      label: Proloquii
+      text: Solent frequenter etiam honesti Mortales vultum suum immutare,.....
+    title_status: unspecified
   - label: j
-    catalog_statement: 'Officiorum et diversarum devotionum manipulus ad S. Archangelum Michaelem: Summum (!) Supremae Sedis
-      Ministrum.....: p. 213–234'
+    catalog_statement: 'Officiorum et diversarum devotionum manipulus ad S. Archangelum Michaelem: Summum (!) Supremae Sedis Ministrum.....: p.
+      213–234'
+    title: 'Officiorum et diversarum devotionum manipulus ad S. Archangelum Michaelem: Summum (!) Supremae Sedis Ministrum'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

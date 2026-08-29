@@ -12,11 +12,18 @@ ms_contents:
   items:
   - label: a
     title: Tractatus quintus In Primam Secundae Summae Divi Thomae Aquinatis De Vitiis et Peccatis
-    locus: S. 3–452
+    locus: p. 3–452
+    title_status: unspecified
   - label: b
     title: Tractatus sextus In Primam Secundae Summae Divi Thomae Aquinatis De Legibus
-    locus: S. 453–577
+    locus: p. 453–577
     end_date_display: 23. August, Jahr nicht angegeben
+    incipits:
+    - label: Proloquii
+      text: Absoluto Tractatu de actibus humanis......
+    colophons:
+    - text: Absolvimus die 23 Augusti. Quid sibi velit
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

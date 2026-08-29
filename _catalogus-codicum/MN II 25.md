@@ -13,13 +13,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 25
 ms_contents:
-  title: "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)"
   items:
-  - label: "a"
-    title: "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)"
-    locus: "S. 3–752"
-    incipit: "Sapientibus et Insipientibus debitorem se esse cognoscat...."
-    explicit: "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto...."
+  - label: a
+    title: Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii
+      Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F.
+      Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)
+    locus: p. 3 - 752
+    incipits:
+    - label: Prooemii in Materiam de Deo uno, et Trino
+      text: 'Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem
+        Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....'
+    title_status: unspecified
+    colophons:
+    - text: '... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....'
 phys_desc:
   object_form: codex
   support: Papier

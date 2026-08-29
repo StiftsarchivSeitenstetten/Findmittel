@@ -12,11 +12,22 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De vitiis et peccatis
-    locus: S. 7–402
+    locus: p. 7–402
+    incipits:
+    - locus: p. 7
+      text: Consideratâ actûs humani moralitate in genere.....
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
-    locus: S. 403–605
+    locus: p. 403–605
     end_date: '1685-08-28'
+    incipits:
+    - label: Quaestionis primae. De lege in Communi
+      text: 'p. 403: Usitato ordine prius legem in communi consideramus.....'
+    colophons:
+    - locus: p. 605
+      text: Anno 1685. 28. augusti.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

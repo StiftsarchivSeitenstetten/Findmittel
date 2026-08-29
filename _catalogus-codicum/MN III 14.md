@@ -10,13 +10,21 @@ ms_identifier:
   idno: MN III 14
 ms_contents:
   items:
-  - label: "a"
-    title: "Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini"
-    locus: "S. 3–250"
-    end_date_display: "27./29. Mai 1699"
-  - label: "b"
-    title: "Nota Aliquae Distinctiones"
-    locus: "S. 251–256"
+  - label: a
+    title: Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini
+    locus: p. 3–250
+    end_date_display: 27./29. Mai 1699
+    colophons:
+    - locus: p. 250
+      text: Absoluta est haec Logica a Clarissimo P. Coelestino 1699 27 Maii postprandium in vigilia Ascensionis et a me 29 Maii. Contraxit igitur
+    title_status: unspecified
+    notes:
+    - scriptor noster lectiones, quas in anno scholari 1698/99 P. Coelestinus Romoser de Romoseck professus Admontensis Salisburgi habuit. Ipsum
+      autem scriptorem nescimus.
+  - label: b
+    title: Nota Aliquae Distinctiones
+    locus: p. 251–256
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

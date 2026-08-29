@@ -10,13 +10,20 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–10 (XVIII 3 h)
 ms_contents:
-  title: "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris."
   items:
-  - label: "a"
-    title: "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris."
-    locus: "S. 1–878"
-    incipit: "In Theologiae sacraria admissis magno nobis solatio sit....."
-    explicit: "29 Januarii absolvimus."
+  - label: a
+    title: Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio
+      Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre
+      Ernesto Weissenperger eodem anno die septima octobris.
+    locus: p. 6
+    incipits:
+    - text: In Theologiae sacraria admissis magno nobis solatio sit.....
+      locus: p. 6
+      label: Praefationis
+    colophons:
+    - locus: p. 878
+      text: 29 Januarii absolvimus.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

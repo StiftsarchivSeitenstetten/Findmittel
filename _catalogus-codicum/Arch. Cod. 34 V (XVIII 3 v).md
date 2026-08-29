@@ -13,12 +13,28 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 V (XVIII 3 v).
   items:
   - label: a
-    catalog_statement: 'Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti.....
-      Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669.'
+    catalog_statement: 'Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula:
+      Haec diuturno labore descripta 11. Februarii Anno 1669.'
+    title: Institutiones sive Summulae Dialecticae
+    locus: fol. 1–66
+    incipits:
+    - locus: fol. 1r
+      text: Solent magnarum aedium Architecti.....
+    colophons:
+    - text: Haec diuturno labore descripta 11. Februarii Anno 1669.
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Commentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. Initium Prooemii:
-      Si Romae antiquae solemnis consuetudo fuit..... Clausula fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus
-      die 31 Maii.'
+    catalog_statement: 'Commentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. Initium Prooemii: Si Romae antiquae
+      solemnis consuetudo fuit..... Clausula fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.'
+    title: Commentarius In Organum Aristotelis
+    locus: fol. 1–246
+    incipits:
+    - label: Prooemii
+      text: Si Romae antiquae solemnis consuetudo fuit.....
+    colophons:
+    - locus: fol. 246
+      text: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -19,36 +19,30 @@ ms_identifier:
   idno: "MN I 16"
 
 ms_contents:
-  overall_title:
-    title: "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken"
-    title_type: "original"
-    language: "de"
-
-  summary: "Geschichte des Bergbaus im Königreich Böhmen mit abschließendem Register."
-
+  summary: Geschichte des Bergbaus im Königreich Böhmen mit abschließendem Register.
   items:
-    - item: 1
-      title: "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken"
-      title_type: "original"
-      locus: "S. 3–235"
-      language:
-        - "de"
-      responsibility:
-        - role: "author"
-          name: "Thaddaeus Peithner"
-      subject:
-        - "Bergbau"
-        - "Bergwerksgeschichte"
-        - "Böhmen"
-
-    - item: 2
-      title: "Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten"
-      title_type: "original"
-      locus: "S. 237–250"
-      type: "index"
-      language:
-        - "de"
-
+  - item: 1
+    title: Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken
+    locus: p. 3–235
+    responsibility:
+    - role: author
+      name: Thaddaeus Peithner
+    subject:
+    - Bergbau
+    - Bergwerksgeschichte
+    - Böhmen
+    languages:
+    - de
+    title_status: unspecified
+  - item: 2
+    title: Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten
+    locus: p. 237–250
+    type: index
+    languages:
+    - de
+    title_status: unspecified
+  languages:
+  - de
 phys_desc:
   object_form: "codex"
   format: "Folio"

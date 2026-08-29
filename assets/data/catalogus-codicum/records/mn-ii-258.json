@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-258",
   "signature": "MN II 258",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "196",
   "heading": {
     "title": "Tractatus. in Physicam Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1712/13 (?)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus. in Physicam Aristotelis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus. in Physicam Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–269v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Emenso itinere peripatetico, contritisque logicae vepribus ...........",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Emenso itinere peripatetico, contritisque logicae vepribus"
+        "text": "Emenso itinere peripatetico, contritisque logicae vepribus ...........",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,13 +85,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Proemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–2r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -88,13 +107,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 2r–10v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -179,13 +202,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-258/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 258",
     "titles": "Tractatus. in Physicam Aristotelis \nTractatus. in Physicam Aristotelis \nProemium \nQuaestionem Prolegomenam (!) De quidditate et Obiecto Physicae",
-    "persons": "P. Caelestin Mayr Autor author \nFr. Hieronymus Hueber Schreiber scribe",
-    "incipits": "Emenso itinere peripatetico, contritisque logicae vepribus",
+    "persons": "P. Caelestin Mayr Autor author Kloster St. Ulrich und Afra, Augsburg / Universität Salzburg \nFr. Hieronymus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Emenso itinere peripatetico, contritisque logicae vepribus ...........",
     "explicits": "",
     "notes": "Enthält die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.",
-    "physical": "Papier \n271 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n271 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "271 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1712/13 (?).\n\n**Abhandlung zur Physik des Aristoteles:** fol. 1r–269v.\n\nAnfang der Vorrede: Nachdem der peripatetische Weg durchmessen und das Dornengestrüpp der Logik niedergetreten ist...........\n\nDieser Band enthält außer der Vorrede fol. 1r–2r und der prolegomenalen Frage **Über Wesen und Gegenstand der Physik** fol. 2r–10v die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.\n\nDen Verfasser nennt die Rückenaufschrift: **Physica, seu Scripta. Reverendi P. Caelestini Mayr.** P. Caelestin Mayr, Profess von St. Ulrich und Afra in Augsburg und Professor in Salzburg, hatte im Studienjahr 1711/12 Logik gelehrt. Da Philosophieprofessoren gewöhnlich im folgenden Jahr nach der Logik Physik vortrugen, dürfte unser Codex wahrscheinlich im Studienjahr 1712/13 geschrieben worden sein.\n\nDass Schreiber Fr. Hieronymus Hueber, Seitenstettner Kleriker, war, zeigt der Vergleich der Schrift dieses und der neun – oder wenigstens acht – folgenden Codices mit einem von ihm in Salzburg geschriebenen Brief im Stiftsarchiv Seitenstetten, 2B Nr. 269.",
+    "latin": "271 foll.; teg. a1; script. 1712/13 (?)\n\nTractatus. in Physicam Aristotelis: fol. 1r–269v.  \nInitium Proemii: Emenso itinere peripatetico, contritisque logicae vepribus ...........\n\nContinet hic tomus praeter Proemium (fol. 1r–2r) et Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae (fol. 2r–10v) singulas disputationes in quattuor priores libros Physicorum Aristotelis.\n\nAuctorem codicis nostri invenies in inscriptione dorsi: Physica, seu Scripta. Reverendi P. Caelestini Mayr. Quem auctorem, professum ad Sanctos Udalricum et Afram Augustae Vindelicorum et professorem Salisburgensem, anno scholari 1711/12 Logicam tradidisse, iam supra p. 189 ad codices MN II 244 et 245 ostendimus. Atqui Philosophiae Professores post logicam absolutam anno subsequente Physicam docere solebant. Itaque codex noster probabiliter anno scholari 1712/13 scriptus est.\n\nScriptorem autem esse F. Hieronymum Hueber, clericum Seitenstettensem, non negabis, si scripturam codicis nostri et novem (aut saltem octo) sequentium cum epistola ab illo monacho Seitenstettensi Salisburgi scripta comparaveris. (Quam epistolam reperies in archivo monasterii Seitenstettensis 2B Nr. 269.)"
   }
 }

@@ -12,14 +12,22 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Dogmaticus in I Secundae S. Thomae Aquinatis De gratia Divina, Justificatione et merito
-    locus: S. 7–239
-    incipit: Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis
+    locus: p. 7–239
     end_date_display: 8. Mai 1754
+    incipits:
+    - text: Angelicus Doctor, postquam in hac parte suae Summae de actibus humanis bonis et malis......
+    title_status: unspecified
+    colophons:
+    - text: 8. Maii 1754.
   - label: b
     title: Tractatus Scholastico-Dogmaticus De Virtutibus theologicis, Fide, Spe et charitate
-    locus: S. 251–389
-    incipit: De justificatione secundum essentiam spectata hactenus egimus
+    locus: p. 251–389
     end_date_display: 17. August 1754
+    incipits:
+    - text: De justificatione secundum essentiam spectata hactenus egimus,.....
+    title_status: unspecified
+    colophons:
+    - text: 17. Augusti 1754.
 phys_desc:
   object_form: codex
   support: Papier

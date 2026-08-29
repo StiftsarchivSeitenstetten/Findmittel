@@ -10,11 +10,12 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–1 (XVIII 3h)
 ms_contents:
-  title: "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi."
   items:
-  - label: "a"
-    title: "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi."
-    locus: "S. 1–376"
+  - label: a
+    title: Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis
+      S. Benedicti Professo Seittenstettensi.
+    locus: S. 1–376
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

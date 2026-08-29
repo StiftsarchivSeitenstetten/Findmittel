@@ -10,11 +10,11 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 RR (A 77)
 ms_contents:
-  title: "Supplex Libellus Ad Deum et Sanctos."
   items:
-  - label: "a"
-    title: "Supplex Libellus Ad Deum et Sanctos."
-    locus: "S. 1–334"
+  - label: a
+    title: Supplex Libellus Ad Deum et Sanctos.
+    locus: S. 1–334
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

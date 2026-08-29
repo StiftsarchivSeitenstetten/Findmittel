@@ -16,9 +16,30 @@ ms_contents:
   summary: Vorlesungen Simon Fyrbas’ über Seele und Metaphysik, mitgeschrieben von Ludwig Scherb.
   items:
   - label: a
-    catalog_statement: '*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*'
+    catalog_statement: '*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente
+      anno 1630.*'
+    title: Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630
+    title_status: unspecified
+    incipits:
+    - locus: fol. 1
+      label: Prooemii (Anno 1630. 13 Maii)
+      text: incipimus feliciter die isti, hora media octava, qua nullus saecularis studiosus frequentavit, ob causam rumoris excitati in Urbe
+        Salisburgensi, quae tamen brevi occidit. Fol. 68r.
+    locus: fol. 1
+    colophons:
+    - label: f. 125v., 131v (cum properatione), 167r
+      text: 17. die Septembris 1630. Index fol. 173v. - 176v.
   - label: b
-    catalog_statement: '*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*'
+    catalog_statement: '*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio
+      .....1630.*'
+    title: Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630
+    title_status: unspecified
+    incipits:
+    - label: Prooemii
+      text: Omnes homines ait Aristoteles..... Fol. 13r.
+    colophons:
+    - label: biennii philosophici
+      text: 7. die Octobris 1630.
 phys_desc:
   object_form: codex
   support: Papier

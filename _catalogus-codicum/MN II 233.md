@@ -9,12 +9,16 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 233
 ms_contents:
-  title: Summulae seu brevis Manuductio ad Logicam
   items:
   - label: a
     title: Summulae seu brevis Manuductio ad Logicam
-    locus: S. I, III, 1–196
+    locus: p. I et III, 1–196
     date: 1708/09
+    incipits:
+    - locus: p. III
+      label: Prooemii
+      text: Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

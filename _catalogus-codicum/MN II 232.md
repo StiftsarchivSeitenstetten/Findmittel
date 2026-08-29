@@ -13,16 +13,34 @@ ms_contents:
   items:
   - label: a
     title: Tractatus de Sacramentis in genere
-    title_type: supplied
-    locus: S. 8–416
+    locus: p. 7
+    incipits:
+    - locus: p. 7
+      label: Proloquii
+      text: Postquam Superiore anno Dominicae Incarnationis mysterium, ......
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus de Baptismo, et Confirmatione
-    locus: S. 419–548
+    locus: p. 419–548
     end_date: '1709-07-19'
+    incipits:
+    - locus: p. 421
+      label: Tractatus 12 de Baptismo et Confirmatione
+      text: Postquam ea absolvimus, quae dicenda.....
+    colophons:
+    - text: Absolvimus praesentem tractatum die 19 Julii 1709.
+    title_status: unspecified
   - label: c
     title: Tractatus 13. de Sacramento Eucharistiae
-    locus: S. 550–659
+    locus: p. 550–659
     end_date: '1709-08-31'
+    incipits:
+    - text: Dari Sacramentum Eucharistiae fide certum est.....
+    colophons:
+    - text: Absolvimus 31 Augusti 1709. Incepit heri examen Theologicum apud P. Babenstuber, et hodie apud P. Pley.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

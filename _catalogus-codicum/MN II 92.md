@@ -16,11 +16,23 @@ ms_contents:
   items:
   - label: a
     title: Institutiones dialecticae
-    locus: S. 1–125
+    locus: p. 1–125
+    incipits:
+    - text: Prooemium. Qui in acie hostem prosternere flagrat....
+    colophons:
+    - text: Absolvimus quartâ die Martii 1667.
+    title_status: unspecified
   - label: b
     title: Commentarius in Organum Aristotelis
-    locus: S. 129–775
-    title_type: supplied
+    locus: p. 129–775
+    incipits:
+    - label: Proloquii
+      text: A velitationibus ad pugnam, à fundamento in sublime.....
+    title_status: supplied
+    title_source: cataloguer
+    colophons:
+    - locus: p. 775
+      text: '....calamum 24 Januarii anni 1667. admovimus, removimusque eodem anno decimo tertio Augusti....'
   responsibility:
   - role: scribe
     name: Fr. Bernardus Leittner

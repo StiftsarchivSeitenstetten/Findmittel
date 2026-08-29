@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-181",
   "signature": "MN II 181",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "137–138",
   "heading": {
     "title": "Tractatus De Jure et Justitia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1695"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus De Jure et Justitia",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Jure et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–201v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Proloquii",
+          "text": "Examinatis anno priori Tribus Virtutibus Theologicis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 201v",
+          "text": "Absolvimus hunc tractatum Die 26 Augusti 1695.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Proloquii",
+        "text": "Examinatis anno priori Tribus Virtutibus Theologicis.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 201v",
+        "text": "Absolvimus hunc tractatum Die 26 Augusti 1695.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -171,13 +200,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 181",
     "titles": "Tractatus De Jure et Justitia \nTractatus De Jure et Justitia",
-    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nII + 202 = 204 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "Examinatis anno priori Tribus Virtutibus Theologicis.....",
+    "explicits": "Absolvimus hunc tractatum Die 26 Augusti 1695.",
+    "notes": "M S. F. Gabriel Sometting Seittenstettensis de Jure et iustitia Dominio et modis acquirendi. \nGaberiell schledter",
+    "physical": "Papier \nII + 202 = 204 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "II + 202 = 204 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1695.\n\n**Abhandlung über Recht und Gerechtigkeit.** Anfang der Vorrede fol. 1r: Nachdem im vergangenen Jahr die drei theologischen Tugenden untersucht worden waren..... Schluss fol. 201v: **Wir beendeten diese Abhandlung am 26. August 1695.**\n\nRückenaufschrift: **M S. F. Gabriel Sometting Seittenstettensis de Jure et iustitia Dominio et modis acquirendi.** Es schrieb also derselbe Fr. Gabriel Sumadtinger, der auch die elf vorhergehenden Codices geschrieben hatte, diesen Codex. Der Verfasser ist unbekannt.\n\nAnweisung für den Buchbinder fol. 1r: **Gaberiell schledter**. Sie zeigt, dass dieser Codex des Fr. Gabriel mit Schweinsleder eingebunden werden sollte. Dieselbe Notiz fanden wir bereits in MN II 180; vielleicht darf man daraus schließen, dass auch MN II 180 im Jahr 1695 geschrieben wurde.\n\nDieselbe Abhandlung über Recht und Gerechtigkeit findet sich in MN II 193.",
+    "latin": "II + 202 = 204 foll.; teg. a2; script. 1695\n\nTractatus De Jure, et Justitia. Initium Proloquii fol. 1r: Examinatis anno priori Tribus Virtutibus Theologicis..... Clausula fol. 201v: Absolvimus hunc tractatum Die 26 Augusti 1695.\n\nInscriptio dorsi: M S. F. Gabriel Sometting Seittenstettensis de Jure et iustitia Dominio et modis acquirendi. Scripsit ergo idem F. Gabriel Sumadtinger, qui undecim codices praecedentes, etiam hunc codicem. Auctor autem ignotus.\n\nNota pro bibliopego fol. 1r: Gaberiell schledter, indicat, hunc codicem F. Gabrielis corio suillo (Schweinsleder) tegendum esse. Eandem notam iam in codice MN II 180 (supra p. 136!) invenimus; qua igitur nisus nota forsitan etiam codicem MN II 180 anno 1695 scriptum esse arbitreris.\n\nEundem tractatum de Jure et Justitia invenies in codice MN II 193 (de quo plura inferius!)"
   }
 }

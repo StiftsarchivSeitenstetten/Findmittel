@@ -13,14 +13,17 @@ ms_contents:
   items:
   - label: a
     title: Disputatio Prima De Vitiis et Peccatis
-    locus: S. 6–336
+    locus: p. 6–336
     start_date: '1700-11-09'
     end_date: '1701-08-01'
+    title_status: unspecified
   - label: b
     title: Disputatio Secunda De Legibus
-    locus: S. 337–392
+    locus: p. 337–392
     start_date: '1701-08-03'
     end_date: '1701-09-03'
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

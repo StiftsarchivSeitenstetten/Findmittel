@@ -9,19 +9,23 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 13
 ms_contents:
-  title: "Exercitia ad bene scribendas epistulas"
-  title_type: "supplied"
+  title: Exercitia ad bene scribendas epistulas
   items:
-  - label: "a"
-    title: "Tractatus de epistolis scribendis"
-    title_type: "supplied"
-    locus: "S. 1–4"
-    note: "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern; der Anfang fehlt."
-  - label: "b"
-    title: "Exempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae et similes"
-    title_type: "supplied"
-    locus: "S. 5–251"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+  - label: a
+    title: Tractatus de epistolis scribendis
+    locus: p. 1–4
+    note: Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern; der Anfang fehlt.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Exempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae
+      et similes
+    locus: p. 5–251
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

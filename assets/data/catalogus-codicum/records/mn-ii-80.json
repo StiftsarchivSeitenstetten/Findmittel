@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-80",
   "signature": "MN II 80",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "51",
   "heading": {
     "title": "Disputationes In Octo Libros Physicorum Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1659/60"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Disputationes In Octo Libros Physicorum Aristotelis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
-    "locus": "S. 5–1034",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,33 +49,75 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationes In Octo Libros Physicorum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–1034",
+      "locus": "p. 5–1034",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
-      "dates": [],
-      "persons": [
+      "incipits": [
         {
-          "name": "Benedictus Abelzhauser",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1"
-        },
-        {
-          "name": "unbekannt",
-          "roleRaw": "author",
-          "roleLabel": "Autor",
-          "scope": "item",
-          "itemId": "item-1"
+          "locus": "p. 5",
+          "label": "Prooemii",
+          "text": "Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....",
+          "id": "incipit-1"
         }
       ],
+      "explicits": [
+        {
+          "locus": "p. 923",
+          "text": "Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [
+        {
+          "locus": "p. 260",
+          "text": "Et haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 623",
+          "text": "Absolvimus Secundum Librum Physicorum 24 Novembris.",
+          "id": "colophon-2"
+        },
+        {
+          "locus": "p. 779",
+          "text": "Tertium Librum 9 Decembris finivimus.",
+          "id": "colophon-3"
+        },
+        {
+          "locus": "p. 1019",
+          "text": "Absolvimus Continuum continuo Labore non capiendum 28 Januarii menè.",
+          "id": "colophon-4"
+        },
+        {
+          "locus": "p. 880",
+          "text": "Proxima die post Epiphaniam hoc est 7 Januarii.",
+          "id": "colophon-5"
+        },
+        {
+          "locus": "p. 1034",
+          "text": "...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus.",
+          "id": "colophon-6"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Prooemii",
+        "text": "Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 923",
+        "text": "Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.",
+        "id": "explicit-1"
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -95,20 +140,6 @@
       "roleRaw": "author",
       "roleLabel": "Autor",
       "scope": "contents"
-    },
-    {
-      "name": "Benedictus Abelzhauser",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1"
-    },
-    {
-      "name": "unbekannt",
-      "roleRaw": "author",
-      "roleLabel": "Autor",
-      "scope": "item",
-      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -195,13 +226,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 80",
     "titles": "Disputationes In Octo Libros Physicorum Aristotelis \nDisputationes In Octo Libros Physicorum Aristotelis",
-    "persons": "Benedictus Abelzhauser Schreiber scribe \nBenedictus Abelzhauser Schreiber scribe \nunbekannt Autor author \nBenedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n1044 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+    "persons": "Benedictus Abelzhauser Schreiber scribe  \nBenedictus Abelzhauser Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....",
+    "explicits": "Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus. \nEt haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus. \nAbsolvimus Secundum Librum Physicorum 24 Novembris. \nTertium Librum 9 Decembris finivimus. \nAbsolvimus Continuum continuo Labore non capiendum 28 Januarii menè. \nProxima die post Epiphaniam hoc est 7 Januarii. \n...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus.",
+    "notes": "octo Libri Physicorum Reverendissimi Abelzhauser Seittenstettensis M S.",
+    "physical": "Papier \n1044 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+    "german": "1044 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **I H S**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1659/60.\n\n**(Disputationen zu den acht Büchern der Physik des Aristoteles):** S. 5–1034. Anfang der Vorrede S. 5: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir endlich zu den glücklichen Inseln der Natur.....\n\nSchlussvermerke: S. 260: **Und damit möge das zum ersten Buch der Physik Gesagte genügen; wir beendeten es am 2. September.** S. 623: **Wir beendeten das zweite Buch der Physik am 24. November....** S. 779: **Das dritte Buch beendeten wir am 9. Dezember....** S. 880: **Am Tag nach Epiphanie, das heißt am 7. Januar....** S. 923: **Das vierte Buch, am ersten Tag nach Epiphanie begonnen (?) und nach der Oktav vollendet, brachten wir Christus dar....** S. 1019: **Wir beendeten das Kontinuum, das durch kontinuierliche Arbeit nicht zu erfassen ist, am 28. Januar am Morgen....** S. 1034: **...bei der Vollendung der acht Bücher der Physik am 30. Januar sei die Summe und die Oktav Lob Gottes....**\n\nKeiner dieser Schlussvermerke verrät, in welchem Jahr unser Codex geschrieben wurde. Da er jedoch dieselben Disputationen enthält wie die Codices MN II 75 und 76, wird man nicht bezweifeln, dass auch dieser Codex im Studienjahr 1659/60 entstanden ist.\n\nDen Schreiber nennt die Rückenaufschrift: **Acht Bücher der Physik, Handschrift des hochwürdigsten Abelzhauser aus Seitenstetten.** Es schrieb diesen Codex – und die sieben folgenden Codices – also **Benedictus Abelzhauser**, der von 1687 bis 1717 dem Kloster Seitenstetten als Abt vorstand. Der Verfasser ist unbekannt. (Zu den Codices MN II 75 und 76 siehe oben S. 49!)",
+    "latin": "1044 pagg.; teg. a2 (in parte adversa I H S, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1659/60\n\n(Disputationes In Octo Libros Physicorum Aristotelis): p. 5–1034. Initium Prooemii p. 5: Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....\n\nClausulae: p. 260: Et haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus. p. 623: Absolvimus Secundum Librum Physicorum 24 Novembris.... p. 779: Tertium Librum 9 Decembris finivimus.... p. 880: Proxima die post Epiphaniam hoc est 7 Januarii.... p. 923: Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.... p. 1019: Absolvimus Continuum continuo Labore non capiendum 28 Januarii menè.... p. 1034: ...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus....\n\nNe una quidem ex omnibus istis clausulis prodit, quo anno scriptus sit codex noster. Sed quod easdem disputationes continet, quas codices MN II 75 et 76, non dubitabis, quin et hic codex anno scholari 1659/60 ortus sit. Scriptorem exhibet inscriptio dorsi: octo Libri Physicorum Reverendissimi Abelzhauser Seittenstettensis M S. Scripsit igitur hunc (et septem sequentes codices) **Benedictus Abelzhauser**, qui 1687–1717 praefuit coenobio Seittenstettensi. Auctor ignotus. (De codicibus MN II 75 et 76 respice supra p. 49!)"
   }
 }

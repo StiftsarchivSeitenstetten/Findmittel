@@ -13,17 +13,35 @@ ms_contents:
   items:
   - label: a
     title: Tractatus de Sacramentis in genere
-    locus: S. 8–181
+    locus: p. 7
+    incipits:
+    - locus: p. 7
+      text: Fontes Salvatoris id est Varii Tractatus de Sacramentis tum in genere, tum in Specie Anteloquium Purissimos vobis hodiè fontes propino......
+    title_status: unspecified
   - label: b
     title: Tractatus Varii De Sacramentis in Specie
     subitems:
     - title: Tractatus Primus De Baptismo
-      locus: S. 181–237
+      locus: p. 181–237
+      colophons:
+      - text: Absolvimus universim die 29 Julii 1705.
+      title_status: unspecified
     - title: Tractatus Secundus De Confirmatione
-      locus: S. 237–262
+      locus: p. 237–262
+      colophons:
+      - text: Absolvimus universim die 29 Julii 1705.
+      title_status: unspecified
     - title: Tractatus Tertius De Venerabili Eucharistiae Sacramento
-      locus: S. 263–332
+      locus: p. 181–237
+      colophons:
+      - text: Absolvimus universim die 29 Julii 1705.
+      title_status: unspecified
+    locus: p. 181–237
+    colophons:
+    - text: Absolvimus universim die 29 Julii 1705.
+    title_status: unspecified
   end_date: '1705-07-29'
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

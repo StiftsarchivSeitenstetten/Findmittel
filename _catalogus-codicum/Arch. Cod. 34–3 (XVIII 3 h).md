@@ -10,12 +10,17 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–3 (XVIII 3 h)
 ms_contents:
-  title: "Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem, ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita."
+  title: Diatriba Virtutum seu Schola Perfectionis sub schemate sacri Tyrocinii per Reverendum Religiosum Dominum P. Caelestinum Pley Ordinis
+    Sanctissimi Patris Benedicti in Seittenstettensi ad Divam Virginem Inferioris Austriae Monasterio Professum, Sacrosanctae Theologiae Doctorem,
+    ejusdemque quondam in Universitate Salisburgensi Professorem, et Vice Rectorem, Celsissimi ac Reverendissimi Sacri Romani Imperii Principis
+    et Archi-Episcopi Salisburgensis etc. etc. Consiliarium Ecclesiasticum exhibita.
   items:
-  - label: "a"
-    title: "Liber I De Virtutibus Theologicis."
-    locus: "S. 8–428"
-    note: "In Dialogform zwischen Lehrer und Schüler; mit sechs Bildseiten."
+  - label: a
+    title: Liber I De Virtutibus Theologicis.
+    locus: S. 8–428
+    note: In Dialogform zwischen Lehrer und Schüler; mit sechs Bildseiten.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

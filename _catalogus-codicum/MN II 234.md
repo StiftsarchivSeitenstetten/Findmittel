@@ -13,13 +13,17 @@ ms_contents:
   items:
   - label: a
     title: Prooemium
-    locus: S. 13–14
+    locus: p. 13–14
+    incipits:
+    - text: A Caligine ad lucem, â famula ad Dominam, â Lippiente Lia ad Speciosam Rachaelem (!)........
+    title_status: unspecified
   - label: b
     title: Quaestio Prolegomenalis De Artymologia (= Etymologia), Natura, et obiecto Physicae
-    locus: S. 15–30
+    locus: p. 15–30
+    title_status: unspecified
   - label: c
     title: Tractatus Primus In Octo Libros Physicorum Aristotelis De Physico Auditu
-    locus: S. 31–624
+    locus: p. 31–624
     dated_notes:
     - locus: S. 209
       date_display: 23. November, Jahr nicht angegeben
@@ -27,23 +31,52 @@ ms_contents:
       date: '1709-01-03'
     - locus: S. 624
       date_display: 13. April, Jahr nicht angegeben
+    incipits:
+    - text: Quinque tractatibus Philosophus Universam absolvit Physicam, ......
+    colophons:
+    - locus: p. 209
+      text: Absolvimus 23. Novembris ante prandium In Festo. S. Clementis Martyris et Pontificis.
+    - locus: p. 624
+      text: 'Absolvimus 13. Aprilis: ante prandium.'
+    title_status: unspecified
   - label: d
     title: Tractatus Secundus In Quatuor libros de Coelo et mundo
-    locus: S. 625–685
+    locus: p. 625–685
     end_date: '1709-05-08'
+    incipits:
+    - text: Post examinatam naturam corporis naturalis in communi.
+    colophons:
+    - text: Absolvimus 8. Maii in Vigilia Ascensionis Domini Nostri post prandium 1709.
+    title_status: unspecified
   - label: e
     title: Tractatus Tertius In 2 Libros De Ortu et Interitu
-    locus: S. 686–750
+    locus: p. 686–750
+    incipits:
+    - locus: p. 687
+      text: Praeliminaria. Praecipuas nascentium et intereuntium corporum affectiones.....
+    title_status: unspecified
   - label: f
     title: Disputatio 2. (!) In Libros Meteorum Aristotelis
-    locus: S. 750–795
+    locus: p. 750–795
     end_date: '1709-07-01'
+    incipits:
+    - text: In arena naturae te ingeris misteria Philosophe, ......
+    colophons:
+    - text: Absolvimus hunc tractatum 1. Julii post prandium 1709.
+    title_status: unspecified
   - label: g
     title: Disputatio Tertia De Anima
-    locus: S. 796–867
+    locus: p. 796–867
+    incipits:
+    - text: Corporis naturalis praecipuam partem
+    title_status: unspecified
   - label: h
     title: Disputatio Ultima De Residuis, quae ad Metaphysicam spectant
-    locus: S. 868–892
+    locus: p. 868–892
+    incipits:
+    - text: Disputatio haec est et ultima ab Aristotele.....
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

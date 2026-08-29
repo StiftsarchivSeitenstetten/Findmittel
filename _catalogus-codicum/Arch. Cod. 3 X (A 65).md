@@ -13,35 +13,76 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 3 X (A 65).
   items:
   - label: a
-    catalog_statement: 'Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum:
-      p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.)'
+    catalog_statement: 'Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium
+      primum additum est, cum tomus noster tegumento includeretur.)'
+    title: Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum
+    locus: p. 1
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad
-      vocem Absolutio: p. 3.'
+    catalog_statement: 'Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio: p.
+      3.'
+    title: Minimum fragmentum Lexici Theologici aut Canonistici continens Litteram A a voce Abortum usque ad vocem Absolutio
+    locus: p. 3
+    title_status: unspecified
   - label: c
-    catalog_statement: 'Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt
-      Jesu Christi. (Sequentia Lauda Sion Latine et Germanice): p. 7–14.'
+    catalog_statement: 'Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia
+      Lauda Sion Latine et Germanice): p. 7–14.'
+    title: Der (!) Sequens von dem allerheyligisten Sacrament des Leibs, und Blueths unsers einigen (?) Heylandt Jesu Christi. (Sequentia Lauda
+      Sion Latine et Germanice)
+    locus: p. 7–14
+    title_status: unspecified
   - label: d
-    catalog_statement: 'Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24.
-      (Videtur haec pars tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque
-      ad Alexandrum VIII 1689–1691 postea adderentur. Tota Prophetia Latine composita est.)'
+    catalog_statement: 'Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis: p. 15–24. (Videtur haec pars
+      tempore Innocentii X Pontificis Maximi 1644–1655 scripta esse, cum nomina Pontificum Maximorum usque ad Alexandrum VIII 1689–1691 postea
+      adderentur. Tota Prophetia Latine composita est.)'
+    title: Prophetia Sancti Malachiae Monacho Penchorensi Archi-Episcopi Ardinensis Hiberniae Primatis
+    locus: p. 15–24
+    title_status: unspecified
   - label: e
     catalog_statement: 'Verzaichnis der Siben Privilegierten Altär zu Rom (Germanice): p. 24–39.'
+    title: Verzaichnis der Siben Privilegierten Altär zu Rom (Germanice)
+    locus: p. 24–39
+    title_status: unspecified
   - label: f
     catalog_statement: 'Oraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur: p. 40–41.'
+    title: Oraculum Celeberrimum, quod divinitus Sancto Patri Benedicto factum fuisse perhibetur
+    locus: p. 40–41
+    title_status: unspecified
   - label: g
     catalog_statement: '(Variae Indulgentiae): p. 41–48 (p. 45 sub Clemente X Pontifice Maximo 1670–1676 scripta est.)'
+    title: Variae Indulgentiae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 41–48
   - label: h
     catalog_statement: '(Poemata spiritualia Latina): p. 49–59.'
+    title: Poemata spiritualia Latina
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 49–59
   - label: i
     catalog_statement: 'Indulgentiae Coronis Domini nostri Jesu Christi concessae: p. 60/64.'
+    title: Indulgentiae Coronis Domini nostri Jesu Christi concessae
+    locus: p. 60/64
+    title_status: unspecified
   - label: j
     catalog_statement: '(Poemata spiritualia Latina, partim cum translatione Germanica): p. 65–87.'
+    title: Poemata spiritualia Latina, partim cum translatione Germanica
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 65–87
   - label: k
     catalog_statement: 'Arbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft...: p. 88–89.'
+    title: Arbor Consanguinitatis Illustrissimae, Antiquissimae Dominorum Comitum à Stil et Hefft
+    locus: p. 88–89
+    title_status: unspecified
   - label: l
-    catalog_statement: 'Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius
-      Seittenstettensis Asceterii Abbatibus Habitorum: p. 91–101.'
+    catalog_statement: 'Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis
+      Asceterii Abbatibus Habitorum: p. 91–101.'
+    title: Syllabus Sive Succincta descriptio Nominum, Vitarum, Operumque â Reverendissimis Dominis Dominis Huius Seittenstettensis Asceterii
+      Abbatibus Habitorum
+    locus: p. 91–101
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

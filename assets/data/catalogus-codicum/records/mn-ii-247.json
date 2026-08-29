@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-247",
   "signature": "MN II 247",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "191",
   "heading": {
     "title": "Theologia Recentioristica. De Incarnatione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1717"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Theologia Recentioristica. De Incarnatione",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Mysterio Incarnationis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–298",
+      "locus": "p. 7",
       "language": "",
+      "incipits": [
+        {
+          "text": "Admirandum verbi incarnati verbi mysterium",
+          "id": "incipit-1"
+        },
+        {
+          "label": "Tractatus De Mysterio Incarnationis",
+          "text": "p. 7: Admirandum verbi incarnati verbi mysterium......",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Admirandum verbi incarnati verbi mysterium"
+        "text": "Admirandum verbi incarnati verbi mysterium",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,13 +83,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Quaedam notata circa Incarnationem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 299–302",
+      "locus": "p. 299–302",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -154,13 +176,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-247/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 247",
     "titles": "Theologia Recentioristica. De Incarnatione \nTractatus De Mysterio Incarnationis \nQuaedam notata circa Incarnationem",
-    "persons": "P. Sigismund Busch SJ Dozent lecturer \nFr. Andreas Bischoff Schreiber scribe",
-    "incipits": "Admirandum verbi incarnati verbi mysterium",
+    "persons": "P. Sigismund Busch SJ Dozent lecturer Universität Graz \nFr. Andreas Bischoff Schreiber scribe Seitenstetten",
+    "incipits": "Admirandum verbi incarnati verbi mysterium \np. 7: Admirandum verbi incarnati verbi mysterium......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n304 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n304 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "304 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.\n\n**Neuere Theologie. Über die Menschwerdung**, von P. Sigismund Busch SJ, Doktor der freien Künste und Philosophie sowie Doktor und amtierender Professor der heiligen Theologie an der Universität Graz und Dekan derselben Fakultät, 1717.\n\nDas beigefügte Zeichen zeigt sicher, dass Schreiber Fr. Andreas Bischoff der Jüngere aus Seitenstetten war – oder damals noch Student; siehe dazu MN II 245 und 246.\n\nAnfang der Abhandlung über das Geheimnis der Menschwerdung S. 7: Das wunderbare Geheimnis des fleischgewordenen Wortes......\n\nAm Ende der Abhandlung folgen S. 299–302 **Einige Notizen zur Menschwerdung**.",
+    "latin": "304 pagg.; teg. a1; script. 1717\n\nTheologia Recentioristica. De Incarnatione. Ab .....Patre Sigismundo Busch. Societatis Jesu Artium Liberalium et Philosophiae Doctore in alma universitate Graecensi Sacrosanctae Theologiae Doctore et Professore actuali. eiusdemque Decano spectabili Jesuita sincero. nec non corde et animo Benedictino verissimo. Anno 1717.\n\nHoc signum certe scriptorem esse F. Andream Bischoff Juniorem Seitenstettensem (aut Studiosum? vide supra p. 189/90 ad codices MN II 245 et 246!) indicat.\n\nInitium Tractatus De Mysterio Incarnationis: p. 7: Admirandum verbi incarnati verbi mysterium......\n\nIn fine tractatus adduntur p. 299–302 Quaedam notata circa Incarnationem."
   }
 }

@@ -61,7 +61,7 @@
     }
 
     function titleBadge(typeRaw, typeLabel) {
-        if (!typeRaw) { return null; }
+        if (!typeRaw || typeRaw === "unspecified") { return null; }
         var badge = el("span", "catalogus-badge");
         if (typeRaw === "supplied" || typeRaw === "inferred") {
             badge.classList.add("catalogus-badge-supplied");
@@ -70,9 +70,9 @@
         return badge;
     }
 
-    function renderPersons(persons, heading) {
+    function renderPersons(persons, heading, id) {
         if (!Array.isArray(persons) || !persons.length) { return null; }
-        var wrapper = heading ? section(heading) : document.createDocumentFragment();
+        var wrapper = heading ? section(heading, id) : document.createDocumentFragment();
         var list = el("ul", "catalogus-person-list");
         persons.forEach(function (person) {
             var li = el("li");
@@ -94,13 +94,20 @@
         return wrapper;
     }
 
-    function incipitBlock(label, data) {
+    function incipitBlock(label, data, id) {
         if (!hasValue(data)) { return null; }
         var box = el("div", "catalogus-inc-exp");
-        box.appendChild(el("strong", "", label + ": "));
+        if (id) { box.id = id; }
+        var head = label;
+        if (typeof data === "object" && !Array.isArray(data)) {
+            if (data.label) { head += " — " + data.label; }
+            if (data.locus) { head += " (" + data.locus + ")"; }
+        }
+        box.appendChild(el("strong", "", head + ": "));
         if (typeof data === "object" && !Array.isArray(data)) {
             var parts = [];
-            if (data.original) { parts.push(data.original); }
+            if (data.text) { parts.push(data.text); }
+            else if (data.original) { parts.push(data.original); }
             if (data.translation) { parts.push("Übersetzung: " + data.translation); }
             if (!parts.length) { parts.push(humanValue(data)); }
             box.appendChild(document.createTextNode(parts.join(" — ")));
@@ -108,6 +115,14 @@
             box.appendChild(document.createTextNode(humanValue(data)));
         }
         return box;
+    }
+
+    function renderTextEntries(article, label, entries, itemId, kind) {
+        if (!Array.isArray(entries) || !entries.length) { return; }
+        entries.forEach(function (entry, index) {
+            var box = incipitBlock(label, entry, itemId + "-" + kind + "-" + (index + 1));
+            if (box) { article.appendChild(box); }
+        });
     }
 
     function renderItem(item, depth) {
@@ -125,14 +140,18 @@
 
         var metaParts = [];
         if (item.locus) { metaParts.push(item.locus); }
+        if (item.physicalUnit) { metaParts.push("Physische Einheit: " + item.physicalUnit); }
         if (item.language) { metaParts.push("Sprache: " + item.language); }
         if (item.type) { metaParts.push(item.type); }
         if (metaParts.length) { article.appendChild(el("p", "catalogus-item-meta", metaParts.join(" · "))); }
 
-        var inc = incipitBlock("Incipit", item.incipit);
-        if (inc) { article.appendChild(inc); }
-        var exp = incipitBlock("Explicit / Colophon", item.explicit);
-        if (exp) { article.appendChild(exp); }
+        renderTextEntries(article, "Incipit", item.incipits || (item.incipit ? [item.incipit] : []), item.id, "incipit");
+        renderTextEntries(article, "Explicit", item.explicits || [], item.id, "explicit");
+        renderTextEntries(article, "Kolophon", item.colophons || [], item.id, "colophon");
+        if ((!item.explicits || !item.explicits.length) && (!item.colophons || !item.colophons.length) && item.explicit) {
+            var legacyExp = incipitBlock("Explicit / Kolophon", item.explicit, item.id + "-explicit-1");
+            if (legacyExp) { article.appendChild(legacyExp); }
+        }
 
         if (Array.isArray(item.dates) && item.dates.length) {
             var dates = item.dates.map(function (entry) { return entry.display; }).filter(Boolean);
@@ -179,6 +198,36 @@
         addDefinition(dl, "Lagen / Kollation", p.collation);
         addDefinition(dl, "Layout", p.layout);
         wrapper.appendChild(dl);
+        return wrapper;
+    }
+
+    function renderPhysicalUnits(record) {
+        var units = record.physicalUnits || [];
+        if (!Array.isArray(units) || !units.length) { return null; }
+        var wrapper = section("Physische Einheiten");
+        wrapper.appendChild(el("p", "catalogus-record-status", "Dieser Abschnitt zeigt nur physische Einheiten, die in den strukturierten Masterdaten ausdrücklich mit Inhaltseinheiten verknüpft sind."));
+        units.forEach(function (unit) {
+            var article = el("article", "catalogus-item");
+            article.id = unit.id;
+            article.appendChild(el("h4", "", unit.label || "Physische Einheit"));
+            if (Array.isArray(unit.titles) && unit.titles.length) {
+                var list = el("ul", "catalogus-note-list");
+                unit.titles.forEach(function (title, index) {
+                    var li = el("li");
+                    var itemId = Array.isArray(unit.itemIds) ? unit.itemIds[index] : "";
+                    if (itemId) {
+                        var a = el("a", "", title);
+                        a.href = "#" + itemId;
+                        li.appendChild(a);
+                    } else {
+                        li.textContent = title;
+                    }
+                    list.appendChild(li);
+                });
+                article.appendChild(list);
+            }
+            wrapper.appendChild(article);
+        });
         return wrapper;
     }
 
@@ -242,11 +291,15 @@
         var additions = record.additions || [];
         var editorial = record.editorialNotes || [];
         if (!additions.length && !editorial.length) { return null; }
-        var wrapper = section("Weitere Vermerke und redaktionelle Hinweise");
+        var wrapper = section("Weitere Vermerke und redaktionelle Hinweise", "additions");
         if (additions.length) {
             wrapper.appendChild(el("h4", "", "Historische Vermerke / Ergänzungen"));
             var additionsList = el("ul", "catalogus-note-list");
-            additions.forEach(function (entry) { additionsList.appendChild(el("li", "", humanValue(entry))); });
+            additions.forEach(function (entry, index) {
+                var li = el("li", "", humanValue(entry));
+                li.id = "addition-" + (index + 1);
+                additionsList.appendChild(li);
+            });
             wrapper.appendChild(additionsList);
         }
         if (editorial.length) {
@@ -319,19 +372,24 @@
             if (overviewData.part) { overviewMeta.push("Teil: " + overviewData.part); }
             if (overviewData.completeness) { overviewMeta.push("Erhaltungs-/Vollständigkeitsangabe: " + overviewData.completeness); }
             if (overviewMeta.length) { contents.appendChild(el("p", "catalogus-item-meta", overviewMeta.join(" · "))); }
-            var overviewInc = incipitBlock("Incipit", overviewData.incipit);
-            if (overviewInc) { contents.appendChild(overviewInc); }
-            var overviewExp = incipitBlock("Explicit / Colophon", overviewData.explicit);
-            if (overviewExp) { contents.appendChild(overviewExp); }
+            renderTextEntries(contents, "Incipit", overviewData.incipits || (overviewData.incipit ? [overviewData.incipit] : []), "contents-overview", "incipit");
+            renderTextEntries(contents, "Explicit", overviewData.explicits || [], "contents-overview", "explicit");
+            renderTextEntries(contents, "Kolophon", overviewData.colophons || [], "contents-overview", "colophon");
+            if ((!overviewData.explicits || !overviewData.explicits.length) && (!overviewData.colophons || !overviewData.colophons.length) && overviewData.explicit) {
+                var overviewExp = incipitBlock("Explicit / Kolophon", overviewData.explicit, "contents-overview-explicit-1");
+                if (overviewExp) { contents.appendChild(overviewExp); }
+            }
             if (overviewData.note) { contents.appendChild(el("p", "", overviewData.note)); }
             (record.contents || []).forEach(function (item) { contents.appendChild(renderItem(item, 0)); });
             content.appendChild(contents);
         }
 
-        var persons = renderPersons(record.persons, "Personen");
+        var persons = renderPersons(record.persons, "Personen", "persons");
         if (persons) { content.appendChild(persons); }
         var physical = renderPhysical(record);
         if (physical) { content.appendChild(physical); }
+        var physicalUnits = renderPhysicalUnits(record);
+        if (physicalUnits) { content.appendChild(physicalUnits); }
         var history = renderHistory(record);
         if (history) { content.appendChild(history); }
         var relations = renderRelations(record);

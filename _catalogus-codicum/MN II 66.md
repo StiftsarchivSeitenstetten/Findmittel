@@ -15,19 +15,49 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Casisticus De Actibus humanis
-    locus: S. 1–176
+    locus: p. 1–176
     date: 1655
+    incipits:
+    - locus: p. 1
+      label: Praefationis in Casus Conscientiae
+      text: Theologia secundum Ethimologiam nominis sermonem de Deo, rebusque Divinis significat....
+    colophons:
+    - locus: p. 176
+      text: finivi Anno 1655. 19 Maii.
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De vitiis et peccatis
-    locus: S. 181–310
+    locus: p. 1–129
     date: 1655
+    incipits:
+    - locus: p. 181
+      text: peccatum est dictum, factum vel concupitum.....
+    colophons:
+    - locus: p. 310
+      text: Finivi Salisburgi Anno 1655. 9. Junii.
+    title_status: unspecified
   - label: c
     title: Tractatus De Legibus
-    locus: S. 314–449
+    locus: p. 1–136
     date: 1654
+    incipits:
+    - locus: p. 314
+      label: Praefationis In Tractatum De Legibus
+      text: De legibus agere etiam ad Theologum Moralem spectat....
+    colophons:
+    - locus: p. 449
+      text: Absolvimus hunc tractatum Anno 1654 18 Martii.
+    title_status: supplied
+    title_source: cataloguer
   - label: d
     title: Tractatus De Censuris
-    locus: S. 449–557
+    locus: p. 136–244
+    incipits:
+    - locus: p. 449
+      label: Praefationis In Tractatum de Censuris
+      text: Notitia de censuris Ecclesiasticis.....
+    title_status: supplied
+    title_source: cataloguer
   responsibility:
   - role: scribe
     name: Fr. Johann Merck

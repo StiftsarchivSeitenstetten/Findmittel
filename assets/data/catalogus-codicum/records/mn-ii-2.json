@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-2",
   "signature": "MN II 2",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "7",
   "heading": {
-    "title": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa)",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1615"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Physikvorlesungen Caspar Lechners, mitgeschrieben von Georg Reitter.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 448",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "text": "Philosophia vi nominis considerata....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "text": "Philosophia vi nominis considerata....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +88,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Libri II. De Generatione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 79",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. (454",
+          "label": "Prooemii",
+          "text": "Quodnam sit duorum de generatione librorum subiectum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. (454",
+        "label": "Prooemii",
+        "text": "Quodnam sit duorum de generatione librorum subiectum....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -161,13 +196,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-2/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 2",
-    "titles": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nTractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nLibri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
-    "persons": "P. Caspar Lechner author lecturer author_lecturer \nGeorg Reitter Schreiber scribe",
-    "incipits": "",
+    "titles": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa) \nTractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa) \nLibri II. De Generatione",
+    "persons": "P. Caspar Lechner author lecturer author_lecturer  \nGeorg Reitter Schreiber scribe ",
+    "incipits": "Philosophia vi nominis considerata.... \nQuodnam sit duorum de generatione librorum subiectum....",
     "explicits": "",
     "notes": "Physikvorlesungen Caspar Lechners, mitgeschrieben von Georg Reitter. \nTractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nLibri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
-    "physical": "Papier \n448 Seiten + 5 Seiten + 81 Blätter (= 615 Seiten) \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "physical": "Papier \n448 Seiten + 5 Seiten + 81 Blätter (= 615 Seiten) \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "448 Seiten + 5 Seiten + 81 Blätter = 615 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1615.\n\n**a) Abhandlung zu den acht Büchern der Physik**, diktiert von dem ehrwürdigen P. Caspar Lechner, Professor der Philosophie, mitgeschrieben von Georg Reitter, Student derselben Fakultät. MDXV (Fehler! richtig: 1615, wie auf der Vorderseite des Einbandes): S. 1–448. (Siehe den Schlussvermerk S. 443!)\n\nAnfang der Vorrede S. 1: **Wenn man die Philosophie nach der Bedeutung des Namens betrachtet....**\n\n**b) Zwei Bücher Über Werden und Entstehen:** Bl. 1–79 (= S. 454–612).\n\nAnfang der Vorrede S. (454): **Was der Gegenstand der beiden Bücher über das Werden sei....**",
+    "latin": "448 pagg. + 5 pagg. + 81 foll. = 615 pagg.; teg. a1; scr. 1615\n\na) Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)\n\nInitium Prooemii p. 1: Philosophia vi nominis considerata....\n\nb) Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)\n\nInitium Prooemii p. (454): Quodnam sit duorum de generatione librorum subiectum...."
   }
 }

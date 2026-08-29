@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-268",
   "signature": "MN II 268",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "214",
   "heading": {
     "title": "Scripta propria F. Francisci professi Seittenstettensis ex Theologia Speculativa Salisburgensi 1735",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1735"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Scripta propria F. Francisci professi Seittenstettensis ex Theologia Speculativa Salisburgensi 1735",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus in Primam Secundae S. Thomae Aquinatis Doctoris Angelici de Gratia Divina",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–164",
+      "locus": "p. 3–164",
       "language": "",
+      "incipits": [
+        {
+          "text": "S. Thomas hic prima secundae quaestione 109, à qua....",
+          "locus": "p. 3",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "S. Thomas hic prima secundae quaestione 109, à qua"
+        "text": "S. Thomas hic prima secundae quaestione 109, à qua....",
+        "locus": "p. 3",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +87,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologico speculativus de Paenitentia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 171–387",
+      "locus": "p. 171–387",
       "language": "",
+      "incipits": [
+        {
+          "text": "A Sacramento Eucharistiae et sacrificio missae,....",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "A Sacramento Eucharistiae et sacrificio missae"
+        "text": "A Sacramento Eucharistiae et sacrificio missae,....",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -90,15 +119,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus de extrema unctione, ordine et Matrimonio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 387–407",
+      "locus": "p. 387–407",
       "language": "",
+      "incipits": [
+        {
+          "text": "Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae"
+        "text": "Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae,.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -110,15 +149,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Polemico-Historicus In quo Alma Romano-Catholica Veritas de Venerabili, Amabili, et Admirabili Sacrosanctae Eucharistiae Sacramento contra nefandas impudentissimorum Sacramentariorum haereses demonstratur et propugnatur",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 419–447",
+      "locus": "p. 419–447",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quemadmodum noctuis, et bubonibus nihil magis inimicum luce, .....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quemadmodum noctuis, et bubonibus nihil magis inimicum luce"
+        "text": "Quemadmodum noctuis, et bubonibus nihil magis inimicum luce, .....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -217,13 +266,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-268/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 268",
     "titles": "Scripta propria F. Francisci professi Seittenstettensis ex Theologia Speculativa Salisburgensi 1735 \nTractatus Theologicus in Primam Secundae S. Thomae Aquinatis Doctoris Angelici de Gratia Divina \nTractatus Theologico speculativus de Paenitentia \nTractatus Theologicus de extrema unctione, ordine et Matrimonio \nTractatus Polemico-Historicus In quo Alma Romano-Catholica Veritas de Venerabili, Amabili, et Admirabili Sacrosanctae Eucharistiae Sacramento contra nefandas impudentissimorum Sacramentariorum haereses demonstratur et propugnatur",
-    "persons": "Fr. Franciscus Vogl Schreiber scribe \nP. Alanus Ritter Dozent lecturer \nP. Corbinian Thomag Autor author \nP. Placidus Renz Dozent lecturer",
-    "incipits": "S. Thomas hic prima secundae quaestione 109, à qua \nA Sacramento Eucharistiae et sacrificio missae \nCum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae \nQuemadmodum noctuis, et bubonibus nihil magis inimicum luce",
+    "persons": "Fr. Franciscus Vogl Schreiber scribe Seitenstetten \nP. Alanus Ritter Dozent lecturer Kloster Wessobrunn / Universität Salzburg \nP. Corbinian Thomag Autor author Kloster Elchingen / Universität Salzburg \nP. Placidus Renz Dozent lecturer Kloster Weingarten / Universität Salzburg",
+    "incipits": "S. Thomas hic prima secundae quaestione 109, à qua.... \nA Sacramento Eucharistiae et sacrificio missae,.... \nCum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae,..... \nQuemadmodum noctuis, et bubonibus nihil magis inimicum luce, .....",
     "explicits": "",
     "notes": "Die letzte Frage S. 146–164 handelt De virtutibus Theologicis.",
-    "physical": "Papier \n468 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n468 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "468 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1735.\n\n**Eigene Aufzeichnungen des Fr. Franciscus Vogl, Profess von Seitenstetten, aus der spekulativen Theologie in Salzburg 1735.**\n\na) **Theologische Abhandlung zur Prima Secundae des hl. Thomas von Aquin über die göttliche Gnade:** S. 3–164; die letzte Frage S. 146–164 behandelt die theologischen Tugenden. Auf der ersten Seite jedes Ternions steht am oberen Rand: **Clarissimi D(omini) P. Alani**, also P. Alanus Ritter, Profess von Wessobrunn und Professor in Salzburg; vgl. auch die Rückenaufschrift *Tractatus De Gratia P. A. Ritter*. Anfang der Vorrede S. 3: Der hl. Thomas behandelt hier in der Prima Secundae ab Frage 109,....\n\nb) **Theologisch-spekulative Abhandlung über die Buße:** S. 171–387. Anfang der Vorrede: Vom Sakrament der Eucharistie und dem Messopfer,....\n\nc) **Theologische Abhandlung über Letzte Ölung, Weihe und Ehe:** S. 387–407. Anfang: Da nach den durch das Sakrament der Buße getilgten Sünden gewisse Rückstände gleichsam zurückbleiben,.....\n\nAuf der ersten Seite jedes Ternions steht am oberen Rand: **Clarissimi D(omini) P. Corbiniani**, also P. Corbinian Thomag, Profess von Elchingen und Professor in Salzburg. Er ist sicher Verfasser der Teile b und c.\n\nd) **Polemisch-historische Abhandlung, in der die römisch-katholische Wahrheit über das ehrwürdige, liebenswerte und wunderbare Sakrament der heiligsten Eucharistie gegen die gottlosen Häresien der schamlosesten Sakramentierer dargelegt und verteidigt wird:** S. 419–447. Am oberen Rand von S. 419 steht: **Primus (Ternio) ex controversiis Reverendi P. Placidi Renz**, also P. Placidus Renz, Profess von Weingarten und Professor in Salzburg. Anfang: Wie den Nachtvögeln und Eulen nichts feindlicher ist als das Licht,.....\n\nWenigstens die Vorlesungen von Teil a scheinen im Studienjahr 1734/35 diktiert worden zu sein, denn am Ende dieses Jahres verließ P. Alanus Ritter die Universität Salzburg.",
+    "latin": "468 pagg.; teg. c3d; script. 1735\n\n**Scripta propria F. Francisci (Vogl) professi Seittenstettensis ex Theologia Speculativa Salisburgensi 1735.**\n\na) Tractatus Theologicus in Primam Secundae S. Thomae Aquinatis Doctoris Angelici de Gratia Divina: p. 3–164 (Quaestio ultima p. 146–164 De virtutibus Theologicis). Nota in margine superiore primae cuiusque Ternionis paginae: **Clarissimi D(omini) P. Alani (Ritter, professi Wessofontani et professoris Salisburgensis; vide etiam inscriptionem dorsi: Tractatus De Gratia P. A. Ritter!)** Initium Proemii p. 3: **S. Thomas hic prima secundae quaestione 109, à qua....**\n\nb) Tractatus Theologico speculativus de Paenitentia: p. 171–387.  \nInitium Proemii: **A Sacramento Eucharistiae et sacrificio missae,....**\n\nc) Tractatus Theologicus de extrema unctione, ordine et Matrimonio: p. 387–407.  \nInitium: **Cum ex peccatis per paenitentiae Sacramentum deletis remaneant quaedam ex illis veluti reliquiae,.....**\n\nIn margine superiore primae cuiusque Ternionis paginae nota: **Clarissimi D(omini) P. Corbiniani (Thomag Elchingensis professi et Salisburgensis professoris; qui certo auctor est tam partis b quam c)**\n\nd) Tractatus Polemico-Historicus In quo Alma Romano-Catholica Veritas de Venerabili, Amabili, et Admirabili Sacrosanctae Eucharistiae Sacramento contra nefandas impudentissimorum Sacramentariorum haereses demonstratur et propugnatur: p. 419–447. Nota in margine superiore p. 419: **Primus (Ternio) ex controversiis Reverendi P. Placidi Renz (professi Weingartensis et professoris Salisburgensis).** Initium: **Quemadmodum noctuis, et bubonibus nihil magis inimicum luce, .....**\n\nSaltem partis a lectiones videntur esse dictatae anno scholari 1734–1735; nam in cuius anni fine P. Alanus Ritter universitatem Salisburgensem reliquit."
   }
 }

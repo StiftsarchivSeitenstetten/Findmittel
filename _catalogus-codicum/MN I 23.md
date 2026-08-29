@@ -13,19 +13,21 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 23"
 ms_contents:
-  overall_title:
-    title: "Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides."
-    title_type: "original"
-    language: "la"
   responsibility:
-    - role: "author"
-      name: "Mathias Beyr"
+  - role: author
+    name: Mathias Beyr
   part:
     number: 1
-    designation: "Salus a Patre seu Fides"
+    designation: Salus a Patre seu Fides
   relations:
-    - type: "continued_by"
-      target: "[[MN I 24]]"
+  - type: continued_by
+    target: '[[MN I 24]]'
+  items:
+  - title: Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus
+      a Patre seu Fides.
+    title_status: unspecified
+    languages:
+    - la
 phys_desc:
   object_form: "codex"
   format: "Großquart"

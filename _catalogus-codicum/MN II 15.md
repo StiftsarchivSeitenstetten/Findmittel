@@ -16,11 +16,39 @@ ms_contents:
   summary: Drei naturphilosophische Vorlesungsteile Simon Fyrbas’ zu Himmel, Werden und Meteorologie.
   items:
   - label: a
-    catalog_statement: '*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index'
+    catalog_statement: '*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate
+      Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105
+      Index'
+    title: Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore
+      ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630
+    locus: fol. 1 - 105
+    title_status: unspecified
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Nunc tandem Deo duce ad caelestia....
   - label: b
-    catalog_statement: '*Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191)'
+    catalog_statement: '*Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis
+      in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten
+      eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191)'
+    title: Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho,
+      Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem
+      professo. Anno M.DC. XXX (1630)
+    title_status: unspecified
+    incipits:
+    - locus: fol. 1
+      label: Prooemii
+      text: Ea rerum naturalium conditio est,....
   - label: c
     catalog_statement: '*Materia quatuor Librorum Meteorologicorum:* 36 foll. (= 193 - 229)'
+    title: Materia quatuor Librorum Meteorologicorum
+    title_status: unspecified
+    incipits:
+    - label: Prooemii
+      text: A simplicibus progrediendum est ad composita....
+    colophons:
+    - locus: fol. 36
+      text: Absolvimus hos de meteoris libros 8. Maii 1630.
 phys_desc:
   object_form: codex
   support: Papier

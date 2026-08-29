@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-32",
   "signature": "MN II 32",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "21–22",
   "heading": {
     "title": "Compendium perbreve ex Casibus R. P. Gretseri.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1637/38"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Compendium perbreve ex Casibus R. P. Gretseri.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,16 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Compendium perbreve ex Casibus R. P. Gretseri.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–262",
+      "locus": "p. 262",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "text": "31. Jan. 1638",
+          "locus": "p. 262",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
       "explicit": {
-        "text": "31. Jan. 1638"
+        "text": "31. Jan. 1638",
+        "locus": "p. 262",
+        "id": "explicit-1"
       },
       "notes": [
         {
@@ -71,15 +86,29 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 263–271",
+      "locus": "p. 263 - 271",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "locus": "p. 262",
+          "text": "31. Jan. 1638",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 262",
+        "text": "31. Jan. 1638",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -173,13 +202,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-32/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 32",
     "titles": "Compendium perbreve ex Casibus R. P. Gretseri. \nCompendium perbreve ex Casibus R. P. Gretseri. \nIndex",
-    "persons": "P. Jacob Gretser SJ Autor author \nunbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "P. Jacob Gretser SJ Autor author  \nunbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
-    "explicits": "31. Jan. 1638",
+    "explicits": "31. Jan. 1638 \n31. Jan. 1638",
     "notes": "Enthält Traktate über die Sünden und das Bußsakrament, Gesetze, Ablässe, Zensuren, theologische und Kardinaltugenden, widernatürliche Laster und die Feiertagsbeobachtung. \nVom Katalog verwendete strukturelle Inhaltsbezeichnung. \nEin stark verblasster Bleistiftnachtrag auf der folgenden Leerseite ist nur fragmentarisch lesbar.",
-    "physical": "Papier \n262 Seiten + Register S. 263–271 \nQuartformat \ndescription: Einband aus einem vollständigen Pergamentblatt mit Musiknotation des 15. Jahrhunderts."
+    "physical": "Papier \n262 Seiten + Register S. 263–271 \nQuartformat \ndescription: Einband aus einem vollständigen Pergamentblatt mit Musiknotation des 15. Jahrhunderts.",
+    "german": "262 Seiten + Register S. 263–271; Einband aus einem vollständigen Pergamentblatt, das mit kunstvoll geschriebenen Musiknoten des 15. Jahrhunderts versehen ist; geschrieben 1637/38.\n\n**Sehr kurzes Kompendium aus den Gewissensfällen des ehrwürdigen P. Gretser.** (Dieses Kompendium scheint aus irgendeinem Werk des berühmten P. Jacob Gretser SJ, † 1625, ausgewählt zu sein, obwohl es in der großen Regensburger Ausgabe seiner Werke von 1734 ff. in 17 Bänden nicht zu finden ist.) Schlussvermerk S. 262: **31. Januar 1638.**\n\nDieses Kompendium enthält Abhandlungen über die Sünden im Allgemeinen und das Sakrament der Buße; über die Gesetze; über Ablässe; über Zensuren; über die theologischen Tugenden; über die Kardinaltugenden; über widernatürliche Laster; über die Beobachtung der Feiertage.\n\nRückenaufschrift: **M. S. Casistica de peccatis et Paenitentia sub P. Gretsero.**\n\n[Auf der folgenden Leerseite befindet sich ein handschriftlicher Nachtrag im unteren Drittel. Der Bleistifteintrag ist stark verblasst und in der Reproduktion nur fragmentarisch lesbar. Sicher erkennbar sind unter anderem Verweise auf **bibliotheca Seittenstetten**, **R. P. F.**, **P. Philippus Francis** sowie die Randangabe **31A**. Der Nachtrag wird bis zu einer gesonderten paläographischen Detailprüfung nicht normalisiert transkribiert.]",
+    "latin": "262 pagg. + Index p. 263 - 271; tegumentum e folio membranaceo completo modis musicis ornate scriptis (saec. XV); script. 1637/38\n\n*Compendium perbreve ex Casibus R. P. Gretseri.* (Videtur hoc compendium electum esse e opere quodam praeclari illius P. Jacobi Gretseri S. J., + 1625, etsi in editione maxima operum eius, Ratisponae 1734 seqq., 17 Tomi, non invenitur.) Clausula p. 262: 31. Jan. 1638\n\nContinet istud compendium tractatus de peccatis in genere et Sacramento Paenitentiae; de Legibus; de Indulgentiis, de Censuris, de Virtutibus Theologicis, de Virtutibus Cardinalibus, de Vitiis contra Naturam, de Observatione festorum.\n\nInscriptio in dorso: M. S. Casistica de peccatis et Paenitentia sub P. Gretsero.\n\n\n\n[Leerseite mit handschriftlichem Nachtrag im unteren Drittel. Der Bleistifteintrag ist stark verblasst und in dieser Reproduktion nur fragmentarisch lesbar. Sicher erkennbar sind u. a. Verweise auf \"bibliotheca Seittenstetten\", \"R. P. F.\", \"P. Philippus Francis\" sowie die Randangabe \"31A\". Der Nachtrag wird bis zu einer gesonderten paläographischen Detailprüfung nicht normalisiert transkribiert.]"
   }
 }

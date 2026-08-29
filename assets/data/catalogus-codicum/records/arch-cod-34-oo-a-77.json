@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-oo-a-77",
   "signature": "Arch. Cod. 34 OO (A 77)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "223",
   "heading": {
-    "title": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1736 et 1748"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 OO (A 77).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–62",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748: p. 63–68",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -142,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-oo-a-77/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 OO (A 77)",
-    "titles": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62 \nItinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62 \nItinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748: p. 63–68",
-    "persons": "P. Benedictus Veit author and scribe author_and_scribe",
+    "titles": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736 \nItinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736 \nItinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748",
+    "persons": "P. Benedictus Veit author and scribe author_and_scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 OO (A 77). \nItinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62 \nItinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748: p. 63–68",
-    "physical": "Papier \n152 pagg. \nKleines Oktavformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "physical": "Papier \n152 pagg. \nKleines Oktavformat \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 152 Seiten; Holzdeckeleinband, Rücken und Kanten mit Pergamentfragmenten verstärkt – das Rückenfragment ist im 16. Jahrhundert beschrieben –, Rückdeckel mit rotem Papier bezogen; geschrieben 1736 und 1748.\n\na) **Reise der Seitenstettner Brüder Benedictus Veit, Romanus Gengl und Bernardus Prevenhueber von Salzburg (?) durch Bayern und Schwaben zur seligsten Jungfrau von Einsiedeln, 1736:** S. 1–62.\n\nb) **Sehr kurz zusammengefasster Reisebericht meiner Wallfahrt zum hl. Johannes Nepomuk in Prag**, die ich nach Abschluss des Philosophiekurses zusammen mit P. Rupert Sterch aus Admont, damals Professor des kanonischen Rechts, 1748 unternahm: S. 63–68.\n\nDa **P. Benedictus Veit** von 1746 bis 1748 in Salzburg Philosophie lehrte, hat er Teil b zweifellos selbst verfasst und geschrieben. Wegen des identischen Schriftbildes schrieb er auch Teil a; damit ist es sehr wahrscheinlich, dass er auch diesen ersten Reisebericht selbst verfasste.",
+    "latin": "8° min.; 152 pagg.; tegumentum ligneum, in dorso et extremis fragmentis membranaceis munitum (fragmentum dorso affixum saeculo XVI. manu inscriptum est!) et in parte aversa inductum charta rubra; scriptus 1736 et 1748\n\na) **Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736:** p. 1–62\n\nb) **Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748:** p. 63–68\n\nQuoniam **P. Benedictus Veit** Salisburgi ab anno 1746 usque ad annum 1748 Philosophiam tradidit, sine dubio partem b et composuit et conscripsit. Sed propter eandem scripturam etiam partem a idem scripsit. Quae cum ita sint, Benedictum Veit etiam priorem partem composuisse quis neget?"
   }
 }

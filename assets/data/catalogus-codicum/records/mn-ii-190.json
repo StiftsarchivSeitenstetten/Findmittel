@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-190",
   "signature": "MN II 190",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "142–143",
   "heading": {
     "title": "Tractatus de vitiis et Peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1693 oder 1694"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de vitiis et Peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–364",
+      "locus": "p. 1–364",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Post examinatam materiam de actibus humanis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Post examinatam materiam de actibus humanis.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,13 +80,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus tertius De Legibus in Communi et particulari",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 364–484",
+      "locus": "p. 364–484",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -168,13 +189,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 190",
     "titles": "Tractatus de vitiis et Peccatis \nTractatus de vitiis et Peccatis \nTractatus tertius De Legibus in Communi et particulari",
-    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "Fr. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "Post examinatam materiam de actibus humanis.....",
     "explicits": "",
     "notes": "Die Zählung als dritte Abhandlung bezieht sich auf die Folge menschliche Handlungen, Laster und Sünden sowie Gesetze.",
-    "physical": "Papier \n488 pagg. \ncode: c2; description: Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt."
+    "physical": "Papier \n488 pagg. \ncode: c2; description: Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt.",
+    "german": "488 Seiten; marmorierter Pappeinband; Rücken und Kanten mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt; geschrieben 1693 oder 1694.\n\na) **Abhandlung über Laster und Sünden:** S. 1–364. Anfang: Nach der Untersuchung der Materie über die menschlichen Handlungen.....\n\nb) **Dritte Abhandlung über die Gesetze im Allgemeinen und im Einzelnen:** S. 364–484. Die Zählung erklärt sich daraus, dass die erste Abhandlung der Prima Secundae über die menschlichen Handlungen, die zweite über Laster und Sünden und die dritte über die Gesetze handelt. Anfang: Da nach der Auffassung.....\n\nDer Verfasser ist unbekannt, obwohl MN II 177 dieselben Abhandlungen enthält. Da dieser 1694 geschrieben wurde und MN II 180 möglicherweise bereits 1693, dürfte auch unser Codex 1693 oder 1694 entstanden sein.\n\nAls Schreiber kommt wie bei MN II 186–189 wahrscheinlich Fr. Joannes Rigele in Frage.",
+    "latin": "488 pagg.; teg. c2 (dorsum extremasque fragmentis membranaceis saeculo XIV (?) manu inscriptis munita); scriptus 1693 aut 94\n\na) Tractatus de vitiis et Peccatis: p. 1–364. Initium p. 1: Post examinatam materiam de actibus humanis.....\n\nb) Tractatus tertius (NB! Tractatus primus in Primam Secundae Partis Summae Theologicae agit de actibus humanis, secundus de vitiis et peccatis, tertius de legibus!) De Legibus in Communi et particulari: p. 364–484. Initium: Quandoquidem iuxta mentem .......\n\nAuctor codicis nostri ignotus, etsi codex MN II 177 eosdem tractatus continet. Qui cum scriptus sit anno 1694, ut ad eundem codicem MN II 177 supra p. 137 notavimus, aut anno 1693, quod supra p. 136 ad codicem MN II 180 suspicati sumus, idem etiam de codice nostro valere vix negabis. Scriptorem autem esse etiam codicis nostri probabiliter F. Joannem Rigele monachum Seitenstettensem praecedente pagina ad codices MN II 186 et 188 indicavimus."
   }
 }

@@ -16,16 +16,43 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Tertius In Duos Libros De Generatione Et corruptione
-    locus: S. 1–195
+    locus: p. 1
+    incipits:
+    - locus: p. 1
+      label: Proloquii
+      text: Recta scientiarum methodus....
+    title_status: unspecified
   - label: b
     title: Tractatus IV In Quatuor Libros Aristotelis De Meteoris
-    locus: S. 207–244
+    locus: p. 207–244
+    incipits:
+    - locus: p. 207
+      text: Post traditam generalem doctrinam....
+    colophons:
+    - locus: p. 244
+      text: Absolvimus 22 Maii 1655.
+    title_status: unspecified
   - label: c
     title: Tractatus V. In Tres Libros De Anima
-    locus: S. 251–388
+    locus: p. 251–388
+    incipits:
+    - locus: p. 251
+      text: De anima praesens pertractatio est....
+    colophons:
+    - locus: p. 388
+      text: die 17 Augusti Anno 1655.
+    title_status: unspecified
   - label: d
     title: In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus
-    locus: S. 393–504
+    locus: p. 393
+    incipits:
+    - locus: p. 393
+      label: Prooemii
+      text: Non suprema scientiarum physica est....
+    colophons:
+    - locus: p. 504
+      text: Absolvimus 17. Septembris. 1655.
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Anselm Schlager

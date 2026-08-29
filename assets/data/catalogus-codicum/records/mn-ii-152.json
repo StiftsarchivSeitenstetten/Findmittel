@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-152",
   "signature": "MN II 152",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "111",
   "heading": {
     "title": "Tractatus Theologici De Sacramentis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1688/89"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Theologici De Sacramentis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus De Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1rv–112r",
+      "locus": "fol. 1r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quinque de Sacramentis in genere expendit S. Doctor.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quinque de Sacramentis in genere expendit S. Doctor.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [
@@ -68,15 +83,35 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Baptismo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 113r–150r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Post absolutum Tractatum de Sacramentis in genere....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hunc Tractatum Die 10. Junii 1689.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Post absolutum Tractatum de Sacramentis in genere....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus hunc Tractatum Die 10. Junii 1689.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -91,15 +126,35 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus III De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 150v–157r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Cum baptismum immediate sequatur Sacramentum Confirmationis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hunc Tractatum die 18. Junii 1689.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Cum baptismum immediate sequatur Sacramentum Confirmationis....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus hunc Tractatum die 18. Junii 1689.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -114,15 +169,35 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus quartus De Sacramento Eucharistiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 157v–211r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Eucharistia tanquam divinissimum et venerabile Sacramentum.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 31. Augusti 1689. 129 Lectiones universim.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Eucharistia tanquam divinissimum et venerabile Sacramentum.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus 31. Augusti 1689. 129 Lectiones universim.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -217,13 +292,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-152/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 152",
     "titles": "Tractatus Theologici De Sacramentis \nTractatus Primus De Sacramentis in genere \nTractatus Secundus De Baptismo \nTractatus III De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris \nTractatus quartus De Sacramento Eucharistiae",
-    "persons": "P. Honorius Aigner Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIV + 218 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Honorius Aigner Dozent lecturer Kremsmünster / Universität Salzburg \nFr. Marcus Starnisi Schreiber scribe Seitenstetten",
+    "incipits": "Quinque de Sacramentis in genere expendit S. Doctor..... \nPost absolutum Tractatum de Sacramentis in genere.... \nCum baptismum immediate sequatur Sacramentum Confirmationis.... \nEucharistia tanquam divinissimum et venerabile Sacramentum.",
+    "explicits": "Absolvimus hunc Tractatum Die 10. Junii 1689. \nAbsolvimus hunc Tractatum die 18. Junii 1689. \nAbsolvimus 31. Augusti 1689. 129 Lectiones universim.",
+    "notes": "Vermerkt bei der 111. Vorlesung.",
+    "physical": "Papier \nIV + 218 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "IV + 218 Blätter; Einband wie bei MN II 151; geschrieben 1688/89.\n\n**Theologische Abhandlungen über die Sakramente**, vorgetragen an der Universität Salzburg von P. Honorius Aigner, Benediktiner und Profess des Klosters Kremsmünster, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, 1688.\n\nAnfang der Vorrede fol. 1r: Nachdem im vergangenen Jahr vom ausgezeichneten Vorgänger das Geheimnis des fleischgewordenen Wortes erklärt worden ist..... Randnotiz: **Erste Nachmittagsvorlesung am Vorabend des Festes der heiligen Mönche des Benediktinerordens (12. November).**\n\na) **Erste Abhandlung über die Sakramente im Allgemeinen:** fol. 1rv–112r. Anfang: Fünf Dinge behandelt der heilige Lehrer über die Sakramente im Allgemeinen.....\n\nb) **Zweite Abhandlung über die Taufe:** fol. 113r–150r. Anfang: Nach Abschluss der Abhandlung über die Sakramente im Allgemeinen.... Schluss: **Beendet am 10. Juni 1689.**\n\nc) **Dritte Abhandlung über das Sakrament der Firmung zu Frage 72 des heiligen Lehrers:** fol. 150v–157r. Anfang: Da auf die Taufe unmittelbar das Sakrament der Firmung folgt.... Schluss: **Beendet am 18. Juni 1689.**\n\nd) **Vierte Abhandlung über das Sakrament der Eucharistie:** fol. 157v–211r. Anfang: Die Eucharistie als das göttlichste und ehrwürdigste Sakrament..... Schluss: **Beendet am 31. August 1689. Insgesamt 129 Vorlesungen.**\n\nVermerk fol. 179v: **111. Vorlesung am 20. Juli, an dem in Olmütz in Mähren drei Magister promoviert wurden.**\n\nFr. Marcus Starnisi schrieb auch die sieben vorhergehenden und den folgenden Codex.",
+    "latin": "IV + 218 foll.; teg. a2 (ut in codice MN II 151 supra p. 110); scriptus 1688/89\n\nTractatus Theologici De Sacramentis. Traditi In Archi-Episcopali Universitate Salisburgensi A ....Patre Honorio Aigner, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio Cremifanensi Superioris Austriae Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario. Calamô excepti A Religioso F. Marco Starnisi eiusdem ordinis in Celeberrimo Divae Virginis Monasterio Seittenstettensi Inferioris Austriae Professo. Anno 1688.\n\nInitium Prooemii fol. 1r: Explicatô iam Annô priori à Clarissimo Antecessore Verbi Incarnati Mysteriô......  \nNota in margine inferiore: Lectio 1. pomeridiana in profesto Sanctorum Monachorum Ordinis S. Benedicti (12. Novembris)\n\na) Tractatus Primus De Sacramentis in genere: fol. 1rv–112r. Initium: Quinque de Sacramentis in genere expendit S. Doctor.....\n\nb) Tractatus Secundus. De Baptismo: fol. 113r–150r. Initium: Post absolutum Tractatum de Sacramentis in genere.... Clausula: Absolvimus hunc Tractatum Die 10. Junii 1689.\n\nc) Tractatus III. De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris: fol. 150v–157r. Initium: Cum baptismum immediate sequatur Sacramentum Confirmationis.... Clausula: Absolvimus hunc Tractatum die 18. Junii 1689.\n\nd) Tractatus quartus. De Sacramento Eucharistiae: fol. 157v–211r. Initium: Eucharistia tanquam divinissimum et venerabile Sacramentum.  \nClausula: Absolvimus 31. Augusti 1689. 129 Lectiones universim.  \nNota fol. 179v: Lectio 111 die 20. Julii, quo erat promotio Magistrorum 3 Olomucii in Moravia.\n\nFr. Marcus Starnisi scripsit etiam 7 codices praecedentes et codicem subsequentem."
   }
 }

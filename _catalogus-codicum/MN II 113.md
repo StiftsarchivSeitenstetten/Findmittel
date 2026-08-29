@@ -9,9 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 113
 ms_contents:
-  catalogue_title_or_summary: Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent
-    etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669
-    exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.
+  items:
+  - catalog_statement: Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis
+      MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum
+      est, quam supra p. 69 ad codicem MN II 111 exposuimus.
+    title: Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II
+      100 (supra
+    locus: p. 63) et c
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

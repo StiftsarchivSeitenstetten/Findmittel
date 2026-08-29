@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-59",
   "signature": "MN II 59",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "37a–38",
   "heading": {
     "title": "Tractatus Casisticus De Actibus Humanis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1652"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Kasuistische Abhandlungen über menschliche Handlungen sowie Laster und Sünden.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Casisticus De Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1–243",
+      "locus": "fol. 1 - 243",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Praefationis In casus Conscientiae",
+          "text": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 243v",
+          "text": "Absolvimus 24 Maii. Anno 1.6.5.2.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Praefationis In casus Conscientiae",
+        "text": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 243v",
+        "text": "Absolvimus 24 Maii. Anno 1.6.5.2.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,15 +93,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Vitiis et peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 244r–355r",
+      "locus": "fol. 244r - 355r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 245r",
+          "label": "Prooemii",
+          "text": "Post tractationem de actibus humanis in genere....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hunc tractatum de Vitiis et Peccatis decimo die Octobris (1652)",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 245r",
+        "label": "Prooemii",
+        "text": "Post tractationem de actibus humanis in genere....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus hunc tractatum de Vitiis et Peccatis decimo die Octobris (1652)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -82,13 +135,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index totius Tractatus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 355v–358r",
+      "locus": "fol. 355v - 358r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -200,13 +257,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 59",
     "titles": "Tractatus Casisticus De Actibus Humanis \nTractatus Casisticus De Actibus Humanis \nTractatus Secundus De Vitiis et peccatis \nIndex totius Tractatus",
-    "persons": "P. Udalricus Freyberger OSB Dozent lecturer \nFr. Romanus Voith, Profess von Seitenstetten Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Udalricus Freyberger OSB Dozent lecturer  \nFr. Romanus Voith, Profess von Seitenstetten Schreiber scribe ",
+    "incipits": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat.... \nPost tractationem de actibus humanis in genere....",
+    "explicits": "Absolvimus 24 Maii. Anno 1.6.5.2. \nAbsolvimus hunc tractatum de Vitiis et Peccatis decimo die Octobris (1652)",
     "notes": "Kasuistische Abhandlungen über menschliche Handlungen sowie Laster und Sünden.",
-    "physical": "Papier \nIII + 361 Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55."
+    "physical": "Papier \nIII + 361 Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55.",
+    "german": "III + 361 Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1652.\n\na) **Kasuistische Abhandlung über die menschlichen Handlungen, diktiert von P. Udalricus Freyberger, Prior des berühmten Klosters St. Peter in Salzburg, Doktor der heiligen Theologie und damals ordentlichem Professor der Gewissensfälle, im Jahr 1652:** Bl. 1–243. Anfang der Vorrede zu den Gewissensfällen Bl. 1r: **Theologie bedeutet (I) gemäß der Etymologie des Namens eine Rede über Gott und die göttlichen Dinge....** Schluss Bl. 243v: **Wir beendeten am 24. Mai im Jahr 1652.**\n\nb) **Zweite Abhandlung. Über Laster und Sünden, vorgetragen von P. Udalricus Freyberger aus dem Orden des hl. Vaters Benedikt, Prior im berühmten Kloster St. Peter in Salzburg und ordentlichem Professor der Gewissensfälle, im Jahr 1652:** Bl. 244r–355r. Anfang der Vorrede Bl. 245r: **Nach der Behandlung der menschlichen Handlungen im Allgemeinen....** Schluss: **Wir beendeten diese Abhandlung über Laster und Sünden am 10. Oktober 1652.**\n\nc) **Register der gesamten Abhandlung**, das heißt des gesamten Codex: Bl. 355v–358r.\n\n**Rückenaufschrift:** De Actibus humanis Tractatus Casisticus P. Freyberger a F. R. â P. Rom. Voith Seittenstet[t]si 1652. et de peccatis. = „Kasuistische Abhandlung über die menschlichen Handlungen von P. Freyberger, [geschrieben] von Fr. Romanus Voith von Seitenstetten 1652, und über die Sünden.“\n\nAuf der Vorderseite des Einbandes stehen in Gold die Initialen **F.R.V.P.S. = F. Romanus Voith Professus Seittenstettensis**; dies ist der Schreiber.\n\nDieselben Abhandlungen enthält Codex MN II 55; nahezu dieselben enthalten die Teile a und b von Codex MN II 66. Dieselben Abhandlungen finden sich auch in Codex MN II 64.",
+    "latin": "III + 361 foll.; teg. a2 ut in cod. MN II 55; script. 1652\n\na) *Tractatus Casisticus De Actibus Humanis. Dictatus ab .... Patre Udalrico Freyberger Celeberrimi Monasterii ad S. Petrum Salisburgi Priore, SS. Theologiae Doctore et pro tempore Casuum Conscientiae Professore Ordinario. Anno .... MDCLII (1652):* fol. 1 - 243. *Initium* Praefationis In casus Conscientiae fol. 1r: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....\n\n*Clausula* fol. 243v: Absolvimus 24 Maii. Anno 1.6.5.2.\n\nb) *Tractatus Secundus De Vitiis et peccatis. Traditus Ab .... P. Udalrico Freyberger, Ordinis S. P. N. Benedicti Priore in Celeberrimo Monasterio ad S. Petrum Salisburgi Casuum Professore Ordinario. Anno MDCLII (1652):* fol. 244r - 355r. *Initium* Prooemii fol. 245r: Post tractationem de actibus humanis in genere.... *Clausula:* Absolvimus hunc tractatum de Vitiis et Peccatis decimo die Octobris (1652)\n\nc) *Index totius Tractatus* (id est totius codicis): fol. 355v - 358r.\n\nInscriptio dorsi: De Actibus humanis Tractatus Casisticus P. Freyberger a F. R. â P. Rom. Voith Seittenstet[t]si 1652. et de peccatis.\n\nLitterae initiales (inauratae) in parte adversa tegumenti: F.R.V.P.S. = F. Romanus Voith Professus Seittenstettensis (scriptor). Eosdem tractatus continet Cod. MN II 55 (vide supra p. 35/6) et fere eosdem pars a et b Codicis MN II 66 (vide infra!); eosdem tractatus etiam in cod. MN II 64 (vide infra p. 40) invenies."
   }
 }

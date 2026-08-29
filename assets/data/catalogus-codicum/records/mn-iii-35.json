@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-35",
   "signature": "MN III 35",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Aliquot considerationes de bona morte",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. I–V",
+      "locus": "p. I–V",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Solatium infirmorum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. VII–VIII, 1–188",
+      "locus": "p. VII, VIII, 1–184",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,13 +102,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Modus Pius Disponendi Infirmum Ad felicem mortem obeundam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 190, 1–71",
+      "locus": "p. 190, 1–68",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -114,13 +129,17 @@
       "id": "item-d-1",
       "label": "d.1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Psalmi, quibus vis diabolica mirè enervatur et infirmo prolegendi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 72–73",
+      "locus": "p. 73–78",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +151,17 @@
       "id": "item-d-2",
       "label": "d.2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Aliae preces in usum infirmorum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 73–78",
+      "locus": "p. 73–78",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -155,13 +178,17 @@
       "id": "item-e-1",
       "label": "e.1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Absolutio generalis. Fratribus nostris in mortis articulo danda",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 79–82",
+      "locus": "p. 79–82",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -173,13 +200,17 @@
       "id": "item-e-2",
       "label": "e.2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Fratribus, et Sororibus Scapularis danda",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 83–84",
+      "locus": "p. 83–84",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -191,13 +222,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commendatio animae agonizantis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 85–92",
+      "locus": "p. 85–92",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -283,13 +318,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-35/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 35",
     "titles": "Aliquot considerationes de bona morte \nAliquot considerationes de bona morte \nSolatium infirmorum \nModus Pius Disponendi Infirmum Ad felicem mortem obeundam \nPsalmi, quibus vis diabolica mirè enervatur et infirmo prolegendi \nAliae preces in usum infirmorum \nAbsolutio generalis. Fratribus nostris in mortis articulo danda \nFratribus, et Sororibus Scapularis danda \nCommendatio animae agonizantis",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; deutsch. \nDer Katalogbearbeiter erschloss den Titel aus der lateinischen Vorrede; Register S. 186–188. \nMit Index Partis Secundae S. 69–71. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDeutschsprachig.",
-    "physical": "Papier \n8°, VIII + 190 + 92 = 290 pagg. \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "physical": "Papier \n8°, VIII + 190 + 92 = 290 pagg. \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "Oktavformat; VIII + 190 + 92 = 290 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1750.\n\na) **Einige Betrachtungen über einen guten Tod:** S. I–V, deutsch.\n\nb) **Trost der Kranken:** S. VII, VIII, 1–184, mit Sachregister S. 186–188. Die Überschrift wurde vom Katalogbearbeiter aus der lateinischen Vorrede S. VII erschlossen. Die Ansprachen an den Kranken und die mit dem Kranken und den Anwesenden zu sprechenden Gebete sind deutsch; weitere Gebete, Anweisungen, Rubriken und sonstige Hilfsmittel des Priesters bei Krankenbesuch und Sakramentenspendung sind lateinisch.\n\nc) **Fromme Weise, einen Kranken auf einen glücklichen Tod vorzubereiten:** S. 190, 1–68, mit Register des zweiten Teils S. 69–71. Auch hier sind die an den Kranken gerichteten Texte deutsch, die dem Priester dienenden Hilfsmittel, etwa das ganze Register, lateinisch.\n\nd) **Zusatz:** Psalmen, durch welche die Macht des Teufels wunderbar geschwächt wird und die dem Kranken vorzulesen sind, S. 72–73; weitere Gebete für Kranke S. 73–78.\n\ne) **Generalabsolution, die unseren Brüdern in der Todesstunde zu erteilen ist:** S. 79–82; für Brüder und Schwestern des Skapuliers S. 83–84.\n\nf) **Empfehlung der Seele eines Sterbenden:** S. 85–92, deutsch.\n\nWeder Kompilator noch Schreiber sind bekannt.\n\nIn S. 80 von Teil e wird ein **Modus** erwähnt, der von Papst Benedikt XIV. im siebten Jahr seines Pontifikats am 5. April approbiert wurde, also am 5. April 1747. Die Formulierung **von unserem heiligsten Herrn** scheint vorauszusetzen, dass Benedikt XIV. noch lebte, also eine Niederschrift vor seinem Tod am 3. Mai 1758. Daher datiert der Katalogbearbeiter den Codex ungefähr um 1750.",
+    "latin": "8°, VIII + 190 + 92 = 290 pagg.; teg. b1; script. ca. 1750\n\na) (Aliquot considerationes de bona morte): p. I–V (lingua Germanica)\n\nb) (Solatium infirmorum): p. VII, VIII, 1–184 cum Indice rerum p. 186–188. Inscriptionem huius partis e praefatione Latina p. VII restitui. Ceterum allocutiones ad infirmum precesque cum infirmo et adstantibus dicendae lingua Germanica compositae sunt, ceterae autem preces nec non consilia, rubricae, reliqua auxilia a sacerdote in visitatione infirmorum et administrandis sacramentis adhibenda lingua Latina conscripta sunt.\n\nc) **Modus Pius Disponendi Infirmum Ad felicem mortem obeundam:** p. 190, 1–68 cum Indice Partis Secundae: p. 69–71. Etiam in hac parte ea, quae infirmo intimanda sunt, Germanica, quae sacerdotis auxilio sunt, ex. gr. totus index, Latina lingua composita sunt.\n\nd) **additamentum:**  \nPsalmi, quibus vis diabolica mirè enervatur et infirmo prolegendi: 72–73.  \n(Aliae preces in usum infirmorum): p. 73–78\n\ne) Absolutio generalis. Fratribus nostris in mortis articulo danda: p. 79–82, Fratribus, et Sororibus Scapularis danda: p. 83–84\n\nf) Commendatio animae agonizantis: p. 85–92 (lingua Germanica)\n\nNeque qui hunc librum congesserit, neque qui conscripserit, notus.\n\nIn p. 80 partis e) indicatur „Modus â Sanctissimo Domino Nostro Benedicto Papa Quartodecimo Pontificatus Sui anno septimo die 5 Aprilis approbatus.“ (id est die 5. Aprilis anno 1747. Voces autem „a Sanctissimo Domino Nostro“ videntur indicare, hunc locum Benedicto Papa XIV. vivente scriptum esse, id est ante 3. diem Maii anno 1758. Quae cum ita sint, codicem nostrum circa annum 1750 compositum esse quis negabit?"
   }
 }

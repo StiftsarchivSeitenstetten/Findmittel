@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-18",
   "signature": "MN I 18",
   "aliases": [
@@ -11,8 +11,8 @@
   "catalogPage": "260",
   "heading": {
     "title": "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1780 (?)"
   },
   "date": {
@@ -30,12 +30,15 @@
   },
   "contentsOverview": {
     "title": "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "Deutsche Übersetzung einer Auswahl von Predigten des Kapuziners und späteren Kardinals Francesco Maria Casini, die ursprünglich in italienischer Sprache gehalten wurden.",
     "language": "de",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -47,13 +50,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini ... vorgetragenen Predigten. In die deutsche Sprache übersetzt.",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "main: de; source_language: it",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -242,13 +249,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-18/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 18",
     "titles": "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt. \nAuszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini ... vorgetragenen Predigten. In die deutsche Sprache übersetzt.",
-    "persons": "Francesco Maria Casini original author; Kapuziner; Prediger im Apostolischen Palast; Kardinal original_author; Kapuziner; Prediger im Apostolischen Palast; Kardinal \nP. Isidor Mayrhofer recipient; Seitenstettner Mönch recipient; Seitenstettner Mönch \nMichael Bocksruth probable donor probable donor \nFrancesco Maria Casini original author original_author \nunbekannt Übersetzer translator",
+    "persons": "Francesco Maria Casini original author; Kapuziner; Prediger im Apostolischen Palast; Kardinal original_author; Kapuziner; Prediger im Apostolischen Palast; Kardinal  \nP. Isidor Mayrhofer recipient; Seitenstettner Mönch recipient; Seitenstettner Mönch  \nMichael Bocksruth probable donor probable donor Oblate des Benediktinerordens in einem Kloster in England \nFrancesco Maria Casini original author original_author  \nunbekannt Übersetzer translator ",
     "incipits": "",
     "explicits": "",
-    "notes": "Deutsche Übersetzung einer Auswahl von Predigten des Kapuziners und späteren Kardinals Francesco Maria Casini, die ursprünglich in italienischer Sprache gehalten wurden. \nde \nDer Übersetzer der Predigten ist unbekannt. \nOb die deutsche Übersetzung jemals im Druck erschien, bleibt ausdrücklich ungeklärt. \nDie Datierung des Codex um 1780 ist ausschließlich aus Einband und Schriftcharakter erschlossen. \nDie französische Widmung gehört nicht zur Entstehungszeit des Codex, sondern ist ein deutlich jüngerer Provenienz- bzw. Benutzungsvermerk. \nDer handschriftliche Nachtrag identifiziert den Schenker wahrscheinlich als Michael Bocksruth und datiert die Schenkung ungefähr auf 1930; beide problematischen Lesungen bleiben als unsicher gekennzeichnet.",
-    "physical": "Papier \n346 Seiten \nFolio \ndescription: Blaugrauer Pappeinband."
+    "notes": "Deutsche Übersetzung einer Auswahl von Predigten des Kapuziners und späteren Kardinals Francesco Maria Casini, die ursprünglich in italienischer Sprache gehalten wurden. \nde \nDer Übersetzer der Predigten ist unbekannt. \nOb die deutsche Übersetzung jemals im Druck erschien, bleibt ausdrücklich ungeklärt. \nDie Datierung des Codex um 1780 ist ausschließlich aus Einband und Schriftcharakter erschlossen. \nDie französische Widmung gehört nicht zur Entstehungszeit des Codex, sondern ist ein deutlich jüngerer Provenienz- bzw. Benutzungsvermerk. \nDer handschriftliche Nachtrag identifiziert den Schenker wahrscheinlich als Michael Bocksruth und datiert die Schenkung ungefähr auf 1930; beide problematischen Lesungen bleiben als unsicher gekennzeichnet. \nAu l. (?) R. P. Isidore Apôtre infatigable et Prédicateur intrépide du royaume d' Aschbach Son ami chéri D. Michel. \ntype: drawing; locus: S. 2; medium: Tinte; subject: Fisch; description: Große, unter dem Namen des Widmenden ausgeführte Zeichnung eines Fisches. \nDonavit hunc codicem Dominus Michael Bocksruth, oblatus Ordinis S. Benedicti in monasterio Anglia, circa annum 1930.",
+    "physical": "Papier \n346 Seiten \nFolio \ndescription: Blaugrauer Pappeinband.",
+    "german": "Folioformat; 346 Seiten; blaugrauer Pappeinband; geschrieben um 1780 (?).\n\n**Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt.**\n\nDie erste italienische Ausgabe dieser Predigten erschien unter dem Titel *Prediche dette nel Palazzo Apostolico* im Jahr 1713 in Rom. Wer jedoch diese italienischen Predigten ins Deutsche übersetzt hat, weiß ich nicht; ebenso wenig weiß ich, ob die in unserem Codex enthaltene Übersetzung im Druck erschienen ist. Unser unbekannter Übersetzer versichert, dass dies die erste Übersetzung aus dem Italienischen ins Deutsche sei. (Siehe die Vorrede S. 5!)\n\nAuf S. 2 unseres Codex findet sich folgende Widmung: **Au l. (?) R. P. Isidore Apôtre infatigable et Prédicateur intrépide du royaume d' Aschbach Son ami chéri D. Michel.** (Unter dem Namen des Widmenden befindet sich eine große, mit Tinte ausgeführte Zeichnung eines Fisches.)\n\nAnhand der Tinte ist erkennbar, dass diese Widmung in unserem Jahrhundert geschrieben wurde. Jener ehrwürdige P. Isidor, der unerschrockene Prediger von Aschbach, ist daher ohne Zweifel mit P. Isidor Mayrhofer († 1951), einem Seitenstettner Mönch und großen Liebhaber der französischen Sprache, identisch. Wer hingegen jener Herr Michael war, der unseren Codex P. Isidor Mayrhofer schenkte, habe ich noch nicht ermittelt. Dass unser Codex um das Jahr 1780 geschrieben wurde, habe ich sowohl aus der Beschaffenheit des Einbandes als auch aus dem Schriftcharakter erschlossen.\n\n> **Handschriftlicher Nachtrag:** *Diesen Codex schenkte Herr Michael Bocksruth, Oblate des Benediktinerordens in einem Kloster in England, um das Jahr 1930.*\n>\n> Die Lesung des Familiennamens **Bocksruth** und der Wendung **in monasterio Anglia** ist nicht völlig sicher.",
+    "latin": "fol.; 346 pagg.; teg. chartaceum caesium; script. ca. 1780 (?)\n\n**Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt.**\n\nQuarum contionum prima editio Italiana, inscripta: *Prediche dette nel Palazzo Apostolico*, Romae 1713 in lucem evenit. Quis autem conciones illas Italianas in linguam Germanicam transtulerit, nescio, neque num versio codicis nostri prelo mandata sit. Translator noster ignotus affirmat hanc primam esse versionem e lingua Italiana in Germanicam. (Vide Praefationem p. 5!)\n\np. 2 codicis nostri haec invenitur dedicatio: **Au l. (?) R. P. Isidore Apôtre infatigable et Prédicateur intrépide du royaume d' Aschbach Son ami chéri D. Michel.** (Cui nomini dedicantis subscripta est magna piscis delineatio atramento facta.)\n\nEx atramento apparet, hanc dedicationem nostro saeculo scriptam esse. Reverendus igitur ille P. Isidorus, intrepidus Asbacensis Praedicator, sine dubio idem est atque P. Isidorus Mayrhofer († 1951), monachus Seitenstettensis, linguae Francogallicae amantissimus. Quis vero sit ille Dominus Michael, qui codicem nostrum P. Isidoro Mayrhofer dono dedit, nondum investigavi. Scriptum esse codicem nostrum circa annum 1780 tam e forma tegumenti quam e charactere scripturae conieci.\n\n> **Handschriftlicher Nachtrag:** *Donavit hunc codicem Dominus Michael Bocksruth, oblatus Ordinis S. Benedicti in monasterio Anglia, circa annum 1930.*\n>\n> Die Lesung des Familiennamens **Bocksruth** und der Wendung **in monasterio Anglia** ist nicht völlig sicher."
   }
 }

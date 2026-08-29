@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-31-d-xvii-1v",
   "signature": "Arch. Cod. 31 D (XVII 1v)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "265–266",
   "heading": {
     "title": "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "inter annum 1784 et 1795"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–590",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -121,13 +128,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-31-d-xvii-1v/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 31 D (XVII 1v)",
     "titles": "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti. \nAntiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.",
-    "persons": "P. Wolfgangus Mitter Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "P. Wolfgangus Mitter Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n590 pagg. \nQuartformat \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n590 pagg. \nQuartformat \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "Quartformat; 590 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben zwischen 1784 und 1795.\n\n**Typographische Altertümer, die in der Bibliothek des Benediktinerklosters Seitenstetten aufbewahrt werden.**\n\nAuch in diesem Codex werden die bis zum Jahr 1500 gedruckten Bücher ausführlich in lateinischer Sprache behandelt.\n\nDaher scheint **P. Wolfgangus Mitter** auch diesen Codex zusammengestellt zu haben, als er die Bücher durchsah, ordnete und katalogisierte. Somit dürfte der Codex während seiner Amtszeit als Bibliothekar, also zwischen 1784 und 1795, entstanden sein.\n\n> **Anmerkung zum Seitenbild:** Bei der Jahreszahl 1784 stehen handschriftliche Korrekturzeichen; die gedruckte Fassung wurde beibehalten.",
+    "latin": "4°; 590 pagg.; teg. c3d; scriptus inter annum 1784 et 1795\n\n**Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.**\n\nEtiam in hoc codice libri usque ad annum 1500 typis mandati in lingua Latina fuse tractantur. Itaque videtur **P. Wolfgangus Mitter** etiam hunc codicem composuisse, cum illos libros perlustraret, ordinaret et catalogo insereret. Quae cum ita sint, hic quoque codex, quo tempore P. Wolfgangus Mitter bibliothecae praefuit, dico ab anno 1784 usque ad annum 1795 (vide supra in codice paenultimo!), ortus est.\n\n> **Anmerkung zum Seitenbild:** Bei den Jahreszahlen 1784 stehen handschriftliche Korrekturzeichen; die gedruckte Fassung wurde nicht stillschweigend ersetzt."
   }
 }

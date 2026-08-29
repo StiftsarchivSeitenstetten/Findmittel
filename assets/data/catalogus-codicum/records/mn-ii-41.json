@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-41",
   "signature": "MN II 41",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "26",
   "heading": {
     "title": "Zweiter Teil von Logikvorlesungen",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1648"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Zweiter Teil von Logikvorlesungen; der Anfang fehlt.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Zweiter Teil von Logikvorlesungen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-41/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 41",
     "titles": "Zweiter Teil von Logikvorlesungen \nZweiter Teil von Logikvorlesungen",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Zweiter Teil von Logikvorlesungen; der Anfang fehlt. \nBeginnt mitten in Art. IV der 8. Disputation.",
-    "physical": "Papier \nIII + 141 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    "physical": "Papier \nIII + 141 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial.",
+    "german": "III + 141 Blätter; eingeschlagen in ein Pergamentblatt, das das Ende eines im 15. Jahrhundert handschriftlich geschriebenen Ordo Missae enthält; geschrieben 1648.\n\n**Rückenaufschrift:** Logica MS. 1640; die Jahreszahl ist jedoch ein Fehler, denn der Schlussvermerk auf Bl. 135v lautet: **Anno 1648 Quinta Septembris** = „Im Jahr 1648, am 5. September“.\n\nDieser Codex scheint den zweiten Teil von Logikvorlesungen zu enthalten; er beginnt nämlich mitten im Artikel IV der achten Disputation.\n\nSchreiber und Verfasser sind unbekannt.",
+    "latin": "III + 141 foll., inclusa folio membranaceo finem Ordinis Missae saec. XV. manu scriptum continente; script. 1648\n\nInscriptio in dorso: Logica MS. 1640, sed numerus anni mendum est, nam clausula fol. 135v. ita exhibet: Anno 1648 Quinta Septembris. Videtur hic codex partem alteram lectionum logicarum continere; incipit enim medio in Articulo IV Disputationis octavae.\n\nScriptor et auctor ignoti."
   }
 }

@@ -9,12 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 272
 ms_contents:
-  title: Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis
   items:
   - label: a
     title: Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis
-    locus: S. 11–256
-    incipit: 'Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii absolvunt integram Theologiam'
+    locus: p. 11
+    incipits:
+    - text: 'Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic
+        intra curriculum quadriennii absolvunt integram Theologiam'
+    - locus: p. 11
+      label: Praefationis In Tractatum de Sacramento Paenitentiae, et reliquis. Tractatus in Theologia Scholastica, quam profitemur, explicantur
+        in Scholis omnino 8
+      text: 'discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii (lege: quadriennii!) absolvunt integram Theologiam,....'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

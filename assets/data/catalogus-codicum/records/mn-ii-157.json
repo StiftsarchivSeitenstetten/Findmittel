@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-157",
   "signature": "MN II 157",
   "aliases": [
@@ -28,6 +28,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,6 +42,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in octo libros Physicorum Aristotelis",
         "typeRaw": "supplied",
@@ -46,6 +50,9 @@
       },
       "locus": "fol. (1)–406",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,14 +69,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 406v–535v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "fol. 407r: Quamvis in prooemio nostro physicae......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "fol. 407r: Quamvis in prooemio nostro physicae......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -85,14 +106,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus III In Libros De Anima, in genere, et in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 537r–656r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Oraculi Delphici monitum fuit: nosce te ipsum.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Oraculi Delphici monitum fuit: nosce te ipsum.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -103,14 +136,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus IV In Libros De Caelo et Mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 656v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Post explicationem corporis animati devolvimur.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Post explicationem corporis animati devolvimur.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -126,14 +171,26 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus V In Aristotelis Metaphysicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 657r–709r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Metaphysica seu sapientia transnaturalis......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Metaphysica seu sapientia transnaturalis......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -214,13 +271,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-157/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 157",
     "titles": "Tractatus in octo libros Physicorum Aristotelis \nTractatus in octo libros Physicorum Aristotelis \nTractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu \nTractatus III In Libros De Anima, in genere, et in specie \nTractatus IV In Libros De Caelo et Mundo \nTractatus V In Aristotelis Metaphysicam",
-    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt author or lecturer author_or_lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "fol. 407r: Quamvis in prooemio nostro physicae...... \nOraculi Delphici monitum fuit: nosce te ipsum. \nPost explicationem corporis animati devolvimur..... \nMetaphysica seu sapientia transnaturalis......",
     "explicits": "",
-    "notes": "Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab. \nFol. 1–97 und 326–361 fehlen. \nFol. 411–494 fehlen. \nNur der Anfang erhalten; der Rest fehlt.",
-    "physical": "Papier \n713 foll., e quibus fol. 1–97 desunt \ncode: c1; description: Grauer Pappeinband; der gesamte Vorderdeckel und der größte Teil des Rückens fehlen."
+    "notes": "Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab. \nFol. 1–97 und 326–361 fehlen. \nFol. 411–494 fehlen. \nNur der Anfang erhalten; der Rest fehlt. \ntype: inserted_drawings; locus: zwischen fol. 324 und 325; extent: 4 Blätter; subject: Skizzen physikalischer Experimente",
+    "physical": "Papier \n713 foll., e quibus fol. 1–97 desunt \ncode: c1; description: Grauer Pappeinband; der gesamte Vorderdeckel und der größte Teil des Rückens fehlen.",
+    "german": "713 Blätter, von denen fol. 1–97 fehlen; grauer Pappeinband, dessen gesamter Vorderdeckel und größter Teil des Rückens fehlen; geschrieben um 1700.\n\nEs fehlen außerdem fol. 326–361 und fol. 411–494.\n\na) **(Abhandlung zu den acht Büchern der Physik des Aristoteles):** fol. (1)–406. Zwischen fol. 324 und 325 sind vier Blätter mit Skizzen physikalischer Experimente eingefügt.\n\nb) **Zweite Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** fol. 406v–535v; fol. 411–494 fehlen. Anfang der ersten Disputation fol. 407r: Obwohl wir in unserer Vorrede zur Physik......\n\nc) **Dritte Abhandlung zu den Büchern Über die Seele, im Allgemeinen und im Einzelnen:** fol. 537r–656r. Anfang: Die Mahnung des delphischen Orakels lautete: Erkenne dich selbst.\n\nd) **Vierte Abhandlung zu den Büchern Über Himmel und Welt:** fol. 656v. Der Rest fehlt. Anfang: Nach der Erklärung des beseelten Körpers gehen wir über.....\n\ne) **Fünfte Abhandlung zur Metaphysik des Aristoteles:** fol. 657r–709r. Anfang: Metaphysik oder übernatürliche Weisheit......\n\nWeder Verfasser noch Schreiber noch Entstehungsjahr sind bekannt. Nach Einband und Schrift dürfte der Codex um 1700 geschrieben worden sein.",
+    "latin": "713 foll., e quibus fol. 1–97 desunt; teg. c1, cuius tamen tota pars adversa et maxima pars dorsi deest; script. ca. 1700\n\nDesunt etiam foll. 326–361, et foll. 411–494.\n\na) (Tractatus in octo libros Physicorum Aristotelis): fol. (1)–406.  \nInter fol. 324 et 325 inserta sunt 4 folia cum adumbrationibus experimentorum physicorum.\n\n\n\n\nb) Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu: fol. 406v–535v. (Desunt foll. 411–494!) Initium Disputationis Primae: fol. 407r: Quamvis in prooemio nostro physicae......\n\nc) Tractatus III. In Libros De Anima, in genere, et in specie: fol. 537r–656r. Initium: Oraculi Delphici monitum fuit: nosce te ipsum.\n\nd) Tractatus IV. In Libros De Caelo et Mundo: fol. 656v. (Cetera desunt!) Initium: Post explicationem corporis animati devolvimur.....\n\ne) Tractatus V. In Aristotelis Metaphysicam: fol. 657r–709r. Initium: Metaphysica seu sapientia transnaturalis......\n\nNeque auctor harum lectionum neque scriptor huius codicis notus neque quo anno exaratus sit. Sed propter formam tegumenti scripturaeque non multum errabis, si existimaveris hunc librum circa annum 1700 scriptum esse."
   }
 }

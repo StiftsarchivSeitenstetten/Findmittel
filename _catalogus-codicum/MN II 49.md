@@ -18,8 +18,15 @@ ms_contents:
   items:
   - label: a
     title: Commentarius in Aristotelis Organum
-    locus: S. 1–402
+    locus: p. 1 - 402
     note: 189 Lektionen.
+    incipits:
+    - label: Proloquii Logicae
+      text: Cum Logica sit instrumentum Sciendi....
+    colophons:
+    - locus: p. 402
+      text: Absolvimus Logicae Organum 27 die Maii Anno 1651.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

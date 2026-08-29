@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-44",
   "signature": "MN II 44",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "27",
   "heading": {
     "title": "Tractatus primus De Sacramentis in genere",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1648/49"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Abhandlungen über die Sakramente im Allgemeinen und im Einzelnen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus primus De Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1–26r",
+      "locus": "fol. 1 - 26r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Praefationis",
+          "text": "Quoniam utilitas, necessitas et praestantia rei....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 26",
+          "text": "Absolvimus 23. die Novembris. 1648.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Praefationis",
+        "text": "Quoniam utilitas, necessitas et praestantia rei....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 26",
+        "text": "Absolvimus 23. die Novembris. 1648.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,13 +93,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus II–VIII de singulis sacramentis in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 27r–214v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -162,13 +195,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 44",
     "titles": "Tractatus primus De Sacramentis in genere \nTractatus primus De Sacramentis in genere \nTractatus II–VIII de singulis sacramentis in specie",
-    "persons": "P. Pius Theisengseer OP Autor author \nFr. Caelestinus Aumayr, Profess von Seitenstetten Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Pius Theisengseer OP Autor author  \nFr. Caelestinus Aumayr, Profess von Seitenstetten Schreiber scribe ",
+    "incipits": "Quoniam utilitas, necessitas et praestantia rei....",
+    "explicits": "Absolvimus 23. die Novembris. 1648.",
     "notes": "Abhandlungen über die Sakramente im Allgemeinen und im Einzelnen.",
-    "physical": "Papier \nIII + 220 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    "physical": "Papier \nIII + 220 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial.",
+    "german": "III + 220 Blätter; der Einband besteht aus einem handschriftlich beschriebenen Pergamentblatt des 15. Jahrhunderts, das das Evangelium vom Ende der Welt enthält.\n\n**Rückenaufschrift:** MS. de Sacramentis in genere et specie 1648 = „Handschrift über die Sakramente im Allgemeinen und im Einzelnen, 1648“.\n\na) **Erste Abhandlung. Über die Sakramente im Allgemeinen:** Bl. 1–26r. Anfang der Vorrede Bl. 1r: **Da Nutzen, Notwendigkeit und Vorzüglichkeit der Sache....** Schluss Bl. 26: **Wir beendeten am 23. November 1648.**\n\nb) **Abhandlungen II–VIII über die einzelnen Sakramente im Besonderen:** Bl. 27r–214v. Schluss am Ende des Werkes: **Wir beendeten am 16. Oktober im Jahr 1649.**\n\nDass der Verfasser P. Pius Theisengseer aus dem Predigerorden ist, lässt sich durch Vergleich mit Codex MN II 47, der dieselben Abhandlungen enthält, mit Sicherheit feststellen. Der Schreiber dieses Codex ergibt sich aus dem Zeichen **F:C:A:** auf Bl. 1r (= Frater Caelestinus Aumayr, Profess von Seitenstetten).",
+    "latin": "III + 220 foll.; tegumentum est folium manu scriptum saeculi XV. (exhibens evangelium de fine mundi) membranac.\n\nInscriptio dorsi: MS. de Sacramentis in genere et specie 1648.\n\na) *Tractatus primus De Sacramentis in genere:* fol. 1 - 26r. *Initium* Praefationis fol. 1r: Quoniam utilitas, necessitas et praestantia rei.... *Clausula* fol. 26: Absolvimus 23. die Novembris. 1648.\n\nb) *Tractatus II - VIII (de singulis sacramentis in specie):* fol. 27r - 214v. Clausula in fine operis: Absolvimus 16. Octobris; Anno 1649.\n\nAuctorem esse P. Pium Theisengseer Ordinis Praedicatorum comparato codice MN II 47 (vide unam alteramve paginam inferius!), qui eosdem tractatus continet, certe probabis. Scriptor autem huius codicis apparet e signo: F:C:A: (= Frater Caelestinus Aumayr, professus Seittenstöttensis) fol. 1r."
   }
 }

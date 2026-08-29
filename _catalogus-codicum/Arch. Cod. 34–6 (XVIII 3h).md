@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–6 (XVIII 3h)
 ms_contents:
-  title: "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft."
   items:
-  - label: "a"
-    title: "Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P. Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft."
-    locus: "S. 1–180"
-    note: "Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: Materialien zu einem neuen Theologischen Handbuch. Nach den Vorzügen und bedürfnissen Unseres Zeitalters. 1792. Von P. B. W. (= P.
+      Benedictus Walcher) Benediktiner zu Seitenstetten. III. Heft.
+    locus: S. 1–180
+    note: Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

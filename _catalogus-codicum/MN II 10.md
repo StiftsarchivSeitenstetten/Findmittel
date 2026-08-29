@@ -12,13 +12,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 10
 ms_contents:
-  title: "Tractatus de Virtutibus Fide, Spe, et Charitate"
   items:
-  - label: "a"
-    title: "Tractatus de Virtutibus Fide, Spe, et Charitate"
-    locus: "Bl. 1r–196v"
-    incipit: "Disputant scolastici Theologi De fide....."
-    note: "Vermerk Bl. 200v: in ista materia sunt octo in universum [lectiones]."
+  - label: a
+    title: Tractatus de Virtutibus Fide, Spe, et Charitate
+    locus: fol. 1r - 196v
+    note: 'Vermerk Bl. 200v: in ista materia sunt octo in universum [lectiones].'
+    incipits:
+    - text: Disputant scolastici Theologi De fide.....
+      locus: fol. 1r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

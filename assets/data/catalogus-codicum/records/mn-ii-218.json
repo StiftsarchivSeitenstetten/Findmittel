@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-218",
   "signature": "MN II 218",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "170",
   "heading": {
     "title": "Institutionum Imperialium Libri Quattuor",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1703"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Institutionum Imperialium Libri Quattuor",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutionum Imperialium Libri Quattuor",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–208",
+      "locus": "p. 5–208",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -146,13 +153,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 218",
     "titles": "Institutionum Imperialium Libri Quattuor \nInstitutionum Imperialium Libri Quattuor",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n212 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n212 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "212 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\n**Die vier Bücher der Institutionen des Kaisers:** S. 5–208.\n\nAnfang des ersten Titels des ersten Buches **Über Gerechtigkeit und Recht:** Rechtswissenschaft ist die Kenntnis der göttlichen und menschlichen Dinge.....\n\nDer Verfasser ist unbekannt. Wegen des identischen Schriftcharakters mit MN II 217 ist wahrscheinlich, dass P. Joannes Rigele auch diesen Codex schrieb. Auch der Einband ist derselbe wie bei MN II 217.",
+    "latin": "212 pagg.; teg. a2; script. ca. 1703\n\n(Institutionum Imperialium Libri IV): p. 5–208\n\nInitium Tituli I Libri I De Justitia et Jure: Jurisprudentia est rerum divinarum et humanarum notitia.......\n\nAuctor ignotus. Scriptorem autem esse P. Joannem Rigele suspicamur propter characterem scripturae eundem ut in codice praecedente. Insuper eodem tegumento munitus est codex noster, quo MN II 217."
   }
 }

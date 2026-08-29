@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-287",
   "signature": "MN II 287",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "232–233",
   "heading": {
     "title": "Tractatus Scholastico positivus De Incarnatione verbi Divini",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1751/52"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico positivus De Incarnatione verbi Divini",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–227",
+      "locus": "p. 3–227",
       "language": "",
+      "incipits": [
+        {
+          "text": "Hoc praecipuum post Sanctissimam Trinitatem mysterium,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Hoc praecipuum post Sanctissimam Trinitatem mysterium"
+        "text": "Hoc praecipuum post Sanctissimam Trinitatem mysterium,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico Dogmaticus De Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 233–262",
+      "locus": "p. 233–262",
       "language": "",
+      "incipits": [
+        {
+          "text": "Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit"
+        "text": "Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,15 +108,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Creatione Corporali",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 263–290",
+      "locus": "p. 263–290",
       "language": "",
+      "incipits": [
+        {
+          "text": "Post considerationem spiritualis creaturae,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Post considerationem spiritualis creaturae"
+        "text": "Post considerationem spiritualis creaturae,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -105,15 +138,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus In Primam Secundae S. Thomae Aquinatis De Ultimo fine, seu beatitudine hominis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 291–323",
+      "locus": "p. 291–323",
       "language": "",
+      "incipits": [
+        {
+          "text": "Amor Divinus circulum efficit admirabilem,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Amor Divinus circulum efficit admirabilem"
+        "text": "Amor Divinus circulum efficit admirabilem,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -125,18 +168,49 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus De Actibus humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 323–395",
+      "locus": "p. 323–395",
       "language": "",
+      "incipits": [
+        {
+          "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos,...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 230",
+          "label": "codicis MN II 283 (supra",
+          "text": "Finivimus 11 Augusti in Pomeridiana lectione 1752.",
+          "id": "colophon-1"
+        },
+        {
+          "text": "undecimâ Augusti",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos"
+        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos,...",
+        "id": "incipit-1"
       },
-      "explicit": null,
-      "notes": [],
+      "explicit": {
+        "locus": "p. 230",
+        "label": "codicis MN II 283 (supra",
+        "text": "Finivimus 11 Augusti in Pomeridiana lectione 1752.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Et re vera, cum partes b–e codicis nostri cum partibus a–d codicis MN II 283 plane consentiant, non est dubium, quin partes b–e codicis nostri anno scholari 1751/52 a P. Norberto Pampichler in cursu theologico Seitenstettensi dictatae sint. Partem autem a iam invenimus in codice MN II 282 (supra p. 229!), cuius inscriptio indicat hunc tractatum De Incarnatione verbi divini eodem anno scholari 1751/52 a P. Benedicto Veit dictatum esse."
+        }
+      ],
       "dates": [
         {
           "type": "end_date_display",
@@ -255,13 +329,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 287",
     "titles": "Tractatus Scholastico positivus De Incarnatione verbi Divini \nTractatus Scholastico positivus De Incarnatione verbi Divini \nTractatus Scholastico Dogmaticus De Angelis \nTractatus Secundus De Creatione Corporali \nTractatus Primus In Primam Secundae S. Thomae Aquinatis De Ultimo fine, seu beatitudine hominis \nTractatus Secundus De Actibus humanis",
-    "persons": "P. Benedictus Veit Dozent lecturer \nP. Norbertus Pampichler Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "Hoc praecipuum post Sanctissimam Trinitatem mysterium \nExplicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit \nPost considerationem spiritualis creaturae \nAmor Divinus circulum efficit admirabilem \nProgredimur cum Angelico duce nostro ad explicandos actus humanos",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n400 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "persons": "P. Benedictus Veit Dozent lecturer Stift Seitenstetten \nP. Norbertus Pampichler Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe ",
+    "incipits": "Hoc praecipuum post Sanctissimam Trinitatem mysterium,...... \nExplicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit,...... \nPost considerationem spiritualis creaturae,...... \nAmor Divinus circulum efficit admirabilem,...... \nProgredimur cum Angelico duce nostro ad explicandos actus humanos,...",
+    "explicits": "Finivimus 11 Augusti in Pomeridiana lectione 1752. \nundecimâ Augusti",
+    "notes": "Et re vera, cum partes b–e codicis nostri cum partibus a–d codicis MN II 283 plane consentiant, non est dubium, quin partes b–e codicis nostri anno scholari 1751/52 a P. Norberto Pampichler in cursu theologico Seitenstettensi dictatae sint. Partem autem a iam invenimus in codice MN II 282 (supra p. 229!), cuius inscriptio indicat hunc tractatum De Incarnatione verbi divini eodem anno scholari 1751/52 a P. Benedicto Veit dictatum esse.",
+    "physical": "Papier \n400 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "400 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken sowie weißem Rücken; geschrieben 1751/52.\n\na) **Scholastisch-positive Abhandlung über die Menschwerdung des göttlichen Wortes:** S. 3–227. Anfang: Dieses nach der Allerheiligsten Dreifaltigkeit vorzüglichste Geheimnis,......\n\nb) **Scholastisch-dogmatische Abhandlung über die Engel:** S. 233–262. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind,......\n\nc) **Zweite Abhandlung über die körperliche Schöpfung:** S. 263–290. Anfang: Nach der Betrachtung der geistigen Schöpfung,......\n\nd) **Erste Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen:** S. 291–323. Anfang: Die göttliche Liebe bildet einen wunderbaren Kreis,......\n\ne) **Zweite Abhandlung über die menschlichen Handlungen:** S. 323–395. Anfang: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: **am 11. August.**\n\nDieser Schlussvermerk ist mit jenem von MN II 283 zu vergleichen: **Wir beendeten [dies] am 11. August 1752 in der Nachmittagsvorlesung.** Tatsächlich stimmen die Teile b–e unseres Codex mit den Teilen a–d von MN II 283 vollständig überein. Es besteht daher kein Zweifel, dass P. **Norbertus Pampichler** diese Teile im Studienjahr 1751/52 im theologischen Hausstudium Seitenstettens diktierte.\n\nTeil a findet sich bereits in MN II 282, dessen Titel zeigt, dass P. **Benedictus Veit** die Abhandlung über die Menschwerdung im selben Studienjahr 1751/52 diktierte.\n\nDer Schreiber bleibt trotz der Tatsache, dass er auch den vorhergehenden Codex schrieb, unbekannt.",
+    "latin": "400 pagg.; teg. c3d (cum dorso albo); script. 1751/52\n\na) Tractatus Scholastico positivus De Incarnatione verbi Divini: p. 3–227.  \nInitium: Hoc praecipuum post Sanctissimam Trinitatem mysterium,......\n\nb) Tractatus Scholastico Dogmaticus De Angelis: p. 233–262.  \nInitium: Explicata de (mendum pro Dei!) unius et Trini essentia, attributisque S. Doctor ad creaturas transit,......\n\nc) Tractatus Secundus De Creatione Corporali: p. 263–290.  \nInitium: Post considerationem spiritualis creaturae,......\n\nd) Tractatus Primus In Primam Secundae S. Thomae Aquinatis De Ultimo fine, seu beatitudine hominis: p. 291–323.  \nInitium: Amor Divinus circulum efficit admirabilem,......\n\ne) Tractatus Secundus De Actibus humanis: p. 323–395.  \nInitium: Progredimur cum Angelico duce nostro ad explicandos actus humanos,...  \nClausula: undecimâ Augusti\n\nQua cum clausula conferenda est clausula codicis MN II 283 (supra p. 230): Finivimus 11 Augusti in Pomeridiana lectione 1752. Et re vera, cum partes b–e codicis nostri cum partibus a–d codicis MN II 283 plane consentiant, non est dubium, quin partes b–e codicis nostri anno scholari 1751/52 a **P. Norberto Pampichler** in cursu theologico Seitenstettensi dictatae sint. Partem autem a iam invenimus in codice MN II 282 (supra p. 229!), cuius inscriptio indicat hunc tractatum De Incarnatione verbi divini eodem anno scholari 1751/52 a **P. Benedicto Veit** dictatum esse.\n\nScriptor noster, etsi codicem quoque praecedentem scripsit, tamen ignotus est."
   }
 }

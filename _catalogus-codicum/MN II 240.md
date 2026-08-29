@@ -12,16 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Disputatio III. in ultimos 6 Libros Physicorum
-    locus: S. 3–304
+    locus: p. 3–304
+    incipits:
+    - text: Ut Philosophus corpus naturale exactè penetret, ......
+    title_status: unspecified
   - label: b
     title: Tractatus II Physicae In Libros de Mundo et coelo, de Generatione et corruptione, de Meteoris, et de anima
-    locus: S. 321–718
-    dated_clausula:
-      locus: S. 549
-      date_display: 18. Juni, Jahr nicht angegeben
+    locus: p. 321–718
+    incipits:
+    - text: Absolvimus feliciter Physicam universalem, ......
+    colophons:
+    - locus: p. 549
+      text: 18. Junii absolvimus.
+    title_status: unspecified
   - label: c
     title: Tractatus III. In Aristotelis Metaphysicam
-    locus: S. 719–771
+    locus: p. 719–771
+    incipits:
+    - text: Metaphysica seu sapientia transnaturalis tam nobilis est scientia,...
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

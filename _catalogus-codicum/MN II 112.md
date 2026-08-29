@@ -9,8 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 112
 ms_contents:
-  catalogue_title_or_summary: Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi
-    dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.
+  items:
+  - catalog_statement: Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in
+      codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.
+    title: Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II
+      101 (supra
+    locus: p. 64
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

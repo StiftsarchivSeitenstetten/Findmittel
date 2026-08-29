@@ -12,21 +12,37 @@ ms_contents:
   title: Philosophia Aristotelica. Logica Tomistica
   items:
   - label: a
-    title: Iter peripateticum. Seu, Brevis introductio in universam Aristotelis Philosophiam ad Mentem praeceptoris angelici Divi Thomae in alma archi episcopali benedictinâ universitate Salisburgensi tradita
+    title: Iter peripateticum. Seu, Brevis introductio in universam Aristotelis Philosophiam ad Mentem praeceptoris angelici Divi Thomae in alma
+      archi episcopali benedictinâ universitate Salisburgensi tradita
     locus: fol. 7–56
-    incipit: A sumulis iter nostrum peripateticum ordimur
     end_date_display: '1711'
+    incipits:
+    - text: A sumulis iter nostrum peripateticum ordimur, ....
+      locus: fol. 7r
+      label: Brooemii (!)
+    colophons:
+    - locus: fol. 56v
+      text: Finis sumularum. Anno 1711.
+    title_status: unspecified
   - label: b
     title: Logica. et eadem (= quidem?) Maior. Anno 1711
     locus: fol. 57r–196v
-    incipit: Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus
     end_date_display: 20. Mai 1712
+    incipits:
+    - text: Tractatus de his, quae logicam Maiorem concernunt. Prooemium. Sat diu vestibulum peripateticum obambulavimus, ......
+      locus: fol. 58r
+    colophons:
+    - text: Die 20 Maii Anno 1712.
+    title_status: unspecified
   - label: c
     title: Quaestiones selectae ex logica
     locus: fol. 198r–227r
+    title_status: unspecified
   - label: d
     title: De Praemotione Physica
     locus: fol. 233r–237v
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-14",
   "signature": "MN II 14",
   "aliases": [
@@ -35,6 +35,9 @@
     "summary": "Physikvorlesung Simon Fyrbas’, mitgeschrieben von Ludwig Scherb, mit gedruckten Thesen von 1630.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "fol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha)",
         "typeRaw": null,
         "typeLabel": null
       },
-      "locus": "",
+      "locus": "fol. 1r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -69,15 +76,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 253r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "philosophiae studium nihil aliud est.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 253r",
+          "text": "Primo die Februarii Anno post Christum natum 1630.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "philosophiae studium nihil aliud est.......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 253r",
+        "text": "Primo die Februarii Anno post Christum natum 1630.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -92,13 +123,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "VIII + 36 pagg",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -190,13 +225,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-14/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 14",
-    "titles": "fol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha) \nfol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha) \n*Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r. \n*Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg.",
-    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer \nFr. Ludwig Scherb OSB Schreiber scribe \nP. Petrus Mergele printed disputant printed_disputant",
-    "incipits": "",
-    "explicits": "",
+    "titles": "fol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha) \nfol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha) \nAuditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629) \nPronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici",
+    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer  \nFr. Ludwig Scherb OSB Schreiber scribe  \nP. Petrus Mergele printed disputant printed_disputant ",
+    "incipits": "philosophiae studium nihil aliud est.......",
+    "explicits": "Primo die Februarii Anno post Christum natum 1630.",
     "notes": "Physikvorlesung Simon Fyrbas’, mitgeschrieben von Ludwig Scherb, mit gedruckten Thesen von 1630. \nfol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha) \n*Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r. \n*Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg.",
-    "physical": "Papier \nII + 254 Blätter + VIII + 36 gedruckte Seiten \nQuartformat \ncode: a1; description: Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \nII + 254 Blätter + VIII + 36 gedruckte Seiten \nQuartformat \ncode: a1; description: Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "II + 254 Blätter + VIII + 36 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen (wie MN II 13); 1629/30.\n\n**a)** Bl. 1r: Gedicht zur Förderung des Fleißes des Studenten (6 Distichen).\n\n**b) Physikalische Vorlesung, in klarer Darstellung erläutert von Fr. Simon Fyrbas, Mönch von Scheyern und ordentlichem Professor an der Universität Salzburg, mitgeschrieben von [gestrichen] Fr. Ludwig Scherb, Mönch des berühmten Klosters der seligen Jungfrau Maria in Seitenstetten, desselben Ordens. 1625. Im Jahr 1629:** Bl. 1–253r.\n\nAnfang der Vorrede: **Das Studium der Philosophie ist nichts anderes als.......**\n\nSchlussvermerk Bl. 253r: **Am 1. Februar 1630.**\n\nWeitere Schluss- und Datumsvermerke: Bl. 4, Bl. 67 (dort auch über ein Gespräch mit einem hochwürdigsten Herrn Petrus und über ein von einem Musiker gelöstes Rätsel), Bl. 144, Bl. 167 (dort über die abreisenden Brüder Placidus Zeisel, Benedict Pirin und Leonard Offner von St. Lambrecht sowie über die Kapuzinerpatres, die in Mittenstötten zu Gast waren und wegen des Aussehens eines Emblems am 3. Dezember 1629 Fr. Jakob [Politor, Prof. Obscurorum], damals Professor der Logik, einen Brief übergaben), Bl. 210v, 231v, Bl. 240r (über die Oktav der Prim[orum] regum.... 1630); Bl. 250–253r Register.\n\n**c) Physikalische Lehrsätze über die Natur**, an der Universität Salzburg unter dem Vorsitz von P. Fr. Simon Fyrbas verteidigt von P. Petrus Mergele, Profess des exemten niederösterreichischen Klosters Ettwich, Student des Kirchenrechts und der Philosophie. Für den 12. April 1630. Salzburg, gedruckt bei Christoph Katzenberger, Universitätsdrucker: VIII + 36 Seiten.",
+    "latin": "II + 254 foll. + VIII + 36 pagg.; teg. a1 (ut MN II 13); 1629/30\n\na) fol. 1r: Carmen (ad industriam studentis fovendam) (6 disticha)\n\nb) *Auditus Physicus Comentatione Lucidâ ab.....Fratre Simone Fyrbas Monacho Schyrensi ....., in Alma Salisburgensium Universitate Professore Ordinario Illustratus Excipiente [gestrichen] F. Ludovico Scherbio Celeberrimi monasterii Beatae Mariae Virginis in Seittenstötten eundem ordinem professo. 1625. Anno MDCXXIX (1629):* fol. 1 - 253r.\n\nInitium Prooemii: philosophiae studium nihil aliud est.......\n\nClausula fol. 253r: Primo die Februarii Anno post Christum natum 1630.\n\nAliae clausulae temporumque notae: f. 4, f. 67 (ubi etiam de colloquio cum quodam Reverendissimo Domino Petro et de aenigmatae a musico soluto), f. 144, f. 167 (ubi de abeuntibus Frr. Placido Zeiselio, Benedicto Pirin, Leonardo Offner ex S. Lamberto et de Patribus Capucinis in Mittenstötten hospitantibus, qui ratione faciei emblematis die 3. Dec. 1629 F. Jacobo (Politor, Prof. Obscurorum), logices Professor, tunc temporis litteras tradiderunt), f. 210v., 231v., f. 240r. (de octava Prim[orum] regum....1630); fol. 250 - 253r. Index.\n\nc) *Pronunciata Physica De Natura. In Alma Universitate Salisburgensi, sub praesidio P. F. Simonis Fyrbas.....propugnata a .... F. Petro Mergele,.....in ...Exempto Austriae Inferioris Monasterio Ettwicensi Professo, Juris Canonici, et Philosophiae Studioso. Ad diem XII. Mensis Aprilis. Anno MDCXXX (1630). Salisburgi, Typis Christophori Katzenbergeri, Typographi Academici.* VIII + 36 pagg."
   }
 }

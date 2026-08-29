@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-43",
   "signature": "MN III 43",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "245",
   "heading": {
     "title": "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1752"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–62",
+      "locus": "p. 3–62",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -147,13 +154,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-43/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 43",
     "titles": "Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis \nRitus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis",
-    "persons": "unbekannt Schreiber scribe \nP. Ambrosius user user",
+    "persons": "unbekannt Schreiber scribe  \nP. Ambrosius user user ",
     "incipits": "",
     "explicits": "",
     "notes": "Priestertexte lateinisch, übrige Texte deutsch; Actus Variarum Virtutum ab Infirmis eliciendi S. 35–62.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand siehe Katalogtext."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand siehe Katalogtext.",
+    "german": "Kleines Oktavformat; grauer Pappeinband, stark beschädigt; 62 Seiten; geschrieben 1752.\n\n**Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis:** S. 3–62.\n\nWas ausschließlich dem Priester dient, ist lateinisch, das Übrige deutsch verfasst. So stehen etwa die **Actus Variarum Virtutum ab Infirmis eliciendi** S. 35–62 in deutscher Sprache.\n\nS. 28 wird ein vollkommener Ablass genannt, den Benedikt XIV. für die Todesstunde gewährte und der von jedem Priester der Diözese Passau erteilt werden konnte. Daher wurde unser Büchlein entweder von einem Priester der Passauer Diözese oder für einen solchen geschrieben, wahrscheinlich für einen Seitenstettner Mönch.\n\nWelcher Priester das Büchlein benutzte, steht auf der Innenseite des Vorderdeckels: **P. Ambrosii.** Dieser P. Ambrosius scheint den Codex jedoch nicht selbst geschrieben zu haben. Daher bleibt ungewiss, ob P. Ambrosius Prukmayr († 1755) oder P. Ambrosius Rixner (Priester 1762, Abt 1777) das Büchlein benutzte.\n\nDas Entstehungsjahr zeigt das Chronogramm S. 27:\n\n**IVerVnt aLII, nos IbIMVs, IbItIs, IbVnt.**  \n**sIC LeX natVrae orDInaVIt.**\n\nEs ergibt das Jahr 1752. Die mit Bleistift daruntergeschriebene Zahl 1762 ist ein Fehler.\n\nAuf der Innenseite des Vorderdeckels steht außerdem: **Ritus Passaviensis**.",
+    "latin": "8° min.; teg. c1 (valde laesum!); 62 pagg.; script. 1752\n\n**Ritus Administrandi Infirmis Venerabile Sacramentum Evcharistiae et Extremae Unctionis:** p. 3–62.\n\nQuae soli sacerdoti usui sunt, Latine, cetera Germanice composita sunt; ex. gr. Actus Variarum Virtutum ab Infirmis eliciendi p. 35–62 Germanorum utuntur lingua.\n\np. 28 notatur Indulgentia Plenaria à Benedicto XIV. concessa in Articulo Mortis à quovis Sacerdote Diaeceseos Passaviensis impertienda. Itaque scriptus est codicillus noster aut a aut pro sacerdote Passaviensis dioeceseos, probabiliter monacho Seitenstettensi.\n\nQui sacerdos usus fuerit hoc libello, in parte adversa tegumenti ab intrinsecus notatum est: **P. Ambrosii.** Videtur tamen ille P. Ambrosius non sua manu scripsisse codicillum nostrum. Quae cum ita sint, incertum est, utrum P. Ambrosius Prukmayr (†1755) an P. Ambrosius Rixner (sacerdos 1762, abbas 1777) libello nostro usus sit.\n\nQuo anno scriptus sit codicillus noster, indicat chronostichon p. 27:\n\n**IVerVnt aLII, nos IbIMVs, IbItIs, IbVnt.**  \n**sIC LeX natVrae orDInaVIt.**\n\n(pro anno 1752; numerus 1762, qui graphitide subscriptus est, mendum est!)\n\nIn parte adversa tegumenti notatum est: **Ritus Passaviensis**"
   }
 }

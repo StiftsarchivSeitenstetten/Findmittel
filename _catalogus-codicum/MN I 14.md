@@ -17,26 +17,21 @@ ms_identifier:
   idno: "MN I 14"
 
 ms_contents:
-  overall_title:
-    title: "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission"
-    title_type: "original"
-
-  summary: "Protokoll einer Kommission zur Revision und Erläuterung des Tractatus de Juribus incorporalibus; nach Einschätzung des Katalogbearbeiters betrifft der Codex die erneuerten Gesetze Niederösterreichs."
-
+  summary: Protokoll einer Kommission zur Revision und Erläuterung des Tractatus de Juribus incorporalibus; nach Einschätzung des Katalogbearbeiters
+    betrifft der Codex die erneuerten Gesetze Niederösterreichs.
   items:
-    - item: 1
-      title: "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission"
-      title_type: "original"
-      locus: "S. 7–688"
-      subject:
-        - "Tractatus de Juribus incorporalibus"
-        - "Niederösterreichisches Recht"
-      date:
-        display: "bis 25. Februar 1753"
-        not_after: "1753-02-25"
-        certainty: "inferred"
-        evidence: "Nach Einschätzung des Katalogbearbeiters beendete die Kommission am 25. Februar 1753 ihre Beratungen und Sitzungen; siehe S. 688."
-
+  - item: 1
+    title: Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission
+    locus: p. 7–688
+    subject:
+    - Tractatus de Juribus incorporalibus
+    - Niederösterreichisches Recht
+    date:
+      display: bis 25. Februar 1753
+      not_after: '1753-02-25'
+      certainty: inferred
+      evidence: Nach Einschätzung des Katalogbearbeiters beendete die Kommission am 25. Februar 1753 ihre Beratungen und Sitzungen; siehe S. 688.
+    title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-106",
   "signature": "MN II 106",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "66",
   "heading": {
-    "title": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "(fragmentum libri antiphonarii)"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,45 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–295v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 295v",
+          "text": "...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 295v",
+        "text": "...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-106/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 106",
-    "titles": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant. \nCommentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+    "titles": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671 \nCommentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n301 foll. \ndescription: Pergament- bzw. Makulatureinband; Einzelheiten siehe Katalogtext."
+    "incipits": "Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem.....",
+    "explicits": "...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+    "notes": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+    "physical": "Papier \n301 foll. \ndescription: Pergament- bzw. Makulatureinband; Einzelheiten siehe Katalogtext.",
+    "german": "301 Blätter; Pergamenteinband aus einem im 14. Jahrhundert kunstvoll mit geistlicher Musik beschriebenen Blatt, einem Fragment eines Antiphonars.\n\n**Kommentar zur Naturphilosophie**, diktiert von P. Gregorius Wimberger, Benediktiner des Klosters Kremsmünster, ordentlicher Professor der Philosophie in Salzburg und damals Dekan derselben Fakultät; aufgezeichnet von Fr. Joannes Gerstl, Benediktiner und Profess des Klosters Seitenstetten, 1671: fol. 1–295v; Register fol. 297r–299r.\n\nAnfang fol. 1r: **Kommentar zur Physik des Aristoteles, des Fürsten der Philosophen. Vorrede:** Nach dem Kommentar zur rationalen Philosophie..... Schluss fol. 295v: ...über die acht Bücher der Physik möge dies zur Ehre des engelgleichen Lehrers an dessen Vorabend, dem 6. März, genügen.",
+    "latin": "301 foll.; teg. folium membranaceum saec. XIV. modis musicis ornate inscriptum (fragmentum libri antiphonarii)\n\nCommentarius In Philosophiam Naturalem Dictatus Ab....Patre **Gregorio Wimberger** Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre **Joanne Gerstl**, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. _Initium_ fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... _Clausula_ fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant."
   }
 }

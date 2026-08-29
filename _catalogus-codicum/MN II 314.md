@@ -11,25 +11,31 @@ ms_identifier:
 ms_contents:
   items:
   - label: a
-    title: Unterricht für die Herren Pfarrer, Armenväter und Rechnungsführer bei dem Armeninstitute, was die selben bei der Beschreibung, Untersuchung und betheilung der Armen zu beobachten haben
-    locus: S. III–XXXVIII
+    title: Unterricht für die Herren Pfarrer, Armenväter und Rechnungsführer bei dem Armeninstitute, was die selben bei der Beschreibung, Untersuchung
+      und betheilung der Armen zu beobachten haben
+    locus: p. III–XXXVIII
     support: manuscript
     note: Mit weiteren von 1784 bis 1803 veröffentlichten Verordnungen zum Armeninstitut.
+    title_status: unspecified
   - label: b
-    title: Unterricht für sämmtliche Herrn Armen-Institute-Vorsteher des Armenhauptbezirkes von Wien, über die bey der Betheilung und Versorgung der hiesigen Armen, dann bey der Rechnungslegung, zu beobachtenden Grundsätze. Wien, gedruckt bey Anton Pichler. 1822
-    locus: S. 1–50
+    title: Unterricht für sämmtliche Herrn Armen-Institute-Vorsteher des Armenhauptbezirkes von Wien, über die bey der Betheilung und Versorgung
+      der hiesigen Armen, dann bey der Rechnungslegung, zu beobachtenden Grundsätze. Wien, gedruckt bey Anton Pichler. 1822
+    locus: p. 1–50
     support: print
+    title_status: unspecified
   - label: c
     title: Varia decreta de instituto pauperum ab anno 1826 usque ad annum 1848 publici iuris facta
-    title_type: supplied
-    locus: S. 51–216
+    locus: p. 51–216
     support: manuscript
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    title_status: supplied
+    title_source: cataloguer
   - label: d
     title: Index
-    title_type: supplied
-    locus: S. 218–222
+    locus: p. 218–222
     note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

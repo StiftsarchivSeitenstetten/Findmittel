@@ -12,24 +12,35 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Dogmaticus Isagogicus
-    locus: S. 7–119
-    incipit: Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur
+    locus: p. 7–119
+    incipits:
+    - text: Labores nostros Scholasticos dum hoc anno ab ipso tractationum theologicarum initio ordimur,......
+    title_status: unspecified
   - label: b
     title: Tractatus Theologicus Scholastico-Dogmaticus De Deo. Praefatio
-    title_type: supplied
-    locus: S. 121
-    incipit: Altius jam mentis oculi et ad deum ipsum attollendi sunt
+    locus: p. 121
     note: Nur die Inhaltsbezeichnung „Praefatio“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    incipits:
+    - text: Altius jam mentis oculi et ad deum ipsum attollendi sunt,......
+    title_status: unspecified
   - label: c
     title: Pars I De Deo Uno ejus existentia, natura et proprietatibus
-    locus: S. 121–342
-    incipit: Amplissimae cùm sint de deo ejusque Divinis attributis considerationes
+    locus: p. 121–342
+    incipits:
+    - text: Amplissimae cùm sint de deo ejusque Divinis attributis considerationes......
+    title_status: unspecified
   - label: d
     title: Pars Secunda de Deo Trino
-    locus: S. 343–389
-    incipit: Ad mysterium ascendimus omnium Religionis Christianae sublimissimum
+    locus: p. 343–389
     end_date_display: 18. August 1755
-    explicit: 'In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi.'
+    incipits:
+    - text: Ad mysterium ascendimus omnium Religionis Christianae sublimissimum...... (Alterum
+    - label: in dimidio dextro paginae eiusdem
+      text: Postquam egimus de attributis divinis absolutis, ad relativa devenimus.....)
+    colophons:
+    - text: 'In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi. 18. Augusti 1755'
+    - text: 'In Te, sancta Trias! finitos cerne labores: In Te da requiem perpetuare mihi.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

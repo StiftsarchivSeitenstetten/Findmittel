@@ -13,14 +13,29 @@ ms_contents:
   items:
   - label: a
     title: Proemium
-    locus: S. 5–9
+    locus: p. 5–9
+    incipits:
+    - text: Qui in acie hostem prosternere flagrat......
+    title_status: unspecified
   - label: b
     title: Logica Minor
-    locus: S. 9–186
+    locus: p. 9–186
     end_date_display: 23. Dezember, Jahr nicht angegeben
+    incipits:
+    - text: Tractatus, quem modò incipimus explanare,.....
+    colophons:
+    - text: Absolvimus 23. Decembris ante prandium, et incepimus post prandium maiorem logicam.
+    title_status: unspecified
   - label: c
     title: Logica Maior
-    locus: S. 187–900
+    locus: p. 187–900
+    incipits:
+    - label: Proloquii
+      text: A velitationibus ad pugnam, â fundamento in sublime, â vocibus et terminis ad rem ipsam
+    notes:
+    - 'Beginnereignis: incepimus post prandium maiorem logicam.'
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

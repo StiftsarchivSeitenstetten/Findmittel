@@ -305,3 +305,130 @@
         padding: 17px;
     }
 }
+
+/* Entity-oriented Catalogus search */
+.catalogus-search-controls {
+    grid-template-columns: minmax(250px, 2fr) minmax(190px, 1fr) minmax(180px, 1fr) minmax(110px, 0.65fr) minmax(110px, 0.65fr) minmax(180px, 1fr) auto;
+}
+
+.catalogus-result-entity-filters {
+    align-items: stretch;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 16px 0 6px 0;
+}
+
+.catalogus-result-entity-filters[hidden] {
+    display: none;
+}
+
+.catalogus-facet-label {
+    align-self: center;
+    color: var(--color-muted);
+    font-size: 9.5pt;
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.catalogus-entity-chip {
+    background: var(--color-paper);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    color: var(--color-ink);
+    cursor: pointer;
+    display: inline-flex;
+    flex-direction: column;
+    gap: 2px;
+    padding: 7px 10px;
+    text-align: left;
+}
+
+.catalogus-entity-chip:hover,
+.catalogus-entity-chip:focus-visible {
+    border-color: var(--color-gold);
+}
+
+.catalogus-entity-chip.is-active {
+    border-color: var(--color-red);
+    box-shadow: inset 0 0 0 1px var(--color-red);
+}
+
+.catalogus-entity-chip small {
+    color: var(--color-muted);
+    font-size: 8pt;
+}
+
+.catalogus-search-results {
+    display: block;
+}
+
+.catalogus-result-group {
+    margin-top: 24px;
+}
+
+.catalogus-result-group > h3 {
+    color: var(--color-red-dark);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 17pt;
+    font-weight: normal;
+    margin: 0 0 2px 0;
+}
+
+.catalogus-result-group-meta {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+    margin: 0 0 10px 0;
+}
+
+.catalogus-result-group-list {
+    display: grid;
+    gap: 14px;
+}
+
+.catalogus-result-card h4 {
+    color: var(--color-red-dark);
+    font-size: 14pt;
+    margin: 0 0 5px 0;
+}
+
+.catalogus-result-card h4 a {
+    color: inherit;
+}
+
+.catalogus-badge-entity {
+    background: #f7f2e8;
+    border-color: var(--color-gold);
+    color: var(--color-ink);
+}
+
+.catalogus-inc-exp[id],
+.catalogus-item[id],
+.catalogus-note-list li[id] {
+    scroll-margin-top: 18px;
+}
+
+@media (max-width: 1100px) {
+    .catalogus-search-controls {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .catalogus-search-controls .catalogus-query-field {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 700px) {
+    .catalogus-search-controls {
+        grid-template-columns: 1fr;
+    }
+
+    .catalogus-search-controls .catalogus-query-field {
+        grid-column: 1;
+    }
+
+    .catalogus-result-entity-filters {
+        align-items: stretch;
+        flex-direction: column;
+    }
+}

@@ -9,13 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 227
 ms_contents:
-  title: Tractatus de Angelis et De actibus humanis
-  completeness: incomplete
-  note: Die im überlieferten Titel angekündigte Abhandlung über die menschlichen Handlungen ist nicht enthalten und war offenbar nie Bestandteil des Codex.
+  completeness:
+    status: defective
+    note: incomplete
+  note: Die im überlieferten Titel angekündigte Abhandlung über die menschlichen Handlungen ist nicht enthalten und war offenbar nie Bestandteil
+    des Codex.
   items:
   - label: a
     title: Tractatus de Angelis et De actibus humanis
-    locus: S. 3–336
+    locus: p. 3–336
+    incipits:
+    - text: Egimus ante annum de Deo in se et actionibus eius ad intra.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

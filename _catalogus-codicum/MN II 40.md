@@ -16,22 +16,74 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis....'
+    title: Liber Primus De Regula actuum humanorum
+    locus: fol. 1 - 13r
+    incipits:
+    - text: Conscientia est dictamen rationis....
+    title_status: unspecified
   - label: b
-    catalog_statement: '*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur....'
+    catalog_statement: '*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè
+      credere tenentur....'
+    title: Liber Secundus De Praeceptis Virtutum Theologicarum
+    locus: fol. 13r - 27r
+    incipits:
+    - locus: fol. 13v
+      text: Ex iis, quae fideles explicitè credere tenentur....
+    title_status: unspecified
   - label: c
     catalog_statement: '*Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum....'
+    title: Liber Tertius De praeceptis Decalogi et Ecclesiae
+    locus: fol. 27 - 83
+    incipits:
+    - locus: fol. 27r
+      text: Huius praecepti, prout est affirmativum....
+    title_status: unspecified
   - label: d
-    catalog_statement: '*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis....'
+    catalog_statement: '*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio
+      legis....'
+    title: Liber Quartus De ratione cognoscendi, et discernendi peccata
+    locus: fol. 83 - 91
+    incipits:
+    - locus: fol. 83r
+      text: (Peccatum) est transgressio legis....
+    title_status: unspecified
   - label: e
-    catalog_statement: '*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est....'
+    catalog_statement: '*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status
+      Religiosus est....'
+    title: Liber Quintus De Praeceptis particularibus certo hominum statui propriis
+    locus: fol. 91 - 109v
+    incipits:
+    - locus: fol. 91v
+      text: Status Religiosus est....
+    title_status: unspecified
   - label: f
     catalog_statement: '*Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex....'
+    title: 'Liber Sextus: De Sacramentis'
+    locus: fol. 109v - 157v
+    incipits:
+    - text: Habebit hic Liber tractatus sex....
+    title_status: unspecified
   - label: g
-    catalog_statement: '*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648.'
+    catalog_statement: '*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis....
+      Clausula fol. 172v: Die 26 Januarii Anno 1648.'
+    title: Liber Septimus De Censuris Ecclesiasticis
+    locus: fol. 157v - 172v
+    incipits:
+    - text: Censura est poena temporalis et medicinalis....
+    colophons:
+    - locus: fol. 172v
+      text: Die 26 Januarii Anno 1648.
+    title_status: unspecified
   - label: h
     catalog_statement: '*Index Libri:* fol. 178 - 185r.'
+    title: Index Libri
+    locus: fol. 178 - 185r
+    title_status: unspecified
   - label: i
     catalog_statement: '*Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.'
+    title: Appendix
+    locus: fol. 185v - 188r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

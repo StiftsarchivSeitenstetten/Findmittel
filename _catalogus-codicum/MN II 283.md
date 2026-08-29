@@ -13,26 +13,48 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Dogmaticus De Angelis
-    locus: S. 5–49
-    incipit: Explicata Dei unius et Trini essentia, attributisque
+    locus: p. 5–49
     end_date_display: 29. Januar 1752
+    incipits:
+    - text: Explicata Dei unius et Trini essentia, attributisque......
+    colophons:
+    - text: Absolvimus 29. Januarii 1752.
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Creatura Corporali
-    title_type: supplied
-    locus: S. 51–88
-    incipit: Post considerationem Spiritualis creaturae
+    locus: p. 51–88
     end_date_display: 15. April 1752
     note: Nur „Secundus“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    incipits:
+    - text: Post considerationem Spiritualis creaturae,......
+      locus: p. 53
+    colophons:
+    - text: Finivimus 15. Aprilis 1752.
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Tractatus De Beatitudine Hominis
-    locus: S. 91–134
-    incipit: Amor Divinus circulum efficit admirabilem
+    locus: p. 91–134
     end_date_display: 5. Juni 1752
+    incipits:
+    - text: Amor Divinus circulum efficit admirabilem
+    - label: Tractatus Primi In primam Secundae S
+      text: 'Thomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,......'
+    colophons:
+    - text: Finivimus quinta Junii 1752.
+    title_status: unspecified
   - label: d
     title: Tractatus De Actibus Humanis
-    locus: S. 135–209
-    incipit: Progredimur cum Angelico duce nostro ad explicandos actus humanos
+    locus: p. 135–209
     end_date_display: 11. August 1752, Nachmittagsvorlesung
+    incipits:
+    - text: Progredimur cum Angelico duce nostro ad explicandos actus humanos
+    - label: Tractatus Secundi De Actibus Humanis
+      text: 'p. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos.....'
+    colophons:
+    - text: Finivimus 11 Augusti in Pomeridiana lectione 1752.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

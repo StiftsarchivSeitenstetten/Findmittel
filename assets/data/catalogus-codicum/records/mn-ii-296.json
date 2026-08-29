@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-296",
   "signature": "MN II 296",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "238–239",
   "heading": {
     "title": "Series Romanorum Imperatorum ab Augusto Caesare usque ad Decium",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1756"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Series Romanorum Imperatorum ab Augusto Caesare usque ad Decium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–76v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Kurtze und Sinnreiche Sprüche – Apophtegmata",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 77r–91r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -95,13 +106,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Supplementa ad Institutiones Grammaticas R. P. Emanuelis Alvari e Societate Jesu. in usum Mediae Classis Grammatices",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 93r–106v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -118,13 +133,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Register der Korrekten – Index Correctorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 109r–117v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -221,13 +240,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-296/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 296",
     "titles": "Series Romanorum Imperatorum ab Augusto Caesare usque ad Decium \nSeries Romanorum Imperatorum ab Augusto Caesare usque ad Decium \nKurtze und Sinnreiche Sprüche – Apophtegmata \nSupplementa ad Institutiones Grammaticas R. P. Emanuelis Alvari e Societate Jesu. in usum Mediae Classis Grammatices \nRegister der Korrekten – Index Correctorum",
-    "persons": "Josephus Pampichler Besitzer owner \nJosephus Pampichler Übersetzer translator \nJosephus Pampichler Schreiber scribe",
+    "persons": "Josephus Pampichler Besitzer owner  \nJosephus Pampichler Übersetzer translator  \nJosephus Pampichler Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Links deutsche Themen, rechts deren lateinische Übersetzungen; Schlussvermerk 1756. \nDie lateinischen Übersetzungen fehlen fol. 90r–91r. \nincomplete \nDer Katalog weist ausdrücklich darauf hin, dass die Supplementa von einem unbekannten Bearbeiter einer Neuausgabe des 18. Jahrhunderts stammen. \nDie in runden Klammern stehende Erläuterung „Reinschriften“ ist eine editorische Inhaltsangabe und wurde nicht als überlieferter Titel behandelt.",
-    "physical": "Papier \ntomus transversus (altior quam latior) \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext."
+    "physical": "Papier \ntomus transversus (altior quam latior) \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext.",
+    "german": "Querformat, höher als breit; 117 Blätter; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen verziert; geschrieben 1756.\n\na) **Reihe der römischen Kaiser von Augustus Caesar bis Decius:** fol. 1r–76v. Wie im gesamten Codex ist jede Seite in zwei Hälften geteilt. In Teil a stehen links deutsche Themen, die kurz die Taten jedes Kaisers erklären, rechts die lateinischen Übersetzungen dieser deutschen Themen. Vor dem Titel steht der Besitzername: **Josephi Pampichler Grammatistae 1756.** Notiz fol. 76v: **Ende für dieses Jahr, nämlich 1756.**\n\nb) **Kurtze und Sinnreiche Sprüche – Apophtegmata:** fol. 77r–91r. Auch hier wurden kurze Ereignisse deutsch diktiert und notiert und auf der rechten Seite ins Lateinische übersetzt. Die lateinischen Übersetzungen fehlen jedoch auf fol. 90r–91r.\n\nc) **Ergänzungen zu den grammatischen Institutionen des P. Emmanuel Alvarez SJ für den Gebrauch der mittleren Grammatikklasse:** fol. 93r–106v.\n\nNB: Diese Ergänzungen stammen nicht von P. Emmanuel Alvarez selbst zu seiner im 17. Jahrhundert veröffentlichten Grammatik, sondern von einem unbekannten Bearbeiter zu einer Neuausgabe dieser Grammatik in der Mitte des 18. Jahrhunderts.\n\nd) **Register der Korrekten (= Reinschriften):** fol. 109r–117v. Der Codex ist tatsächlich äußerst sorgfältig geschrieben.\n\nJosephus Pampichler, der wahrscheinlich die deutschen Themen ins Lateinische übersetzte, scheint derselbe wie **P. Maximilianus Pampichler** zu sein, der 1762 in Seitenstetten Profess ablegte. Falls diese Identifikation richtig ist, entstand unser Codex nicht in der Schule der Seitenstettner Studienjugend, weil P. Maximilian Pampichler seine humanistischen Studien in Wien absolvierte.\n\nIch bin nicht überzeugt, dass Josephus Pampichler als Knabe diese Reinschriften eigenhändig schrieb.",
+    "latin": "tomus transversus (altior quam latior); 117 foll.; teg. b1; 1756\n\na) Series Romanorum Imperatorum ab Augusto Caesare usque ad Decium: fol. 1r–76v. Ut in toto codice singulae paginae divisae sunt in duas partes. In parte a) dimidia paginarum sinistra exhibent themata Germanica, quae cuiusque imperatoris res gestas breviter explicant, dimidia dextra versiones Latinas thematum illorum Germanicorum. Ante titulum nomen possidentis: **Josephi Pampichler Grammatistae 1756.** Nota folio 76 verso: **Finis pro hoc anno (nempe 1756).**\n\nb) Kurtze und Sinnreiche Sprüche – Apophtegmata: fol. 77r–91r. Etiam in hac parte breves res gestae lingua Germanica dictata notataque et in parte dextera in linguam Latinam versae sunt. Quae tamen versiones Latinae fol. 90r–91r desunt.\n\nc) Supplementa ad Institutiones Grammaticas R. P. Emanuelis Alvari e Societate Jesu. in usum Mediae Classis Grammatices: fol. 93r–106v.\n\n(N. B.! Haec supplementa non ab ipso P. Emmanuele Alvari ad Grammaticam ab eo saeculo XVII. editam composita sunt, sed a nescio quo ad novam editionem huius Grammaticae medio saeculo XVIII.)\n\nd) Register der Korrekten (= Reinschriften) – Index Correctorum: fol. 109r–117v. (Re vera codex noster diligentissime scriptus est.)\n\n\n\n\nJosephus Pampichler, qui probabiliter themata Germanica huius codicis in linguam Latinam vertit, videtur esse idem atque **P. Maximilianus Pampichler**, qui anno 1762 in monasterio Seitenstettensi vota nuncupavit. Quod si non false arbitrati sumus, codex noster non in schola studiosae iuventutis Seitenstettensis scriptus est, quia ille P. Maximilianus Pampichler Vindobonae humanioribus studuit. (Vide Rotulam, quam dicunt, illius monachi Seitenstettensis!)\n\nNon est mihi persuasum, ipsum Josephum Pampichler utpote puerum sua manu scripsisse haec correcta.\n\nDorsum huius codicis ornatum est flosculis impressis auratisque."
   }
 }

@@ -16,12 +16,34 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.'
+    title: Commentarius in Logicam Aristotelis Prooemium
+    locus: fol. 1 - 22v
+    title_status: unspecified
+    incipits:
+    - text: Dubiam et pene infinitis difficultatibus implicatam scientiam....
   - label: b
     catalog_statement: 'Prima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v'
+    title: Prima Pars Commentarii De Natura Logicae De Ente Rationis
+    locus: fol. 2v - 144v
+    title_status: unspecified
+    incipits:
+    - text: Natura logicae ad cuius contemplationem accedimus....
   - label: c
-    catalog_statement: 'Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte....'
+    catalog_statement: 'Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii
+      parte....'
+    title: Pars Secunda Commentarii in Aristotelis Logicam De Universalibus
+    locus: fol. 1 - 284v
+    incipits:
+    - text: Hac secunda Commentarii parte....
+    title_status: unspecified
   - label: d
-    catalog_statement: 'Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)'
+    catalog_statement: 'Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol.
+      1 - 62v (=430 - 492)'
+    title: Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624)
+    locus: fol. 1 - 62v
+    title_status: unspecified
+    incipits:
+    - text: Quemadmodum Rhetoricae praecipuus scopus.....
 phys_desc:
   object_form: codex
   support: Papier

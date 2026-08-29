@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-79",
   "signature": "MN II 79",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "55",
   "heading": {
     "title": "Institutiones sive Summulae Dialecticae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1662/63"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutiones sive Summulae Dialecticae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–61v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "In Prooemium",
+          "text": "Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "In Prooemium",
+        "text": "Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,6 +83,7 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prolegomena Logicae",
         "typeRaw": "supplied",
@@ -71,7 +91,20 @@
       },
       "locus": "fol. 63–126r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 63r",
+          "text": "Dum ad penitiora Logicae arcana penetranda animum appellimus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 63r",
+        "text": "Dum ad penitiora Logicae arcana penetranda animum appellimus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -82,14 +115,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Introductio seu Isagoge Porphyrii Sive de Universalibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 126–209v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 126v",
+          "text": "Traditis Prolegomenis Logicae........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 126v",
+        "text": "Traditis Prolegomenis Logicae........",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -100,15 +147,39 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarii in Organum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 210–337",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 210r",
+          "text": "Aggredimur ad ipsam doctrinam Logicae....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 337r",
+          "text": "Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 210r",
+        "text": "Aggredimur ad ipsam doctrinam Logicae....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 337r",
+        "text": "Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -208,13 +279,16 @@
       "note": "Der Katalog erklärt, derselbe unbekannte Schreiber habe auch die beiden folgenden Codices geschrieben."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 79",
     "titles": "Institutiones sive Summulae Dialecticae \nInstitutiones sive Summulae Dialecticae \nProlegomena Logicae \nIntroductio seu Isagoge Porphyrii Sive de Universalibus \nCommentarii in Organum Aristotelis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur..... \nDum ad penitiora Logicae arcana penetranda animum appellimus.... \nTraditis Prolegomenis Logicae........ \nAggredimur ad ipsam doctrinam Logicae....",
+    "explicits": "Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.",
     "notes": "",
-    "physical": "Papier \n337 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1."
+    "physical": "Papier \n337 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1.",
+    "german": "337 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1662/63.\n\na) **Einführung oder Summulae der Dialektik:** fol. 1–61v. Anfang der Vorrede fol. 1r: Bevor wir die Bahn des philosophischen Kurses durch die Logik (unklare Lesung) betreten.....\n\nb) **(Prolegomena zur Logik):** fol. 63–126r. Anfang fol. 63r: Während wir unseren Geist darauf richten, in die tieferen Geheimnisse der Logik einzudringen....\n\nc) **Einführung oder Isagoge des Porphyrius, oder: Über die Universalien:** fol. 126–209v. Anfang fol. 126v: Nachdem die Prolegomena der Logik dargelegt worden sind........\n\nd) **Kommentare zum Organon des Aristoteles:** fol. 210–337. Anfang fol. 210r: Wir gehen nun zur eigentlichen Lehre der Logik über.... Schluss fol. 337r: **Wir beendeten [dies] am Fest des hl. Märtyrers Georg, am 23. April 1663.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.",
+    "latin": "337 foll.; teg. a2 (in parte adversa JHS, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1662/63\n\na) Institutiones sive Summulae Dialecticae: fol. 1–61v. Initium In Prooemium fol. 1r: Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....\n\nb) (Prolegomena Logicae): fol. 63–126r. Initium fol. 63r: Dum ad penitiora Logicae arcana penetranda animum appellimus....\n\nc) Introductio seu Isagoge Porphyrii Sive de Universalibus: fol. 126–209v. Initium fol. 126v: Traditis Prolegomenis Logicae........\n\nd) Commentarii in Organum Aristotelis: fol. 210–337. Initium fol. 210r: Aggredimur ad ipsam doctrinam Logicae.... Clausula fol. 337r: Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.\n\nAuctor et scriptor ignoti. Idem autem scriptor etiam duos sequentes codices conscripsit."
   }
 }

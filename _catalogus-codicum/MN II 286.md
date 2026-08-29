@@ -12,32 +12,47 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus De Gratia, justificatione, ac Merito
-    locus: S. 3–130
-    incipit: Suavissima possidenti, sed magis ardua investiganti se hic offert materia
+    locus: p. 3–130
+    incipits:
+    - text: Suavissima possidenti, sed magis ardua investiganti se hic offert materia,......
+    title_status: unspecified
   - label: b
     title: Tractatus positivo Scholasticus De Fide, Spe, et Charitate
-    locus: S. 131–221
-    incipit: A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur
+    locus: p. 131–221
+    incipits:
+    - text: A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur,.......
+    title_status: unspecified
   - label: c
     title: Tractatus Theologicus De Poenitentia
-    locus: S. 223–322
-    incipit: Sanctissimus Legislator noster Benedictus
+    locus: p. 223–322
+    incipits:
+    - text: Sanctissimus Legislator noster Benedictus......
+    title_status: unspecified
   - label: d
     title: Disputatio Duodecima De Sacramento Extremae Unctionis
-    locus: S. 323–329
-    incipit: Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius
+    locus: p. 323–329
+    incipits:
+    - text: Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius.....
+    title_status: unspecified
   - label: e
     title: Disputatio decima tertia De Sacramento Ordinis
-    locus: S. 329–339
-    incipit: Post Sacramenta, quibus homo in se ipso perficitur
+    locus: p. 329–339
+    incipits:
+    - text: Post Sacramenta, quibus homo in se ipso perficitur,.....
+    title_status: unspecified
   - label: f
     title: Disputatio decima quarta. De Sponsalibus
-    locus: S. 339–363
-    incipit: Matrimonii praeambulum sunt Sponsalia
+    locus: p. 339–363
+    incipits:
+    - text: Matrimonii praeambulum sunt Sponsalia.....
+    title_status: unspecified
   - label: g
     title: Disputatio decima quinta et Ultima De Matrimonio
-    locus: S. 363–386
-    incipit: 'Ponendum primò: quod matrimonium sit'
+    locus: p. 363–386
+    incipits:
+    - text: 'Ponendum primò: quod matrimonium sit......'
+      label: Articuli primi De Essentia, et obiecto matrimonii, tanquam contractus Civilis
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,58 +10,70 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 6
 ms_contents:
-  title: "Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque"
-  title_type: "supplied"
+  title: 'Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque'
   items:
-  - label: "a"
-    title: "Verba consonantiora et magis propria"
-    locus: "fol. 1r–52v"
-    note: "Mit Exzerpten aus Pontanus, Cicero, Curtius und weiteren poetischen und prosaischen Wendungen."
-  - label: "b"
-    title: "Notata et proverbia ex variis libris collecta"
-    locus: "fol. 53r–64v"
-  - label: "c"
-    title: "Proverbia"
-    locus: "fol. 64v–71r"
-    note: "Nach Eigennamen und Sachen alphabetisch geordnet."
-  - label: "d"
-    title: "Varia alia proverbia et dicta exemplaria"
-    title_type: "supplied"
-    locus: "fol. 71r–82v"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "e"
-    title: "Notata Ex Spiritualibus"
-    title_type: "supplied"
-    locus: "fol. 82v–94v"
-    note: "Das Wort „Notata“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
-  - label: "f"
-    title: "Alia excerpta brevissima tam poetice quam soluta oratione scripta"
-    title_type: "supplied"
-    locus: "fol. 109r–212v"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "g"
-    title: "Collectio nominum propriorum, quibus homines litterati veteres usi sunt"
-    title_type: "supplied"
-    locus: "fol. 232r–235v"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "h"
-    title: "Collectio altera ad illustranda nomina propria usitatissima"
-    title_type: "supplied"
-    locus: "fol. 236r–256v"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "i"
-    title: "Index alphabeticus rerum"
-    title_type: "supplied"
-    locus: "fol. 257r–268v"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
-  - label: "j"
-    title: "Synopsis Rhetorices"
-    locus: "fol. 271r–281v"
-  - label: "k"
-    title: "Nomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus"
-    title_type: "supplied"
-    locus: "Innenseite des Rückdeckels"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+  - label: a
+    title: Verba consonantiora et magis propria
+    locus: fol. 1
+    note: Mit Exzerpten aus Pontanus, Cicero, Curtius und weiteren poetischen und prosaischen Wendungen.
+    title_status: unspecified
+  - label: b
+    title: Notata et proverbia ex variis libris collecta
+    locus: fol. 55v
+    title_status: unspecified
+  - label: c
+    title: Proverbia
+    locus: fol. 55v
+    note: Nach Eigennamen und Sachen alphabetisch geordnet.
+    title_status: unspecified
+  - label: d
+    title: Varia alia proverbia et dicta exemplaria
+    locus: fol. 81v
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: e
+    title: Notata Ex Spiritualibus
+    locus: fol. 82v–94v
+    note: Das Wort „Notata“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: supplied
+    title_source: cataloguer
+  - label: f
+    title: Alia excerpta brevissima tam poetice quam soluta oratione scripta
+    locus: fol. 138v
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: g
+    title: Collectio nominum propriorum, quibus homines litterati veteres usi sunt
+    locus: fol. 232r–235v
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: h
+    title: Collectio altera ad illustranda nomina propria usitatissima
+    locus: fol. 236r–256v
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: i
+    title: Index alphabeticus rerum
+    locus: fol. 257r–268v
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: j
+    title: Synopsis Rhetorices
+    locus: fol. 271r–281v
+    title_status: unspecified
+  - label: k
+    title: Nomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus
+    locus: Innenseite des Rückdeckels
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

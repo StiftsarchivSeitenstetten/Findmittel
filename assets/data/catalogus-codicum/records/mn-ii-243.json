@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-243",
   "signature": "MN II 243",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "188–189",
   "heading": {
     "title": "Tractatus In universam Aristotelis Physicam. Proemium",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1711"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In universam Aristotelis Physicam. Proemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1",
       "language": "",
+      "incipits": [
+        {
+          "text": "Obtento scientiarum Instrumento et modo sciendi....",
+          "locus": "fol. 1r",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Obtento scientiarum Instrumento et modo sciendi"
+        "text": "Obtento scientiarum Instrumento et modo sciendi....",
+        "locus": "fol. 1r",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +80,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima. De Physica Auscultatoria seu de 8 Libris Physicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 2r–287v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Tractat in his Libris Aristoteles, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Tractat in his Libris Aristoteles"
+        "text": "Tractat in his Libris Aristoteles, ......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,17 +110,35 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Secunda Physicae. De Mundo et Caelis, de generatione et corruptione, et de Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 287v–335r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Absolutis Libris Agromamaticis Physicorum, .....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "7. Julii 1711",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Absolutis Libris Agromamaticis Physicorum"
+        "text": "Absolutis Libris Agromamaticis Physicorum, .....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "7. Julii 1711",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -110,17 +153,35 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Universam Aristotelis Metaphysicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–11v (= fol. 336r–346v)",
+      "locus": "fol. 1r–11v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Tandem superatis iis, quae de rebus naturalibus.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finis totius huius Philosophici cursûs coronavit opus. Salisburgi, die 24. Julii, Anno 1711.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Tandem superatis iis, quae de rebus naturalibus"
+        "text": "Tandem superatis iis, quae de rebus naturalibus.......",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Finis totius huius Philosophici cursûs coronavit opus. Salisburgi, die 24. Julii, Anno 1711.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -230,13 +291,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 243",
     "titles": "Tractatus In universam Aristotelis Physicam. Proemium \nTractatus In universam Aristotelis Physicam. Proemium \nPars Prima. De Physica Auscultatoria seu de 8 Libris Physicorum \nPars Secunda Physicae. De Mundo et Caelis, de generatione et corruptione, et de Anima \nTractatus in Universam Aristotelis Metaphysicam",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "Obtento scientiarum Instrumento et modo sciendi \nTractat in his Libris Aristoteles \nAbsolutis Libris Agromamaticis Physicorum \nTandem superatis iis, quae de rebus naturalibus",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n335 + 12 = 347 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Obtento scientiarum Instrumento et modo sciendi.... \nTractat in his Libris Aristoteles, ...... \nAbsolutis Libris Agromamaticis Physicorum, ..... \nTandem superatis iis, quae de rebus naturalibus.......",
+    "explicits": "7. Julii 1711 \nFinis totius huius Philosophici cursûs coronavit opus. Salisburgi, die 24. Julii, Anno 1711.",
+    "notes": "type: inserted_note; description: Zwischen fol. 105 und 106 eingelegter 'Wäsche-Zettl' mit philosophischer Notiz, unterschrieben Fr. Aemilianus; wahrscheinlich von Fr. Aemilianus Kramp später benutzt.",
+    "physical": "Papier \n335 + 12 = 347 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "335 + 12 = 347 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1711.\n\na) **Abhandlung über die gesamte Physik des Aristoteles. Vorrede:** fol. 1. Anfang: Nachdem das Werkzeug der Wissenschaften und die Methode des Wissens gewonnen sind....\n\nb) **Erster Teil. Über die Physikvorlesung oder die acht Bücher der Physik:** fol. 2r–287v. Anfang: In diesen Büchern behandelt Aristoteles......\n\nc) **Zweiter Teil der Physik. Über Welt und Himmel, Werden und Vergehen sowie die Seele:** fol. 287v–335r. Anfang: Nachdem die akroamatischen Bücher der Physik abgeschlossen sind..... Schluss: **7. Juli 1711.**\n\nd) **Abhandlung über die gesamte Metaphysik des Aristoteles:** fol. 1r–11v (= fol. 336r–346v). Anfang: Nachdem wir schließlich das überwunden haben, was die natürlichen Dinge betrifft....... Schluss: **Das Ende dieses gesamten philosophischen Kurses krönte das Werk. Salzburg, am 24. Juli 1711.**\n\nVerfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch die beiden vorhergehenden Codices geschrieben hat.\n\nZwischen fol. 105 und 106 ist ein Zettel eingelegt. Auf der einen Seite wird eine kleine philosophische Frage behandelt, auf der anderen steht die Überschrift **„Wäsche-Zettl“** und die Unterschrift **Fr. Aemilianus**. Offenbar benutzte Fr. Aemilianus Kramp, der 1712 in Seitenstetten Profess ablegte, diesen Zettel zunächst als Wäscheverzeichnis und später zur Notierung einer philosophischen Frage. Da unser Codex aber bereits 1711 vollendet war, kann er nicht dessen Schreiber gewesen sein.",
+    "latin": "335 + 12 = 347 foll.; teg. c3d; script. 1711\n\na) Tractatus In universam Aristotelis Physicam. Proemium: fol. 1  \nInitium fol. 1r: Obtento scientiarum Instrumento et modo sciendi....\n\nb) Pars Prima. De Physica Auscultatoria seu de 8 Libris Physicorum: fol. 2r–287v.  \nInitium: Tractat in his Libris Aristoteles, ......\n\nc) Pars Secunda Physicae. De Mundo et Caelis, de generatione et corruptione, et de Anima: fol. 287v–335r.  \nInitium: Absolutis Libris Agromamaticis Physicorum, .....  \nClausula: 7. Julii 1711\n\nd) Tractatus in Universam Aristotelis Metaphysicam: fol. 1r–11v (= 336r–346v).  \nInitium: Tandem superatis iis, quae de rebus naturalibus.......  \nClausula: Finis totius huius Philosophici cursûs coronavit opus. Salisburgi, die 24. Julii, Anno 1711.\n\nTam auctor ignotus quam scriptor, etiamsi idem duos praecedentes codices conscripsit.\n\nInter folium 105 et 106 inserta est schedula, cuius in una parte quaestiuncula philosophica tractatur, altera autem pars inscribitur „Wäsche-Zettl“ et subscribitur Fr. Aemilianus. Videtur igitur F. Aemilianus Kramp, qui anno 1712 in monasterio Seitenstettensi vota nuncupavit, hac schedula primo usus esse, qua aut vestiario quibus linteis vestimentis indigeret indicaret aut quae lintea vestimenta ad lavandum mitteret conscriberet, deinde autem, ut quaestiunculam, quam supra diximus, notaret. Sed quia codex noster iam anno 1711 finitus est, frater ille non potest esse scriptor eius."
   }
 }

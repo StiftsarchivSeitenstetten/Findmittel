@@ -10,11 +10,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: L I. 2
 ms_contents:
-  title: "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II."
   items:
-  - label: "a"
-    title: "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II."
-    locus: "S. 1–364"
+  - label: a
+    title: Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus II.
+    locus: S. 1–364
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

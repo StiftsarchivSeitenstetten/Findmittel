@@ -12,14 +12,27 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Dei Creatoris primario effectu sive De Angelis
-    locus: fol. 1–129v
+    locus: fol. 1–129
     end_date: '1692-05-02'
     end_time_display: vor dem Mittagessen
+    incipits:
+    - locus: fol. 1r
+      text: Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus.....
+    colophons:
+    - locus: fol. 129v
+      text: Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.
+    title_status: unspecified
   - label: b
     title: Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis
-    locus: fol. 1r–113r (=134–246r)
+    locus: fol. 1r–113
     end_date: '1692-09-01'
     end_time_display: vor dem Mittagessen
+    incipits:
+    - text: Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,.....
+    colophons:
+    - locus: fol. 113
+      text: Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

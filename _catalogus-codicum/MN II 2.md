@@ -15,9 +15,25 @@ ms_contents:
   summary: Physikvorlesungen Caspar Lechners, mitgeschrieben von Georg Reitter.
   items:
   - label: a
-    catalog_statement: 'Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)'
+    catalog_statement: 'Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter
+      eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)'
+    title: 'Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis
+      studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa)'
+    locus: p. 1 - 448
+    title_status: unspecified
+    incipits:
+    - locus: p. 1
+      label: Prooemii
+      text: Philosophia vi nominis considerata....
   - label: b
     catalog_statement: 'Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)'
+    title: Libri II. De Generatione
+    locus: fol. 1 - 79
+    title_status: unspecified
+    incipits:
+    - locus: p. (454
+      label: Prooemii
+      text: Quodnam sit duorum de generatione librorum subiectum....
 phys_desc:
   object_form: codex
   support: Papier

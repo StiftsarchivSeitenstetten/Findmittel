@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 61
 ms_contents:
-  title: "Geistlicher Rauten krantż Darin Sehr kräfftige morgen abend meß beicht und komunion Gebett zum H: Sacrament zum leyden Christi zur mutter gottes auch für die abgestorbenen Nebst litaneyen und andern gebettern"
   items:
-  - label: "a"
-    title: "Geistlicher Rauten krantż Darin Sehr kräfftige morgen abend meß beicht und komunion Gebett zum H: Sacrament zum leyden Christi zur mutter gottes auch für die abgestorbenen Nebst litaneyen und andern gebettern"
-    locus: "S. 1–111"
-    note: "S. 106–111 wahrscheinlich von anderer Hand."
+  - label: a
+    title: 'Geistlicher Rauten krantż Darin Sehr kräfftige morgen abend meß beicht und komunion Gebett zum H: Sacrament zum leyden Christi zur
+      mutter gottes auch für die abgestorbenen Nebst litaneyen und andern gebettern'
+    locus: S. 1–111
+    note: S. 106–111 wahrscheinlich von anderer Hand.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

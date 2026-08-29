@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-200",
   "signature": "MN II 200",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "150–151",
   "heading": {
     "title": "Philosophia Rationalis seu Logica Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1697/98"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Philosophia Rationalis seu Logica Aristotelico-Thomistica",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Praefatio in Universam Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 3–8v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 3r",
+          "text": "Obfuscatus per peccatum originale mentis oculus......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 3r",
+        "text": "Obfuscatus per peccatum originale mentis oculus......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,15 +80,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Introductio seu Summulae Dialecticae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
       "locus": "fol. 8v–112r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hanc Dialecticam 20 Decembris post prandium Anno 1697.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus hanc Dialecticam 20 Decembris post prandium Anno 1697.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -86,15 +115,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Maior",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "fol. 116–389v",
+      "locus": "fol. 116–389",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Quaestionum Praelegomenalium Tripartitarum Logicae Maioris (!)",
+          "text": "fol. 116r: Solent communiter post summulas (!) tradere.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 389v",
+          "text": "Absolvimus 28 Maii vigilia Corporis Christi 1698.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Quaestionum Praelegomenalium Tripartitarum Logicae Maioris (!)",
+        "text": "fol. 116r: Solent communiter post summulas (!) tradere.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 389v",
+        "text": "Absolvimus 28 Maii vigilia Corporis Christi 1698.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -184,13 +237,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-200/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 200",
     "titles": "Philosophia Rationalis seu Logica Aristotelico-Thomistica \nPraefatio in Universam Logicam \nIntroductio seu Summulae Dialecticae \nLogica Maior",
-    "persons": "P. Placidus Mayrhauser Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Placidus Mayrhauser Dozent lecturer St. Peter in Salzburg / Universität Salzburg \nFr. Engelbertus Veser Schreiber scribe Seitenstetten",
+    "incipits": "Obfuscatus per peccatum originale mentis oculus...... \nfol. 116r: Solent communiter post summulas (!) tradere.....",
+    "explicits": "Absolvimus hanc Dialecticam 20 Decembris post prandium Anno 1697. \nAbsolvimus 28 Maii vigilia Corporis Christi 1698.",
     "notes": "Kommentar zum Organon des Aristoteles.",
-    "physical": "Papier \n390 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n390 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "390 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1697/98.\n\n**Rationale Philosophie oder aristotelisch-thomistische Logik**, vorgetragen an der erzbischöflichen Universität Salzburg von P. Placidus Mayrhauser, Benediktiner und Profess von St. Peter in Salzburg, Doktor der Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Engelbertus Veser, Benediktiner und Profess von Seitenstetten, 1698. Es handelt sich um einen Kommentar zum Organon des Aristoteles.\n\na) **Vorrede zur gesamten Logik:** fol. 3–8v. Anfang: Das durch die Erbsünde verdunkelte Auge des Geistes.....\n\nb) **Einführung oder Summulae der Dialektik:** fol. 8v–112r. Anfang des ersten Teils der Summulae über das, was zur ersten Tätigkeit des Geistes gehört: Ich sage „zur ersten Tätigkeit des Geistes“, weil es drei gibt..... Schluss: **Wir beendeten diese Dialektik am 20. Dezember 1697 nach dem Mittagessen.**\n\nc) **Größere Logik:** fol. 116–389. Anfang der dreigeteilten vorangestellten Fragen zur größeren Logik: Gewöhnlich behandelt man nach den Summulae..... Schluss fol. 389v: **Wir beendeten [dies] am 28. Mai, dem Vorabend von Fronleichnam, 1698.**",
+    "latin": "390 foll.; teg. a1; script. 1697/98\n\nPhilosophia Rationalis seu Logica Aristotelico-Thomistica Tradita In Alma et Archiepiscopali Universitate Salisburgensi Ab.... P. Placido Mayrhauser, Ordinis S. Benedicti, Celeberrimi et Antiquissimi Monasterii ad S. Petrum ibidem Professo, Philosophiae Doctore et Professore ordinario. Excepta A Religioso F. Engelberto Veser, ordinis S. P. Benedicti Professo Seittenstettensi. Anno M. D. C. XCVIII (1698). (= Commentarius In Organum Aristotelis.)\n\na) Praefatio in Universam Logicam: fol. 3–8v. Initium fol. 3r: Obfuscatus per peccatum originale mentis oculus......\n\nb) (Introductio seu Summulae Dialecticae): fol. 8v–112r. Initium Partis I Summularum de iis quae pertinent ad primam mentis operationem. Ad primam dico mentis operationem, quia tres....... Clausula: Absolvimus hanc Dialecticam 20 Decembris post prandium Anno 1697.\n\nc) (Logica Maior): fol. 116–389. Initium Quaestionum Praelegomenalium Tripartitarum Logicae Maioris (!): fol. 116r: Solent communiter post summulas (!) tradere..... Clausula fol. 389v: Absolvimus 28 Maii vigilia Corporis Christi 1698."
   }
 }

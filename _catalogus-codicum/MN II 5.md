@@ -17,12 +17,33 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)'
+    title: Quaestiones De physica auscultatione
+    locus: p. 1 - 353
+    title_status: unspecified
+    incipits:
+    - locus: p. 1
+      text: Quoniam scientia naturalis, quam aggredimur....
   - label: b
     catalog_statement: 'Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)'
+    title: Quaestio XI In libros de Caelo et Mundo
+    locus: p. 353 - 384
+    title_status: unspecified
+    incipits:
+    - text: Ut Aristotelis mentem......
   - label: c
     catalog_statement: 'Quaestio XIII In libros de generatione et corruptione: p. 384 - 410'
+    title: Quaestio XIII In libros de generatione et corruptione
+    locus: p. 384 - 410
+    title_status: unspecified
+    incipits:
+    - text: Primum corporis speciem....
   - label: d
     catalog_statement: 'Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)'
+    title: Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris
+    locus: p. 411 - 447
+    title_status: unspecified
+    incipits:
+    - text: Explicata Generationis Definitione.....
 phys_desc:
   object_form: codex
   support: Papier

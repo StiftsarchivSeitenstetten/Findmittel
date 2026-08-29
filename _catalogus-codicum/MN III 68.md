@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 68
 ms_contents:
-  title: "Anbetung Gottes im Geiste und in der Wahrheit"
   items:
-  - label: "a"
-    title: "Anbetung Gottes im Geiste und in der Wahrheit"
-    locus: "S. 1–116"
-    note: "Als Firmgeschenk der Theresia Knoll an Barbara Matuschek, 1823."
+  - label: a
+    title: Anbetung Gottes im Geiste und in der Wahrheit
+    locus: p. 97
+    note: Als Firmgeschenk der Theresia Knoll an Barbara Matuschek, 1823.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -12,13 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Vitiis et Peccatis
-    locus: fol. 2r–141v
+    locus: fol. 2r
     end_date: '1705-06-08'
+    incipits:
+    - locus: fol. 2r
+      text: Praesens Tractatus illa complectitur,......
+    colophons:
+    - locus: fol. 141v
+      text: Absolvimus praesentem tractatum die 8 Junii Anno 1705.
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
     locus: fol. 143r–168v
     end_date: '1705-07-28'
     note: Die Schulen wurden aus bestimmten Gründen früher beendet.
+    incipits:
+    - text: Lex in ampla et metaphora significatione......
+    colophons:
+    - text: 'Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

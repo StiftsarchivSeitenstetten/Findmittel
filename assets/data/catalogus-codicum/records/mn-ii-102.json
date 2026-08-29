@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-102",
   "signature": "MN II 102",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "64–65",
   "heading": {
     "title": "Codex MN II 102",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1671/72"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Codex MN II 102",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Codex MN II 102",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Codex MN II 102"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -119,13 +131,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-102/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 102",
     "titles": "Codex MN II 102 \nCodex MN II 102",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n430 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Codex MN II 102",
+    "physical": "Papier \n430 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "430 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1671/72.\n\na) **Abhandlung über den einen Gott**, vorgetragen von P. Desiderius Schapperger, Profess des berühmten Klosters Seeon, Doktor der heiligen Theologie und erster Professor derselben; aufgezeichnet von Fr. Ambrosius Marholt, Profess des Klosters Seitenstetten und Student der heiligen Theologie an der Universität Salzburg. Vollendet am 14. Oktober 1671: fol. 2–339r.\n\nAnfang der Vorrede fol. 3r: Wenn wir zu den Heiligtümern der Theologie zugelassen sind, sei es uns ein großer Trost....\n\nb) **Abhandlung über den dreieinigen Gott**, vorgetragen von demselben P. Desiderius Schapperger und aufgezeichnet von Fr. Ambrosius Marholt, 1672: fol. 340r–427r.\n\nAnfang der Vorrede fol. 340v: Nachdem unser engelgleicher Lehrer Gott als den Einen behandelt hat.... Schluss: Wir beendeten diese Abhandlung am 30. Januar 1672.\n\nDieselben Abhandlungen finden sich im Archivcodex 34–10.",
+    "latin": "430 foll.; tegumentum a2; script. 1671/72\n\na) Tractatus De Deo Uno Traditus Ab....Patre **Desiderio Schapperger**, Celeberrimi Monasterii Seonensis professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore primario, Exceptus calamo A **F. Ambrosio Marholt** Monasterii Seittenstettensis professo Sacrosanctae Theologiae Studioso in Universitate Salisburgensi. absolvimus 14 Octobris 1671. fol. 2–339r.\n\n\n\n\n_Initium_ Prooemii fol. 3r: In theologiae sacraria admissis magno nobis solatio sit....\n\nb) Tractatus De Deo Trino Traditus Ab.... **Desiderio Schapperger** ....professore ordinario primario Exceptus calamo A **F. Ambrosio Marholt** ....1672 (cetera ut in parte a!): fol. 340r–427r.\n\n_Initium_ Prooemii fol. 340v: Angelicus noster Doctor postquam tractavit de Deo ut uno.... _Clausula_: Absolvimus hunc tractatum 30 Januarii 1672.\n\nEosdem tractatus reperies in codice archivi 34–10 (vide inferius!)."
   }
 }

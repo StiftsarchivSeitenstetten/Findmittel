@@ -10,11 +10,11 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 29 A (A 65)
 ms_contents:
-  title: "Directorium ac Rituale Monasterii Seitenstettensis"
   items:
-  - label: "a"
-    title: "Directorium ac Rituale Monasterii Seitenstettensis"
-    locus: "S. 1–52"
+  - label: a
+    title: Directorium ac Rituale Monasterii Seitenstettensis
+    locus: S. 1–52
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

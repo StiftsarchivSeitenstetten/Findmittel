@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-68",
   "signature": "MN III 68",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "275",
   "heading": {
     "title": "Anbetung Gottes im Geiste und in der Wahrheit",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1823"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Anbetung Gottes im Geiste und in der Wahrheit",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Anbetung Gottes im Geiste und in der Wahrheit",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–116",
+      "locus": "p. 97",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -151,13 +158,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-68/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 68",
     "titles": "Anbetung Gottes im Geiste und in der Wahrheit \nAnbetung Gottes im Geiste und in der Wahrheit",
-    "persons": "Theresia Knoll Schenker donor \nBarbara Matuschek Empfänger recipient \nTheresia Knoll scribe or commissioner scribe_or_commissioner",
+    "persons": "Theresia Knoll Schenker donor  \nBarbara Matuschek Empfänger recipient  \nTheresia Knoll scribe or commissioner scribe_or_commissioner ",
     "incipits": "",
     "explicits": "",
     "notes": "Als Firmgeschenk der Theresia Knoll an Barbara Matuschek, 1823.",
-    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+    "german": "Oktavformat; schwarzer Ledereinband mit nur einer vergoldeten Randlinie; geschrieben 1823; 116 Seiten.\n\n**Anbetung Gottes im Geiste und in der Wahrheit.**\n\n**Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.**\n\nDas Titelblatt ist schön gerahmt.\n\nSiehe auch die Widmung auf der Rückseite eines Vorsatzblattes:\n**Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.**\n\nEs ist weder sicher noch ausgeschlossen, dass Theresia Knoll dieses Gebetbuch selbst zusammenstellte und schrieb; wahrscheinlich ist es aber. Das einzige Bild im Büchlein stellt die hl. Barbara dar, die Namenspatronin Barbara Matuscheks, der Theresia Knoll das Buch schenkte. Daher dürfte die Patin den Codex entweder selbst geschrieben oder seine Anfertigung veranlasst haben. Das Bild der hl. Barbara steht S. 97.",
+    "latin": "8°; teg. b2 linea tantum marginali inaurata ornatum; scr. 1823; 116 pagg.\n\n**Anbetung Gottes im Geiste und in der Wahrheit.**\n\n**Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.** (Quae pagina titularis margine pulchre ornata est.)\n\nVide etiam dedicationem in folio praeliminari verso: **Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.**\n\nNeque certum neque impossibile est ipsam Theresiam Knoll hunc libellum precatorium concinnasse et conscripsisse, sed veri simile est; nam cum unica imago huius libelli S. Barbaram utpote patronam Barbarae Matuschek, cui Theresia Knoll libellum dono dedit, repraesentet, patrina illa codicillum nostrum aut ipsa scripsit aut ipsa scribendum curavit. (Quam imaginem S. Barbarae vide p. 97!)"
   }
 }

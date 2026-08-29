@@ -12,81 +12,101 @@ ms_contents:
   items:
   - label: a
     title: Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus
-    title_type: supplied
-    locus: Innenseite des Vorderdeckels, S. 1–2
+    locus: p. 1–2
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Compendium Geographiae Praecipuarum Europae Regionum
-    locus: S. 3–9
+    locus: p. 3–9
+    title_status: unspecified
   - label: c
     title: Tria epitaphia versibus ornata
-    locus: S. 9
+    locus: p. 9
+    title_status: unspecified
   - label: d
     title: Aequationes arithmeticae
-    locus: S. 10
+    locus: p. 10
+    title_status: unspecified
   - label: e
     title: Introductio in Historiam
-    locus: S. 23–31
+    locus: p. 23–31
+    title_status: unspecified
   - label: f
     title: observationes microscopiques des Sementes
-    locus: S. 33–42
+    locus: p. 33–42
     note: Mit weiteren Auszügen aus verschiedenen französischen Büchern.
+    title_status: unspecified
   - label: g
     title: Tria excerpta Latina geographica
-    locus: S. 42–44
+    locus: p. 42–44
+    title_status: unspecified
   - label: h
     title: Demonstration de L' existence de Dieu
-    locus: S. 45–46
+    locus: p. 45–46
     note: Weitere französische Stücke S. 46–49.
+    title_status: unspecified
   - label: i
     title: Iterum geographica et historica Latina
-    locus: S. 51–67
+    locus: p. 51–67
+    title_status: unspecified
   - label: j
     title: Iterum notata Francogallica
-    locus: S. 69–95
+    locus: p. 69–95
+    title_status: unspecified
   - label: k
     title: Varia notata Latina
-    locus: S. 96–158
+    locus: p. 96–158
     note: Vor allem Physik, Geschichte und Geographie; deutsche Stücke S. 100–102, 106–107 und 121 sind im Katalogtext bezeichnet.
+    title_status: unspecified
   - label: l
     title: Numi (!) veteres Augustorum, Caesarum et Augustarum ex aere magno
-    locus: S. 159–166
+    locus: p. 159–166
+    title_status: unspecified
   - label: m
     title: Varia notata Latina
-    locus: S. 167–173, 175–195, 197–212
+    locus: p. 167–173, 175–195, 197–212
     note: Physik, Chemie und medizinische Vorschriften; deutsche Stücke S. 195–197, französische S. 174–175.
+    title_status: unspecified
   - label: n
     title: Exercitia oratoria Latina de materiis antiquis
-    locus: S. 213–216 und 220–242
+    locus: p. 213–216
     note: Die einzelnen antiken Themen und Reden sind im Katalogtext vollständig aufgezählt.
+    title_status: unspecified
   - label: o
     title: De conscientia
-    title_type: supplied
-    locus: S. 217
+    locus: p. 217
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
   - label: p
     title: Catecheses
-    locus: S. 219
+    locus: p. 219
+    title_status: unspecified
   - label: q
     title: De affectibus in oratione
-    title_type: supplied
-    locus: S. 243–285
-    incipit: De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda
+    locus: p. 243–285
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    incipits:
+    - text: De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda;.....
+    title_status: supplied
+    title_source: cataloguer
   - label: r
     title: Duo consilia Germanica pro praxi
-    title_type: supplied
-    locus: S. 285
+    locus: p. 285
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
   - label: s
     title: Formulae aliquae de concionibus
-    locus: S. 309–312
+    locus: p. 309–312
     note: Teils deutsch, teils lateinisch, gelegentlich aus Cicero entnommen.
+    title_status: unspecified
   - label: t
     title: Figurae Sen(tentiarum?)
-    title_type: supplied
     locus: Innenseite des Rückdeckels
     note: Die Auflösung der Abkürzung steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,9 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 103
 ms_contents:
-  catalogue_title_or_summary: 'Tractatus De Vitiis et peccatis, et Legibus: Dictatus Ab....Patre Benedicto Pettschacher, ordinis
-    Sanctissimi Patris Nostri Benedicti, Liberi ac exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore
-    eiusdemque Professore, Decano, Spectabili, vice-rectore Salisburgensi meritissimo.'
+  items:
+  - catalog_statement: 'Tractatus De Vitiis et peccatis, et Legibus: Dictatus Ab....Patre Benedicto Pettschacher, ordinis Sanctissimi Patris Nostri
+      Benedicti, Liberi ac exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore eiusdemque Professore, Decano, Spectabili,
+      vice-rectore Salisburgensi meritissimo.'
+    title: 'Tractatus De Vitiis et peccatis, et Legibus: Dictatus Ab....Patre Benedicto Pettschacher, ordinis Sanctissimi Patris Nostri Benedicti,
+      Liberi ac exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore eiusdemque Professore, Decano, Spectabili, vice-rectore
+      Salisburgensi meritissimo'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

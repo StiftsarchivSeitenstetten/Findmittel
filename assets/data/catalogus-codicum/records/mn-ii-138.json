@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-138",
   "signature": "MN II 138",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "94",
   "heading": {
     "title": "Tractatus in primam secundae Divi Thomae de gratia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1680"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 138.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in primam secundae Divi Thomae de gratia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 5 - 556.",
+      "locus": "p. 5 - 556",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Prooemii",
+          "text": "Siquidem quod est sanitas (?) ad videndum solem.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Prooemii",
+        "text": "Siquidem quod est sanitas (?) ad videndum solem.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -57,14 +76,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 557 - 610 (",
+      "locus": "p. 557 - 610",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 557",
+          "label": "Articuli primi De Fide",
+          "text": "Tres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 557",
+        "label": "Articuli primi De Fide",
+        "text": "Tres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -75,14 +110,30 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Sacra Scriptura Historia compendiosa Sacrosanctae Scripturae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 637 - 1007.",
+      "locus": "p. 637 - 1007",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 637",
+          "label": "Praefationis",
+          "text": "Quae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 637",
+        "label": "Praefationis",
+        "text": "Quae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -143,13 +194,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-138/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 138",
     "titles": "Tractatus in primam secundae Divi Thomae de gratia \nTractatus in primam secundae Divi Thomae de gratia \nTractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate \nSacra Scriptura Historia compendiosa Sacrosanctae Scripturae",
     "persons": "",
-    "incipits": "",
+    "incipits": "Siquidem quod est sanitas (?) ad videndum solem..... \nTres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est..... \nQuae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....",
     "explicits": "",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 138.",
-    "physical": "Papier \n1010 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n1010 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "1010 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1680.\n\na) **Abhandlung zur Prima Secundae des hl. Thomas über die Gnade:** S. 5–556. Anfang der Vorrede S. 5: Wenn nämlich das, was Gesundheit zum Sehen der Sonne ist (?).....\n\nb) **Abhandlung zur Secunda Secundae des hl. Thomas über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 557–610; die Abhandlung ist unvollständig. Anfang des ersten Artikels über den Glauben S. 557: Dass es drei theologische Tugenden gibt, nämlich Glaube, Hoffnung und Liebe, steht fest.....\n\nc) **Heilige Schrift. Kurze Geschichte der Heiligen Schrift:** S. 637–1007. Anfang der Vorrede S. 637: Was die Schriftsteller mit vollen Backen zum Lob der Geschichte, besonders der Universalgeschichte, zusammentragen.....\n\nWeder Verfasser noch Schreiber noch das genaue Entstehungsjahr sind bekannt. Auf Vorder- und Rückseite des Einbandes ist jedoch das Wappen des Klosters Seitenstetten eingeprägt; an seiner Spitze stehen die Initialen **S C S** = *Sigillum conventus Seittenstettensis*. Dieses Stempelwappen wurde unter den Äbten Ambrosius Marholt (1679–1687), Benedictus Abelzhauser (1687–1717) und Ambrosius Prevenhueber (1717–1729) verwendet.\n\nDie Schrift spricht dafür, dass der Codex kaum nach 1700 geschrieben wurde. Wahrscheinlich schrieb ihn derselbe Schreiber wie MN II 137 von 1681. Daher dürfte unser Codex um 1680 entstanden sein.",
+    "latin": "1010 pagg.; teg. a2; script. ca. 1680\n\na) Tractatus in primam secundae Divi Thomae de gratia: p. 5 - 556.\n\nInitium Prooemii p. 5: Siquidem quod est sanitas (?) ad videndum solem.....\n\nb) Tractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate: p. 557 - 610 (tractatus mancus!).\n\nInitium Articuli primi De Fide p. 557: Tres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est.....\n\nc) Sacra Scriptura Historia compendiosa Sacrosanctae Scripturae: p. 637 - 1007.\n\nInitium Praefationis p. 637: Quae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....\n\nNeque auctor notus neque scriptor neque quo anno scriptus sit codex noster. Tegumento autem tam a parte adversa quam ab aversa impressum est insigne monasterii Seitenstettensis, in cuius apice tres litterae initiales leguntur, scilicet S C S = Sigillum conventus Seittenstettensis. Quo insigni libris impresso usum est monasterium Seitenstettense abbatibus Ambrosio Marholt (1679 - 1687) et Benedicto Abelzhauser (1687 - 1717) et Ambrosio Prevenhueber (1717 - 1729). Sed e scriptura coniiciendum est vix post annum 1700 scriptum esse codicem nostrum. Immo e charactere scribendi apparet probabiliter eundem, qui codicem nostrum, etiam codicem proximum MN II 137 (anno 1681 scriptum) exarasse. Videtur igitur liber noster circa annum 1680 ortus esse."
   }
 }

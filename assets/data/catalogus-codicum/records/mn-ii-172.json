@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-172",
   "signature": "MN II 172",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "133–134",
   "heading": {
     "title": "Physica Specialis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1691"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,55 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Physica Specialis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–264r",
+      "locus": "fol. 1–16v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Articuli Primi De quidditate, et unitate Mundi",
+          "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+          "id": "incipit-1"
+        },
+        {
+          "locus": "fol. 17r",
+          "label": "Articuli Primi. De Substantia Coeli",
+          "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+          "id": "incipit-2"
+        },
+        {
+          "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+          "id": "incipit-3"
+        },
+        {
+          "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+          "id": "incipit-4"
+        },
+        {
+          "text": "Contemplationem animae praecipit oraculum.....",
+          "id": "incipit-5"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Articuli Primi De quidditate, et unitate Mundi",
+        "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -67,15 +110,55 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Quaestio Prima De Mundo",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "fol. 1–16v",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "label": "Articuli Primi De quidditate, et unitate Mundi",
+              "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "fol. 17r",
+              "label": "Articuli Primi. De Substantia Coeli",
+              "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+              "id": "incipit-3"
+            },
+            {
+              "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+              "id": "incipit-4"
+            },
+            {
+              "text": "Contemplationem animae praecipit oraculum.....",
+              "id": "incipit-5"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": {
+            "label": "Articuli Primi De quidditate, et unitate Mundi",
+            "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -85,15 +168,55 @@
           "id": "item-2",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Quaestio Secunda De Corpore Coelesti",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "fol. 17r–47r",
+          "locus": "fol. 1–16v",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "label": "Articuli Primi De quidditate, et unitate Mundi",
+              "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "fol. 17r",
+              "label": "Articuli Primi. De Substantia Coeli",
+              "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+              "id": "incipit-3"
+            },
+            {
+              "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+              "id": "incipit-4"
+            },
+            {
+              "text": "Contemplationem animae praecipit oraculum.....",
+              "id": "incipit-5"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": {
+            "label": "Articuli Primi De quidditate, et unitate Mundi",
+            "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -103,15 +226,55 @@
           "id": "item-3",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Quaestio Ultima De Meteoris in quatuor libris Aristotelis",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "fol. 47r–94r",
+          "locus": "fol. 1–16v",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "label": "Articuli Primi De quidditate, et unitate Mundi",
+              "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "fol. 17r",
+              "label": "Articuli Primi. De Substantia Coeli",
+              "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+              "id": "incipit-3"
+            },
+            {
+              "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+              "id": "incipit-4"
+            },
+            {
+              "text": "Contemplationem animae praecipit oraculum.....",
+              "id": "incipit-5"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": {
+            "label": "Articuli Primi De quidditate, et unitate Mundi",
+            "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -121,15 +284,55 @@
           "id": "item-4",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Pars Ultima De Generatione et Corruptione Sive De Ortu et Interitu",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "fol. 95r–180r",
+          "locus": "fol. 1–16v",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "label": "Articuli Primi De quidditate, et unitate Mundi",
+              "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "fol. 17r",
+              "label": "Articuli Primi. De Substantia Coeli",
+              "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+              "id": "incipit-3"
+            },
+            {
+              "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+              "id": "incipit-4"
+            },
+            {
+              "text": "Contemplationem animae praecipit oraculum.....",
+              "id": "incipit-5"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": {
+            "label": "Articuli Primi De quidditate, et unitate Mundi",
+            "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -139,15 +342,55 @@
           "id": "item-5",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "De Corpore animato naturali sive De Anima",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "fol. 181r–264r",
           "language": "",
-          "incipit": null,
-          "explicit": null,
+          "incipits": [
+            {
+              "label": "Articuli Primi De quidditate, et unitate Mundi",
+              "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+              "id": "incipit-1"
+            },
+            {
+              "locus": "fol. 17r",
+              "label": "Articuli Primi. De Substantia Coeli",
+              "text": "Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r.",
+              "id": "incipit-2"
+            },
+            {
+              "text": "Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r.",
+              "id": "incipit-3"
+            },
+            {
+              "text": "Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r.",
+              "id": "incipit-4"
+            },
+            {
+              "text": "Contemplationem animae praecipit oraculum.....",
+              "id": "incipit-5"
+            }
+          ],
+          "explicits": [],
+          "colophons": [
+            {
+              "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+              "id": "colophon-1"
+            }
+          ],
+          "incipit": {
+            "label": "Articuli Primi De quidditate, et unitate Mundi",
+            "text": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti.",
+            "id": "incipit-1"
+          },
+          "explicit": {
+            "text": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [],
           "persons": [],
@@ -159,14 +402,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Metaphisica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 265r–318v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Suppositis quaestionibus prooemialibus tum Logicae tum Physicae......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Suppositis quaestionibus prooemialibus tum Logicae tum Physicae......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -247,13 +504,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-172/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 172",
     "titles": "Physica Specialis \nPhysica Specialis \nQuaestio Prima De Mundo \nQuaestio Secunda De Corpore Coelesti \nQuaestio Ultima De Meteoris in quatuor libris Aristotelis \nPars Ultima De Generatione et Corruptione Sive De Ortu et Interitu \nDe Corpore animato naturali sive De Anima \nMetaphisica",
-    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe Seitenstetten \nunbekannt author or lecturer author_or_lecturer ",
+    "incipits": "fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nfol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nfol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nfol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nfol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nfol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. \nDico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. \nPost considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. \nCausa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. \nContemplationem animae praecipit oraculum..... \nSuppositis quaestionibus prooemialibus tum Logicae tum Physicae......",
+    "explicits": "Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691. \nAbsolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691. \nAbsolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691. \nAbsolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691. \nAbsolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691. \nAbsolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.",
     "notes": "",
-    "physical": "Papier \n319 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n319 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "319 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1691.\n\na) **Spezielle Physik.**\n- **Erste Frage über die Welt:** fol. 1–16v. Anfang des ersten Artikels über Wesen und Einheit der Welt: Die Welt heißt so nach ihrer Zierde und Schönheit.....\n- **Zweite Frage über den Himmelskörper:** ab fol. 17r. Anfang des ersten Artikels über die Substanz des Himmels: Ich sage erstens: Himmel und Sterne sind nach wahrscheinlicher Meinung aus Materie und substantieller Form zusammengesetzt..... Ende fol. 47r.\n- **Letzte Frage über die Meteore in den vier Büchern des Aristoteles:** fol. 47r–94r. Anfang: Nach der Betrachtung des Himmelskörpers.....\n- **Letzter Teil über Werden und Vergehen:** fol. 95r–180r. Anfang: Ursache von Werden und Vergehen.....\n- **Über den natürlichen beseelten Körper oder über die Seele:** fol. 181r–264r. Anfang: Die Betrachtung der Seele gebietet das Orakel..... Schluss: **Wir beendeten unsere Physik am Vorabend des Gedächtnisses unseres hl. Vaters Benedikt, also am 10. Juli 1691.**\n\nb) **Metaphysik:** fol. 265r–318v. Anfang der Vorrede: Unter Voraussetzung der vorbereitenden Fragen sowohl der Logik als auch der Physik......\n\nAuf dem Vorderdeckel stehen dieselben Initialen wie beim vorhergehenden Codex. Daher schrieb Fr. Gabriel Sumadtinger, Profess von Seitenstetten, auch diesen Codex. Der Verfasser ist noch nicht sicher bekannt.",
+    "latin": "319 foll.; teg. a2; script. 1691\n\na) Physica Specialis  \nQuaestio Prima. De Mundo: fol. 1–16v. Initium Articuli Primi De quidditate, et unitate Mundi: fol. 1r: Mundus ab ornatu et elegantia ita dictus.....  \nQuaestio Secunda. De Corpore Coelesti. Initium Articuli Primi. De Substantia Coeli. fol. 17r: Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.)  \nQuaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. Initium: Post considerationem Corporis Coelestis.....  \nPars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. Initium: Causa generationis et corruptionis.....  \n(De Corpore animato naturali sive De Anima): fol. 181r–264r. Initium: Contemplationem animae praecipit oraculum..... Clausula: Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.\n\n\n\n\nb) Metaphisica: fol. 265r–318v. Initium Prooemii: Suppositis quaestionibus prooemialibus tum Logicae tum Physicae......\n\nLitterae initiales in parte adversa tegumenti, ut in codice praecedente. Scripsit igitur codicem nostrum F. Gabriel Sumadtinger professus Seittenstettensis. Auctorem vero nondum certe novimus."
   }
 }

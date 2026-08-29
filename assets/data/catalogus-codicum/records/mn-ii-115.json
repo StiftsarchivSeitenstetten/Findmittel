@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-115",
   "signature": "MN II 115",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "72",
   "heading": {
-    "title": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 5–636",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +119,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-115/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 115",
-    "titles": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari...... \nTractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
+    "titles": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes \nTractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n640 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
+    "physical": "Papier \n640 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "640 Seiten; Einband wie bei Codex MN II 111; geschrieben um 1670.\n\n**Abhandlung über Recht und Gerechtigkeit zu Frage 57 des heiligen Lehrers und den folgenden Fragen:** S. 5–636.\n\nAnfang der ersten Disputation **Über das Recht**, S. 5: Zunächst ist festzuhalten, dass das Wort Recht verschieden gebraucht wird......\n\nDieselbe Abhandlung enthält Codex MN II 97 auf S. 1–521.\n\nAufgrund des Schriftcharakters steht fest, dass auch diesen Codex Fr. Ernestus Weissenperger geschrieben hat. Daher ist eine Entstehung um 1670 gut begründet.\n\nDer Verfasser ist unbekannt.",
+    "latin": "640 pagg.; teg. a2 ut in codice MN II 111; script. ca. 1670\n\nTractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. _Initium_ Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......\n\nEundem tractatum continet cod. MN II 97 (vide supra p. 62!) p. 1–521.\n\nPropter characterem scripturae certo constat **F. Ernestum Weissenperger** hunc quoque codicem scripsisse. Qua de causa circa annum 1670 ortum esse eum probe ratiocinaberis.\n\nAuctor ignotus."
   }
 }

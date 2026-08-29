@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-189",
   "signature": "MN II 189",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "142",
   "heading": {
     "title": "Tractatus De Sacramentis in genere",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1693"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–335",
+      "locus": "p. 1–335",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "text": "Gratia quae nobis profluxit ex passione et meritis Christi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "text": "Gratia quae nobis profluxit ex passione et meritis Christi.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +82,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Baptismo et Confirmatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 335–454",
+      "locus": "p. 335–454",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 335",
+          "label": "Controversiae I De Baptismo",
+          "text": "Intra Sacramenta in specie.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 335",
+        "label": "Controversiae I De Baptismo",
+        "text": "Intra Sacramenta in specie.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -81,14 +116,30 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Venerabili (!)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 455–580",
+      "locus": "p. 455–580",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 455",
+          "label": "Controversiae I De Venerabili Eucharistiam prout est Sacramentum",
+          "text": "omissis variis nominibus quibus appellari solet Eucharistia.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 455",
+        "label": "Controversiae I De Venerabili Eucharistiam prout est Sacramentum",
+        "text": "omissis variis nominibus quibus appellari solet Eucharistia.......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -200,13 +251,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 189",
     "titles": "Tractatus De Sacramentis in genere \nTractatus De Sacramentis in genere \nTractatus De Baptismo et Confirmatione \nTractatus De Venerabili (!)",
-    "persons": "P. Edmund Ruedorffer Dozent lecturer \nFr. Joannes Rigele Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Edmund Ruedorffer Dozent lecturer Kloster Lambach / Universität Salzburg \nFr. Joannes Rigele Schreiber scribe Seitenstetten",
+    "incipits": "Gratia quae nobis profluxit ex passione et meritis Christi..... \nIntra Sacramenta in specie..... \nomissis variis nominibus quibus appellari solet Eucharistia.......",
     "explicits": "",
     "notes": "Das Incipit bezeichnet den Gegenstand als Eucharistie; der Katalogtitel bricht nach „De Venerabili“ ab und ist mit Ausrufezeichen markiert.",
-    "physical": "Papier \n582 pagg. \ncode: c2; description: Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt."
+    "physical": "Papier \n582 pagg. \ncode: c2; description: Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt.",
+    "german": "582 Seiten; marmorierter Pappeinband, Rücken und Kanten mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt; geschrieben 1693.\n\na) **Abhandlung über die Sakramente im Allgemeinen:** S. 1–335. Anfang der Vorrede: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss.....\n\nb) **Abhandlung über Taufe und Firmung:** S. 335–454. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....\n\nc) **Abhandlung über die ehrwürdige Eucharistie:** S. 455–580. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....\n\nDieselben Abhandlungen finden sich bereits in MN II 176, der eine Datierung unseres Codex auf 1693 wahrscheinlich macht, und in MN II 185, der als Verfasser P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg, nennt.\n\nDer Schreiber ist derselbe wie bei den drei vorhergehenden und den fünf folgenden Codices, wahrscheinlich Fr. Joannes Rigele.",
+    "latin": "582 pagg.; teg. c2 cum dorso et extremis fragmentis membranaceis saeculo XIV (?) manu inscriptis munitis; scriptus 1693\n\na) Tractatus De Sacramentis in genere: p. 1–335. Initium Prooemii p. 1: Gratia quae nobis profluxit ex passione et meritis Christi.....\n\nb) Tractatus De Baptismo et Confirmatione: p. 335–454. Initium Controversiae I De Baptismo p. 335: Intra Sacramenta in specie.....\n\nc) Tractatus De Venerabili (!): p. 455–580. Initium Controversiae I De Venerabili Eucharistiam prout est Sacramentum p. 455: omissis variis nominibus quibus appellari solet Eucharistia.......\n\nEosdem tractatus iam invenimus in codice MN II 176, qui manifestat codicem nostrum veri similiter anno 1693 scriptum esse (vide supra p. 135!), et in codice MN II 185, qui nomen auctoris (dico P. Edmundi Ruedorffer Professi Lambacensis et Professoris Salisburgensis) praebet. (Vide supra p. 140!) Scripsisse autem codicem nostrum eundem, qui etiam tres codices praecedentes et quinque sequentes, nempe F. Joannem Rigele, iam supra p. 141 ad codicem MN II 186 indicavimus."
   }
 }

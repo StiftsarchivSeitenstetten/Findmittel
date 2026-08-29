@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-261",
   "signature": "MN II 261",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Jure, et Justitia",
         "typeRaw": "supplied",
@@ -52,8 +56,17 @@
       },
       "locus": "fol. 1r–128v",
       "language": "",
+      "incipits": [
+        {
+          "text": "In amplissimum pulcherrimarum virtutum collegium,.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "In amplissimum pulcherrimarum virtutum collegium"
+        "text": "In amplissimum pulcherrimarum virtutum collegium,.......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +83,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus. De restitutione et contractibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 128v–192v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Explicata priori tractatu natura et divisione iustitiae ac dominii,.....",
+          "label": "Disputationis primae",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Explicata priori tractatu natura et divisione iustitiae ac dominii"
+        "text": "Explicata priori tractatu natura et divisione iustitiae ac dominii,.....",
+        "label": "Disputationis primae",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -172,13 +197,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 261",
     "titles": "Tractatus De Jure, et Justitia \nTractatus De Jure, et Justitia \nTractatus Secundus. De restitutione et contractibus",
-    "persons": "Fr. Hieronymus Hueber Schreiber scribe \nunbekannt Autor author",
-    "incipits": "In amplissimum pulcherrimarum virtutum collegium \nExplicata priori tractatu natura et divisione iustitiae ac dominii",
+    "persons": "Fr. Hieronymus Hueber Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "In amplissimum pulcherrimarum virtutum collegium,....... \nExplicata priori tractatu natura et divisione iustitiae ac dominii,.....",
     "explicits": "",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.",
-    "physical": "Papier \n196 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n196 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "196 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1715.\n\na) **(Abhandlung über Recht und Gerechtigkeit):** fol. 1r–128v. Anfang: In die überaus große Gemeinschaft der schönsten Tugenden,.......\n\nb) **Zweite Abhandlung über Restitution und Verträge:** fol. 128v–192v. Anfang der ersten Disputation: Nachdem in der vorhergehenden Abhandlung Natur und Einteilung der Gerechtigkeit und des Eigentums erklärt worden sind,.....\n\nDass auch dieser Codex von **Fr. Hieronymus Hueber** geschrieben wurde, zeigt dieselbe Schrift wie in den vier vorhergehenden Codices. Dieselben Abhandlungen enthält auch MN II 256 (siehe oben S. 195); doch fehlt auch dort der Name des Verfassers.",
+    "latin": "196 foll.; teg. a1; script. ca. 1715\n\na) (Tractatus De Jure, et Justitia): fol. 1r–128v.  \nInitium: In amplissimum pulcherrimarum virtutum collegium,.......\n\nb) Tractatus Secundus. De restitutione et contractibus: fol. 128v–192v.  \nInitium Disputationis primae: Explicata priori tractatu natura et divisione iustitiae ac dominii,.....\n\nHunc quoque scriptum esse codicem a F. Hieronymo Hueber eadem, quae in quattuor praecedentibus codicibus, monet scriptura. Eosdem vero tractatus continet etiam Codex MN II 256 (vide supra p. 195!), sed et in illo codice auctoris nomen desideratur."
   }
 }

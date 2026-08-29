@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 81
 ms_contents:
-  title: "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim"
   items:
-  - label: "a"
-    title: "Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim"
-    locus: "S. 1–266"
-    note: "Die im Codex eingetragene Jahreszahl 1672 wird vom Katalog als Schreibfehler für 1772 beurteilt."
+  - label: a
+    title: Tägliche Andachts Übungen Zum Gebrauch Ihro Kayserlichen Majestät Der Königin Zu Hungarn und Böheim
+    locus: S. 1–266
+    note: Die im Codex eingetragene Jahreszahl 1672 wird vom Katalog als Schreibfehler für 1772 beurteilt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

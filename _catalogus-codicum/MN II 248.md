@@ -13,17 +13,28 @@ ms_contents:
   items:
   - label: a
     title: Tractatus in primam secundae Divi Thomae De Peccatis
-    locus: S. 7–281
-    incipit: Postquam Sanctus Doctor prima parte egisset de Deo Uno
+    locus: p. 7–281
     end_date_display: 5. Februar 1718
+    incipits:
+    - text: Postquam Sanctus Doctor prima parte egisset de Deo Uno...
+    colophons:
+    - locus: p. 281
+      text: die 5 februarii
+    title_status: unspecified
   - label: b
     title: Notata compendiosa ex tractatu de Peccatis
-    locus: S. 285–328
+    locus: p. 285–328
+    title_status: unspecified
   - label: c
     title: 'Tractatus in primam secundae Divi Thomae. A quaestione 109 usque ad quaestionem 114 de: Gratia et Iustificatione'
-    locus: S. 335–479
-    incipit: Si de divinae gratiae dignitate fusius prooemiri liceret
+    locus: p. 335–479
     end_date_display: 26. März 1718
+    incipits:
+    - text: Si de divinae gratiae dignitate fusius prooemiri liceret.
+    colophons:
+    - text: 'L. D. S. (= Laus Deo S[emper]) et B. V. M. (= Beatae Virgini Mariae) Die 26 Martii 1718:'
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

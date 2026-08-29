@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 188
 ms_contents:
-  title: Tractatus De Incarnatione
   items:
   - label: a
     title: Tractatus De Incarnatione
-    locus: S. 5–268
+    locus: p. 5–268
     incipit_section: Quaestio prima De Possibilitate, Cognoscibilitate et convenientia incarnationis
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

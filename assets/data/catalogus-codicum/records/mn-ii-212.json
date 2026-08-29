@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-212",
   "signature": "MN II 212",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "158",
   "heading": {
     "title": "Commentarius in Physicam Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1698/99"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Commentarius in Physicam Aristotelis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prooemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–2r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Tandem superato logicarum difficultatum spineto......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Tandem superato logicarum difficultatum spineto......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +78,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Controversia Prolegomenalis ad totam Physicam De essentia et obiecto Physicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 2r–63v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 2v",
+          "label": "Sectionis I",
+          "text": "Cum Deus mundum tradiderit disputationi hominum.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 2v",
+        "label": "Sectionis I",
+        "text": "Cum Deus mundum tradiderit disputationi hominum.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -81,14 +112,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima Physicae De intrinsecis et extrinsecis constitutivis ac principiis et affectionibus communibus rerum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 63v–489v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Controversiae praeviae ad Caput Primum",
+          "text": "fol. 64r: Cum in subsequentibus fiat quaestio......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Controversiae praeviae ad Caput Primum",
+        "text": "fol. 64r: Cum in subsequentibus fiat quaestio......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -99,13 +144,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Caput, Articulus et paragraphus unicus in libros Aristotelis De Mundo et Caelo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 493r–514v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -122,13 +171,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Caput Secundum Partis Secundae In libros Aristotelis De Ortu et Interitu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 529r–605v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -145,13 +198,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Tertia Physicae De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 607r–743v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -168,13 +225,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius Secundus In Metaphysicam Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 748r–778v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -267,13 +328,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-212/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 212",
     "titles": "Commentarius in Physicam Aristotelis \nProoemium \nControversia Prolegomenalis ad totam Physicam De essentia et obiecto Physicae \nPars Prima Physicae De intrinsecis et extrinsecis constitutivis ac principiis et affectionibus communibus rerum \nCaput, Articulus et paragraphus unicus in libros Aristotelis De Mundo et Caelo \nCaput Secundum Partis Secundae In libros Aristotelis De Ortu et Interitu \nPars Tertia Physicae De Anima \nCommentarius Secundus In Metaphysicam Aristotelis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Tandem superato logicarum difficultatum spineto...... \nCum Deus mundum tradiderit disputationi hominum..... \nfol. 64r: Cum in subsequentibus fiat quaestio......",
     "explicits": "",
-    "notes": "incomplete",
-    "physical": "Papier \n782 foll. \ncode: c1; description: Grauer Pappeinband mit stark beschädigtem Rücken."
+    "notes": "incomplete \nFrequentavimus tanquam Neo-physici septima die Julii (1698) ante prandium.",
+    "physical": "Papier \n782 foll. \ncode: c1; description: Grauer Pappeinband mit stark beschädigtem Rücken.",
+    "german": "782 Blätter; grauer Pappeinband mit stark beschädigtem Rücken; geschrieben 1698/99.\n\n**Kommentar zur Physik des Aristoteles.**\n\nRandnotiz fol. 1r: **Wir besuchten als neue Physiker am 7. Juli 1698 die Vorlesung vor dem Mittagessen.**\n\na) **Vorrede:** fol. 1r–2r. Anfang: Nachdem endlich das Dornengestrüpp der logischen Schwierigkeiten überwunden ist.....\n\nb) **Prolegomenale Kontroverse zur gesamten Physik über Wesen und Gegenstand der Physik:** fol. 2r–63v.\n\nc) **Erster Teil der Physik über innere und äußere konstitutive Prinzipien und allgemeine Eigenschaften der Dinge sowie über das substantielle Zusammengesetzte im Allgemeinen:** fol. 63v–489v.\n\n**Zweiter Teil der Physik über das bewegliche Seiende im Einzelnen.**\n\nd) **Kapitel, Artikel und einziger Paragraph zu den Büchern des Aristoteles Über Welt und Himmel:** fol. 493r–514v; unvollständig.\n\ne) **Zweites Kapitel des zweiten Teils zu den Büchern des Aristoteles Über Werden und Vergehen:** fol. 529r–605v. Schluss: **Wir beendeten [dies] am 27. Mai 1699.**\n\nf) **Dritter Teil der Physik über die Seele:** fol. 607r–743v. Schluss: **Wir beendeten [dies] am 9. Juli morgens.**\n\ng) **Zweiter Kommentar zur Metaphysik des Aristoteles:** fol. 748r–778v. Schlussnotiz: **Wir beendeten [dies] am 18. Juli 1699.**\n\nWeder Schreiber noch Verfasser sind bekannt.",
+    "latin": "782 foll.; teg. c1 (dorso valde dilacerato); script. 1698/99\n\nCommentarius in Physicam Aristotelis.\n\nNota in margine fol. 1r: Frequentavimus tanquam Neo-physici septima die Julii (1698) ante prandium.\n\na) Prooemium: fol. 1r–2r. Initium: Tandem superato logicarum difficultatum spineto......\n\nb) Controversia Prolegomenalis ad totam Physicam. De essentia et obiecto Physicae: fol. 2r–63v. Initium Sectionis I fol. 2v: Cum Deus mundum tradiderit disputationi hominum.....\n\nc) Pars Prima Physicae. De intrinsecis, et extrinsecis constitutivis ac principiis et affectionibus communibus rerum, necnon composito substantiali in communi: fol. 63v–489v. Initium Controversiae praeviae ad Caput Primum: fol. 64r: Cum in subsequentibus fiat quaestio......\n\nPars II. Physicae. De Ente mobili in particulari.\n\nd) Caput, Articulus et § unicus in libros Aristotelis De Mundo et Caelo: fol. 493r–514v (tractatus imperfectus!). Initium Sectionis I: Dico 1. non implicat contradictionem mundum posse esse ab aeterno....\n\ne) Caput II. Partis II. In libros Aristotelis de Ortu et Interitu: fol. 529r–605v. Initium Assertionis Praeliminaris fol. 529v: Quaeritur primò quid sit generatio? ante responsionem.....  \nClausula: Absolvimus 27 Maii 1699.\n\nf) Pars III Physicae. De Anima: fol. 607r–743v. Initium Controversiae praeviae Quomodo Anima benè possit definiri? Dico 1. optima est illa animae definitio, quae tradit Philosophus.....  \nClausula: Absolvimus 9 Julii manè.\n\ng) Commentarius II. In Metaphysicam Aristotelis: fol. 748r–778v.  \nInitium: Jamjam relinquimus deliciarum sensualium orbem....  \nClausula fol. 778 in margine: Absolvimus die 18 Julii 1699.\n\nNeque scriptor codicis nostri notus neque auctor."
   }
 }

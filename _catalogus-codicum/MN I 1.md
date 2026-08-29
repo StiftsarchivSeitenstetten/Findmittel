@@ -14,20 +14,23 @@ ms_identifier:
   idno: "MN I 1"
 
 ms_contents:
+  summary: Verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden und in 20 Traktate gegliedert sind.
+  items:
   - item: 1
-    title: "Prozeßordnung für das Erzherzogtum Österreich unter der Enns"
-    title_type: "supplied"
-    summary: "Verschiedene Gesetze des 16. Jahrhunderts, bis zum Jahr 1570 erlassen und in 20 Traktate gegliedert."
+    title: Prozeßordnung für das Erzherzogtum Österreich unter der Enns
     text_date:
-      display: "16. Jahrhundert bis 1570"
+      display: saec. XVI. usque ad annum 1570
       not_after: 1570
-    text_language:
-      main: "de"
-      other:
-        - "la"
-    language_note: "Deutscher Haupttext mit lateinischen Randanmerkungen."
+    languages:
+    - de
+    - la
     parts: 20
-
+    title_status: supplied
+    title_source: cataloguer
+    notes:
+    - variae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae
+    - germanice cum annotationibus latinis in margine
+    locus: fol. 246r
 phys_desc:
   object_form: "codex"
   format: "Folio"

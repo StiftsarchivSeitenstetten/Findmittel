@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 73
 ms_contents:
-  title: "Verdeutschter Ritus"
   items:
-  - label: "a"
-    title: "Verdeutschter Ritus"
-    locus: "S. I–VIII, 1–133"
-    note: "Auch die Rubriken sind ins Deutsche übersetzt; ab S. 134 unbeschrieben."
+  - label: a
+    title: Verdeutschter Ritus
+    locus: S. I–VIII, 1–133
+    note: Auch die Rubriken sind ins Deutsche übersetzt; ab S. 134 unbeschrieben.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

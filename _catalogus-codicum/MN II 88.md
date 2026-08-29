@@ -18,19 +18,41 @@ ms_contents:
   - label: a
     title: Prolegomena Totius Theologiae
     locus: fol. 1–20v
+    incipits:
+    - locus: fol. 1r
+      label: Proloquii
+      text: Agit S. Doctor de Deo Uno et Trino, et Creatore.....
+    title_status: unspecified
   - label: b
     title: Tractatus quinque de Deo Uno
     locus: fol. 21–370r
-    title_type: supplied
+    incipits:
+    - locus: fol. 21r
+      text: Quia Deus est praecipuum subiectum huius scientiae.....
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Tractatus Ultimus de Sacro Trinitatis Mysterio â quaestione 27 usque ad 45
     locus: fol. 370v–406v
+    incipits:
+    - locus: fol. 371r
+      text: Puteus quidem hic altus est....
+    colophons:
+    - locus: fol. 406v
+      text: fInI Deo TrIno et VnI saCraMVs Labores. Die IX Octobris
+    title_status: unspecified
+    notes:
+    - (Hoc chronogramma annum 1664 videtur indicare. Sed quod codex noster paene ad verbum idem continet quod codex MN II 83 – vide supra p. 53!
+      –, facile coniectaberis, etiam codicem nostrum iam anno 1663 scriptum esse; et sane in voce "VnI" chronogrammatis prius scriptum erat "Vno",
+      quod tamen utpote lapsum grammaticalem scriptor postea emendavit. Ceterum de auctore et scriptore nil notum, nisi quod auctor idem est atque
+      in codice MN II 83.)
   responsibility:
   - role: author
     name: derselbe wie MN II 83
     certainty: inferred
   - role: scribe
     name: unbekannt
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

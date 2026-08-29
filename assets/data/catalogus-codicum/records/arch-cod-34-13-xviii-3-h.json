@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-13-xviii-3-h",
   "signature": "Arch. Cod. 34–13 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "54",
   "heading": {
-    "title": "Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus De Gratia Dei In Primam Secundae S. Thomae",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {},
@@ -22,6 +22,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–13 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -33,15 +36,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Gratia Dei In Primam Secundae S. Thomae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 7–453",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 7",
+          "label": "Proloquii",
+          "text": "Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 453",
+          "text": "26. Junii.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 7",
+        "label": "Proloquii",
+        "text": "Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 453",
+        "text": "26. Junii.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -56,13 +85,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis: p. 457–654.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 457–654",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -114,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-13-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–13 (XVIII 3 h)",
-    "titles": "Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii. \nTractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii. \nTractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis: p. 457–654.",
+    "titles": "Tractatus De Gratia Dei In Primam Secundae S. Thomae \nTractatus De Gratia Dei In Primam Secundae S. Thomae \nTractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
+    "incipits": "Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad....",
+    "explicits": "26. Junii.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–13 (XVIII 3 h). \nTractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii. \nTractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis: p. 457–654.",
-    "physical": "Papier \n4°, 654 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n4°, 654 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 654 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei MN II 80.\n\na) **Abhandlung über die Gnade Gottes zur Prima Secundae des hl. Thomas:** S. 7–453. Anfang des Prologs S. 7: „Nachdem der hl. Thomas hier in der Prima Secundae von Frage 90 an....“ Schluss S. 453: **26. Juni.**\n\nb) **Abhandlung über die theologischen Tugenden zur Secunda Secundae des hl. Thomas von Aquin:** S. 457–654.\n\nRückenaufschrift: **De Gratia, Merito, Fide, Spe, Charitate M S Reverendissimi Abelzhauser Seittenstettensis.**\n\nDas genaue Entstehungsjahr ist unbekannt; sicher ist nur, dass der Codex nicht vor 1660 und nicht nach 1666 geschrieben wurde. Auch der Verfasser ist unbekannt.",
+    "latin": "4°, 654 pagg.; teg. a2 (ut in codice MN II 80)\n\na) Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.\n\nb) Tractatus De Virtutibus Theologicis in Secundam Secundae S. Thomae Aquinatis: p. 457–654.\n\nInscriptio dorsi: De Gratia, Merito, Fide, Spe, Charitate M S Reverendissimi Abelzhauser Seittenstettensis (de quo scribente supra p. 51 ad codicem MN II 80!). Quo anno hunc codicem scripserit, accurate non possumus dicere, sed neque ante annum 1660 neque post annum 1666 constat. Etiam huius codicis auctor ignotus."
   }
 }

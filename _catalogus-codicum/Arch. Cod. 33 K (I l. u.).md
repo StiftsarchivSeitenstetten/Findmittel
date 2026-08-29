@@ -13,14 +13,25 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 33 K (I l. u.).
   items:
   - label: a
-    catalog_statement: '(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem
-      Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98'
+    catalog_statement: '(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque
+      documenta, quae res gestas ecclesiasticas exhibent): p. 1–98'
+    title: Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta,
+      quae res gestas ecclesiasticas exhibent
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 1–98
   - label: b
-    catalog_statement: 'Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis
-      Aquilae Pullo. Anno 1705 (Poema Latinum): p. 99–141'
+    catalog_statement: 'Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo.
+      Anno 1705 (Poema Latinum): p. 99–141'
+    title: Antiquae Bojorum Gloriae Sepulchrum et recentis Ignominiae Theatrum ......descriptum a quodam victricis Aquilae Pullo. Anno 1705 (Poema
+      Latinum)
+    locus: p. 99–141
+    title_status: unspecified
   - label: c
-    catalog_statement: '(Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata):
-      p. 143–158'
+    catalog_statement: '(Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata): p. 143–158'
+    title: Bulla Dominus ac Redemptor – quam vide supra in parte a! – in linguam Germanicam versa et typis mandata
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

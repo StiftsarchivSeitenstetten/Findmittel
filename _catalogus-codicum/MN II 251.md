@@ -12,19 +12,31 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus. De vitiis et peccatis
-    locus: S. 3–126
-    incipit: Peccatum informe et infame monstrum
+    locus: p. 3–126
+    incipits:
+    - text: Peccatum informe et infame monstrum.....
+      locus: p. 3
+      label: Prooemii
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
-    locus: S. 126–192
-    incipit: Tractatus de legibus communis est
-    completeness: incomplete
+    locus: p. 126–192
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - text: Tractatus de legibus communis est ......
+      label: Disputationis Primae
+    title_status: unspecified
   - label: c
     title: Tractatus De Sacramentis in Genere et de tribus prioribus in specie
-    title_type: supplied
-    locus: S. 193–367
-    incipit: Post explicatum et disputatum Incarnationis Divinae mysterium
+    locus: p. 193–367
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: Post explicatum et disputatum Incarnationis Divinae mysterium ........
+      label: Prooemii
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

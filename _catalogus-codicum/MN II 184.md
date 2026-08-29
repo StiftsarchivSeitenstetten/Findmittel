@@ -12,11 +12,15 @@ ms_contents:
   items:
   - label: a
     title: Continuatio Commentarii in octo libros Physicorum
-    locus: S. 13–324
+    locus: p. 13–324
     note: Fortsetzung des in MN II 183 enthaltenen ersten Teils.
+    title_status: unspecified
   - label: b
     title: Tractatus secundus De Mundo
-    locus: S. 321–411
+    locus: p. 321–411
+    incipits:
+    - text: Physica Aristotelis potest dividi in universalem et particularem, ......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

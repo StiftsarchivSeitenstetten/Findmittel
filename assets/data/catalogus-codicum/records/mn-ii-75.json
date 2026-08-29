@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-75",
   "signature": "MN II 75",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "49",
   "heading": {
     "title": "Disputationes In octo Libros Physicos Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1659"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Disputationes In octo Libros Physicos Aristotelis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
-    "locus": "fol. 1–359",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,26 +49,46 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationes In octo Libros Physicos Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–359",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
-      "dates": [],
-      "persons": [
+      "incipits": [
         {
-          "name": "Fr. Theophilus Janckh",
-          "roleRaw": "scribe",
-          "roleLabel": "Schreiber",
-          "scope": "item",
-          "itemId": "item-1"
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....",
+          "id": "incipit-1"
         }
       ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 151v",
+          "label": "ad librum I Physicorum",
+          "text": "Absolvimus librum 2 Septembris 1659.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 151v",
+        "label": "ad librum I Physicorum",
+        "text": "Absolvimus librum 2 Septembris 1659.",
+        "id": "colophon-1"
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -75,13 +98,6 @@
       "roleRaw": "scribe",
       "roleLabel": "Schreiber",
       "scope": "contents"
-    },
-    {
-      "name": "Fr. Theophilus Janckh",
-      "roleRaw": "scribe",
-      "roleLabel": "Schreiber",
-      "scope": "item",
-      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -172,13 +188,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 75",
     "titles": "Disputationes In octo Libros Physicos Aristotelis \nDisputationes In octo Libros Physicos Aristotelis",
-    "persons": "Fr. Theophilus Janckh Schreiber scribe \nFr. Theophilus Janckh Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nII + 359 + II Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+    "persons": "Fr. Theophilus Janckh Schreiber scribe ",
+    "incipits": "Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....",
+    "explicits": "Absolvimus librum 2 Septembris 1659.",
+    "notes": "I. et II. Liber Physicus M S. a F. Theophilo Jank Seittenstettensi. \n.F:T:I:P:S:",
+    "physical": "Papier \nII + 359 + II Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+    "german": "II + 359 + II Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1659.\n\n**Disputationen zu den acht Büchern der Physik des Aristoteles:** fol. 1–359. Anfang der Vorrede fol. 1r: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir zu den glücklichen Inseln der Natur....\n\nDiese Disputationen setzt der folgende Codex MN II 76 fort.\n\nRückenaufschrift: **I. und II. Buch der Physik, Handschrift von Fr. Theophilus Jank aus Seitenstetten.** Denselben Fr. **Theophilus Janckh** als Schreiber dieses Buches bezeichnen die Initialen auf der Vorderseite des Einbandes: **.F:T:I:P:S:**\n\nSchluss zum ersten Buch der Physik fol. 151v: **Wir beendeten das Buch am 2. September 1659.**",
+    "latin": "II + 359 + II foll.; teg. a2; script. 1659\n\nDisputationes In octo Libros Physicos Aristotelis: fol. 1–359. Initium Prooemii fol. 1r: Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....\n\nHas disputationes continuat sequens Codex MN II 76.\n\nInscriptio dorsi: I. et II. Liber Physicus M S. a F. Theophilo Jank Seittenstettensi. Eundem F. **Theophilum Janckh**, quippe qui scripserit hunc librum, nuntiant litterae initiales adverso in tegumento: .F:T:I:P:S:\n\nClausula ad librum I Physicorum fol. 151v: Absolvimus librum 2 Septembris 1659."
   }
 }

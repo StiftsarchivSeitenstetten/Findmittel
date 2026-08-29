@@ -9,10 +9,22 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 110
 ms_contents:
-  catalogue_title_or_summary: 'Tractatus Theologicus Moralis In Praecepta Decalogi et ecclesiae: p. 5–496. Initium Prooemii
-    In universam Theologiam moralem p. 5: Non excurro multum in laudes et praeconia moralis Theologiae..... Clausula p. 496:
-    Die 9 Octobris Anno 1669 Finis. Inscriptio dorsi: Tractatus Theologicus Moralis Casisticus: 1669 de decalogi et Ecclesiae
-    Praeceptis M. S. P. Ernesti Weissenberger Seittenstettensis.'
+  items:
+  - catalog_statement: 'Tractatus Theologicus Moralis In Praecepta Decalogi et ecclesiae: p. 5–496. Initium Prooemii In universam Theologiam moralem
+      p. 5: Non excurro multum in laudes et praeconia moralis Theologiae..... Clausula p. 496: Die 9 Octobris Anno 1669 Finis. Inscriptio dorsi:
+      Tractatus Theologicus Moralis Casisticus: 1669 de decalogi et Ecclesiae Praeceptis M. S. P. Ernesti Weissenberger Seittenstettensis.'
+    title: Tractatus Theologicus Moralis In Praecepta Decalogi et ecclesiae
+    locus: p. 5–496
+    incipits:
+    - locus: p. 5
+      label: Prooemii In universam Theologiam moralem
+      text: Non excurro multum in laudes et praeconia moralis Theologiae.....
+    colophons:
+    - locus: p. 496
+      text: Die 9 Octobris Anno 1669 Finis.
+    title_status: unspecified
+    notes:
+    - 'Inscriptio dorsi: Tractatus Theologicus Moralis Casisticus: 1669 de decalogi et Ecclesiae Praeceptis M. S. P. Ernesti Weissenberger Seittenstettensis.'
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-58",
   "signature": "MN III 58",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "271",
   "heading": {
     "title": "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1798"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–138",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-58/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 58",
     "titles": "Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798 \nIndex collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798",
-    "persons": "Pischofsky / P. Maurus Pischofsky Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "Pischofsky / P. Maurus Pischofsky Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Zahlreiche spätere Einträge zwischen den Zeilen mit anderer Tinte.",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Vorder- und Rückdeckel mit Blümchen und weiteren Verzierungen; Rücken und Kanten weiß."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Vorder- und Rückdeckel mit Blümchen und weiteren Verzierungen; Rücken und Kanten weiß.",
+    "german": "Oktavformat; 138 Seiten; Vorder- und Rückdeckel mit Blümchen und anderen Verzierungen geschmückt, Rücken und Kanten weiß; geschrieben 1798.\n\n**Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798.**\n\nDieses Büchlein wurde wahrscheinlich von jenem **Pischofsky** zusammengestellt, der 1798 in das Kloster Seitenstetten eintrat und den Ordensnamen Maurus annahm.\n\nZwischen die einzelnen Zeilen des Büchleins wurden später mit anderer Tinte zahlreiche Ergänzungen eingetragen. Ob auch diese von P. Maurus Pischofsky stammen, ist unbekannt.",
+    "latin": "8°; 138 pagg.; tegumenti pars adversa aversaque flosculis aliisque ornamentis decorata, dorsum extremaque alba; script. 1798\n\n**Index collectorum insectorum Systemate Johannis Christiani Fabricii In usum Pischofsky. 1798.**\n\nConcinnavit hoc opusculum probabiliter ille **Pischofsky**, qui anno 1798 in monasterium Seitenstettense ingressus nomen Maurus accepit. Inter singulas lineas opusculi nostri postea alio atramento permulta addita sunt; quae num ab ipso P. Mauro Pischofsky interiecta sint, nescio."
   }
 }

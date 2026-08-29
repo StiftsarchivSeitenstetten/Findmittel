@@ -12,15 +12,30 @@ ms_contents:
   items:
   - label: a
     title: Tractatus de Angelis
-    locus: S. 7–273
+    locus: p. 7
     date: 1707/08
     end_date: '1708-04-30'
+    incipits:
+    - locus: p. 7
+      text: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in seipso, ......
+    colophons:
+    - locus: p. 273
+      text: Absolvimus die 30 Aprilis 1708.
+    title_status: unspecified
   - label: b
     title: Tractatus de Beatitudine Hominis
-    locus: S. 277–465
+    locus: p. 277
     date: '1708'
     end_date: '1708-08-04'
     end_time_display: nach dem Mittagessen
+    incipits:
+    - locus: p. 279
+      label: Anteloquii Tractatus de Beatitudine Hominis
+      text: 'Sub titulo huius cortice latet omne bonum (Mendum scriptoris corrige: Sub tituli...!)'
+    colophons:
+    - locus: p. 465
+      text: absolvimus hunc tractatum die 4 Augusti 1708 post prandium.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,13 +10,17 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34 D (XVIII 3m)
 ms_contents:
-  title: "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten."
   items:
-  - label: "a"
-    title: "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten."
-    locus: "S. 1–203"
-    explicit: "Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)"
-    note: "Es folgen drei Chronogramme auf das Jahr 1772."
+  - label: a
+    title: Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro
+      Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen
+      Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.
+    locus: p. 203
+    note: Es folgen drei Chronogramme auf das Jahr 1772.
+    explicits:
+    - text: Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)
+      locus: p. 203
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

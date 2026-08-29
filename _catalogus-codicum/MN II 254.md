@@ -14,20 +14,31 @@ ms_contents:
   - label: a
     title: Proemium
     locus: fol. 1r–2r
-    incipit: Aggredimur Deo Auspice totius Theologiae difficillimam Partem
+    incipits:
+    - text: Aggredimur Deo Auspice totius Theologiae difficillimam Partem,......
+    title_status: unspecified
   - label: b
     title: Disputatio Prolegomena (!). De Necessitate, Naturâ, et Qualitate Theologiae
     locus: fol. 2r–24r
-    incipit: Existere in rerum naturâ Sacram Theologiam
+    incipits:
+    - text: Existere in rerum naturâ Sacram Theologiam, .......
+    title_status: unspecified
   - label: c
     title: Pars Prima. De Deo Uno
     locus: fol. 24v–169r
-    incipit: Postquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam
+    incipits:
+    - text: Postquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam...
+    title_status: unspecified
   - label: d
     title: Pars Secunda. De Deo Trino
-    locus: fol. 169 (= 1)v–184 (= 16)r
-    incipit: Hactenus, quantum satis erat
+    locus: fol. 169
     end_date_display: 23. August 1715
+    incipits:
+    - text: Hactenus, quantum satis erat, .....
+    colophons:
+    - text: Anno 1715. 23. Augusti
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

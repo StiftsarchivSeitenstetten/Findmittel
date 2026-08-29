@@ -9,33 +9,31 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 65
 ms_contents:
-  title: "Liber precatorius"
-  title_type: "supplied"
+  title: Liber precatorius
   items:
-  - label: "a.1"
-    title: "Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird"
-    locus: "S. 2–3"
-    note: "Teil eines vorgebundenen gedruckten Andachtsblatts."
-  - label: "a.2"
-    title: "Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird"
-    locus: "S. 4"
-    note: "Teil eines vorgebundenen gedruckten Andachtsblatts."
-  - label: "b"
-    title: "Liber precatorius, pars prima"
-    title_type: "supplied"
-    locus: "S. 1–49"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; der handschriftliche Gebetsteil besitzt keinen Titel."
-  - label: "c"
-    title: "Liber precatorius, pars secunda"
-    title_type: "supplied"
-    locus: "S. 31–107 (olim 86)"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; nach S. 49 beginnt eine neue Zählung."
-  - label: "d"
-    title: "Liber precatorius, pars tertia"
-    title_type: "supplied"
-    locus: "S. 111–165"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; von anderer Hand."
-  note: "Der handschriftliche Gebetsteil ist ohne überlieferten Titel; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
+  - label: a.1
+    title: Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey
+      St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird
+    locus: p. 2–3
+    note: Teil eines vorgebundenen gedruckten Andachtsblatts.
+    title_status: unspecified
+  - label: a.2
+    title: Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird
+    locus: p. 4
+    note: Teil eines vorgebundenen gedruckten Andachtsblatts.
+    title_status: unspecified
+  - label: b
+    locus: p. 1–49
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; der handschriftliche Gebetsteil besitzt keinen Titel.
+  - label: c
+    locus: p. 31–107
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; nach S. 49 beginnt eine neue Zählung.
+  - label: d
+    locus: p. 111–165
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; von anderer Hand.
+  note: Der handschriftliche Gebetsteil ist ohne überlieferten Titel; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

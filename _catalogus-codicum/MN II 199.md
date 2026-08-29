@@ -12,30 +12,51 @@ ms_contents:
   items:
   - label: '1'
     title: Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis
-    locus: S. 3–740
+    locus: p. 3
     subitems:
     - label: a
       title: Quaestio prolegomenalis
-      locus: S. 3–10
+      locus: p. 3–10
+      title_status: unspecified
     - label: b
       title: Tractatus in octo Libros Physicorum
-      locus: S. 11–511
+      locus: p. 11–511
+      title_status: supplied
+      title_source: cataloguer
     - label: c
       title: Tractatus in Duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione
-      locus: S. 512–601
+      locus: p. 512–601
+      incipits:
+      - text: Dari generationem et corruptionem non minus fundatur in Sacra Scriptura.....
+      title_status: unspecified
     - label: d
       title: Tractatus De Metheoris
-      locus: S. 601–610
+      locus: p. 601–610
+      title_status: unspecified
     - label: e
       title: Tractatus In libros De Coelis et Mundo
-      locus: S. 610–646
+      locus: p. 610–646
+      incipits:
+      - text: Offert se primò tam speciosa quam spatiosa Mundi machina......
+      title_status: unspecified
     - label: f
       title: Tractatus ultimus In tres Libros Aristotelicos de Anima
-      locus: S. 646–740
+      locus: p. 646–740
+      title_status: unspecified
+    incipits:
+    - locus: p. 3
+      text: Ad arcaniores sapientiae naturalis eruendos thesauros.
+    title_status: unspecified
   - label: '2'
     title: Metaphysica Aristotelico Thomistica
-    locus: S. 741–789
+    locus: p. 741–789
     end_date: '1697-07-13'
+    incipits:
+    - text: Tandem Doctissimi (?) et ornatissimi (?) Domini Auditores........
+    colophons:
+    - locus: p. 789
+      text: 1697. 13 Julii absolvimus.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

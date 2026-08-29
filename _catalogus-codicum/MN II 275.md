@@ -9,12 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 275
 ms_contents:
-  title: Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione
   items:
   - label: a
     title: Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione
-    locus: S. 3–328
-    incipit: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales
+    locus: p. 3–328
+    incipits:
+    - text: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales
+    - text: 'Tractatus Theologico-scholasticus De Jure et Justitia p. 7: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit
+        ad explicandas materias morales .....'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

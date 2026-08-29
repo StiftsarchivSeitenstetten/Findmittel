@@ -14,18 +14,21 @@ ms_identifier:
   idno: "MN I 5"
 
 ms_contents:
+  items:
   - item: 1
-    title: "Artzney Buech"
-    title_type: "supplied"
-    language:
-      - "de"
-    summary: "Sammlung zahlreicher Vorschriften verschiedener Ärzte und anderer Personen, geordnet unter 41 Titeln."
+    title: Artzney Buech
+    summary: Sammlung zahlreicher Vorschriften verschiedener Ärzte und anderer Personen, geordnet unter 41 Titeln.
     parts: 41
     index:
       present: true
-      locus: "S. 3–5"
-      title: "Register Und Sumärischer Inhalt Dises Artzney Buechs"
-
+      locus: S. 3–5
+      title: Register Und Sumärischer Inhalt Dises Artzney Buechs
+      title_status: supplied
+      title_source: cataloguer
+    languages:
+    - de
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: "codex"
   format: "Folio"

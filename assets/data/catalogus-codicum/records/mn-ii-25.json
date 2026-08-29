@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-25",
   "signature": "MN II 25",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "17",
   "heading": {
     "title": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1635"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,18 +49,36 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–752",
+      "locus": "p. 3 - 752",
       "language": "",
+      "incipits": [
+        {
+          "label": "Prooemii in Materiam de Deo uno, et Trino",
+          "text": "Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Sapientibus et Insipientibus debitorem se esse cognoscat...."
+        "label": "Prooemii in Materiam de Deo uno, et Trino",
+        "text": "Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto...."
+        "text": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [],
@@ -137,13 +158,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-25/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 25",
     "titles": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635) \nCommentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
-    "persons": "P. Thomas Ringmair OSB Autor author \nFr. Ludwig Graff OSB Schreiber scribe",
-    "incipits": "Sapientibus et Insipientibus debitorem se esse cognoscat....",
+    "persons": "P. Thomas Ringmair OSB Autor author  \nFr. Ludwig Graff OSB Schreiber scribe ",
+    "incipits": "Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
     "explicits": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
     "notes": "",
-    "physical": "Papier \n761 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \n761 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "761 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen und denselben Initialen wie Codex MN II 20.\n\n**Theologischer Kommentar über den einen und dreieinigen Gott aus dem ersten Teil der Summa des hl. Thomas von Aquin**, von P. Thomas Ringmair, Profess des Klosters Wessobrunn, Doktor der heiligen Theologie und ordentlichem Professor derselben an der Universität Salzburg; mitgeschrieben von Fr. Ludwig Graff, Profess desselben Ordens in Seitenstetten. 1635: S. 3–752.\n\nAnfang der Vorrede zum Stoff über den einen und dreieinigen Gott: **Er erkenne, dass er Weisen und Unweisen verpflichtet ist....** Ende S. 751/52: **...wir setzen dem gesamten theologischen Kurs ein Ende, den wir im achtundzwanzigsten Jahr Christi begonnen und zusammen mit dem fünfunddreißigsten abgeschlossen haben....**",
+    "latin": "761 pagg., teg. a2 cum litteris initialibus ut in cod. MN II 20\n\n*Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635):* p. 3 - 752\n\nInitium Prooemii in Materiam de Deo uno, et Trino: Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto...."
   }
 }

@@ -9,7 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 108
 ms_contents:
-  catalogue_title_or_summary: (Logica Aristotelis)
+  items:
+  - catalog_statement: (Logica Aristotelis)
+    title: Logica Aristotelis
+    title_status: supplied
+    title_source: cataloguer
+    incipits:
+    - locus: p. 1
+      label: Disputationis Primae Logicae Aristotelis De possibilitate et impossibilitate entis
+      text: 'Uti de ente ita etiam de possibilitate.... Inscriptio dorsi: Logica MN MS F. Ernesti.'
 phys_desc:
   object_form: codex
   support: Papier

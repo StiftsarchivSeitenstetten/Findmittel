@@ -9,17 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 55
 ms_contents:
-  title: "Marianischer Bau(m) Garten. worinen Morgen Abend Meß Beicht= Comonion Gebeth und zur heiligen Dreyfaltigkeit, zu Christo, biteren Leiden und Sterben. Zur Mutter Gottes, ihren Tagzeiten, zu ....(?).. lieben Heilligen zu finden bei Wo(l)fgang Ketzian geschrieben im Jahr Christi Anno 1791"
   items:
-  - label: "a"
-    title: "Marianischer Bau(m) Garten. worinen Morgen Abend Meß Beicht= Comonion Gebeth und zur heiligen Dreyfaltigkeit, zu Christo, biteren Leiden und Sterben. Zur Mutter Gottes, ihren Tagzeiten, zu ....(?).. lieben Heilligen zu finden bei Wo(l)fgang Ketzian geschrieben im Jahr Christi Anno 1791"
-    locus: "S. 1–133"
-    note: "Die Klammern innerhalb des Titels enthalten Auflösungen beziehungsweise Unsicherheitsmarkierungen des Katalogbearbeiters; der Titel als solcher ist überliefert."
-  - label: "b"
-    title: "Ultima dicta Christi in cruce pendentis"
-    title_type: "supplied"
-    locus: "S. 134–135"
-    note: "Vom Katalogbearbeiter gebildete Inhaltsbezeichnung für einen Nachtrag von anderer Hand."
+  - label: a
+    title: Marianischer Bau(m) Garten. worinen Morgen Abend Meß Beicht= Comonion Gebeth und zur heiligen Dreyfaltigkeit, zu Christo, biteren Leiden
+      und Sterben. Zur Mutter Gottes, ihren Tagzeiten, zu ....(?).. lieben Heilligen zu finden bei Wo(l)fgang Ketzian geschrieben im Jahr Christi
+      Anno 1791
+    note: Die Klammern innerhalb des Titels enthalten Auflösungen beziehungsweise Unsicherheitsmarkierungen des Katalogbearbeiters; der Titel
+      als solcher ist überliefert.
+    title_status: unspecified
+  - label: b
+    title: Ultima dicta Christi in cruce pendentis
+    locus: p. 134–135
+    note: Vom Katalogbearbeiter gebildete Inhaltsbezeichnung für einen Nachtrag von anderer Hand.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

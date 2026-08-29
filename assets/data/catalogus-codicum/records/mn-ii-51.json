@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-51",
   "signature": "MN II 51",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "32–33",
   "heading": {
     "title": "Index",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1652"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Vorlesungen über Gerechtigkeit und Recht, Verträge sowie über den dreieinigen und einen Gott; mit zahlreichen zeitgeschichtlichen Notizen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,15 +70,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Iustitia et Iure",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1–33",
+      "locus": "fol. 1 - 33",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Aggredimur tractatum et scitu et utilitate longè utilissimum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 33v",
+          "text": "Absolvimus hunc tractatum 12 Januarii quâ 7a (?) (fuit enim hodie dies Jovis) nocte (?) vidi Comoediam in aula Imperatoris exhibitam, ubi erat videre theatrum artificiosissimis perspectivis ab initio columnarum, 2°. arborum, 3 Columnarum instar pallatii, 4°. Petrarum instar montosi littoris Marini, mare illud alluens. 5°. instar horti amoeni viridis arcubus foliorum statuis exornatorum in praesentibus viridium columnarum. Volatusque personarum iam è coelo in terram iam è terrâ in coelum evolantium videre erat. In hâc Comoedia Ferdinandus quartus Rex Hungarorum et Bohemorum Ipse in Cataphractura (in Harnisch) Lanceis Nicolominum ducem, et dux Regem Impetivit, Lanceis fractis gladiis dimicabant. 1652.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Aggredimur tractatum et scitu et utilitate longè utilissimum....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 33v",
+        "text": "Absolvimus hunc tractatum 12 Januarii quâ 7a (?) (fuit enim hodie dies Jovis) nocte (?) vidi Comoediam in aula Imperatoris exhibitam, ubi erat videre theatrum artificiosissimis perspectivis ab initio columnarum, 2°. arborum, 3 Columnarum instar pallatii, 4°. Petrarum instar montosi littoris Marini, mare illud alluens. 5°. instar horti amoeni viridis arcubus foliorum statuis exornatorum in praesentibus viridium columnarum. Volatusque personarum iam è coelo in terram iam è terrâ in coelum evolantium videre erat. In hâc Comoedia Ferdinandus quartus Rex Hungarorum et Bohemorum Ipse in Cataphractura (in Harnisch) Lanceis Nicolominum ducem, et dux Regem Impetivit, Lanceis fractis gladiis dimicabant. 1652.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -81,15 +112,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Contractibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 34–152",
+      "locus": "fol. 34 - 152",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 34r",
+          "text": "Contractus ..(?).. accipi potest 1°. latè et Impropriè....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "fol. 152r",
+          "text": "Haec Sub Patre Joanne Fertholdo Societatis Jesu Sacerdote Primario Professore. Viennae. 1652.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 34r",
+        "text": "Contractus ..(?).. accipi potest 1°. latè et Impropriè....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 152r",
+        "text": "Haec Sub Patre Joanne Fertholdo Societatis Jesu Sacerdote Primario Professore. Viennae. 1652.",
+        "id": "explicit-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -99,14 +154,26 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Deo Trino et Uno",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1r–163v (= 154–317)",
+      "locus": "fol. 1r - 163v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Deum esse fide Divina creditur.... (= f. 154/317) fol. 65v (= 219v):",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Deum esse fide Divina creditur.... (= f. 154/317) fol. 65v (= 219v):",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -117,13 +184,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index rerum alphabeticus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "Bl. 163v–166r (= 316–319)",
+      "locus": "fol. 163v - 166r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -257,13 +328,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 51",
     "titles": "Index \nIndex \nDe Iustitia et Iure \nDe Contractibus \nDe Deo Trino et Uno \nIndex rerum alphabeticus",
-    "persons": "P. Joannes Ferthold SJ lecturer part c lecturer_part_c \nwahrscheinlich ungarischer Herkunft Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Vorlesungen über Gerechtigkeit und Recht, Verträge sowie über den dreieinigen und einen Gott; mit zahlreichen zeitgeschichtlichen Notizen.",
-    "physical": "Papier \nI + 152 + 166 (= 319) Blätter \nQuartformat \ndescription: Einband abgeschnitten."
+    "persons": "P. Joannes Ferthold SJ lecturer part c lecturer_part_c  \nwahrscheinlich ungarischer Herkunft Schreiber scribe ",
+    "incipits": "Aggredimur tractatum et scitu et utilitate longè utilissimum.... \nContractus ..(?).. accipi potest 1°. latè et Impropriè.... \nDeum esse fide Divina creditur.... (= f. 154/317) fol. 65v (= 219v):",
+    "explicits": "Haec Sub Patre Joanne Fertholdo Societatis Jesu Sacerdote Primario Professore. Viennae. 1652. \nAbsolvimus hunc tractatum 12 Januarii quâ 7a (?) (fuit enim hodie dies Jovis) nocte (?) vidi Comoediam in aula Imperatoris exhibitam, ubi erat videre theatrum artificiosissimis perspectivis ab initio columnarum, 2°. arborum, 3 Columnarum instar pallatii, 4°. Petrarum instar montosi littoris Marini, mare illud alluens. 5°. instar horti amoeni viridis arcubus foliorum statuis exornatorum in praesentibus viridium columnarum. Volatusque personarum iam è coelo in terram iam è terrâ in coelum evolantium videre erat. In hâc Comoedia Ferdinandus quartus Rex Hungarorum et Bohemorum Ipse in Cataphractura (in Harnisch) Lanceis Nicolominum ducem, et dux Regem Impetivit, Lanceis fractis gladiis dimicabant. 1652.",
+    "notes": "Vorlesungen über Gerechtigkeit und Recht, Verträge sowie über den dreieinigen und einen Gott; mit zahlreichen zeitgeschichtlichen Notizen. \ntype: historical_notes; subjects: Hofkomödie mit Ferdinand IV.; Begräbnis Caspar Gorizutti; Primiz Alexander Finklerus; Konviktskapelle; Reise Kaiser Ferdinands III. / Krönung Ferdinands IV.; date: 1652",
+    "physical": "Papier \nI + 152 + 166 (= 319) Blätter \nQuartformat \ndescription: Einband abgeschnitten.",
+    "german": "I + 152 + 166 (= 319) Blätter; der Einband ist abgeschnitten; geschrieben 1652.\n\na) Bl. 1r: **Register.**\n\nb) **Abhandlung zur Secunda Secundae des hl. Thomas über Gerechtigkeit und Recht:** Bl. 1–33. Anfang Bl. 1r: **Wir gehen an eine Abhandlung, die sowohl hinsichtlich des Wissens als auch des Nutzens bei weitem höchst nützlich ist....** Schluss Bl. 33v: **Wir beendeten diese Abhandlung am 12. Januar; in dieser 7. (?) Nacht (?) – heute war nämlich Donnerstag – sah ich am kaiserlichen Hof eine Komödie, bei der ein Theater mit höchst kunstvollen Perspektiven zu sehen war: zuerst von Säulen, zweitens von Bäumen, drittens von Säulen nach Art eines Palastes, viertens von Felsen nach Art einer bergigen Meeresküste, an die das Meer schlug, fünftens nach Art eines lieblichen grünen Gartens, mit Laubbögen und Statuen zwischen grünen Säulen geschmückt. Auch konnte man Personen sehen, die bald vom Himmel zur Erde, bald von der Erde zum Himmel flogen. In dieser Komödie griff Ferdinand IV., König von Ungarn und Böhmen, selbst in Rüstung mit Lanzen den Herzog Nicolomini an, und der Herzog den König; nachdem die Lanzen zerbrochen waren, kämpften sie mit Schwertern. 1652.**\n\nc) **Zweite Abhandlung. Über Verträge:** Bl. 34–152. Anfang Bl. 34r: **Vertrag kann ... erstens in weiter und uneigentlicher Bedeutung verstanden werden....** Vermerk Bl. 109r: **Diese Lektion wurde am 8. Juni 1652 geschrieben; diesem Tag ging am 7. desselben Monats das Begräbnis des hochwürdigsten Herrn Caspar Gorizutti, Almoseniers der kaiserlichen Majestät und Wiener Kanonikers, voraus.... Die ehrwürdige Kongregation der hl. Barbara begleitete das Begräbnis mit einer Statue.** Schluss Bl. 152r: **Dies unter P. Joannes Ferthold, Priester der Gesellschaft Jesu und Primariusprofessor. Wien 1652.**\n\nd) **Zur Prima Pars des hl. Thomas: Erste Abhandlung. Über den dreieinigen und einen Gott:** Bl. 1r–163v. Anfang: **Dass Gott existiert, wird mit göttlichem Glauben geglaubt....** (= Bl. 154–317). Bl. 65v (= 219v): Vermerk in ungarischer Sprache. Bl. 81 (=235)r: **Dieser Artikel wurde am letzten April, am Vorabend der Apostel Philippus und Jakobus, beendet; an deren Fest feierte M. (?) Alexander Finklerus, ein westfälischer Kleselianus, in der Stephanskirche seine Primiz; ihm assistierte Junior Engelhardt, Bakkalaureus der Theologie und Kurat. Es war die erste Primiz im neuen Konvikt.** Bl. 104 (=258)r: **Diese Lektion schrieb ich zu Hause ab, die ich wegen meines Sakristanendienstes versäumt hatte, als wir das Altarbild in der neuen Kapelle des Konvikts aufstellten. Herr Franciscus Kijraly, Priester aus dem Pazmaneum, starb in der Pfarre ... (?) ....** Vermerk Bl. 107 (=261)r: **Am 10. Juni 1652 reiste der Kaiser von Wien nach Regensburg, zuvor jedoch nach Prag, um Ferdinand IV. zum Römischen König krönen zu lassen.**\n\ne) **Alphabetisches Sachregister:** Bl. 163v–166r (= 316–319).\n\nAus dem ungarischen Vermerk auf Bl. 65v (=219v) geht hervor, dass der Schreiber dieses Codex und wegen des gleichen Schriftcharakters wohl auch jener der Codices MN II 50 und 52–54 mit großer Wahrscheinlichkeit ungarischer Herkunft war.",
+    "latin": "I + 152 + 166 (= 319) foll.; tegumentum abscissum; scr. 1652\n\na) fol. 1r: (Index)\n\nb) *Tractatus in Secundam Secundae Divi Thomae De Iustitia et Iure:* fol. 1 - 33; *initium* fol. 1r: Aggredimur tractatum et scitu et utilitate longè utilissimum.... *Clausula* fol. 33v: Absolvimus hunc tractatum 12 Januarii quâ 7a (?) (fuit enim hodie dies Jovis) nocte (?) vidi Comoediam in aula Imperatoris exhibitam, ubi erat videre theatrum artificiosissimis perspectivis ab initio columnarum, 2°. arborum, 3 Columnarum instar pallatii, 4°. Petrarum instar montosi littoris Marini, mare illud alluens. 5°. instar horti amoeni viridis arcubus foliorum statuis exornatorum in praesentibus viridium columnarum. Volatusque personarum iam è coelo in terram iam è terrâ in coelum evolantium videre erat. In hâc Comoedia Ferdinandus quartus Rex Hungarorum et Bohemorum Ipse in Cataphractura (in Harnisch) Lanceis Nicolominum ducem, et dux Regem Impetivit, Lanceis fractis gladiis dimicabant. 1652.\n\nc) *Tractatus 2 De Contractibus:* fol. 34 - 152; *initium* fol. 34r: Contractus ..(?).. accipi potest 1°. latè et Impropriè.... Nota fol. 109r: Haec lectio scripta est 8a Junii 1652 quam diem praecessit sepultura Reverendissimi Domini Caspari Gorizutti Sacrae\n\nCaesareae Maiestatis Eleemosynarii 7° eiusdem Canonici Viennensis.... Comitata est funus Venerabilis Congregatio S. Barbarae cum Statua.\n\n*Clausula* fol. 152r: Haec Sub Patre Joanne Fertholdo Societatis Jesu Sacerdote Primario Professore. Viennae. 1652.\n\nd) *In Primam Partem Divi Thomae Tractatus I De Deo Trino et Uno:* fol. 1r - 163v. *Initium:* Deum esse fide Divina creditur.... (= f. 154/317) fol. 65v (= 219v): Nota lingua Hungarica scripta; fol. 81 (=235)r: hic articulus fuit finitus ultima Aprilis in Vigilia SS. Philippi et Jacobi Apostolorum in quorum festo primitias habuit M. (?) Alexander Finklerus Westphalius Kleselianus in Templo S. Stephani adstitit ei Junior Engelhardt Theologiae Baccalaureus Curatus. primus primitias in novo Convictu fuit. fol. 104 (=258)r: Hanc lectionem descripsi domi quam neglexi ob sacristanatum meum, cum altaris imaginem ereximus in novo Convictus sacello. Dominus Franciscus Kijraly Presbyter ex Pazmaniano Collegio in parochia ... (?) ... defunctus est. Nota fol. 107 (=261)r: 10 Junii 1652 ivit Imperator Ratisbonam Viennae, prius tamen Pragae, pro Coronando in Regem Romanorum Ferdinando 4°.\n\ne) (Index rerum alphabeticus): fol. 163v - 166r (=316 - 319)\n\nE nota Hungarica fol. 65v (=219v) apparet, scriptorem huius codicis et (propter eundem characterem scripturae) item codicum MN II 50 et 52 - 54 vix non natione Hungaricum fuisse."
   }
 }

@@ -13,11 +13,6 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 61
 ms_contents:
-  title: Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum
-    Distributae
-  language:
-    main: de
-    headings_and_marginalia: la
   responsibility:
   - role: author
     name: P. Gregorius Lechner
@@ -25,6 +20,13 @@ ms_contents:
   - role: scribe
     name: P. Gregorius Lechner
     certainty: probable
+  items:
+  - title: Considerationes seu Declarationes super omnia Evangelia totius Anni. Per Singulas Dominicas, et Festivitates Sanctorum Distributae
+    title_status: unspecified
+    locus: p. 3
+  language:
+    main: de
+    headings_and_marginalia: la
 phys_desc:
   object_form: codex
   support: Papier

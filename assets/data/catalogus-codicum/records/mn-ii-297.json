@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-297",
   "signature": "MN II 297",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "239–240",
   "heading": {
     "title": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1759"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–26",
+      "locus": "p. 1–26",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -72,13 +79,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Annotationes Quaedam Physices",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 27–130",
+      "locus": "p. 27–130",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -185,13 +196,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-297/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 297",
     "titles": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae \nTheoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae \nAnnotationes Quaedam Physices",
-    "persons": "Josephus Pampichler Student student \nJosephus Pampichler Schreiber scribe \nJosephus Pampichler illustrator illustrator \nJosephus Pampichler Autor author",
+    "persons": "Josephus Pampichler Student student  \nJosephus Pampichler Schreiber scribe  \nJosephus Pampichler illustrator illustrator  \nJosephus Pampichler Autor author ",
     "incipits": "",
     "explicits": "",
-    "notes": "Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten. \nmutilated",
-    "physical": "Papier \n172 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "notes": "Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten. \nmutilated \nEx Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria. Amen. \ntype: drawing; subject: Christus am Kreuz; caption: Vexillum meum",
+    "physical": "Papier \n172 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "172 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken, stark beschädigt; geschrieben 1759.\n\na) **Theoreme, Probleme, Lemmata und einige Fragen aus den Elementen der Mathematik, kurz zusammengestellt von Josephus Pampichler, Philosoph im ersten Jahr, 1759:** S. 1–26. Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten.\n\nb) **Einige Anmerkungen zur Physik:** S. 27–130.\n\nBeide Abhandlungen sind lateinisch und mit zahlreichen Zeichnungen illustriert.\n\nAuf der Innenseite des Rückdeckels steht: **Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria. Amen.** = Aus den Büchern des Josephus Pampichler, Rhetorikstudenten, im Jahr des Heils 1758. Meine erste Hoffnung ist Gott, meine zweite Hoffnung die Jungfrau Maria. Amen. Unter diesem Hexameter ist Christus am Kreuz mit der Beischrift **Vexillum meum** („Mein Feldzeichen“) gezeichnet.\n\nWie bereits beim vorhergehenden Codex bemerkt, ist wahrscheinlich, dass Josephus Pampichler später in Seitenstetten eintrat, den Namen Fr. Maximilianus annahm und 1762 Profess ablegte. Während beim vorhergehenden Codex ungewiss bleibt, ob Josephus ihn eigenhändig schrieb, ist bei unserem Codex ungewiss, ob er diese mathematischen Theoreme und physikalischen Probleme selbst verfasste. Wahrscheinlich schrieb und illustrierte er sie lediglich nach Diktat und mit Hilfe eines Lehrers.",
+    "latin": "172 pagg.; teg. c3d (valde laesum!); script. 1759\n\na) Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae Per **Josephum Pampichler Philosophum in primum annum 1759**: p. 1–26. (Folium unum cum initio tractatus excisum est.)\n\nb) Annotationes Quaedam Physices: p. 27–130.\n\nUterque tractatus lingua latina utitur multisque delineationibus illustratur.\n\nIn parte aversa tegumenti ab intrinsecus haec nota invenitur: **Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria.** (Versus hexameter!) **Amen.** Quo sub versu delineata est imago Christi crucifixi cum subscriptione **Vexillum meum.**\n\nJosephum Pampichler postea in monasterium Seitenstettense ingressum nomen Fratris Maximiliani accepisse et anno 1762 vota nuncupasse veri simile est, ut iam ad codicem praecedentem indicavimus. Cum vero in codice praecedente incertum sit, num Josephus Pampichler codicem scripserit sua manu, in codice nostro incertum est, num ipse composuerit haec theoremata Mathematica et problemata Physica. Probabiliter dictante auxilianteque magistro librum nostrum nil nisi conscripsit illustravitque."
   }
 }

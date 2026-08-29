@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-114",
   "signature": "MN II 114",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "71",
   "heading": {
-    "title": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1672 et 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 60/61",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61)."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +119,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-114/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 114",
-    "titles": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61). \nEundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
+    "titles": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra \nEundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n948 pagg. \ndescription: Einband verloren bzw. entfernt."
+    "notes": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
+    "physical": "Papier \n948 pagg. \ndescription: Einband verloren bzw. entfernt.",
+    "german": "948 Seiten; Einband verloren; geschrieben 1672 und 1670.\n\na) **Abhandlung über die Engel zur Prima Pars der theologischen Summe des hl. Thomas von Aquin**, vorgetragen von P. Desiderius Schapperger, Benediktiner und Profess des Klosters Seeon, Doktor der heiligen Theologie und erster Professor; aufgezeichnet von Fr. Ernestus Weissenperger, Seitenstettner Mönch, am 28. Januar 1672: S. 3–175. Anfang der Vorrede S. 4: Nach der Betrachtung der göttlichen Personen....\n\nb) **Erste Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel des Menschen und die menschlichen Handlungen**, vorgetragen von P. Desiderius Schapperger und aufgezeichnet von Fr. Ernestus Weissenperger, 9. April 1672: S. 177–535. Anfang der Vorrede S. 178: Die gesamte Theologie oder heilige Lehre.....\n\nc) **Drittes Buch der Dekretalen**, diktiert von P. Ludovicus Engel, Profess des Klosters Melk, Doktor beider Rechte und ordentlicher erster Professor des kanonischen Rechts sowie Dekan der juristischen Fakultät, 1670: S. 547–940. Anfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker**, S. 547: Es gibt zwei Arten von Christen, schreibt der hl. Hieronymus....\n\nDieselbe Abhandlung zum dritten Buch der Dekretalen enthält auch Teil a von MN II 94.\n\n> **Handschriftlicher Nachtrag:** cf. Admont 1049/1.",
+    "latin": "948 pagg.; tegumentum deperditum; script. 1672 et 1670\n\na) Tractatus De Angelis (In) Primam Partem Summae Theologicae Divi Thomae Aquinatis Traditus Ab......Patre **Desiderio Schapperger** Ordinis S: Patris Benedicti celeberrimi monasterii Seeonensis Professo Sacrosanctae Theologiae Doctore [Wortteil überschrieben] Professore Primario. Exceptus a Reverendo Religioso fratre **Ernesto (Weissenperger)** Monacho Seittenstettensi Anno 1672 Die 28 Januarii: p. 3–175. _Initium_ Prooemii p. 4: Post considerationem Divinarum personarum....\n\nb) Tractatus Primus In Primam Secundae Divi Thomae Aquinatis De Ultimo Fine Hominis, et actibus humanis. Ab..... **P. Desiderio (Schapperger)** Ordinis Sancti Benedicti Professo in celeberrimo Monasterio Seeonensi Sacrosanctae Theologiae Doctore, ac eiusdem Professore ordinario primario. Exceptus A Reverendo ac Religioso **F. Ernesto Weissenperger** eiusdem Ordinis Professo in celeberrimo Monasterio Seittenstettensi. 1672. 9. Aprilis: p. 177–535. _Initium_ Prooemii p. 178: Universae Theologiae seu S: doctrinae.....\n\nc) Liber Tertius Decretalium Dictatus ab.....Patre **Ludovico Engel** celeberrimi et exempti monasterii Mellicensis Professo Juris utriusque Doctore ac Sacrorum Canonum Professore ordinario primario, nec non facultatis Juridicae spectabili Decanno (!) 1670: p. 547–940. _Initium_ Tituli I De Vita et honestate clericorum p. 547: Duo sunt genera Christianorum scribit S: Hieronymus....\n\nEundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).\n\n> **Handschriftlicher Nachtrag:** cf. Admont 1049/1."
   }
 }

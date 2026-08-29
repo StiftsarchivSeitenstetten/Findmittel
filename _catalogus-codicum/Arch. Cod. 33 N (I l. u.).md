@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 33 N (I l. u.)
 ms_contents:
-  title: "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda."
   items:
-  - label: "a"
-    title: "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda."
-    locus: "S. 1–91"
-    note: "Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.
+    locus: S. 1–91
+    note: Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist
+      nicht supplied.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -14,12 +14,36 @@ ms_contents:
   - label: a
     title: '(Carmen prooemiale) p. 2:'
     locus: p. 2
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: (Sex) Tractatus Theologici. De Deo Uno, et Trino. In primam partem Sancti Doctoris Angelici
-    locus: p. 3 - 720.
+    locus: p. 3 - 720
+    incipits:
+    - label: Prooemii (in Sacrosanctam Theologiam)
+      text: 'p. 3: Quanta sit Theologiae dignitas et excellentia.....'
+    - label: (Prooemii) Tractatus Sexti. De Sacratissimo Trinitatis mysterio
+      text: Sicut inter Omnia fidei Catholicae mysteria......
+    colophons:
+    - locus: p. 549
+      label: tractatus quinti
+      text: Absolvimus hunc tractatum 2 die Septembris, Anno ....1679.
+    - locus: p. 720
+      label: tractatus sexti
+      text: Absolvimus hunc tractatum 27 Januarii die S. Joanni Chrysostomo Sacro, Anno 1680.
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Tractatus Theologicus. De Angelis
-    locus: p. 720 - 886. I
+    locus: p. 720 - 886
+    incipits:
+    - locus: p. 720
+      label: (Prooemii)
+      text: Postquam cum S. Doctore de Deo secundum se, Uno, et Trino actum est....
+    title_status: unspecified
+    colophons:
+    - locus: p. 886
+      text: '....13 Aprilis Anno 1680.....'
 phys_desc:
   object_form: codex
   support: Papier

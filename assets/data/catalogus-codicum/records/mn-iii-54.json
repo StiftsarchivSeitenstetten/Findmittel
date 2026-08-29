@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-54",
   "signature": "MN III 54",
   "aliases": [
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Liber precatorius",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber precatorius",
         "typeRaw": "supplied",
@@ -52,6 +56,9 @@
       },
       "locus": "S. 113–474",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-54/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 54",
     "titles": "Liber precatorius \nLiber precatorius",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Der überlieferte Titel und S. 1–112 fehlen; auch das Ende ist unvollständig. Die Inhaltsbezeichnung wurde aus der Katalogbeschreibung erschlossen.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband abgeschnitten."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband abgeschnitten.",
+    "german": "Kleines Oktavformat; ursprünglich mehr als 475 Seiten; Einband abgeschnitten; geschrieben um 1780 (?).\n\nDa S. 1–112 dieses Gebetbuches fehlen, ist auch seine Überschrift verloren. Heute sind nur noch S. 113–474 erhalten. Wie viele Seiten am Ende fehlen, lässt sich nicht sagen.\n\nVerfasser wie Schreiber – der das Büchlein äußerst sorgfältig ausführte – sind unbekannt. Wegen Orthographie und Schrift datiert der Katalogbearbeiter den Codex ungefähr auf 1780; möglicherweise entstand er jedoch ein oder zwei Jahrzehnte früher.\n\nAm unteren Rand von S. 474 vermerkte P. Joseph Schock, Seitenstettner Mönch und Professor, dass er diesen Codex am 5. Januar 1907 von einem Schüler der zweiten Gymnasialklasse namens Rauscher erhalten habe.",
+    "latin": "8° min.; olim plus quam 475 pagg.; teg. abscissum; ca. 1780?\n\nQuod pagg. 1–112 huius libri precatorii desunt, etiam inscriptio ignota est. Nunc iam nil nisi pagg. 113–474 exstant. Quot paginae in fine libri deperditae sint, non possum dicere. Item tam auctor quam scriptor (qui codicillum nostrum diligentissime exaravit) ignotus. Circa annum 1780 scriptum esse codicem nostrum ratus sum propter orthographiam scripturamque; sed forsitan uno alterove decennio prius scriptus sit.\n\nIn margine inferiore p. 474 P. Josephus Schock, monachus ac professor Seitenstettensis, notavit, se hunc codicem accepisse die 5. Januarii 1907 a discipulo II. Classis gymnasialis nomine Rauscher."
   }
 }

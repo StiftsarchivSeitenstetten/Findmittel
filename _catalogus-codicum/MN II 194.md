@@ -12,17 +12,35 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum
-    locus: S. 6–150
-    completeness: incomplete
+    locus: p. 6–150
+    completeness:
+      status: defective
+      note: incomplete
     note: Titel und Vorrede fehlen; behandelt werden die Fragen 50–64 und 106–115.
     subitems:
     - title: Quaestiuncula De obiecto Intellectionis angelicae
-      locus: S. 3
+      locus: p. 3
+      incipits:
+      - locus: p. 6
+        label: Disputationis I. De Substantia Angelorum secundum se
+        text: Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo
+          modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.
+      title_status: supplied
+      title_source: cataloguer
     - title: Disputatio prima De Substantia Angelorum secundum se
       locus: ab S. 6
+      title_status: unspecified
+    incipits:
+    - locus: p. 6
+      label: Disputationis I. De Substantia Angelorum secundum se
+      text: Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo
+        pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus quartus in primam secundae Summae Angelicae De Actibus humanis
-    locus: S. 150–319
+    locus: p. 150–319
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

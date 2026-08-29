@@ -12,29 +12,58 @@ ms_contents:
   items:
   - label: a
     title: Discursus Quintus De Anima sive Animastica De corpore ut animato
-    locus: S. 1–356
+    locus: p. 1–356
+    incipits:
+    - locus: p. 1
+      text: Nobiliorem hominis partem aggredimur.....
+    title_status: unspecified
   - label: b
     title: Discursus ultimus Metaphysicus
-    locus: S. 373–464
+    locus: p. 373–464
     end_date: '1698-10-04'
     end_time_display: nachmittags, im ersten Viertel nach zwei
+    incipits:
+    - text: Metaphysica dicitur quasi trans- et ultra physicam scientia.....
+    colophons:
+    - text: Die quarta Octobris hora pomeridiana absolvimus hunc Cursum philosophicum primo quadrante ad tertiam Plassii. (Hoc nomen Plassii videtur
+        indicare professorem, qui hunc discursum praelegit. Qua de re, quod in illo tempore Salisburgi non erat professor nomine Plassius aut
+        Plass, codex noster lectiones non Salisburgi habitas exhibet.) Idem indicat forma tegumenti et Latinitas codicis nostri.
+    title_status: unspecified
   - label: c
     title: Discursus Primus De Coelo et Mundo
-    locus: S. 485–593
+    locus: p. 485–593
     parent_title: Cursus et Discursus Philosophici Pars Tertia Complectens reliquos Tractatus Physicae
+    incipits:
+    - text: Postquam Aristoteles in libris 8 physicorum disputasset......
+    title_status: unspecified
   - label: d
     title: Discursus Secundus In librum primum de ortu et interitu
-    locus: S. 593–728
+    locus: p. 593–728
     parent_title: Cursus et Discursus Philosophici Pars Tertia Complectens reliquos Tractatus Physicae
+    incipits:
+    - text: Ait hic Aristoteles de variis speciebus....
+    title_status: unspecified
   - label: e
     title: Discursus tertius De Elementis
-    locus: S. 728–773
+    locus: p. 728–773
     parent_title: Cursus et Discursus Philosophici Pars Tertia Complectens reliquos Tractatus Physicae
+    incipits:
+    - locus: p. 729
+      text: Postquam Philosophus in libro primo de ortu et interitu egisset.....
+    title_status: unspecified
   - label: f
     title: Discursus Quartus De Metheoris Physicae
-    locus: S. 791–863
+    locus: p. 791–863
     parent_title: Cursus et Discursus Philosophici Pars Tertia Complectens reliquos Tractatus Physicae
-  order_note: Die Nummerierung zeigt, dass die Abhandlungen ursprünglich in anderer Reihenfolge diktiert und beim Zusammenstellen des Codex umgeordnet wurden; die Gesamtüberschrift des dritten Kursteils steht deshalb erst auf S. 483.
+    incipits:
+    - locus: p. 793
+      label: Discursus quarti In quatuor libros Metheoro-logicos
+      text: Post tractationem de Elementis seu corporibus simplicibus,..... Numeri discursuum indicant, hos discursus non eo ordine, quo in codice
+        nostro inveniuntur, dictatos esse, sed seriem partium, cum ad codicem iungerentur, mutatam esse. Qua de causa etiam inscriptio codicis
+        non in initio, sed in medio codicis (p. 483) invenitur.
+    title_status: unspecified
+  order_note: Die Nummerierung zeigt, dass die Abhandlungen ursprünglich in anderer Reihenfolge diktiert und beim Zusammenstellen des Codex umgeordnet
+    wurden; die Gesamtüberschrift des dritten Kursteils steht deshalb erst auf S. 483.
 phys_desc:
   object_form: codex
   support: Papier

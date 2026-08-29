@@ -12,14 +12,28 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologicus De Gratia
-    locus: S. III–V, 1–239
+    locus: p. III, IV, V, 1–239
     date: 1709/10
     end_date: '1710-04-07'
+    incipits:
+    - locus: p. IV
+      label: Proloquii
+      text: Sitimus ad Pelagus aquarum in vitam aeternam salientium,......
+    colophons:
+    - text: Absolvimus 7. Aprilis 1710. Feria Secunda post Dominicam Passionis.
+    title_status: unspecified
   - label: b
     title: Tractatus De Fide, Spe, et Charitate
-    locus: S. 240–408
+    locus: p. 240–408
     date: 1709/10
     end_date: '1710-08-20'
+    incipits:
+    - locus: p. 241
+      label: Proloquii
+      text: Hactenus exposuimus essentiam et divisionem gratiae,....
+    colophons:
+    - text: absolvimus 20. Augusti In festo S. Bernardi 1710 ante prandium.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

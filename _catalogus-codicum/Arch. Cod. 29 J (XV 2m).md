@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 29 J (XV 2m)
 ms_contents:
-  title: "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786."
   items:
-  - label: "a"
-    title: "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786."
-    locus: "S. 1–424"
-    note: "Rückenaufschrift: Commentarius litteralis in regulam S. Benedicti."
+  - label: a
+    title: Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo
+      Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.
+    locus: p. 260–261
+    note: 'Rückenaufschrift: Commentarius litteralis in regulam S. Benedicti.'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

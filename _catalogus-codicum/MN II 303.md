@@ -12,21 +12,28 @@ ms_contents:
   items:
   - label: a
     title: Proemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam
-    locus: S. 1–82
-    incipit: Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat
+    locus: p. 1–82
+    incipits:
+    - text: Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat, ......
+    title_status: unspecified
   - label: b
     title: Exercitationes Dialecticae In Prolegomena Exegetica
-    locus: S. 83–155
+    locus: p. 83–155
+    title_status: unspecified
   - label: c
     title: Logica Generalis
-    title_type: supplied
-    locus: S. 157–374
-    incipit: Prima cogitationis, seu mentis operationis Species, quam Logica considerat
+    locus: p. 157–374
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: Prima cogitationis, seu mentis operationis Species, quam Logica considerat
+    title_status: supplied
+    title_source: cataloguer
   - label: d
     title: Logica Specialis
-    locus: S. 375–427
-    incipit: Hucusque in Logica Generali ea pertracta sunt
+    locus: p. 375–427
+    incipits:
+    - text: Hucusque in Logica Generali ea pertracta sunt, ......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

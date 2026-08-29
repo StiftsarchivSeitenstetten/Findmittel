@@ -21,38 +21,41 @@ ms_identifier:
   idno: "MN I 18"
 
 ms_contents:
-  overall_title:
-    title: "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten. In die deutsche Sprache übersetzt."
-    title_type: "original"
-    language: "de"
-
-  summary: "Deutsche Übersetzung einer Auswahl von Predigten des Kapuziners und späteren Kardinals Francesco Maria Casini, die ursprünglich in italienischer Sprache gehalten wurden."
-
+  summary: Deutsche Übersetzung einer Auswahl von Predigten des Kapuziners und späteren Kardinals Francesco Maria Casini, die ursprünglich in
+    italienischer Sprache gehalten wurden.
   items:
-    - item: 1
-      title: "Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini ... vorgetragenen Predigten. In die deutsche Sprache übersetzt."
-      title_type: "original"
-      language:
-        main: "de"
-        source_language: "it"
-      responsibility:
-        - role: "original_author"
-          name: "Francesco Maria Casini"
-        - role: "translator"
-          name: "unbekannt"
-      source_work:
-        title: "Prediche dette nel Palazzo Apostolico"
-        language: "it"
-        publication:
-          place: "Rom"
-          date:
-            display: "1713"
-            when: 1713
-      translation_note: "Der unbekannte Übersetzer erklärt in der Vorrede auf S. 5, dass es sich um die erste Übersetzung aus dem Italienischen ins Deutsche handle."
-      print_status:
-        display: "unbekannt"
-        note: "Der Katalogbearbeiter weiß nicht, ob die im Codex enthaltene deutsche Übersetzung jemals gedruckt wurde."
-
+  - item: 1
+    title: 'Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini ... vorgetragenen Predigten. In die deutsche
+      Sprache übersetzt.'
+    responsibility:
+    - role: original_author
+      name: Francesco Maria Casini
+    - role: translator
+      name: unbekannt
+    source_work:
+      title: Prediche dette nel Palazzo Apostolico
+      language: it
+      publication:
+        place: Rom
+        date:
+          display: '1713'
+          when: 1713
+      title_status: unspecified
+    translation_note: Der unbekannte Übersetzer erklärt in der Vorrede auf S. 5, dass es sich um die erste Übersetzung aus dem Italienischen ins
+      Deutsche handle.
+    print_status:
+      display: unbekannt
+      note: Der Katalogbearbeiter weiß nicht, ob die im Codex enthaltene deutsche Übersetzung jemals gedruckt wurde.
+    title_status: unspecified
+    language:
+      main: de
+      source_language: it
+  title: 'Auszug einiger im ersten und zweyten Theile enthaltenen, von Fra: Francisco Maria Casini, Kapuziner Ordens, gewesten Prediger im apostolischen
+    Saal zu Rom, und nachmaligen der heiligen römischen Kirche Cardinal Titulo S: Priscae, In wälscher Sprache aldort vorgetragenen Predigten.
+    In die deutsche Sprache übersetzt.'
+  languages:
+  - de
+  title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

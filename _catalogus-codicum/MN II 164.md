@@ -15,6 +15,8 @@ ms_contents:
     title: Rechenbuch mit der Ziffer auf allerlei Haus- und Kaufmannsrechnung
     start_date: '1688-09-16'
     note: Als Lehrbuch in Frage und Antwort angelegt.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

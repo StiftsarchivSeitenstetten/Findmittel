@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 49
 ms_contents:
-  title: "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2"
   items:
-  - label: "a"
-    title: "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2"
-    locus: "S. 1–136"
+  - label: a
+    title: 'Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2'
+    locus: S. 1–136
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

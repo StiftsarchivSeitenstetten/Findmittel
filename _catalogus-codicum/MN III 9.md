@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 9
 ms_contents:
-  title: "Compendium Logicae. 1696"
   items:
-  - label: "a"
-    title: "Compendium Logicae. 1696"
-    locus: "fol. 1–187v"
-    incipit: "Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum."
+  - label: a
+    title: Compendium Logicae. 1696
+    locus: fol. 1–187v
+    incipits:
+    - text: Quid sit Philosophia. Est cognitio rerum naturalium per media naturalia in ordine ad verum.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

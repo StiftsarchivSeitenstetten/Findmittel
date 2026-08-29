@@ -13,16 +13,25 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Undecimus De Sacramentis in Genere
-    locus: S. 1–163
-    completeness: incomplete
+    locus: p. (1)–163
+    completeness:
+      status: defective
+      note: incomplete
     note: S. 1–4 einschließlich des Anfangs fehlen.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus Duodecimus De Baptismo et Confirmatione
-    locus: S. 163–226
+    locus: p. 163–226
+    incipits:
+    - text: Baptismus vox Graeca (!)........
+    title_status: unspecified
   - label: c
     title: Tractatus Tertius Decimus De Sacratissimo Eucharistiae Sacramento
-    locus: S. 226–461
+    locus: p. 226–461
     end_date: '1701-08-31'
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

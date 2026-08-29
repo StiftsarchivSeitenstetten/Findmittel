@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-92",
   "signature": "MN II 92",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "60",
   "heading": {
     "title": "Institutiones dialecticae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1667"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,35 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Institutiones dialecticae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–125",
+      "locus": "p. 1–125",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Prooemium. Qui in acie hostem prosternere flagrat....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus quartâ die Martii 1667.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Prooemium. Qui in acie hostem prosternere flagrat....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus quartâ die Martii 1667.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,15 +87,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in Organum Aristotelis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 129–775",
+      "locus": "p. 129–775",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Proloquii",
+          "text": "A velitationibus ad pugnam, à fundamento in sublime.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 775",
+          "text": "....calamum 24 Januarii anni 1667. admovimus, removimusque eodem anno decimo tertio Augusti....",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Proloquii",
+        "text": "A velitationibus ad pugnam, à fundamento in sublime.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 775",
+        "text": "....calamum 24 Januarii anni 1667. admovimus, removimusque eodem anno decimo tertio Augusti....",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -163,13 +210,16 @@
       "note": "Sehr ähnliche Schrift."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 92",
     "titles": "Institutiones dialecticae \nInstitutiones dialecticae \nCommentarius in Organum Aristotelis",
-    "persons": "Fr. Bernardus Leittner Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Bernardus Leittner Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Prooemium. Qui in acie hostem prosternere flagrat.... \nA velitationibus ad pugnam, à fundamento in sublime.....",
+    "explicits": "Absolvimus quartâ die Martii 1667. \n....calamum 24 Januarii anni 1667. admovimus, removimusque eodem anno decimo tertio Augusti....",
     "notes": "",
-    "physical": "Papier \n786 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+    "physical": "Papier \n786 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+    "german": "786 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **IHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1667.\n\na) **Institutionen der Dialektik:** S. 1–125. Anfang: **Vorrede. Wer in der Schlacht den Feind niederwerfen will....** Schluss: **Wir beendeten [dies] am 4. März 1667.**\n\nb) **(Kommentar zum Organon des Aristoteles):** S. 129–775. Anfang der Vorrede: **Von den Vorgefechten zum eigentlichen Kampf, vom Fundament in die Höhe.....** Schluss S. 775: **....am 24. Januar des Jahres 1667 setzten wir die Feder an und legten sie im selben Jahr am 13. August wieder weg....**\n\nDie Schrift ist jener des Codex MN II 93 sehr ähnlich; deshalb würde ich ohne Zögern annehmen, dass auch unser Codex von Fr. **Bernardus Leittner** geschrieben wurde, wenn nicht auch Codex MN II 93 Institutionen der Dialektik enthielte.\n\nVielleicht begann jener Bruder, der am 21. September 1666 in unserem Kloster Profess abgelegt hatte, zunächst im Kloster Admont das Studium der Logik und führte es bis zu den im Januar 1667 abgeschlossenen Institutionen der Dialektik; danach ging er nach Salzburg und begann den philosophischen Kurs von Neuem.\n\nDer Verfasser ist unbekannt.",
+    "latin": "teg. a2, in parte adversa signo IHS, in aversa imagine Matris Immaculatae iuxta Apoc. XII 1 decoratum; 786 pagg.\n\na) Institutiones dialecticae: p. 1–125. Initium: Prooemium. Qui in acie hostem prosternere flagrat.... Clausula: Absolvimus quartâ die Martii 1667.\n\nb) (Commentarius in Organum Aristotelis): p. 129–775. Initium Proloquii: A velitationibus ad pugnam, à fundamento in sublime..... Clausula p. 775: ....calamum 24 Januarii anni 1667. admovimus, removimusque eodem anno decimo tertio Augusti....\n\nScriptura simillima est codici MN II 93 (vide supra!), ideoque Fr. Bernardum Leittner etiam codicem nostrum scripsisse nil haesitans putarem, nisi etiam codex MN II 93 institutiones dialecticas contineret. Forsitan Frater ille die 21. Septembris 1666 in monasterio nostro professus primum studium logicae coeperit usque ad institutiones dialecticas mense Januario 1667 finitas in monasterio Admontensi, deinde Salisburgum profectus cursum philosophicum denuo inchoaverit.\n\nAuctor ignotus."
   }
 }

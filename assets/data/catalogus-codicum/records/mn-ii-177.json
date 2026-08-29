@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-177",
   "signature": "MN II 177",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "137",
   "heading": {
     "title": "Tractatus De Vitiis et Peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1694"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Vitiis et Peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–177r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Post examinatam materiam de actibus Humanis......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Post examinatam materiam de actibus Humanis......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +80,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus in Communi et in particulari",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 178r–235v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Quandoquidem iuxta mentem gentium Doctoris......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Quandoquidem iuxta mentem gentium Doctoris......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -162,13 +193,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 177",
     "titles": "Tractatus De Vitiis et Peccatis \nTractatus De Vitiis et Peccatis \nTractatus De Legibus in Communi et in particulari",
-    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
-    "incipits": "",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe Seitenstetten \nunbekannt author or lecturer author_or_lecturer ",
+    "incipits": "Post examinatam materiam de actibus Humanis...... \nQuandoquidem iuxta mentem gentium Doctoris......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n238 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n238 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "238 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1694.\n\na) **Abhandlung über Laster und Sünden:** fol. 1r–177r. Anfang der Vorrede: Nach Prüfung der Materie über die menschlichen Handlungen......\n\nb) **Abhandlung über die Gesetze im Allgemeinen und im Einzelnen:** fol. 178r–235v. Anfang der Vorrede: Da nach der Auffassung des Völkerlehrers......\n\nInitialen auf dem Vorderdeckel: **F G S P S** = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1694. Daher schrieb auch diesen Codex jener bereits bekannte Mönch, was auch die Rückenaufschrift bestätigt. Über den Verfasser ließ sich auch aus MN II 190, das dieselben Abhandlungen enthält, nichts ermitteln.",
+    "latin": "238 foll.; teg. a2; script. 1694\n\na) Tractatus De Vitiis, et Peccatis: fol. 1r–177r. Initium Prooemii: Post examinatam materiam de actibus Humanis......\n\nb) Tractatus De Legibus in Communi, et in particulari: fol. 178r–235v. Initium Prooemii: Quandoquidem iuxta mentem gentium Doctoris......\n\nLitterae initiales in parte adversa tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1694. Scripsit igitur etiam codicem nostrum (quod etiam inscriptio dorsi indicat) monachus ille nobis iam notissimus. De auctore vero etiam in codice MN II 190, qui eosdem tractatus exhibet, nihil inveni."
   }
 }

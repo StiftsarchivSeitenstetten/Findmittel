@@ -13,10 +13,19 @@ ms_contents:
   items:
   - label: a
     title: Libri aliquot De variis controversisticis fidei materiis
-    locus: p. 5–164.
+    locus: p. 5–164
+    incipits:
+    - locus: p. 7
+      label: Prooemii
+      text: Videbat olim de nocte vir desideriorum et magnus Propheta Daniel......
+    title_status: unspecified
   - label: b
     title: Libri aliquot De variis et selectioribus Sacrae scripturae locis
-    locus: p. 171–349.
+    locus: p. 171–349
+    incipits:
+    - locus: p. 173
+      text: Praefatio et intentio operis. Nunquam non opere (!) pretium duxi et summi momenti esse iudicavi.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

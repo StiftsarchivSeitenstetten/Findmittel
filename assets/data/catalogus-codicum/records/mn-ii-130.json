@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-130",
   "signature": "MN II 130",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "81–82",
   "heading": {
     "title": "Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1673/74, 1678"
   },
   "date": {
@@ -39,6 +39,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 130.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -50,14 +53,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. I",
+      "locus": "p. I, II, 1 - 298",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "in II. Librum Decretalium",
+          "text": "Prooemium. Expeditis priori libro variis iudicum tam ordinariorum, quam delegatorum officiis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "in II. Librum Decretalium",
+        "text": "Prooemium. Expeditis priori libro variis iudicum tam ordinariorum, quam delegatorum officiis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -68,15 +85,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in Librum Tertium Decretalium, Gregorii IX Summi Pontificis. Traditus In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, à Reverendo Patre Georgio Szavatkay, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum explanatore, ac Professore Ordinario. Exceptus Ab Adamo Ferdinando Xaverio Wimmer Philosophiae et Sacrorum Canonum Studioso. Anno 1674. p. 1 - 198 (= 302 - 500).",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 1 - 198 (= 302 - 500).",
+      "locus": "p. 1",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Tractatus In librum tertium Decretalium",
+          "text": "Priore libro actum est de iudiciis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 198",
+          "text": "die 7 Septembris, Anno 1674.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Tractatus In librum tertium Decretalium",
+        "text": "Priore libro actum est de iudiciis.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 198",
+        "text": "die 7 Septembris, Anno 1674.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -86,15 +129,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Controversiae Fidei Explanatae Ab......Patre Edmundo Manincor, Ordinis S. Benedicti, in Celeberrimo, et Antiquissimo Monasterio Admontensi Professo, Sacrosanctae Theologiae Doctore, et Controversiarum fidei Professore Ordinario. Exceptae à me Fratre Leopoldo Wimmer eiusdem Ordinis in Seittenstetten Professo. Anno 1678",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 1 - 115 (= 503 - 618).",
+      "locus": "p. 1 - 115",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii in Controversias",
+          "text": "Diversa ad studia diversi incumbunt,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "text": ".....Anno 1678.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii in Controversias",
+        "text": "Diversa ad studia diversi incumbunt,......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": ".....Anno 1678.",
+        "id": "explicit-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -178,13 +243,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-130/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 130",
     "titles": "Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673 \nCommentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673 \nCommentarius in Librum Tertium Decretalium, Gregorii IX Summi Pontificis. Traditus In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, à Reverendo Patre Georgio Szavatkay, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum explanatore, ac Professore Ordinario. Exceptus Ab Adamo Ferdinando Xaverio Wimmer Philosophiae et Sacrorum Canonum Studioso. Anno 1674. p. 1 - 198 (= 302 - 500). \nControversiae Fidei Explanatae Ab......Patre Edmundo Manincor, Ordinis S. Benedicti, in Celeberrimo, et Antiquissimo Monasterio Admontensi Professo, Sacrosanctae Theologiae Doctore, et Controversiarum fidei Professore Ordinario. Exceptae à me Fratre Leopoldo Wimmer eiusdem Ordinis in Seittenstetten Professo. Anno 1678",
-    "persons": "Adam Ferdinand Xaver Wimmer Schreiber scribe \nFr. Leopold Wimmer Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Adam Ferdinand Xaver Wimmer Schreiber scribe  \nFr. Leopold Wimmer Schreiber scribe ",
+    "incipits": "Prooemium. Expeditis priori libro variis iudicum tam ordinariorum, quam delegatorum officiis.... \nPriore libro actum est de iudiciis..... \nDiversa ad studia diversi incumbunt,......",
+    "explicits": ".....Anno 1678. \ndie 7 Septembris, Anno 1674.",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 130.",
-    "physical": "Papier \nII + 301 + 200 + 121 = 624 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nII + 301 + 200 + 121 = 624 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "II + 301 + 200 + 121 = 624 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1673/74 und 1678.\n\na) **Kommentar zum zweiten Buch der Dekretalen über den Gerichtsprozess**, im Linzer Gymnasium des kaiserlichen Jesuitenkollegs unter P. Bellone SJ, Doktor der freien Künste und Philosophie, damaliger Dekan derselben Fakultät und ordentlicher Professor des kanonischen Rechts; aufgezeichnet von Adam Ferdinand Xaver Wimmer, Student der Philosophie und des kanonischen Rechts, 1673: S. I, II, 1–298.\n\nVermerk S. II: Das zweite Buch der Dekretalen Gregors IX. enthält 20 Titel; nur 13 davon diktierte P. Bellone in Linz. Die übrigen sieben ergänzte Wimmer 1678 in Salzburg aus den Diktaten P. Rupert Kympflers, Benediktiner von Kremsmünster, Doktor beider Rechte und damals Abt von Gleink, damit das Werk nicht unvollständig bleibe.\n\nAnfang: Nachdem im ersten Buch die verschiedenen Aufgaben der ordentlichen und delegierten Richter behandelt wurden....\n\nb) **Kommentar zum dritten Buch der Dekretalen Gregors IX.**, vorgetragen im Linzer Gymnasium des kaiserlichen Jesuitenkollegs von P. Georg Szavatkay SJ, Doktor der freien Künste und Philosophie, damaliger Dekan und ordentlicher Professor des kanonischen Rechts; aufgezeichnet von Adam Ferdinand Xaver Wimmer, 1674: S. 1–198 (=302–500).\n\nAnfang: Im vorhergehenden Buch wurde über die Gerichte gehandelt..... Schluss S. 198: 7. September 1674.\n\nc) **Glaubenskontroversen**, erklärt von P. Edmund Manincor, Benediktiner und Profess des Klosters Admont, Doktor der heiligen Theologie und ordentlicher Professor der Kontroverstheologie; aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678: S. 1–115 (=503–618).\n\nAnfang der Vorrede: Verschiedene Menschen widmen sich verschiedenen Studien...... Schluss: ...im Jahr 1678.\n\nAufschrift auf der Vorderseite des Einbandes: **F L W P S** = Frater Leopoldus Wimmer Professus Seittenstettensis, 1681; in diesem Jahr wurde der Codex eingebunden.\n\nVermerk S. 210: Bis hierher P. Bellone SJ. NB: Die übrigen sieben Titel wurden in Salzburg aus den Schriften P. Rupert Kympflers zusammengestellt.",
+    "latin": "II + 301 + 200 + 121 = 624 pagg.; teg. a2; script. 1673/74, 1678\n\na) Commentarius In Librum Secundum Decretalium De Processu Iudiciario, Quem, In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Bellone eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore Ordinario. Scriptis excepit Adamus Ferdinandus Xaverius Wimmer, Philosophiae, et Sacrorum Canonum Studiosus. Anno 1673: p. I, II, 1 - 298.\n\nNota p. II: Continet hic Liber Secundus Decretalium Epistolarum Gregorii Noni Summi Pontificis 20 Titulos, quorum 13 tantum dictavit Lincii, R. P. Bellone, è Societate Jesu. Reliquos verò 7 - ne mancum relinquerem Opus - Salisburgi, ex Dictatis ....P. Ruperti Kympfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis, de facto verò Reverendissimi Domini Domini Abbatis in Gleinckh collegi. Anno 1678.\n\nInitium in II. Librum Decretalium: Prooemium. Expeditis priori libro variis iudicum tam ordinariorum, quam delegatorum officiis....\n\n\n\nb) Commentarius in Librum Tertium Decretalium, Gregorii IX Summi Pontificis. Traditus In Lincensi Caesarei Collegii Societatis Jesu Gymnasio, à Reverendo Patre Georgio Szavatkay, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum explanatore, ac Professore Ordinario. Exceptus Ab Adamo Ferdinando Xaverio Wimmer Philosophiae et Sacrorum Canonum Studioso. Anno 1674. p. 1 - 198 (= 302 - 500).\n\nInitium Tractatus In librum tertium Decretalium p. 1: Priore libro actum est de iudiciis..... Clausula p. 198: die 7 Septembris, Anno 1674.\n\nc) Controversiae Fidei Explanatae Ab......Patre Edmundo Manincor, Ordinis S. Benedicti, in Celeberrimo, et Antiquissimo Monasterio Admontensi Professo, Sacrosanctae Theologiae Doctore, et Controversiarum fidei Professore Ordinario. Exceptae à me Fratre Leopoldo Wimmer eiusdem Ordinis in Seittenstetten Professo. Anno 1678: p. 1 - 115 (= 503 - 618).\n\nInitium Prooemii in Controversias: Diversa ad studia diversi incumbunt,...... Clausula: .....Anno 1678.\n\nInscriptio partis adversae tegumenti: F L W P S (= Frater Leopoldus Wimmer Professus Seittenstettensis) 1 6 8 1 (quo anno tegumento inclusus est liber).\n\nNota p. 210: huc usque P. Bellone S. Jesu. NB: residui 7 tituli Salisburgi ex Scriptis R. P. Ruperti Kympfler sunt Collecti."
   }
 }

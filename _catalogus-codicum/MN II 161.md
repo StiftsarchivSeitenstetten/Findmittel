@@ -14,30 +14,66 @@ ms_contents:
   - label: a
     title: Tractatus Primus De Sacramentis in genere
     locus: fol. 1–62v
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: De Sacramentis in genere ac in specie......
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Baptismo
     locus: fol. 63–111r
+    incipits:
+    - locus: fol. 63r
+      text: Post absolutum tractatum de Sacramentis in genere.....
+    title_status: unspecified
   - label: c
     title: Tractatus Tertius De Sacramento Confirmationis
     locus: fol. 111v–119r
+    incipits:
+    - text: Cum baptismum immediate sequatur Sacramentum Confirmationis,....
+    title_status: unspecified
   - label: d
     title: Tractatus quartus De Sacramento Eucharistiae
     locus: fol. 119v–155r
     end_date: '1687-05-07'
+    incipits:
+    - text: Eucharistia tanquam Divinissimum et venerabile Sacramentum....
+    colophons:
+    - text: Coronidem imposuimus huic tractatui die 7. Maii in vigilia Ascensionis Domini (id est anno 1687, quo anno Ascensio Domini die 8. Maii
+        celebrata est.)
+    title_status: unspecified
   - label: e
     title: Tractatus quintus De Sacramento Poenitentiae
     locus: fol. 155v–226v
     end_date: '1687-07-19'
+    incipits:
+    - text: Non tam de Sacramentis in genere.....
+    colophons:
+    - text: 'NB: absolvimus hunc Tractatum die 19 Julii.'
+    title_status: unspecified
   - label: f
     title: Tractatus sextus De Sacramento Extremae unctionis
     locus: fol. 227r–231v
+    incipits:
+    - text: Articulus Primus. An extrema unctio sit verum Sacramentum novae legis,.....
+    title_status: unspecified
   - label: g
     title: Tractatus septimus De Sacramento Ordinis
     locus: fol. 231v–238v
     end_date: '1687-08-01'
+    incipits:
+    - text: Articulus Primus Quid sit ordo vel quotuplex?
+    colophons:
+    - text: die 1. Augusti absolvimus hunc tractatum.
+    title_status: unspecified
   - label: h
     title: Tractatus octavus et ultimus De Sacramento Matrimonii
     locus: fol. 239r–282v
+    incipits:
+    - text: quandoquidem matrimonium dupliciter considerari potest.....
+    title_status: unspecified
+  title_status: attested
+  title_source: spine
 phys_desc:
   object_form: codex
   support: Papier

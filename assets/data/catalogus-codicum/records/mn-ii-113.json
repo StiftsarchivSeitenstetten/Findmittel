@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-113",
   "signature": "MN II 113",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "70",
   "heading": {
-    "title": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 63) et c",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +119,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-113/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 113",
-    "titles": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus. \nEasdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
+    "titles": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra \nEasdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n678 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
+    "physical": "Papier \n678 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "678 Seiten; Einband wie bei Codex MN II 111; geschrieben um 1670.\n\na) **Zweite Abhandlung zum dritten Teil des hl. Thomas über die Sakramente im Allgemeinen:** S. 5–210. Anfang der Vorrede: Nach der Betrachtung jener Dinge, sagt der engelgleiche Lehrer hier in der Vorrede........\n\nb) **Über das, was zum Sakrament der Taufe gehört:** S. 210–271. Anfang: Das Wort *baptismus* ist ein griechisches Wort.....\n\nc) **Über das Sakrament der Firmung:** S. 271–278. Anfang: Nach Voraussetzung dessen, was bisher über die Taufe und die Sakramente im Allgemeinen gesagt wurde......\n\nd) **Über das Sakrament der Eucharistie:** S. 278–676. Anfang: Das Wort Eucharistie ist griechisch und bedeutet im Lateinischen dasselbe......\n\nRückenaufschrift: **MS F. Ernesti (Weissenperger) Seittenstettensis....**\n\nDieselben Vorlesungen, die P. Desiderius Schapperger, Mönch von Seeon, 1669 in Salzburg hielt, enthalten auch die Teile a–d von MN II 100 und Codex MN II 104. Da auch unser Codex offenbar 1669 aufgezeichnet wurde, gilt hinsichtlich der auffälligen Menge der im selben Jahr von Fr. Ernestus geschriebenen Codices dieselbe Unsicherheit wie bei MN II 111.",
+    "latin": "678 pagg.; teg. a2 ut in codice MN II 111; script. ca. 1670\n\na) Tractatus Secundus In tertiam Partem Divi Thomae De sacramentis in genere: p. 5–210. _Initium_ Prooemium. Post considerationem eorum inquit Angelicus Doctor hic in prooemio........\n\nb) De pertinentibus ad Sacramentum Baptismi: p. 210–271. _Initium_: Nomen baptismus graecum nomen est.....\n\nc) De Sacramento confirmationis: p. 271–278. _Initium_: Suppositis iis quae huc usque de baptismo et de Sacramentis in genere......\n\nd) De sacramento Eucharistiae: p. 278–676. _Initium_: Eucharistiae nomen graecum est et latinis idem significat......\n\n_Inscriptio dorsi_: MS **F. Ernesti (Weissenperger)** Seittenstettensis....\n\nEasdem lectiones Salisburgi anno 1669 a **P. Desiderio Schapperger** monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus."
   }
 }

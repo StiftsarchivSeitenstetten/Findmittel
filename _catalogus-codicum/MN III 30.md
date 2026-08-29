@@ -9,10 +9,10 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 30
 ms_contents:
-  title: "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae"
   items:
-  - label: "a"
-    title: "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae"
+  - label: a
+    title: Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

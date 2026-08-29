@@ -17,10 +17,32 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Quaestio de Alteratione: p. 7 - 40'
+    title: Quaestio de Alteratione
+    locus: p. 7 - 40
+    title_status: unspecified
+    incipits:
+    - text: Sicut in intentione naturae generantis....
   - label: b
     catalog_statement: 'Quaestiones in tres libros Aristotelis De Anima: p. 43 - 330'
+    title: Quaestiones in tres libros Aristotelis De Anima
+    locus: p. 43 - 330
+    title_status: unspecified
+    incipits:
+    - text: Primo ad libros de anima ingressu....
   - label: c
     catalog_statement: 'In Metaphysicam Aristotelis quaestiones duae: p. 331 - 368'
+    title: In Metaphysicam Aristotelis quaestiones duae
+    locus: p. 331 - 368
+    title_status: unspecified
+    incipits:
+    - text: Utcunque......in conspectum veniamus sapientiae....
+    colophons:
+    - locus: p. 368
+      text: Absoluta Metaphysica 9 die Junii Anno 1618
+    - locus: p. 368
+      text: Absoluta Metaphysica 9 die Junii Anno 1618
+    notes:
+    - Auctor et scriptor ignoti, sed probabiliter Codd. MN II 3, 5, 6 ad eundem cursum philosophicum Graecensem pertinerent.
 phys_desc:
   object_form: codex
   support: Papier

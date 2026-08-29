@@ -13,11 +13,24 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 Y (XVIII 3 v).
   items:
   - label: a
-    catalog_statement: 'Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii
-      fol. 1r: Summulas hoc est Logices maioris synopsim.....'
+    catalog_statement: 'Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas
+      hoc est Logices maioris synopsim.....'
+    title: Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus
+    locus: fol. 1–52v
+    incipits:
+    - locus: fol. 1r
+      label: Antiloquii
+      text: Summulas hoc est Logices maioris synopsim.....
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Logica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam
-      audiamus, plurimum necesse est.'
+    catalog_statement: 'Logica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam audiamus, plurimum
+      necesse est.'
+    title: Logica Maior
+    locus: fol. 59–302v
+    incipits:
+    - label: Praefationis In Logicam Maiorem
+      text: Ut prius Logicam videamus quam audiamus, plurimum necesse est.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,27 +13,40 @@ ms_contents:
   items:
   - label: a
     title: Praefatio
-    title_type: supplied
-    locus: S. 3
-    incipit: Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate
+    locus: p. 3
     note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate......
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Sectio I. De Sacramento Poenitentiae
-    locus: S. 3–286
-    incipit: Copiosam et ineffabilem gratiam
+    locus: p. 3–286
+    incipits:
+    - text: Copiosam et ineffabilem gratiam........
+    title_status: unspecified
   - label: c
     title: Tractatus Scholastico-Dogmaticus de Sacramento Extremae Unctionis
-    locus: S. 287–320
-    incipit: Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem
+    locus: p. 287–320
+    incipits:
+    - text: Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem......
+    title_status: unspecified
   - label: d
     title: Tractatus Scholastico-Dogmaticus De Sacramento Ordinis
-    locus: S. 321–372
-    incipit: Sacerdotium legis christianae
+    locus: p. 321–372
+    incipits:
+    - text: Sacerdotium legis christianae,........
+    title_status: unspecified
   - label: e
     title: Tractatus Scholastico-Dogmaticus. De Sacramento Matrimonii
-    locus: S. 373–461
-    incipit: Matrimonium duplici ratione spectari potest
+    locus: p. 373–461
     end_date_display: 16. August 1758
+    incipits:
+    - text: Matrimonium duplici ratione spectari potest, ....
+    title_status: unspecified
+    colophons:
+    - text: 16. Augusti 1758.
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

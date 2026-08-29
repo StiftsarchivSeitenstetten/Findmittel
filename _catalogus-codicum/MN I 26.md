@@ -14,17 +14,18 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 26"
 ms_contents:
-  overall_title:
-    title: "Fäden der Liebe."
-    title_type: "original"
-    language: "de"
-  genre: "Liebesroman"
+  genre: Liebesroman
   responsibility:
-    - role: "author"
-      name: "Therese Rak"
+  - role: author
+    name: Therese Rak
   publication_status:
-    display: "unbekannt"
-    note: "Der Katalogbearbeiter weiß nicht, ob das Werk gedruckt veröffentlicht wurde."
+    display: unbekannt
+    note: Der Katalogbearbeiter weiß nicht, ob das Werk gedruckt veröffentlicht wurde.
+  items:
+  - title: Fäden der Liebe.
+    title_status: unspecified
+    languages:
+    - de
 phys_desc:
   object_form: "loose_leaves_in_wrapper"
   format: "Großquart"

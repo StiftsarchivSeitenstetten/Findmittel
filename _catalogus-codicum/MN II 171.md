@@ -9,12 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 171
 ms_contents:
-  title: Commentarius In octo libros Physicorum Aristotelis
   items:
   - label: a
     title: Commentarius In octo libros Physicorum Aristotelis
     locus: fol. 1r–360r
     end_date: '1691-04-06'
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis
+      text: Physicam Auditores, ut aperio, cordato.....
+    colophons:
+    - locus: fol. 360r
+      text: Absolvimus Die 6 Aprilis 1691.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

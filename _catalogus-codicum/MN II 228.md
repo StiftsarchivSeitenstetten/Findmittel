@@ -9,16 +9,24 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 228
 ms_contents:
-  title: Philosophia, seu Logica Thomistica
   items:
   - label: a
     title: Philosophia, seu Logica Thomistica
-    locus: S. 5–573
+    locus: p. 5
     end_date: '1706-05-29'
+    incipits:
+    - locus: p. 5
+      label: Proloquii In logicam Aristotelico-Thomisticam
+      text: Solent liberalium artium inimici passim logicam onerare convitiis ......
+    colophons:
+    - locus: p. 573
+      text: Absolvimus 29 Maii 1706.
+    title_status: unspecified
   - label: b
     title: argumenta seu inscriptiones disputationum et articulorum
-    title_type: supplied
-    locus: S. 574–580
+    locus: p. 574–580
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

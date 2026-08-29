@@ -13,13 +13,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 34
 ms_contents:
-  title: "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt."
   items:
-  - label: "a"
-    title: "Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt."
-    locus: "S. 1–477"
-    explicit: "Vale, et Vive, ut Vivas 1639."
-    note: "Die parenthetischen Hinweise „sic!“ und „!“ sind editorische Erläuterungen innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: 'Meditationes: Oder Betrachtungen Über die gantze Regel deß Heiligen Vatters unnd Patriarchen Benedicti: Erstlichen in Frantzöschier
+      (sic!) Sprach, Hernacher aber Zwaymal in Latein beschriben Worden, anietzo aber zum Ersten mall in die teusche (!) Sprach Übersetzt.'
+    locus: S. 1–477
+    note: Die parenthetischen Hinweise „sic!“ und „!“ sind editorische Erläuterungen innerhalb des überlieferten Titels; der Titel als solcher
+      ist nicht supplied.
+    explicits:
+    - label: in fine Praefationis
+      text: Vale, et Vive, ut Vivas 1639. Auctor ignotus. )
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

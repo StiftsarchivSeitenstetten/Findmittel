@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-293",
   "signature": "MN II 293",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "236–237",
   "heading": {
     "title": "Tractatus Scholastico-Dogmatici de Sanctissimis Novae Legis Sacramentis Pars II De Quatuor posterioribus Sacramentis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1757/58"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Scholastico-Dogmatici de Sanctissimis Novae Legis Sacramentis Pars II De Quatuor posterioribus Sacramentis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Praefatio",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 3",
+      "locus": "p. 3",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate"
+        "text": "Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +83,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Sectio I. De Sacramento Poenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–286",
+      "locus": "p. 3–286",
       "language": "",
+      "incipits": [
+        {
+          "text": "Copiosam et ineffabilem gratiam........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Copiosam et ineffabilem gratiam"
+        "text": "Copiosam et ineffabilem gratiam........",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -90,15 +113,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus de Sacramento Extremae Unctionis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 287–320",
+      "locus": "p. 287–320",
       "language": "",
+      "incipits": [
+        {
+          "text": "Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem"
+        "text": "Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -110,15 +143,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus De Sacramento Ordinis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 321–372",
+      "locus": "p. 321–372",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sacerdotium legis christianae,........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sacerdotium legis christianae"
+        "text": "Sacerdotium legis christianae,........",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -130,17 +173,35 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Scholastico-Dogmaticus. De Sacramento Matrimonii",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 373–461",
+      "locus": "p. 373–461",
       "language": "",
+      "incipits": [
+        {
+          "text": "Matrimonium duplici ratione spectari potest, ....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "16. Augusti 1758.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Matrimonium duplici ratione spectari potest"
+        "text": "Matrimonium duplici ratione spectari potest, ....",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "16. Augusti 1758.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -279,13 +340,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 293",
     "titles": "Tractatus Scholastico-Dogmatici de Sanctissimis Novae Legis Sacramentis Pars II De Quatuor posterioribus Sacramentis \nPraefatio \nSectio I. De Sacramento Poenitentiae \nTractatus Scholastico-Dogmaticus de Sacramento Extremae Unctionis \nTractatus Scholastico-Dogmaticus De Sacramento Ordinis \nTractatus Scholastico-Dogmaticus. De Sacramento Matrimonii",
-    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe",
-    "incipits": "Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate \nCopiosam et ineffabilem gratiam \nExtrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem \nSacerdotium legis christianae \nMatrimonium duplici ratione spectari potest",
-    "explicits": "",
-    "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.",
-    "physical": "Papier \n466 pagg. \ncode: c3; description: Brauner Pappeinband."
+    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe Stift Seitenstetten",
+    "incipits": "Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate...... \nCopiosam et ineffabilem gratiam........ \nExtrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem...... \nSacerdotium legis christianae,........ \nMatrimonium duplici ratione spectari potest, ....",
+    "explicits": "16. Augusti 1758.",
+    "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet. \ntype: inserted_letter; recipient: P. Norbertus Pampichler; sender: unbekannter Dominikaner aus Steyr; subject: P. Joannes Dürsch als Opponent bei einer Seitenstettner Disputation",
+    "physical": "Papier \n466 pagg. \ncode: c3; description: Brauner Pappeinband.",
+    "german": "466 Seiten; brauner Pappeinband; geschrieben 1757/58.\n\n**Zweiter Teil der scholastisch-dogmatischen Abhandlungen über die heiligsten Sakramente des Neuen Gesetzes: über die vier späteren Sakramente.**\n\na) **Vorrede:** S. 3. Anfang: Wie die gesamte Abhandlung über die heiligsten Sakramente des Neuen Gesetzes durch die Erhabenheit der Lehre......\n\nb) **Erster Abschnitt über das Sakrament der Buße:** S. 3–286. Anfang: Die reiche und unaussprechliche Gnade........\n\nc) **Scholastisch-dogmatische Abhandlung über das Sakrament der Letzten Ölung:** S. 287–320. Anfang: Die Letzte Ölung ist das Sakrament der Krankensalbung, die vom Priester zum Heil von Seele und Leib vollzogen wird......\n\nd) **Scholastisch-dogmatische Abhandlung über das Sakrament der Weihe:** S. 321–372. Anfang: Das Priestertum des christlichen Gesetzes,........\n\ne) **Scholastisch-dogmatische Abhandlung über das Sakrament der Ehe:** S. 373–461. Anfang: Die Ehe kann unter zweifacher Hinsicht betrachtet werden,.... Schluss: **16. August 1758.**\n\nAuch diesen Codex schrieb **P. Norbertus Pampichler**, wie bei den vier vorhergehenden zeigt es die Schrift. Im Codex fand sich zudem ein kleiner Brief, den der Katalogbearbeiter auf die Innenseite des Vorderdeckels klebte. Die Adresse lautet: **Titl: Ihrgo Hochwürden Herrn P: Norberto in Seittenstetten.** Der Brieftext lautet: **Ihro Hochwürden: Sage nochmalen unterthänigsten Dank für alle Empfangene Ehren, und melde, daß ich um 7. Uhr ...(?).. gut und Glücklich nach Haus gekommen, Herr P: Prior wird selbsten oppugniren.**\n\nAuf der Rückseite des Zettels steht: **Admodum Reverendus Eximius Sacrosanctae Theologiae in almâ, ac Celeberrimâ Universitate Viennensi Doctor clarissimus Peter [verba deleta] Fr: Joannes Dürsch Sacri Ordinis Praedicatorum Venerabilis Conventûs Styrensis Prior meritissimus!**\n\nOffenbar schrieb ein unbekannter Bruder aus dem Dominikanerkonvent Steyr an P. Norbertus Pampichler, Professor des theologischen Hausstudiums in Seitenstetten, dass Fr. Joannes Dürsch, Prior in Steyr, als Opponent zu einer scholastischen Disputation in Seitenstetten kommen werde. P. Norbertus dürfte auf der Rückseite notiert haben, mit welcher Anrede er ihn in der Disputation ansprechen wollte, und den Zettel anschließend in seinen Vorbereitungsband gelegt haben.\n\nDa auch dieser Codex in derselben Weise angelegt ist wie die vier vorhergehenden, kann kaum bezweifelt werden, dass P. Norbertus Pampichler nicht nur Schreiber, sondern auch Verfasser ist.",
+    "latin": "466 pagg.; teg. c3; script. 1757/58\n\n**Tractatus Scholastico-Dogmatici de Sanctissimis Novae Legis Sacramentis Pars II De Quatuor posterioribus Sacramentis.**\n\na) (Praefatio) p. 3.  \nInitium: Quemadmodum totus De Sanctissimis Novae Legis Sacramentis Tractatus a doctrinae sublimitate......\n\nb) Sectio I. De Sacramento Poenitentiae: p. 3–286.  \nInitium: Copiosam et ineffabilem gratiam........\n\nc) Tractatus Scholastico-Dogmaticus de Sacramento Extremae Unctionis: p. 287–320.  \nInitium: Extrema unctio est Sacramentum unctionis infirmorum ad salutem animae et corporis factae per sacerdotem......\n\nd) Tractatus Scholastico-Dogmaticus De Sacramento Ordinis: p. 321–372.  \nInitium: Sacerdotium legis christianae,........\n\ne) Tractatus Scholastico-Dogmaticus. De Sacramento Matrimonii: p. 373–461.  \nInitium: Matrimonium duplici ratione spectari potest, ....  \nClausula: 16. Augusti 1758.\n\nHunc quoque codicem ut quattuor praecedentes a **P. Norberto Pampichler** scriptum esse scriptura monet. Insuper inventa est in codice nostro parva epistola, quam tegumento adverso ab intrinsecus affixi; quae epistola data est: **Titl: Ihrgo Hochwürden Herrn P: Norberto in Seittenstetten.** Haec autem sunt verba huius epistolae: **Ihro Hochwürden: Sage nochmalen unterthänigsten Dank für alle Empfangene Ehren, und melde, daß ich um 7. Uhr ...(?).. gut und Glücklich nach Haus gekommen, Herr P: Prior wird selbsten oppugniren.**\n\nQuis autem fuerit ille P. Prior, invenies, si verteris pagellam: **Admodum Reverendus Eximius Sacrosanctae Theologiae in almâ, ac Celeberrimâ Universitate Viennensi Doctor clarissimus Peter [verba deleta] Fr: Joannes Dürsch Sacri Ordinis Praedicatorum Venerabilis Conventûs Styrensis Prior meritissimus!**\n\nScripsit ergo nescio quis Frater e conventu Styrensi Ordinis Praedicatorum ad P. Norbertum Pampichler, Professorem studii domestici Theologiae Seitenstettensis, indicans venturum esse F. Joannem Dürsch, Priorem suum Styrensem, ut in disputatione scholastica Seitenstettensi oppugnatorem ageret. Professor vero ille P. Norbertus in parte aversa pagellae forsitan notaverit, qua appellatione alloqueretur eum in disputatione, inieceritque pagellam codici praeparationum suarum theologicarum. Nam cum hic quoque codex eodem modo exaratus sit quo quattuor praecedentes, P. Norbertum Pampichler non solum scriptorem, sed etiam auctorem eius esse quis neget?"
   }
 }

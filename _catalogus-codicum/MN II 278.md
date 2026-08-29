@@ -13,18 +13,36 @@ ms_contents:
   items:
   - label: a
     title: Introductio brevis In Theologiam Scholastico Positivam
-    locus: S. 5–9
-    incipit: Perpensis aliquantò iis philosophiae momentis
+    locus: p. 5–9
+    incipits:
+    - text: Perpensis aliquantò iis philosophiae momentis,.....
+    title_status: unspecified
   - label: b
     title: Tractatus Theologicus De Gratia, Justificatione, ac merito
-    locus: S. 9–241
-    incipit: Suavissima possidenti, sed magis ardua investiganti se hic offert materia
+    locus: p. 9–241
     end_date_display: 12. Dezember 1750
     note: Ein Vermerk einer anderen Hand datiert eine Verwendung in den Kollegien auf den 11. Februar 1752.
+    incipits:
+    - text: Suavissima possidenti, sed magis ardua investiganti se hic offert materia,.....
+    colophons:
+    - text: Finivimus 12. Decembris 1750. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P. Benedicto Veith.
+    title_status: unspecified
   - label: c
     title: Tractatus. De Fide, Spe, et Charitate. Anno 1.7.50. Die decima quarta Decembris
-    locus: S. 253–346
-    incipit: Tractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur
+    locus: p. 253–346
+    incipits:
+    - text: Tractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur,.....
+      locus: p. 253
+    explicits:
+    - text: 'Professore. A: R: R: ac Docts: D: P: Benedicto Veith (quam clausulam supra in parte b explicavimus!)'
+    colophons:
+    - label: ', eaque graphitide altera manu scripta invenitur'
+      text: In Collegiis finivimus 11 Februarii 1752.
+    - label: enuntiet
+      text: „Absolvimus 30 Maii ultimum hunc cursus nostri theologici tractatum. Anno 1753.“ veri simile est, codices nostros MN II 278–285 totum
+        cursum Theologiae Scholastico-Positivae ab anno 1750 usque ad annum 1753 in ipso monasterio Seitenstettensi traditum continere.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

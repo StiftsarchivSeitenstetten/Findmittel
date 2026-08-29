@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-25",
   "signature": "MN III 25",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "181–182",
   "heading": {
     "title": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1711"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Justitia, et Jure",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 9–61",
+      "locus": "p. 9–61",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,15 +70,29 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Restitutione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 63–102",
+      "locus": "p. 63–102",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -81,15 +102,29 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Contractibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 105–129",
+      "locus": "p. 105–129",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -99,15 +134,29 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Incarnatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 137–226",
+      "locus": "p. 137–226",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -117,15 +166,29 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Sacramentis in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 227–261",
+      "locus": "p. 227–261",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -135,15 +198,29 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Baptismate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 263–276",
+      "locus": "p. 263–276",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -153,15 +230,29 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Confirmatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 277–280",
+      "locus": "p. 277–280",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -171,15 +262,29 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Sanctissima Eucharistia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 281–292",
+      "locus": "p. 281–292",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -189,15 +294,29 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Virtute et Sacramento Paenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 295–348",
+      "locus": "p. 295–348",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -207,15 +326,29 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Sacramento Extremae Unctionis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 349–352",
+      "locus": "p. 349–352",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -225,15 +358,29 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Sacramento ordinis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 355–359",
+      "locus": "p. 355–359",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -243,15 +390,29 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio De Matrimonio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 360–369",
+      "locus": "p. 360–369",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 369",
+          "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 369",
+        "text": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -324,13 +485,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-25/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 25",
     "titles": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711 \nTractatus de Justitia, et Jure \nTractatus de Restitutione \nTractatus de Contractibus \nTractatus de Incarnatione \nTractatus de Sacramentis in genere \nTractatus de Baptismate \nTractatus de Confirmatione \nTractatus de Sanctissima Eucharistia \nTractatus de Virtute et Sacramento Paenitentiae \nTractatus de Sacramento Extremae Unctionis \nTractatus de Sacramento ordinis \nDisputatio De Matrimonio",
-    "persons": "P. Carolus Gschwandtner Bearbeiter compiler",
+    "persons": "P. Carolus Gschwandtner Bearbeiter compiler ",
     "incipits": "",
-    "explicits": "",
+    "explicits": "Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen \nAbsolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen",
     "notes": "",
-    "physical": "Papier \n8° min., 374 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n8° min., 374 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Kleines Oktavformat; 374 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben ~~[frühere Datierung gestrichen]~~ 1711.\n\n**Gesamte Theologie nach der Lehre des hl. Thomas, aus verschiedenen Autoren kompendienhaft zusammengestellt. Band II. Enthält die Abhandlungen über Gerechtigkeit und Recht, Restitution, Verträge, Menschwerdung, Sakramente im Allgemeinen und im Einzelnen nach dem zweiten und dritten Teil der Summa des engelgleichen Lehrers, von P. Carolus Gschwandtner, Benediktiner von Seitenstetten, im vierten Jahr des Theologiestudiums. Im Jahr Christi 1711.**\n\na) **Abhandlung über Gerechtigkeit und Recht:** S. 9–61.  \nb) **Abhandlung über Restitution:** S. 63–102.  \nc) **Abhandlung über Verträge:** S. 105–129.  \nd) **Abhandlung über die Menschwerdung:** S. 137–226.  \ne) **Abhandlung über die Sakramente im Allgemeinen:** S. 227–261.  \nf) **Abhandlung über die Taufe:** S. 263–276.  \ng) **Abhandlung über die Firmung:** S. 277–280.  \nh) **Abhandlung über die Allerheiligste Eucharistie:** S. 281–292.  \ni) **Abhandlung über Tugend und Sakrament der Buße:** S. 295–348.  \nj) **Abhandlung über das Sakrament der Letzten Ölung:** S. 349–352.  \nk) **Abhandlung über das Sakrament der Weihe:** S. 355–359.  \nl) **Disputation über die Ehe:** S. 360–369.\n\nSchluss S. 369: **P. Ludovicus Babenstuber, Mönch von Ettal und Professor in Salzburg, beendete [dies] in diesem Jahr, nämlich 1710, am 16. August.**\n\nDiese Notiz beweist jedoch nicht, dass im Codex selbst Vorlesungen P. Ludovicus Babenstubers wiedergegeben werden. Wohl aber scheinen seine Vorlesungen dem Kompilator als Quelle gedient zu haben, etwa die von ihm im Studienjahr 1709/10 über die Abhandlungen i–l gehaltenen Vorlesungen.",
+    "latin": "8° min., 374 pagg.; teg. a2; script. ~~[frühere Datierung gestrichen]~~ 1711\n\nUniversa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711.\n\na) Tractatus de Justitia, et Jure: p. 9–61  \nb) Tractatus de Restitutione: p. 63–102  \nc) Tractatus de Contractibus: p. 105–129  \nd) Tractatus de Incarnatione: p. 137–226  \ne) Tractatus de Sacramentis in genere: p. 227–261  \nf) Tractatus de Baptismate: p. 263–276  \ng) Tractatus de Confirmatione: p. 277–280  \nh) Tractatus de Sanctissima Eucharistia: p. 281–292  \ni) Tractatus de Virtute et Sacramento Paenitentiae: p. 295–348  \nj) Tractatus de Sacramento Extremae Unctionis: p. 349–352  \nk) Tractatus de Sacramento ordinis: p. 355–359  \nl) Disputatio De Matrimonio: p. 360–369\n\nClausula p. 369: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen nota non indicat, lectiones P. Ludovici Babenstuber in codice nostro notatas esse. Videntur autem lectiones illius celeberrimi professoris compilatori nostro usui fuisse, ex. gr. lectiones a P. Ludovico Babenstuber de tractatibus i–l anno scholari 1709/10 habitae.)"
   }
 }

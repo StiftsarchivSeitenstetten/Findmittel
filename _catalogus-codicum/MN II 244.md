@@ -12,16 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Summulae dialecticae seu Logica minor
-    title_type: supplied
     locus: fol. 1r–94v
-    incipit: A Sumulis nostris iter nostrum peripateticum ordimur
     end_date_display: 14. Dezember 1711
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist daher als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: A Sumulis nostris iter nostrum peripateticum ordimur,.....
+    colophons:
+    - text: Et haec summatim de summulis. absolvimus 14 Decembris 1711.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus De his, quae Logicam maiorem concernunt
     locus: fol. 96r–494v
-    incipit: Sat diu vestibulum peripateticum obambulavimus
     end_date_display: 20. Mai 1712
+    incipits:
+    - text: Sat diu vestibulum peripateticum obambulavimus...
+      label: Proemii
+    colophons:
+    - text: Absolvimus die 20 Maii 1712.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

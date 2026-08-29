@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-255",
   "signature": "MN II 255",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "195",
   "heading": {
     "title": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1716"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–147r",
+      "locus": "fol. 1r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....",
+          "locus": "fol. 1r",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit"
+        "text": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....",
+        "locus": "fol. 1r",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -151,13 +176,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 255",
     "titles": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio \nTractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....",
+    "explicits": "fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:",
     "notes": "",
-    "physical": "Papier \n148 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n148 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "148 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1716.\n\n**Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung.**\n\nAnfang der Vorrede fol. 1r: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,.....\n\nSchluss fol. 147r: **Im Jahr des Herrn 1716, am 29. August.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber führte jedoch auch die drei vorhergehenden und die beiden folgenden Codices aus. Dieselben Vorlesungen wie unser Codex enthält auch MN II 260.",
+    "latin": "148 foll.; teg. c3d; script. 1716\n\nTractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio.  \nInitium Proemii fol. 1r: Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....  \nClausula: fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:\n\nAuctor et scriptor ignoti, etiamsi scriptor noster tres quoque codices praecedentes et duos sequentes exaravit et easdem, quas codex noster, etiam codex MN II 260 continet lectiones. (Quem codicem vide inferius!)"
   }
 }

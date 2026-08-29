@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-112",
   "signature": "MN II 112",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "69",
   "heading": {
-    "title": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 64",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +119,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-112/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 112",
-    "titles": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est. \nEasdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
+    "titles": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra \nEasdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n803 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
+    "physical": "Papier \n803 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "803 Seiten; Einband wie bei Codex MN II 111; geschrieben um 1670.\n\na) **Abhandlung über die Gnade:** S. 1–652. Anfang: Erste Disputation über die Notwendigkeit der Gnade. Der heilige Lehrer behandelt die Gnade von Frage 109 an.....\n\nb) **Abhandlung zur Secunda Secundae des hl. Thomas über Glaube, Hoffnung und Liebe:** S. 653–798. Anfang S. 653: Beim Glauben – dasselbe sage ich von Hoffnung und Liebe – sind vor allem drei Dinge zu betrachten.....\n\nRückenaufschrift: **MS. F. Ernesti Weissenberger Seittenstettensis de gratia, merito, Fide, spe, Charitate.**\n\nDieselben Vorlesungen, die P. Benedictus Pettschacher, Profess von St. Lambrecht in der Steiermark, in Salzburg diktierte, enthält auch Codex MN II 101, der 1670 geschrieben wurde.",
+    "latin": "803 pagg.; teg. a2 ut in codice MN II 111; script. ca. 1670\n\na) Tractatus De Gratia: p. 1–652. _Initium_: Disputatio Prima De necessitate gratiae. De gratia agit S: Doctor a Quaestione 109.....\n\nb) Tractatus In Secundam secundae Sancti Thomae De Fide Spe et Charitate: p. 653–798. _Initium_ p. 653: De fide (idem dic de spe et charitate) tria potissimum considerantur.....\n\n_Inscriptio dorsi_: MS. **F. Ernesti Weissenberger** Seittenstettensis de gratia, merito, Fide, spe, Charitate.\n\nEasdem lectiones, a **P. Benedicto Pettschacher** ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est."
   }
 }

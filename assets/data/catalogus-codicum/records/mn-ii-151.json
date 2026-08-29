@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-151",
   "signature": "MN II 151",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "110–111",
   "heading": {
     "title": "Tractatus De Vitiis et Peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1688/89"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Vitiis et Peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. II, III, 1–160r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. IIIr",
+          "label": "Prooemii",
+          "text": "Quid et quantum malum sit Peccatum,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 160r",
+          "text": "Absolvimus 12. Julii. ante meridiem. 1689. et Sequentem Tractatum simul incepimus. (117 Lectiones)",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. IIIr",
+        "label": "Prooemii",
+        "text": "Quid et quantum malum sit Peccatum,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 160r",
+        "text": "Absolvimus 12. Julii. ante meridiem. 1689. et Sequentem Tractatum simul incepimus. (117 Lectiones)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -71,15 +100,29 @@
           "id": "item-1",
           "label": "",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Disputatio Praeliminaris De Conscientia",
-            "typeRaw": null,
-            "typeLabel": null
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
           },
           "locus": "fol. 1r–41r",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [
+            {
+              "locus": "fol. 41r",
+              "text": "Finivimus hanc Disputationem die 17. Januarii Anno 1689.",
+              "id": "colophon-1"
+            }
+          ],
           "incipit": null,
-          "explicit": null,
+          "explicit": {
+            "locus": "fol. 41r",
+            "text": "Finivimus hanc Disputationem die 17. Januarii Anno 1689.",
+            "id": "colophon-1"
+          },
           "notes": [],
           "dates": [
             {
@@ -96,16 +139,43 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–54v (=161–214)",
+      "locus": "fol. 1–54v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "label": "Disputationis Primae",
+          "text": "Nomen Legis iuxta Divum Thomam ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "27 Lectiones. Absolvimus Die 31 Augusti 1689.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis Primae",
+        "text": "Nomen Legis iuxta Divum Thomam ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "27 Lectiones. Absolvimus Die 31 Augusti 1689.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Beginnereignis am Schluss des vorhergehenden Traktats: Sequentem Tractatum simul incepimus."
+        }
+      ],
       "dates": [
         {
           "type": "start_date",
@@ -123,13 +193,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index super Tractatum de Conscientia; Item de Vitiis et Peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 55r–65r (=215–225)",
+      "locus": "fol. 55r–65r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -223,13 +297,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 151",
     "titles": "Tractatus De Vitiis et Peccatis \nTractatus De Vitiis et Peccatis \nDisputatio Praeliminaris De Conscientia \nTractatus De Legibus \nIndex super Tractatum de Conscientia; Item de Vitiis et Peccatis",
-    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIII + 160 + 69 = 232 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten die Unbefleckte Mutter nach Apk 12,1."
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer St. Lambrecht / Universität Salzburg \nFr. Marcus Starnisi Schreiber scribe Seitenstetten",
+    "incipits": "Quid et quantum malum sit Peccatum,.... \nNomen Legis iuxta Divum Thomam ......",
+    "explicits": "Absolvimus 12. Julii. ante meridiem. 1689. et Sequentem Tractatum simul incepimus. (117 Lectiones) \nFinivimus hanc Disputationem die 17. Januarii Anno 1689. \n27 Lectiones. Absolvimus Die 31 Augusti 1689.",
+    "notes": "Beginnereignis am Schluss des vorhergehenden Traktats: Sequentem Tractatum simul incepimus.",
+    "physical": "Papier \nIII + 160 + 69 = 232 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten die Unbefleckte Mutter nach Apk 12,1.",
+    "german": "III + 160 + 69 = 232 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne **IHS**, hinten die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1688/89.\n\na) **Abhandlung über Laster und Sünden**, vorgetragen an der Universität Salzburg von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 12. November 1688 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten: fol. II, III, 1–160r. Anfang der Vorrede fol. IIIr: Was und wie groß für ein Übel die Sünde sei..... Vermerk fol. IIIv: **Erste Vormittagsvorlesung am 12. November 1688.**\n\nDen Disputationen über Laster und Sünden ist eine **Vorbereitende Disputation über das Gewissen** vorangestellt: fol. 1r–41r; Schluss: **Wir beendeten diese Disputation am 17. Januar 1689.**\n\nSchluss der Abhandlung fol. 160r: **Beendet am 12. Juli 1689 vor dem Mittag; gleichzeitig begannen wir die folgende Abhandlung.** 117 Vorlesungen.\n\nb) **Abhandlung über die Gesetze:** fol. 1–54v (=161–214). Anfang der ersten Disputation: Das Wort Gesetz wird nach dem hl. Thomas..... Schluss: **27 Vorlesungen. Beendet am 31. August 1689.**\n\nc) **Register zur Abhandlung über das Gewissen sowie über Laster und Sünden:** fol. 55r–65r (=215–225).\n\nDieselben Abhandlungen enthält MN II 155. Fr. Marcus Starnisi schrieb auch die sechs vorhergehenden und die beiden folgenden Codices.",
+    "latin": "III + 160 + 69 = 232 foll.; teg. a2 (in tegumento adverso I H S, in averso Mater Immaculata iuxta Apoc. XII 1); script. 1688/89\n\na) Tractatus De Vitiis et Peccatis. Traditus In Alma et Archiepiscopali Universitate Salisburgensi, A.....Patre Mauro Liechtenhaimb, Ordinis S. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario. Calamô exceptus, et inceptus. 12. Novembris. A Religioso F. Marco Starnisi, eundem Ordinem Professo in Celeberrimo Divae Virginis Monasterio Seittenstettensi. Anno M D C L XXXIIX (1688): fol. II, III, 1–160r.  \nInitium Prooemii fol. IIIr: Quid et quantum malum sit Peccatum,....  \nNota fol. IIIv: Lectio 1. Antemeridiana Die 12 Novembris 1688.  \n(NB: Disputationibus De Vitiis et Peccatis praemittitur Disputatio Praeliminaris De Conscientia: fol. 1r–41r, ubi hanc clausulam invenies: Finivimus hanc Disputationem die 17. Januarii Anno 1689.)  \nClausula fol. 160r: Absolvimus 12. Julii. ante meridiem. 1689. et Sequentem Tractatum simul incepimus. (117 Lectiones)\n\nb) Tractatus De Legibus: fol. 1–54v (= 161–214). Initium Disputationis Primae: Nomen Legis iuxta Divum Thomam ...... Clausula: 27 Lectiones. Absolvimus Die 31 Augusti 1689.\n\nc) Index super Tractatum de Conscientia; Item de Vitiis et Peccatis: fol. 55r–65r (= 215–225).\n\nEosdem tractatus reperies in codice MN II 155 (vide infra!). F. Marcus Starnisi scripsit etiam sex codices praecedentes et duos subsequentes."
   }
 }

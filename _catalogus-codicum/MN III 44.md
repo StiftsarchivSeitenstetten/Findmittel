@@ -9,10 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 44
 ms_contents:
-  title: "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus"
   items:
-  - label: "a"
-    title: "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus"
+  - label: a
+    title: Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern
+      zum Dienst eröffnet, so den Nahmen führet, Sincerus
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

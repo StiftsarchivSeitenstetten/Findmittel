@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-26",
   "signature": "MN III 26",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "187",
   "heading": {
     "title": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1711"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–123",
+      "locus": "p. 3–123",
       "language": "",
+      "incipits": [
+        {
+          "text": "Si turpè est Patritio, et Nobili, et causas oranti...",
+          "locus": "p. 4",
+          "label": "Praefatiunculae in explicationem formulae Professionis Benedictinae",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 125",
+          "text": "Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Si turpè est Patritio, et Nobili, et causas oranti..."
+        "text": "Si turpè est Patritio, et Nobili, et causas oranti...",
+        "locus": "p. 4",
+        "label": "Praefatiunculae in explicationem formulae Professionis Benedictinae",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 125",
+        "text": "Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -65,15 +92,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Syllabus Quaestionum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 124–125",
+      "locus": "p. 124–125",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 4",
+          "label": "Praefatiunculae in explicationem formulae Professionis Benedictinae",
+          "text": "Si turpè est Patritio, et Nobili, et causas oranti...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 125",
+          "text": "Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 4",
+        "label": "Praefatiunculae in explicationem formulae Professionis Benedictinae",
+        "text": "Si turpè est Patritio, et Nobili, et causas oranti...",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 125",
+        "text": "Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -152,13 +205,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-26/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 26",
     "titles": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711 \nLibellus Professionis sive Explicatio formulae Professionis Benedictinae \nSyllabus Quaestionum",
-    "persons": "Fr. Sebastian Hochenperger Schreiber scribe \nunbekannt Autor author",
-    "incipits": "Si turpè est Patritio, et Nobili, et causas oranti...",
-    "explicits": "",
+    "persons": "Fr. Sebastian Hochenperger Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Si turpè est Patritio, et Nobili, et causas oranti... \nSi turpè est Patritio, et Nobili, et causas oranti...",
+    "explicits": "Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711). \nScripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Kleines Oktavformat; 128 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1711.\n\n**Büchlein über die Profess oder Erklärung der benediktinischen Professformel, abgeschrieben von Fr. Sebastian Hochenperger, Novize von Garsten, im Jahr 1711:** S. 3–123; anschließend **Verzeichnis der Fragen:** S. 124–125.\n\nAnfang der kleinen Vorrede zur Erklärung der benediktinischen Professformel S. 4: Wenn es für einen Patrizier und Adeligen, der Rechtssachen vertritt, schimpflich ist......\n\nKaum zu glauben ist, dass Fr. Sebastian Hochenperger als Schreiber auch selbst die Fragen dieses asketischen Codex erfunden und zusammengestellt hat. Der Verfasser scheint daher unbekannt zu sein.\n\nS. 6–7 fügte der Schreiber seine eigene Professformel ein. Darin bezeichnet er sich als Österreicher aus Lorch bei Enns und erklärt, im Kloster Garsten am 5. Oktober 1711 seine Gelübde ablegen zu wollen.\n\nSchluss S. 125: **Geschrieben von Fr. Sebastian Hochenperger, derzeit Novize in Garsten, im Jahr 1711.**",
+    "latin": "8° min.; 128 pagg.; teg. a1; script. 1711\n\nLibellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711: p. 3–123 et Syllabus Quaestionum: p. 124–125\n\nInitium Praefatiunculae in explicationem formulae Professionis Benedictinae p. 4: Si turpè est Patritio, et Nobili, et causas oranti...\n\nVix credendum est scriptorem F. Sebastianum Hochenperger etiam invenisse et composuisse quaestiones codicis nostri ascetici. Qua de re auctor videtur ignotus esse.\n\np. 6–7 suam ipsius formulam professionis scriptor inseruit. qua in formula Laureacensem Austriacum (id est e vico Lorch prope oppidum Enns) se esse confitetur et in monasterio Garstensi anno 1711 Die 5 Octobris vota se emissurum esse.\n\nClausula p. 125: Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711)."
   }
 }

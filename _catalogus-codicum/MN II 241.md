@@ -12,14 +12,25 @@ ms_contents:
   items:
   - label: a
     title: Institutiones Dialecticae in Universam Aristotelis Philosophiam
-    locus: S. 1–85
-    incipit: Aggressuri nobilissimum Philosophiae Studium
+    locus: p. 1–85
     end_date_display: 7. Dezember 1709
+    incipits:
+    - text: Aggressuri nobilissimum Philosophiae Studium........
+      locus: p. 1
+      label: Proemii
+    title_status: unspecified
+    colophons:
+    - text: 1709. Septimo Decembris.
   - label: b
     title: Tractatus In universam Logicam
-    locus: fol. 1r–175r (= S. 89–437)
-    incipit: Praemissis hucusque institutionibus
+    locus: fol. 1r–175r
     end_date_display: 26. Mai 1710
+    incipits:
+    - text: Praemissis hucusque institutionibus........
+      label: Proemii
+    colophons:
+    - text: Die 26. Maii 1710.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

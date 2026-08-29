@@ -9,13 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 274
 ms_contents:
-  title: Tractatus De Deo uno et Trino
   items:
   - label: a
     title: Tractatus De Deo uno et Trino
-    locus: S. 5–190
-    incipit: Praecipuam inter cunctas disciplinas et scientias esse theologiam
-    completeness: incomplete
+    locus: p. 5–190
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - text: Praecipuam inter cunctas disciplinas et scientias esse theologiam.....
+      locus: p. 7
+      label: Proemii In tractatum de Deo uno et Trino
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-15",
   "signature": "MN II 15",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "12",
   "heading": {
-    "title": "*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1630"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Drei naturphilosophische Vorlesungsteile Simon Fyrbas’ zu Himmel, Werden und Meteorologie.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 105",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Nunc tandem Deo duce ad caelestia....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Nunc tandem Deo duce ad caelestia....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +88,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1",
+          "label": "Prooemii",
+          "text": "Ea rerum naturalium conditio est,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1",
+        "label": "Prooemii",
+        "text": "Ea rerum naturalium conditio est,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,15 +127,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Materia quatuor Librorum Meteorologicorum:* 36 foll. (= 193 - 229)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Materia quatuor Librorum Meteorologicorum",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "A simplicibus progrediendum est ad composita....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 36",
+          "text": "Absolvimus hos de meteoris libros 8. Maii 1630.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "A simplicibus progrediendum est ad composita....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 36",
+        "text": "Absolvimus hos de meteoris libros 8. Maii 1630.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -184,13 +243,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-15/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 15",
-    "titles": "*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index \n*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index \n*Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191) \n*Materia quatuor Librorum Meteorologicorum:* 36 foll. (= 193 - 229)",
-    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer \nFr. Ludwig Scherb OSB Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630 \nCoelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630 \nCommentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630) \nMateria quatuor Librorum Meteorologicorum",
+    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer  \nFr. Ludwig Scherb OSB Schreiber scribe ",
+    "incipits": "Nunc tandem Deo duce ad caelestia.... \nEa rerum naturalium conditio est,.... \nA simplicibus progrediendum est ad composita....",
+    "explicits": "Absolvimus hos de meteoris libros 8. Maii 1630.",
     "notes": "Drei naturphilosophische Vorlesungsteile Simon Fyrbas’ zu Himmel, Werden und Meteorologie. \n*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index \n*Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191) \n*Materia quatuor Librorum Meteorologicorum:* 36 foll. (= 193 - 229)",
-    "physical": "Papier \n230 Blätter \nQuartformat \ncode: a1; description: Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \n230 Blätter \nQuartformat \ncode: a1; description: Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "III + 109 + 82 + 36 = 230 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen (wie MN II 13); 1630.\n\n**a) Der Himmel, durch einen Kommentar erläutert von Fr. Simon Fyrbas, Mönch von Scheyern und ordentlichem Professor an der Universität Salzburg; mitgeschrieben von dem Ordensmann Fr. Ludwig Scherb, Mönch des Klosters Seitenstetten. 1630:** Bl. 1–105; Bl. 104/105 Register.\n\nAnfang der Vorrede: **Nun endlich steigen wir mit Gottes Führung zum Himmlischen empor....** (Bl. 1r).\n\nBl. 12v Notiz über empfangene Briefe; Bl. 103v Schlussvermerk (23. Februar 1630).\n\n**b) Kommentar zu den zwei Büchern des Aristoteles Über Werden und Vergehen**, diktiert von Fr. Simon Fyrbas, Mönch des berühmten Klosters Scheyern in Bayern und ordentlichem Professor an der Universität Salzburg; mitgeschrieben von Ludwig Scherb, Profess desselben Ordens in Seitenstetten. 1630: 82 Blätter (= 110–191).\n\nAnfang der Vorrede Bl. 1 (= 110): **Die Beschaffenheit der natürlichen Dinge ist....**\n\nSchluss der Vorrede Bl. 2r (24. Februar 1630, **an welchem Tag ich auch Briefe mit den Captiones und anderem nach Hause schickte**); weitere Schlussvermerke Bl. 29r und 82v (**diese Bücher über Werden und Vergehen haben wir in größter Eile am 17. April 1630 abgeschlossen**).\n\n**c) Stoff der vier Bücher der Meteorologie:** 36 Blätter (= 193–229).\n\nAnfang der Vorrede: **Von den einfachen Dingen muss man zu den zusammengesetzten fortschreiten....**\n\nSchluss Bl. 36 (229)r: **Wir haben diese Bücher über die Meteore am 8. Mai 1630 abgeschlossen.**\n\nNB. In Teil a) sind einige sehr schöne Zeichnungen eingefügt.",
+    "latin": "III + 109 + 82 + 36 = 230 foll., teg. a1 (ut MN II 13), 1630\n\na) *Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index\n\nInitium Prooemii: Nunc tandem Deo duce ad caelestia.... (fol. 1r)\n\nfol. 12v nota de litteris receptis, fol. 103v clausula (23. II. 1630)\n\nb) *Commentarius in duos Libros Aristotelis De Ortu et Interitu. Ab....Fratre Simone Fyrbas, Celeberrimi Monasterii Schyrensis in Bavaria....Monacho, Ordinario Professore in Alma Salisburgensium Universitate. Dictatus, Excipiente.....Ludovico Scherbio .....In Seittenstötten eundem ordinem professo. Anno M.DC. XXX (1630):* 82 foll. (=110 - 191)\n\nInitium Prooemii fol. 1 (=110): Ea rerum naturalium conditio est,....\n\nClausula Prooemii fol. 2r (24. II. 1630, \"quo die etiam litteras domum misi cum Captionibus et caeteris\"); aliae clausulae fol. 29r. et 82v. (hos de generatione et corruptione libros absolvimus summa properatione decimo septimo die Mensis Aprilis ...1630).\n\nc) *Materia quatuor Librorum Meteorologicorum:* 36 foll. (= 193 - 229)\n\nInitium Prooemii: A simplicibus progrediendum est ad composita....\n\nClausula fol. 36 (229)r: Absolvimus hos de meteoris libros 8. Maii 1630.\n\nN. B. In parte a) insertae sunt aliquot pulcherrimae delineationes."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "l-ii-1",
   "signature": "L II. 1",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "265",
   "heading": {
     "title": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1790"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–547",
+      "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "indice alphabetico",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 548–576",
+      "locus": "p. 548–576",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -155,13 +166,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/l-ii-1/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "L II. 1",
     "titles": "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati \nAntiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati \nindice alphabetico",
-    "persons": "P. Wolfgangus Mitter Autor author \nunbekannt Schreiber scribe",
+    "persons": "P. Wolfgangus Mitter Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Der alphabetische Index wird im Katalog als parenthetische Inhaltsbezeichnung angegeben.",
-    "physical": "Papier \n578 pagg. \nFolioformat \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n578 pagg. \nFolioformat \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "Folioformat; 578 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben nach 1784.\n\n**Typographische Altertümer oder die bis zum Jahr 1500 gedruckten Bücher, die in der Bibliothek des Klosters Seitenstetten aufbewahrt werden, nach der Reihenfolge der Jahre geordnet und beschrieben sowie mit einigen historisch-literarischen Notizen erläutert**, mit alphabetischem Register S. 548–576.\n\nDass **P. Wolfgangus Mitter** Verfasser dieses lateinischen Werkes war, darin stimmen, soweit der Katalogbearbeiter sieht, alle Autoren überein, etwa P. Martin Riesenhuber, früher Archivar des Stiftes Seitenstetten. Nach Ortmayr-Decker, *Das Benediktinerstift Seitenstetten*, Wels 1955, S. 293, war P. Wolfgang Mitter von 1784 bis 1795 Bibliothekar in Seitenstetten.\n\nDaher ist eine Entstehung des Codex ungefähr um 1790 wahrscheinlich. Ob P. Wolfgang Mitter den Katalog eigenhändig schrieb, bleibt jedoch ungewiss.",
+    "latin": "fol.; 578 pagg.; teg. c3d; scriptus post annum 1784\n\n**Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati** (cum indice alphabetico p. 548–576)\n\nAuctorem huius operis Latini esse **P. Wolfgangum Mitter** consentiunt, quantum video, omnes auctores, ex. gr. P. Martinus Riesenhuber, olim archivarius monasterii Seitenstettensis; secundum Ortmayr-Decker, *Das Benediktinerstift Seitenstetten*, Wels 1955, p. 293, P. Wolfgangus Mitter ab anno 1784 usque ad annum 1795 monasterii Seitenstettensis custos erat bibliothecae. Qua de re codicem nostrum circa annum 1790 exaratum esse verisimile est. Nescio autem, num ipse P. Wolfgangus Mitter hunc catalogum scripserit."
   }
 }

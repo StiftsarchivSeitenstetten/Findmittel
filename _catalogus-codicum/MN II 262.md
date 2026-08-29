@@ -13,12 +13,17 @@ ms_contents:
   - label: a
     title: Tractatus de virtute et Sacramento Poenitentiae
     locus: fol. 1r–185v
-    incipit: Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia
     note: Der Katalog bezeichnet das Incipit ausdrücklich als fehlerhaft geschrieben.
+    incipits:
+    - text: Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia, ......
+    title_status: unspecified
   - label: b
     title: Tractatus De tribus ultimis Sacramentis, extrema unctione, ordine, et matrimonio
     locus: fol. 185v–217v
-    incipit: absoluta de Sacramento poenitentiae consideratione
+    incipits:
+    - text: absoluta de Sacramento poenitentiae consideratione.....
+      label: Proemii
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

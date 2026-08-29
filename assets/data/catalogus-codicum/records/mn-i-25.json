@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-25",
   "signature": "MN I 25",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "285",
   "heading": {
     "title": "Gury S. J. Theologiae Moralis Tomus II.",
-    "titleTypeRaw": "spine",
-    "titleTypeLabel": "spine",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "1889/90"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Gury S. J. Theologiae Moralis Tomus II.",
-    "titleTypeRaw": "spine",
-    "titleTypeLabel": "spine",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "translation": "",
     "summary": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern.",
-    "language": "la",
+    "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,27 +49,70 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "I",
       "title": {
-        "text": "Gury S. J. Theologiae Moralis Tomus II.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I.",
+        "typeRaw": "attested",
+        "typeLabel": "überlieferter Titel"
       },
-      "locus": "",
-      "language": "",
+      "locus": "p. 257–489",
+      "language": "la",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
         {
-          "type": "summary",
-          "text": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern."
+          "type": "edition_statement",
+          "text": "Editio in Germania prima ad optimarum editionum fidem accurate impressa."
         },
         {
-          "type": "manuscript_additions",
-          "text": "description: Zwischen den gedruckten Blättern liegen jeweils handschriftlich beschriebene oder leere Blätter; die beschriebenen Blätter scheinen Kommentar und Ergänzungen zum Drucktext zu enthalten.; scribe: unbekannt"
+          "type": "publication",
+          "text": "place: Ratisbonae; date: 1852; statement: Sumtibus Georgii Josephi Manz."
         },
         {
-          "type": "printed_work",
-          "text": "Compendium Theologiae Moralis"
+          "type": "notes",
+          "text": "Fasciculus I. postea atramento correctum: II."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "J. P. Gury, S. J.",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-2",
+      "label": "",
+      "type": "",
+      "physicalUnit": "",
+      "title": {
+        "text": "commentarium et additamenta ad folia typis impressa",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Inter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu inscriptum aut vacuum commutentur."
+        },
+        {
+          "type": "notes",
+          "text": "Quae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris."
         }
       ],
       "dates": [],
@@ -87,6 +133,13 @@
       "roleRaw": "scribe of manuscript commentary and additions",
       "roleLabel": "scribe of manuscript commentary and additions",
       "scope": "manuscript"
+    },
+    {
+      "name": "J. P. Gury, S. J.",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -156,13 +209,42 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-25/",
   "relations": [],
+  "physicalUnits": [
+    {
+      "id": "physical-i",
+      "label": "I",
+      "itemIds": [
+        "item-1"
+      ],
+      "titles": [
+        "Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I."
+      ],
+      "loci": [
+        "p. 257–489"
+      ],
+      "persons": [
+        {
+          "name": "J. P. Gury, S. J.",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    }
+  ],
   "search": {
     "signature": "MN I 25",
-    "titles": "Gury S. J. Theologiae Moralis Tomus II. \nGury S. J. Theologiae Moralis Tomus II.",
-    "persons": "J. P. Gury author of printed work author of printed work \nunbekannt scribe of manuscript commentary and additions scribe of manuscript commentary and additions",
+    "titles": "Gury S. J. Theologiae Moralis Tomus II. \nCompendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I. \ncommentarium et additamenta ad folia typis impressa",
+    "persons": "J. P. Gury author of printed work author of printed work Societas Jesu \nunbekannt scribe of manuscript commentary and additions scribe of manuscript commentary and additions  \nJ. P. Gury, S. J. Autor author ",
     "incipits": "",
     "explicits": "",
-    "notes": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern. \nla \nHybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern. \ndescription: Zwischen den gedruckten Blättern liegen jeweils handschriftlich beschriebene oder leere Blätter; die beschriebenen Blätter scheinen Kommentar und Ergänzungen zum Drucktext zu enthalten.; scribe: unbekannt \nCompendium Theologiae Moralis \nDer Schreiber der handschriftlichen Kommentare und Ergänzungen ist unbekannt. \nDie Angabe 'Fasciculus I.' wurde später mit Tinte zu 'II.' korrigiert.",
-    "physical": "Papier \n236 gedruckte Seiten + 226 handschriftlich beschriebene oder leere Seiten \nGroßquart \nGedrucktes Blatt und handschriftlich beschriebenes oder leeres Blatt wechseln regelmäßig miteinander ab. \ndescription: Rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "notes": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern. \nEditio in Germania prima ad optimarum editionum fidem accurate impressa. \nplace: Ratisbonae; date: 1852; statement: Sumtibus Georgii Josephi Manz. \nFasciculus I. postea atramento correctum: II. \nInter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu inscriptum aut vacuum commutentur. \nQuae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris. \nDer Schreiber der handschriftlichen Kommentare und Ergänzungen ist unbekannt. \nDie Angabe 'Fasciculus I.' wurde später mit Tinte zu 'II.' korrigiert. \n2. 11. 1889.",
+    "physical": "Papier \n236 gedruckte Seiten + 226 handschriftlich beschriebene oder leere Seiten \nGroßquart \nGedrucktes Blatt und handschriftlich beschriebenes oder leeres Blatt wechseln regelmäßig miteinander ab. \ndescription: Rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken. \nI",
+    "german": "Großquartformat; 236 gedruckte Seiten + 226 entweder handschriftlich beschriebene oder leere Seiten; rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1889/90.\n\nGedruckter Teil: **Kompendium der Moraltheologie, verfasst von J. P. Gury SJ, Professor am Römischen Kolleg und am Seminar von Vals bei Le Puy. Erste Ausgabe in Deutschland, nach den besten Ausgaben sorgfältig gedruckt. Faszikel I.** (später mit Tinte korrigiert: **II.**) **Regensburg 1852. Auf Kosten von Georg Joseph Manz.** S. 257–489.\n\nZwischen die einzelnen Blätter dieses Werkes sind jeweils einzelne handschriftlich beschriebene oder leere Blätter eingefügt, sodass stets ein gedrucktes Blatt und ein handschriftlich beschriebenes oder leeres Blatt abwechseln. Die handschriftlich beschriebenen Blätter scheinen einen Kommentar und Ergänzungen zu den gedruckten Blättern zu enthalten; von welchem Schreiber sie stammen, weiß ich jedoch nicht.\n\nRückenaufschrift: **Gury S. J. Theologiae Moralis Tomus II.**\n\nWann unser Codex eingebunden wurde, zeigt der Vermerk auf der Innenseite des Vorderdeckels: **2. 11. 1889.**",
+    "latin": "4° mai.; 236 pagg. typis mandatae + 226 pagg. aut manu inscriptae aut vacuae; teg. chartaceum cervini coloris (in forma marmoreae variationis) d; script. 1889/90.\n\nPars typis impressa: **Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I.** (postea atramento correctum: **II.**) **Ratisbonae, 1852. Sumtibus Georgii Josephi Manz.** p. 257–489.\n\nInter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu inscriptum aut vacuum commutentur. Quae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris.\n\nInscriptio dorsi: **Gury S. J. Theologiae Moralis Tomus II.**\n\nQuando tegumento munitus sit codex noster, ostendit nota in parte adversa tegumenti ab intrinsecus: **2. 11. 1889.**"
   }
 }

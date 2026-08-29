@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-82",
   "signature": "MN II 82",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "52",
   "heading": {
     "title": "Disputationes in 3 Libros Aristotelis de anima",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1660"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationes in 3 Libros Aristotelis de anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–406",
+      "locus": "p. 5–406",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "text": "Dignissima iam nobis Philosophiae pars......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 406",
+          "text": "Absolvimus naturalem Philosophiam nostram 21. Augusti....",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "text": "Dignissima iam nobis Philosophiae pars......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 406",
+        "text": "Absolvimus naturalem Philosophiam nostram 21. Augusti....",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,14 +91,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "In Metaphisicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 409–476",
+      "locus": "p. 409–476",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 409",
+          "label": "Prooemii",
+          "text": "Coronidem tandem philosophiae ...(?)... aggredimur....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 409",
+        "label": "Prooemii",
+        "text": "Coronidem tandem philosophiae ...(?)... aggredimur....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -82,14 +125,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationes in quatuor Libros Meteorologicorum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 477–555",
+      "locus": "p. 477–555",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 477",
+          "text": "Inscribuntur hi Libri Meteorologici....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 477",
+        "text": "Inscribuntur hi Libri Meteorologici....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -100,13 +157,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Conclusiones Ex Universa Logica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 559–572",
+      "locus": "p. 559–572",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -118,13 +179,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Theses Physicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 575–654",
+      "locus": "p. 575–654",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -233,13 +298,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 82",
     "titles": "Disputationes in 3 Libros Aristotelis de anima \nDisputationes in 3 Libros Aristotelis de anima \nIn Metaphisicam \nDisputationes in quatuor Libros Meteorologicorum Aristotelis \nConclusiones Ex Universa Logica \nTheses Physicae",
-    "persons": "Benedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n658 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80."
+    "persons": "Benedictus Abelzhauser Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Dignissima iam nobis Philosophiae pars...... \nCoronidem tandem philosophiae ...(?)... aggredimur.... \nInscribuntur hi Libri Meteorologici....",
+    "explicits": "Absolvimus naturalem Philosophiam nostram 21. Augusti....",
+    "notes": "MS. de anima et Metaphysica Reverendissimi Abelzhauser Seittenstettensis",
+    "physical": "Papier \n658 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80.",
+    "german": "658 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1660.\n\na) **Disputationen zu den drei Büchern des Aristoteles Über die Seele:** S. 5–406. Anfang S. 5: **Nun liegt der würdigste Teil der Philosophie vor uns......** Schluss S. 406: **Wir beendeten unsere Naturphilosophie am 21. August....**\n\nb) **Über die Metaphysik:** S. 409–476. Anfang der Vorrede S. 409: **Endlich nehmen wir die Krönung der Philosophie ...(?)... in Angriff....**\n\nc) **Disputationen zu den vier Büchern der Meteorologie des Aristoteles:** S. 477–555. Anfang S. 477: **Diese Bücher tragen den Titel „Meteorologica“....**\n\nd) **Schlussfolgerungen aus der gesamten Logik:** S. 559–572. Dieselben 19 Schlussfolgerungen fanden wir bereits in Teil b des Codex MN II 74 (oben S. 49).\n\ne) **Physikalische Thesen:** S. 575–654 (62 Propositionen).\n\nAuf dem Rücken sind Titel und Schreiber vermerkt: **Handschrift Über die Seele und Metaphysik des hochwürdigsten Abelzhauser aus Seitenstetten** (zu ihm oben S. 51 bei Codex MN II 80). In welchem Jahr unser Codex geschrieben wurde, habe ich nirgends gefunden; da er jedoch sicher Codex MN II 81 fortsetzt, wurde er ohne Zweifel im Jahr 1660 geschrieben. Der Verfasser ist unbekannt.",
+    "latin": "658 pagg.; teg. a2 (ut in cod. MN II 80); script. 1660\n\na) Disputationes in 3 Libros Aristotelis de anima: p. 5–406. Initium p. 5: Dignissima iam nobis Philosophiae pars...... Clausula p. 406: Absolvimus naturalem Philosophiam nostram 21. Augusti....\n\nb) In Metaphisicam: p. 409–476. Initium Prooemii p. 409: Coronidem tandem philosophiae ...(?)... aggredimur....\n\nc) Disputationes in quatuor Libros Meteorologicorum Aristotelis: p. 477–555. Initium p. 477: Inscribuntur hi Libri Meteorologici....\n\nd) Conclusiones Ex Universa Logica: p. 559–572. Easdem 19 conclusiones iam invenimus in parte b codicis MN II 74 (supra p. 49).\n\ne) Theses Physicae: p. 575–654 (62 Propositiones).\n\nIn dorso notantur titulus et scriptor: MS. de anima et Metaphysica Reverendissimi Abelzhauser Seittenstettensis (de quo supra p. 51 ad codicem MN II 80!). Quo anno codex noster exaratus sit, nusquam inveni, sed quia profecto codicem MN II 81 continuat, sine dubio anno 1660 scriptus est. Auctor ignotus."
   }
 }

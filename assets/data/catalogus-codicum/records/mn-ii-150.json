@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-150",
   "signature": "MN II 150",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "109–110",
   "heading": {
     "title": "Tractatus De Angelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1687/88"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–129v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Quoniam anno superiori rerum omnium principium.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Quoniam anno superiori rerum omnium principium.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -72,15 +99,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–104r (=132–235)",
+      "locus": "fol. 1r–104r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 132r",
+          "label": "Partis Primae",
+          "text": "Notandum est, tria reperiri ex parte finis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 235r",
+          "text": "61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 132r",
+        "label": "Partis Primae",
+        "text": "Notandum est, tria reperiri ex parte finis.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 235r",
+        "text": "61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -95,13 +148,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index super Tractatum de Angelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 106r–109r (=237–240)",
+      "locus": "fol. 106r–109r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -192,13 +249,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-150/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 150",
     "titles": "Tractatus De Angelis \nTractatus De Angelis \nTractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis \nIndex super Tractatum de Angelis",
-    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIV + 131 + 117 = 252 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer St. Lambrecht / Universität Salzburg \nFr. Marcus Starnisi Schreiber scribe Seitenstetten",
+    "incipits": "Quoniam anno superiori rerum omnium principium..... \nNotandum est, tria reperiri ex parte finis.....",
+    "explicits": "Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones) \n61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).",
+    "notes": "F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur",
+    "physical": "Papier \nIV + 131 + 117 = 252 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "IV + 131 + 117 = 252 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687/88.\n\na) **Abhandlung über die Engel**, vorgetragen an der Universität Salzburg von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht in der Steiermark, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 7. November 1687 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten: fol. 1r–129v. Anfang der Vorrede fol. 1r: Da wir im vergangenen Jahr den Ursprung aller Dinge..... Randnotiz: **Erste Nachmittagsvorlesung am 7. November 1687.** Schluss: **Beendet am 9. April 1688, einem Freitag vor Palmsonntag und dem letzten Vorlesungstag vor Ostern.** 75 Vorlesungen.\n\nb) **Abhandlung zur Prima Secundae des hl. Thomas über Glückseligkeit und menschliche Handlungen:** fol. 1r–104r (=132–235). Anfang fol. 132r: Zu beachten ist, dass sich beim Ziel drei Dinge finden..... Schluss fol. 235r: **61 Vorlesungen. Beendet am 28. August, dem Fest des hl. Augustinus, 1688.**\n\nc) **Register zur Abhandlung über die Engel:** fol. 106r–109r (=237–240).\n\nAnweisung für den Buchbinder fol. IIIr: **F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur** (vgl. MN II 149).\n\nFr. Marcus Starnisi schrieb auch die fünf vorhergehenden und die drei folgenden Codices.",
+    "latin": "IV + 131 + 117 = 252 foll.; teg. a2; script. 1687/88\n\na) Tractatus De Angelis. Traditus In Alma, et Archiepiscopali Universitate Salisburgensi. A Plurimum Reverendo.....Patre Mauro Liechtenhaimb, Ordinis S. Benedicti, Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo. Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamô exceptus et inceptus 7. Novembris 1687. A Religioso F. Marco Starnisi eundem Ordinem Professo in Celeberrimo Divae Virginis Monasterio Seittenstettensi: fol. 1r–129v. Initium Prooemii fol. 1r: Quoniam anno superiori rerum omnium principium..... Nota in margine inferiore: Lectio 1. pomeridiana 7 Novembris 1687. Clausula: Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)\n\n\n\n\nb) Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis: fol. 1r–104r (= 132–235).  \nInitium Partis Primae fol. 132r: Notandum est, tria reperiri ex parte finis.....  \nClausula fol. 235r: 61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).\n\nc) Index super Tractatum de Angelis: fol. 106r–109r (= 237–240)\n\nNota pro bibliopego fol. IIIr: F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur (Quam notam vide etiam in codice MN II 149, supra p. 109!)\n\nFr. Marcus Starnisi scripsit etiam quinque codices praecedentes et tres subsequentes."
   }
 }

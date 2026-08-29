@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-213",
   "signature": "MN II 213",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "168",
   "heading": {
     "title": "Tractatus undecimus De Sacramentis in Genere et Specie, de Baptismo, Confirmatione et Eucharistia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1700/01"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus undecimus De Sacramentis in Genere et Specie, de Baptismo, Confirmatione et Eucharistia",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Undecimus De Sacramentis in Genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–163",
+      "locus": "p. (1)–163",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -72,14 +79,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Duodecimus De Baptismo et Confirmatione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 163–226",
+      "locus": "p. 163–226",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Baptismus vox Graeca (!)........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Baptismus vox Graeca (!)........",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -90,13 +109,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius Decimus De Sacratissimo Eucharistiae Sacramento",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 226–461",
+      "locus": "p. 226–461",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -195,13 +218,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 213",
     "titles": "Tractatus undecimus De Sacramentis in Genere et Specie, de Baptismo, Confirmatione et Eucharistia \nTractatus Undecimus De Sacramentis in Genere \nTractatus Duodecimus De Baptismo et Confirmatione \nTractatus Tertius Decimus De Sacratissimo Eucharistiae Sacramento",
-    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Michael Steger Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Carolus Schrenk Dozent lecturer St. Peter in Salzburg / Universität Salzburg \nFr. Michael Steger Schreiber scribe Seitenstetten",
+    "incipits": "Baptismus vox Graeca (!)........",
     "explicits": "",
     "notes": "S. 1–4 einschließlich des Anfangs fehlen. \nincomplete",
-    "physical": "Papier \n462 pagg. \ncode: d; description: Halblederband aus rotem Karton."
+    "physical": "Papier \n462 pagg. \ncode: d; description: Halblederband aus rotem Karton.",
+    "german": "462 Seiten; Halblederband aus rotem Karton; geschrieben 1700/01.\n\n**Elfte Abhandlung zum dritten Teil des hl. Thomas von Aquin über die Sakramente im Allgemeinen und im Einzelnen, über Taufe, Firmung und Eucharistie**, vorgetragen von P. Carolus Schrenk, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Michael Steger, Benediktiner und Profess von Seitenstetten, 1700.\n\na) **Elfte Abhandlung über die Sakramente im Allgemeinen:** S. 1–163. S. 1–4 einschließlich des Anfangs fehlen.\n\nb) **Zwölfte Abhandlung über Taufe und Firmung:** S. 163–226. Anfang: Taufe ist ein griechisches Wort.....\n\nc) **Dreizehnte Abhandlung über das allerheiligste Sakrament der Eucharistie:** S. 226–461. Anfang: Der Name Eucharistie..... Schluss: **Wir beendeten [dies] am letzten Tag des August 1701.**\n\nDieselben Abhandlungen enthält Archivcodex 34–7.",
+    "latin": "462 pagg.; teg. d (charta densata rubra); script. 1700/01\n\nTractatus undecimus: In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici. de Sacramentis in Genere et Specie. de Baptismo, Confirmatione et Eucharistia. Tractatus â .....P. Carolo Schrenk Ordinis S: P: Benedicti. in Celeberrimo et Antiquissimo Monasterio ad S: Petrum Salisburgi Professo: Sacrosanctae Theologiae Doctore et Professore ordinario. Calamô exceptus â Religioso F: Michaele Steger: Ordinis S: P: Benedicti. in Beatae Virginis Monasterio Seittenstettensi Professo. 1700.\n\na) (Tractatus Undecimus. De Sacramentis in Genere): p. (1)–163. p. 1–4 cum initio desunt.\n\nb) Tractatus Duodecimus: De Baptismo et Confirmatione: p. 163–226.  \nInitium: Baptismus vox Graeca (!)........\n\nc) Tractatus 13: De Sacratissimo Eucharistiae Sacramento: p. 226–461.  \nInitium: Nomen Eucharistiae ......  \nClausula: Absolvimus ultimo die Augusti anno 1701.\n\nEosdem tractatus iam invenimus in codice Archivi 34–7 (supra p. 152!)"
   }
 }

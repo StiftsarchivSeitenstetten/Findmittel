@@ -9,13 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 231
 ms_contents:
-  title: Tractatus de Incarnatione Verbi
   items:
   - label: a
     title: Tractatus de Incarnatione Verbi
-    locus: S. 5–483
+    locus: p. 5
     start_date: '1707-11-07'
     end_date: '1708-09-05'
+    incipits:
+    - locus: p. 5
+      label: Proloquii
+      text: Unicum verbum Auditores Theologi toto hoc anno ad vos loquar.....
+    colophons:
+    - locus: p. 483
+      text: absolvimus 5 Septembris 1708.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

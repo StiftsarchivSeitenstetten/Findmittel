@@ -18,16 +18,38 @@ ms_contents:
   items:
   - label: a
     title: De Augustissimo Incarnati Verbi Mysterio
-    locus: S. 3–318
+    locus: p. 3 - 318
+    incipits:
+    - text: De hoc agit S. Thomas 3a parte quaestione 1 articulo 1....
+    colophons:
+    - text: 1653, Finis. In R. P. Philippi Miller SS. Theologiae Doctoris eiusdemque in ... Universitate Viennensi Professoris secundarii, nec
+        non Archiducis Serenissimi Leopoldi Confessarii Ignatij Leopoldi [deletum] Junioris Filii Imperatoris Ferdinandi Tertii [correctum:] Secundi.
+    title_status: unspecified
+    notes:
+    - '(Sequitur postscriptum: Nunc Dormientis in Morte Invictissimi Patris successor Filius Invictissimus Leopoldus Primus 1659). 208 lectiones.'
   - label: b
     title: De Angelis
-    locus: S. 321–394
+    locus: p. 321 - 394
+    incipits:
+    - text: quae Divus Thomas à quaestione 44 usque ad 49....
+    colophons:
+    - text: Finivimus 13 Januarii Anno 1653 Sub Reverendo P. Nicolao Avancino SS. Theologiae Doctore et Professore Ordinario Secundario in Octava
+        Epiphaniae Domini....
+    title_status: unspecified
   - label: c
     title: De Ultimo Fine hominis et eius Actibus
-    locus: S. 395–583
+    locus: p. 395 - 583
+    incipits:
+    - text: Plurima, quae ad ultimum finem hominis spectant....
+    title_status: unspecified
+    colophons:
+    - text: R. P. Nicolai Avancini SS. Theologiae Doctoris, eiusdemque in .... Universitate Viennensi ordinarii primarii Professoris nec non in
+        praefata Universitate Generalis studiorum Praefecti. 1.6.5.3. 6. Septembris.
   - label: d
     title: Index rerum alphabeticus
-    locus: S. 584–588
+    locus: p. 584 - 588
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

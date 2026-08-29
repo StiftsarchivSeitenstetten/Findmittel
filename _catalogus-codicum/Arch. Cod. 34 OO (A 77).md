@@ -13,12 +13,18 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 OO (A 77).
   items:
   - label: a
-    catalog_statement: 'Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo
-      (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62'
+    catalog_statement: 'Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam,
+      Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62'
+    title: Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam
+      ad Beatissimam Virginem Einsidlensem. Anno 1736
+    locus: p. 1–62
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto
-      Philosophiae cursu cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi
-      Anno 1748: p. 63–68'
+    catalog_statement: 'Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu
+      cum Clarissimo Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748: p. 63–68'
+    title: Itinerarium Brevissime collectum Sub peregrinatione mea ad S. Joannem Nepomucenum Pragae, Quam absoluto Philosophiae cursu cum Clarissimo
+      Domino P. Ruperto Sterch Admontensi ac pro tempore Juris Canonici Professore suscepi Anno 1748
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-145",
   "signature": "MN II 145",
   "aliases": [
@@ -28,6 +28,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria in 8 Libros Physicorum Aristotelis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 3–37",
+      "locus": "p. 3–37",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,14 +69,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria in libros Aristotelis De generatione et corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 37–174",
+      "locus": "p. 37–174",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ubi Aristoteles absolvit Agroasmata (!) Physica.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ubi Aristoteles absolvit Agroasmata (!) Physica.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -80,14 +99,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Meteora",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 175–200",
+      "locus": "p. 175–200",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Quaestionis Unicae De natura et effectibus Meteorum",
+          "text": "Meteora nihil aliud sunt, quam.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Quaestionis Unicae De natura et effectibus Meteorum",
+        "text": "Meteora nihil aliud sunt, quam.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -98,14 +131,28 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria in libros de animâ",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 200–332",
+      "locus": "p. 200–332",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 200",
+          "text": "Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 200",
+        "text": "Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -116,14 +163,26 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria in Libros de caelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 333–361",
+      "locus": "p. 333–361",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -134,14 +193,26 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentaria in 14 Libros Metaphysicorum Aristotelis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 367–429",
+      "locus": "p. 367–429",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Metaphysica omnium scientiarum Naturalium Regina,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Metaphysica omnium scientiarum Naturalium Regina,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -215,13 +286,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-145/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 145",
     "titles": "Commentaria in 8 Libros Physicorum Aristotelis \nCommentaria in 8 Libros Physicorum Aristotelis \nCommentaria in libros Aristotelis De generatione et corruptione \nTractatus in Meteora \nCommentaria in libros de animâ \nCommentaria in Libros de caelis \nCommentaria in 14 Libros Metaphysicorum Aristotelis",
-    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt author or lecturer author_or_lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "Ubi Aristoteles absolvit Agroasmata (!) Physica..... \nMeteora nihil aliud sunt, quam..... \nLibri de animâ sunt ex omnibus Physicae partibus nobilissimi..... \nOptimus Deus Teste ovidio os homini sublime dedit caelumque tueri,..... \nMetaphysica omnium scientiarum Naturalium Regina,....",
     "explicits": "",
     "notes": "Unvollständig; der erste Teil der Kommentare zur Physik und das Titelblatt des zweiten Teils fehlen. \nNur Ende des Kommentars zum 6. sowie Kommentare zum 7. und 8. Buch erhalten; der übrige Teil war in einem anderen Band gebunden und fehlt.",
-    "physical": "Papier \n438 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n438 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "438 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1685 (?).\n\na) **(Kommentare zu den acht Büchern der Physik des Aristoteles):** S. 3–37. Erhalten sind nur das Ende des Kommentars zum sechsten sowie die Kommentare zum siebten und achten Buch. Der übrige Teil war in einem anderen Band gebunden und ist nicht mehr vorhanden.\n\nb) **Kommentare zu den Büchern des Aristoteles Über Werden und Vergehen:** S. 37–174. Anfang: Wo Aristoteles die physikalischen Lehrvorträge abgeschlossen hat.....\n\nc) **Abhandlung über die Meteorologie:** S. 175–200. Anfang der einzigen Frage **Über Natur und Wirkungen der Meteore:** Meteore sind nichts anderes als.....\n\nd) **Kommentare zu den Büchern Über die Seele:** S. 200–332. Anfang S. 200: Die Bücher Über die Seele sind von allen Teilen der Physik die vornehmsten.....\n\ne) **Kommentare zu den Büchern Über den Himmel:** S. 333–361. Anfang: Der beste Gott gab nach Ovid dem Menschen ein erhabenes Antlitz und befahl ihm, den Himmel zu betrachten.....\n\nf) **(Kommentare zu den 14 Büchern der Metaphysik des Aristoteles):** S. 367–429. Anfang: Die Metaphysik, Königin aller Naturwissenschaften,....\n\nDa sowohl der erste Teil der Kommentare zu den acht Büchern der Physik als auch das Titelblatt des zweiten Teiles fehlen, sind weder Schreiber noch Verfasser oder Jahr der Niederschrift bekannt. Nach Einband und Schrift dürfte der Codex um 1685 entstanden sein.",
+    "latin": "438 pagg.; teg. a2; script. ca. 1685 (?)\n\na) (Commentaria in 8 Libros Physicorum Aristotelis): p. 3–37. Superest non nisi finis Commentariorum in librum sextum Physicorum et Commentarii in librum septimum et octavum. Caetera utpote alio volumine colligata iam non inveniuntur.\n\nb) Commentaria in libros Aristotelis De generatione et corruptione: p. 37–174. Initium: Ubi Aristoteles absolvit Agroasmata (!) Physica.....\n\nc) Tractatus in Meteora: p. 175–200. Initium Quaestionis Unicae De natura et effectibus Meteorum: Meteora nihil aliud sunt, quam.....\n\nd) Commentaria in libros de animâ p. 200–332. Initium p. 200: Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....\n\ne) Commentaria in Libros de caelis: p. 333–361. Initium: Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....\n\nf) (Commentaria in 14 Libros Metaphysicorum Aristotelis): p. 367–429. Initium: Metaphysica omnium scientiarum Naturalium Regina,....\n\nQuia et pars prior commentariorum in 8 libros Physicorum et folium titulare partis alterius deest, neque scriptor notus est neque auctor, neque quo anno codex noster scriptus sit. Dixeris autem propter formam tegumenti scripturaeque circa annum 1685 ortum esse eum."
   }
 }

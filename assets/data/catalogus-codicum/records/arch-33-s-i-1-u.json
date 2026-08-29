@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-33-s-i-1-u",
   "signature": "Arch. 33 S (I 1. u.)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "3–4",
   "heading": {
-    "title": "Calendarium Romanum et Generale: p. 23 - 41",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Calendarium Romanum et Generale",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {},
@@ -22,6 +22,9 @@
     "summary": "Katalogbeschreibung von Arch. 33 S (I 1. u.).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -33,13 +36,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Calendarium Romanum et Generale: p. 23 - 41",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Calendarium Romanum et Generale",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 23 - 41",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -56,13 +63,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Officium Beatissimae Virginis et Matris Domini et Salvatoris Nostri",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 41 - 116",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -79,13 +90,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Historia Ve: (= Verecundae ?) Susannae (item versibus ornata): p. 117 - 134",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Historia Ve: (= Verecundae ?) Susannae (item versibus ornata)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 117 - 134",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -144,13 +159,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-33-s-i-1-u/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. 33 S (I 1. u.)",
-    "titles": "Calendarium Romanum et Generale: p. 23 - 41 \nCalendarium Romanum et Generale: p. 23 - 41 \nOfficium Beatissimae Virginis et Matris Domini et Salvatoris Nostri \nHistoria Ve: (= Verecundae ?) Susannae (item versibus ornata): p. 117 - 134",
-    "persons": "Joannes Frey Autor author",
+    "titles": "Calendarium Romanum et Generale \nCalendarium Romanum et Generale \nOfficium Beatissimae Virginis et Matris Domini et Salvatoris Nostri \nHistoria Ve: (= Verecundae ?) Susannae (item versibus ornata)",
+    "persons": "Joannes Frey Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. 33 S (I 1. u.). \nCalendarium Romanum et Generale: p. 23 - 41 \nOfficium Beatissimae Virginis et Matris Domini et Salvatoris Nostri \nHistoria Ve: (= Verecundae ?) Susannae (item versibus ornata): p. 117 - 134",
-    "physical": "Papier \n8° min., teg. b1, in cuius parte adversa Christus Crucifixus, in parte aversa Annuntiatio BMV magna cum arte delineantur \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "physical": "Papier \n8° min., teg. b1, in cuius parte adversa Christus Crucifixus, in parte aversa Annuntiatio BMV magna cum arte delineantur \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "Kleines Oktavformat; lederner Einband von rehbrauner oder brauner Farbe; auf dem Vorderdeckel Christus am Kreuz, auf dem Rückdeckel die Verkündigung an die selige Jungfrau Maria kunstvoll dargestellt.\n\nEin poetisches Büchlein, das **Johannes Frey**, Bürger von Nürnberg (?) und Dichter, dem Seitenstettner Abt **Georg Sugel** (1552–1565) widmete. Dieser Johannes Frey war ein Vetter des Melker Dichters und Schulmeisters David Nagel aus Altötting in Bayern, Verfasser eines Büchleins mit Elegien, das Stephan Creutzer 1572 in Wien druckte.\n\na) **Römischer und allgemeiner Kalender:** S. 23–41.\n\nb) **Offizium der seligsten Jungfrau und Mutter unseres Herrn und Erlösers Jesus Christus Maria**, mit Versen geschmückt: S. 41–116.\n\nc) **Geschichte der keuschen Susanna**, ebenfalls in Versen: S. 117–134.\n\nDas Büchlein ist äußerst sorgfältig geschrieben.",
+    "latin": "8° min., teg. b1, in cuius parte adversa Christus Crucifixus, in parte aversa Annuntiatio BMV magna cum arte delineantur\n\nOpusculum poeticum, quod Joannes Frey, Civis Nori: (= Norimbergensis?) et Poeta (vide p. 13, 15, 16) abbati Seitenstettensi Georgio Sugel (1552 - 1565) dedicavit. Qui Joannes Frey consobrinus fuit poetae et ludimoderatoris Mellicensis David Nagelii, Altani, Boi, auctoris Elegiarum Libelli, quem Viennae Austriae excudebat Stephanus Creutzer Anno MDLXXII (1572).\n\na) Calendarium Romanum et Generale: p. 23 - 41  \nb) Officium Beatissimae Virginis et Matris Domini et Salvatoris Nostri\n\n\n\nJesu Christi Mariae (versibus decoratum): p. 41 - 116  \nc) Historia Ve: (= Verecundae ?) Susannae (item versibus ornata): p. 117 - 134\n\nHoc opusculum accuratissime [gestrichenes Wort] scriptum est."
   }
 }

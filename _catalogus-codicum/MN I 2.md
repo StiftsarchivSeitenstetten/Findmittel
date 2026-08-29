@@ -14,23 +14,25 @@ ms_identifier:
   idno: "MN I 2"
 
 ms_contents:
+  items:
   - item: 1
-    title: "Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652."
-    title_type: "original"
-    language:
-      - "de"
+    title: 'Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende
+      ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno
+      1652.'
     responsibility:
-      - role: "compiler"
-        name: "Joannes Baptista Suttinger zum Thurnhoff"
+    - role: compiler
+      name: Joannes Baptista Suttinger zum Thurnhoff
     content_date:
-      display: "1521–1581"
+      display: 1521–1581
       from: 1521
       to: 1581
     compilation_date:
-      display: "1652"
+      display: '1652'
       when: 1652
-    contents_note: "Die Gegenstände sind alphabetisch bis zum Anfang des Buchstabens M geordnet."
-
+    contents_note: Die Gegenstände sind alphabetisch bis zum Anfang des Buchstabens M geordnet.
+    languages:
+    - de
+    title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

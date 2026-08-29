@@ -9,13 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 36
 ms_contents:
-  title: "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)"
-    title_type: "supplied"
-    note: "Nur die arabische Auflösung „1729“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+  - label: a
+    title: Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX
+      (1729)
+    note: Nur die arabische Auflösung „1729“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

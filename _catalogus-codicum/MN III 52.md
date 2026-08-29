@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 52
 ms_contents:
-  title: "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779"
   items:
-  - label: "a"
-    title: "Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779"
-    locus: "S. 1–175"
-    note: "„Monogramma“ ist eine parenthetische Erläuterung des Katalogbearbeiters; der Titel als solcher ist überliefert."
+  - label: a
+    title: 'Gebett=büchlein: Ich leb, und weiß nicht, wie lang. Ich stirb, und weiß nicht wenn. Ich Fahr dahin, und weiß nicht wohin, wie Komts
+      das ich so fröhlich bin: I H S MARIA (Monogramma) anno 1779'
+    locus: p. 1–175
+    note: „Monogramma“ ist eine parenthetische Erläuterung des Katalogbearbeiters; der Titel als solcher ist überliefert.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

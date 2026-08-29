@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-1",
   "signature": "MN I 1",
   "aliases": [
@@ -20,35 +20,55 @@
     "certainty": "",
     "qualifier": "circa"
   },
-  "contentsOverview": {},
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden und in 20 Traktate gegliedert sind.",
+    "language": "",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
   "contents": [
     {
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prozeßordnung für das Erzherzogtum Österreich unter der Enns",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
-      "language": "main: de; other: la",
+      "locus": "fol. 246r",
+      "language": "de; la",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
         {
-          "type": "summary",
-          "text": "Verschiedene Gesetze des 16. Jahrhunderts, bis zum Jahr 1570 erlassen und in 20 Traktate gegliedert."
+          "type": "notes",
+          "text": "variae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae"
         },
         {
-          "type": "language_note",
-          "text": "Deutscher Haupttext mit lateinischen Randanmerkungen."
+          "type": "notes",
+          "text": "germanice cum annotationibus latinis in margine"
         }
       ],
       "dates": [
         {
           "type": "text_date",
-          "display": "16. Jahrhundert bis 1570"
+          "display": "saec. XVI. usque ad annum 1570"
         }
       ],
       "persons": [],
@@ -117,13 +137,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-1/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 1",
     "titles": "Prozeßordnung für das Erzherzogtum Österreich unter der Enns \nProzeßordnung für das Erzherzogtum Österreich unter der Enns",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "Verschiedene Gesetze des 16. Jahrhunderts, bis zum Jahr 1570 erlassen und in 20 Traktate gegliedert. \nDeutscher Haupttext mit lateinischen Randanmerkungen. \nDie Umfangsangabe des Katalogs wird unverändert übernommen. 249 + 16 + 6 Blätter ergeben rechnerisch 271 Blätter bzw. 542 Seiten, während der Katalog ausdrücklich (= 540 pagg.) angibt.",
-    "physical": "Papier \n249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten) \nFolio \nTitelblatt fehlt. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen."
+    "notes": "Verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden und in 20 Traktate gegliedert sind. \nvariae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae \ngermanice cum annotationibus latinis in margine \nDie Umfangsangabe des Katalogs wird unverändert übernommen. 249 + 16 + 6 Blätter ergeben rechnerisch 271 Blätter bzw. 542 Seiten, während der Katalog ausdrücklich (= 540 pagg.) angibt. \nHans Ludwig Dör.........(?)",
+    "physical": "Papier \n249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten) \nFolio \nTitelblatt fehlt. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen.",
+    "german": "Folioformat, 249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten), lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen; geschrieben um das Jahr 1600; das Titelblatt fehlt.\n\n(Prozessordnung für das Erzherzogtum Österreich unter der Enns, d. h. verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden – siehe fol. 246r! – und in 20 Abhandlungen gegliedert sind; deutsch, mit lateinischen Anmerkungen am Rand.)\n\nS. 540: Unterschriebener Name: Hans Ludwig Dör.........(?)",
+    "latin": "fol., 249 foll. + 16 foll. Indices + 6 foll. vacua (=540 pagg.), teg. b1 cum ornamentis; script. ca annum 1600; fol. titulare deest\n\n(Prozeßordnung für das Erzherzogtum Österreich unter der Enns, i. e. variae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae; germanice cum annotationibus latinis in margine)\n\np. 540: nomen subscriptum: Hans Ludwig Dör.........(?)"
   }
 }

@@ -15,42 +15,45 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 27"
 ms_contents:
-  overall_title:
-    title: "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie."
-    title_type: "original"
-    language: "la"
-    translation: "Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen."
-  incipit:
-    locus: "S. 3"
-    label: "Initium Anteloquii"
-    text: "Purissimos hodie fontes propino vobis,...."
-    translation: "Heute biete ich euch die reinsten Quellen dar,...."
   items:
-    - item: 1
-      title: "Tractatus De Sacramentis in genere"
-      translation: "Abhandlung über die Sakramente im Allgemeinen"
-      locus: "S. 3–96"
-    - item: 2
-      title: "Tractatus primus De Baptismo"
-      translation: "Erste Abhandlung. Über die Taufe"
-      locus: "S. 96–135"
-    - item: 3
-      title: "Tractatus Secundus De Sacramento Confirmationis"
-      translation: "Zweite Abhandlung. Über das Sakrament der Firmung"
-      locus: "S. 135–156"
-    - item: 4
-      title: "Tractatus Tertius De Venerabili Eucharistiae Sacramento"
-      translation: "Dritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie"
-      locus: "S. 157–210"
+  - item: 1
+    title: Tractatus De Sacramentis in genere
+    translation: Abhandlung über die Sakramente im Allgemeinen
+    locus: p. 3–96
+    title_status: unspecified
+  - item: 2
+    title: Tractatus primus De Baptismo
+    translation: Erste Abhandlung. Über die Taufe
+    locus: p. 96–135
+    title_status: unspecified
+  - item: 3
+    title: Tractatus Secundus De Sacramento Confirmationis
+    translation: Zweite Abhandlung. Über das Sakrament der Firmung
+    locus: p. 135–156
+    title_status: unspecified
+  - item: 4
+    title: Tractatus Tertius De Venerabili Eucharistiae Sacramento
+    translation: Dritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie
+    locus: p. 157–210
+    title_status: unspecified
   responsibility:
-    - role: "author_and_lecturer"
-      name: "P. Caelestin Pley"
-    - role: "scribe"
-      name: "unbekannt"
+  - role: author_and_lecturer
+    name: P. Caelestin Pley
+  - role: scribe
+    name: unbekannt
   relations:
-    - type: "same_text_as"
-      target: "MN II 225"
-      note: "MN II 225 enthält dieselben Abhandlungen und belegt Autor, Ort und Jahr der Vorlesung."
+  - type: same_text_as
+    target: MN II 225
+    note: MN II 225 enthält dieselben Abhandlungen und belegt Autor, Ort und Jahr der Vorlesung.
+  title: Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.
+  incipits:
+  - locus: p. 3
+    label: Initium Anteloquii
+    text: Purissimos hodie fontes propino vobis,....
+    translation: Heute biete ich euch die reinsten Quellen dar,....
+  languages:
+  - la
+  title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

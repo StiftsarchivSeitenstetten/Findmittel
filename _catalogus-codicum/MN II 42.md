@@ -17,13 +17,28 @@ ms_contents:
   items:
   - label: a
     title: Institutiones Dialecticae
-    locus: S. 3–125
+    locus: p. 3 - 125
+    incipits:
+    - locus: p. 5
+      label: Praefationis Authoris
+      text: Quoniam ut Author est Aristoteles....
+    title_status: unspecified
   - label: b
     title: Index Logicae
-    locus: S. 129–138
+    locus: p. 129 - 138
+    colophons:
+    - locus: p. 138
+      text: Finis. Die 8 Septembris. Anno 1648.
+    title_status: unspecified
   - label: c
     title: Commentaria et Quaestiones in universam Aristotelis Logicam, ad mentem Divi Thomae Aquinatis
-    locus: Bl. 1–84
+    locus: fol. 1 - 84
+    incipits:
+    - label: Praefationis
+      text: Absolutâ minori Dialecticâ,....
+    explicits:
+    - text: 18 Jul. 1648.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

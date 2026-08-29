@@ -13,14 +13,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 76
 ms_contents:
-  title: Fortsetzung der Disputationes In octo Libros Physicos Aristotelis
-  locus: fol. 360–776v
-  completeness: Ende fehlt.
   responsibility:
   - role: scribe
     name: Fr. Theophilus Janckh
   - role: author
     name: unbekannt
+  items:
+  - title: Fortsetzung der Disputationes In octo Libros Physicos Aristotelis
+    title_status: unspecified
+    locus: fol. 360–776v
+    completeness:
+      status: defective
+      note: Ende fehlt.
 phys_desc:
   object_form: codex
   support: Papier

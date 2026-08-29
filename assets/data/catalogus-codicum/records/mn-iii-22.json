@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-22",
   "signature": "MN III 22",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "172",
   "heading": {
     "title": "Liber 4. Decretalium",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1703"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Liber 4. Decretalium",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 4. Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–188",
+      "locus": "p. 1–188",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sponsalia a spondendo dicta:.....",
+          "label": "Tituli 1. De sponsalibus et matrimonio",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sponsalia a spondendo dicta:....."
+        "text": "Sponsalia a spondendo dicta:.....",
+        "label": "Tituli 1. De sponsalibus et matrimonio",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -148,13 +163,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 22",
     "titles": "Liber 4. Decretalium \nLiber 4. Decretalium",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "persons": "P. Joannes Rigele Schreiber scribe  \nunbekannt Autor author ",
     "incipits": "Sponsalia a spondendo dicta:.....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 202 Seiten; Einband aus einem Pergamentblatt des 15. Jahrhunderts mit geistlicher Musik; geschrieben um 1703.\n\n**Viertes Buch der Dekretalen:** S. 1–188.\n\nAnfang des ersten Titels **Über Verlöbnisse und Ehe:** *Sponsalia* wird von *spondere* hergeleitet.....\n\nOb der Codex ein Kompendium von Teil b des Codex MN III 20 ist, bleibt ungewiss. Kaum jemand wird jedoch bestreiten, dass beide Codices von derselben Hand geschrieben wurden, vielleicht von P. Joannes Rigele.\n\nDer Verfasser ist völlig unbekannt. Trotz des anderen Einbandes datiert der Katalogbearbeiter auch diesen Codex aufgrund der Schrift ungefähr auf 1703.",
+    "latin": "8° min.; 202 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae inscriptum; scriptus circa annum 1703\n\nLiber 4. Decretalium: p. 1–188.\n\nInitium Tituli 1. De sponsalibus et matrimonio: Sponsalia a spondendo dicta:.....\n\nUtrum codex noster compendium sit partis b codicis MN III 20 (vide supra p. 171!) an non, incertum est. Sed vix umquam negabit quisquam ambos codices ab eadem manu scriptos esse, dico fortasse a P. Joanne Rigele. Auctorem autem nescio omnino. Etsi alio tegumento inclusus sit codex noster, tamen propter scripturam arbitror fere anno 1703 scriptum esse eum."
   }
 }

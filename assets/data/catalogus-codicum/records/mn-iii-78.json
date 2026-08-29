@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-78",
   "signature": "MN III 78",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "283",
   "heading": {
     "title": "Notizen",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1871"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Notizen",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Notizen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–288",
+      "locus": "p. 92",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -131,13 +138,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-78/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 78",
     "titles": "Notizen \nNotizen",
-    "persons": "Stefan Rosenberger author and scribe author_and_scribe",
+    "persons": "Stefan Rosenberger author and scribe author_and_scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Vor allem Aufzeichnungen über das Heilige Land und Jerusalem.",
-    "physical": "Papier \n8° \nOktavformat \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+    "german": "Oktavformat; 288 Seiten; marmorierter Pappeinband mit grünem Leinenrücken; geschrieben 1871.\n\n**Notizen**\n\nDieses nicht unbedeutende Büchlein enthält zahlreiche Aufzeichnungen über das Heilige Land, besonders über Jerusalem.\n\nDen Verfasser nennt S. 92:\n\n**„....ich, Stefan Rosenberger, Weltpriester der Wiener-Erzdiözese in Oestreich, und Vice-Rector des österreichischen Pilgerhauses in Jerusalem.....“**\n\nSiehe auch S. 94 am unteren Rand.\n\nDer Codex wurde sicher zwischen 1869 – siehe S. 91 – und 1872 geschrieben. Denn der Tod Joseph Valergas am 2. Dezember 1872 wurde S. 1 nachträglich mit anderer Tinte ergänzt. Wahrscheinlich entstand der Codex 1871; siehe S. 238.",
+    "latin": "8°; 288 pagg.; teg. c2 cum viridi dorso linteo; script. 1871\n\n**Notizen**\n\nContinet hic libellus haud vilis multa notata de Terra Sancta, praesertim de Sacra Urbe Jerusalem. Quorum auctorem invenies p. 92:\n\n**„....ich, Stefan Rosenberger, Weltpriester der Wiener-Erzdiözese in Oestreich, und Vice-Rector des österreichischen Pilgerhauses in Jerusalem.....“** (Vide etiam p. 94 in margine inferiore!)\n\nSine dubio scriptus est codicillus noster inter annum 1869 (vide p. 91!) et 1872 (nam quando mortuus sit Josefus Valerga, scilicet die 2. Decembris 1872, p. 1 alio atramento additum est), probabiliter anno 1871 (vide p. 238)."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-174",
   "signature": "MN II 174",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "134–135",
   "heading": {
     "title": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1692"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–255v",
+      "locus": "fol. 1r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "A Verbo Incarnato Theologiae nostrae exordium ducimus,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 255v",
+          "text": "Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "A Verbo Incarnato Theologiae nostrae exordium ducimus,.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 255v",
+        "text": "Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -152,13 +181,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 174",
     "titles": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae \nTractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
-    "persons": "P. Edmund Ruedorffer author or lecturer author_or_lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Edmund Ruedorffer author or lecturer author_or_lecturer Kloster Lambach / Universität Salzburg \nFr. Gabriel Sumadtinger Schreiber scribe Seitenstetten",
+    "incipits": "A Verbo Incarnato Theologiae nostrae exordium ducimus,.....",
+    "explicits": "Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.",
     "notes": "",
-    "physical": "Papier \n256 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n256 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "256 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.\n\n**Abhandlung über die Menschwerdung des göttlichen Wortes zum dritten Teil des hl. Thomas.**\n\nAnfang der Vorrede fol. 1r: Vom fleischgewordenen Wort nehmen wir den Anfang unserer Theologie..... Schluss fol. 255v: **Wir beendeten diese Abhandlung am 30. August 1692 nach dem Mittagessen.**\n\nInitialen auf dem Vorderdeckel: **F G S P S** = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1693. Somit schrieb auch diesen Codex derselbe Schreiber wie die vier vorhergehenden und sieben folgenden.\n\nDen Verfasser erkennt man durch Vergleich mit MN II 170: P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg.",
+    "latin": "256 foll.; teg. a2; script. 1692\n\nTractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae.  \nInitium Prooemii fol. 1r: A Verbo Incarnato Theologiae nostrae exordium ducimus,..... Clausula fol. 255v: Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.\n\nLitterae initiales in parte adversa tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1 6 9 3. Scripsit ergo codicem nostrum idem, qui quattuor praecedentes et septem sequentes. Auctorem vero codicis nostri invenies, si comparaveris codicem nostrum cum codice MN II 170 (supra p. 132!), quippe qui eundem tractatum a P. Edmundo Ruedorffer professo Lambacensi et professore Salisburgensi doceat dictatum esse."
   }
 }

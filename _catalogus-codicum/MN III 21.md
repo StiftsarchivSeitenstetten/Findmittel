@@ -10,16 +10,22 @@ ms_identifier:
   idno: MN III 21
 ms_contents:
   items:
-  - label: "a"
-    title: "Institutionum Imperialium Libri 4"
-    title_type: "supplied"
-    locus: "S. 3–202"
-    incipit: "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......"
-    note: "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
-  - label: "b"
-    title: "Liber 2. Decretalium Gregorii 9"
-    locus: "S. 207–301"
-    incipit: "Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio...."
+  - label: a
+    title: Institutionum Imperialium Libri 4
+    locus: p. 3–202
+    note: Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.
+    incipits:
+    - text: Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......
+      label: Tituli 1. Libri 1
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Liber 2. Decretalium Gregorii 9
+    locus: p. 207–301
+    incipits:
+    - text: Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....
+      label: Tituli 1. De Judiciis
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

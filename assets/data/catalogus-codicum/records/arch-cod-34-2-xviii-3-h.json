@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-2-xviii-3-h",
   "signature": "Arch. Cod. 34–2 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "77",
   "heading": {
-    "title": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–2 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–264",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Casus resoluti pro Confessariis: p. 265–508.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Casus resoluti pro Confessariis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 265–508",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Casus speciales in confessione: p. 509–552.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Casus speciales in confessione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 509–552",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -158,13 +173,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-2-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–2 (XVIII 3 h)",
-    "titles": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264. \nCasus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264. \nCasus resoluti pro Confessariis: p. 265–508. \nCasus speciales in confessione: p. 509–552.",
+    "titles": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati \nCasus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati \nCasus resoluti pro Confessariis \nCasus speciales in confessione",
     "persons": "",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–2 (XVIII 3 h). \nCasus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264. \nCasus resoluti pro Confessariis: p. 265–508. \nCasus speciales in confessione: p. 509–552.",
-    "physical": "Papier \n552 pagg. \nGroßfolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n552 pagg. \nGroßfolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Großfolioformat; 552 Seiten; grauer Pappeinband; geschrieben um 1670.\n\n**Handschriften des hochwürdigsten Seitenstettner Abtes Benedictus Abelzhauser, ehemals berühmten Professors der Moraltheologie an der Universität Salzburg; 1767 gesammelt (!).**\n\na) **Fälle über die Sakramente im Allgemeinen und besonders über ihre Spendung, zum Gebrauch jener, die mit dem Apostel der Heiden zum Dienst und Evangelium Gottes ausgesondert sind:** S. 1–264.\n\nb) **Gelöste Fälle für Beichtväter:** S. 265–508.\n\nc) **Besondere Fälle in der Beichte:** S. 509–552.\n\nDer Titel nennt **Benedictus Abelzhauser**, der um 1670 in Salzburg Theologie lehrte und später 1687–1717 dem Kloster Seitenstetten als Abt vorstand, als Verfasser und Schreiber dieser Traktate. Daher dürfte die Annahme einer Entstehung um 1670 kaum fehlgehen.",
+    "latin": "fol. mai.; 552 pagg.; teg. c1; script. ca. 1670\n\nManuscripta Reverendissimi Domini Domini Seittenstettensis Abbatis **Benedicti Abelzhauser** Quondam Clarissimi Moralium Professoris in alma Universitate Salisburgensi collecta 1767 (!)\n\na) Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264.\n\nb) Casus resoluti pro Confessariis: p. 265–508.\n\nc) Casus speciales in confessione: p. 509–552.\n\nInscriptio libri memorat **Benedictum Abelzhauser**, qui circa annum 1670 Salisburgi Sacram Disciplinam docuit et postea 1687–1717 Monasterio Seittenstettensi praefuit, auctorem et scriptorem istorum tractatuum esse. Ergo non multum falletur, qui haec manuscripta circa annum 1670 orta esse ratus erit."
   }
 }

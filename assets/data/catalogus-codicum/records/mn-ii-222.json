@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-222",
   "signature": "MN II 222",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "173–174",
   "heading": {
     "title": "Liber 3. Decretalium",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1703"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Liber 3. Decretalium",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber 3. Decretalium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–229",
+      "locus": "p. 3–229",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Tituli 1. De Vita et honestate Clericorum",
+          "text": "In favorabilibus nomine clericorum omnes personae ecclesiasticae veniunt......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Tituli 1. De Vita et honestate Clericorum",
+        "text": "In favorabilibus nomine clericorum omnes personae ecclesiasticae veniunt......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -155,13 +172,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 222",
     "titles": "Liber 3. Decretalium \nLiber 3. Decretalium",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "P. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "In favorabilibus nomine clericorum omnes personae ecclesiasticae veniunt......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n232 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n232 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "232 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1703.\n\n**Drittes Buch der Dekretalen:** S. 3–229.\n\nAnfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker:** Unter günstigen Rechtsbestimmungen werden unter dem Namen der Kleriker alle kirchlichen Personen verstanden......\n\nUnser Codex scheint den vorhergehenden fortzusetzen. Daher gilt das dort über den Schreiber, vielleicht P. Joannes Rigele, und den Verfasser Gesagte entsprechend auch hier. Auch in diesem Codex wird dieselbe Materie behandelt wie in Teil a des Codex MN III 20, offenbar von demselben Schreiber aufgezeichnet.\n\nZumindest aufgrund der Schrift ist wahrscheinlich, dass auch dieser Codex um 1703 geschrieben wurde.\n\nSicher ist, dass unser Codex – und damit auch der vorhergehende – Vorlesungen enthält, die an der Universität Salzburg gehalten wurden. Denn S. 229 wird ein der Universität Salzburg verliehenes Privileg erwähnt.",
+    "latin": "232 pagg.; teg. a1; script. ca. 1703\n\nLiber 3. Decretalium: p. 3–229\n\nInitium Tituli 1. De Vita et honestate Clericorum: In favorabilibus nomine clericorum omnes personae ecclesiasticae veniunt......\n\nVidetur codex noster codicem praecedentem continuare. Itaque quae supra de scriptore, forsitan P. Joanne Rigele, et auctore exposuimus mutatis mutandis ad nostrum codicem accommodandum est. Nam etiam in codice nostro eadem materia tractatur, quae in parte a codicis MN III 20 (supra p. 171!), ab eodem, uti videtur scriptore notata. Attamen veri simile est (saltem propter scripturam) hunc quoque codicem circa annum 1703 exaratum esse.\n\nCertum est in codice nostro (et ideo etiam in codice praecedente) lectiones in Universitate Salisburgensi habitas inveniri. Nam p. 229 codicis nostri laudatur quoddam privilegium Universitati Salisburgensi concessum."
   }
 }

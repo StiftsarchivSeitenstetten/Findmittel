@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-41",
   "signature": "MN III 41",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "226",
   "heading": {
     "title": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1750"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–15",
+      "locus": "p. 1–15",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Verschiedene Vorbedeutungen",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 15–62",
+      "locus": "p. 15–62",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -86,13 +97,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Salz aus Krautern etc. Zu praeparieren und Ziehen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 62–64",
+      "locus": "p. 62–64",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -104,13 +119,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vor Raupen oder Würm im Kohl und Kraut",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 64",
+      "locus": "p. 64",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -122,13 +141,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 65–258",
+      "locus": "p. 65–258",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -140,13 +163,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Salpeter oder Salniter Zu krügen unterschiedliche weis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 258–287",
+      "locus": "p. 258–287",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -158,13 +185,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Verschiedene Ratschläge",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 287–309",
+      "locus": "p. 287–309",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -181,13 +212,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 309–327",
+      "locus": "p. 309–327",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -199,13 +234,17 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Was Monathlich bey den bäumen Zu Thuen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 328–333",
+      "locus": "p. 328–333",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -217,13 +256,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Von Einigen Obst-bäumen insonderheit",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 337–364",
+      "locus": "p. 337–364",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -235,13 +278,17 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Von der Obsternte",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 364–379",
+      "locus": "p. 364–379",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -258,13 +305,17 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Obst und Baum-gartten",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 380–515",
+      "locus": "p. 380–515",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -276,13 +327,17 @@
       "id": "item-m",
       "label": "m",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Verschiedene Ratschläge",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 515–532",
+      "locus": "p. 515–532",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -299,13 +354,17 @@
       "id": "item-n",
       "label": "n",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Register aller Hierinen Enthaltenen Sachen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 533–549",
+      "locus": "p. 533–549",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -322,13 +381,17 @@
       "id": "item-o",
       "label": "o",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Wanzen, Item Schwaben und Keffer Zu Vertreiben",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 550",
+      "locus": "p. 550",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -340,13 +403,17 @@
       "id": "item-p",
       "label": "p",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Salpeter Zu Figieren",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 550",
+      "locus": "p. 550",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -432,13 +499,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-41/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 41",
     "titles": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen \nWas ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen \nVerschiedene Vorbedeutungen \nSalz aus Krautern etc. Zu praeparieren und Ziehen \nVor Raupen oder Würm im Kohl und Kraut \nNüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten \nSalpeter oder Salniter Zu krügen unterschiedliche weis \nVerschiedene Ratschläge \nUnterschiedliche Baum-schäden, und wie diß zuverhüeten (?) \nWas Monathlich bey den bäumen Zu Thuen \nVon Einigen Obst-bäumen insonderheit \nVon der Obsternte \nObst und Baum-gartten \nVerschiedene Ratschläge \nRegister aller Hierinen Enthaltenen Sachen \nWanzen, Item Schwaben und Keffer Zu Vertreiben \nSalpeter Zu Figieren",
-    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt author or compiler author_or_compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Angabe „alphabeticum“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt. \nUnvollständig; am Ende fehlen vermutlich etwa 20 Seiten.",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband fehlt."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband fehlt.",
+    "german": "Kleines Oktavformat; 550 Seiten; Einband fehlt; geschrieben um 1750.\n\na) **Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen:** S. 1–15  \nb) **(Verschiedene Vorbedeutungen):** S. 15–62  \nc) **Salz aus Krautern etc. Zu praeparieren und Ziehen:** S. 62–64  \nd) **Vor Raupen oder Würm im Kohl und Kraut:** S. 64  \ne) **Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten:** S. 65–258  \nf) **Salpeter oder Salniter Zu krügen unterschiedliche weis:** S. 258–287  \ng) **(Verschiedene Ratschläge):** S. 287–309  \nh) **Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?):** S. 309–327  \ni) **Was Monathlich bey den bäumen Zu Thuen:** S. 328–333  \nj) **Von Einigen Obst-bäumen insonderheit:** S. 337–364  \nk) **(Von der Obsternte):** S. 364–379  \nl) **Obst und Baum-gartten:** S. 380–515  \nm) **(Verschiedene Ratschläge):** S. 515–532  \nn) **Register (alphabeticum) aller Hierinen Enthaltenen Sachen:** S. 533–549  \no) **Wanzen, Item Schwaben und Keffer Zu Vertreiben:** S. 550  \np) **Salpeter Zu Figieren:** S. 550\n\nDieser letzte Ratschlag scheint nicht vollendet zu sein. Am Ende unseres Buches dürften ungefähr 20 Seiten fehlen, weil das Sachregister durch eingeschobene Nachträge erweitert wurde und auf behandelte Gegenstände bis S. 553 verweist.\n\nWeder Verfasser noch Schreiber dieses Büchleins sind bekannt. Dass es ungefähr um 1750 entstand, zeigt nicht nur die Schrift, sondern auch folgende Notiz S. 346:\n\n**Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.**\n\nWahrscheinlich hat der Verfasser oder Schreiber – vielleicht exzerpierte der Schreiber selbst die Ratschläge aus verschiedenen gedruckten Büchern – dieses Ereignis, das der Bauernregel widersprach, in den Codex eingetragen. Er hätte davon kaum wissen können, wenn es nicht erst wenige Jahre vor der Niederschrift geschehen wäre.",
+    "latin": "8° min.; 550 pagg.; tegumentum deest; script. ca. 1750\n\na) Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen: p. 1–15  \nb) (Verschiedene Vorbedeutungen): p. 15–62  \nc) Salz aus Krautern etc. Zu praeparieren und Ziehen: p. 62–64  \nd) Vor Raupen oder Würm im Kohl und Kraut: p. 64  \ne) Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten: p. 65–258  \nf) Salpeter oder Salniter Zu krügen unterschiedliche weis: p. 258–287  \ng) (Verschiedene Ratschläge): p. 287–309  \nh) Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?): p. 309–327  \ni) Was Monathlich bey den bäumen Zu Thuen: p. 328–333  \nj) Von Einigen Obst-bäumen insonderheit: p. 337–364  \nk) (Von der Obsternte): p. 364–379  \nl) Obst und Baum-gartten: p. 380–515  \nm) (Verschiedene Ratschläge): p. 515–532  \nn) Register (alphabeticum) aller Hierinen Enthaltenen Sachen: p. 533–549  \no) Wanzen, Item Schwaben und Keffer Zu Vertreiben: p. 550  \np) Salpeter Zu Figieren: p. 550 (Videtur hoc consilium non esse finitum, sed in fine libri nostri circa 20 paginas deesse putandum est, quia index rerum additamentis interpositis auctus est, quae usque ad paginam 553 res dissertatas esse indicant.)\n\nNeque auctor neque scriptor huius codicilli notus est; at ortum esse eum fere anno 1750 non solum scriptura manifestat, sed etiam sequens Notabene p. 346: **Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.** Probabiliter ipse auctor aut scriptor noster – fortasse ipse scriptor noster consilia huius libelli e variis libris prelo editis excerpsit – hanc rem contra ruricolarum regulam gestam libro nostro inseruit. Quam scire vix potuit, nisi non multis annis antequam haec scribit gesta est."
   }
 }

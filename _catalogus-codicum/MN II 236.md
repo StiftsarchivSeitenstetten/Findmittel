@@ -12,15 +12,21 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Philosophiae primus De Logica
-    locus: S. 1–306
+    locus: p. 1–306
+    incipits:
+    - label: Proemii
+      text: Philosophiam a logica auspicamur,......
+    title_status: unspecified
   - label: b
     title: Viginti Theses Logicae
-    title_type: supplied
     title_note: Im Katalog steht nur „Viginti“ in runden Klammern.
-    locus: S. 307–309
+    locus: p. 307–309
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Index Universae Logicae, ubi perspiciendae sunt Sententiae, quae sunt admissae iuxta ordinem disputationum inscriptae
-    locus: S. 310–314
+    locus: p. 310–314
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

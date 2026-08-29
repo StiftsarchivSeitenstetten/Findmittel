@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-98",
   "signature": "MN II 98",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "62",
   "heading": {
     "title": "Commentarius In Philosophiam Naturalem",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1667/68"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,44 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Philosophiam Naturalem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–288r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii Physices",
+          "text": "Postquam in itinere peripatetico Spineta logicae feliciter egressi.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 230v",
+          "text": "...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "fol. 288r",
+          "text": "...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii Physices",
+        "text": "Postquam in itinere peripatetico Spineta logicae feliciter egressi.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 230v",
+        "text": "...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,14 +96,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In tres Libros De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 288v–365v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -82,14 +126,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in Quatuor Libros Meteorologicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 365v–382r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Quae nunc tractanda aggredimur non tam difficilia sunt....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Quae nunc tractanda aggredimur non tam difficilia sunt....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -100,13 +156,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio XIII In quatuor libros de Caelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 382r–389v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -118,14 +178,26 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus In Methaphysicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 389v–400r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -214,13 +286,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-98/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 98",
     "titles": "Commentarius In Philosophiam Naturalem \nCommentarius In Philosophiam Naturalem \nTractatus In tres Libros De Anima \nTractatus in Quatuor Libros Meteorologicorum \nDisputatio XIII In quatuor libros de Caelis \nTractatus In Methaphysicam",
-    "persons": "Ambrosius Marholt unspecified unspecified \nP. Michael Seitz Dozent lecturer \nFr. Ambrosius Marholt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Ambrosius Marholt unspecified unspecified  \nP. Michael Seitz Dozent lecturer Admont / Salzburg \nFr. Ambrosius Marholt Schreiber scribe Seitenstetten",
+    "incipits": "Postquam in itinere peripatetico Spineta logicae feliciter egressi. \nDilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus..... \nQuae nunc tractanda aggredimur non tam difficilia sunt.... \nProoemium. Methaphysica quam explicandam aggredimur nihil aliud est....",
+    "explicits": "...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668. \n...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.",
     "notes": "",
-    "physical": "Papier \n409 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+    "physical": "Papier \n409 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+    "german": "409 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **IHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**.\n\na) **Kommentar zur Naturphilosophie, diktiert von ... P. Michael Seitz, Profess des hochberühmten Klosters Admont, damals ordentlicher Professor der Philosophie in Salzburg. Aufgezeichnet von Fr. Ambrosius Marholt, Profess des Ordens des hl. Vaters Benedikt im Kloster Seitenstetten. Im Jahr 1667:** fol. 1–288r.\n\nAnfang der Vorrede zur Physik: **Nachdem wir auf dem peripatetischen Weg glücklich dem Dornengestrüpp der Logik entkommen sind.**\n\nSchlussvermerke: fol. 230v: **...damit sei zu den acht Büchern der Physik genug gesagt. Wir beendeten diese Bücher am 11. Februar 1668.** fol. 288r: **...und dies über die Bewegungen und überhaupt zu den Büchern Über Werden. Wir beendeten diese Bücher am 21. April 1668.**\n\nb) **Abhandlung zu den drei Büchern Über die Seele:** fol. 288v–365v. Anfang: **Nachdem wir die Materien über Himmel und Elemente einstweilen aufgeschoben haben, eilen wir zu den drei Büchern Über die Seele.....**\n\nc) **Abhandlung zu den vier Büchern der Meteorologie:** fol. 365v–382r. Anfang: **Was wir nun zu behandeln beginnen, ist nicht so schwierig....**\n\nd) **Dreizehnte Disputation – vor Teil b aufgeschoben, siehe oben – zu den vier Büchern Über den Himmel:** fol. 382r–389v. Anfang: **Caelum wird von caelando hergeleitet,....**\n\ne) **Abhandlung über die Metaphysik:** fol. 389v–400r. Anfang: **Vorrede. Die Metaphysik, deren Erklärung wir beginnen, ist nichts anderes als....**\n\nFr. **Ambrosius Marholt** schrieb auch die fünf folgenden Codices und stand dem Kloster Seitenstetten von 1679 bis 1687 als Abt vor.",
+    "latin": "409 foll.; teg. a2 in parte adversa signo IHS, in aversa imagine Matris Immaculatae secundum Apoc. XII 1 decoratum\n\na) Commentarius In Philosophiam Naturalem Dictatus Ab.... **P. Michaele Seitz**, Celeberrimi Monasterii Admontensis Professo pro tempore Salisburgi Philosophiae Professore ordinario. Exceptus ab **F. Ambrosio Marholt** ordinis S: P: Benedicti Monasterii Seittenstettensis Professo. Anno MDC LXVII (1667): fol. 1–288r. _Initium_ Prooemii Physices: Postquam in itinere peripatetico Spineta logicae feliciter egressi.\n\n_Clausulae_: fol. 230v: ...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668. fol. 288r: ...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.\n\nb) Tractatus In tres Libros De Anima: fol. 288v–365v. _Initium_: Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....\n\nc) Tractatus in Quatuor Libros Meteorologicorum: fol. 365v–382r. _Initium_: Quae nunc tractanda aggredimur non tam difficilia sunt....\n\nd) Disputatio XIII (ante partem b dilata; vide supra!) In quatuor libros de Caelis: fol. 382r–389v. _Initium_: Caelum à Caelando,....\n\ne) Tractatus In Methaphysicam: fol. 389v–400r. _Initium_: Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....\n\nFr. Ambrosius Marholt etiam 5 sequentes codices scripsit et ab anno 1679 usque ad annum 1687 monasterio Seitenstettensi praefuit."
   }
 }

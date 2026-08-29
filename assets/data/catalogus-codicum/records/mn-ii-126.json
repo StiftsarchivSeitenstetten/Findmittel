@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-126",
   "signature": "MN II 126",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "79",
   "heading": {
     "title": "(Tractatus De Vitiis et Peccatis)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "non post annum 1676"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 126.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "(Tractatus De Vitiis et Peccatis)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "p. 9–540.",
+      "locus": "p. 9–540",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Disputationis Primae De natura Distinctione et comparatione peccatorum",
+          "text": "ad quaestiones 71; 72; 73; S: Doctoris p. 9: Quamvis Divus Thomas ad Dicta quaestionem 71: de vitiis et peccatis disputare incipiat.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Disputationis Primae De natura Distinctione et comparatione peccatorum",
+        "text": "ad quaestiones 71; 72; 73; S: Doctoris p. 9: Quamvis Divus Thomas ad Dicta quaestionem 71: de vitiis et peccatis disputare incipiat.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -57,14 +74,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus sextus De legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 541–632 (",
+      "locus": "p. 541–632",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 541",
+          "text": "Materiam De legibus quam Divus Thomas a quaestione 90: usque ad 118: inclusive prosequitur......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 541",
+        "text": "Materiam De legibus quam Divus Thomas a quaestione 90: usque ad 118: inclusive prosequitur......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -125,13 +156,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-126/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 126",
     "titles": "(Tractatus De Vitiis et Peccatis) \n(Tractatus De Vitiis et Peccatis) \nTractatus sextus De legibus",
     "persons": "",
-    "incipits": "",
+    "incipits": "ad quaestiones 71; 72; 73; S: Doctoris p. 9: Quamvis Divus Thomas ad Dicta quaestionem 71: de vitiis et peccatis disputare incipiat..... \nMateriam De legibus quam Divus Thomas a quaestione 90: usque ad 118: inclusive prosequitur......",
     "explicits": "",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 126.",
-    "physical": "Papier \n632 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n632 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "632 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben nicht nach 1676.\n\na) **(Abhandlung über Laster und Sünden):** S. 9–540. Anfang der ersten Disputation **Über Natur, Unterscheidung und Vergleich der Sünden** zu den Fragen 71, 72 und 73 des heiligen Lehrers, S. 9: Obwohl der hl. Thomas bei der genannten Frage 71 über Laster und Sünden zu disputieren beginnt.....\n\nb) **Sechste Abhandlung über die Gesetze:** S. 541–632; verstümmelt. Anfang S. 541: Die Materie über die Gesetze, die der hl. Thomas von Frage 90 bis einschließlich 118 behandelt......\n\nRückenaufschrift: **M. S. de Peccatis ac Legibus 1676.** Ob diese Jahreszahl das Jahr der Niederschrift bezeichnet, ist zweifelhaft. Denn auf der Vorderseite des Codex steht **A. A. Z. S. 1676** = Adam Abt zu Seitenstetten 1676, das heißt: Er ließ den Codex 1676 einbinden. Ob er auch im selben Jahr geschrieben wurde, bleibt ungewiss.\n\nVerfasser und Schreiber – es sind mehrere Hände zu unterscheiden – sind unbekannt.\n\n> **Handschriftlicher Nachtrag am Seitenende:** nur teilweise lesbar; er verweist auf die „plures manus“ und die Verteilung einzelner Teile auf verschiedene Schreiber.",
+    "latin": "632 pagg.; teg. a2; script. non post annum 1676\n\na) (Tractatus De Vitiis et Peccatis): p. 9–540. _Initium_ Disputationis Primae De natura Distinctione et comparatione peccatorum: ad quaestiones 71; 72; 73; S: Doctoris p. 9: Quamvis Divus Thomas ad Dicta quaestionem 71: de vitiis et peccatis disputare incipiat.....\n\nb) Tractatus sextus De legibus: p. 541–632 (mutilus!). _Initium_ p. 541: Materiam De legibus quam Divus Thomas a quaestione 90: usque ad 118: inclusive prosequitur......\n\n_Inscriptio dorsi_: M. S. de Peccatis ac Legibus 1676. Qui tamen numerus annalis num indicet annum, quo scriptus sit codex noster, dubitandum est. In parte enim adversa codicis haec scripta sunt: A. A. Z. S. 1676 = Adam Abt zu Seitenstetten 1676, scil. tegumento inclusit codicem. Num vero eodem anno scriptus sit, incertum est.\n\nAuctor et scriptores (nam plures manus distinguendae sunt) ignoti.\n\n> **Handschriftlicher Nachtrag am Seitenende:** nur teilweise lesbar; verweist auf „plures manus“ und die Verteilung einzelner Teile auf verschiedene Schreiber."
   }
 }

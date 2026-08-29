@@ -33,7 +33,7 @@ except ImportError as exc:  # pragma: no cover - friendly CLI failure
         "PyYAML fehlt. Bitte zuerst `pip install -r scripts/requirements-catalogus.txt` ausführen."
     ) from exc
 
-SCHEMA_VERSION = 1
+SCHEMA_VERSION = 2
 BUILD_NAME = "catalogus-web-schema"
 IGNORE_FILES = {"Signaturen_nicht_MN_Uebersicht.md"}
 
@@ -74,10 +74,28 @@ RELATION_LABELS = {
 
 TITLE_TYPE_LABELS = {
     "supplied": "erschlossener Titel",
+    "inferred": "erschlossener Titel",
+    "attested": "überlieferter Titel",
     "original": "überlieferter Titel",
     "shortened_from_original": "aus dem Originaltitel gekürzt",
-    "inferred": "erschlossener Titel",
+    "unspecified": "",
 }
+
+ENTITY_TYPE_LABELS = {
+    "codex": "Codex",
+    "content": "Werk / Inhaltseinheit",
+    "physical_unit": "Physische Einheit",
+    "person": "Person",
+    "incipit": "Incipit",
+    "explicit_colophon": "Explicit / Kolophon",
+    "addition": "Nachtrag / Vermerk",
+    "catalogue": "Historische Katalogbeschreibung",
+}
+
+ENTITY_TYPE_ORDER = [
+    "codex", "content", "physical_unit", "person", "incipit",
+    "explicit_colophon", "addition", "catalogue",
+]
 
 MANUSCRIPT_RELATION_TYPES = {
     "same_work_as", "same_text_as", "same_scribe_as", "possible_same_scribe_as",
@@ -110,7 +128,10 @@ ITEM_MAPPED = {
     "structure", "index", "indexed_parts", "incipit_section", "subitems", "parts",
     "catalogue_title_or_summary", "overall_title", "contents", "context", "genre",
     "language_note", "manuscript_additions", "missing_contents", "part", "printed_work",
-    "publication_status", "relations",
+    "publication_status", "relations", "title_status", "incipits", "explicits",
+    "colophon", "colophons", "fascicle", "notes", "alternate_titles",
+    "edition_statement", "number_of_sessions", "participants", "publication",
+    "subject_person",
 }
 
 
@@ -371,13 +392,33 @@ def normalize_responsibilities(value: Any, *, scope: str, item_id: str | None = 
     return out
 
 
-def normalize_incipit(value: Any) -> dict[str, str] | None:
+def normalize_text_entries(value: Any, kind: str) -> list[dict[str, str]]:
+    """Normalize incipits/explicits/colophons without collapsing multiple occurrences."""
     if not value:
-        return None
-    if isinstance(value, dict):
-        result = {k: plain(v) for k, v in value.items() if plain(v)}
-        return result or None
-    return {"text": plain(value)}
+        return []
+    raw_entries = value if isinstance(value, list) else [value]
+    out: list[dict[str, str]] = []
+    for index, raw in enumerate(raw_entries, start=1):
+        if isinstance(raw, dict):
+            entry = {k: plain(v) for k, v in raw.items() if plain(v)}
+            text = plain(raw.get("text") or raw.get("original") or raw.get("display") or raw.get("content"))
+            if text:
+                entry["text"] = text
+        else:
+            entry = {"text": plain(raw)}
+        if not entry.get("text"):
+            # Preserve unusual structures conservatively rather than dropping them.
+            fallback = plain(raw)
+            if fallback:
+                entry["text"] = fallback
+        if entry.get("text"):
+            entry["id"] = f"{kind}-{index}"
+            out.append(entry)
+    return out
+
+
+def first_text_entry(entries: list[dict[str, str]]) -> dict[str, str] | None:
+    return entries[0] if entries else None
 
 
 def item_title(item: dict[str, Any]) -> str:
@@ -406,11 +447,15 @@ def normalize_item(item: dict[str, Any], index: int, used: set[str], unmapped: C
             unmapped[f"ms_contents.items.{key}"] += 1
 
     title = item_title(item)
-    title_type = plain(item.get("title_type"))
+    title_type = plain(item.get("title_status") or item.get("title_type"))
+    incipits = normalize_text_entries(item.get("incipits") or item.get("incipit"), "incipit")
+    explicits = normalize_text_entries(item.get("explicits") or item.get("explicit"), "explicit")
+    colophons = normalize_text_entries(item.get("colophons") or item.get("colophon"), "colophon")
     result: dict[str, Any] = {
         "id": item_id,
         "label": plain(item.get("label") or item.get("item")),
         "type": plain(item.get("type")),
+        "physicalUnit": plain(item.get("physical_unit") or item.get("fascicle")),
         "title": {
             "text": title,
             "typeRaw": title_type or None,
@@ -418,18 +463,40 @@ def normalize_item(item: dict[str, Any], index: int, used: set[str], unmapped: C
         },
         "locus": plain(item.get("locus")),
         "language": plain(item.get("language") or item.get("languages") or item.get("text_lang") or item.get("text_language")),
-        "incipit": normalize_incipit(item.get("incipit") or item.get("incipits")),
-        "explicit": normalize_incipit(item.get("explicit")),
+        "incipits": incipits,
+        "explicits": explicits,
+        "colophons": colophons,
+        # Compatibility aliases for older frontend code / downstream consumers.
+        "incipit": first_text_entry(incipits),
+        "explicit": first_text_entry(explicits) or first_text_entry(colophons),
         "notes": [],
         "dates": [],
         "persons": [],
         "subitems": [],
     }
-    for key in ("translation", "title_note", "contents_note", "note", "summary", "description", "catalog_statement", "certainty", "status", "completeness", "context", "genre", "language_note", "manuscript_additions", "missing_contents", "part", "printed_work", "publication_status", "contents"):
+    for key in (
+        "translation", "title_note", "contents_note", "note", "summary", "description",
+        "catalog_statement", "certainty", "status", "completeness", "context", "genre",
+        "language_note", "manuscript_additions", "missing_contents", "part", "printed_work",
+        "publication_status", "contents", "alternate_titles", "edition_statement",
+        "number_of_sessions", "participants", "publication", "subject_person",
+    ):
         val = plain(item.get(key))
         if val:
             result["notes"].append({"type": key, "text": val})
-    for key in ("start_date", "start_date_display", "end_date", "end_date_display", "date", "date_display", "content_date", "text_date", "event_date", "alternative_date", "compilation_date", "dated_clausula", "dated_clausulae", "dated_note", "dated_notes"):
+    raw_notes = item.get("notes")
+    if raw_notes:
+        notes_list = raw_notes if isinstance(raw_notes, list) else [raw_notes]
+        for raw_note in notes_list:
+            val = plain(raw_note)
+            if val:
+                result["notes"].append({"type": "notes", "text": val})
+
+    for key in (
+        "start_date", "start_date_display", "end_date", "end_date_display", "date",
+        "date_display", "content_date", "text_date", "event_date", "alternative_date",
+        "compilation_date", "dated_clausula", "dated_clausulae", "dated_note", "dated_notes",
+    ):
         val = plain(item.get(key))
         if val:
             result["dates"].append({"type": key, "display": val})
@@ -464,10 +531,10 @@ def content_units(ms_contents: Any, unmapped: Counter[str]) -> tuple[str, str, l
         raw_title = ms_contents.get("title") or ms_contents.get("overall_title") or ms_contents.get("catalogue_title_or_summary")
         if isinstance(raw_title, dict):
             overall_title = plain(raw_title.get("title") or raw_title.get("text") or raw_title)
-            title_type = plain(raw_title.get("title_type"))
+            title_type = plain(raw_title.get("title_status") or raw_title.get("title_type"))
         else:
             overall_title = plain(raw_title)
-            title_type = plain(ms_contents.get("title_type"))
+            title_type = plain(ms_contents.get("title_status") or ms_contents.get("title_type"))
         top_persons.extend(normalize_responsibilities(ms_contents.get("responsibility"), scope="contents"))
         candidate = ms_contents.get("items")
         if isinstance(candidate, list):
@@ -491,14 +558,17 @@ def normalize_contents_overview(ms_contents: Any) -> dict[str, Any]:
     raw_title = ms_contents.get("title") or ms_contents.get("overall_title") or ms_contents.get("catalogue_title_or_summary")
     if isinstance(raw_title, dict):
         title_text = plain(raw_title.get("title") or raw_title.get("text") or raw_title)
-        title_type = plain(raw_title.get("title_type"))
+        title_type = plain(raw_title.get("title_status") or raw_title.get("title_type"))
         language = plain(raw_title.get("language"))
         translation = plain(raw_title.get("translation"))
     else:
         title_text = plain(raw_title)
-        title_type = plain(ms_contents.get("title_type"))
+        title_type = plain(ms_contents.get("title_status") or ms_contents.get("title_type"))
         language = plain(ms_contents.get("language") or ms_contents.get("languages") or ms_contents.get("text_lang"))
         translation = plain(ms_contents.get("translation"))
+    incipits = normalize_text_entries(ms_contents.get("incipits") or ms_contents.get("incipit"), "incipit")
+    explicits = normalize_text_entries(ms_contents.get("explicits") or ms_contents.get("explicit"), "explicit")
+    colophons = normalize_text_entries(ms_contents.get("colophons") or ms_contents.get("colophon"), "colophon")
     return {
         "title": title_text,
         "titleTypeRaw": title_type,
@@ -507,8 +577,11 @@ def normalize_contents_overview(ms_contents: Any) -> dict[str, Any]:
         "summary": plain(ms_contents.get("summary")),
         "language": language,
         "locus": plain(ms_contents.get("locus")),
-        "incipit": normalize_incipit(ms_contents.get("incipit") or ms_contents.get("incipits")),
-        "explicit": normalize_incipit(ms_contents.get("explicit")),
+        "incipits": incipits,
+        "explicits": explicits,
+        "colophons": colophons,
+        "incipit": first_text_entry(incipits),
+        "explicit": first_text_entry(explicits) or first_text_entry(colophons),
         "part": plain(ms_contents.get("part")),
         "note": plain(ms_contents.get("note")),
         "completeness": plain(ms_contents.get("completeness")),
@@ -694,6 +767,18 @@ def flatten_items(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     return out
 
 
+def flatten_items_with_physical(items: list[dict[str, Any]]) -> list[tuple[dict[str, Any], str]]:
+    """Flatten contents while inheriting an explicitly stated physical unit from a parent item."""
+    out: list[tuple[dict[str, Any], str]] = []
+    def walk(entries: list[dict[str, Any]], inherited_unit: str = "") -> None:
+        for item in entries:
+            unit = plain(item.get("physicalUnit")) or inherited_unit
+            out.append((item, unit))
+            walk(item.get("subitems") or [], unit)
+    walk(items)
+    return out
+
+
 def unique_persons(persons: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
     out: list[dict[str, Any]] = []
     seen: set[tuple[str, str, str, str]] = set()
@@ -705,7 +790,7 @@ def unique_persons(persons: Iterable[dict[str, Any]]) -> list[dict[str, Any]]:
 
 
 def preferred_title(data: dict[str, Any], overall_title: str, items: list[dict[str, Any]]) -> tuple[str, str]:
-    title_type = plain((data.get("ms_contents") or {}).get("title_type")) if isinstance(data.get("ms_contents"), dict) else ""
+    title_type = plain((data.get("ms_contents") or {}).get("title_status") or (data.get("ms_contents") or {}).get("title_type")) if isinstance(data.get("ms_contents"), dict) else ""
     if overall_title:
         return overall_title, title_type
     if items:
@@ -713,27 +798,164 @@ def preferred_title(data: dict[str, Any], overall_title: str, items: list[dict[s
     return f"Handschrift {plain(data.get('signature'))}", "supplied"
 
 
+def entry_texts(entries: Any) -> list[str]:
+    if not isinstance(entries, list):
+        return []
+    return [plain(entry.get("text")) for entry in entries if isinstance(entry, dict) and plain(entry.get("text"))]
+
+
 def record_search_text(record: dict[str, Any]) -> dict[str, str]:
     items = flatten_items(record.get("contents") or [])
     people = record.get("persons") or []
     overview = record.get("contentsOverview") or {}
     title_values = [record["heading"]["title"], plain(overview.get("translation"))] + [i["title"]["text"] for i in items]
-    incipits = [plain(overview.get("incipit"))] + [plain(i.get("incipit")) for i in items]
-    explicits = [plain(overview.get("explicit"))] + [plain(i.get("explicit")) for i in items]
+    incipits = entry_texts(overview.get("incipits")) + [text for i in items for text in entry_texts(i.get("incipits"))]
+    explicits = (
+        entry_texts(overview.get("explicits")) + entry_texts(overview.get("colophons"))
+        + [text for i in items for text in entry_texts(i.get("explicits"))]
+        + [text for i in items for text in entry_texts(i.get("colophons"))]
+    )
     notes = [plain(overview.get(k)) for k in ("summary", "note", "part", "completeness", "language")]
     notes += [plain(n.get("text")) for i in items for n in i.get("notes", [])]
     notes += [plain(n) for n in record.get("editorialNotes", [])]
+    notes += [plain(n) for n in record.get("additions", [])]
     physical = record.get("physicalDescription") or {}
     physical_values = [plain(physical.get(k)) for k in ("support", "extent", "format", "condition", "decoration", "collation", "layout")]
     physical_values += [plain(physical.get("binding"))]
+    physical_values += [plain(unit.get("label")) for unit in record.get("physicalUnits", [])]
     return {
         "signature": record["signature"],
         "titles": " \n".join(filter(None, title_values)),
-        "persons": " \n".join(f"{p.get('name','')} {p.get('roleLabel','')} {p.get('roleRaw','')}" for p in people),
+        "persons": " \n".join(f"{p.get('name','')} {p.get('roleLabel','')} {p.get('roleRaw','')} {p.get('affiliation','')}" for p in people),
         "incipits": " \n".join(filter(None, incipits)),
         "explicits": " \n".join(filter(None, explicits)),
         "notes": " \n".join(filter(None, notes)),
         "physical": " \n".join(filter(None, physical_values)),
+        "german": record.get("catalogue", {}).get("german", ""),
+        "latin": record.get("catalogue", {}).get("latin", ""),
+    }
+
+
+def make_physical_units(record: dict[str, Any]) -> list[dict[str, Any]]:
+    """Create web entities only where a physical unit is explicitly linked to content."""
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for item, unit in flatten_items_with_physical(record.get("contents") or []):
+        if not unit:
+            continue
+        groups.setdefault(unit, []).append(item)
+
+    used_ids: set[str] = set()
+    out: list[dict[str, Any]] = []
+    for label, items in groups.items():
+        stem = "physical-" + slugify(label)
+        entity_id = stem
+        suffix = 2
+        while entity_id in used_ids:
+            entity_id = f"{stem}-{suffix}"
+            suffix += 1
+        used_ids.add(entity_id)
+        people = unique_persons(p for item in items for p in (item.get("persons") or []))
+        out.append({
+            "id": entity_id,
+            "label": label,
+            "itemIds": [item["id"] for item in items],
+            "titles": [item["title"]["text"] for item in items if item.get("title", {}).get("text")],
+            "loci": [item.get("locus", "") for item in items if item.get("locus")],
+            "persons": people,
+            "incipits": [entry for item in items for entry in (item.get("incipits") or [])],
+            "explicits": [entry for item in items for entry in (item.get("explicits") or [])],
+            "colophons": [entry for item in items for entry in (item.get("colophons") or [])],
+        })
+    return out
+
+
+def is_placeholder_person(name: str) -> bool:
+    normalized = normalize_search(name)
+    return normalized in {
+        "", "unbekannt", "unknown", "nicht genannt", "nicht ermittelt",
+        "anonym", "anonymus", "ignotus", "ignoti",
+    }
+
+
+def person_occurrences(record: dict[str, Any]) -> list[dict[str, Any]]:
+    """Group only identical name strings inside one codex; no cross-record person normalization."""
+    groups: dict[str, list[dict[str, Any]]] = {}
+    for person in record.get("persons") or []:
+        name = plain(person.get("name"))
+        if not name or is_placeholder_person(name):
+            continue
+        groups.setdefault(name, []).append(person)
+    out: list[dict[str, Any]] = []
+    used: set[str] = set()
+    item_by_id = {item["id"]: item for item in flatten_items(record.get("contents") or [])}
+    for name, entries in groups.items():
+        stem = "person-" + slugify(name)
+        entity_id = stem
+        suffix = 2
+        while entity_id in used:
+            entity_id = f"{stem}-{suffix}"
+            suffix += 1
+        used.add(entity_id)
+        roles = []
+        affiliations = []
+        item_ids = []
+        notes = []
+        for entry in entries:
+            for value in (entry.get("roleLabel"), entry.get("roleRaw")):
+                if value and value not in roles:
+                    roles.append(value)
+            if entry.get("affiliation") and entry["affiliation"] not in affiliations:
+                affiliations.append(entry["affiliation"])
+            if entry.get("itemId") and entry["itemId"] not in item_ids:
+                item_ids.append(entry["itemId"])
+            for value in (entry.get("certainty"), entry.get("note")):
+                if value and value not in notes:
+                    notes.append(value)
+        out.append({
+            "id": entity_id,
+            "name": name,
+            "roles": roles,
+            "affiliations": affiliations,
+            "itemIds": item_ids,
+            "itemTitles": [item_by_id[item_id]["title"]["text"] for item_id in item_ids if item_id in item_by_id],
+            "notes": notes,
+        })
+    return out
+
+
+def short_text(value: Any, limit: int = 155) -> str:
+    text = re.sub(r"\s+", " ", plain(value)).strip()
+    if len(text) <= limit:
+        return text
+    return text[: max(1, limit - 1)].rstrip() + "…"
+
+
+def addition_display(entry: Any, index: int) -> tuple[str, str, str]:
+    if isinstance(entry, dict):
+        entry_type = plain(entry.get("type"))
+        locus = plain(entry.get("locus"))
+        text = plain(
+            entry.get("text") or entry.get("description") or entry.get("expansion")
+            or entry.get("note") or entry.get("subject") or entry
+        )
+        type_label = entry_type.replace("_", " ") if entry_type else "Nachtrag / Vermerk"
+        title = short_text(text) if text else f"{type_label} {index}"
+        return title, type_label, locus
+    text = plain(entry)
+    return short_text(text) or f"Nachtrag / Vermerk {index}", "Nachtrag / Vermerk", ""
+
+
+def item_search_fields(record: dict[str, Any], item: dict[str, Any]) -> dict[str, str]:
+    people = item.get("persons") or []
+    return {
+        "signature": record["signature"],
+        "titles": item["title"]["text"],
+        "persons": " \n".join(f"{p.get('name','')} {p.get('roleLabel','')} {p.get('roleRaw','')} {p.get('affiliation','')}" for p in people),
+        "incipits": " \n".join(entry_texts(item.get("incipits"))),
+        "explicits": " \n".join(entry_texts(item.get("explicits")) + entry_texts(item.get("colophons"))),
+        "notes": " \n".join(plain(n.get("text")) for n in item.get("notes", [])),
+        "physical": plain(item.get("physicalUnit")),
+        "locus": item.get("locus", ""),
     }
 
 
@@ -748,55 +970,197 @@ def make_search_docs(record: dict[str, Any]) -> list[dict[str, Any]]:
         "repository": record["repository"],
         "url": record["url"],
     }
-    search = record["search"]
-    docs.append({
-        **base,
-        "id": record["id"] + "::manuscript",
-        "type": "manuscript",
-        "sourceLabel": "Strukturierte Erschließung",
-        "title": record["heading"]["title"],
-        "anchor": "",
-        "rank": 100,
-        "fields": search,
-    })
-    for item in flatten_items(record.get("contents") or []):
-        people = item.get("persons") or []
-        item_fields = {
-            "signature": record["signature"],
-            "titles": item["title"]["text"],
-            "persons": " \n".join(f"{p.get('name','')} {p.get('roleLabel','')} {p.get('roleRaw','')}" for p in people),
-            "incipits": plain(item.get("incipit")),
-            "explicits": plain(item.get("explicit")),
-            "notes": " \n".join(plain(n.get("text")) for n in item.get("notes", [])),
-            "locus": item.get("locus", ""),
-        }
+
+    def add_doc(entity_type: str, **kwargs: Any) -> None:
         docs.append({
             **base,
-            "id": record["id"] + "::" + item["id"],
-            "type": "item",
-            "sourceLabel": "Inhaltseinheit",
-            "title": item["title"]["text"],
-            "locus": item.get("locus", ""),
-            "anchor": "#" + item["id"],
-            "rank": 85,
-            "fields": item_fields,
+            "entityType": entity_type,
+            "entityLabel": ENTITY_TYPE_LABELS[entity_type],
+            **kwargs,
         })
+
+    search = record["search"]
+    add_doc(
+        "codex",
+        id=record["id"] + "::codex",
+        type="manuscript",
+        sourceLabel="Codex",
+        title=record["heading"]["title"],
+        anchor="",
+        rank=100,
+        fields=search,
+    )
+
+    item_context = flatten_items_with_physical(record.get("contents") or [])
+    item_by_id = {item["id"]: item for item, _ in item_context}
+    for item, inherited_unit in item_context:
+        fields = item_search_fields(record, item)
+        if inherited_unit and not fields.get("physical"):
+            fields["physical"] = inherited_unit
+        add_doc(
+            "content",
+            id=record["id"] + "::" + item["id"],
+            type="item",
+            sourceLabel="Werk / Inhaltseinheit",
+            title=item["title"]["text"],
+            parentTitle=record["heading"]["title"],
+            locus=item.get("locus", ""),
+            physicalUnit=inherited_unit,
+            anchor="#" + item["id"],
+            rank=85,
+            fields=fields,
+        )
+
+    for unit in record.get("physicalUnits") or []:
+        unit_people = unit.get("persons") or []
+        add_doc(
+            "physical_unit",
+            id=record["id"] + "::" + unit["id"],
+            type="physical_unit",
+            sourceLabel="Physische Einheit",
+            title=unit["label"],
+            parentTitle=record["heading"]["title"],
+            locus="; ".join(unit.get("loci") or []),
+            anchor="#" + unit["id"],
+            rank=80,
+            fields={
+                "signature": record["signature"],
+                "titles": " \n".join(unit.get("titles") or []),
+                "persons": " \n".join(f"{p.get('name','')} {p.get('roleLabel','')} {p.get('roleRaw','')}" for p in unit_people),
+                "incipits": " \n".join(entry_texts(unit.get("incipits"))),
+                "explicits": " \n".join(entry_texts(unit.get("explicits")) + entry_texts(unit.get("colophons"))),
+                "notes": "",
+                "physical": unit["label"],
+            },
+        )
+
+    for person in person_occurrences(record):
+        linked_titles = person.get("itemTitles") or []
+        add_doc(
+            "person",
+            id=record["id"] + "::" + person["id"],
+            type="person",
+            sourceLabel="Personenangabe",
+            title=person["name"],
+            parentTitle=record["heading"]["title"],
+            roleDisplay=", ".join(person.get("roles") or []),
+            anchor="#persons",
+            rank=75,
+            fields={
+                "signature": record["signature"],
+                "titles": "",
+                "persons": " ".join([person["name"]] + (person.get("roles") or []) + (person.get("affiliations") or [])),
+                "incipits": "",
+                "explicits": "",
+                "notes": " \n".join(person.get("notes") or []),
+                "physical": "",
+            },
+        )
+
+    for item, _unit in item_context:
+        parent_title = item["title"]["text"]
+        for index, entry in enumerate(item.get("incipits") or [], start=1):
+            text = plain(entry.get("text"))
+            add_doc(
+                "incipit",
+                id=f"{record['id']}::{item['id']}::incipit-{index}",
+                type="incipit",
+                sourceLabel="Incipit",
+                title=short_text(text),
+                parentTitle=parent_title,
+                locus=plain(entry.get("locus")) or item.get("locus", ""),
+                anchor=f"#{item['id']}-incipit-{index}",
+                rank=70,
+                fields={
+                    "signature": record["signature"],
+                    "titles": "",
+                    "persons": "",
+                    "incipits": text,
+                    "explicits": "",
+                    "notes": " ".join(filter(None, [plain(entry.get("label")), plain(entry.get("note"))])),
+                    "physical": plain(item.get("physicalUnit")),
+                },
+            )
+        for kind, key, label, source_label in (
+            ("explicit", "explicits", "Explicit", "Explicit"),
+            ("colophon", "colophons", "Kolophon", "Kolophon"),
+        ):
+            for index, entry in enumerate(item.get(key) or [], start=1):
+                text = plain(entry.get("text"))
+                add_doc(
+                    "explicit_colophon",
+                    id=f"{record['id']}::{item['id']}::{kind}-{index}",
+                    type=kind,
+                    sourceLabel=source_label,
+                    subtype=kind,
+                    title=short_text(text),
+                    parentTitle=parent_title,
+                    locus=plain(entry.get("locus")) or item.get("locus", ""),
+                    anchor=f"#{item['id']}-{kind}-{index}",
+                    rank=65,
+                    fields={
+                        "signature": record["signature"],
+                        "titles": "",
+                        "persons": "",
+                        "incipits": "",
+                        "explicits": text,
+                        "notes": " ".join(filter(None, [plain(entry.get("label")), plain(entry.get("note"))])),
+                        "physical": plain(item.get("physicalUnit")),
+                    },
+                )
+
+    for index, entry in enumerate(record.get("additions") or [], start=1):
+        title, subtype, locus = addition_display(entry, index)
+        add_doc(
+            "addition",
+            id=f"{record['id']}::addition-{index}",
+            type="addition",
+            sourceLabel="Nachtrag / Vermerk",
+            subtype=subtype,
+            title=title,
+            parentTitle=record["heading"]["title"],
+            locus=locus,
+            anchor=f"#addition-{index}",
+            rank=55,
+            fields={
+                "signature": record["signature"],
+                "titles": "",
+                "persons": "",
+                "incipits": "",
+                "explicits": "",
+                "notes": plain(entry),
+                "physical": "",
+            },
+        )
+
     for lang, key, label, rank in (
         ("de", "german", "Deutsche Übersetzung", 35),
         ("la", "latin", "Lateinischer Originaltext", 30),
     ):
         raw = record["catalogue"][key]
         if raw:
-            docs.append({
-                **base,
-                "id": record["id"] + "::catalogue-" + lang,
-                "type": "catalogue_" + lang,
-                "sourceLabel": label,
-                "title": record["heading"]["title"],
-                "anchor": "#catalogue-" + lang,
-                "rank": rank,
-                "fields": {"catalogue": raw, "signature": record["signature"]},
-            })
+            add_doc(
+                "catalogue",
+                id=record["id"] + "::catalogue-" + lang,
+                type="catalogue_" + lang,
+                sourceLabel=label,
+                language=lang,
+                title=record["heading"]["title"],
+                anchor="#catalogue-" + lang,
+                rank=rank,
+                fields={
+                    "catalogue": raw,
+                    "german": raw if lang == "de" else "",
+                    "latin": raw if lang == "la" else "",
+                    "signature": record["signature"],
+                    "titles": "",
+                    "persons": "",
+                    "incipits": "",
+                    "explicits": "",
+                    "notes": "",
+                    "physical": "",
+                },
+            )
     return docs
 
 
@@ -932,6 +1296,7 @@ def build(source_dir: Path, repo_root: Path) -> dict[str, Any]:
             alias_map[key].add(record["id"])
     for record in raw_entries:
         record["relations"] = normalize_relations(record.pop("relationsRaw"), raw_entries, alias_map)
+        record["physicalUnits"] = make_physical_units(record)
         record["search"] = record_search_text(record)
 
     # Statistics and warnings after relation/date normalization.
@@ -957,10 +1322,18 @@ def build(source_dir: Path, repo_root: Path) -> dict[str, Any]:
 
     repositories = Counter(r["repository"] for r in raw_entries)
     item_count = sum(len(flatten_items(r["contents"])) for r in raw_entries)
-    incipit_count = sum(1 for r in raw_entries for i in flatten_items(r["contents"]) if i.get("incipit"))
-    explicit_count = sum(1 for r in raw_entries for i in flatten_items(r["contents"]) if i.get("explicit"))
+    incipit_count = sum(len(i.get("incipits") or []) for r in raw_entries for i in flatten_items(r["contents"]))
+    explicit_count = sum(len(i.get("explicits") or []) for r in raw_entries for i in flatten_items(r["contents"]))
+    colophon_count = sum(len(i.get("colophons") or []) for r in raw_entries for i in flatten_items(r["contents"]))
     relation_count = sum(len(r.get("relations", [])) for r in raw_entries)
+    physical_unit_count = sum(len(r.get("physicalUnits") or []) for r in raw_entries)
     filterable_dates = sum(1 for r in raw_entries if r["date"].get("intervals"))
+    entity_type_counts = Counter(doc.get("entityType", "unknown") for doc in search_docs)
+    entity_record_counts = {
+        entity_type: len({doc["recordId"] for doc in search_docs if doc.get("entityType") == entity_type})
+        for entity_type in ENTITY_TYPE_ORDER
+        if entity_type_counts.get(entity_type)
+    }
 
     manifest = {
         "schema": BUILD_NAME,
@@ -969,6 +1342,16 @@ def build(source_dir: Path, repo_root: Path) -> dict[str, Any]:
         "recordCount": len(raw_entries),
         "itemCount": item_count,
         "searchDocumentCount": len(search_docs),
+        "entityTypes": [
+            {
+                "id": entity_type,
+                "label": ENTITY_TYPE_LABELS[entity_type],
+                "count": entity_type_counts.get(entity_type, 0),
+                "recordCount": entity_record_counts.get(entity_type, 0),
+            }
+            for entity_type in ENTITY_TYPE_ORDER
+            if entity_type_counts.get(entity_type)
+        ],
         "repositories": dict(repositories),
         "filterableDateRecordCount": filterable_dates,
         "records": [
@@ -987,9 +1370,14 @@ def build(source_dir: Path, repo_root: Path) -> dict[str, Any]:
         "statistics": {
             "records": len(raw_entries),
             "items": item_count,
+            "physicalUnits": physical_unit_count,
             "incipits": incipit_count,
             "explicits": explicit_count,
+            "colophons": colophon_count,
             "relations": relation_count,
+            "searchDocuments": len(search_docs),
+            "entityTypes": dict(entity_type_counts),
+            "entityTypeRecordCounts": entity_record_counts,
             "filterableDates": filterable_dates,
             "repositories": dict(repositories),
         },
@@ -1002,6 +1390,9 @@ def build(source_dir: Path, repo_root: Path) -> dict[str, Any]:
             "Aus display abgeleitete Datumsintervalle werden nur bei einfachen, eindeutigen Jahresangaben erzeugt.",
             "Unbekannte Rollen und Relationstypen werden im Webmodell mit ihrem Rohwert erhalten.",
             "Die wissenschaftlichen Masterdateien werden durch den Build nicht verändert.",
+            "Die Web-Entität 'Werk / Inhaltseinheit' entspricht einer konkreten ms_contents.items-Einheit und ist keine normierte abstrakte Werkentität.",
+            "Physische Einheiten werden nur erzeugt, wenn die Masterdaten eine Einheit explizit mit einer Inhaltseinheit verknüpfen (z. B. physical_unit: Faszikel I).",
+            "Personen werden im Suchindex nur innerhalb eines Codex bei identischem Namensstring zusammengeführt; es findet keine globale Personennormalisierung statt.",
         ],
     }
     json_dump(data_dir / "manifest.json", manifest)
@@ -1027,7 +1418,9 @@ def main() -> None:
     s = report["statistics"]
     print(
         f"Catalogus-Build erfolgreich: {s['records']} Handschriften, {s['items']} Inhaltseinheiten, "
-        f"{s['relations']} Relationen, {s['filterableDates']} Datensätze mit Datumsfilter."
+        f"{s['physicalUnits']} explizite physische Einheiten, {s['incipits']} Incipits, "
+        f"{s['colophons']} Kolophone, {s['relations']} Relationen, "
+        f"{s['filterableDates']} Datensätze mit Datumsfilter."
     )
     if report["warnings"]:
         print("Warnungen:")

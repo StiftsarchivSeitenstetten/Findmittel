@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 59
 ms_contents:
-  title: "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen"
   items:
-  - label: "a"
-    title: "Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen"
-    locus: "S. 1–264"
+  - label: a
+    title: Guter Samen auf ein gutes Erdreich ein Lehr und Gebethbuch für gutgesinnte Christen
+    locus: S. 1–264
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

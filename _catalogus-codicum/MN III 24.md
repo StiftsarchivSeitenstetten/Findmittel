@@ -9,14 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 24
 ms_contents:
-  title: "Exercitia ad syntaxin Latinam discendam"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Exercitia ad syntaxin Latinam discendam"
-    title_type: "supplied"
-    locus: "S. 1–246"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; grammatische Regeln und ihre Erklärungen sind deutsch, die Beispiele lateinisch."
+  - label: a
+    title: Exercitia ad syntaxin Latinam discendam
+    locus: p. 5
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; grammatische Regeln und ihre Erklärungen sind deutsch,
+      die Beispiele lateinisch.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

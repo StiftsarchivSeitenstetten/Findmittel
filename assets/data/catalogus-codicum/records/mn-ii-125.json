@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-125",
   "signature": "MN II 125",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "37a",
   "heading": {
-    "title": "Praefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Praefatio In Casus Conscientiae",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "anno 1652"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 125.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Praefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Praefatio In Casus Conscientiae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 3 - 8.",
+      "locus": "p. 3 - 8",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 3",
+          "text": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 3",
+        "text": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -57,15 +74,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus I De actibus humanis: p. 9 - 538. Initium Quaestionis I p. 9: actus humanus proprie est, qui â voluntate deliberatâ procedit.... Clausula: absolvimus 24 Maii.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus I De actibus humanis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 9 - 538.",
+      "locus": "p. 9 - 538",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 9",
+          "label": "Quaestionis I",
+          "text": "actus humanus proprie est, qui â voluntate deliberatâ procedit....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "absolvimus 24 Maii.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 9",
+        "label": "Quaestionis I",
+        "text": "actus humanus proprie est, qui â voluntate deliberatâ procedit....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "absolvimus 24 Maii.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -75,14 +116,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus II De vitiis et peccatis): p. 541 - 661. Initium p. 541: Post Tractationem de actibus humanis in genere....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus II De vitiis et peccatis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "p. 541 - 661.",
+      "locus": "p. 541 - 661",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 541",
+          "text": "Post Tractationem de actibus humanis in genere....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 541",
+        "text": "Post Tractationem de actibus humanis in genere....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -150,13 +205,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-125/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 125",
-    "titles": "Praefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat.... \nPraefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat.... \nTractatus I De actibus humanis: p. 9 - 538. Initium Quaestionis I p. 9: actus humanus proprie est, qui â voluntate deliberatâ procedit.... Clausula: absolvimus 24 Maii. \n(Tractatus II De vitiis et peccatis): p. 541 - 661. Initium p. 541: Post Tractationem de actibus humanis in genere....",
-    "persons": "P. Udalricus Freyberger author or lecturer author_or_lecturer",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Praefatio In Casus Conscientiae \nPraefatio In Casus Conscientiae \nTractatus I De actibus humanis \nTractatus II De vitiis et peccatis",
+    "persons": "P. Udalricus Freyberger author or lecturer author_or_lecturer ",
+    "incipits": "Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat.... \nactus humanus proprie est, qui â voluntate deliberatâ procedit.... \nPost Tractationem de actibus humanis in genere....",
+    "explicits": "absolvimus 24 Maii.",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 125.",
-    "physical": "Papier \n774 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n774 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "774 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1652.\n\na) **Vorrede zu den Gewissensfällen:** S. 3–8. Anfang S. 3: Theologie bedeutet nach der Etymologie des Namens Rede von Gott und den göttlichen Dingen....\n\nb) **Erste Abhandlung über die menschlichen Handlungen:** S. 9–538. Anfang der ersten Frage S. 9: Ein menschlicher Akt ist im eigentlichen Sinn jener, der aus dem überlegten Willen hervorgeht.... Schluss: Wir beendeten [dies] am 24. Mai.\n\nc) **(Zweite Abhandlung über Laster und Sünden):** S. 541–661. Anfang S. 541: Nach der Behandlung der menschlichen Handlungen im Allgemeinen....\n\nRückenaufschrift: **Casus Conscientiae Salisburgenses M. S.**\n\nAuf der Vorderseite des Einbandes steht: **A.A.Z.S. 1676** = Adam Abt zu Seitenstetten 1676. Diese Aufschrift besagt jedoch lediglich, dass der Codex 1676 eingebunden wurde. Vergleicht man ihn mit MN II 59, zeigt sich sofort, dass beide dieselben Abhandlungen enthalten; nur endet die zweite Abhandlung in MN II 125 unvollständig mit dem zweiten Fall des dritten Artikels der vierten Frage. Beide Fassungen der ersten Abhandlung wurden am 24. Mai beendet; MN II 59 nennt dazu ausdrücklich das Jahr 1652. Daher steht fest, dass auch unser Codex 1652 geschrieben wurde.\n\nDer Vergleich mit MN II 59 zeigt ferner, dass Verfasser beider Abhandlungen P. Udalricus Freyberger, Benediktiner und Prior von St. Peter in Salzburg, Doktor der heiligen Theologie und damaliger ordentlicher Professor der Gewissensfälle, war.\n\nDieselben oder nahezu dieselben Abhandlungen enthalten auch MN II 55, MN II 59, MN II 64 sowie die Teile a und b von MN II 66. Der Schreiber ist unbekannt.",
+    "latin": "774 pagg.; teg. a1; script. anno 1652\n\na) *Praefatio In Casus Conscientiae:* p. 3 - 8. *Initium* p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....\n\nb) *Tractatus I De actibus humanis:* p. 9 - 538. *Initium* Quaestionis I p. 9: actus humanus proprie est, qui â voluntate deliberatâ procedit.... *Clausula:* absolvimus 24 Maii.\n\nc) *(Tractatus II De vitiis et peccatis):* p. 541 - 661. *Initium* p. 541: Post Tractationem de actibus humanis in genere....\n\nInscriptio dorsi: Casus Conscientiae Salisburgenses M. S.\n\nInscriptio partis adversae tegumenti: A.A.Z.S. 1676 (= Adam Abt Zu Seittenstetten 1676); quae tamen inscriptio nil indicat, nisi tegumento munitum esse codicem nostrum anno 1676. Nam codicem nostrum si comparaveris cum codice proximo MN II 59, mox videbis utrumque codicem eosdem tractatus continere, nisi quod tractatus alter in codice MN II 125 utpote imperfecte scriptus cum casu secundo Articuli tertii Quaestionis quartae desinit. Etenim praeter eadem initia invenies codicem MN II 125 tractatum priorem 24 Maii absolutum esse, eundem vero tractatum codicis MN II 59 24 Maii. Anno 1.6.5.2. Certum est igitur codicem nostrum anno 1652 scriptum esse.\n\nInsuper e comparatione codicis nostri cum condice MN II 59 auctorem esse utriusque tractatus P. Udalricum Freyberger Ordinis S. Patris Nostri Benedicti Priorem in Celeberrimo monasterio ad S. Petrum Salisburgi, Sacrosanctae Theologiae Doctorem et in illo tempore casuum conscientiae Professorem ordinarium.\n\nEosdem autem tractatus non solum codex proximus MN II 59 exhibet, sed etiam Cod. MN II 55 (vide supra p. 35/36!), Cod. MN II 64 (vide infra p. 40!) et fere eosdem pars a et b Codicis MN II 66 (infra p. 43!). Scriptor ignotus."
   }
 }

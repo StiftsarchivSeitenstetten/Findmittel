@@ -14,10 +14,21 @@ ms_contents:
     title: Tractatus De Divina Gratia
     locus: fol. 1r–126v
     end_date: '1694-05-19'
+    incipits:
+    - text: Prooemium. Quandoquidem homini ad veram aeternamque felicitatem aspiranti.....
+    colophons:
+    - text: Absolvimus hunc Tractatum de gratia die 19 Maii 1694.
+    title_status: unspecified
   - label: b
     title: Tractatus De Virtutibus Theologicis, Fide, Spe et Charitate
     locus: fol. 128r–197v
     end_date: '1694-08-28'
+    incipits:
+    - label: Prooemii
+      text: Cum operari sequatur ad esse,.....
+    colophons:
+    - text: Absolvimus hunc tractatum De Virtutibus Fide, Spe, et Charitate die 28 Augusti 1694.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

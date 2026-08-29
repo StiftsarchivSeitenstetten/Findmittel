@@ -17,12 +17,22 @@ ms_contents:
   items:
   - label: a
     title: In librum tertium Decretalium
-    locus: S. 1–344
-    title_type: supplied
-    completeness: Bis zum Anfang des 22. Titels.
+    locus: p. 1–344
+    completeness:
+      status: defective
+      note: Bis zum Anfang des 22. Titels.
+    incipits:
+    - label: Tituli Primi De Vita et honestate Clericorum
+      text: 'p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....'
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus In Librum quartum Decretalium
-    locus: S. 387–580
+    locus: p. 1–193
+    incipits:
+    - locus: p. 387
+      text: Praefatio. Totus hic liber tractat de matrimonio....
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: P. Bernardus Leittner

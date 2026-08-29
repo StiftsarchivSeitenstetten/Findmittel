@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-70",
   "signature": "MN II 70",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "45–46",
   "heading": {
     "title": "Commentarius In Octo Libros Physicorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1654/55"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Octo Libros Physicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–257",
+      "locus": "p. 1",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Proloquii",
+          "text": "Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 257",
+          "text": "absolvimus hos libros physicorum 9 Januarii Anno 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Proloquii",
+        "text": "Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 257",
+        "text": "absolvimus hos libros physicorum 9 Januarii Anno 1655.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,15 +93,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus II. in IV. Libros De Coelo et Mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 257a–355",
+      "locus": "p. 257",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 258",
+          "label": "Prooemii",
+          "text": "Postquam philosophus in 8 physicorum egit de corpore naturali in communi....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 355",
+          "text": "absolvimus 13 februarii.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 258",
+        "label": "Prooemii",
+        "text": "Postquam philosophus in 8 physicorum egit de corpore naturali in communi....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 355",
+        "text": "absolvimus 13 februarii.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -168,13 +223,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 70",
     "titles": "Commentarius In Octo Libros Physicorum \nCommentarius In Octo Libros Physicorum \nTractatus II. in IV. Libros De Coelo et Mundo",
-    "persons": "P. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nVIII + 368 Seiten \ncode: a2; description: Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+    "persons": "P. Anselm Schlager Dozent lecturer  \nFr. Adam Piringer Schreiber scribe ",
+    "incipits": "Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos.... \nPostquam philosophus in 8 physicorum egit de corpore naturali in communi....",
+    "explicits": "absolvimus hos libros physicorum 9 Januarii Anno 1655. \nabsolvimus 13 februarii.",
+    "notes": ".F.A.P.P.S.",
+    "physical": "Papier \nVIII + 368 Seiten \ncode: a2; description: Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+    "german": "VIII + 368 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 68; geschrieben 1654/55.\n\na) **Kommentar zu den acht Büchern der Physik, vorgetragen von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten Kloster Seitenstetten in Niederösterreich, im Jahr 1654.**\n\nAnfang der Vorrede S. 1: Nachdem wir die schreckliche Wüste (der Logik) durchquert haben, gelangen wir zu den lieblichen Gefilden der Physik.... Schluss S. 257: **Wir beendeten diese Bücher der Physik am 9. Januar 1655.**\n\nb) **Zweite Abhandlung zu den vier Büchern Über den Himmel und die Welt:** S. 257a–355. Anfang der Vorrede S. 258: Nachdem der Philosoph in den acht Büchern der Physik vom Naturkörper im Allgemeinen gehandelt hat.... Schluss S. 355: **Wir beendeten [dies] am 13. Februar.**\n\nDieselben Abhandlungen findet man auch in Codex MN II 67 (oben S. 44). Auf der Vorderseite des Einbandes stehen die Initialen **.F.A.P.P.S.** = Frater Adamus Piringer Professus Seittenstettensis (über ihn siehe oben bei MN II 69).",
+    "latin": "VIII + 368 pagg.; teg. a2 (ut in codice MN II 68)\n\na) Commentarius In Octo Libros Physicorum Traditus A.... **P. Anselmo Schlager** Monacho Benedictino Andecensi Exceptus A Religioso F. **Adamo Piringer** eiusdem ordinis Monacho Professo in celebri Monasterio Seittenstettensi Austriae Inferioris Anno 1654.\n\n\n\n\nInitium Proloquii p. 1: Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos.... Clausula p. 257: absolvimus hos libros physicorum 9 Januarii Anno 1655.\n\nb) Tractatus II. in IV. Libros De Coelo et Mundo: p. 257a–p. 355. Initium Prooemii p. 258: Postquam philosophus in 8 physicorum egit de corpore naturali in communi.... Clausula p. 355: absolvimus 13 februarii.\n\nEosdem tractatus invenies etiam in codice MN II 67 (supra p. 44). Adverso in tegumento litterae initiales .F.A.P.P.S. = Frater Adamus Piringer Professus Seittenstettensis (de quo supra ad MN II 69)."
   }
 }

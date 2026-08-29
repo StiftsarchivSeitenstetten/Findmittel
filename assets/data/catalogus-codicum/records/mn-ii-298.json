@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-298",
   "signature": "MN II 298",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "240",
   "heading": {
     "title": "Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1758"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–86v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Register Deren in disen Tractat Befindlichen Rechnungs Regl[n]",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 87r–88v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -160,13 +171,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-298/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 298",
     "titles": "Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758 \nFundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758 \nRegister Deren in disen Tractat Befindlichen Rechnungs Regl[n]",
-    "persons": "P. Bernardus Pampichler Autor author \nJosephus Pampichler Besitzer owner \nJosephus Pampichler Schreiber scribe",
+    "persons": "P. Bernardus Pampichler Autor author  \nJosephus Pampichler Besitzer owner  \nJosephus Pampichler Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \ntomus transversus (latior quam altior) \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext."
+    "physical": "Papier \ntomus transversus (latior quam altior) \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere Verzierungen siehe Katalogtext.",
+    "german": "Querformat, breiter als hoch; 88 Blätter; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1758.\n\n**Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758:** fol. 1r–86v, mit Register **Register Deren in disen Tractat Befindlichen Rechnungs Regl[n]:** fol. 87r–88v.\n\nDie gesamte Abhandlung ist deutsch verfasst.\n\nNotiz am unteren Rand des Titelblattes: **Josephi Pampichler Poetae. Anno 1758.**\n\nNotiz auf einem Vorsatzblatt: **Conscripsit Reverendus P. Bernardus Pampichler à S. Vincentio Scholarum Piarum Sacerdos in Collegio Hornano pie defunctus Anno MDCCLXII (1762).**\n\nDemnach scheint P. Bernardus Pampichler der Verfasser unserer Abhandlung zu sein. Ungewiss bleibt, ob Josephus Pampichler – wahrscheinlich identisch mit dem späteren Seitenstettner P. Maximilianus Pampichler, wie oben bei MN II 296 gezeigt – den Codex nur besaß oder auch eigenhändig abschrieb.",
+    "latin": "tomus transversus (latior quam altior); 88 foll.; teg. b1; 1758\n\n**Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758:** fol. 1r–86v cum indice: **Register Deren in disen Tractat Befindlichen Rechnungs Regl[n]:** fol. 87r–88v.\n\nTotus tractatus lingua Germanica compositus est.\n\nNota in margine inferiore folii titularis: **Josephi Pampichler Poetae. Anno 1758.**\n\nNota in folio praeliminari: **Conscripsit Reverendus P. Bernardus Pampichler à S. Vincentio Scholarum Piarum Sacerdos in Collegio Hornano pie defunctus Anno MDCCLXII (1762).** Videtur igitur ille P. Bernardus Pampichler auctor esse tractatus nostri. At incertum est, utrum Josephus Pampichler, quem probabiliter eundem esse atque P. Maximilianum Pampichler, monachum Seitenstettensem, iam supra p. 239 ad codicem MN II 296 demonstravimus, codicem nostrum possederit tantum an etiam sua manu descripserit."
   }
 }

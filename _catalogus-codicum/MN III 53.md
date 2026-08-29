@@ -9,10 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 53
 ms_contents:
-  title: "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter"
   items:
-  - label: "a"
-    title: "Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus erlösene Morgen- Abend Meß Beicht und Comunion Gebetter"
+  - label: a
+    title: Geistliches. Baum Gärtlein Allen In Gott Christlich Lebenden Seelen zu Nutz und mehrern Eifer zusammen getragen. Darinnen Schöne aus
+      erlösene Morgen- Abend Meß Beicht und Comunion Gebetter
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

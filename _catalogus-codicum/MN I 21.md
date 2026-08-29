@@ -14,35 +14,41 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 21"
 ms_contents:
-  overall_title:
-    title: "Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli)"
-    title_type: "supplied_with_original_wording"
-    language: "de"
   items:
-    - item: 1
-      title: "Vorrede des gottseligen Verfassers"
-      locus: "S. 2"
-    - item: 2
-      title: "Zusätze zum geistlichen Kampfe"
-      locus: "S. 3–37"
-    - item: 3
-      title: "Vom innerlichen Frieden oder der Weg zum Himmel"
-      locus: "S. 38–61"
-    - item: 4
-      title: "Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten"
-      locus: "S. 62–109"
-    - item: 5
-      title: "Verzeichniß"
-      locus: "S. 109–113"
-      note: "Register der einzelnen Kapitel dieses Codex."
+  - item: 1
+    title: Vorrede des gottseligen Verfassers
+    locus: p. 2
+    title_status: unspecified
+  - item: 2
+    title: Zusätze zum geistlichen Kampfe
+    locus: p. 3–37
+    title_status: unspecified
+  - item: 3
+    title: Vom innerlichen Frieden oder der Weg zum Himmel
+    locus: p. 38–61
+    title_status: unspecified
+  - item: 4
+    title: Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten
+    locus: p. 62–109
+    title_status: unspecified
+  - item: 5
+    title: Verzeichniß
+    locus: p. 109–113
+    note: Register der einzelnen Kapitel dieses Codex.
+    title_status: unspecified
   responsibility:
-    - role: "original_author"
-      name: "Laurentius Scupuli"
-    - role: "translator"
-      name: "unbekannt"
+  - role: original_author
+    name: Laurentius Scupuli
+  - role: translator
+    name: unbekannt
   relations:
-    - type: "continuation_of"
-      target: "[[MN I 20]]"
+  - type: continuation_of
+    target: '[[MN I 20]]'
+  title: Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli)
+  languages:
+  - de
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: "codex"
   format: "Großquart"

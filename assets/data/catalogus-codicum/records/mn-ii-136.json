@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-136",
   "signature": "MN II 136",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "95–96",
   "heading": {
     "title": "De Conscientia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1681"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 136.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Conscientia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 5 - 174. I",
+      "locus": "p. 5 - 174",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Tractatus Theologici quarti De Conscientia",
+          "text": "Cum duplex iuxta S. Doctorem.....sit regula actuum.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Tractatus Theologici quarti De Conscientia",
+        "text": "Cum duplex iuxta S. Doctorem.....sit regula actuum.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,15 +82,48 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus quintus De Vitiis et peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 174 - 602. I",
+      "locus": "p. 174 - 602",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 174",
+          "text": "Ad tractatum de ultimo fine hominis non solum pertinet.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "p. 601",
+          "label": "praelegentis",
+          "text": "....Cursum Theologicum post octennium consumatum finio.....",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [
+        {
+          "locus": "p. 602",
+          "label": "scribentis",
+          "text": "Absolvimus cursum nostrum Theologicum 12 die Augusti Anno ....millesimo sexcentesimo octuagesimo primo (1681). Sub....Patre Gregorio Wibmperger ordinis S. P. Benedicti Celeberrimi monasterii Cremifanensis in superiori Austria Professo Sacrosanctae Theologiae Doctore et Professore",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 174",
+        "text": "Ad tractatum de ultimo fine hominis non solum pertinet.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 601",
+        "label": "praelegentis",
+        "text": "....Cursum Theologicum post octennium consumatum finio.....",
+        "id": "explicit-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -144,13 +196,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-136/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 136",
     "titles": "De Conscientia \nDe Conscientia \nTractatus quintus De Vitiis et peccatis",
-    "persons": "P. Gregorius Wimberger Dozent lecturer",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Gregorius Wimberger Dozent lecturer ",
+    "incipits": "Cum duplex iuxta S. Doctorem.....sit regula actuum. \nAd tractatum de ultimo fine hominis non solum pertinet.....",
+    "explicits": "....Cursum Theologicum post octennium consumatum finio..... \nAbsolvimus cursum nostrum Theologicum 12 die Augusti Anno ....millesimo sexcentesimo octuagesimo primo (1681). Sub....Patre Gregorio Wibmperger ordinis S. P. Benedicti Celeberrimi monasterii Cremifanensis in superiori Austria Professo Sacrosanctae Theologiae Doctore et Professore",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 136.",
-    "physical": "Papier \n602 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n602 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "602 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1681.\n\na) **Über das Gewissen:** S. 5–174. Anfang der vierten theologischen Abhandlung über das Gewissen S. 5: Da es nach dem heiligen Lehrer eine doppelte Regel der Handlungen gibt.....\n\nb) **Fünfte Abhandlung über Laster und Sünden:** S. 174–602. Anfang S. 174: Zur Abhandlung über das letzte Ziel des Menschen gehört nicht nur..... Schluss des Lehrenden S. 601: ...Ich beende den nach acht Jahren vollendeten theologischen Kurs..... Schluss des Schreibers S. 602: Wir beendeten unseren theologischen Kurs am 12. August 1681 unter P. Gregorius Wimberger, Benediktiner von Kremsmünster in Oberösterreich, Doktor der heiligen Theologie und ordentlicher Professor, damals Rector magnificus.\n\nDerselbe Schreiber schrieb auch die Codices MN II 138, MN II 137 und MN II 168.",
+    "latin": "602 pagg.; teg. a2; script. 1681\n\na) De Conscientia: p. 5 - 174. Initium Tractatus Theologici quarti De Conscientia p. 5: Cum duplex iuxta S. Doctorem.....sit regula actuum.\n\nb) Tractatus quintus De Vitiis et peccatis: p. 174 - 602. Initium p. 174: Ad tractatum de ultimo fine hominis non solum pertinet..... Clausula praelegentis p. 601: ....Cursum Theologicum post octennium consumatum finio..... Clausula scribentis p. 602: Absolvimus cursum nostrum Theologicum 12 die Augusti Anno ....millesimo sexcentesimo octuagesimo primo (1681). Sub....Patre Gregorio Wibmperger ordinis S. P. Benedicti Celeberrimi monasterii Cremifanensis in superiori Austria Professo Sacrosanctae Theologiae Doctore et Professore\n\n\n\nordinario pro tempore Rectore Magnifico.\n\nIdem scriptor, qui codicem nostrum, etiam codices MN II 138, 137, 168 (vide supra p. 94 et 95) exaravit."
   }
 }

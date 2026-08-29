@@ -13,30 +13,46 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus. in quo agitur De Logica minori Seu Dialectica
-    locus: S. 3–63
-    incipit: Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos
+    locus: p. 3–63
+    incipits:
+    - text: Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos, .....
+      locus: p. 5
+    title_status: unspecified
   - label: b
     title: Tractatus Secundus De Logica Majori
-    locus: S. 65–162
-    incipit: Caput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat
+    locus: p. 65–162
+    incipits:
+    - text: Caput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat,......
+      locus: p. 67
+    title_status: unspecified
   - label: c
     title: Tractatus Tertius De Metaphysica
-    locus: S. 163–256
-    incipit: Metaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus
+    locus: p. 163–256
+    incipits:
+    - text: Metaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus, ......
+      locus: p. 165
+    title_status: unspecified
   - label: d
     title: 50 Parerga ex Dialectica, Prolegomenis logicae, logica Majori, Metaphysica
-    title_type: supplied
-    locus: S. 256–260
+    locus: p. 256–260
     note: Nur die Zahl „50“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
   - label: e
     title: Tractatus quartus De Physica generali et Particulari
-    locus: S. 261–344
-    incipit: Physica, quae a graeco vocabulo Physis derivata
+    locus: p. 261–344
     end_date_display: 16. Mai 1768
+    incipits:
+    - text: Physica, quae a graeco vocabulo Physis derivata.....
+      locus: p. 263
+    colophons:
+    - text: Absolvi 16 Maii 1768.
+    title_status: unspecified
   - label: f
     title: Parerga ex Physica Generali et Particulari
-    locus: S. 345–346
+    locus: p. 345/46
     note: Der Katalog ergänzt in runden Klammern die Nummern 51–83; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

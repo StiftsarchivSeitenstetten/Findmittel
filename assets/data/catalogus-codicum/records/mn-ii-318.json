@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-318",
   "signature": "MN II 318",
   "aliases": [
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Annales a prima Olympiade usque ad Christum natum",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Annales a prima Olympiade usque ad Christum natum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–249",
+      "locus": "p. 249",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -149,13 +156,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-318/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 318",
     "titles": "Annales a prima Olympiade usque ad Christum natum \nAnnales a prima Olympiade usque ad Christum natum",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; S. 250–294 sind leer.",
-    "physical": "Papier \n294 pagg. (pag. 250 - 294 vac.), folio membranaceo saec. XIII (?) manu scripto involutae \ndescription: Umschlag aus einem handschriftlich beschriebenen Pergamentblatt; Datierung siehe Katalogtext."
+    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; S. 250–294 sind leer. \ntype: note; locus: S. 249; description: Verzeichnis von vier Klerikern, die 1605 das Collegium Germanicum verließen.",
+    "physical": "Papier \n294 pagg. (pag. 250 - 294 vac.), folio membranaceo saec. XIII (?) manu scripto involutae \ndescription: Umschlag aus einem handschriftlich beschriebenen Pergamentblatt; Datierung siehe Katalogtext.",
+    "german": "294 Seiten, davon S. 250–294 leer; in ein handschriftlich beschriebenes Pergamentblatt des 13. Jahrhunderts (?) eingebunden; geschrieben 1601.\n\n**(Annalen von der ersten Olympiade bis zur Geburt Christi).**\n\nNotiz S. 247: **Wien, am Vortag der Nonen des September, im ersten Jahr des sechzehnhundertsten Jahres nach der Geburt Christi des Erlösers. Wien, im Rhetorikhörsaal des Kollegs der Gesellschaft Jesu.**\n\nS. 249 sind vier Kleriker verzeichnet, die 1605 das Germanicum verließen.\n\nAuf dem Rücken des Umschlags ist die Signatur **III L.O Nr. 30** angebracht. Unter dieser Signatur wurde der Codex bis 1784 in der Bibliothek des Chorherrenstifts Ardagger geführt.",
+    "latin": "294 pagg. (pag. 250 - 294 vac.), folio membranaceo saec. XIII (?) manu scripto involutae; script. 1601\n\n(Annales a prima Olympiade usque ad Christum natum)\n\nNota pag. 247: Viennae Prid: Non. Septembris. Anno primo Seculi\n\n\n\nsexcentesimi supra millesimum à nato Christo Salvatore. Viennae in Collegii Soc. Jesu Rhetorico Auditorio.\n\np. 249 notati sunt 4 Clerici, qui anno 1605 e collegio Germanico discesserunt.\n\nIn dorso involucri affixum est signum III L.O Nr. 30. Hoc signo notatus erat hic codex in bibliotheca canoniae Ardacensis usque ad annum 1784."
   }
 }

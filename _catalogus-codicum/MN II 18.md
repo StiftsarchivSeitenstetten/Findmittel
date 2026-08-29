@@ -17,10 +17,39 @@ ms_contents:
   items:
   - label: a
     catalog_statement: '(In libros de Generatione et Corruptione): fol. 1 - 96'
+    title: In libros de Generatione et Corruptione
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 96
+    incipits:
+    - label: Prooemii
+      text: Postquam Aristoteles 8 libris physicorum egisset....
   - label: b
     catalog_statement: 'In Libros de Anima: fol. 96r. - 205r.'
+    title: In Libros de Anima
+    locus: fol. 96r
+    title_status: unspecified
+    incipits:
+    - locus: fol. 96v
+      label: Prooemii
+      text: Aggredimur post alia illam philosophiae partem....
+    colophons:
+    - locus: fol. 205r
+      text: 8. Maii
   - label: c
     catalog_statement: '(Metaphysica): fol. 1 - 30v. (=208 - 238)'
+    title: Metaphysica
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 30v
+    incipits:
+    - locus: fol. 208
+      label: Prooemii
+      text: Metaphysica scientiarum omnium nobilissima....
+    colophons:
+    - locus: fol. 238v
+      label: triennalis philosophiae laboris
+      text: Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-45",
   "signature": "MN III 45",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "241",
   "heading": {
     "title": "Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1760 (?)"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–350",
+      "locus": "p. 1–350",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Kupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 351–354",
+      "locus": "p. 351–354",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -150,13 +161,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-45/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 45",
     "titles": "Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne \nLegier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne \nKupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+    "german": "Oktavformat; 354 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1760 (?).\n\na) **Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne:** S. 1–350.\n\nb) **Kupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen:** S. 351–354.\n\nWeder Verfasser noch Schreiber dieses Buches sind bekannt; auch das Entstehungsjahr ist unbekannt. Gerade dort, wo vermutlich Name des Verfassers oder Schreibers und eine Datierung gestanden hatten, ist der untere Rand des Titelblattes ausgeschnitten. Vielleicht geschah dies, als der erste Besitzer, dessen Name dort möglicherweise ebenfalls gestanden hatte, das Buch verkaufte oder verschenkte.\n\nEine Entstehung um 1760 erschließt der Katalogbearbeiter aus Einband und Schrift.",
+    "latin": "8°; 354 pagg.; teg. b1; scriptus ca. 1760 (?)\n\na) **Legier-Buch, Vorstellend wie man Kürtzlich ohne Rechnung, alles Fein Silber mit schlechtem legieren könne:** p. 1–350\n\nb) **Kupfer Legierung, wie Viel man auff eine jede Merck Fein=Silber setzen soll damit die Probe möchte Heraus Kommen:** p. 351–354\n\nNeque auctor neque scriptor huius libri notus est neque quando ortus sit. Etenim ubi probabiliter nomen auctoris scriptorisve et tempus originis notatum erat, margo haec inferior folii titularis excisa est (fortasse cum primus possessor, cuius nomen fortasse in eadem margine scriptum esset, librum nostrum aut venderet aut dono daret.)\n\nCirca annum 1760 scriptum esse hunc codicem coniicio e forma tegumenti scripturaeque."
   }
 }

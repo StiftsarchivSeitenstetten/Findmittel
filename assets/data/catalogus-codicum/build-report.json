@@ -1,14 +1,37 @@
 {
   "schema": "catalogus-web-schema",
-  "schemaVersion": 1,
-  "generatedAt": "2026-08-29T08:25:50+00:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-29T15:46:13+00:00",
   "status": "ok",
   "statistics": {
     "records": 521,
     "items": 1758,
-    "incipits": 191,
-    "explicits": 22,
+    "physicalUnits": 11,
+    "incipits": 834,
+    "explicits": 27,
+    "colophons": 357,
     "relations": 392,
+    "searchDocuments": 5540,
+    "entityTypes": {
+      "codex": 521,
+      "content": 1758,
+      "person": 841,
+      "catalogue": 1042,
+      "explicit_colophon": 384,
+      "incipit": 834,
+      "addition": 149,
+      "physical_unit": 11
+    },
+    "entityTypeRecordCounts": {
+      "codex": 521,
+      "content": 521,
+      "physical_unit": 3,
+      "person": 474,
+      "incipit": 304,
+      "explicit_colophon": 198,
+      "addition": 111,
+      "catalogue": 521
+    },
     "filterableDates": 448,
     "repositories": {
       "Stiftsbibliothek Seitenstetten": 452,
@@ -93,6 +116,9 @@
     "Der Datierungsfilter verwendet ausschließlich history.origin.date.",
     "Aus display abgeleitete Datumsintervalle werden nur bei einfachen, eindeutigen Jahresangaben erzeugt.",
     "Unbekannte Rollen und Relationstypen werden im Webmodell mit ihrem Rohwert erhalten.",
-    "Die wissenschaftlichen Masterdateien werden durch den Build nicht verändert."
+    "Die wissenschaftlichen Masterdateien werden durch den Build nicht verändert.",
+    "Die Web-Entität 'Werk / Inhaltseinheit' entspricht einer konkreten ms_contents.items-Einheit und ist keine normierte abstrakte Werkentität.",
+    "Physische Einheiten werden nur erzeugt, wenn die Masterdaten eine Einheit explizit mit einer Inhaltseinheit verknüpfen (z. B. physical_unit: Faszikel I).",
+    "Personen werden im Suchindex nur innerhalb eines Codex bei identischem Namensstring zusammengeführt; es findet keine globale Personennormalisierung statt."
   ]
 }

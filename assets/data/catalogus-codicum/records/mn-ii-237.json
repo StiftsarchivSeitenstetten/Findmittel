@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-237",
   "signature": "MN II 237",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "185",
   "heading": {
     "title": "Philosophiae Tractatus Secundus in Octo libros phisicorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1710 (?)"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Philosophiae Tractatus Secundus in Octo libros phisicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–293",
+      "locus": "p. 3–293",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,13 +78,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 294–297",
+      "locus": "p. 294–297",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -162,13 +181,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 237",
     "titles": "Philosophiae Tractatus Secundus in Octo libros phisicorum \nPhilosophiae Tractatus Secundus in Octo libros phisicorum \nIndex Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n300 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n300 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "300 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1710 (?).\n\na) **Zweite philosophische Abhandlung zu den acht Büchern der Physik:** S. 3–293. Anfang: Nachdem die Schwierigkeiten der Logik überwunden sind, schreiten wir zur Erklärung der Naturphilosophie fort......\n\nb) **Allgemeines Register der gesamten Physik, in dem die von uns angenommenen Lehrmeinungen nach der Reihenfolge der Disputationen verzeichnet sind:** S. 294–297.\n\nVerfasser und Schreiber sind unbekannt. Derselbe Student schrieb bereits den vorhergehenden Codex. Obwohl das genaue Entstehungsjahr unsicher ist, vermutet der Katalogbearbeiter aufgrund von Einbandform und Schrift auch hier ungefähr das Jahr 1710.",
+    "latin": "300 pagg.; teg. c3d; script. ca. 1710 (?)\n\na) Philosophiae Tractatus Secundus in Octo libros phisicorum: p. 3–293.\n\nInitium: Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......\n\nb) Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae: p. 294–297.\n\nAuctor et scriptor ignoti. At vidimus iam p. 184 eundem studiosum etiam codicem praecedentem scripsisse, et licet incertum sit, quo tempore duos istos codices scripserit, tamen e forma tegumenti scripturaeque coniicio annum 1710 a vero ortus tempore non multum abesse."
   }
 }

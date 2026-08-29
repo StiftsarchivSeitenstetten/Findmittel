@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-277",
   "signature": "MN II 277",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "223–224",
   "heading": {
     "title": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1750 (?) oder eher 1760–1780"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 4–57",
+      "locus": "p. 4–57",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 58–142",
+      "locus": "p. 58–142",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -150,13 +161,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-277/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 277",
     "titles": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae \nTractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur \nTractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n146 pagg. \ncode: c1; description: Grauer Pappeinband; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n146 pagg. \ncode: c1; description: Grauer Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+    "german": "146 Seiten; grauer Pappeinband mit rotem Papierrücken; geschrieben ungefähr 1750 (oder eher zwischen 1760 und 1780?).\n\n**Asketische Aufzeichnungen oder geistliche Unterweisungen, wie sie von den Novizen des Klosters St. Lambrecht in der Steiermark gewöhnlich mitgeschrieben wurden.**\n\na) **Erste Abhandlung über jene Dinge, die teils Kandidaten, teils Novizen, die eben erst mit dem heiligen Habit bekleidet wurden, vorher wissen müssen:** S. 4–57.\n\nb) **Zweite Abhandlung. Bisher wurde von jenen Dingen gehandelt, die teils Kandidaten, teils Anfängern des Ordens gleich beim Eintritt in das Noviziat bekannt sein müssen, nämlich von verschiedenen Regeln und anderen unseren Novizen vorgeschriebenen Weisungen. Nun schreiten wir zu solideren Grundsätzen der Askese fort, die weniger für das Noviziatsjahr als vielmehr für den ganzen Verlauf des Ordenslebens, wenn nicht notwendig, so doch gewiss sehr nützlich sind:** S. 58–142.\n\nWeder Verfasser noch Schreiber dieses Büchleins sind bekannt.\n\nDer jetzige Einband entstand im 19. Jahrhundert, vielleicht sogar erst im 20. Jahrhundert; denn noch in diesem Jahrhundert wurde das Buch zur Unterweisung der Novizen verwendet. Die Schrift zeigt dagegen den Charakter des 18. Jahrhunderts, ungefähr um 1750 – oder eher zwischen 1760 und 1780.",
+    "latin": "146 pagg.; teg. c1 cum dorso chartaceo rubro; script. ca. 1750?\n\n**Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae.**\n\na) **Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur:** p. 4–57\n\nb) **Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur:** p. 58–142\n\nNeque auctor huius libelli notus neque scriptor.\n\nTegumentum, quo nunc codex noster tectum est, saeculo XIX, immo fortasse saeculo nostro confectum est. Etenim nostro quoque saeculo in usu erat liber noster ad instruendos novitios. Scriptura autem characterem saeculi XVIII. manifestat, eumque ca. 1750 (aut potius inter 1760 et 1780?) usitatum."
   }
 }

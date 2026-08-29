@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-11-xviii-3-h",
   "signature": "Arch. Cod. 34–11 (XVIII 3 h)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "108–109",
   "heading": {
     "title": "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1686/87"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,18 +48,38 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. IX–Bl. 231v",
+      "locus": "p. IX",
       "language": "",
+      "incipits": [
+        {
+          "text": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
+          "locus": "p. IX",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 231v",
+          "text": "Lectio 140 Die 2. Septembris 1687.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus....."
+        "text": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
+        "locus": "p. IX",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Lectio 140 Die 2. Septembris 1687."
+        "locus": "fol. 231v",
+        "text": "Lectio 140 Die 2. Septembris 1687.",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [],
@@ -157,13 +180,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–11 (XVIII 3 h)",
     "titles": "Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687). \nTractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).",
-    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer  \nFr. Marcus Starnisi Schreiber scribe ",
     "incipits": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
     "explicits": "Lectio 140 Die 2. Septembris 1687.",
     "notes": "",
-    "physical": "Papier \n4°. VI + 236 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n4°. VI + 236 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; VI + 236 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott**, vorgetragen von **P. Maurus Liechtenhaimb**, Profess von St. Lambrecht in der Steiermark, Doktor und ordentlichem Professor der heiligen Theologie; aufgezeichnet von **Fr. Marcus Starnisi**, Profess von Seitenstetten, im Jahr 1687.\n\nAnfang S. IX (= fol. Vr): **Vorrede. Wir nehmen eine schwierige Sache in Angriff, wenn wir Gott zu betrachten versuchen....**\n\nSchluss fol. 231v: **140. Vorlesung, 2. September 1687.**\n\nDieselbe Abhandlung findet sich in MN II 160 und MN II 162. Fr. Marcus Starnisi schrieb außerdem drei vorausgehende und fünf folgende Codices.",
+    "latin": "4°. VI + 236 foll.; teg. a2; script. 1686/87\n\nTractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).\n\n\n\n\nInitium p. IX (= fol. Vr): Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus..... Clausula fol. 231v: Lectio 140 Die 2. Septembris 1687.\n\nEundem tractatum reperies in codicibus MN II 160 et 162 (Vide inferius!) F. Marcus Starnisi scripsit etiam tres codices praecedentes et quinque sequentes."
   }
 }

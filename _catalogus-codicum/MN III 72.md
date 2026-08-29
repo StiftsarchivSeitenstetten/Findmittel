@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 72
 ms_contents:
-  title: "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823"
   items:
-  - label: "a"
-    title: "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823"
-    locus: "S. 1–96"
-    note: "Der Titel ist gedruckt, der übrige Codex handschriftlich."
+  - label: a
+    title: Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823
+    locus: S. 1–96
+    note: Der Titel ist gedruckt, der übrige Codex handschriftlich.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

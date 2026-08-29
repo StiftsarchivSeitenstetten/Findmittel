@@ -13,12 +13,17 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Theologico-Scholasticus De gratia, justificatione, et merito
-    locus: S. 11–165
-    incipit: Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset
+    locus: p. 11–165
+    incipits:
+    - text: Postquam S. Doctor noster de actibus humanis, tanquam mediis ad Salutem egisset
+    title_status: unspecified
   - label: b
     title: Tractatus theologico-Scholasticus. De Virtutibus theologicis
-    locus: S. 167–253
-    incipit: Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus
+    locus: p. 167–253
+    incipits:
+    - text: Materia De gratia aliisque ad eandem pertinentibus succedit aureus ille triplexque funiculus,.....
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -12,14 +12,19 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Jure, et Justitia
-    title_type: supplied
     locus: fol. 1r–128v
-    incipit: In amplissimum pulcherrimarum virtutum collegium
     note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: In amplissimum pulcherrimarum virtutum collegium,.......
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus Secundus. De restitutione et contractibus
     locus: fol. 128v–192v
-    incipit: Explicata priori tractatu natura et divisione iustitiae ac dominii
+    incipits:
+    - text: Explicata priori tractatu natura et divisione iustitiae ac dominii,.....
+      label: Disputationis primae
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

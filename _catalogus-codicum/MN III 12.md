@@ -9,22 +9,28 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 12
 ms_contents:
-  title: "Rhetorica"
-  title_type: "supplied"
+  title: Rhetorica
   items:
-  - label: "a"
-    title: "Expositio Rhetoricae"
-    locus: "fol. 1r–2r"
-    incipit: "Quaeres primo. Unde Rhetorica suam originem trahat?....."
-  - label: "b"
-    title: "Liber Primus"
-    locus: "fol. 2r–124v"
-  - label: "c"
-    title: "Tabulae Libri Secundi"
-    locus: "fol. 125r–184r"
-  - label: "d"
-    title: "Liber Tertius Rhetorices"
-    locus: "fol. 1r–121r (= 205r–325r)"
+  - label: a
+    title: Expositio Rhetoricae
+    locus: fol. 1r–2r
+    incipits:
+    - text: Quaeres primo. Unde Rhetorica suam originem trahat?.....
+    title_status: unspecified
+  - label: b
+    title: Liber Primus
+    locus: fol. 2r–124v
+    title_status: unspecified
+  - label: c
+    title: Tabulae Libri Secundi
+    locus: fol. 125r–184r
+    title_status: unspecified
+  - label: d
+    title: Liber Tertius Rhetorices
+    locus: fol. 1r–121r
+    title_status: unspecified
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

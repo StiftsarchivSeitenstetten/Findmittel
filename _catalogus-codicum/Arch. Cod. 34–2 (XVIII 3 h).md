@@ -13,12 +13,22 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–2 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: 'Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium
-      et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264.'
+    catalog_statement: 'Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium
+      Dei cum Gentium Apostolo sunt segregati: p. 1–264.'
+    title: Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum
+      Gentium Apostolo sunt segregati
+    locus: p. 1–264
+    title_status: unspecified
   - label: b
     catalog_statement: 'Casus resoluti pro Confessariis: p. 265–508.'
+    title: Casus resoluti pro Confessariis
+    locus: p. 265–508
+    title_status: unspecified
   - label: c
     catalog_statement: 'Casus speciales in confessione: p. 509–552.'
+    title: Casus speciales in confessione
+    locus: p. 509–552
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

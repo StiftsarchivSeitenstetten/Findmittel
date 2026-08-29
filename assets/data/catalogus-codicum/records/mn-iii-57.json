@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-57",
   "signature": "MN III 57",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "269–270",
   "heading": {
     "title": "Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "kurz nach 1795"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 11–56",
+      "locus": "p. 11–56",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Fortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 59–90",
+      "locus": "p. 59–90",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,13 +102,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Kritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene Rädergebäude",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 91–106",
+      "locus": "p. 91–106",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -109,13 +124,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Antwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung für Astronomen bekant gemacht wird",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 107–153",
+      "locus": "p. 107–151",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -208,13 +227,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-57/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 57",
     "titles": "Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster \nUntersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster \nFortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster \nKritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene Rädergebäude \nAntwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung für Astronomen bekant gemacht wird",
-    "persons": "Fr. David a S. Cajetano Autor author \nM+++++ critic critic \nunbekannt Schreiber scribe",
+    "persons": "Fr. David a S. Cajetano Autor author  \nM+++++ critic critic  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter und wurde nicht als Bestandteil des überlieferten Titels übernommen. \nMit Figuren zwischen S. 88 und 89; die parenthetische Ortsangabe „Vindobonae“ stammt vom Katalogbearbeiter. \nMit Figuren S. 153.",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Einband fehlt."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Einband fehlt.",
+    "german": "Oktavformat; 162 Seiten; ohne Einband; geschrieben kurz nach 1795.\n\na) **Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster (Vindobonae):** S. 11–56.\n\nb) **Fortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster (Vindobonae):** S. 59–90, mit Abbildungen zwischen S. 88 und 89.\n\nc) **Kritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene Rädergebäude:** S. 91–106. Am Ende dieses Teiles steht das Zeichen des Verfassers: **M+++++**\n\nd) **Antwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung für Astronomen bekant gemacht wird:** S. 107–151, mit Abbildungen S. 153.\n\nDie Herkunft des Werkes ist S. 10 vermerkt: **Wien, bey Mathias Andreas Schmidt kaiserl. königl. Hofbuchdrucker 1795.**\n\nIn unserem Codex wurde also offenbar ein 1795 gedrucktes Buch handschriftlich abgeschrieben. Das Büchlein dürfte daher kurz nach 1795 entstanden sein.\n\nDas gedruckte Werk scheint folgendermaßen zustande gekommen zu sein: Die Teile a und b stammen von Fr. David a S. Cajetano, wurden aber offenbar nicht von ihm selbst herausgegeben. Ein Herausgeber ließ den Text mit einigen Randnoten drucken; vielleicht sind dessen Initialen **G. R.** am Ende von S. 20. Später veröffentlichte ein Kritiker in der Zeitschrift **„Magazin der Kunst und Literatur“** Teil c. Fr. David a S. Cajetano antwortete darauf mit Teil d. Schließlich ließ ein Herausgeber – wohl derselbe wie zuvor – die Teile a–d bei Matthias Andreas Schmidt drucken.",
+    "latin": "8°; 162 pagg.; sine tegumento; script. paulo post 1795\n\na) **Untersuchung des schicklichsten getriebes für jedes gegebene Rad. Zum Behufe der Künstler, Von fr. David a S. Cajetano Augustiner Baarfüsser im kaiserlich königlichen Hofkloster (Vindobonae):** p. 11–56\n\nb) **Fortsetzung der Untersuchung über die schicklichsten getriebe für jedes gegebene Rad Zum Behuf der Künstler, die sich mit systematischen Räderwerken Beschäftigen Von fr. David a S. Cajetano Augustiner=Baarfüsser im kaiserlich königlichen Hofkloster (Vindobonae):** p. 59–90 (cum figuris inter paginas 88 et 89)\n\nc) **Kritische Bemerkungen eines Liebhabers der Praktischen Mechanik und Sternkunde, über das neue Von fr. David a S. Cajetano erfundene Rädergebäude:** p. 91–106. In fine huius partis invenitur signum auctoris: **M+++++**\n\n\n\n\nd) **Antwort. auf die kritische Bemerkungen des Herrn M+++++ Worin die Auflösung der unauflöslichen Frage gegeben, und eine Neue Erfindung für Astronomen bekant gemacht wird:** p. 107–151 cum figuris p. 153\n\nOrigo huius opusculi p. 10 ita notatur: **Wien, bey Mathias Andreas Schmidt kaiserl. königl. Hofbuchdrucker 1795.**\n\nVidetur ergo in codicillo nostro liber quidam typis anno 1795 mandatus manu transscriptus esse. Qua de re libellus noster probabiliter paulo post annum 1795 ortus est. Liber autem ille typis mandatus ita videtur compositus esse, ut partes a et b ipse fr. David a S. Cajetano invenerit, sed non ipse ediderit, editor autem opusculum a illius auctoris in margine inferiore aliquot notis instructum typis mandandum curaverit. Cuius editoris litterae initiales forsitan sint illae litterae **G. R.** in fine p. 20. Postea criticus quidam in periodicis, quae inscribebantur **„Magazin der Kunst und Literatur“** partem c edidit. Denique fr. David a S. Cajetano contra proposita illius critici novum opusculum composuit, dico partem d; tandem editor quidam (probabiliter idem, qui partes a et b ediderat) partes a–d apud Matthiam Andream Schmidt typis evulgavit."
   }
 }

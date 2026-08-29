@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-143",
   "signature": "MN II 143",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "104–105",
   "heading": {
     "title": "Philosophia Rationalis seu Logica Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1684/85"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Philosophia Rationalis seu Logica Aristotelico-Thomistica",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Compendium Institutionum Dialecticarum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1–42",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Praemitti semper solent Summulae,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 42r",
+          "text": "Absolvimus auxiliante Deo hoc compendium Dialecticarum Die 9. Decembris anteprandium. 1684.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Praemitti semper solent Summulae,....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 42r",
+        "text": "Absolvimus auxiliante Deo hoc compendium Dialecticarum Die 9. Decembris anteprandium. 1684.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,15 +97,46 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputationum Philosophicarum Tractatus Primus In Universam Aristotelis Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–301 (=45–345)",
+      "locus": "fol. 1–301",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1",
+          "label": "Prologi",
+          "text": "Multi liberalium inimici artium....",
+          "id": "incipit-1"
+        },
+        {
+          "locus": "p. IX",
+          "text": "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 301",
+          "text": "Absolvimus die 25 Maii....1685. F. Adamus Weissenhoffer scripsit etiam duos sequentes codices. Easdem partes continet Cod. MN II 146.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1",
+        "label": "Prologi",
+        "text": "Multi liberalium inimici artium....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 301",
+        "text": "Absolvimus die 25 Maii....1685. F. Adamus Weissenhoffer scripsit etiam duos sequentes codices. Easdem partes continet Cod. MN II 146.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -173,13 +233,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 143",
     "titles": "Philosophia Rationalis seu Logica Aristotelico-Thomistica \nCompendium Institutionum Dialecticarum \nDisputationum Philosophicarum Tractatus Primus In Universam Aristotelis Logicam",
-    "persons": "P. Bruno Schlibnig Dozent lecturer \nFr. Adam Weissenhoffer Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "P. Bruno Schlibnig Dozent lecturer St. Paul im Lavanttal / Universität Salzburg \nFr. Adam Weissenhoffer Schreiber scribe Seitenstetten",
+    "incipits": "Praemitti semper solent Summulae,.... \nMulti liberalium inimici artium.... \nTractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....",
+    "explicits": "Absolvimus auxiliante Deo hoc compendium Dialecticarum Die 9. Decembris anteprandium. 1684. \nAbsolvimus die 25 Maii....1685. F. Adamus Weissenhoffer scripsit etiam duos sequentes codices. Easdem partes continet Cod. MN II 146.",
     "notes": "",
-    "physical": "Papier \nIV + 303 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \nIV + 303 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "IV + 303 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1684/85.\n\n**Rationale Philosophie oder aristotelisch-thomistische Logik**, vorgetragen an der erzbischöflichen Universität Salzburg von P. Bruno Schlibnig, Benediktiner und Profess des berühmten Klosters St. Paul in Kärnten, Doktor der Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Adam Weissenhoffer, Benediktiner und Profess in Seitenstetten, im Jahr 1685.\n\na) **Kompendium der Institutionen der Dialektik:** fol. 1–42. Anfang der Vorrede fol. 1r: Den Summulae pflegt man stets vorauszuschicken.... Schluss fol. 42r: **Mit Gottes Hilfe beendeten wir dieses Kompendium der Dialektik am Samstagvormittag, dem 9. Dezember 1684.**\n\nb) **Erste Abhandlung der philosophischen Disputationen über die gesamte Logik des Aristoteles:** fol. 1–301 (=45–345). Anfang des Prologs fol. 1 (=45)r: Viele Feinde der freien Künste greifen offen die Logik an...... Schluss fol. 301 (=345)v: **Wir beendeten [dies] am 25. Mai 1685.**\n\nFr. Adam Weissenhoffer schrieb auch die beiden folgenden Codices. Dieselben Teile enthält Codex MN II 146.",
+    "latin": "IV + 303 foll.; teg. a2; script. 1684/85\n\nPhilosophia Rationalis seu Logica Aristotelico-Thomistica Tradita In Alma et Archi-Episcopali Universitate Salisburgi Ab.... P. Brunone Schlibnig, Ordinis S. Benedicti celeberrimi Monasterii ad S. Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario Excepta A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten Professo. Anno M.D.C.LXXXV.\n\na) Compendium Institutionum Dialecticarum: fol. 1–42. Initium Prooemii fol. 1r: Praemitti semper solent Summulae,.... Clausula fol. 42r: Absolvimus auxiliante Deo hoc compendium Dialecticarum Die 9. Decembris anteprandium. 1684.\n\nb) Disputationum Philosophicarum Tractatus Primus In Universam Aristotelis Logicam: fol. 1–301 (= 45–345). Initium Prologi fol. 1 (45)r: Multi liberalium inimici artium.... Clausula fol. 301 (345)v: Absolvimus die 25 Maii....1685. F. Adamus Weissenhoffer scripsit etiam duos sequentes codices. Easdem partes continet Cod. MN II 146.\n\n\n\n\n### Arch. Cod. 34–18 (XVIII 3 m)\n\n4°; X pagg. + 439 foll.; teg. a2; script. 1685/86\n\nTractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).\n\nInitium p. IX: Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur.... (NB: Tractatus 1 est Logica!)\n\nNota in margine superiore p. IX: 13 Julii. Die Veneris 1685.\n\nIn hoc codice inveniuntur complures rerum delineationes.\n\nF. Adamus Weissenhoffer etiam codicem praecedentem et subsequentem exaravit. Eundem tractatum, quem codex noster, continet etiam Cod. MN II 147. (Quem codicem vide aliquantum inferius!)"
   }
 }

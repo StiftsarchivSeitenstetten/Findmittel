@@ -18,13 +18,19 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Actibus Humanis
-    locus: Bl. II–IV und 1–144
+    locus: fol. II - IV et 1 - 144
+    incipits:
+    - label: Praefationis In Casus Conscientiae
+      text: Theologia secundum Etymologiam nominis....
+    title_status: unspecified
   - label: b
     title: Tractatus II De Vitiis et Peccatis
     locus: Bl. 145–233v
+    title_status: unspecified
   - label: c
     title: Index
-    locus: Bl. 234r–236r
+    locus: fol. 234r - 236r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

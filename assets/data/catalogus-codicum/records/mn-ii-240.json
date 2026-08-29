@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-240",
   "signature": "MN II 240",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "186–187",
   "heading": {
     "title": "Disputatio III. in ultimos 6 Libros Physicorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1710?"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio III. in ultimos 6 Libros Physicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–304",
+      "locus": "p. 3–304",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Ut Philosophus corpus naturale exactè penetret, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Ut Philosophus corpus naturale exactè penetret, ......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,22 +78,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus II Physicae In Libros de Mundo et coelo, de Generatione et corruptione, de Meteoris, et de anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 321–718",
+      "locus": "p. 321–718",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
-      "dates": [
+      "incipits": [
         {
-          "type": "dated_clausula",
-          "display": "locus: S. 549; date_display: 18. Juni, Jahr nicht angegeben"
+          "text": "Absolvimus feliciter Physicam universalem, ......",
+          "id": "incipit-1"
         }
       ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 549",
+          "text": "18. Junii absolvimus.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Absolvimus feliciter Physicam universalem, ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 549",
+        "text": "18. Junii absolvimus.",
+        "id": "colophon-1"
+      },
+      "notes": [],
+      "dates": [],
       "persons": [],
       "subitems": []
     },
@@ -86,14 +118,26 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus III. In Aristotelis Metaphysicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 719–771",
+      "locus": "p. 719–771",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Metaphysica seu sapientia transnaturalis tam nobilis est scientia,...",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Metaphysica seu sapientia transnaturalis tam nobilis est scientia,...",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -180,13 +224,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 240",
     "titles": "Disputatio III. in ultimos 6 Libros Physicorum \nDisputatio III. in ultimos 6 Libros Physicorum \nTractatus II Physicae In Libros de Mundo et coelo, de Generatione et corruptione, de Meteoris, et de anima \nTractatus III. In Aristotelis Metaphysicam",
-    "persons": "derselbe unbekannte Seitenstettner Philosophieprofessor wie MN II 238–239 author and scribe author_and_scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "derselbe unbekannte Seitenstettner Philosophieprofessor wie MN II 238–239 author and scribe author_and_scribe Seitenstetten / Universität Salzburg",
+    "incipits": "Ut Philosophus corpus naturale exactè penetret, ...... \nAbsolvimus feliciter Physicam universalem, ...... \nMetaphysica seu sapientia transnaturalis tam nobilis est scientia,...",
+    "explicits": "18. Junii absolvimus.",
     "notes": "",
-    "physical": "Papier \n774 pagg. \ncode: c1; description: Grauer Pappeinband. Der Rücken ist vollständig abgeschnitten."
+    "physical": "Papier \n774 pagg. \ncode: c1; description: Grauer Pappeinband. Der Rücken ist vollständig abgeschnitten.",
+    "german": "774 Seiten; grauer Pappeinband, der Rücken vollständig abgeschnitten; geschrieben um 1710 (?).\n\na) **Dritte Disputation zu den letzten sechs Büchern der Physik:** S. 3–304. Anfang: Damit der Philosoph den Naturkörper genau durchdringt......\n\nb) **Zweite Abhandlung der Physik zu den Büchern Über Welt und Himmel, Werden und Vergehen, Meteore und Seele:** S. 321–718. Anfang: Wir haben die allgemeine Physik glücklich abgeschlossen..... Schluss S. 549: **Wir beendeten [dies] am 18. Juni.**\n\nc) **Dritte Abhandlung zur Metaphysik des Aristoteles:** S. 719–771. Anfang: Die Metaphysik oder übernatürliche Weisheit ist eine so vornehme Wissenschaft,.....\n\nDa MN II 239 nur die ersten zwei Disputationen der allgemeinen Physik enthält, unser Codex aber mit der dritten beginnt, und da Schrift und Einband übereinstimmen, setzt unser Codex zweifellos MN II 239 fort.\n\nDaher gilt das zu MN II 238 und MN II 239 über Verfasser, Schreiber und Entstehungszeit Gesagte entsprechend auch für diesen Codex.",
+    "latin": "774 pagg.; teg. c1 (dorso prorsus abscisso); script. ca. 1710?\n\na) Disputatio III. in ultimos 6 Libros Physicorum: p. 3–304.\n\nInitium: Ut Philosophus corpus naturale exactè penetret, ......\n\nb) Tractatus II Physicae. In Libros de Mundo et coelo, de Generatione et corruptione, de Meteoris, et de anima: p. 321–718.\n\nInitium: Absolvimus feliciter Physicam universalem, ......\n\nClausula p. 549: 18. Junii absolvimus.\n\nc) Tractatus III. In Aristotelis Metaphysicam: p. 719–771.\n\nInitium: Metaphysica seu sapientia transnaturalis tam nobilis est scientia,...\n\nCum praecedens codex tantum duas priores disputationes physicae generalis contineat, noster vero a disputatione tertia incipiat, cum porro scriptura eadem sit idemque tegumentum, sine dubio codex noster codicem praecedentem continuat. Qua de re quaecumque supra ad codices MN II 238 et 239 de auctore, scriptore, tempore diximus, mutandis mutatis etiam ad codicem nostrum spectant."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-58",
   "signature": "MN II 58",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "37–37a",
   "heading": {
     "title": "De Jure et Justitia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1653"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Jure et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1v–44r",
+      "locus": "fol. 1r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Praefationis",
+          "text": "Cum homo sit animal politicum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Praefationis",
+        "text": "Cum homo sit animal politicum....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,13 +83,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Restitutione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 44r–150v",
+      "locus": "fol. 44r - 150v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -82,13 +105,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Contractu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 151r–226v",
+      "locus": "fol. 151r - 226v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -105,13 +132,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 229r–231v",
+      "locus": "fol. 229r - 231v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -218,13 +249,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 58",
     "titles": "De Jure et Justitia \nDe Jure et Justitia \nDe Restitutione \nDe Contractu \nIndex",
-    "persons": "P. Udalricus Freyberger OSB Dozent lecturer \nFr. Joseph Schwaiger, Profess von Seitenstetten Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Udalricus Freyberger OSB Dozent lecturer  \nFr. Joseph Schwaiger, Profess von Seitenstetten Schreiber scribe ",
+    "incipits": "Cum homo sit animal politicum....",
     "explicits": "",
     "notes": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge. \nEnde fehlt \nAnfang fehlt",
-    "physical": "Papier \nIV + 233 Blätter; Bl. 227 und 228 fehlen \nQuartformat \nmissing_leaves: 227; 228 \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55."
+    "physical": "Papier \nIV + 233 Blätter; Bl. 227 und 228 fehlen \nQuartformat \nmissing_leaves: 227; 228 \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55.",
+    "german": "IV + 233 Blätter; Bl. 227 und 228 fehlen; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1653.\n\n**Abhandlung über Recht und Gerechtigkeit, vorgetragen von P. Udalricus Freyberger, Benediktinermönch und Profess von St. Peter in Salzburg, ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger desselben Ordens, Profess des berühmten Klosters Seitenstetten in Niederösterreich und Student der Philosophie. 1653.**\n\nAnfang der Vorrede Bl. 1r: **Da der Mensch ein politisches Wesen ist....**\n\na) **Erster Teil. Über Recht und Gerechtigkeit:** Bl. 1v–44r.\n\nb) **Zweiter Teil. Über Restitution:** Bl. 44r–150v.\n\nc) **Dritter Teil. Über den Vertrag:** Bl. 151r–226v. (Das Ende fehlt!)\n\nd) **Register** der gesamten Abhandlung: Bl. 229r–231v. (Der Anfang fehlt!)\n\nDie Initialen auf dem Einband sind dieselben wie bei Codex MN II 55. Dieselbe Abhandlung enthalten Codex MN II 60 und Teil a von Arch. Cod. 34 P.",
+    "latin": "IV + 233 foll. (foll. 227 et 228 desunt!); teg. a2 (ut in codice MN II 55); script. 1653\n\n*Tractatus De Jure et Justitia Traditus ab....... Patre Udalrico Freyberger Monacho Benedictino ad S. Petrum Salisburgi Professo, Casuum Professore Ordinario. Exceptus â Religioso F. Josepho Schwaiger eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi Inferioris Austriae Professo Philosophiae Studioso. Anno. 1653.*\n\n*Initium* Praefationis fol. 1r: Cum homo sit animal politicum....\n\na) *Pars Prima: De Jure, et Justitia:* fol. 1v - 44r\n\nb) *Pars Secunda: De Restitutione:* fol. 44r - 150v\n\nc) *Pars Tertia: De Contractu:* fol. 151r - 226v. (Finis deest!)\n\nd) *Index* (totius tractatus): fol. 229r - 231v. (Initium deest!)\n\nLitterae initiales in tegumento ut in codice MN II 55 (supra p. 36). Eundem tractatum continent Codex MN II 60 (infra p. 38) et pars a codicis Arch. 34 P (infra p. 43/44)."
   }
 }

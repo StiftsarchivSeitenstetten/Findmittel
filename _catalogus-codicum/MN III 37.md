@@ -10,20 +10,25 @@ ms_identifier:
   idno: MN III 37
 ms_contents:
   items:
-  - label: "a"
-    title: "Lob und EhrBezeug: Dem Heiligen Joan von Nepomuk Nebst Andächtigen Gebeten in Unterschidlichen Nöthen und Anliegenheiten, seinen Schutz, und Hilff anzuruffen wie auch andere Andächtige Seüfftzer Zu Jesu und seiner Heiligen Mutter Mariae"
-    locus: "S. 1–148"
-  - label: "b"
-    title: "Kurtze TagZeiten Von dem Heiligen Johanne Nepomuceno"
-    locus: "S. 149–163"
-  - label: "c"
-    title: "Litaney zu dem Heiligen Johann Nepomuceno"
-    locus: "S. 164–172"
-  - label: "d"
-    title: "Diversae aliae orationes"
-    title_type: "supplied"
-    locus: "S. 173–183"
-    note: "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+  - label: a
+    title: 'Lob und EhrBezeug: Dem Heiligen Joan von Nepomuk Nebst Andächtigen Gebeten in Unterschidlichen Nöthen und Anliegenheiten, seinen Schutz,
+      und Hilff anzuruffen wie auch andere Andächtige Seüfftzer Zu Jesu und seiner Heiligen Mutter Mariae'
+    locus: p. 1–148
+    title_status: unspecified
+  - label: b
+    title: Kurtze TagZeiten Von dem Heiligen Johanne Nepomuceno
+    locus: p. 149–163
+    title_status: unspecified
+  - label: c
+    title: Litaney zu dem Heiligen Johann Nepomuceno
+    locus: p. 164–172
+    title_status: unspecified
+  - label: d
+    title: Diversae aliae orationes
+    locus: p. 173–183
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

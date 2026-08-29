@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-26",
   "signature": "MN I 26",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "286",
   "heading": {
     "title": "Fäden der Liebe.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1900"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Fäden der Liebe.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
-    "language": "de",
+    "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,35 +49,22 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Fäden der Liebe.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
-      "language": "",
+      "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [
-        {
-          "type": "genre",
-          "text": "Liebesroman"
-        },
-        {
-          "type": "publication_status",
-          "text": "unbekannt"
-        }
-      ],
+      "notes": [],
       "dates": [],
-      "persons": [
-        {
-          "name": "Therese Rak",
-          "roleRaw": "author",
-          "roleLabel": "Autor",
-          "scope": "item",
-          "itemId": "item-1"
-        }
-      ],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -90,13 +80,6 @@
       "roleRaw": "author",
       "roleLabel": "Autor",
       "scope": "contents"
-    },
-    {
-      "name": "Therese Rak",
-      "roleRaw": "author",
-      "roleLabel": "Autor",
-      "scope": "item",
-      "itemId": "item-1"
     }
   ],
   "physicalDescription": {
@@ -155,13 +138,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-26/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 26",
     "titles": "Fäden der Liebe. \nFäden der Liebe.",
-    "persons": "Therese Rak Autor author \nTherese Rak Autor author \nTherese Rak Autor author",
+    "persons": "Therese Rak Autor author  \nTherese Rak Autor author ",
     "incipits": "",
     "explicits": "",
-    "notes": "de \nLiebesroman \nunbekannt \nDer Name der Verfasserin steht am Ende des Werkes. \nOb das Werk jemals im Druck erschien, blieb dem Katalogbearbeiter unbekannt.",
-    "physical": "Papier \n511 lose Blätter \nGroßquart"
+    "notes": "Der Name der Verfasserin steht am Ende des Werkes. \nOb das Werk jemals im Druck erschien, blieb dem Katalogbearbeiter unbekannt.",
+    "physical": "Papier \n511 lose Blätter \nGroßquart",
+    "german": "Großquartformat; 511 lose Blätter, aufbewahrt in einem Pappeinband, dessen Rücken und Kanten mit grauem Leinen verstärkt sind; geschrieben um 1900.\n\nNur die Vorderseiten der Blätter sind beschrieben.\n\n**Fäden der Liebe.**\n\nDie Verfasserin dieses umfangreichen Liebesromans setzte am Ende ihren Namen darunter: **Therese Rak.** Diese Schriftstellerin lebte um 1900 in Seitenstetten. Ob unser Werk im Druck veröffentlicht wurde, weiß ich nicht.",
+    "latin": "4° mai.; 511 foll. soluta, servata in tegumento chartaceo, dorso extremisque cano linteo munitis; script. ca. 1900\n\nFolia recta tantum inscripta sunt.\n\n**Fäden der Liebe.**\n\nAuctrix huius grandis fabulae amoris in fine nomen suum apposuit: **Therese Rak.** Fabularum illa poetrix habitavit circa annum 1900 in Seitenstetten. Num opus nostrum typis evulgatum sit, nescio."
   }
 }

@@ -14,19 +14,19 @@ ms_identifier:
   idno: "MN I 4"
 
 ms_contents:
+  items:
   - item: 1
-    title: "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff"
-    title_type: "original"
-    title_language: "la"
-    summary: "Gewohnheitsrecht in alphabetischer Ordnung der Gegenstände, Buchstaben A–L einschließlich."
+    title: Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff
+    title_language: la
+    summary: Gewohnheitsrecht in alphabetischer Ordnung der Gegenstände, Buchstaben A–L einschließlich.
     text_language:
-      main: "de"
+      main: de
     responsibility:
-      - role: "compiler"
-        name: "Ioannes Baptista Suttinger à Thurnhoff"
-        normalized_name: "Johann Baptist Suttinger von Thurnhof"
-    contents_note: "Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich."
-
+    - role: compiler
+      name: Ioannes Baptista Suttinger à Thurnhoff
+      normalized_name: Johann Baptist Suttinger von Thurnhof
+    contents_note: 'Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich.'
+    title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Folio"

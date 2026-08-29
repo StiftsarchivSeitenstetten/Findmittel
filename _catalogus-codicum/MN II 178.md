@@ -9,13 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 178
 ms_contents:
-  title: Liber Quartus Decretalium Gregorii Noni Pontificis Maximi
   items:
   - label: a
     title: Liber Quartus Decretalium Gregorii Noni Pontificis Maximi
     end_locus: fol. 172r
     end_date: '1694-08-23'
     incipit_section: Titulus Primus De Sponsalibus et Matrimonio. Pars Prima De sponsalibus
+    incipits:
+    - text: Titulus Primus De Sponsalibus, et Matrimonio. Pars Prima De sponsalibus. Uberrimam, et si nescis, oppidó difficilem ac usu frequentem
+        materiam......
+    colophons:
+    - locus: fol. 172r
+      text: Absolvimus hunc librum quartum Die 23 Augusti 1694.
+    title_status: unspecified
+    locus: fol. 172r
 phys_desc:
   object_form: codex
   support: Papier

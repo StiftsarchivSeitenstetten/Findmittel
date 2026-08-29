@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-w-xviii-3-v",
   "signature": "Arch. Cod. 34 W (XVIII 3 v)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "41–42",
   "heading": {
-    "title": "Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus De Legibus",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1654"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 W (XVIII 3 v).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Legibus",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 135",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "praefationis",
+          "text": "De legibus agere etiam ad Theologum moralem pertinet....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "praefationis",
+        "text": "De legibus agere etiam ad Theologum moralem pertinet....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -68,14 +87,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Censuris Ecclesiasticis: p. 1 - 122 (= 136 - 257). Initium Praefationis p. 136: Notitia de censuris ecclesiasticis....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Censuris Ecclesiasticis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 122",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 136",
+          "label": "Praefationis",
+          "text": "Notitia de censuris ecclesiasticis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 136",
+        "label": "Praefationis",
+        "text": "Notitia de censuris ecclesiasticis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -147,13 +182,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-w-xviii-3-v/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 W (XVIII 3 v)",
-    "titles": "Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1) \nTractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1) \nTractatus De Censuris Ecclesiasticis: p. 1 - 122 (= 136 - 257). Initium Praefationis p. 136: Notitia de censuris ecclesiasticis....",
+    "titles": "Tractatus De Legibus \nTractatus De Legibus \nTractatus De Censuris Ecclesiasticis",
     "persons": "",
-    "incipits": "",
+    "incipits": "De legibus agere etiam ad Theologum moralem pertinet.... \nNotitia de censuris ecclesiasticis....",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 W (XVIII 3 v). \nTractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1) \nTractatus De Censuris Ecclesiasticis: p. 1 - 122 (= 136 - 257). Initium Praefationis p. 136: Notitia de censuris ecclesiasticis....",
-    "physical": "Papier \n4°, 135 + 122 = 257 pagg., teg. a1 \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n4°, 135 + 122 = 257 pagg., teg. a1 \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Quartformat; 135 + 122 = 257 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.\n\na) **Abhandlung über die Gesetze:** S. 1–135. Anfang der Vorrede: „Auch dem Moraltheologen kommt es zu, über die Gesetze zu handeln....“\n\nb) **Abhandlung über kirchliche Zensuren:** S. 1–122 (= S. 136–257). Anfang der Vorrede S. 136: „Kenntnis der kirchlichen Zensuren....“\n\nRückenaufschrift: **De Legibus et Censuris Ecclesiasticis M S Casistica.**\n\nDie Einbandaufschrift ist dieselbe wie bei MN II 49; deshalb ist anzunehmen, dass **Fr. Wolfgang Duernegger** auch diesen Codex schrieb. Der Verfasser ist unbekannt.\n\nDie Jahreszahl **16.54** auf dem Vorderdeckel gibt das Entstehungsjahr an.\n\nDieselben Abhandlungen finden sich auch in den Teilen c und d von MN II 66.",
+    "latin": "4°, 135 + 122 = 257 pagg., teg. a1; script. 1654\n\na) *Tractatus De Legibus:* p. 1 - 135. *Initium* praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1)\n\nb) *Tractatus De Censuris Ecclesiasticis:* p. 1 - 122 (= 136 - 257). *Initium* Praefationis p. 136: Notitia de censuris ecclesiasticis....\n\nInscriptio in dorso: De Legibus et Censuris Ecclesiasticis M S Casistica. Inscriptio in parte adversa tegumenti eadem, quae supra in codice MN II 49; qua de causa F. Wolfgangum Duernegger etiam hunc codicem scripsisse putandum est. Auctor ignotus. Quo anno exaratus sit codex noster, ostendit numerus 16.54 in tegumento adverso.\n\nEosdem tractatus invenies etiam in partibus c et d codicis MN II 66 (vide infra p. 43!)\n\n\n<!-- PDF-Seite 46 -->"
   }
 }

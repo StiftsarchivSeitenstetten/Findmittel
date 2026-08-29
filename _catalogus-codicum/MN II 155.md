@@ -13,9 +13,18 @@ ms_contents:
   - label: a
     title: Tractatus de Vitiis et peccatis
     locus: fol. 4r–288r
+    incipits:
+    - locus: fol. 4r
+      label: Prooemii
+      text: Quid et quantum malum sit peccatum......
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
     locus: fol. 288v–315r
+    incipits:
+    - label: Disputationis Primae De legibus in communi
+      text: Nomen legis iuxta Divum Thomam.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

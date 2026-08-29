@@ -10,18 +10,27 @@ ms_identifier:
   idno: MN III 20
 ms_contents:
   items:
-  - label: "a"
-    title: "Liber 3. Decretalium"
-    locus: "S. 1–252"
-    incipit: "Vocantur clerici vel quia de sorte Domini sunt...."
-  - label: "b"
-    title: "Liber 4. Decretalium"
-    locus: "S. 257–406"
-    incipit: "Sponsi et sponsae propriè intelliguntur ii...."
-  - label: "c"
-    title: "Liber 5. Decretalium"
-    locus: "S. 411–662"
-    incipit: "Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......"
+  - label: a
+    title: Liber 3. Decretalium
+    locus: p. 1–252
+    incipits:
+    - text: Vocantur clerici vel quia de sorte Domini sunt....
+      label: Tituli 1. De Vita et honestate Clericorum
+    title_status: unspecified
+  - label: b
+    title: Liber 4. Decretalium
+    locus: p. 257–406
+    incipits:
+    - text: Sponsi et sponsae propriè intelliguntur ii....
+      label: Tituli 1. De Sponsalibus et matrimonio
+    title_status: unspecified
+  - label: c
+    title: Liber 5. Decretalium
+    locus: p. 411–662
+    incipits:
+    - text: Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......
+      label: Tituli 1. De accusationibus, inquisitionibus et denunciationibus
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

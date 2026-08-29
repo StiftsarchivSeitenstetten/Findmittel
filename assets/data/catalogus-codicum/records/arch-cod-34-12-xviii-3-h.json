@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-12-xviii-3-h",
   "signature": "Arch. Cod. 34–12 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "180–181",
   "heading": {
-    "title": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1708/09"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–12 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1/355",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Proloquii",
+          "text": "Quod difficilis sit peccatorum explicatio....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Proloquii",
+        "text": "Quod difficilis sit peccatorum explicatio....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -68,15 +87,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 359",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 359",
+          "text": "Sciendum est, quod lex sustineat varias appellationes.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 509",
+          "text": "Absolvimus die 31 Augusti 1709. Examen Theologicum apud eundem hodie inchoatum, et finitum fuit.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 359",
+        "text": "Sciendum est, quod lex sustineat varias appellationes.......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 509",
+        "text": "Absolvimus die 31 Augusti 1709. Examen Theologicum apud eundem hodie inchoatum, et finitum fuit.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -160,13 +203,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-12-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–12 (XVIII 3 h)",
-    "titles": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355. \nTractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355. \nTractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709.",
-    "persons": "P. Caelestin Pley Dozent lecturer \nFr. Carolus Gschwandtner Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708 \nTractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708 \nTractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709",
+    "persons": "P. Caelestin Pley Dozent lecturer  \nFr. Carolus Gschwandtner Schreiber scribe ",
+    "incipits": "Quod difficilis sit peccatorum explicatio.... \nSciendum est, quod lex sustineat varias appellationes.......",
+    "explicits": "Absolvimus die 31 Augusti 1709. Examen Theologicum apud eundem hodie inchoatum, et finitum fuit.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–12 (XVIII 3 h). \nTractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355. \nTractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709.",
-    "physical": "Papier \n4°, 512 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n4°, 512 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Quartformat; 512 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1708/09.\n\na) **Abhandlung über Laster und Sünden nach der Lehre des hl. Thomas, ab Frage 71**, vorgetragen von **P. Caelestin Pley**, Profess von Seitenstetten, Doktor und ordentlichem Professor der Theologie, geistlichem Rat des Salzburger Fürsterzbischofs und damaligem Vize-Rektor der Universität Salzburg; aufgezeichnet von **Fr. Carolus Gschwandtner**, Profess desselben Ordens und Klosters, 1708: S. 1–355.\n\nAnfang des Prologs S. 5: „Dass die Erklärung der Sünden schwierig ist....“\n\nb) **Abhandlung über die Gesetze**, wiederum von P. Caelestin Pley vorgetragen und von Fr. Carolus Gschwandtner, Theologiestudent im zweiten Jahr, 1709 aufgezeichnet: ab S. 359.\n\nAnfang S. 359: „Zu wissen ist, dass das Gesetz verschiedene Bezeichnungen trägt....“\n\nSchluss S. 509: **Wir beendeten [dies] am 31. August 1709. Das theologische Examen bei demselben Professor begann und endete heute.**",
+    "latin": "4°, 512 pagg.; teg. a1; script. 1708/09\n\na) Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355.\n\nInitium Proloquii p. 5: Quod difficilis sit peccatorum explicatio....\n\n\n\n\nb) Tractatus de Legibus. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Professo. Sacrosanctae Theologiae Doctore, nec non Professore eiusdem ordinario, Serenissimi Principis, et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico nec non Almae Universitatis Salisburgensis Vice-Rectore meritissimo Conscriptus â F. Carolo Gschwandtner eiusdem ordinis et Monasterii Professo Sacrosanctae Theologiae Studioso in 2. annum 1709.\n\nInitium p. 359: Sciendum est, quod lex sustineat varias appellationes.......\n\nClausula p. 509: Absolvimus die 31 Augusti 1709. Examen Theologicum apud eundem hodie inchoatum, et finitum fuit."
   }
 }

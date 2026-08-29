@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-215",
   "signature": "MN II 215",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "168–169",
   "heading": {
     "title": "Commentarius In Organum sive Logicam Aristotelis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1702"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius In Organum sive Logicam Aristotelis",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Organum sive Logicam Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–499",
+      "locus": "p. 3",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 3",
+          "text": "Proloquium Permultos esse intelligo,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 499",
+          "text": "In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 3",
+        "text": "Proloquium Permultos esse intelligo,.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 499",
+        "text": "In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -169,13 +196,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 215",
     "titles": "Commentarius In Organum sive Logicam Aristotelis \nCommentarius In Organum sive Logicam Aristotelis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n506 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Proloquium Permultos esse intelligo,.....",
+    "explicits": "In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.",
+    "notes": "ex libris F: Ignatii",
+    "physical": "Papier \n506 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "506 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1702.\n\n**Kommentar zum Organon oder zur Logik des Aristoteles.**\n\nAnfang S. 3: Vorrede. Ich weiß, dass es sehr viele gibt.....\n\nSchluss S. 499: **Am Vorabend von Pfingsten, dem 3. Juni 1702.**\n\nWeder Verfasser noch Schreiber sind bekannt. Zwar findet sich auf S. 3 der Besitzvermerk **ex libris F: Ignatii**, doch zeigt der folgende Codex, dass Fr. Ignatius aus Seitenstetten nicht der Schreiber sein kann.\n\nDerselbe unbekannte Schreiber schrieb auch den vorhergehenden und den folgenden Codex.",
+    "latin": "506 pagg.; teg. a1; script. 1702\n\nCommentarius In Organum sive Logicam Aristotelis.\n\nInitium p. 3: Proloquium Permultos esse intelligo,.....\n\nClausula p. 499: In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.\n\nNeque auctorem scimus neque scriptorem, etsi p. 3 signum possessoris „ex libris F: Ignatii“ invenitur; nam ad codicem proximum ostendemus non scriptum esse codicem nostrum a F. Ignatio Seitenstettensi.\n\nIdem scriptor etiam praecedentem et subsequentem codicem scripsit."
   }
 }

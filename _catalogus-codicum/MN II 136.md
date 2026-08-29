@@ -13,10 +13,29 @@ ms_contents:
   items:
   - label: a
     title: De Conscientia
-    locus: p. 5 - 174. I
+    locus: p. 5 - 174
+    incipits:
+    - locus: p. 5
+      label: Tractatus Theologici quarti De Conscientia
+      text: Cum duplex iuxta S. Doctorem.....sit regula actuum.
+    title_status: unspecified
   - label: b
     title: Tractatus quintus De Vitiis et peccatis
-    locus: p. 174 - 602. I
+    locus: p. 174 - 602
+    incipits:
+    - locus: p. 174
+      text: Ad tractatum de ultimo fine hominis non solum pertinet.....
+    explicits:
+    - locus: p. 601
+      label: praelegentis
+      text: '....Cursum Theologicum post octennium consumatum finio.....'
+    colophons:
+    - locus: p. 602
+      label: scribentis
+      text: Absolvimus cursum nostrum Theologicum 12 die Augusti Anno ....millesimo sexcentesimo octuagesimo primo (1681). Sub....Patre Gregorio
+        Wibmperger ordinis S. P. Benedicti Celeberrimi monasterii Cremifanensis in superiori Austria Professo Sacrosanctae Theologiae Doctore
+        et Professore
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

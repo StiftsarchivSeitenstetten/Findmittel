@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-73",
   "signature": "MN II 73",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "48a",
   "heading": {
     "title": "Summulae seu brevis introductio in Logicam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1658/59"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Summulae seu brevis introductio in Logicam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–58",
+      "locus": "p. 7–58",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 7",
+          "text": "Quemadmodum qui legendi artem rectè scire desiderat.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 58",
+          "text": "Absolvimus Summulas 23 Novembris Anno 1658.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 7",
+        "text": "Quemadmodum qui legendi artem rectè scire desiderat.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 58",
+        "text": "Absolvimus Summulas 23 Novembris Anno 1658.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,14 +91,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 67–398",
+      "locus": "p. 67–398",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 67",
+          "label": "Prooemii",
+          "text": "Ingressuri scopulosum Logicae fretum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 67",
+        "label": "Prooemii",
+        "text": "Ingressuri scopulosum Logicae fretum....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -169,13 +212,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 73",
     "titles": "Summulae seu brevis introductio in Logicam \nSummulae seu brevis introductio in Logicam \nUniversae Philosophiae Peripateticae Aristotelis commentarius Logicalis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Quemadmodum qui legendi artem rectè scire desiderat. \nIngressuri scopulosum Logicae fretum....",
+    "explicits": "Absolvimus Summulas 23 Novembris Anno 1658.",
     "notes": "Am Ende zahlreiche Blätter herausgeschnitten.",
-    "physical": "Papier \n398 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n398 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "398 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1658/59.\n\na) **Summulae oder kurze Einführung in die Logik:** S. 7–58. Anfang S. 7: Wie derjenige, der die Kunst des Lesens richtig beherrschen möchte....  \nSchluss S. 58: **Wir beendeten die Summulae am 23. November 1658.**\n\nb) **Logischer Kommentar zur gesamten peripatetischen Philosophie des Aristoteles:** S. 67–398; am Ende sind sehr viele Blätter herausgeschnitten. Anfang der Vorrede S. 67: Im Begriff, die klippenreiche Meerenge der Logik zu betreten....\n\nTeil b enthält auch der folgende Codex MN II 74. Verfasser und Schreiber unseres Codex sind unbekannt.",
+    "latin": "398 pagg.; teg. a1; script. 1658/59\n\na) Summulae seu brevis introductio in Logicam: p. 7–58. Initium p. 7: Quemadmodum qui legendi artem rectè scire desiderat.  \nClausula p. 58: Absolvimus Summulas 23 Novembris Anno 1658.\n\nb) Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis: p. 67–398; in fine permulta folia excisa. Initium Prooemii p. 67: Ingressuri scopulosum Logicae fretum....\n\nPartem b continet etiam proximus codex MN II 74. Auctor et scriptor codicis nostri ignoti."
   }
 }

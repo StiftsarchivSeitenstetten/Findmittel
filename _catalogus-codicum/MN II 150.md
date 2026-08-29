@@ -16,14 +16,30 @@ ms_contents:
     start_date: '1687-11-07'
     end_date: '1688-04-09'
     lecture_count: 75
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Quoniam anno superiori rerum omnium principium.....
+    colophons:
+    - text: Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)
+    title_status: unspecified
   - label: b
     title: Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis
-    locus: fol. 1r–104r (=132–235)
+    locus: fol. 1r–104r
     end_date: '1688-08-28'
     lecture_count: 61
+    incipits:
+    - locus: fol. 132r
+      label: Partis Primae
+      text: Notandum est, tria reperiri ex parte finis.....
+    colophons:
+    - locus: fol. 235r
+      text: 61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).
+    title_status: unspecified
   - label: c
     title: Index super Tractatum de Angelis
-    locus: fol. 106r–109r (=237–240)
+    locus: fol. 106r–109r
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

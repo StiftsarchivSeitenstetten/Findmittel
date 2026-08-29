@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-242",
   "signature": "MN II 242",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "187–188",
   "heading": {
     "title": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1710"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,17 +48,37 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–25r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Die 23. Augusti. Anno 1710.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta"
+        "text": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Die 23. Augusti. Anno 1710.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -70,15 +93,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–45v (= fol. 29r–73v)",
+      "locus": "fol. 1r–45v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Proemium. Compendiosam tibi viam aperit hystoria,..... Tractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Proemium. Compendiosam tibi viam aperit hystoria"
+        "text": "Proemium. Compendiosam tibi viam aperit hystoria,..... Tractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -99,15 +132,29 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de Pollemica, offensiva ac defensiva",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1–21v (= fol. 80–100v)",
+      "locus": "fol. 1–21v",
       "language": "",
+      "incipits": [
+        {
+          "locus": "fol. 1",
+          "label": "Proemii",
+          "text": "Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro..... Etiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt. Neque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro"
+        "locus": "fol. 1",
+        "label": "Proemii",
+        "text": "Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro..... Etiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt. Neque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -220,13 +267,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 242",
     "titles": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie \nTractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie \nTractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum \nTractatus de Pollemica, offensiva ac defensiva",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta \nProemium. Compendiosam tibi viam aperit hystoria \nFurente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro",
-    "explicits": "",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ...... \nProemium. Compendiosam tibi viam aperit hystoria,..... Tractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest. \nFurente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro..... Etiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt. Neque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.",
+    "explicits": "Die 23. Augusti. Anno 1710.",
     "notes": "Vom letzten Kapitel ist nur die Inscriptio erhalten. \nincomplete \nDer Katalog lässt offen, ob der Traktat nie vollendet oder durch Blattverlust am Ende verstümmelt wurde. \nmutilated_or_unfinished",
-    "physical": "Papier \n28 + 51 + 21 = 100 foll. \ncode: c2; description: Marmorierter Pappeinband."
+    "physical": "Papier \n28 + 51 + 21 = 100 foll. \ncode: c2; description: Marmorierter Pappeinband.",
+    "german": "28 + 51 + 21 = 100 Blätter; marmorierter Pappeinband; geschrieben 1710.\n\na) **Moralische Abhandlung zum vierten Buch der Nikomachischen Ethik des Aristoteles über die sittlichen Tugenden im Einzelnen:** fol. 1r–25r. Anfang der Vorrede: In diesem vierten Buch der Ethik hat der Fürst der Philosophen schließlich die besonderen Zierden angebracht,...... Schluss: **Am 23. August 1710.**\n\nb) **Historisch-politische Abhandlung über die vier Monarchien seit Erschaffung der Welt, umfassend die römisch-deutschen Kaiser vom großen Interregnum vor Rudolf I. von Habsburg bis zum gegenwärtigen allerhöchsten Kaiser Joseph:** fol. 1r–45v (= fol. 29r–73v). Anfang: Vorrede. Die Geschichte eröffnet dir einen kurzen Weg,..... Die Abhandlung ist unvollständig; vom letzten Kapitel ist nur die Überschrift erhalten.\n\nc) **Abhandlung über die Kriegskunst, offensiv und defensiv:** fol. 1–21v (= fol. 80–100v). Anfang der Vorrede fol. 80r: Da nun schon seit vielen Jahren ganz Europa gleichsam als öffentliche Bühne des Mars und des Todes wütet..... Auch diese Abhandlung über die Kriegführung scheint verstümmelt zu sein, sei es, dass sie niemals vollendet wurde, sei es, dass später am Ende des Codex einige Blätter herausgeschnitten wurden.\n\nWeder den Verfasser – oder vielmehr die Verfasser – noch den Schreiber kennt der Katalogbearbeiter. Sicher ist jedoch, dass derselbe Schreiber auch den vorhergehenden und den folgenden Codex schrieb.",
+    "latin": "28 + 51 + 21 = 100 foll.; teg. c2; script. 1710\n\na) Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie: fol. 1r–25r.\n\nInitium Proemii: Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......\n\nClausula: Die 23. Augusti. Anno 1710.\n\n\n\n\nb) Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum: fol. 1r–45v (= fol. 29r–73v).  \nInitium: Proemium. Compendiosam tibi viam aperit hystoria,.....  \nTractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.\n\nc) Tractatus de Pollemica, offensiva ac defensiva: fol. 1–21v (= 80–100v).  \nInitium Proemii fol. 1 (80)r: Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro.....  \nEtiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt.  \nNeque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse."
   }
 }

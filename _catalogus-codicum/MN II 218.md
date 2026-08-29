@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 218
 ms_contents:
-  title: Institutionum Imperialium Libri Quattuor
   items:
   - label: a
     title: Institutionum Imperialium Libri Quattuor
-    locus: S. 5–208
+    locus: p. 5–208
     incipit_section: Titulus Primus Libri Primi De Justitia et Jure
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

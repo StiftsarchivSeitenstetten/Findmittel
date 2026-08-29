@@ -1,10 +1,60 @@
 {
   "schema": "catalogus-web-schema",
-  "schemaVersion": 1,
-  "generatedAt": "2026-08-29T08:25:50+00:00",
+  "schemaVersion": 2,
+  "generatedAt": "2026-08-29T15:46:13+00:00",
   "recordCount": 521,
   "itemCount": 1758,
-  "searchDocumentCount": 3321,
+  "searchDocumentCount": 5540,
+  "entityTypes": [
+    {
+      "id": "codex",
+      "label": "Codex",
+      "count": 521,
+      "recordCount": 521
+    },
+    {
+      "id": "content",
+      "label": "Werk / Inhaltseinheit",
+      "count": 1758,
+      "recordCount": 521
+    },
+    {
+      "id": "physical_unit",
+      "label": "Physische Einheit",
+      "count": 11,
+      "recordCount": 3
+    },
+    {
+      "id": "person",
+      "label": "Person",
+      "count": 841,
+      "recordCount": 474
+    },
+    {
+      "id": "incipit",
+      "label": "Incipit",
+      "count": 834,
+      "recordCount": 304
+    },
+    {
+      "id": "explicit_colophon",
+      "label": "Explicit / Kolophon",
+      "count": 384,
+      "recordCount": 198
+    },
+    {
+      "id": "addition",
+      "label": "Nachtrag / Vermerk",
+      "count": 149,
+      "recordCount": 111
+    },
+    {
+      "id": "catalogue",
+      "label": "Historische Katalogbeschreibung",
+      "count": 1042,
+      "recordCount": 521
+    }
+  ],
   "repositories": {
     "Stiftsbibliothek Seitenstetten": 452,
     "Stiftsarchiv Seitenstetten": 69
@@ -14,7 +64,7 @@
     {
       "id": "69-7-33",
       "signature": "69.7.33",
-      "title": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106",
+      "title": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz",
       "dateDisplay": "1728 (?)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/69-7-33/"
@@ -102,7 +152,7 @@
     {
       "id": "arch-33-s-i-1-u",
       "signature": "Arch. 33 S (I 1. u.)",
-      "title": "Calendarium Romanum et Generale: p. 23 - 41",
+      "title": "Calendarium Romanum et Generale",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-33-s-i-1-u/"
@@ -158,7 +208,7 @@
     {
       "id": "arch-cod-3-x-a-65",
       "signature": "Arch. Cod. 3 X (A 65)",
-      "title": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum: p. 1 (NB! Folium primum additum est, cum tomus noster tegumento includeretur.)",
+      "title": "Titulus litterarum ad Joannem Philippum de Lamberg Principem Episcopum Passaviensem (1689–1712) datarum",
       "dateDisplay": "um",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-x-a-65/"
@@ -182,7 +232,7 @@
     {
       "id": "arch-cod-29-b-a-65",
       "signature": "Arch. Cod. 29 B (A 65)",
-      "title": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi: p. 1–50",
+      "title": "Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi",
       "dateDisplay": "circa annum 1780",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-29-b-a-65/"
@@ -230,7 +280,7 @@
     {
       "id": "arch-cod-29-n-xv-2m",
       "signature": "Arch. Cod. 29 N (XV 2m)",
-      "title": "Notae brevissimae, partim Germanicae, partim Latinae: p. 1–11",
+      "title": "Notae brevissimae, partim Germanicae, partim Latinae",
       "dateDisplay": "quoad maximam partem 1750",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-29-n-xv-2m/"
@@ -254,7 +304,7 @@
     {
       "id": "arch-cod-33-j-i-l-u",
       "signature": "Arch. Cod. 33 J (I l. u.)",
-      "title": "(Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa): p. 1–48",
+      "title": "Aliquot carmina sacra Germanica aut e lingua Latina in Germanicam versa",
       "dateDisplay": "ca. 1772",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-j-i-l-u/"
@@ -262,7 +312,7 @@
     {
       "id": "arch-cod-33-k-i-l-u",
       "signature": "Arch. Cod. 33 K (I l. u.)",
-      "title": "(Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent): p. 1–98",
+      "title": "Bulla Clementis Papae XIV. Dominus ac Redempor noster de die 21. Julii 1773 ad tollendam societatem Jesu edita, aliaque documenta, quae res gestas ecclesiasticas exhibent",
       "dateDisplay": "ca. 1773",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-k-i-l-u/"
@@ -294,7 +344,7 @@
     {
       "id": "arch-cod-33-p-i-1-u",
       "signature": "Arch. Cod. 33 P (I 1 u)",
-      "title": "Pia Exercitia pro diebus Bacchaenalium (id est pro diebus a Dominica Quinquagesima usque ad Feriam IV Cinerum): p. 1–8. Initium p. 1: Nunquam major cordi Christi afflictio.... (Auctor et scriptor ignoti.)",
+      "title": "Pia Exercitia pro diebus Bacchaenalium (id est pro diebus a Dominica Quinquagesima usque ad Feriam IV Cinerum)",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-p-i-1-u/"
@@ -302,7 +352,7 @@
     {
       "id": "arch-cod-34-9-xviii-3-h",
       "signature": "Arch. Cod. 34 - 9 (XVIII 3 h)",
-      "title": "(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.",
+      "title": "Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia",
       "dateDisplay": "1677/78",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-9-xviii-3-h/"
@@ -310,7 +360,7 @@
     {
       "id": "arch-cod-34-14-xviii-3-h",
       "signature": "Arch. Cod. 34 - 14 (XVIII 3 h)",
-      "title": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236.",
+      "title": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-14-xviii-3-h/"
@@ -326,7 +376,7 @@
     {
       "id": "arch-cod-34-c-xvii-3-m",
       "signature": "Arch. Cod. 34 C (XVII 3 m)",
-      "title": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31",
+      "title": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis",
       "dateDisplay": "ca. 1720",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-c-xvii-3-m/"
@@ -350,7 +400,7 @@
     {
       "id": "arch-cod-34-m-xviii-3m",
       "signature": "Arch. Cod. 34 M (XVIII 3m)",
-      "title": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito: p. 3–57.",
+      "title": "Instructio pro deliberantibus de Statu vitae Assumendo. Authore Plurimum Reverendo Clarissimo, ac Venerabili Domino P. Norberto Pampichler, Monasterii Seitenstettensis Priore emerito",
       "dateDisplay": "1768",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-m-xviii-3m/"
@@ -366,7 +416,7 @@
     {
       "id": "arch-cod-34-oo-a-77",
       "signature": "Arch. Cod. 34 OO (A 77)",
-      "title": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736: p. 1–62",
+      "title": "Itinerarium Fratrum Seittenstettensium Benedicti Veit, Romani Gengl, et Bernardi Prevenhueber Salisburgo (?) per Bavariam, Sueviam ad Beatissimam Virginem Einsidlensem. Anno 1736",
       "dateDisplay": "1736 et 1748",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-oo-a-77/"
@@ -374,7 +424,7 @@
     {
       "id": "arch-cod-34-p-xviii-3-m",
       "signature": "Arch. Cod. 34 P (XVIII 3 m)",
-      "title": "Tractatus de Jure et Justitia: fol. 1–196v (= p. 1–392). Initium Praefationis in Tractatum De Jure et Justitia fol. 1r: Cum homo sit animal politicum.... Eundem tractatum a P. Udalrico Freyberger dictatum continent etiam Codd. MN II 58 (supra p. 37), MN II 60 (supra p. 38, sed imperfectus), MN II 63 (supra p. 40).",
+      "title": "Tractatus de Jure et Justitia",
       "dateDisplay": "1655",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-p-xviii-3-m/"
@@ -382,7 +432,7 @@
     {
       "id": "arch-cod-34-q-xviii-3m",
       "signature": "Arch. Cod. 34 Q (XVIII 3m)",
-      "title": "a parte adversa: Sammlung Kurzer Predigten. Aus verschiedenen Rednern zusammengetragen, und für das Landvolck eingerichtet. I Jahrgang P. Benedictus Walcher Ordinis S. Benedicti Professus Seittenstettensis. 1780.",
+      "title": "a parte adversa: Sammlung Kurzer Predigten. Aus verschiedenen Rednern zusammengetragen, und für das Landvolck eingerichtet. I Jahrgang P. Benedictus Walcher Ordinis S. Benedicti Professus Seittenstettensis. 1780",
       "dateDisplay": "1780–1820",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-q-xviii-3m/"
@@ -390,7 +440,7 @@
     {
       "id": "arch-cod-34-r-xviii-3-m",
       "signature": "Arch. Cod. 34 R (XVIII 3 m)",
-      "title": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris .......",
+      "title": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-r-xviii-3-m/"
@@ -406,7 +456,7 @@
     {
       "id": "arch-cod-34-s-xviii-3-m",
       "signature": "Arch. Cod. 34 S (XVIII 3 m)",
-      "title": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri: p. 7 - 18. Thema p. 7: Gloria Patris est filius sapiens. Nota p. 18: R. P. Anselmus Schramb Professus Mellicensis 13. Novembris 1687 (scil. dixit hanc orationem).",
+      "title": "Oratio In honorem Divi Benedicti filiorum, in festo eorundem Sanctorum Monachorum ordinis nostri",
       "dateDisplay": "ca. 1688",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-s-xviii-3-m/"
@@ -414,7 +464,7 @@
     {
       "id": "arch-cod-34-t-xviii-3-m",
       "signature": "Arch. Cod. 34 T (XVIII 3 m)",
-      "title": "Tractatus I in octo Libros Physicorum traditus ab ........ P: Paulo Metzger Ordinis S. Benedicti in Antiquissimo Monasterio ad S. petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore Ordinario, nec non eiusdem facultatis pro tempore Decano spectabili. etc. Exceptus â me. F: Amando Kerner eiusdem Ordinis Monacho Monasterii Seittenstettensis ad beatam Virginem professo, Physices ac Casuum conscientiae studioso. 1670",
+      "title": "Pars I. Physices. De Principiis Corporis Naturalis, Natura, Arte, Violento, item de Motu, Loco, Vacuo, Infinito, Continuo et Tempore. incepta 1669 22.do die Junii......",
       "dateDisplay": "1669/70",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-t-xviii-3-m/"
@@ -422,7 +472,7 @@
     {
       "id": "arch-cod-34-tt-a78",
       "signature": "Arch. Cod. 34 TT (A78)",
-      "title": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt.",
+      "title": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra",
       "dateDisplay": "+ VI + 38 pagg. typis impressae",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-tt-a78/"
@@ -430,7 +480,7 @@
     {
       "id": "arch-cod-34-u-xviii-3-m",
       "signature": "Arch. Cod. 34 U (XVIII 3 m)",
-      "title": "Ad Aristotelis Logicam Introductio: fol. 1r - 71v.",
+      "title": "Ad Aristotelis Logicam Introductio",
       "dateDisplay": "1674/75",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-u-xviii-3-m/"
@@ -438,7 +488,7 @@
     {
       "id": "arch-cod-34-v-xviii-3-v",
       "signature": "Arch. Cod. 34 V (XVIII 3 v)",
-      "title": "Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669.",
+      "title": "Institutiones sive Summulae Dialecticae",
       "dateDisplay": "1669",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-v-xviii-3-v/"
@@ -446,7 +496,7 @@
     {
       "id": "arch-cod-34-w-xviii-3-v",
       "signature": "Arch. Cod. 34 W (XVIII 3 v)",
-      "title": "Tractatus De Legibus: p. 1 - 135. Initium praefationis: De legibus agere etiam ad Theologum moralem pertinet.... (p. 1)",
+      "title": "Tractatus De Legibus",
       "dateDisplay": "1654",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-w-xviii-3-v/"
@@ -454,7 +504,7 @@
     {
       "id": "arch-cod-34-x-xviii-3v",
       "signature": "Arch. Cod. 34 X (XVIII 3v)",
-      "title": "Commentarius in VIII Libros Physicorum Aristotelis Traditus a R. P. Rudolpho Wiser Monacho Benedictino ad S. Lambertum (St. Lambrecht) Philosophiae Professore ordinario. Exceptus a Religioso F. Bonifacio Stummer Monacho Benedictino Seittenstettensi. Anno MDCLI (1651): fol. 1 - 272. Inscriptio haec margine eleganter lineata circumdata est, cuius auctor a parte sinistra signum suum \"A Waltres exc.\" posuit.",
+      "title": "Commentarius in VIII Libros Physicorum Aristotelis Traditus a R. P. Rudolpho Wiser Monacho Benedictino ad S. Lambertum (St. Lambrecht) Philosophiae Professore ordinario. Exceptus a Religioso F. Bonifacio Stummer Monacho Benedictino Seittenstettensi. Anno MDCLI (1651)",
       "dateDisplay": "1650/51",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-x-xviii-3v/"
@@ -462,7 +512,7 @@
     {
       "id": "arch-cod-34-y-xviii-3-v",
       "signature": "Arch. Cod. 34 Y (XVIII 3 v)",
-      "title": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim.....",
+      "title": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus",
       "dateDisplay": "1689/90",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-y-xviii-3-v/"
@@ -470,7 +520,7 @@
     {
       "id": "arch-cod-34-yy-a-78",
       "signature": "Arch. Cod. 34 YY (A 78)",
-      "title": "Alvearium Spirituale sive Tractatus de praxi atque methodo pie ac devote meditandi continens varias spiritualium meditationum aliorumque exercitiorum divinorum praedulces et mellitas materias ex diversis piorum Asceticorum Authorum Coelestibus flosculis, pro instructione, et usu novitiorum vitam religiosam incipientium et amplectentium collectus et conscriptus ab Admodum Reverendo, Religiosissimo, nec non Doctissimo Domino Patre Placido Steger, Ordinis Sanctissimi Patris Benedicti professo Monasterii Divae Virginis in Seittenstetten, pro tempore Priore ac Novitiorum Magistro Vigilantissimo Anno Domini MDCLXXXII (1682): fol. IIr–55v (= p. 3–110)",
+      "title": "Alvearium Spirituale sive Tractatus de praxi atque methodo pie ac devote meditandi continens varias spiritualium meditationum aliorumque exercitiorum divinorum praedulces et mellitas materias ex diversis piorum Asceticorum Authorum Coelestibus flosculis, pro instructione, et usu novitiorum vitam religiosam incipientium et amplectentium collectus et conscriptus ab Admodum Reverendo, Religiosissimo, nec non Doctissimo Domino Patre Placido Steger, Ordinis Sanctissimi Patris Benedicti professo Monasterii Divae Virginis in Seittenstetten, pro tempore Priore ac Novitiorum Magistro Vigilantissimo Anno Domini MDCLXXXII (1682)",
       "dateDisplay": "1682",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-yy-a-78/"
@@ -494,7 +544,7 @@
     {
       "id": "arch-cod-34-2-xviii-3-h",
       "signature": "Arch. Cod. 34–2 (XVIII 3 h)",
-      "title": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati: p. 1–264.",
+      "title": "Casus de Sacramentis in genere, et potissimum de Administratione Eorundem, in usum Eorum, qui in Ministerium et Evangelium Dei cum Gentium Apostolo sunt segregati",
       "dateDisplay": "ca. 1670",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-2-xviii-3-h/"
@@ -510,7 +560,7 @@
     {
       "id": "arch-cod-34-4-xviii-3h",
       "signature": "Arch. Cod. 34–4 (XVIII 3h)",
-      "title": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226",
+      "title": "Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis",
       "dateDisplay": "inter annos 1772 et 1777",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-4-xviii-3h/"
@@ -518,7 +568,7 @@
     {
       "id": "arch-cod-34-5-xviii-3-h",
       "signature": "Arch. Cod. 34–5 (XVIII 3 h)",
-      "title": "(Altera pars orationis panegyricae in honorem Divi Thomae Doctoris Angelici): p. 4–5–6–3 (Pars prior deest; ordo paginarum inversus)",
+      "title": "Altera pars orationis panegyricae in honorem Divi Thomae Doctoris Angelici",
       "dateDisplay": "i: litterae R et S) valde attritis compositum",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-5-xviii-3-h/"
@@ -542,7 +592,7 @@
     {
       "id": "arch-cod-34-8-xviii-3-h",
       "signature": "Arch. Cod. 34–8 (XVIII 3 h)",
-      "title": "Commentarius Quintus De Actibus Humanis: p. 1–357. Initium p. 1: Actus humanus ille dicitur......",
+      "title": "Commentarius Quintus De Actibus Humanis",
       "dateDisplay": "1673",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-8-xviii-3-h/"
@@ -566,7 +616,7 @@
     {
       "id": "arch-cod-34-12-xviii-3-h",
       "signature": "Arch. Cod. 34–12 (XVIII 3 h)",
-      "title": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708: p. 1/355.",
+      "title": "Tractatus de Vitiis, et Peccatis ad Mentem S. Doctoris a Quaestione 71 et reliquis. traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Episcopi Salisburgensis Consiliario Ecclesiastico ac pro tempore in alma Universitate Salisburgensi Vice-Rectore Conscriptus â F. Carolo Gschwandtner Ordinis et Monasterii eiusdem 1708",
       "dateDisplay": "1708/09",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-12-xviii-3-h/"
@@ -574,7 +624,7 @@
     {
       "id": "arch-cod-34-13-xviii-3-h",
       "signature": "Arch. Cod. 34–13 (XVIII 3 h)",
-      "title": "Tractatus De Gratia Dei In Primam Secundae S. Thomae: p. 7–453. Initium Proloquii p. 7: Postquam Divus Thomas (?) hic in Prima Secundae à quaestione 90 usque ad.... Clausula p. 453: 26. Junii.",
+      "title": "Tractatus De Gratia Dei In Primam Secundae S. Thomae",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-13-xviii-3-h/"
@@ -582,7 +632,7 @@
     {
       "id": "arch-cod-34-15-xviii-3-h",
       "signature": "Arch. Cod. 34–15 (XVIII 3 h)",
-      "title": "Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.",
+      "title": "Selectum Ex Universo Jure Canonico Collegium",
       "dateDisplay": "1655",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-15-xviii-3-h/"
@@ -590,7 +640,7 @@
     {
       "id": "arch-cod-34-16-xviii-3-h",
       "signature": "Arch. Cod. 34–16 (XVIII 3 h)",
-      "title": "Tractatus De Angelis: p. 1–332. Initium Praefationis p. 6: Facile mortalis facundia excurrit in laudem Angelorum..... Clausula p. 312: Absolvimus 15. Martii 1664.",
+      "title": "Tractatus De Angelis",
       "dateDisplay": "1664",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-16-xviii-3-h/"
@@ -614,7 +664,7 @@
     {
       "id": "arch-cod-34-19-xviii-3-m",
       "signature": "Arch. Cod. 34–19 (XVIII 3 m)",
-      "title": "Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107.",
+      "title": "Praeliminaria Logicae (",
       "dateDisplay": "1717",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-19-xviii-3-m/"
@@ -622,7 +672,7 @@
     {
       "id": "arch-cod-34-23-a-77",
       "signature": "Arch. Cod. 34–23 (A 77)",
-      "title": "Libri aliquot de praecipuis ac selectioribus Sacrae Scripturae materiis. Admodum Reverendi Religiosissimi et clarissimi Domini Patris Benedicti Abelzhauser, monachi Benedictini in Seittenstötten, ibidemque Prioris dignissimi: p. 1–159 [handschriftlich korrigiert; ursprüngliche Zahl überschrieben]. Initium: Praefatio et intentio operis. Nunquam non opere pretium duxi.......",
+      "title": "Libri aliquot de praecipuis ac selectioribus Sacrae Scripturae materiis. Admodum Reverendi Religiosissimi et clarissimi Domini Patris Benedicti Abelzhauser, monachi Benedictini in Seittenstötten, ibidemque Prioris dignissimi",
       "dateDisplay": "1672",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-23-a-77/"
@@ -630,7 +680,7 @@
     {
       "id": "arch-cod-35-o-i-l-u",
       "signature": "Arch. Cod. 35 O (I l. u.)",
-      "title": "(Variae Latinae considerationes de creatione et morte hominis): p. 3–19.",
+      "title": "Variae Latinae considerationes de creatione et morte hominis",
       "dateDisplay": "partim 1742–1747, partim 1704",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-35-o-i-l-u/"
@@ -638,7 +688,7 @@
     {
       "id": "arch-cod-46-x-a69",
       "signature": "Arch. Cod. 46 X (A69)",
-      "title": "Kurtze Summarische Antiquitet, Darinnen erklärt wird, Warumb dieses Gottshauß und Kirchen der Allerheiligisten Trifaltigkeit Sontagberckh genandt, Erpaut worden, und von recht Christgläubigen also andechtig besuecht und verehrt wirdt: p. 5 - 35",
+      "title": "Kurtze Summarische Antiquitet, Darinnen erklärt wird, Warumb dieses Gottshauß und Kirchen der Allerheiligisten Trifaltigkeit Sontagberckh genandt, Erpaut worden, und von recht Christgläubigen also andechtig besuecht und verehrt wirdt",
       "dateDisplay": "",
       "repository": "Stiftsarchiv Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-46-x-a69/"
@@ -654,7 +704,7 @@
     {
       "id": "cccii",
       "signature": "CCCII",
-      "title": "(Hieronymi Megiserii Deliciae ordinum equestrium): fol. 1 - 77r., germanice; fol. 77r: Getruckt zu Franckfurth am Main, Bey Marthin Lechler. In Verlegung deß Auctoris im Jahr Christi 1593",
+      "title": "Hieronymi Megiserii Deliciae ordinum equestrium",
       "dateDisplay": "saec. 15 et 16 (17?)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/cccii/"
@@ -726,7 +776,7 @@
     {
       "id": "mn-i-3",
       "signature": "MN I 3",
-      "title": "Fortsetzung des vorhergehenden Codex",
+      "title": "Continuatio codicis praecedentis: Litterae M–Z et Index",
       "dateDisplay": "",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-3/"
@@ -774,7 +824,7 @@
     {
       "id": "mn-i-9",
       "signature": "MN I 9",
-      "title": "Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto...",
+      "title": "Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto Zu Germanien, Hispanien, Hungarn, und Böhaimb König Ertzherzog Zu Österreich etc. etc. mit dero Allerdurchlauchtigsten Frauen Gemahlin Der Römischen Kayßerin Elisabetha Christina In: Germanien, Hispanien, Hungarn, und Böhaimb Königin, gebohrnen Herzogin Zu Braunschweig Lüneburg und dero Beeden Durchlauchtigsten Ertzherzoginen Maria Theresia, und Maria Anna Anno 1723: von Wienn, nach dero Erb Königreich Böhaimb in die Haubt Stadt Prag Verrichten Rays, Daselbst gehaltenen Einzug, Von denen gesambt Böhaimbischen Ständen allergnädigst angenohmenen Erb Huldigung. und darauf erfolgten Zwayfach glorreichesten Königlich: Böhaimbischen Crönungen...... In Einer ordnung Zur künfftigen Nachricht mit denen als beylagen angeführten und von denen originalien getreülich abgeschribenen Referaten auch an gehörigen listen des mitgewesten Personalis, dann Einem ausführlichen Indice, umb all- und Jedes, finden Zu können Zusamben getragen, und beschriben Durch Allerhöchst gedacht: Ihro Kayserlich und Königlich Catholische Mayestätt Hofbuechhaltern, und damahls auf Solcher Rays mitgewesten Raytt Rath Johann Adam Von Heintz.",
       "dateDisplay": "1723 (?)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-9/"
@@ -934,7 +984,7 @@
     {
       "id": "mn-ii-1",
       "signature": "MN II 1",
-      "title": "*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262!",
+      "title": "Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam",
       "dateDisplay": "1614 (Handschrift); 1615 (eingebundener Druck)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-1/"
@@ -942,7 +992,7 @@
     {
       "id": "mn-ii-2",
       "signature": "MN II 2",
-      "title": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)",
+      "title": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa)",
       "dateDisplay": "1615",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-2/"
@@ -950,7 +1000,7 @@
     {
       "id": "mn-ii-3",
       "signature": "MN II 3",
-      "title": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est....",
+      "title": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur",
       "dateDisplay": "1616 (Rückenaufschrift; offenbar nur Teil a)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-3/"
@@ -958,7 +1008,7 @@
     {
       "id": "mn-ii-4",
       "signature": "MN II 4",
-      "title": "Liber primus. De Sacerdote: p. 1 - 103",
+      "title": "Liber primus. De Sacerdote",
       "dateDisplay": "1616",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-4/"
@@ -966,7 +1016,7 @@
     {
       "id": "mn-ii-5",
       "signature": "MN II 5",
-      "title": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)",
+      "title": "Quaestiones De physica auscultatione",
       "dateDisplay": "1617",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-5/"
@@ -974,7 +1024,7 @@
     {
       "id": "mn-ii-6",
       "signature": "MN II 6",
-      "title": "Quaestio de Alteratione: p. 7 - 40",
+      "title": "Quaestio de Alteratione",
       "dateDisplay": "1618",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-6/"
@@ -990,7 +1040,7 @@
     {
       "id": "mn-ii-8",
       "signature": "MN II 8",
-      "title": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........",
+      "title": "Prooemium",
       "dateDisplay": "1619/20",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-8/"
@@ -1022,7 +1072,7 @@
     {
       "id": "mn-ii-12",
       "signature": "MN II 12",
-      "title": "Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.",
+      "title": "Commentarius in Logicam Aristotelis Prooemium",
       "dateDisplay": "1624",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-12/"
@@ -1046,7 +1096,7 @@
     {
       "id": "mn-ii-15",
       "signature": "MN II 15",
-      "title": "*Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630:* fol. 1 - 105; fol. 104/105 Index",
+      "title": "Coelum Commentatione Illustratum ab.....Fratre Simone Fyrbas Monacho Schyrensi .......in alma Salisburgensium Universitate Professore ordinario. Excipiente Religioso Fratre Ludovico Scherbio ....Monasterii Seittenstöttensis monacho 1630",
       "dateDisplay": "1630",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-15/"
@@ -1054,7 +1104,7 @@
     {
       "id": "mn-ii-16",
       "signature": "MN II 16",
-      "title": "*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*",
+      "title": "Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630",
       "dateDisplay": "1630",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-16/"
@@ -1070,7 +1120,7 @@
     {
       "id": "mn-ii-18",
       "signature": "MN II 18",
-      "title": "(In libros de Generatione et Corruptione): fol. 1 - 96",
+      "title": "In libros de Generatione et Corruptione",
       "dateDisplay": "1632",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-18/"
@@ -1094,7 +1144,7 @@
     {
       "id": "mn-ii-21",
       "signature": "MN II 21",
-      "title": "(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.",
+      "title": "Tractatus de Actibus Humanis",
       "dateDisplay": "1633",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-21/"
@@ -1102,7 +1152,7 @@
     {
       "id": "mn-ii-22",
       "signature": "MN II 22",
-      "title": "*Theoriae Physicae ad VIII Aristotelis libros Physicorum Dictatae ab.....P. Simone Fyrbas....Monacho Schyrensi Exceptae a F. Benedicto Graff ....in Seittenstätten Professo. Salisburgi Anno MDCXXXIV.*",
+      "title": "Theoriae Physicae ad VIII Aristotelis libros Physicorum Dictatae ab.....P. Simone Fyrbas....Monacho Schyrensi Exceptae a F. Benedicto Graff ....in Seittenstätten Professo. Salisburgi Anno MDCXXXIV",
       "dateDisplay": "1633/34",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-22/"
@@ -1110,7 +1160,7 @@
     {
       "id": "mn-ii-23",
       "signature": "MN II 23",
-      "title": "*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora....",
+      "title": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634)",
       "dateDisplay": "1634",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-23/"
@@ -1118,7 +1168,7 @@
     {
       "id": "mn-ii-24",
       "signature": "MN II 24",
-      "title": "(Theoriae ad Aristotelis tres libros de Anima) (folium titulare vacuum!): fol. 1 - 204r. Initium Protologiae fol. 1r: Praefixi ordinem librorum Aristotelis de natura....",
+      "title": "Theoriae ad Aristotelis tres libros de Anima) (folium titulare vacuum!",
       "dateDisplay": "1634 (mit eingebundenem Druck von 1627)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-24/"
@@ -1134,7 +1184,7 @@
     {
       "id": "mn-ii-26",
       "signature": "MN II 26",
-      "title": "(Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634): fol. 1 - 127. Initium Protologiae fol. 1r: Quantum caelum distat a terra in tantum nobilior.... Hoc initio constat hunc tractatum eundem esse atque tractatum codicis MN II 23, fol. 1 - 124 (vide supra p. 15) ideoque a P. Simone Fyrbas traditum esse. Scriptorem autem eumdem, qui codicem scripserit, e tegumento coniicimus. Fol. 128 - 147 vacua.",
+      "title": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstettensi. Salisburgi Anno 1634",
       "dateDisplay": "1634",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-26/"
@@ -1158,7 +1208,7 @@
     {
       "id": "mn-ii-29",
       "signature": "MN II 29",
-      "title": "*Physica Peripatetica Tradita a R. P. Adamo Griesser Societatis Jesu Sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu. Ad S. Annam Augustae (= Augsburg) Anno M.DC.XXXVII et VIII:* p. 1 - 760",
+      "title": "Physica Peripatetica Tradita a R. P. Adamo Griesser Societatis Jesu Sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu. Ad S. Annam Augustae (= Augsburg) Anno M.DC.XXXVII et VIII",
       "dateDisplay": "1637/38",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-29/"
@@ -1190,7 +1240,7 @@
     {
       "id": "mn-ii-33",
       "signature": "MN II 33",
-      "title": "(Tractatus de Legibus): p. 5 - 123; initium p. 5: Tractatus de legibus est quidem communis Theologis et Jurisperitis....",
+      "title": "Tractatus de Legibus",
       "dateDisplay": "1638",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-33/"
@@ -1206,7 +1256,7 @@
     {
       "id": "mn-ii-35",
       "signature": "MN II 35",
-      "title": "*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*",
+      "title": "De Defectibus in Celebratione Missarum Occurrentibus",
       "dateDisplay": "1639/40",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-35/"
@@ -1214,7 +1264,7 @@
     {
       "id": "mn-ii-36",
       "signature": "MN II 36",
-      "title": "De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15",
+      "title": "De Praeceptis Decalogi et virtutibus in eo contentis",
       "dateDisplay": "verschiedene Zeiten; alle Teile nach Einschätzung des Katalogbearbeiters vor 1650",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-36/"
@@ -1222,7 +1272,7 @@
     {
       "id": "mn-ii-37",
       "signature": "MN II 37",
-      "title": "*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus....",
+      "title": "De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641)",
       "dateDisplay": "1641",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-37/"
@@ -1230,7 +1280,7 @@
     {
       "id": "mn-ii-38",
       "signature": "MN II 38",
-      "title": "*Summulae, seu Brevis Introductio In universam Aristotelis Logicam:* fol. 1r - 47v. *Initium* fol. 1r: Cum intellectus humanus in operando variis obnoxius sit defectibus.... Nota utentis in margine superiore huius paginae: Jo(annis) Udalrici Zurcherri Brudentini U. J.",
+      "title": "Summulae, seu Brevis Introductio In universam Aristotelis Logicam",
       "dateDisplay": "1642/43",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-38/"
@@ -1238,7 +1288,7 @@
     {
       "id": "mn-ii-39",
       "signature": "MN II 39",
-      "title": "*In Universam Aristotelis Physicam Prooemium:* fol. 1 - 4v. *Initium* Prooemii: Post Exanlatos (!) felicis Deo Ter Optimo Maximo....",
+      "title": "In Universam Aristotelis Physicam Prooemium",
       "dateDisplay": "1644",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-39/"
@@ -1246,7 +1296,7 @@
     {
       "id": "mn-ii-40",
       "signature": "MN II 40",
-      "title": "*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis....",
+      "title": "Liber Primus De Regula actuum humanorum",
       "dateDisplay": "1647/48",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-40/"
@@ -1734,7 +1784,7 @@
     {
       "id": "mn-ii-101",
       "signature": "MN II 101",
-      "title": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
+      "title": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670",
       "dateDisplay": "1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-101/"
@@ -1750,7 +1800,7 @@
     {
       "id": "mn-ii-103",
       "signature": "MN II 103",
-      "title": "Tractatus De Vitiis et peccatis, et Legibus: Dictatus Ab....Patre Benedicto Pettschacher, ordinis Sanctissimi Patris Nostri Benedicti, Liberi ac exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore eiusdemque Professore, Decano, Spectabili, vice-rectore Salisburgensi meritissimo.",
+      "title": "Tractatus De Vitiis et peccatis, et Legibus: Dictatus Ab....Patre Benedicto Pettschacher, ordinis Sanctissimi Patris Nostri Benedicti, Liberi ac exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore eiusdemque Professore, Decano, Spectabili, vice-rectore Salisburgensi meritissimo",
       "dateDisplay": "1669",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-103/"
@@ -1758,7 +1808,7 @@
     {
       "id": "mn-ii-104",
       "signature": "MN II 104",
-      "title": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario: p. 3–629. Initium Prooemii p. 5: Post considerationem eorum, inquit angelicus Doctor hic in Prooemio,......",
+      "title": "Tractatus Theologicus De Sacramentis in genere et specie, Dictatus Ab.......Patre Desiderio Schapperger Benedictino Seonensi, Sacrosanctae Theologiae Doctore, eiusdemque professore ordinario",
       "dateDisplay": "1669",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-104/"
@@ -1766,7 +1816,7 @@
     {
       "id": "mn-ii-105",
       "signature": "MN II 105",
-      "title": "Summa Logicae Dictata Ab.....Patre Gregorio Wimberger Ordinis Sanctissimi Patris Benedicti in Celeberrimo Monasterio Cremifanensi professo, et Philosophiae illo tempore Salisburgi Professore Ordinario. Excepta verò â Reverendo Domino Fratre Joanne Gerstl eiusdemque (!) ordinis, Professo in Celeberrimo Monasterio Seittenstettensi inferioris Austriae. M: DC: LXX 1670.",
+      "title": "Summa Logicae Dictata Ab.....Patre Gregorio Wimberger Ordinis Sanctissimi Patris Benedicti in Celeberrimo Monasterio Cremifanensi professo, et Philosophiae illo tempore Salisburgi Professore Ordinario. Excepta verò â Reverendo Domino Fratre Joanne Gerstl eiusdemque (!) ordinis, Professo in Celeberrimo Monasterio Seittenstettensi inferioris Austriae. M: DC: LXX 1670",
       "dateDisplay": "1669/70",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-105/"
@@ -1774,7 +1824,7 @@
     {
       "id": "mn-ii-106",
       "signature": "MN II 106",
-      "title": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671: fol. 1–295v cum Indice fol. 297r–299r. Initium fol. 1r: Titulus: Commentarius In Physicam Aristotelis Philosophorum Principis Prooemium Post commentarium in philosophiam rationalem..... Clausula fol. 295v: ...de octo libris physicorum ad honorem.....Doctoris Angelici in ipsius Vigilia (6. Martii) sufficiant.",
+      "title": "Commentarius In Philosophiam Naturalem Dictatus Ab....Patre Gregorio Wimberger Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Cremifanensis Professo, Philosophiae Professore Ordinario Salisburgi et pro tempore eiusdem Facultatis Decano Dignissimo M:D:C:LXXI 1671 Exceptus A Reverendo Religioso ac Perdocto Domino Fratre Joanne Gerstl, Ordinis Sancti Patris Nostri Benedicti, Celeberrimi Monasterii Seittenstettensis Professo 1671",
       "dateDisplay": "(fragmentum libri antiphonarii)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-106/"
@@ -1782,7 +1832,7 @@
     {
       "id": "mn-ii-107",
       "signature": "MN II 107",
-      "title": "e) Continuatio Comentarii In Metaphysicam: fol. 71r–85r (=347–361). Initium fol. 347r: Dicendum est primo: Metaphysica est scientia speculativa entis realis....",
+      "title": "e) Continuatio Comentarii In Metaphysicam",
       "dateDisplay": "1671/72",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-107/"
@@ -1790,7 +1840,7 @@
     {
       "id": "mn-ii-108",
       "signature": "MN II 108",
-      "title": "(Logica Aristotelis)",
+      "title": "Logica Aristotelis",
       "dateDisplay": "probabiliter 1669",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-108/"
@@ -1798,7 +1848,7 @@
     {
       "id": "mn-ii-109",
       "signature": "MN II 109",
-      "title": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
+      "title": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis",
       "dateDisplay": "ca. 1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-109/"
@@ -1806,7 +1856,7 @@
     {
       "id": "mn-ii-110",
       "signature": "MN II 110",
-      "title": "Tractatus Theologicus Moralis In Praecepta Decalogi et ecclesiae: p. 5–496. Initium Prooemii In universam Theologiam moralem p. 5: Non excurro multum in laudes et praeconia moralis Theologiae..... Clausula p. 496: Die 9 Octobris Anno 1669 Finis. Inscriptio dorsi: Tractatus Theologicus Moralis Casisticus: 1669 de decalogi et Ecclesiae Praeceptis M. S. P. Ernesti Weissenberger Seittenstettensis.",
+      "title": "Tractatus Theologicus Moralis In Praecepta Decalogi et ecclesiae",
       "dateDisplay": "1669",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-110/"
@@ -1822,7 +1872,7 @@
     {
       "id": "mn-ii-112",
       "signature": "MN II 112",
-      "title": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra p. 64), qui anno 1670 scriptus est.",
+      "title": "Easdem lectiones, a P. Benedicto Pettschacher ad S. Lambertum in Styria professo Salisburgi dictatas, invenies etiam in codice MN II 101 (supra",
       "dateDisplay": "ca. 1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-112/"
@@ -1830,7 +1880,7 @@
     {
       "id": "mn-ii-113",
       "signature": "MN II 113",
-      "title": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra p. 63) et codex MN II 104 (supra p. 65). Cum vero etiam codex noster anno 1669 exceptus sit, eadem de causa dubitandum est, quam supra p. 69 ad codicem MN II 111 exposuimus.",
+      "title": "Easdem lectiones Salisburgi anno 1669 a P. Desiderio Schapperger monacho Seeonensi habitas continent etiam partes a–d codicis MN II 100 (supra",
       "dateDisplay": "ca. 1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-113/"
@@ -1838,7 +1888,7 @@
     {
       "id": "mn-ii-114",
       "signature": "MN II 114",
-      "title": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra p. 60/61).",
+      "title": "Eundem Tractatum in librum tertium Decretalium continet etiam pars a codicis MN II 94 (supra",
       "dateDisplay": "1672 et 1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-114/"
@@ -1846,7 +1896,7 @@
     {
       "id": "mn-ii-115",
       "signature": "MN II 115",
-      "title": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes: p. 5–636. Initium Disputationis Primae De iure p. 5: Nota primo ius varie usurpari......",
+      "title": "Tractatus De Jure et iustitia In quaestionem quinquagesimam septimam S: Doctoris et sequentes",
       "dateDisplay": "ca. 1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-115/"
@@ -1862,7 +1912,7 @@
     {
       "id": "mn-ii-117",
       "signature": "MN II 117",
-      "title": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
+      "title": "Jus Civile seu In L Libros Digestorum",
       "dateDisplay": "non post annum 1669",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-117/"
@@ -1870,7 +1920,7 @@
     {
       "id": "mn-ii-118",
       "signature": "MN II 118",
-      "title": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae: fol. 2v–248r; de Sacramento Extremae Unctionis: fol. 248v–255v; de Sacramento Ordinis: fol. 255v–265r; de Sacramento Matrimonii: fol. 265r–285r).",
+      "title": "Tractatus tertius in tertiam partem S: Doctoris De Reliquis quatuor Sacramentis (id est de Sacramento Paenitentiae",
       "dateDisplay": "1670",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-118/"
@@ -1878,7 +1928,7 @@
     {
       "id": "mn-ii-119",
       "signature": "MN II 119",
-      "title": "(Logica): p. 1–992.",
+      "title": "Logica",
       "dateDisplay": "1671",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-119/"
@@ -1886,7 +1936,7 @@
     {
       "id": "mn-ii-120",
       "signature": "MN II 120",
-      "title": "(Physica Aristotelis)",
+      "title": "Physica Aristotelis",
       "dateDisplay": "1672",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-120/"
@@ -1902,7 +1952,7 @@
     {
       "id": "mn-ii-122",
       "signature": "MN II 122",
-      "title": "In Duos Libros De Generatione et Corruptione: fol. 1 - 91v. Initium fol. 1r: Corpus naturale dividitur primo in simplex et mixtum.... (Prooemium)",
+      "title": "In Duos Libros De Generatione et Corruptione",
       "dateDisplay": "1654 (?)",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-122/"
@@ -1926,7 +1976,7 @@
     {
       "id": "mn-ii-125",
       "signature": "MN II 125",
-      "title": "Praefatio In Casus Conscientiae: p. 3 - 8. Initium p. 3: Theologiam (I) secundum Ethimologiam nominis sermonem de Deo, rebusque divinis significat....",
+      "title": "Praefatio In Casus Conscientiae",
       "dateDisplay": "anno 1652",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-125/"
@@ -3174,7 +3224,7 @@
     {
       "id": "mn-ii-281",
       "signature": "MN II 281",
-      "title": "Tractatus Scholastico-Positivus De Jure, et Justitia",
+      "title": "Tractatus Scholastico-Positivus De Jure et Justitia",
       "dateDisplay": "1751",
       "repository": "Stiftsbibliothek Seitenstetten",
       "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-281/"

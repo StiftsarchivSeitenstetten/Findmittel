@@ -13,233 +13,494 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–5 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: '(Altera pars orationis panegyricae in honorem Divi Thomae Doctoris Angelici): p. 4–5–6–3 (Pars prior
-      deest; ordo paginarum inversus)'
+    catalog_statement: '(Altera pars orationis panegyricae in honorem Divi Thomae Doctoris Angelici): p. 4–5–6–3 (Pars prior deest; ordo paginarum
+      inversus)'
+    title: Altera pars orationis panegyricae in honorem Divi Thomae Doctoris Angelici
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 4–5
   - label: b
     catalog_statement: 'Laus vini – Vituperium aquae (Carmen 7 strophis quaternorum versuum compositum): p. 9'
+    title: Laus vini – Vituperium aquae (Carmen 7 strophis quaternorum versuum compositum)
+    locus: p. 9
+    title_status: unspecified
   - label: c
     catalog_statement: '(Exemplum Amplificationis): p. 10'
+    title: Exemplum Amplificationis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 10
   - label: d
-    catalog_statement: 'Chria Verbalis Magna non latitant mala Senecae in Medeam (aliaeque Chriae id est brevia exercitia
-      oratoria ad singula themata): p. 11–14'
+    catalog_statement: 'Chria Verbalis Magna non latitant mala Senecae in Medeam (aliaeque Chriae id est brevia exercitia oratoria ad singula
+      themata): p. 11–14'
+    title: Chria Verbalis Magna non latitant mala Senecae in Medeam (aliaeque Chriae id est brevia exercitia oratoria ad singula themata)
+    locus: p. 11–14
+    title_status: unspecified
   - label: e
     catalog_statement: 'Epistola suasoria: p. 14–15'
+    title: Epistola suasoria
+    locus: p. 14–15
+    title_status: unspecified
   - label: f
     catalog_statement: 'Apprecatio Natalis (Carmen versuum imparium ad diem natalem compositum): p. 15'
+    title: Apprecatio Natalis (Carmen versuum imparium ad diem natalem compositum)
+    locus: p. 15
+    title_status: unspecified
   - label: g
     catalog_statement: 'Anagramma (et carmen in honorem Iovis): p. 16'
+    title: Anagramma (et carmen in honorem Iovis)
+    locus: p. 16
+    title_status: unspecified
   - label: h
-    catalog_statement: 'Quaestio Problematica (!) deducenda per locum oratorium ê partium enumeratione de sancto Thaumaturgo
-      (!) Xaverio: p. 17'
+    catalog_statement: 'Quaestio Problematica (!) deducenda per locum oratorium ê partium enumeratione de sancto Thaumaturgo (!) Xaverio: p. 17'
+    title: Quaestio Problematica (!) deducenda per locum oratorium ê partium enumeratione de sancto Thaumaturgo (!) Xaverio
+    locus: p. 17
+    title_status: unspecified
   - label: i
     catalog_statement: 'De Diis et Deabus: p. 18–19'
+    title: De Diis et Deabus
+    locus: p. 18–19
+    title_status: unspecified
   - label: j
     catalog_statement: 'Homines et populi re aliqua insignes et clari: p. 19–21'
+    title: Homines et populi re aliqua insignes et clari
+    locus: p. 19–21
+    title_status: unspecified
   - label: k
     catalog_statement: 'Exercitia oratoria in genere Deliberativo seu consultativo: p. 22/46'
+    title: Exercitia oratoria in genere Deliberativo seu consultativo
+    locus: p. 22/46
+    title_status: unspecified
   - label: l
-    catalog_statement: '(Duae litterae mense Martio 1679 Salisburgi datae, altera ad abbatem Seitenstettensem Adamum Piringer
-      ad petendas litteras dimissoriales pro sacro subdiaconatus ordine a Fr. Leopoldo Wimmer suscipiendo, altera ad Priorem
-      Seitenstettensem Benedictum Abelzhauser eaque gratulatoria ad diem onomasticum composita): p. 47–50 (Apographon)'
+    catalog_statement: '(Duae litterae mense Martio 1679 Salisburgi datae, altera ad abbatem Seitenstettensem Adamum Piringer ad petendas litteras
+      dimissoriales pro sacro subdiaconatus ordine a Fr. Leopoldo Wimmer suscipiendo, altera ad Priorem Seitenstettensem Benedictum Abelzhauser
+      eaque gratulatoria ad diem onomasticum composita): p. 47–50 (Apographon)'
+    title: Duae litterae mense Martio 1679 Salisburgi datae, altera ad abbatem Seitenstettensem Adamum Piringer ad petendas litteras dimissoriales
+      pro sacro subdiaconatus ordine a Fr. Leopoldo Wimmer suscipiendo, altera ad Priorem Seitenstettensem Benedictum Abelzhauser eaque gratulatoria
+      ad diem onomasticum composita
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 47–50
   - label: m
-    catalog_statement: 'Chriae (aliaque exempla et exercitia oratoria): p. 51–82 (ex. gr. Chria Activa De Sancto Benedicto:
-      p. 51–52; oratiuncula in Resurrectione Domini: p. 57–58; p. 59–62 videtur esse oratio de S. Wenceslao, in cuius fine
-      haec nota marginalis invenitur: Haec Ex P. Domer (?), minus tamen bene applicata; p. 63–65: oratio gratulatoria ad diem
-      onomasticum cuiusdam professoris logicae nomine P. Caelestini, probabiliter P. Caelestini Pley, professi Seitenstettensis,
-      ca. 1692; p. 67–70: Thema Pro praemiis in Rhetorica; p. 71–72: Allegorica Oratio de S. Benedicto)'
+    catalog_statement: 'Chriae (aliaque exempla et exercitia oratoria): p. 51–82 (ex. gr. Chria Activa De Sancto Benedicto: p. 51–52; oratiuncula
+      in Resurrectione Domini: p. 57–58; p. 59–62 videtur esse oratio de S. Wenceslao, in cuius fine haec nota marginalis invenitur: Haec Ex P.
+      Domer (?), minus tamen bene applicata; p. 63–65: oratio gratulatoria ad diem onomasticum cuiusdam professoris logicae nomine P. Caelestini,
+      probabiliter P. Caelestini Pley, professi Seitenstettensis, ca. 1692; p. 67–70: Thema Pro praemiis in Rhetorica; p. 71–72: Allegorica Oratio
+      de S. Benedicto)'
+    title: Chriae (aliaque exempla et exercitia oratoria)
+    locus: p. 51–82
+    title_status: unspecified
   - label: n
-    catalog_statement: 'Symbola (id est picturae symbolicae cuiusdam qualitatis, ex. gr. blasphemiae, singulis versibus imparibus
-      explicatae): p. 83–89'
+    catalog_statement: 'Symbola (id est picturae symbolicae cuiusdam qualitatis, ex. gr. blasphemiae, singulis versibus imparibus explicatae):
+      p. 83–89'
+    title: Symbola (id est picturae symbolicae cuiusdam qualitatis, ex. gr. blasphemiae, singulis versibus imparibus explicatae)
+    locus: p. 83–89
+    title_status: unspecified
   - label: o
-    catalog_statement: 'Anathemata Sacrosancto Eucharistiae Sacramento, á iuventute Salisburgensi 1671 assensa (?) [handschriftlich
-      korrigiert: „suspensa“]: p. 89–94 (Emblemata cum versibus imparibus)'
+    catalog_statement: 'Anathemata Sacrosancto Eucharistiae Sacramento, á iuventute Salisburgensi 1671 assensa (?) [handschriftlich korrigiert:
+      „suspensa“]: p. 89–94 (Emblemata cum versibus imparibus)'
+    title: 'Anathemata Sacrosancto Eucharistiae Sacramento, á iuventute Salisburgensi 1671 assensa (?) [handschriftlich korrigiert: „suspensa“]'
+    locus: p. 89–94
+    title_status: unspecified
   - label: p
     catalog_statement: 'Sacramentum Eucharistiae Symbolice expressum: p. 94–99 (Emblemata cum versibus imparibus)'
+    title: Sacramentum Eucharistiae Symbolice expressum
+    locus: p. 94–99
+    title_status: unspecified
   - label: q
     catalog_statement: '(4 Symbola cum versibus imparibus): p. 101–102'
+    title: 4 Symbola cum versibus imparibus
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 101–102
   - label: r
-    catalog_statement: '(Exemplum dedicationis cuiusdam operis theologici Celsissimo cuidam Principi, probabiliter Joanni
-      Ernesto Comiti de Thun, Principi-Archiepiscopo Salisburgensi, dedicandi): p. 103–108 (Fortasse haec dedicatio scripta
-      est pro Parte I operis, quod inscriptum est Basis universae Theologiae id est Divina Fides Academicae Illustrationi
-      commissa....; operis istius pars prima anno 1707 sub praeside P. Caelestino Pley monacho Seitenstettensi in lucem evenit.)
-      Initium: Phidias sculptorum siquis alius....'
+    catalog_statement: '(Exemplum dedicationis cuiusdam operis theologici Celsissimo cuidam Principi, probabiliter Joanni Ernesto Comiti de Thun,
+      Principi-Archiepiscopo Salisburgensi, dedicandi): p. 103–108 (Fortasse haec dedicatio scripta est pro Parte I operis, quod inscriptum est
+      Basis universae Theologiae id est Divina Fides Academicae Illustrationi commissa....; operis istius pars prima anno 1707 sub praeside P.
+      Caelestino Pley monacho Seitenstettensi in lucem evenit.) Initium: Phidias sculptorum siquis alius....'
+    title: Exemplum dedicationis cuiusdam operis theologici Celsissimo cuidam Principi, probabiliter Joanni Ernesto Comiti de Thun, Principi-Archiepiscopo
+      Salisburgensi, dedicandi
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 103–108
+    incipits:
+    - text: Phidias sculptorum siquis alius....
   - label: s
     catalog_statement: 'Notata ex Prosodia: p. 109–113'
+    title: Notata ex Prosodia
+    locus: p. 109–113
+    title_status: unspecified
   - label: t
     catalog_statement: 'Notata de Poesi: p. 115–159'
+    title: Notata de Poesi
+    locus: p. 115–159
+    title_status: unspecified
   - label: u
-    catalog_statement: 'De Poesi artificiosa: p. 161–204 (Explicantur 24 genera poeseos artificiosae, ex. gr. Anagramma, Aenigma,
-      Carmen Cabalisticum, singula cum exemplis; exempla Chronostici ad annum, quo traditus est tractatus hic de poesi, p.
-      186:'
+    catalog_statement: 'De Poesi artificiosa: p. 161–204 (Explicantur 24 genera poeseos artificiosae, ex. gr. Anagramma, Aenigma, Carmen Cabalisticum,
+      singula cum exemplis; exempla Chronostici ad annum, quo traditus est tractatus hic de poesi, p. 186:'
+    title: De Poesi artificiosa
+    locus: p. 161–204
+    title_status: unspecified
   - label: v
-    catalog_statement: 'Brevis Instructio cultus Poetici sive Practica quaedam principia obviam quancunque constructionem
-      in carmen Phrasi poeticâ concinandi: p. 205–209'
+    catalog_statement: 'Brevis Instructio cultus Poetici sive Practica quaedam principia obviam quancunque constructionem in carmen Phrasi poeticâ
+      concinandi: p. 205–209'
+    title: Brevis Instructio cultus Poetici sive Practica quaedam principia obviam quancunque constructionem in carmen Phrasi poeticâ concinandi
+    locus: p. 205–209
+    title_status: unspecified
   - label: w
     catalog_statement: 'De fictione Poetica: p. 209–213'
+    title: De fictione Poetica
+    locus: p. 209–213
+    title_status: unspecified
   - label: x
     catalog_statement: 'De Poemate: p. 213–215'
+    title: De Poemate
+    locus: p. 213–215
+    title_status: unspecified
   - label: y
-    catalog_statement: 'Ode Panegyrica Sive Satyrica: Laus victoriosae urbis Viennae [ein Wort überschrieben/unlesbar] (Hoc
-      Poema forsitan anno 1683 ortum est.): p. 215–216'
+    catalog_statement: 'Ode Panegyrica Sive Satyrica: Laus victoriosae urbis Viennae [ein Wort überschrieben/unlesbar] (Hoc Poema forsitan anno
+      1683 ortum est.): p. 215–216'
+    title: 'Ode Panegyrica Sive Satyrica: Laus victoriosae urbis Viennae [ein Wort überschrieben/unlesbar] (Hoc Poema forsitan anno 1683 ortum
+      est.)'
+    locus: p. 215–216
+    title_status: unspecified
   - label: z
     catalog_statement: 'De Carmine: p. 216–217'
+    title: De Carmine
+    locus: p. 216–217
+    title_status: unspecified
   - label: A
     catalog_statement: 'Lyra Horatiana Seu genera Odarum Horatii: p. 217–222'
+    title: Lyra Horatiana Seu genera Odarum Horatii
+    locus: p. 217–222
+    title_status: unspecified
   - label: B
     catalog_statement: 'Proverbia Germanico Latina: p. 222–228'
+    title: Proverbia Germanico Latina
+    locus: p. 222–228
+    title_status: unspecified
   - label: C
     catalog_statement: 'Centum Nomina Lullii (id est centum nomina philosophica: Entitas....): p. 229–231'
+    title: 'Centum Nomina Lullii (id est centum nomina philosophica: Entitas....)'
+    locus: p. 229–231
+    title_status: unspecified
   - label: D
-    catalog_statement: '(4 carmina): Apprecatio Natalis; Facinora Sancti Alexii; In Garrulos; In Rhetorem Studiis valedicentem:
-      p. 231–234'
+    catalog_statement: '(4 carmina): Apprecatio Natalis; Facinora Sancti Alexii; In Garrulos; In Rhetorem Studiis valedicentem: p. 231–234'
+    title: '(4 carmina): Apprecatio Natalis; Facinora Sancti Alexii; In Garrulos; In Rhetorem Studiis valedicentem'
+    locus: p. 231–234
+    title_status: supplied
+    title_source: cataloguer
   - label: E
     catalog_statement: 'De Epigrammate: p. 234–236'
+    title: De Epigrammate
+    locus: p. 234–236
+    title_status: unspecified
   - label: F
     catalog_statement: 'De generibus figurarum: p. 237–242'
+    title: De generibus figurarum
+    locus: p. 237–242
+    title_status: unspecified
   - label: G
-    catalog_statement: 'Sequuntur Epigrammata Varia: p. 243–274 (De Vitâ Jesu Christi et Beatae Virginis Mariae; miracula
-      Christi; de Mundo; de Vita et Morte; de Amore; de Grammatica, Poetica ad easque pertinentibus; de Virtutibus et Vitiis;
-      de Musica; de Militia; de Animalibus Irrationalibus; De Vitiosis, Pauperibus Ebriis, et Falsis Hominibus; De Rebus Inanimantibus)'
+    catalog_statement: 'Sequuntur Epigrammata Varia: p. 243–274 (De Vitâ Jesu Christi et Beatae Virginis Mariae; miracula Christi; de Mundo; de
+      Vita et Morte; de Amore; de Grammatica, Poetica ad easque pertinentibus; de Virtutibus et Vitiis; de Musica; de Militia; de Animalibus Irrationalibus;
+      De Vitiosis, Pauperibus Ebriis, et Falsis Hominibus; De Rebus Inanimantibus)'
+    title: Sequuntur Epigrammata Varia
+    locus: p. 243–274
+    title_status: unspecified
   - label: H
-    catalog_statement: Sequuntur aliqua Aenigmata cum Solutione (p. 274–277), Anagrammata (p. 277), Epitaphia (p. 278), Carmina,
-      Et Epigrammata artificiosa (p. 278–281), Epigrammata de Beata Virgine (p. 281–282), De Sanctis (282–284), De Sexû faemineo
-      (285), De Parco et Prodigo (285), (Dedicatio) Deo Ter Optimo Maximo (p. 285)
+    catalog_statement: Sequuntur aliqua Aenigmata cum Solutione (p. 274–277), Anagrammata (p. 277), Epitaphia (p. 278), Carmina, Et Epigrammata
+      artificiosa (p. 278–281), Epigrammata de Beata Virgine (p. 281–282), De Sanctis (282–284), De Sexû faemineo (285), De Parco et Prodigo (285),
+      (Dedicatio) Deo Ter Optimo Maximo (p. 285)
+    title: Sequuntur aliqua Aenigmata cum Solutione (
+    locus: p. 274–277
+    title_status: unspecified
   - label: I
-    catalog_statement: 'Descriptiones aliquae variarum rerum (versibus imparibus conditae): p. 286–289 (Horti, Sylvae, Quatuor
-      Anni Temporum)'
+    catalog_statement: 'Descriptiones aliquae variarum rerum (versibus imparibus conditae): p. 286–289 (Horti, Sylvae, Quatuor Anni Temporum)'
+    title: Descriptiones aliquae variarum rerum (versibus imparibus conditae)
+    locus: p. 286–289
+    title_status: unspecified
   - label: J
     catalog_statement: '(Diversa alia carmina versuum imparium): p. 289–314'
+    title: Diversa alia carmina versuum imparium
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 289–314
   - label: K
     catalog_statement: 'Desperatus moriens (Carmen in trimetris iambicis compositum): 314/5'
+    title: 'Desperatus moriens (Carmen in trimetris iambicis compositum): 314/5'
+    title_status: unspecified
   - label: L
-    catalog_statement: 'Chorus Daemonum (in margine: Dictatum per anapaestica): p. 316–317 (Unaquaque stropha tres dimetros
-      anapaesticos versumque Adonium continet.)'
+    catalog_statement: 'Chorus Daemonum (in margine: Dictatum per anapaestica): p. 316–317 (Unaquaque stropha tres dimetros anapaesticos versumque
+      Adonium continet.)'
+    title: 'Chorus Daemonum (in margine: Dictatum per anapaestica)'
+    locus: p. 316–317
+    title_status: unspecified
   - label: M
-    catalog_statement: '(Diversae aliae Elegiae, praeter perpaucas pure heroicas versibus imparibus scriptae): p. 318–354
-      (354: De turri Seittenstettensi)'
+    catalog_statement: '(Diversae aliae Elegiae, praeter perpaucas pure heroicas versibus imparibus scriptae): p. 318–354 (354: De turri Seittenstettensi)'
+    title: Diversae aliae Elegiae, praeter perpaucas pure heroicas versibus imparibus scriptae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 318–354
   - label: N
     catalog_statement: 'Ver mortales ad suas delicias invitat: p. 355 (Hoc carmen compositum est catalecticis iambicis tetrametris!)'
+    title: Ver mortales ad suas delicias invitat
+    locus: p. 355
+    title_status: unspecified
   - label: O
     catalog_statement: 'Descriptio veris per Saphica: p. 356 (strophae Sapphicae)'
+    title: Descriptio veris per Saphica
+    locus: p. 356
+    title_status: unspecified
   - label: P
-    catalog_statement: 'De Actaeone in cervum mutato. Dicolon Distrophon per Hexametros (et iambicos) dimetros (ut Horatii
-      Epod. 14 et 15): p. 357–358'
+    catalog_statement: 'De Actaeone in cervum mutato. Dicolon Distrophon per Hexametros (et iambicos) dimetros (ut Horatii Epod. 14 et 15): p.
+      357–358'
+    title: De Actaeone in cervum mutato. Dicolon Distrophon per Hexametros (et iambicos) dimetros (ut Horatii Epod. 14 et 15)
+    locus: p. 357–358
+    title_status: unspecified
   - label: Q
     catalog_statement: '(Varia carmina elegiaca et heroica): p. 358–372'
+    title: Varia carmina elegiaca et heroica
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 358–372
   - label: R
-    catalog_statement: 'Descriptio veris per Saphica: p. 373–374 (Strophae 1–5 idem sunt carmen, quod in parte O supra notavimus;
-      ceterae strophae dedicatae sunt neomystae cuidam primitiae celebranti.)'
+    catalog_statement: 'Descriptio veris per Saphica: p. 373–374 (Strophae 1–5 idem sunt carmen, quod in parte O supra notavimus; ceterae strophae
+      dedicatae sunt neomystae cuidam primitiae celebranti.)'
+    title: Descriptio veris per Saphica
+    locus: p. 373–374
+    title_status: unspecified
   - label: S
     catalog_statement: '(Alia carmina versuum imparium): p. 375–376'
+    title: Alia carmina versuum imparium
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 375–376
   - label: T
     catalog_statement: 'Carmen Saphicum De vere ad Studiosos: p. 377'
+    title: Carmen Saphicum De vere ad Studiosos
+    locus: p. 377
+    title_status: unspecified
   - label: U
-    catalog_statement: '(Diversa carmina heroica et elegiaca): p. 378–399 (Chronostichon p. 399: SaeCLa bIs oCto patent, en
-      nonagIntaqVe qVInqVe FrVCtVs, CVM pareret ConIVge VIrgo Carens.) (ad ann. 1695)'
+    catalog_statement: '(Diversa carmina heroica et elegiaca): p. 378–399 (Chronostichon p. 399: SaeCLa bIs oCto patent, en nonagIntaqVe qVInqVe
+      FrVCtVs, CVM pareret ConIVge VIrgo Carens.) (ad ann. 1695)'
+    title: Diversa carmina heroica et elegiaca
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 378–399
   - label: V
     catalog_statement: 'De Epigrammate: p. 401–411 (cum commentariis ad aliquot epigrammata Martialis poetae)'
+    title: De Epigrammate
+    locus: p. 401–411
+    title_status: unspecified
   - label: W
-    catalog_statement: 'Coelestine: p. 413–414 (Epistola aut oratiuncula ad quendam Coelestinum, fortasse P. Coelestinum Pley
-      monachum Seitenstettensem, scripta, ut scribentem aliosque ad Magisterium promoveat.)'
+    catalog_statement: 'Coelestine: p. 413–414 (Epistola aut oratiuncula ad quendam Coelestinum, fortasse P. Coelestinum Pley monachum Seitenstettensem,
+      scripta, ut scribentem aliosque ad Magisterium promoveat.)'
+    title: Coelestine
+    locus: p. 413–414
+    title_status: unspecified
   - label: X
-    catalog_statement: '(Exercitia poetica, et oratoria): p. 415–449 (Carminibus interdum notae prosodiacae appositae sunt.
-      p. 421, 425, 431 ineunte carmine in margine appositum est nomen Joannes Ferdinandus Benedictus Merkh; p. 435 Wolfgangus
-      Joannes Spreizer Anno 1694. E scriptura coniiciendum est hunc p. 435–437, illum p. 421–434 scripsisse. Videntur autem
-      ista folia pensa scholaria esse, a discipulis magistro Poeseos aut Rhetorices tradita, ideoque fortasse uterque quam
-      scripsit partem, etiam ipse composuit.) Wolfgangus Joannes Spreizer probabiliter idem est atque P. Gregorius Spreizer,
-      monachus Seitenstettensis, natus 1675 in Ybbsitz, professus 1696, sacerdos ca. 1704, † 1713, Musicus. Sunt igitur haec
+    catalog_statement: '(Exercitia poetica, et oratoria): p. 415–449 (Carminibus interdum notae prosodiacae appositae sunt. p. 421, 425, 431 ineunte
+      carmine in margine appositum est nomen Joannes Ferdinandus Benedictus Merkh; p. 435 Wolfgangus Joannes Spreizer Anno 1694. E scriptura coniiciendum
+      est hunc p. 435–437, illum p. 421–434 scripsisse. Videntur autem ista folia pensa scholaria esse, a discipulis magistro Poeseos aut Rhetorices
+      tradita, ideoque fortasse uterque quam scripsit partem, etiam ipse composuit.) Wolfgangus Joannes Spreizer probabiliter idem est atque P.
+      Gregorius Spreizer, monachus Seitenstettensis, natus 1675 in Ybbsitz, professus 1696, sacerdos ca. 1704, † 1713, Musicus. Sunt igitur haec
       opuscula probabiliter exercitia scholae humanitatis Seitenstettensis.'
+    title: Exercitia poetica, et oratoria
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 415–449
   - label: Y
     catalog_statement: 'De Diis, et Deabus: p. 450–451'
+    title: De Diis, et Deabus
+    locus: p. 450–451
+    title_status: unspecified
   - label: Z
     catalog_statement: 'Sequuntur homines et populi re aliquâ insignes et Clari: p. 451–453'
+    title: Sequuntur homines et populi re aliquâ insignes et Clari
+    locus: p. 451–453
+    title_status: unspecified
   - label: Z₁
     catalog_statement: 'Sequuntur Transitiones connectendae Periodi: p. 454–456'
+    title: Sequuntur Transitiones connectendae Periodi
+    locus: p. 454–456
+    title_status: unspecified
   - label: Z₂
-    catalog_statement: '(Carmina elegiaca et Epigrammata varia): p. 457–487. (p. 457 ineunte Elegia In qua describuntur Apum
-      Labores, invenitur in margine nomen scribentis Josephus Carolus Vitsch. Ut scriptura demonstrat, Josephus ille Carolus
-      Vitsch pagg. 457–462 scripsit. Quem has elegias et ipsum composuisse, ex iisdem causis ratiocinandum est, quas supra
-      p. 122 ad partem X exposuimus. Fuit ille Josephus Carolus Vitsch frater abbatis Seitenstettensis Pauli de Vitsch, cui
-      etiam carmen gratulatorium dedicavit, quod in libro Pauli de Vitsch De Sacramentis in genere – asservatum in scrinio
-      A71 archivi monasterii Seitenstettensis – 1699 typis mandatum est.)'
+    catalog_statement: '(Carmina elegiaca et Epigrammata varia): p. 457–487. (p. 457 ineunte Elegia In qua describuntur Apum Labores, invenitur
+      in margine nomen scribentis Josephus Carolus Vitsch. Ut scriptura demonstrat, Josephus ille Carolus Vitsch pagg. 457–462 scripsit. Quem
+      has elegias et ipsum composuisse, ex iisdem causis ratiocinandum est, quas supra p. 122 ad partem X exposuimus. Fuit ille Josephus Carolus
+      Vitsch frater abbatis Seitenstettensis Pauli de Vitsch, cui etiam carmen gratulatorium dedicavit, quod in libro Pauli de Vitsch De Sacramentis
+      in genere – asservatum in scrinio A71 archivi monasterii Seitenstettensis – 1699 typis mandatum est.)'
+    title: Carmina elegiaca et Epigrammata varia
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 457–487
   - label: Z₃
-    catalog_statement: 'Themata dictata in Poesi â Plurimum Reverendo Religiosissimo ac Doctissimo Domino P: Marco Starnisi
-      Ordinis S: Benedicti in Monasterio Seittenstettensi professo, pro tempore Professore ordinario, nec non universae studiosae
-      iuventutis directore. Scripta A Joanne Friderico Calles Poeseos studioso. Anno MDCXCIV (1694). 12 Decembris: p. 489–631.
-      Quorum carminum maxima pars elegiae sunt. p. 514 invenitur stropha sapphica, p. 537 stropha iambica, p. 543–546 carmina
-      sapphica, p. 548–552 carmina iambica, p. 553–557 carmen anapaesticum (tres dimetri anapaestici + Adonius aut monometer
-      anapaesticus), Carmen per Hexametrum et dimetrum (iambicum, ut apud Horatium, Epod. 14 et 15): p. 563, carmen hexametricum:
-      p. 565–566, carmen per Hexametrum et dimetrum: p. 567, tres strophae Alcaeicae: p. 568–569, carmen Sapphicum: p. 573–574,
-      carmen dactylicum, alternantibus hexametris et tetrametris compositum: p. 578–579, Epitaphium defuncti P. Meinradi (Higger
-      Seitenstettensis, qui 5. die Julii obiit 1695): p. 609 (ab ipso scribente mox deletum), carmen hexametricum p. 611–617,
-      item p. 618–619, 625–628. Singula themata huius partis codicis nostri a professore in oratione soluta dictabantur, discipulus
-      autem idem thema versibus includebat. Ex. gr. p. 518 in initio thematis: Cliens Jesulo cor suum in strenam dat, haec
-      nota marginalis invenitur: Usque ad novum annum, id est: discipulis a professore mandatum est, ut hoc thema usque ad
-      novum annum versibus includerent. Ipsa autem themata secundum cursum anni cum civilis tum ecclesiastici disposita sunt
-      a festo S. Martini (11. Novembris 1694) usque ad Assumptionem Beatae Mariae Virginis (15. Augusti 1695). p. 502 haec
-      invenitur nota marginalis: Speiz (?) Deus punit vitia – Calles de Beata Virgine sine macula concepta. – Rein de volucre
-      eiaculando – Pramberger (?) de recreatione – Eckhard de luna. – Härren de praesepi – Schinagl de'
+    catalog_statement: 'Themata dictata in Poesi â Plurimum Reverendo Religiosissimo ac Doctissimo Domino P: Marco Starnisi Ordinis S: Benedicti
+      in Monasterio Seittenstettensi professo, pro tempore Professore ordinario, nec non universae studiosae iuventutis directore. Scripta A Joanne
+      Friderico Calles Poeseos studioso. Anno MDCXCIV (1694). 12 Decembris: p. 489–631. Quorum carminum maxima pars elegiae sunt. p. 514 invenitur
+      stropha sapphica, p. 537 stropha iambica, p. 543–546 carmina sapphica, p. 548–552 carmina iambica, p. 553–557 carmen anapaesticum (tres
+      dimetri anapaestici + Adonius aut monometer anapaesticus), Carmen per Hexametrum et dimetrum (iambicum, ut apud Horatium, Epod. 14 et 15):
+      p. 563, carmen hexametricum: p. 565–566, carmen per Hexametrum et dimetrum: p. 567, tres strophae Alcaeicae: p. 568–569, carmen Sapphicum:
+      p. 573–574, carmen dactylicum, alternantibus hexametris et tetrametris compositum: p. 578–579, Epitaphium defuncti P. Meinradi (Higger Seitenstettensis,
+      qui 5. die Julii obiit 1695): p. 609 (ab ipso scribente mox deletum), carmen hexametricum p. 611–617, item p. 618–619, 625–628. Singula
+      themata huius partis codicis nostri a professore in oratione soluta dictabantur, discipulus autem idem thema versibus includebat. Ex. gr.
+      p. 518 in initio thematis: Cliens Jesulo cor suum in strenam dat, haec nota marginalis invenitur: Usque ad novum annum, id est: discipulis
+      a professore mandatum est, ut hoc thema usque ad novum annum versibus includerent. Ipsa autem themata secundum cursum anni cum civilis tum
+      ecclesiastici disposita sunt a festo S. Martini (11. Novembris 1694) usque ad Assumptionem Beatae Mariae Virginis (15. Augusti 1695). p.
+      502 haec invenitur nota marginalis: Speiz (?) Deus punit vitia – Calles de Beata Virgine sine macula concepta. – Rein de volucre eiaculando
+      – Pramberger (?) de recreatione – Eckhard de luna. – Härren de praesepi – Schinagl de'
+    title: 'Themata dictata in Poesi â Plurimum Reverendo Religiosissimo ac Doctissimo Domino P: Marco Starnisi Ordinis S: Benedicti in Monasterio
+      Seittenstettensi professo, pro tempore Professore ordinario, nec non universae studiosae iuventutis directore. Scripta A Joanne Friderico
+      Calles Poeseos studioso. Anno MDCXCIV (1694). 12 Decembris'
+    locus: p. 489–631
+    title_status: unspecified
   - label: Z₄
     catalog_statement: '(Brevis Regula meditandi Passionem Christi): p. 633'
+    title: Brevis Regula meditandi Passionem Christi
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 633
   - label: Z₅
     catalog_statement: 'Compendium. De Meditatione. Sive exercitio Spirituali: p. 634'
+    title: Compendium. De Meditatione. Sive exercitio Spirituali
+    locus: p. 634
+    title_status: unspecified
   - label: Z₆
     catalog_statement: '(Carmen elegiacum ad salutandos magistros): p. 635'
+    title: Carmen elegiacum ad salutandos magistros
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 635
   - label: Z₇
-    catalog_statement: '(De Praescientia et Praedestinatione Dei): p. 637–660. Initium huius tractatus theologici p. 637:
-      Quid sit Dei Praescientia, quid Praedestinatio? et quomodo neque haec neque illa humanae officiat libertati? Quia iustos
-      inter plerique sunt, ...... Auctor et scriptor ignoti.'
+    catalog_statement: '(De Praescientia et Praedestinatione Dei): p. 637–660. Initium huius tractatus theologici p. 637: Quid sit Dei Praescientia,
+      quid Praedestinatio? et quomodo neque haec neque illa humanae officiat libertati? Quia iustos inter plerique sunt, ...... Auctor et scriptor
+      ignoti.'
+    title: De Praescientia et Praedestinatione Dei
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 637–660
+    incipits:
+    - locus: p. 637
+      label: huius tractatus theologici
+      text: Quid sit Dei Praescientia, quid Praedestinatio? et quomodo neque haec neque illa humanae officiat libertati? Quia iustos inter plerique
+        sunt, ...... Auctor et scriptor ignoti.
   - label: Z₈
-    catalog_statement: 'Epithavium (!) Regis Poloniae, civiliter aut Viliter demortui: p. 661–663 (soluta oratione ironice
-      compositum)'
+    catalog_statement: 'Epithavium (!) Regis Poloniae, civiliter aut Viliter demortui: p. 661–663 (soluta oratione ironice compositum)'
+    title: Epithavium (!) Regis Poloniae, civiliter aut Viliter demortui
+    locus: p. 661–663
+    title_status: unspecified
   - label: Z₉
     catalog_statement: '(Fragmentum contionis Germanicae): p. 665'
+    title: Fragmentum contionis Germanicae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 665
   - label: Z₁₀
-    catalog_statement: 'Epithavium Regis Poloniae, civiliter, aut viliter demortui: p. 667–670 (idem epitaphium supra in parte
-      Z₈ ab altera manu scriptum; probabiliter epitaphium est regis Joannis Casimiri V., qui 1668 regno Poloniae renuntiavit
-      et in Galliam recessit.)'
+    catalog_statement: 'Epithavium Regis Poloniae, civiliter, aut viliter demortui: p. 667–670 (idem epitaphium supra in parte Z₈ ab altera manu
+      scriptum; probabiliter epitaphium est regis Joannis Casimiri V., qui 1668 regno Poloniae renuntiavit et in Galliam recessit.)'
+    title: Epithavium Regis Poloniae, civiliter, aut viliter demortui
+    locus: p. 667–670
+    title_status: unspecified
   - label: Z₁₁
-    catalog_statement: '(Instructio noviciorum de statu religionis): p. 671–694. Initium Praefationis Ad Novitios Religiosae
-      perfectionis sectatores: Veluti suscepta bella conficere..... Auctor scriptorque ignoti.'
+    catalog_statement: '(Instructio noviciorum de statu religionis): p. 671–694. Initium Praefationis Ad Novitios Religiosae perfectionis sectatores:
+      Veluti suscepta bella conficere..... Auctor scriptorque ignoti.'
+    title: Instructio noviciorum de statu religionis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 671–694
+    incipits:
+    - label: Praefationis Ad Novitios Religiosae perfectionis sectatores
+      text: Veluti suscepta bella conficere..... Auctor scriptorque ignoti.
   - label: Z₁₂
-    catalog_statement: 'Observatio ad Gemitum quintum, ubi ingemiscit anima infestata impatienti murmure, et blasphemis in
-      Deum et Sanctos, cogitationibus. ex Reverendo P. F. Nicolao Kessler Sacri ordinis cartusianorum Professo (id est ex
-      opere, quod inscriptum est: Gemitus Compeditorum, typis impressum Campiduni, id est in Kempten, Per Rudolphum Dreher
-      Anno MDC.LXXIV): p. 699–702'
+    catalog_statement: 'Observatio ad Gemitum quintum, ubi ingemiscit anima infestata impatienti murmure, et blasphemis in Deum et Sanctos, cogitationibus.
+      ex Reverendo P. F. Nicolao Kessler Sacri ordinis cartusianorum Professo (id est ex opere, quod inscriptum est: Gemitus Compeditorum, typis
+      impressum Campiduni, id est in Kempten, Per Rudolphum Dreher Anno MDC.LXXIV): p. 699–702'
+    title: 'Observatio ad Gemitum quintum, ubi ingemiscit anima infestata impatienti murmure, et blasphemis in Deum et Sanctos, cogitationibus.
+      ex Reverendo P. F. Nicolao Kessler Sacri ordinis cartusianorum Professo (id est ex opere, quod inscriptum est: Gemitus Compeditorum, typis
+      impressum Campiduni, id est in Kempten, Per Rudolphum Dreher Anno MDC.LXXIV)'
+    locus: p. 699–702
+    title_status: unspecified
   - label: Z₁₃
-    catalog_statement: 'Alvearium Spirituale sive Tractatus De Praxi atque Methodo piê ac devotê meditandi, continens varias
-      Spiritualium meditationum aliorumque exercitiorum divinorum, perdulces et mellitas materias, ex diversis piorum Asceticorum
-      Authorum Coelestibus flosculis pro instructione et usu Novitiorum, vitam Religiosam incipientium et amplectentium collectus
-      et conscriptus Ab Admodum Reverendo Religiosissimo ac Doctissimo Domino P: Placido (Steger) Celeberrimi Monasterii Seittenstettensis
-      Ordinis S: Benedicti Priore, ac Novitiorum Magistro Vigilantissimo. Anno Domini MDCLXXXII (1682): p. 703–766. Dedicatio
-      Mariae Magnae Dei Matris p. 704; initium Praefationis Ad Novitios p. 705: Cum Religiosi Hominis finis sit ..... (Ordo
-      foliorum huius partis valde perturbatus est. Hoc modo series foliorum restitui poterit: 703–718, 751–766, 723–730, 739–750,
-      postea videtur interesse lacuna, quam sequuntur pp. 731–738, 719–722. Idem opus recto ordine continet Cod. 34 YY (supra
+    catalog_statement: 'Alvearium Spirituale sive Tractatus De Praxi atque Methodo piê ac devotê meditandi, continens varias Spiritualium meditationum
+      aliorumque exercitiorum divinorum, perdulces et mellitas materias, ex diversis piorum Asceticorum Authorum Coelestibus flosculis pro instructione
+      et usu Novitiorum, vitam Religiosam incipientium et amplectentium collectus et conscriptus Ab Admodum Reverendo Religiosissimo ac Doctissimo
+      Domino P: Placido (Steger) Celeberrimi Monasterii Seittenstettensis Ordinis S: Benedicti Priore, ac Novitiorum Magistro Vigilantissimo.
+      Anno Domini MDCLXXXII (1682): p. 703–766. Dedicatio Mariae Magnae Dei Matris p. 704; initium Praefationis Ad Novitios p. 705: Cum Religiosi
+      Hominis finis sit ..... (Ordo foliorum huius partis valde perturbatus est. Hoc modo series foliorum restitui poterit: 703–718, 751–766,
+      723–730, 739–750, postea videtur interesse lacuna, quam sequuntur pp. 731–738, 719–722. Idem opus recto ordine continet Cod. 34 YY (supra
       p. 104)). Scriptor ignotus, nam ipse auctor sibimetipsi vix tot titulos attribuit.'
+    title: 'Alvearium Spirituale sive Tractatus De Praxi atque Methodo piê ac devotê meditandi, continens varias Spiritualium meditationum aliorumque
+      exercitiorum divinorum, perdulces et mellitas materias, ex diversis piorum Asceticorum Authorum Coelestibus flosculis pro instructione et
+      usu Novitiorum, vitam Religiosam incipientium et amplectentium collectus et conscriptus Ab Admodum Reverendo Religiosissimo ac Doctissimo
+      Domino P: Placido (Steger) Celeberrimi Monasterii Seittenstettensis Ordinis S: Benedicti Priore, ac Novitiorum Magistro Vigilantissimo.
+      Anno Domini MDCLXXXII (1682)'
+    locus: p. 703–766
+    incipits:
+    - locus: p. 705
+      label: Praefationis Ad Novitios
+      text: 'Cum Religiosi Hominis finis sit ..... (Ordo foliorum huius partis valde perturbatus est. Hoc modo series foliorum restitui poterit:
+        703–718, 751–766, 723–730, 739–750, postea videtur interesse lacuna, quam sequuntur pp. 731–738, 719–722. Idem opus recto ordine continet
+        Cod. 34 YY (supra p. 104)). Scriptor ignotus, nam ipse auctor sibimetipsi vix tot titulos attribuit.'
+    title_status: unspecified
   - label: Z₁₄
-    catalog_statement: '(Exempla quaedam rerum moralium memoriâ digna, iuxta ordinem rerum alphabeticum disposita): p. 767–789
-      (Solius litterae A multa exempla servata sunt.)'
+    catalog_statement: '(Exempla quaedam rerum moralium memoriâ digna, iuxta ordinem rerum alphabeticum disposita): p. 767–789 (Solius litterae
+      A multa exempla servata sunt.)'
+    title: Exempla quaedam rerum moralium memoriâ digna, iuxta ordinem rerum alphabeticum disposita
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 767–789
   - label: Z₁₅
-    catalog_statement: 'Mirabilia quaedam naturae et artis: p. 791–800, De fide, Spe, charitate: p. 801–804, De Justitia et
-      Jure: p. 805–806, De Voto: p. 807–810; De statu Religioso: p. 811–812, De oratione et horis Canonicis: p. 813–814, De
-      Jeiunio: p. 815–818. Compilator ignotus.'
+    catalog_statement: 'Mirabilia quaedam naturae et artis: p. 791–800, De fide, Spe, charitate: p. 801–804, De Justitia et Jure: p. 805–806,
+      De Voto: p. 807–810; De statu Religioso: p. 811–812, De oratione et horis Canonicis: p. 813–814, De Jeiunio: p. 815–818. Compilator ignotus.'
+    title: Mirabilia quaedam naturae et artis
+    locus: p. 791–800, D
+    title_status: unspecified
   - label: Z₁₆
     catalog_statement: 'Tractatus De Juramento: p. 819–835'
+    title: Tractatus De Juramento
+    locus: p. 819–835
+    title_status: unspecified
   - label: Z₁₇
     catalog_statement: '(Tractatus De Sacrilegio): p. 837–843'
+    title: Tractatus De Sacrilegio
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 837–843
   - label: Z₁₈
     catalog_statement: 'De Scandalo: p. 844–860'
+    title: De Scandalo
+    locus: p. 844–860
+    title_status: unspecified
   - label: Z₁₉
     catalog_statement: '(Tractatus) De Sacramento baptismi: p. 861–878'
+    title: (Tractatus) De Sacramento baptismi
+    locus: p. 861–878
+    title_status: supplied
+    title_source: cataloguer
   - label: Z₂₀
     catalog_statement: '(Tractatus) De Sacramento Eucharistiae et Sacrificio mirabili: p. 879–888'
+    title: (Tractatus) De Sacramento Eucharistiae et Sacrificio mirabili
+    locus: p. 879–888
+    title_status: supplied
+    title_source: cataloguer
   - label: Z₂₁
     catalog_statement: '(Tractatus) De Censuris in Communi: p. 889–922 et in Particulari: p. 922–925'
+    title: (Tractatus) De Censuris in Communi
+    locus: p. 889–922 et i
+    title_status: supplied
+    title_source: cataloguer
   - label: Z₂₂
     catalog_statement: '(Tractatus) De Sponsalibus: p. 926–969 (Multae partes huius tractatus deletae sunt!)'
+    title: (Tractatus) De Sponsalibus
+    locus: p. 926–969
+    title_status: supplied
+    title_source: cataloguer
   - label: Z₂₃
-    catalog_statement: 'De Matrimonio mirabilia: p. 971–974. NB! p. 971 invenitur res gesta 4 Maii 1698 deprompta e ephemeride
-      Solzburgerische Zeitung.'
+    catalog_statement: 'De Matrimonio mirabilia: p. 971–974. NB! p. 971 invenitur res gesta 4 Maii 1698 deprompta e ephemeride Solzburgerische
+      Zeitung.'
+    title: De Matrimonio mirabilia
+    locus: p. 971–974
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

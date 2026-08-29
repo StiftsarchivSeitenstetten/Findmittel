@@ -17,13 +17,51 @@ ms_contents:
   summary: Vorlesungen Simon Fyrbas’ über Seele und Metaphysik, von Benedict Graff geschrieben, mit Geheimschriftstellen und gedruckten Thesen.
   items:
   - label: a
-    catalog_statement: '(Theoriae ad Aristotelis tres libros de Anima) (folium titulare vacuum!): fol. 1 - 204r. Initium Protologiae fol. 1r: Praefixi ordinem librorum Aristotelis de natura....'
+    catalog_statement: '(Theoriae ad Aristotelis tres libros de Anima) (folium titulare vacuum!): fol. 1 - 204r. Initium Protologiae fol. 1r:
+      Praefixi ordinem librorum Aristotelis de natura....'
+    title: Theoriae ad Aristotelis tres libros de Anima) (folium titulare vacuum!
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 204r
+    incipits:
+    - locus: fol. 1r
+      label: Protologiae
+      text: Praefixi ordinem librorum Aristotelis de natura....
   - label: b
-    catalog_statement: '*Theses selectae. Ad Libros Aristotelis. De Anima In Alma Universitate Salisburgensi. Praeside P. F. Christiano Mayr, Ord. S. Benedicti, Monasterii Ottoburani Monacho, et Philosophiae Professore Ordinario, post triennium (!) Philosophicum Ad certamen expositae. A ... P. Vitale Baumann, eiusdem V... et Monasterii Monacho, ac Philosophiae Candidato. Ad diem ... Mensis Januarii, Anno MDCXXVII (1627). Salisburgi, Ex Typis Gregorii Kyrneri, Typographi Aulici:* IV + 20 pagg. (= fol. 211 - 223)'
+    catalog_statement: '*Theses selectae. Ad Libros Aristotelis. De Anima In Alma Universitate Salisburgensi. Praeside P. F. Christiano Mayr,
+      Ord. S. Benedicti, Monasterii Ottoburani Monacho, et Philosophiae Professore Ordinario, post triennium (!) Philosophicum Ad certamen expositae.
+      A ... P. Vitale Baumann, eiusdem V... et Monasterii Monacho, ac Philosophiae Candidato. Ad diem ... Mensis Januarii, Anno MDCXXVII (1627).
+      Salisburgi, Ex Typis Gregorii Kyrneri, Typographi Aulici:* IV + 20 pagg. (= fol. 211 - 223)'
+    title: Theses selectae. Ad Libros Aristotelis. De Anima In Alma Universitate Salisburgensi. Praeside P. F. Christiano Mayr, Ord. S. Benedicti,
+      Monasterii Ottoburani Monacho, et Philosophiae Professore Ordinario, post triennium (!) Philosophicum Ad certamen expositae. A ... P. Vitale
+      Baumann, eiusdem V... et Monasterii Monacho, ac Philosophiae Candidato. Ad diem ... Mensis Januarii, Anno MDCXXVII (1627). Salisburgi, Ex
+      Typis Gregorii Kyrneri, Typographi Aulici
+    title_status: unspecified
   - label: c
-    catalog_statement: '(Theoriae ad Libros Metaphysicorum Aristotelis): fol. 223 - 290. Non est dubium, quin etiam hic tractatus a P. Simone Fyrbas traditus et a P. Benedicto Graff scriptus sit. Initium Protologiae ad VIII. libros Metaphysicorum: Omnes homines ait Aristoteles hic scire desiderant.... fol. 269v litterae O verbi Theoria hae litterae initiales inscriptae sunt: F. B. V. F. T. G. S. P. B. R. C. W. A. In inferiore margine eiusdem paginae: Anno 1634. die 13 Novembris.... Dominica 23a post Pentecosten scriptum fuit [gestrichen] a F. Vito Gadolt Andecensi. (Videtur hic Fr. Vitus Gadolt inscriptiones artificiose delineasse.)'
+    catalog_statement: '(Theoriae ad Libros Metaphysicorum Aristotelis): fol. 223 - 290. Non est dubium, quin etiam hic tractatus a P. Simone
+      Fyrbas traditus et a P. Benedicto Graff scriptus sit. Initium Protologiae ad VIII. libros Metaphysicorum: Omnes homines ait Aristoteles
+      hic scire desiderant.... fol. 269v litterae O verbi Theoria hae litterae initiales inscriptae sunt: F. B. V. F. T. G. S. P. B. R. C. W.
+      A. In inferiore margine eiusdem paginae: Anno 1634. die 13 Novembris.... Dominica 23a post Pentecosten scriptum fuit [gestrichen] a F. Vito
+      Gadolt Andecensi. (Videtur hic Fr. Vitus Gadolt inscriptiones artificiose delineasse.)'
+    title: Theoriae ad Libros Metaphysicorum Aristotelis
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 223 - 290
+    incipits:
+    - label: Protologiae ad VIII. libros Metaphysicorum
+      text: 'Omnes homines ait Aristoteles hic scire desiderant.... fol. 269v litterae O verbi Theoria hae litterae initiales inscriptae sunt:
+        F. B. V. F. T. G. S. P. B. R. C. W. A. In inferiore margine eiusdem paginae: Anno 1634. die 13 Novembris.... Dominica 23a post Pentecosten
+        scriptum fuit [gestrichen] a F. Vito Gadolt Andecensi.'
   - label: d
-    catalog_statement: '*Nucleus Philosophicus, Peripatetice Enucleatus, In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas,.....Monacho Schyrensi, Philosophiae Professore Ordinario. Disputatus ab....Christophoro Aircher, Tyrolensi, Brixinensi, Hieronymo [unleserlich], Bajo, Monacensi, Philosophiae Candidatis. Ad diem 16 Mensis Octobr. A. M. XXXIV. (1634)....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici:* VIII + 20 pagg. (= fol. 291 - 303)'
+    catalog_statement: '*Nucleus Philosophicus, Peripatetice Enucleatus, In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas,.....Monacho
+      Schyrensi, Philosophiae Professore Ordinario. Disputatus ab....Christophoro Aircher, Tyrolensi, Brixinensi, Hieronymo [unleserlich], Bajo,
+      Monacensi, Philosophiae Candidatis. Ad diem 16 Mensis Octobr. A. M. XXXIV. (1634)....Salisburgi, Typis Christophori Katzenbergeri, Typographi
+      Aulici et Academici:* VIII + 20 pagg. (= fol. 291 - 303)'
+    title: Nucleus Philosophicus, Peripatetice Enucleatus, In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas,.....Monacho Schyrensi,
+      Philosophiae Professore Ordinario. Disputatus ab....Christophoro Aircher, Tyrolensi, Brixinensi, Hieronymo [unleserlich], Bajo, Monacensi,
+      Philosophiae Candidatis. Ad diem 16 Mensis Octobr. A. M. XXXIV. (1634)....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici
+      et Academici
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

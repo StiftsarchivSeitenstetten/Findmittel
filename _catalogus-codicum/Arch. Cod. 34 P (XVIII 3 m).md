@@ -13,14 +13,31 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 P (XVIII 3 m).
   items:
   - label: a
-    catalog_statement: 'Tractatus de Jure et Justitia: fol. 1–196v (= p. 1–392). Initium Praefationis in Tractatum De Jure
-      et Justitia fol. 1r: Cum homo sit animal politicum.... Eundem tractatum a P. Udalrico Freyberger dictatum continent
-      etiam Codd. MN II 58 (supra p. 37), MN II 60 (supra p. 38, sed imperfectus), MN II 63 (supra p. 40).'
+    catalog_statement: 'Tractatus de Jure et Justitia: fol. 1–196v (= p. 1–392). Initium Praefationis in Tractatum De Jure et Justitia fol. 1r:
+      Cum homo sit animal politicum.... Eundem tractatum a P. Udalrico Freyberger dictatum continent etiam Codd. MN II 58 (supra p. 37), MN II
+      60 (supra p. 38, sed imperfectus), MN II 63 (supra p. 40).'
+    title: Tractatus de Jure et Justitia
+    locus: fol. 1–196v
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis in Tractatum De Jure et Justitia
+      text: Cum homo sit animal politicum.... Eundem tractatum a P. Udalrico Freyberger dictatum continent etiam Codd. MN II 58 (supra p. 37),
+        MN II 60 (supra p. 38, sed imperfectus), MN II 63 (supra p. 40).
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Tractatus de Sacramentis (in genere et quoad omnia sacramenta etiam in specie): p. 1–284 (= 401–684).
-      Initium Praefationis p. 1 (=401): In Theologia practica.... Nota in eadem pagina: 10. November anno 1654. hunc tractatum
-      de sacramentis in genere Auspice Deo ter optimo Maximo incepimus. Clausula p. 258: Absolvi Salisburgi 13 Octobris Anno
-      1655.'
+    catalog_statement: 'Tractatus de Sacramentis (in genere et quoad omnia sacramenta etiam in specie): p. 1–284 (= 401–684). Initium Praefationis
+      p. 1 (=401): In Theologia practica.... Nota in eadem pagina: 10. November anno 1654. hunc tractatum de sacramentis in genere Auspice Deo
+      ter optimo Maximo incepimus. Clausula p. 258: Absolvi Salisburgi 13 Octobris Anno 1655.'
+    title: Tractatus de Sacramentis (in genere et quoad omnia sacramenta etiam in specie)
+    locus: p. 1–284
+    incipits:
+    - locus: p. 1
+      label: Praefationis
+      text: In Theologia practica....
+    colophons:
+    - locus: p. 258
+      text: Absolvi Salisburgi 13 Octobris Anno 1655.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

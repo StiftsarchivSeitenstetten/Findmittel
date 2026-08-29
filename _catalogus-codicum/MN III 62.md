@@ -9,11 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 62
 ms_contents:
-  title: "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria"
   items:
-  - label: "a"
-    title: "Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes und Maria"
-    locus: "S. 1–130"
+  - label: a
+    title: Katholisches Meßbüchlein darinnen sich befinden Morgen Seegen Meß-Beicht und KomonionGebetter, zum Leiden Christi zu der allerheilligsten
+      Dreyfaltigkeit zu der Mutter Gottes, und denen Heiligen, samt den Nachmittägigen Gottesdienst samt anderen Andachten. Alles zur Ehre Gottes
+      und Maria
+    locus: p. 129
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

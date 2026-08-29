@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-3",
   "signature": "MN I 3",
   "aliases": [
@@ -8,31 +8,51 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "41",
   "heading": {
-    "title": "Fortsetzung des vorhergehenden Codex",
+    "title": "Continuatio codicis praecedentis: Litterae M–Z et Index",
     "titleTypeRaw": "supplied",
     "titleTypeLabel": "erschlossener Titel",
     "date": ""
   },
   "date": {},
-  "contentsOverview": {},
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
   "contents": [
     {
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Fortsetzung des vorhergehenden Codex",
+        "text": "Continuatio codicis praecedentis: Litterae M–Z et Index",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
       "locus": "",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
         {
           "type": "contents_note",
-          "text": "Fortsetzung von MN I 2: alphabetisch geordnete Einträge der Buchstaben M–Z sowie Register."
+          "text": "Cetera vide supra!"
         }
       ],
       "dates": [],
@@ -92,13 +112,16 @@
       "note": "Fortsetzung der alphabetischen Ordnung des vorhergehenden Codex."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 3",
-    "titles": "Fortsetzung des vorhergehenden Codex \nFortsetzung des vorhergehenden Codex",
+    "titles": "Continuatio codicis praecedentis: Litterae M–Z et Index \nContinuatio codicis praecedentis: Litterae M–Z et Index",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "Fortsetzung von MN I 2: alphabetisch geordnete Einträge der Buchstaben M–Z sowie Register. \nDie Umfangsangabe des Katalogs wird unverändert übernommen. Die Seiten 753–1419 ergeben bei inklusiver Zählung 667 Seiten; zusammen mit 52 Seiten Register wären dies 719 Seiten, während der Katalog ausdrücklich 718 Seiten angibt.",
-    "physical": "Papier \nS. 753–1419 + 52 Seiten Register (= 718 Seiten) \nFolio"
+    "notes": "Cetera vide supra! \nDie Umfangsangabe des Katalogs wird unverändert übernommen. Die Seiten 753–1419 ergeben bei inklusiver Zählung 667 Seiten; zusammen mit 52 Seiten Register wären dies 719 Seiten, während der Katalog ausdrücklich 718 Seiten angibt.",
+    "physical": "Papier \nS. 753–1419 + 52 Seiten Register (= 718 Seiten) \nFolio",
+    "german": "Folioformat; S. 753–1419 + 52 Seiten Register (= 718 Seiten).\n\n(Fortsetzung des vorhergehenden Codex: Buchstaben M–Z und Register.)\n\nDas Übrige siehe oben!",
+    "latin": "fol.; pag. 753–1419 + 52 pagg. Index (=718 pagg.)\n\n(Continuatio codicis praecedentis: Litterae M–Z et Index.)\n\nCetera vide supra!"
   }
 }

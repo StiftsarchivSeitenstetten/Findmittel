@@ -10,11 +10,11 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 31 D (XVII 1v)
 ms_contents:
-  title: "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti."
   items:
-  - label: "a"
-    title: "Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti."
-    locus: "S. 1–590"
+  - label: a
+    title: Antiquitates Typographicae adservatae in Bibliotheca Monasterii Seittenstadiensi Ordinis S. Benedicti.
+    locus: S. 1–590
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

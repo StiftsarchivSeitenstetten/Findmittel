@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-229",
   "signature": "MN II 229",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "178–179",
   "heading": {
     "title": "Philosophia Naturalis Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1706/07"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Philosophia Naturalis Aristotelico-Thomistica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 5r–442v",
+      "locus": "fol. 5r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 5r",
+          "label": "Proloquii In Physicam Aristotelico-Thomisticam",
+          "text": "Physicam divisit Aristoteles in 2 partes.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 442v",
+          "text": "Absolvimus universam Physicam die 13 Julii 1707. post prandium circa mediam tertiam.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 5r",
+        "label": "Proloquii In Physicam Aristotelico-Thomisticam",
+        "text": "Physicam divisit Aristoteles in 2 partes.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 442v",
+        "text": "Absolvimus universam Physicam die 13 Julii 1707. post prandium circa mediam tertiam.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -72,15 +101,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Metaphysica Seu Tractatus in 14 Libros Transnaturales Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 443r–466v",
+      "locus": "fol. 443r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Disputationis XII. In 14 Libros Metaphysicae Aristotelis",
+          "text": "fol. 443v: Metaphysica Scientia Transnaturalis est, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 466v",
+          "text": "absolvimus universam Philosophiam 23 Julii anno Domini 1707. Metaphysici fuerant hoc anno centum et viginti duo.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Disputationis XII. In 14 Libros Metaphysicae Aristotelis",
+        "text": "fol. 443v: Metaphysica Scientia Transnaturalis est, ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 466v",
+        "text": "absolvimus universam Philosophiam 23 Julii anno Domini 1707. Metaphysici fuerant hoc anno centum et viginti duo.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -104,13 +157,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index Conclusionum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 467v–468v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -213,13 +270,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 229",
     "titles": "Philosophia Naturalis Aristotelico-Thomistica \nPhilosophia Naturalis Aristotelico-Thomistica \nMetaphysica Seu Tractatus in 14 Libros Transnaturales Aristotelis \nIndex Conclusionum",
-    "persons": "P. Paulus Stoker Dozent lecturer \nFr. Carolus Gschwantner Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Im Jahr 1707 gab es 122 Metaphysiker. \nDer letzte Satz der Katalogbeschreibung ist am unteren Rand des Scans abgeschnitten.",
-    "physical": "Papier \n470 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "persons": "P. Paulus Stoker Dozent lecturer St. Paul im Lavanttal / Universität Salzburg \nFr. Carolus Gschwantner Schreiber scribe Seitenstetten",
+    "incipits": "Physicam divisit Aristoteles in 2 partes..... \nfol. 443v: Metaphysica Scientia Transnaturalis est, ......",
+    "explicits": "Absolvimus universam Physicam die 13 Julii 1707. post prandium circa mediam tertiam. \nabsolvimus universam Philosophiam 23 Julii anno Domini 1707. Metaphysici fuerant hoc anno centum et viginti duo.",
+    "notes": "Im Jahr 1707 gab es 122 Metaphysiker. \nDer letzte Satz der Katalogbeschreibung ist am unteren Rand des Scans abgeschnitten. \ntype: printed_insertion; locus: vor der Innenseite des Rückdeckels; dimensions: 31 × 47 cm; description: Gefaltetes gedrucktes Blatt mit den Namen der an der Universität Salzburg unter P. Paulus Stockher promovierten Kandidaten; darunter Fr. Carolus Gschwantner.",
+    "physical": "Papier \n470 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "470 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706/07.\n\na) **Aristotelisch-thomistische Naturphilosophie**, vorgetragen von P. Paulus Stoker, Benediktiner und Profess des Klosters St. Paul in Kärnten, Doktor der freien Künste und Philosophie sowie ordentlicher Professor an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Seitenstettner Benediktiner, 1707.\n\nAnfang des Prologs zur aristotelisch-thomistischen Physik fol. 5r: Aristoteles teilte die Physik in zwei Teile..... Notiz: **Wir begannen am 16. Juli 1706.**\n\nSchluss fol. 442v: **Wir beendeten die gesamte Physik am 13. Juli 1707 nach dem Mittagessen gegen halb drei.**\n\nb) **Metaphysik oder Abhandlung zu den 14 Büchern der übernatürlichen Philosophie des Aristoteles**, begonnen am 13. Juli 1707: fol. 443r–466v.\n\nAnfang der zwölften Disputation fol. 443v: Die Metaphysik ist die übernatürliche Wissenschaft..... Schluss: **Wir beendeten die gesamte Philosophie am 23. Juli 1707. In diesem Jahr waren es 122 Metaphysiker.**\n\nc) **Register der Schlussfolgerungen:** fol. 467v–468v.\n\nd) Vor der Innenseite des Rückdeckels ist ein gedrucktes, wegen seiner Größe gefaltetes Blatt von 31 × 47 cm eingeklebt. Es enthält die Namen jener, die nach bestandenem strengen Examen an der Universität Salzburg unter dem Promotor P. Paulus Stockher mit dem höchsten Grad der freien Künste und Philosophie ausgezeichnet wurden; darunter befindet sich auch Fr. Carolus Gschwandtner.\n\nDer letzte Satz der Katalogbeschreibung ist am unteren Rand des Scans abgeschnitten.",
+    "latin": "470 foll.; teg. a1; script. 1706/07\n\na) Philosophia Naturalis Aristotelico-Thomistica Tradita ab .....P. Paulo Stoker, ordinis Sanctissimi P. Nostri Benedicti in Celeberrimo Monasterio ad S. Paulum in Carinthia Professo. Artium Liberalium et Philosophiae Doctore, eiusdemque in Alma, et Archi-Episcopali Benedictino-Salisburgensi Professore ordinario (mendum scriptoris!) etc: conscripta â F. Carolo Gschwantner eiusdem ordinis ex Monasterio Seittenstöttensi. 1. 7. 0. 7.\n\nInitium Proloquii In Physicam Aristotelico-Thomisticam fol. 5r: Physicam divisit Aristoteles in 2 partes.....\n\nNota: Inchoavimus 16. Julii anno Domini 1706.\n\nClausula fol. 442v: Absolvimus universam Physicam die 13 Julii 1707. post prandium circa mediam tertiam.\n\nb) Metaphysica Seu Tractatus in 14 Libros Transnaturales Aristotelis. inchoatus Die 13 Julii 1. 7. 0. 7. (fol. 443r)\n\nInitium Disputationis XII. In 14 Libros Metaphysicae Aristotelis: fol. 443v: Metaphysica Scientia Transnaturalis est, ......\n\nClausula fol. 466v: absolvimus universam Philosophiam 23 Julii anno Domini 1707. Metaphysici fuerant hoc anno centum et viginti duo.\n\nc) Index Conclusionum: fol. 467v–468v.\n\nd) Ante partem aversam tegumenti infixum est folium chartaceum typis impressum et quia ambitum codicis superat plicatum. Quod folium (31 : 47 cm) exhibet nomina eorum, qui post rigidum superatum examen in Alma et Archi-Episcopali Universitate Salisburgensi Promotore P. Paulo Stockher (!) Suprema Artium Liberalium et Philosophiae Laurea condecorati sunt, in quibus etiam F. Carolus Gschwandtner.\n\n> **Hinweis:** Der letzte Satz ist am unteren Rand des Scans abgeschnitten."
   }
 }

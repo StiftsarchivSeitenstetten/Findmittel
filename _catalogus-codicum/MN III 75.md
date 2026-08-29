@@ -9,17 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 75
 ms_contents:
-  title: "Gott ist die reinste Liebe mein Gebet und meine Betrachtung"
   items:
-  - label: "a"
-    title: "Gott ist die reinste Liebe mein Gebet und meine Betrachtung"
-    locus: "S. 1–251"
-    note: "Einige Teile stimmen wörtlich mit MN III 76 überein."
-  - label: "b"
-    title: "Oratio historiaque (ne dicam fabula), quae superstitiam sapiunt"
-    title_type: "supplied"
-    locus: "S. 252"
-    note: "Die gesamte Inhaltsbezeichnung wurde aus der lateinischen Beschreibung des Katalogbearbeiters übernommen; Bleistiftnachtrag von anderer Hand."
+  - label: a
+    title: Gott ist die reinste Liebe mein Gebet und meine Betrachtung
+    locus: S. 1–251
+    note: Einige Teile stimmen wörtlich mit MN III 76 überein.
+    title_status: unspecified
+  - label: b
+    title: Oratio historiaque (ne dicam fabula), quae superstitiam sapiunt
+    locus: p. 281
+    note: Die gesamte Inhaltsbezeichnung wurde aus der lateinischen Beschreibung des Katalogbearbeiters übernommen; Bleistiftnachtrag von anderer
+      Hand.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

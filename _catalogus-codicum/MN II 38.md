@@ -17,13 +17,43 @@ ms_contents:
   summary: Grazer Logikkurs Eberhard Neidharts, geschrieben von Johann Ulrich Zürcher; ältere Ardagger Signatur IV L. S. N° 390.
   items:
   - label: a
-    catalog_statement: '*Summulae, seu Brevis Introductio In universam Aristotelis Logicam:* fol. 1r - 47v. *Initium* fol. 1r: Cum intellectus humanus in operando variis obnoxius sit defectibus.... Nota utentis in margine superiore huius paginae: Jo(annis) Udalrici Zurcherri Brudentini U. J.'
+    catalog_statement: '*Summulae, seu Brevis Introductio In universam Aristotelis Logicam:* fol. 1r - 47v. *Initium* fol. 1r: Cum intellectus
+      humanus in operando variis obnoxius sit defectibus.... Nota utentis in margine superiore huius paginae: Jo(annis) Udalrici Zurcherri Brudentini
+      U. J.'
+    title: Summulae, seu Brevis Introductio In universam Aristotelis Logicam
+    locus: fol. 1r - 47v
+    incipits:
+    - locus: fol. 1r
+      text: Cum intellectus humanus in operando variis obnoxius sit defectibus....
+    colophons:
+    - locus: fol. 47v
+      text: die vigesimo nono absolvimus. Finis Summularum. J. Udalricus Zürcher studiosus logicae. 1642 (numerus luridissime scriptus)
+    title_status: unspecified
   - label: b
-    catalog_statement: '(Logica Aristotelis): fol. 48r - 320v. *Initium* Tractatus Primi Proaemialis In Aristotelis Logicam fol. 48r: Ingredimur Deo Ter Optimo Maximo.... *Nota temporis* fol. 95v: 13 Die Januarii 1643, et fol. 320v: 5. Septembris Anno 1643.'
+    catalog_statement: '(Logica Aristotelis): fol. 48r - 320v. *Initium* Tractatus Primi Proaemialis In Aristotelis Logicam fol. 48r: Ingredimur
+      Deo Ter Optimo Maximo.... *Nota temporis* fol. 95v: 13 Die Januarii 1643, et fol. 320v: 5. Septembris Anno 1643.'
+    title: Logica Aristotelis
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 48r - 320v
+    incipits:
+    - locus: fol. 48r
+      label: Tractatus Primi Proaemialis In Aristotelis Logicam
+      text: Ingredimur Deo Ter Optimo Maximo....
   - label: c
     catalog_statement: '(XX Theses Logicae): fol. 321 (plicatum; 34 : 23 cm) (typis impressum) Graecii, Apud Haeredes Ernesti Widmanstadij, 1643.'
+    title: XX Theses Logicae
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 321
   - label: d
     catalog_statement: '(Index totius codicis): fol. 323r - 327r.'
+    title: Index totius codicis
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 323r - 327r
+    explicits:
+    - text: (Commentarii in Univer)sam Aristotelis logicam A Reverendo Patre Everardo Neidhart dictati sunt 1643.
 phys_desc:
   object_form: codex
   support: Papier

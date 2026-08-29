@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-63",
   "signature": "MN II 63",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "40",
   "heading": {
     "title": "Tractatus De Iure et Iustitia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1653"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus De Iure et Iustitia",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima: de Jure et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 2–77",
+      "locus": "p. 2 - 77",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -64,13 +71,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars secunda de restitutione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 77–297",
+      "locus": "p. 77 - 297",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -82,15 +93,29 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars tertia, De contractibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 297–462",
+      "locus": "p. 297 - 462",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 462",
+          "text": "Absolvimus hunc Tractatum 13 octobris Anno 1653.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 462",
+        "text": "Absolvimus hunc Tractatum 13 octobris Anno 1653.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -100,13 +125,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index Tractatus huius",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 463–468",
+      "locus": "p. 463 - 468",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -220,13 +249,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 63",
     "titles": "Tractatus De Iure et Iustitia \nPars Prima: de Jure et Justitia \nPars secunda de restitutione \nPars tertia, De contractibus \nIndex Tractatus huius",
-    "persons": "P. Udalricus Freyberger Dozent lecturer \nFr. Joachim Hartung Schreiber scribe",
+    "persons": "P. Udalricus Freyberger Dozent lecturer St. Peter, Salzburg \nFr. Joachim Hartung Schreiber scribe Seitenstetten",
     "incipits": "",
-    "explicits": "",
+    "explicits": "Absolvimus hunc Tractatum 13 octobris Anno 1653.",
     "notes": "",
-    "physical": "Papier \nVI + 478 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1."
+    "physical": "Papier \nVI + 478 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1.",
+    "german": "VI + 478 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**.\n\n**Abhandlung über Recht und Gerechtigkeit, diktiert von ... P. Udalricus (Freyberger), Profess des Ordens des hl. Vaters Benedikt im berühmten Kloster St. Peter zu Salzburg, damals Prior, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Seitenstettner Mönch, im Jahr 1653.**\n\n**Anfang** der kleinen Vorrede S. 1: Da der Mensch ein politisches Wesen ist....\n\na) **Erster Teil: Über Recht und Gerechtigkeit:** S. 2–77.\n\nb) **Zweiter Teil: Über die Restitution:** S. 77–297.\n\nc) **Dritter Teil: Über die Verträge:** S. 297–462; **Schluss** S. 462: Wir beendeten diese Abhandlung am 13. Oktober 1653.\n\nd) **Register dieser Abhandlung:** S. 463–468.\n\nDieselbe Abhandlung enthalten die Codices MN II 58 (oben S. 37) und MN II 60 (oben S. 38, jedoch unvollständig) sowie Teil a des Codex Arch. 34 P (siehe unten!).",
+    "latin": "VI + 478 pagg.; teg. a2 (in parte adversa: JHS, in parte aversa Mater Immaculata iuxta Apoc. XII, 1)\n\n*Tractatus De Iure et Iustitia Dictatus per .... P. Dominum Udalricum (Freyberger) Ordinis S. P. Benedicti Professum in Celeberrimo Monasterio Sancti Petri (Salisburgi), pro tempore Priorem Exceptus â Religioso F. Joachimo Hartung eiusdem Ordinis Monacho Seittenstöttensi Anno 1653.*\n\n*Initium* Praefatiunculae p. 1: Cum homo sit animal politicum....\n\na) *Pars Prima: de Jure et Justitia:* p. 2 - 77\n\nb) *Pars secunda de restitutione:* p. 77 - 297\n\nc) *Pars tertia, De contractibus:* p. 297 - 462; *clausula* p. 462: Absolvimus hunc Tractatum 13 octobris Anno 1653.\n\nd) *Index Tractatus huius:* p. 463 - 468\n\nEundem tractatum continent Codd. MN II 58 (supra p. 37) et MN II 60 (supra p. 38, sed imperfectum) nec non pars a cod. Arch. 34 P (quem vide inferius!)"
   }
 }

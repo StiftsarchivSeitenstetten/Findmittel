@@ -13,18 +13,38 @@ ms_contents:
   items:
   - label: a
     title: Tractatus secundus De Deo Trino
-    locus: fol. 1 - 54r. I
+    locus: fol. 1 - 54r
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Loqui incipimus de ineffabilis Trinitatis mysterio....
+    title_status: unspecified
   - label: b
     title: Tractatus tertius De Angelis
-    locus: fol. 54v - 105v. I
+    locus: fol. 54v - 105v
+    incipits:
+    - locus: fol. 54v
+      text: Considerationem divinarum processionum ad intra......
+    colophons:
+    - locus: fol. 105v
+      text: Absolvimus hunc tractatum quinto idibus (= 9.) Aprilis Anno 1676. Sub....Patre Paulo Mezger.
+    title_status: unspecified
   - label: c
     title: Tractatus quartus In primam secundae De actibus humanis
-    locus: fol. 1 - 102v (= 111 - 212v). I
+    locus: fol. 1 - 102v
+    incipits:
+    - locus: fol. 111r
+      label: Proloquii
+      text: Postquam S. Doctor in prima parte disputavit de Deo ut est in se....
+    title_status: unspecified
   - label: d
-    title: 'Commentarius sextus. De Vitiis et Peccatis. In primam secundae Divi Thomae. A Quaestione 71 usque ad 90: 1 - 139
-      (= fol. 1 - 70r = fol. 218 - 287r). Initium Quaestionis primae p. 5: Praesupponendum primo nomine vitii et peccati hic
-      intelligi....'
-    locus: fol. 1 - 70r =
+    title: 'Commentarius sextus. De Vitiis et Peccatis. In primam secundae Divi Thomae. A Quaestione 71 usque ad 90: 1 - 139 (='
+    locus: fol. 1 - 70r
+    incipits:
+    - locus: p. 5
+      label: Quaestionis primae
+      text: Praesupponendum primo nomine vitii et peccati hic intelligi....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

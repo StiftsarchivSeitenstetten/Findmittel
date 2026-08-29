@@ -9,31 +9,65 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 147
 ms_contents:
-  title: Philosophia Naturalis seu Physica Aristotelico-Thomistica
   items:
   - label: a
     title: Philosophia Naturalis seu Physica Aristotelico-Thomistica
     locus: fol. III, IV, 1–332
     start_date: '1685-07-13'
     end_date: '1686-03-23'
+    incipits:
+    - locus: fol. IVr
+      label: Prooemii
+      text: A Spineto Logicae digredimur in Jucundissimos Naturae campos....
+    colophons:
+    - locus: fol. 332v
+      text: Finivimus 23. Martii post prandium. 1686.
+    title_status: unspecified
   - label: b
     title: Tractatus In duos Libros Aristotelis De Ortu et Interitu sive De Generatione et Corruptione
     locus: fol. 333r–445r
     end_date: '1686-05-20'
+    incipits:
+    - label: Disputationis Primae
+      text: Agemus in praesenti de modo, quô res naturales....
+    colophons:
+    - text: Absolvimus 20. Maii ante prandium.
+    title_status: unspecified
   - label: c
     title: Tractatus In Tres Libros Aristotelis De Anima
     locus: fol. 447r–535v
     start_date: '1686-05-20'
     end_date: '1686-06-25'
+    incipits:
+    - label: Disputationis Primae
+      text: Haec est pulcherrima philosophiae pars....
+    colophons:
+    - text: Coronis Tractatui huius de Anima imposita est 25. Junii 1686. Quem Tractatum cum parergis ex Universa Philosophia 26. eiusdem cum
+        laude defendit Dominus Stockhamer. In Vigilia Sanctorum Petri et Pauli media 8. (hora) itur processionaliter ad Ecclesiam Cathedralem
+        et finitô sacrô ad S. Petrum per plateam magnam. in ipso festo rursus eunt Domini Convictores ad S. Petrum finitâ Missâ in Aula, et ibi
+        auditur concio et Sacrum.
+    title_status: unspecified
   - label: d
     title: Tractatus De Metheoris
     locus: fol. 536r–570r
     end_date: '1686-07-08'
+    incipits:
+    - label: Disputationis Primae
+      text: Appellatur hic Tractatus de Meteoris, quia...
+    colophons:
+    - text: Absolvimus die. 8. Julii in festo S. Kiliani 1686. post prandium.
+    title_status: unspecified
   - label: e
     title: Tractatus In Libros Metaphysicorum Aristotelis
-    locus: fol. 1r–28r (=571–598)
+    locus: fol. 1r–28r
     start_date: '1686-07-10'
     end_date: '1686-07-20'
+    incipits:
+    - label: Disputationis Primae
+      text: Haec est ultima Philosophiae pars....
+    colophons:
+    - text: Solennem et ultimum finem cursui nostro Philosophico imposuimus Die 20. Julii in festo S. Margaritae die Sabbathi manè Anno 1686.
+    title_status: unspecified
   course_structure:
     physics_lectures: 277
     metaphysics_lectures: 14

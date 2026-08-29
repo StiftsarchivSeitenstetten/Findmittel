@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-216",
   "signature": "MN II 216",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "169",
   "heading": {
     "title": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "probabiliter 1702/03"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–759",
+      "locus": "p. 5–759",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Proloquii Ad Neo Physicos",
+          "text": "p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Proloquii Ad Neo Physicos",
+        "text": "p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +80,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in Metaphysicam Aristotelis seu Philosophia transnaturalis Aristotelico-Thomistica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 760–814",
+      "locus": "p. 760–814",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Proloquii",
+          "text": "Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Proloquii",
+        "text": "Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -215,13 +246,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 216",
     "titles": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica \nCommentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica \nCommentarius in Metaphysicam Aristotelis seu Philosophia transnaturalis Aristotelico-Thomistica",
-    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe \nFr. Ignatius Calles unspecified unspecified \nFr. Ignatius Ambthofer unspecified unspecified",
-    "incipits": "",
+    "persons": "unbekannt author or lecturer author_or_lecturer  \nunbekannt Schreiber scribe  \nFr. Ignatius Calles unspecified unspecified  \nFr. Ignatius Ambthofer unspecified unspecified ",
+    "incipits": "p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis..... \nPervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n816 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "ex libris F: Ignatii",
+    "physical": "Papier \n816 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "816 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; wahrscheinlich 1702/03 geschrieben.\n\na) **Kommentar zur Physik des Aristoteles oder aristotelisch-thomistische Naturphilosophie:** S. 5–759. Anfang der Vorrede an die neuen Physiker: Nachdem wir endlich aus dem labyrinthartigen Dornengestrüpp der Logik.....\n\nb) **Kommentar zur Metaphysik des Aristoteles oder aristotelisch-thomistische übernatürliche Philosophie:** S. 760–814. Anfang der Vorrede: Unter Gottes Führung sind wir endlich zum zeitlich letzten Teil der Philosophie gelangt.....\n\nDa ein Kommentar zur Physik gewöhnlich unmittelbar auf den Kommentar zur Logik folgte und derselbe Schreiber MN II 214–216 schrieb, außerdem die Vorreden stilistisch stark übereinstimmen, ist sehr wahrscheinlich, dass alle drei Codices vom selben Professor diktiert wurden. Daher dürfte dieser Codex im Studienjahr 1702/03 entstanden sein.\n\nVerfasser und Schreiber bleiben unbekannt. Der auch hier vorhandene Besitzvermerk **ex libris F: Ignatii** bezeichnet den Schreiber nicht. Fr. Ignatius Calles starb am 3. April 1702 als Theologiestudent in Salzburg, also vor Abschluss von MN II 215 am 3. Juni. Fr. Ignatius Ambthofer legte erst 1704 Profess ab; sofern er nicht schon vorher Philosophie studierte und den Besitzvermerk erst später eintrug, kann auch er die Reihe nicht geschrieben haben.",
+    "latin": "816 pagg.; teg. a1; script. probabiliter 1702/03\n\na) Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica: p. 5–759.  \nInitium Proloquii Ad Neo Physicos: p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....\n\nb) Commentarius, in Metaphysicam Aristotelis; seu Philosophia transnaturalis Aristotelico-Thomistica: p. 760–814.  \nInitium Proloquii: Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....\n\nQuia Commentarius in Physicam semper Commentarium in Logicam immediate sequebatur et codex noster ab eodem scriptus est, a quo duo codices praecedentes et insuper proloquia ad codicem MN II 214 et ad partem a codicis nostri tam simili eloquentiae genere praedita sunt, ut ab eodem professore dictatos esse codices MN II 214–216 vix neges, veri simile est codicem nostrum ortum esse anno scholari 1702/03.\n\nCeterum auctor et scriptor ignoti. Nam cuius signum etiam codex noster p. 5 („ex libris F: Ignatii“) praebet, non potest esse scriptor codicum MN II 214–216. Etenim F. Ignatius Calles 3. Aprilis 1702 Salisburgi Theologiae studens obiit. Qua de re cum Cod. MN II 215 3. Junii finitus sit isque totus ab eadem manu scriptus, non potest esse exaratus a F. Ignatio Calles. Frater autem Ignatius Ambthofer utpote anno 1704 professus annis 1701–1703 nondum Ignatius nominatus est. Itaque nisi forte iam antequam habitum accepit philosophiae studuit et postea, iam in ordinem ingressus, notam possidentis codicibus MN II 215 et 216 inscripsit, non potest esse scriptor huius codicum seriei. Ex alio autem monasterio in Seitenstettense translatos esse codices nostros non est veri simile."
   }
 }

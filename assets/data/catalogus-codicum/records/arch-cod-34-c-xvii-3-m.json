@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-c-xvii-3-m",
   "signature": "Arch. Cod. 34 C (XVII 3 m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "204",
   "heading": {
-    "title": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1720"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 C (XVII 3 m).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–31",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Liber III. De Virtutibus Moralibus. Pars Prior: p. 32–126",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Liber III. De Virtutibus Moralibus. Pars Prior",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 32–126",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -85,13 +96,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri: p. 127–141",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 127–141",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -176,13 +191,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 C (XVII 3 m)",
-    "titles": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31 \nLiber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31 \nLiber III. De Virtutibus Moralibus. Pars Prior: p. 32–126 \nCaput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri: p. 127–141",
-    "persons": "P. Caelestin Pley Autor author",
+    "titles": "Liber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis \nLiber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis \nLiber III. De Virtutibus Moralibus. Pars Prior \nCaput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri",
+    "persons": "P. Caelestin Pley Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 C (XVII 3 m). \nLiber II. De Virtutibus Cardinalibus. Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31 \nLiber III. De Virtutibus Moralibus. Pars Prior: p. 32–126 \nCaput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri: p. 127–141",
-    "physical": "Papier \nfol., 146 pagg. \nFolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \nfol., 146 pagg. \nFolioformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Folioformat; 146 Seiten; grauer Pappeinband; geschrieben um 1720.\n\na) **Buch II. Über die Kardinaltugenden**, von P. Caelestin Pley: S. 1–31.\n\nb) **Buch III. Über die moralischen Tugenden. Erster Teil:** S. 32–126.\n\nc) **Kapitel über den Seeleneifer, § 1: Intensive Liebe zum Nächsten wird empfohlen. Dialog zwischen Schüler und Lehrer:** S. 127–141.\n\nDer Codex setzt Arch. Cod. 34–3 zweifellos fort. Ob damit das ganze Werk vollständig vorliegt und ob es jemals gedruckt erschien, ist sehr zweifelhaft. **P. Caelestin Pley** ist jedenfalls Verfasser des gesamten Codex.\n\nAuch hier sind 26 Seiten mit jeweils zwei runden Emblembildern von **Joseph Gottfried Prechler** aus Garsten geschmückt.\n\nOb Pley zugleich Schreiber war, bleibt ungewiss. Der Codex entstand wohl ungefähr gleichzeitig mit dem vorausgehenden.",
+    "latin": "fol., 146 pagg.; teg. c1; script. ca. 1720\n\na) **Liber II. De Virtutibus Cardinalibus.** Plurimum Reverendi ac Clarissimi P. Caelestini Pley Seitenstettensis: p. 1–31\n\nb) **Liber III. De Virtutibus Moralibus. Pars Prior:** p. 32–126\n\nc) **Caput de Zelo Animarum, § 1 Commendatur intensus erga proximum amor: Dialogus Discipuli et Magistri:** p. 127–141\n\nNon est dubium, quin codex noster continuet codicem praecedentem 34–3. Num vero in codice nostro totum opus completum sit, valde dubitandum est; item, num typis impressum in lucem umquam evenerit. Sed sine dubio P. Caelestinus Pley auctor est totius codicis nostri.\n\nInveniuntur etiam in hoc codice 26 paginae a **Joseph Gottfried Prechler** Garstensi binis delineatis imaginibus rotundis, quas emblemata dicunt, ornatae.\n\nEtiam huius codicis num ipse auctor etiam scriptor sit, incertum. Cum codex noster certo fere eodem tempore quo praecedens ortus sit, vide, quae supra p. 203 de origine huius operis explicaverimus."
   }
 }

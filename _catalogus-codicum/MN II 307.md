@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 307
 ms_contents:
-  title: Materialien zu einen neuen Theologischen Handbuch Nach den Vorzügen und Bedürfnissen Unseres Zeitalters. 1791
   items:
   - label: a
     title: Materialien zu einen neuen Theologischen Handbuch Nach den Vorzügen und Bedürfnissen Unseres Zeitalters. 1791
     locus: S. 1–176
     note: II. Heft; Rückenaufschrift „Theologischer Versuch 2 Band“. Band I ist nicht ermittelt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

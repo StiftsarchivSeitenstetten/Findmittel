@@ -13,16 +13,42 @@ ms_contents:
   items:
   - label: a
     title: Continuatio Commentarii in 2 libros de Generatione Et Corruptione
-    locus: fol. 1–86r.
+    locus: fol. 1–86r
+    incipits:
+    - locus: fol. 1r
+      label: Quaestionis Primae
+      text: Dicendum est primo, dari generationem et corruptionem..... (=
+    title_status: unspecified
   - label: b
     title: Disputatio Quinta In 4. libros Aristotelis De Caelis
-    locus: fol. 97–170a.
+    locus: fol. 97–170
+    incipits:
+    - locus: fol. 97r
+      text: Explicatis illis quae de ente mobili in communi....
+    colophons:
+    - locus: fol. 170
+      text: absolvimus libros de Caelis 13 Augusti 1672....
+    title_status: unspecified
   - label: c
     title: Continuatio Commentarii Disputatio Octava In 3 libros Aristotelis De anima
-    locus: fol. 1–67 (=174–240).
+    locus: fol. 1–67
+    incipits:
+    - locus: fol. 174r
+      label: Quaestionis Primae
+      text: Dari animam pro certo habemus......
+    colophons:
+    - locus: fol. 240v
+      text: absolvimus libros de anima 13 Julii 1672 post prandium Und es hat gleich die Sonen drauf geschinen mit günstigen Wolken. NB. in einer
+        halben fiertl stundt regnet es wider.
+    title_status: unspecified
   - label: d
     title: Continuatio Commentarii In Philosophiam universam Aristotelis. Disputatio 9. in 14 libros Metaphysicae Aristotelis
-    locus: fol. 67v–100v (=240v–273v).
+    locus: fol. 67v–100v
+    incipits:
+    - locus: fol. 241r
+      label: Quaestionis Unicae
+      text: 'Dicendum est primo: Metaphysica est scientia speculativa realis entis.......'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

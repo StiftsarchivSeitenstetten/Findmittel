@@ -18,87 +18,79 @@ ms_identifier:
   idno: "MN I 10"
 
 ms_contents:
-  overall_title:
-    title: "Nachrichten Von der Wacht: und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae."
-    title_type: "wrapper_title"
-    language:
-      - "de"
-      - "la"
-    note: "Der Katalog bezeichnet 'Wacht' ausdrücklich als Fehler und korrigiert sinngemäß zu 'Wahl'."
-
-  summary: "Sammlung von fünf Faszikeln zu Wahlen und Krönungen römischer Kaiser und Könige sowie zu damit verbundenen historischen Ereignissen."
-
+  summary: Sammlung von fünf Faszikeln zu Wahlen und Krönungen römischer Kaiser und Könige sowie zu damit verbundenen historischen Ereignissen.
   items:
-    - item: 1
-      physical_unit: "Faszikel I"
-      title: "Wal Acta. Ferdinandi Primi Römischen Kaysers"
-      title_type: "original"
-      extent:
-        display: "60 Seiten"
-        pages: 60
+  - item: 1
+    physical_unit: Faszikel I
+    title: Wal Acta. Ferdinandi Primi Römischen Kaysers
+    extent:
+      display: 60 Seiten
+      pages: 60
+    persons:
+    - name: Ferdinand I.
+      role: subject
+    contents_note: Enthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands I.
+    title_status: unspecified
+  - item: 2
+    physical_unit: Faszikel II
+    title: Wal-Acta. Maximiliani Secundi Römischen Kaysers
+    extent:
+      display: 54 Seiten
+      pages: 54
+    persons:
+    - name: Maximilian II.
+      role: subject
+    contents_note: Enthält neben der Kaiserwahl auch Berichte über weitere Taten Maximilians II.
+    title_status: unspecified
+  - item: 3
+    physical_unit: Faszikel III
+    title: 'Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi'
+    extent:
+      display: 190 Seiten
+      pages: 190
+    persons:
+    - name: Ferdinand II.
+      role: subject
+    contents_note: Enthält neben Wahl und Krönung auch Berichte über weitere Taten Ferdinands II.
+    title_status: unspecified
+  - item: 4
+    physical_unit: Faszikel IV
+    title: Wahl Acta. Ferdinandi Tertii Römischen Kaysers
+    extent:
+      display: 546 Seiten
+      pages: 546
+    persons:
+    - name: Ferdinand III.
+      role: subject
+    contents_note: Enthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands III.
+    title_status: unspecified
+  - item: 5
+    physical_unit: Faszikel V
+    extent:
+      display: 88 Seiten
+      pages: 88
+    subitems:
+    - label: a
+      title: Wahl Actus. Ferdinandi quarti zum Römischen König
+      locus: S. 3–43
       persons:
-        - name: "Ferdinand I."
-          role: "subject"
-      contents_note: "Enthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands I."
-
-    - item: 2
-      physical_unit: "Faszikel II"
-      title: "Wal-Acta. Maximiliani Secundi Römischen Kaysers"
-      title_type: "original"
-      extent:
-        display: "54 Seiten"
-        pages: 54
+      - name: Ferdinand IV.
+        role: subject
+      title_status: unspecified
+    - label: b
+      title: Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae
+      locus: p. 45–86
       persons:
-        - name: "Maximilian II."
-          role: "subject"
-      contents_note: "Enthält neben der Kaiserwahl auch Berichte über weitere Taten Maximilians II."
-
-    - item: 3
-      physical_unit: "Faszikel III"
-      title: "Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi"
-      title_type: "original"
-      extent:
-        display: "190 Seiten"
-        pages: 190
-      persons:
-        - name: "Ferdinand II."
-          role: "subject"
-      contents_note: "Enthält neben Wahl und Krönung auch Berichte über weitere Taten Ferdinands II."
-
-    - item: 4
-      physical_unit: "Faszikel IV"
-      title: "Wahl Acta. Ferdinandi Tertii Römischen Kaysers"
-      title_type: "original"
-      extent:
-        display: "546 Seiten"
-        pages: 546
-      persons:
-        - name: "Ferdinand III."
-          role: "subject"
-      contents_note: "Enthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands III."
-
-    - item: 5
-      physical_unit: "Faszikel V"
-      extent:
-        display: "88 Seiten"
-        pages: 88
-      subitems:
-        - label: "a"
-          title: "Wahl Actus. Ferdinandi quarti zum Römischen König"
-          title_type: "original"
-          locus: "S. 3–43"
-          persons:
-            - name: "Ferdinand IV."
-              role: "subject"
-
-        - label: "b"
-          title: "Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae"
-          title_type: "original"
-          locus: "S. 45–86"
-          persons:
-            - name: "Eleonora Magdalena Theresia"
-              role: "subject"
-
+      - name: Eleonora Magdalena Theresia
+        role: subject
+      title_status: unspecified
+  title: 'Nachrichten Von der Wacht: und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!);
+    Ferdinandi Quarti, Crönung der Kayßerin Eleonorae.'
+  languages:
+  - de
+  - la
+  title_status: attested
+  title_source: wrapper
 phys_desc:
   object_form: "composite_manuscript"
   support: "Papier"

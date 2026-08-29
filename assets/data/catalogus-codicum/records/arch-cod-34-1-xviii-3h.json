@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-1-xviii-3h",
   "signature": "Arch. Cod. 34–1 (XVIII 3h)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "250–251",
   "heading": {
     "title": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1772"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–376",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -140,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-1-xviii-3h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–1 (XVIII 3h)",
     "titles": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi. \nChronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
-    "persons": "P. Emmeramus Kolb Autor author \nP. Emmeramus Kolb Schreiber scribe \nP. Emmeramus Kolb Widmender dedicator",
+    "persons": "P. Emmeramus Kolb Autor author  \nP. Emmeramus Kolb Schreiber scribe  \nP. Emmeramus Kolb Widmender dedicator ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n376 pagg.; dorsum flosculis, margines maeandris impressis et inauratis ornata \nGroßfolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+    "physical": "Papier \n376 pagg.; dorsum flosculis, margines maeandris impressis et inauratis ornata \nGroßfolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+    "german": "Großfolioformat; 376 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen, Ränder mit vergoldeten Mäandern; geschrieben 1772.\n\n**Heilige Chronik von der Erschaffung der Welt bis zur Zerstörung Jerusalems und des Tempels durch Titus**, zusammengestellt von **P. Emmeramus Kolb**, Benediktiner und Profess von Seitenstetten.\n\nP. Emmeramus Kolb scheint sowohl Verfasser als auch Schreiber dieses äußerst sorgfältig und kunstvoll ausgeführten Codex zu sein.\n\nEr widmete das Werk 1772 seinem Abt **Dominicus de Güsman**, als dieser 50 Jahre seit seiner Profess gefeiert hatte.",
+    "latin": "fol. mai.; 376 pagg.; teg. b1; dorsum flosculis, margines maeandris impressis et inauratis ornata; scriptus 1772\n\n**Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.**\n\nQui P. Emmeramus Kolb videtur tam auctor quam scriptor huius codicis diligentissime et ornatissime exarati esse. Dedicavit autem opus suum magnificentissimo abbati suo Dominico de Güsman anno 1772, cum abbas ille L annos a professione monastica feliciter perageret."
   }
 }

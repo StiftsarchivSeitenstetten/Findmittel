@@ -16,16 +16,36 @@ ms_contents:
   - label: a
     title: Institutiones sive Summulae Dialecticae
     locus: fol. 1–61v
+    incipits:
+    - locus: fol. 1r
+      label: In Prooemium
+      text: Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....
+    title_status: unspecified
   - label: b
     title: Prolegomena Logicae
-    title_type: supplied
     locus: fol. 63–126r
+    incipits:
+    - locus: fol. 63r
+      text: Dum ad penitiora Logicae arcana penetranda animum appellimus....
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Introductio seu Isagoge Porphyrii Sive de Universalibus
     locus: fol. 126–209v
+    incipits:
+    - locus: fol. 126v
+      text: Traditis Prolegomenis Logicae........
+    title_status: unspecified
   - label: d
     title: Commentarii in Organum Aristotelis
     locus: fol. 210–337
+    incipits:
+    - locus: fol. 210r
+      text: Aggredimur ad ipsam doctrinam Logicae....
+    colophons:
+    - locus: fol. 337r
+      text: Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.
+    title_status: unspecified
   responsibility:
   - role: author
     name: unbekannt

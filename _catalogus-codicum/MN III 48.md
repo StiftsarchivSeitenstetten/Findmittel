@@ -10,17 +10,21 @@ ms_identifier:
   idno: MN III 48
 ms_contents:
   items:
-  - label: "a.1"
-    title: "I H S Khern schöner Gebetter"
-    locus: "S. VII"
-  - label: "a.2"
-    title: "Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767"
-    locus: "S. IX, 1–160"
-    note: "Mit Index S. 157–160."
-  - label: "b"
-    title: "Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit"
-    locus: "S. 161–165"
-    note: "Von anderer Hand im Jahr 1857 geschrieben."
+  - label: a.1
+    title: I H S Khern schöner Gebetter
+    locus: p. IX
+    title_status: unspecified
+  - label: a.2
+    title: 'Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen.
+      Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767'
+    locus: p. 1–156
+    note: Mit Index S. 157–160.
+    title_status: unspecified
+  - label: b
+    title: Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit
+    locus: p. 161–165
+    note: Von anderer Hand im Jahr 1857 geschrieben.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

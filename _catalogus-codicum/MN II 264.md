@@ -12,13 +12,20 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Secundus. In Philosophiam Naturalem Seu Physicam Aristotelico-Thomisticam
-    locus: S. 1–932
-    incipit: Emenso iam Philosophiae rationalis curriculo
+    locus: p. 1–932
+    incipits:
+    - text: Emenso iam Philosophiae rationalis curriculo....
+      label: Prooemii
+    title_status: unspecified
   - label: b
     title: Tractatus Tertius. In Philosophiam Transnaturalem seu Metaphysicam
-    locus: S. 932–1013
-    incipit: Tandem bonis Superis ad eam Philosophiae partem devenimus
+    locus: p. 932–1013
     end_date_display: 18. Juli 1716
+    incipits:
+    - text: Tandem bonis Superis ad eam Philosophiae partem devenimus,....
+    colophons:
+    - text: absolvimus 18 Julii. 1716.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

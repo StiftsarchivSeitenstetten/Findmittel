@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-86",
   "signature": "MN II 86",
   "aliases": [
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,15 +49,41 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius Primus In Octo Libros Physicorum",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–622",
+      "locus": "p. 5–622",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "(Prooemii)",
+          "text": "Post sententias, ut vocatu Logicae, superata.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 622",
+          "text": "Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "(Prooemii)",
+        "text": "Post sententias, ut vocatu Logicae, superata.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 622",
+        "text": "Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -64,37 +93,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius Secundus in IV. Libros De Coelis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 627–804",
+      "locus": "p. 627–804",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
-      "dates": [],
-      "persons": [],
-      "subitems": []
-    },
-    {
-      "id": "item-c",
-      "label": "c",
-      "type": "",
-      "title": {
-        "text": "Commentarius tertius In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione",
-        "typeRaw": null,
-        "typeLabel": null
+      "incipits": [
+        {
+          "text": "Si ab Universali Corporis naturalis consideratione....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Si ab Universali Corporis naturalis consideratione....",
+        "id": "incipit-1"
       },
-      "locus": "",
-      "language": "",
-      "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
-          "type": "status",
-          "text": "nicht erhalten; weder in diesem noch in einem anderen Codex gefunden"
+          "type": "notes",
+          "text": "Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. Qui tamen commentarius neque in hoc codice neque in alio invenitur."
         }
       ],
       "dates": [],
@@ -195,13 +226,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 86",
-    "titles": "Commentarius Primus In Octo Libros Physicorum \nCommentarius Primus In Octo Libros Physicorum \nCommentarius Secundus in IV. Libros De Coelis \nCommentarius tertius In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "nicht erhalten; weder in diesem noch in einem anderen Codex gefunden",
-    "physical": "Papier \n812 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 79."
+    "titles": "Commentarius Primus In Octo Libros Physicorum \nCommentarius Primus In Octo Libros Physicorum \nCommentarius Secundus in IV. Libros De Coelis",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Post sententias, ut vocatu Logicae, superata..... \nSi ab Universali Corporis naturalis consideratione....",
+    "explicits": "Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664. \nAbsolvimus hos libros de Coelis die 16. Februarii. Anno 1664.",
+    "notes": "Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. Qui tamen commentarius neque in hoc codice neque in alio invenitur.",
+    "physical": "Papier \n812 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 79.",
+    "german": "812 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 79; geschrieben 1663/64.\n\na) **(Erster Kommentar zu den acht Büchern der Physik):** S. 5–622. Das Titelblatt ist leer. Anfang der Vorrede S. 5: **Nachdem die Widerstände, wie man sie nennt, der Logik überwunden sind.....** Schluss S. 622: **Wir beendeten die acht Bücher der Physik am 9. Januar 1664.**\n\nb) **(Zweiter Kommentar zu den vier Büchern Über den Himmel):** S. 627–804. Anfang: **Wenn wir von der allgemeinen Betrachtung des Naturkörpers....** Schluss: **Wir beendeten diese Bücher Über den Himmel am 16. Februar 1664.**\n\n**Dritter Kommentar zu den zwei Büchern Über Werden und Vergehen bzw. Über Entstehung und Vergehen.** Dieser Kommentar findet sich jedoch weder in diesem Codex noch in einem anderen.\n\nVerfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch den vorhergehenden und wahrscheinlich den folgenden Codex geschrieben hat.",
+    "latin": "812 pagg.; teg. a2 (ut in codice MN II 79); script. 1663/64\n\na) (Commentarius Primus In Octo Libros Physicorum): p. 5–622. Folium titulare vacuum. Initium (Prooemii) p. 5: Post sententias, ut vocatu Logicae, superata..... Clausula p. 622: Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.\n\n\n\n\nb) (Commentarius Secundus in IV. Libros De Coelis): p. 627–804. Initium: Si ab Universali Corporis naturalis consideratione.... Conclusio: Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664. Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. (Qui tamen commentarius neque in hoc codice neque in alio invenitur.)\n\nAuctor et scriptor ignoti, quanquam idem scriptor etiam praecedentem et probabiliter sequentem codicem exaravit."
   }
 }

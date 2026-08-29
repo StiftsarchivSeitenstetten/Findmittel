@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-219",
   "signature": "MN II 219",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "170",
   "heading": {
     "title": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1703"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–818",
+      "locus": "p. 1–818",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -163,13 +170,16 @@
       "note": "Der Codex stimmt in vielem mit MN II 217 überein, unterscheidet sich aber an zahlreichen Stellen; Übereinstimmungen können aus der gleichen Materie stammen."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 219",
     "titles": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum \nJus Civile sive Commentarius In quinquaginta Libros Digestorum",
-    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author \nunbekannt corrector corrector",
+    "persons": "P. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author  \nunbekannt corrector corrector ",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n822 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "D. L. oder B. L.",
+    "physical": "Papier \n822 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "822 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\n**Zivilrecht oder Kommentar zu den 50 Büchern der Digesten:** S. 1–818.\n\nAnfang der Vorrede: Die Rechtsbücher sind entweder Bücher des kanonischen oder des Zivilrechts.....\n\nVerfasser und Schreiber sind nicht sicher bekannt. Zwar stimmt der Codex in vielem mit MN II 217 überein, unterscheidet sich jedoch an zahlreichen Stellen; die Übereinstimmungen könnten auch aus der gleichen Materie entstehen.\n\nDie Schrift ist MN II 217 sehr ähnlich, sodass auch hier P. Joannes Rigele als Schreiber naheliegt. Dagegen spricht allerdings, dass er denselben Rechtsstoff dann zweimal gehört und aufgezeichnet hätte.\n\nAuf S. 608 und 662 stehen Initialen, offenbar **D. L.** oder **B. L.**; sie wurden jedoch von einem Korrektor geschrieben, und es ist nicht sicher, dass dieser seine eigene Abschrift korrigierte. Sie erlauben daher keine sichere Identifizierung.\n\nDie Datierung um 1703 beruht auf Schriftähnlichkeit und gleicher Einbandform.",
+    "latin": "822 pagg.; teg. a2; script. ca. 1703\n\n(Jus Civile sive In 50 Libros Digestorum): p. 1–818\n\nInitium Proaemii: Libri Juris vel Canonici libri vel Civiles......\n\nAuctorem scriptoremque non novimus certe; nam etiamsi codex noster in plurimis cum codice MN II 217 consonat, tamen in permultis differt, et similitudines etiam a paritate materiae originem ducere possunt; scriptura autem simillima est codici MN II 217, ita ut nostrum quoque codicem a P. Joanne Rigele scriptum esse mihi persuaderetur, nisi mirum bis eandem partem juris audivisse et notavisse. Inveniuntur p. 608 et 662 litterae, quae videntur esse initiales nominis cuiusdam, sed cum a correctore scriptae sint neque certum sit scriptorem suum ipsius scriptum correxisse, ne istae quidem litterae initiales indicant, quis codicem nostrum scripserit. (Ceterum non repperi conventualem Seitenstettensem tunc temporis viventem, cui et scriptura correctoris et litterae initiales congruerent.) Codicem vero circa annum 1703 ortum esse coniicio e similitudine scripturae et paritate tegumenti.\n\nNB! Litterae initiales, quas supra memoravi, sunt D. L. aut B. L."
   }
 }

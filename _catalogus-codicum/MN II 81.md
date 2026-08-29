@@ -17,15 +17,31 @@ ms_contents:
   - label: a
     title: Disputationes in IV. Libros Aristotelis De Caelis
     locus: fol. 3r–133r
-    title_type: supplied
-    completeness: Titelblatt und Anfang fehlen.
+    completeness:
+      status: defective
+      note: Titelblatt und Anfang fehlen.
+    colophons:
+    - locus: fol. 133r
+      text: '....Libros de caelis 15. Martii absolvimus.'
+    title_status: supplied
+    title_source: cataloguer
   - label: b
-    title: Quaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. Joannis Stoz Societatis Jesu Ingolstadii
-      habita Anno 1655
+    title: Quaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. Joannis Stoz Societatis Jesu Ingolstadii habita Anno 1655
     locus: fol. 133v–137v
+    title_status: unspecified
   - label: c
     title: Disputationes in 2 Libros Aristotelis De Ortu, et interitu
     locus: fol. 144r–241v
+    incipits:
+    - text: Quem hactenus secuti sumus....
+    colophons:
+    - text: Absolvimus Libros de Ortu et interitu 22 Maii ad eius honorem, cuius profestum celebravimus, Sanctissimae Triadis....
+    explicits:
+    - label: demonstrat hunc codicem anno 1660 scriptum esse, quod in illo anno profestum Sanctissimae Trinitatis die 22 Maii celebrabatur. Scriptorem
+        comperimus ex inscriptione dorsi
+      text: MS. Physica de Caelis, generatione et corruptione Reverendissimi Abelzhauser Seittenstettensis. Quem vide supra p. 51 ad codicem MN
+        II 80! Auctor ignotus.
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Benedictus Abelzhauser

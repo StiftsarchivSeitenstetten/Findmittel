@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-208",
   "signature": "MN II 208",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "156–157",
   "heading": {
     "title": "Tractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1697/98 (?)"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–448",
+      "locus": "p. 5–448",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 5",
+          "label": "Proloquii",
+          "text": "Post explicatam actuum humanorum naturam.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 5",
+        "label": "Proloquii",
+        "text": "Post explicatam actuum humanorum naturam.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +82,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Octavus In Secundam Secundae Divi Thomae Aquinatis De Fide, Spe et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 449–685",
+      "locus": "p. 449–685",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Proloquii",
+          "text": "Cum in moralibus doctrina generalis parum utilitatis habeat,....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Proloquii",
+        "text": "Cum in moralibus doctrina generalis parum utilitatis habeat,....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -201,13 +234,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 208",
     "titles": "Tractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia \nTractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia \nTractatus Octavus In Secundam Secundae Divi Thomae Aquinatis De Fide, Spe et Charitate",
-    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Carolus Schrenk Dozent lecturer St. Peter in Salzburg / Universität Salzburg \nFr. Udiscalcus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Post explicatam actuum humanorum naturam..... \nCum in moralibus doctrina generalis parum utilitatis habeat,....",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n698 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "P. V. H. 1705",
+    "physical": "Papier \n698 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "698 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben wahrscheinlich 1697/98.\n\na) **Siebte Abhandlung zur Prima Secundae des hl. Thomas von Aquin über die Gnade:** S. 5–448. Anfang der Vorrede S. 5: Nachdem die Natur der menschlichen Handlungen erklärt ist.....\n\nb) **Achte Abhandlung zur Secunda Secundae des hl. Thomas über Glaube, Hoffnung und Liebe:** S. 449–685. Anfang der Vorrede: Da in moralischen Dingen eine allgemeine Lehre wenig Nutzen hat.....\n\nAuch hier findet sich auf der Innenseite des Vorderdeckels die Notiz **P. V. H. 1705**. Zusammen mit dem Schriftcharakter zeigt sie, dass der Codex von Fr. Udiscalcus Hueber geschrieben wurde. Die Nummerierung weist ihn als Fortsetzung des theologischen Kurses von P. Carolus Schrenk aus.\n\nDer Katalog rekonstruiert die Reihe von Schrenks theologischen Abhandlungen folgendermaßen:\n- 1694/95: I über den einen Gott und II über den dreieinigen Gott (nicht erhalten);\n- 1695/96: III über die Engel und IV über die menschlichen Handlungen (MN II 211);\n- 1696/97: V über Laster und Sünden und VI über die Gesetze (MN II 207);\n- 1697/98: VII über die Gnade und VIII über die theologischen Tugenden (MN II 208);\n- 1698/99: IX über Recht und Gerechtigkeit (nicht erhalten);\n- 1699/1700: X über die Menschwerdung (MN II 201);\n- 1700/01: XI–XIII über die Sakramente im Allgemeinen sowie drei Sakramente im Einzelnen (Archivcodex 34–7);\n- 1701/02: XIV–XV über die vier übrigen Sakramente (MN II 204).",
+    "latin": "698 pagg.; teg. a1; script. 1697/98 (?)\n\na) Tractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia: p. 5–448. Initium Proloquii p. 5: Post explicatam actuum humanorum naturam.....\n\nb) Tractatus octavus. In Secundam Secundae Divi Thomae Aquinatis Doctoris Angelici De Fide, Spe, et Charitate: p. 449–685.  \nInitium Proloquii: Cum in moralibus doctrina generalis parum utilitatis habeat,....\n\nEtiam in codicis nostri tegumento adverso ab intrinsecus litterae initiales P. V. H. 1705. reperiuntur. Quae quid indicaverint, iam supra p. 155 ad codicem MN II 211 declaravimus. Quae insuper nota una cum charactere scripturae, quippe qui idem sit ut in duobus codicibus praecedentibus et duobus subsequentibus, manifestat hunc quoque codicem a F. Udiscalco Hueber exaratum esse. Numeri vero tractatuum significant etiam in codice nostro continuari illum cursum theologicum, quem P. Carolus Schrenk professus ad S. Petrum Salisburgi et ibidem Sacrosanctae Theologiae professor tradidit. (Vide ad hunc cursum supra, quod p. 155 ad codicem MN II 211 et p. 153 ad codicem MN II 204 notavimus!) Propter continuam seriem tractatuum necesse est codicem nostrum anno post codicem MN II 207, duobus autem annis post codicem MN II 211 ideoque verisimiliter anno 1697/98 (aut certe anno 1698/99) ortum esse.\n\nErgo series tractatuum, quos P. Carolus Schrenk disseruit, ita videtur restituenda esse:\n\nAnno 1694/95: tractatus I De Deo Uno et II De Deo Trino (desunt!)  \nAnno 1695/96: tract. III De Angelis et IV De Actibus humanis (II 211)  \nAnno 1696/97: V De Vitiis et Pecc. et VI De Legibus (MN II 207)  \nAnno 1697/98: tract. VII De Gratia et VIII De Virt. Theol. (II 208)  \nAnno 1698/99: tractatus IX De Jure et Justitia (deest!)  \nAnno 1699/1700: tractatus X De Incarnatione (MN II 201)  \nAnno 1700/01: tract. XI–XIII: De Sacramentis in ger. et 3 sp. (34–7)  \nAnno 1701/02: tract. XIV et XV: De IV ulteriorib. Sacr. (MN II 204)"
   }
 }

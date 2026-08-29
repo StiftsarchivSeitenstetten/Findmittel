@@ -9,18 +9,22 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 281
 ms_contents:
-  title: Tractatus Scholastico-Positivus De Jure, et Justitia
   items:
   - label: a
     title: Tractatus Scholastico-Positivus De Jure et Justitia
-    locus: S. 5–269
-    incipit: Virtutum moralium praecipuae sunt
+    locus: p. 5–269
     end_date_display: 21. August 1751, Nachmittagsvorlesung
+    incipits:
+    - text: Virtutum moralium praecipuae sunt
+    title_status: unspecified
   - label: b
     title: Parerga ex Tractatu De Jure, et Justitia
-    locus: S. 270–272
+    locus: p. 270–272
     end_date_display: 10. September 1751, vormittags und nachmittags
     note: Unter P. Benedictus Veit verteidigt; die zugeordneten Kandidaten sind im Katalogtext einzeln genannt.
+    explicits:
+    - text: Propugnata
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

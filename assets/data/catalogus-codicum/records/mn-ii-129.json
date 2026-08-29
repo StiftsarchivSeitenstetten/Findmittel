@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-129",
   "signature": "MN II 129",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "81",
   "heading": {
     "title": "Tractatus Theologicus De Arcano Incarnationis mysterio",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1676"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologicus De Arcano Incarnationis mysterio",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,18 +48,38 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Arcano Incarnationis mysterio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 1r–182r",
+      "locus": "fol. 1 - 182",
       "language": "",
+      "incipits": [
+        {
+          "text": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (=",
+          "locus": "fol. 1r",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 182r",
+          "text": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": {
-        "text": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino...."
+        "text": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (=",
+        "locus": "fol. 1r",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi."
+        "locus": "fol. 182r",
+        "text": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.",
+        "id": "colophon-1"
       },
       "notes": [],
       "dates": [],
@@ -137,13 +160,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-129/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 129",
     "titles": "Tractatus Theologicus De Arcano Incarnationis mysterio \nTractatus Theologicus De Arcano Incarnationis mysterio",
-    "persons": "P. Gregorius Wimberger Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino....",
+    "persons": "P. Gregorius Wimberger Dozent lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (=",
     "explicits": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.",
     "notes": "",
-    "physical": "Papier \nII + 184 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \nII + 184 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "II + 184 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1676.\n\n**Theologische Abhandlung über das verborgene Geheimnis der Menschwerdung:** fol. 1–182.\n\nAnfang fol. 1r: Nachdem der heilige Lehrer im ersten Teil von Gott gehandelt hat, wie er in sich selbst der Eine und Dreieinige ist.... (= Anfang der Vorrede).\n\nSchluss fol. 182r: Wir beendeten diese Abhandlung am 5. Oktober 1676 unter P. Gregorius Wimberger, Profess von Kremsmünster.\n\nDer Schreiber ist unbekannt, schrieb jedoch auch den vorhergehenden Codex MN II 128.",
+    "latin": "II + 184 foll.; teg. a1; script. 1676\n\nTractatus Theologicus De Arcano Incarnationis mysterio: fol. 1 - 182.\n\nInitium fol. 1r: Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (= Initium Prooemii)\n\nClausula fol. 182r: Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.\n\nScriptor ignotus, quamquam etiam codicem praecedentem MN II 128 scripsit."
   }
 }

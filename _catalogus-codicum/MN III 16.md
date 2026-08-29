@@ -10,30 +10,38 @@ ms_identifier:
   idno: MN III 16
 ms_contents:
   items:
-  - label: "a"
-    title: "Notata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri"
-    locus: "S. 1–79"
-  - label: "b"
-    title: "Nota Ex Regula S: Basilii, Translatores Ruffino"
-    locus: "S. 81–132"
-  - label: "c"
-    title: "Epistola De vitae honestate ad Gregorium Nazianzenum"
-    locus: "S. 132–136"
-  - label: "d"
-    title: "Vita et ortus S: P: Basilii"
-    locus: "S. 136–138"
-  - label: "e"
-    title: "Ex Regula S: Augustini quaedam"
-    locus: "S. 139–148"
-  - label: "f"
-    title: "Ex Regula Fratrum Minorum"
-    locus: "S. 149–152"
-  - label: "g"
-    title: "Laus Sacrosanctae Religionis ex homilia S. Bernardi (?)"
-    locus: "S. 153–160"
-  - label: "h"
-    title: "De tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis"
-    locus: "S. 161–167"
+  - label: a
+    title: Notata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri
+    locus: p. 1–79
+    title_status: unspecified
+  - label: b
+    title: 'Nota Ex Regula S: Basilii, Translatores Ruffino'
+    locus: p. 81–132
+    title_status: unspecified
+  - label: c
+    title: Epistola De vitae honestate ad Gregorium Nazianzenum
+    locus: p. 132–136
+    title_status: unspecified
+  - label: d
+    title: 'Vita et ortus S: P: Basilii'
+    locus: p. 136–138
+    title_status: unspecified
+  - label: e
+    title: 'Ex Regula S: Augustini quaedam'
+    locus: p. 139–148
+    title_status: unspecified
+  - label: f
+    title: Ex Regula Fratrum Minorum
+    locus: p. 149–152
+    title_status: unspecified
+  - label: g
+    title: Laus Sacrosanctae Religionis ex homilia S. Bernardi (?)
+    locus: p. 153–156, i
+    title_status: unspecified
+  - label: h
+    title: 'De tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis'
+    locus: p. 161–167
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

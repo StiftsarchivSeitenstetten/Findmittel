@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-tt-a78",
   "signature": "Arch. Cod. 34 TT (A78)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "17",
   "heading": {
-    "title": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "+ VI + 38 pagg. typis impressae"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 TT (A78).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,33 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 13",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Protologiae ad Universam Philosophiam Aristotelis",
+          "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc",
+          "id": "incipit-1"
+        },
+        {
+          "label": "demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra",
+          "text": "F M M P S 1634. Post hunc tractatum plura folia excisa sunt.",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Protologiae ad Universam Philosophiam Aristotelis",
+        "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -62,13 +84,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Syntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Syntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -148,13 +174,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-tt-a78/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 TT (A78)",
-    "titles": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt. \n(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt. \nSyntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.",
-    "persons": "P. Simon Fyrbas Dozent lecturer \nFr. Matthias Massermair Schreiber scribe",
-    "incipits": "",
+    "titles": "(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra \n(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra \nSyntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici",
+    "persons": "P. Simon Fyrbas Dozent lecturer  \nFr. Matthias Massermair Schreiber scribe ",
+    "incipits": "Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc \nF M M P S 1634. Post hunc tractatum plura folia excisa sunt.",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 TT (A78). \n(Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt. \nSyntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.",
-    "physical": "Papier \n4°, 474 pagg. manuscript. + VI + 38 pagg. typis impressae \nQuartformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere eingeprägte Verzierungen siehe Katalogtext."
+    "physical": "Papier \n4°, 474 pagg. manuscript. + VI + 38 pagg. typis impressae \nQuartformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; weitere eingeprägte Verzierungen siehe Katalogtext.",
+    "german": "Quartformat; 474 handschriftliche Seiten + VI + 38 gedruckte Seiten; lederner Einband von rehbrauner oder brauner Farbe mit eingeprägten ungefärbten Pflanzenornamenten.\n\na) **Theorien des aristotelischen Organon**, diktiert von **P. Simon Fyrbas**, Mönch von Scheyern, aufgezeichnet von **Fr. Matthias Massermair**, Profess von Seitenstetten. Anfang der Protologie zur gesamten Philosophie des Aristoteles: „Jenes, worüber nach Sallusts Zeugnis lange unter den Sterblichen Streit bestand....“ Dieser Anfang zeigt, dass die Abhandlung mit jener in MN II 20 identisch ist; dadurch kennen wir auch den Verfasser. Den Namen des Schreibers erschließt der Katalogbearbeiter aus den Initialen auf dem Vorderdeckel: **F M M P S 1634**. Nach dieser Abhandlung wurden mehrere Blätter herausgeschnitten.\n\nb) **Syntagmata Logica, aus dem Organon des Aristoteles entnommen.** An der Universität Salzburg unter dem Vorsitz von P. Simon Fyrbas, Mönch von Scheyern und ordentlichem Philosophieprofessor, verteidigt von Christoph [Titthling?] aus St. Veit in Kärnten, Bakkalaureus der Philosophie. Salzburg 1634, gedruckt bei Christoph Katzenberger, Hof- und Universitätsdrucker.",
+    "latin": "4°, 474 pagg. manuscript. + VI + 38 pagg. typis impressae; teg. b1 decoratum herbarum figuris (sine colore impressis)\n\na) (Organi Aristotelici Theoriae Dictatae a.....P. Simone Fyrbas, Monacho Schyrensi. Exceptae a F. Matthia Massermair ....Professo Seittenstetten[s]i). Initium Protologiae ad Universam Philosophiam Aristotelis: Illud, quod Sallustio teste, diu inter mortales certamen fuit.... hoc initium demonstrat hunc tractatum eundem esse atque illum codicis MN II 20 (vide supra p. 13!); ex qua re etiam auctorem novimus. Scriptoris vero nomen coniicimus e litteris initialibus in parte adversa tegumenti: F M M P S 1634. Post hunc tractatum plura folia excisa sunt.\n\nb) *Syntagmata Logica. Ex Organo Aristotelis Deprompta. In Alma Universitate Salisburgensi, Praeside P. F. Simone Fyrbas....Monacho Schyrensi, Philosophiae Professore Ordinario. Propugnata ab....Christophoro [Titthling?], Carintho, è S. Vito, Phil. Baccalaureo. 1634. Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.*"
   }
 }

@@ -15,92 +15,137 @@ ms_contents:
   items:
   - label: a
     title: De plerorumque Nominum gradibus ordine Alphabetico
-    locus: S. 3–4
+    locus: p. 3–4
+    title_status: unspecified
   - label: b
     title: De Verborum Amplificatione
-    locus: S. 5–7
+    locus: p. 5–7
+    title_status: unspecified
   - label: c
     title: Sententiae
-    locus: S. 13–16
+    locus: p. 13–16
+    title_status: unspecified
   - label: d
     title: Descriptio moderni Saeculi
-    locus: S. 17–18
+    locus: p. 17–18
+    title_status: unspecified
   - label: e
     title: Collectio verborum synonymorum
-    locus: S. 19–47
+    locus: p. 19–47
+    title_status: unspecified
   - label: f
     title: Notata ex Suada Civili
-    locus: S. 51–55
+    locus: fol. 309, 311, 312
     source_loci: fol. 309, 311, 312
+    title_status: unspecified
   - label: g
     title: Brevissima exercitia Rhetorica ad varia themata
-    locus: S. 57–68
+    locus: p. 57–68
     note: Vor allem sehr kurze rhetorische Beschreibungen.
+    title_status: supplied
+    title_source: cataloguer
   - label: h
     title: Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas
-    locus: S. 69–152
+    locus: p. 69–152
+    title_status: supplied
+    title_source: cataloguer
   - label: i
     title: Symbola rerum alphabetico ordine dispositarum
-    locus: S. 153–154
-    completeness: fragmentary
+    locus: p. 153–154
+    completeness:
+      status: fragmentary
     note: Nur der Buchstabe A ist erhalten.
+    title_status: unspecified
   - label: j
     title: Acutiae? aliaeque perbreves narrationes ad themata alphabetico ordine disposita
-    locus: S. 155–188
+    locus: p. 155–188
     certainty: uncertain
     note: Die Lesung „Acutiae“ ist im Katalog als unsicher gekennzeichnet.
+    title_status: unspecified
   - label: k
     title: Hieroglyphica
-    locus: S. 191–192
+    locus: p. 191–192
     note: Beispiele für die Verwendung natürlicher Dinge zur Veranschaulichung menschlicher Eigenschaften.
+    title_status: unspecified
   - label: l
     title: Variae brevissimae fabulae historiaeque
-    locus: S. 193–197
+    locus: p. 193–197
+    title_status: supplied
+    title_source: cataloguer
   - label: m
     title: Varia Notata ex Bosquiero
-    locus: S. 199–204
+    locus: p. 199–204
+    title_status: unspecified
   - label: n
     title: Variae historiae breves ad diversa themata moralia alphabetico ordine disposita
-    locus: S. 207–410
+    locus: p. 207–222
     subitems:
     - title: Litterae A–E
-      locus: S. 207–222
+      locus: p. 207–222
+      title_status: supplied
+      title_source: cataloguer
     - title: Litterae B–V
-      locus: S. 223–410
+      locus: p. 223–410
+      title_status: supplied
+      title_source: cataloguer
+    title_status: supplied
+    title_source: cataloguer
   - label: o
     title: Varia exercitia oratoria
-    locus: S. 413–421
+    locus: p. 413–421
     note: Kurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und ähnliche Themen.
+    title_status: supplied
+    title_source: cataloguer
   - label: p
     title: Alia exercitia oratoria
-    locus: S. 425–461
+    locus: p. 441–443
     subitems:
     - title: Laus Viennae
-      locus: S. 441–443
+      locus: p. 441–443
+      title_status: supplied
+      title_source: cataloguer
     - title: 'Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari'
-      locus: S. 452–454
+      locus: p. 452–454
       note: Mit 19 Versen anstelle eines Epitaphs.
+      title_status: supplied
+      title_source: cataloguer
+    title_status: supplied
+    title_source: cataloguer
   - label: q
     title: Historiae Pulcherrimae Ex Variis Libris Excerptae
-    locus: S. 463–470
+    locus: p. 463–470
+    title_status: unspecified
   - label: r
     title: Alia exercitia oratoria
-    locus: S. 471–474
+    locus: p. 471–474
     subitems:
     - title: De somno
+      locus: p. 471–474
+      title_status: supplied
+      title_source: cataloguer
     - title: De Antonomasia
+      locus: p. 471–474
+      title_status: supplied
+      title_source: cataloguer
+    title_status: supplied
+    title_source: cataloguer
   - label: s
     title: Praxis amplificandi
-    locus: S. 475–481
+    locus: p. 475–481
+    title_status: unspecified
   - label: t
     title: Institutio Brevis pro Facienda Chria
-    locus: S. 481–496
+    locus: p. 481–496
+    title_status: unspecified
   - label: u
     title: Institutio ad Chriam faciendam aliquot exemplis demonstrata
-    locus: S. 497–530
+    locus: p. 497–530
+    title_status: unspecified
   - label: v
     title: Exempla perpolita ad tria genera Chriarum monstranda
-    locus: S. 531–571
+    locus: p. 531–571
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

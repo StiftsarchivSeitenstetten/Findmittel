@@ -13,13 +13,29 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 - 14 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: 'Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi
-      Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque
-      in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer
-      eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236.'
+    catalog_statement: 'Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi,
+      et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi
+      Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum
+      Canonum studioso Anno 1678: p. 1 - 236.'
+    title: 'Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi
+      monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore
+      ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum
+      studioso Anno 1678'
+    locus: p. 1 - 236
+    incipits:
+    - label: Articuli Primi
+      text: 'Quid et Quotuplex sit conscientia? p. 3: Dari conscientiam de fide certum est.....'
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis
-      virtutibus Theologicis, moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).'
+    catalog_statement: 'Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis,
+      moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).'
+    title: Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus
+      et vitiis oppositis
+    locus: fol. 1 - 127v
+    incipits:
+    - locus: fol. 1v
+      text: '§ primus: Quid sit Fides, et quod eius obiectum materiale? Praenoto cum Deum colere non possimus....'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

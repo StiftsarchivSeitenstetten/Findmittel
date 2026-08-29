@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-rr-a-77",
   "signature": "Arch. Cod. 34 RR (A 77)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "199",
   "heading": {
     "title": "Supplex Libellus Ad Deum et Sanctos.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "post 1715"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Supplex Libellus Ad Deum et Sanctos.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Supplex Libellus Ad Deum et Sanctos.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–334",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -121,13 +128,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-rr-a-77/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 RR (A 77)",
     "titles": "Supplex Libellus Ad Deum et Sanctos. \nSupplex Libellus Ad Deum et Sanctos.",
-    "persons": "Fr. Hieronymus Hueber Schreiber scribe \nFr. Hieronymus Hueber Bearbeiter compiler",
+    "persons": "Fr. Hieronymus Hueber Schreiber scribe  \nFr. Hieronymus Hueber Bearbeiter compiler ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n334 pagg. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierungen bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n334 pagg. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierungen bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Kleines Oktavformat; 334 Seiten; schwarzer Ledereinband, an Rücken und Rändern mit feinen eingeprägten und vergoldeten Verzierungen; geschrieben nach 1715.\n\n**Bittbüchlein an Gott und die Heiligen.**\n\nDass dieses Gebetbuch von **Fr. Hieronymus Hueber**, Seitenstettner Mönch, geschrieben wurde, zeigen sowohl der Schriftvergleich mit sieben vorausgehenden Codices als auch die Initialen **H. H.** auf dem Vorderdeckel, die bereits P. Martin Riesenhuber diesem Hieronymus Hueber zuschrieb.\n\nWelche Gebete er sammelte und aus welchen Quellen er sie nahm, bleibt noch zu untersuchen. Auch das genaue Entstehungsjahr ist unbekannt. Da das folgende, gleichartig aussehende und geschriebene Büchlein wohl kurz vor seiner Priesterweihe 1717 entstand, dürfte auch dieses Gebetbuch zwischen 1715 und 1754, dem Todesjahr des Schreibers, entstanden sein.",
+    "latin": "8° min.; 334 pagg.; teg. b2 in marginibus et dorso teneris ornamentis impressis et auro linitis ornatum; scriptus post 1715\n\n**Supplex Libellus Ad Deum et Sanctos.**\n\nHunc libellum precatorium a **F. Hieronymo Hueber** monacho Seitenstettensi scriptum esse non solum eadem scriptura ostendit, quam in septem codicibus praecedentibus invenimus, sed etiam litterae initiales **H.H.**, quas parti adversae tegumenti impressas iam P. Martinus Riesenhuber archivarius Hieronymo Hueber ascripsit. Quae autem monachus ille in hoc libello diligenter scripto contulerit preces aut unde sumpserit eas, futuris laboribus explorandum servatur. Quando vero composuerit codicillum nostrum, item incertum est. Sed cum codicillum sequentem eadem facie eademque scriptura praeditum haud diu antequam sacerdotium suscepit (scilicet ante annum 1717) contulisse eum putandum sit, etiam nostrum libellum precatorium inter annos 1715 et 1754, quo anno scriptor noster mortuus est, ortum esse puto."
   }
 }

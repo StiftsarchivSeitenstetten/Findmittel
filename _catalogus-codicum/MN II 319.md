@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 319
 ms_contents:
-  title: Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640
   items:
   - label: a
-    title: Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640
+    title: Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin
+      (?) gehörig. Steyr den 12 Januarii 640
     locus: fol. 1r–189v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

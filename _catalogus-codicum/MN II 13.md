@@ -14,14 +14,27 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 13
 ms_contents:
-  title: "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus."
   items:
-  - label: "a"
-    title: "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus."
-    locus: "S. 1–674"
-    incipit: "Pulchrè docet S. Thomas....."
-    explicit: "quinto die Junii 1629"
-    note: "Register S. 657–674. Die parenthetische Auflösung „= Fratre“ ist eine Erläuterung innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: 'Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo.
+      In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo,
+      exceptus.'
+    locus: p. 3
+    note: Register S. 657–674. Die parenthetische Auflösung „= Fratre“ ist eine Erläuterung innerhalb des überlieferten Titels; der Titel als
+      solcher ist nicht supplied.
+    incipits:
+    - text: Pulchrè docet S. Thomas.....
+      label: Prooemii
+    explicits:
+    - locus: p. 87, p. 224
+      text: M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten
+    title_status: unspecified
+    colophons:
+    - locus: p. 3
+      label: Prooemii
+      text: Finit feliciter prooemium logicae nostrae in festo Conceptionis Beatae Mariae Virginis 1628.
+    - locus: p. 674
+      text: quinto die Junii 1629; aliae
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,17 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 82
 ms_contents:
-  title: "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)"
   items:
-  - label: "a"
-    title: "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)"
-    locus: "S. 1–186, 193–228"
-    note: "Die parenthetischen Buchstabenauflösungen stammen vom Katalogbearbeiter; der Titel als solcher ist überliefert."
-  - label: "b"
-    title: "Index"
-    title_type: "supplied"
-    locus: "S. 187–192"
-    note: "Vom Katalogbearbeiter verwendete strukturelle Inhaltsbezeichnung."
+  - label: a
+    title: 'Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)'
+    locus: S. 1–186, 193–228
+    note: Die parenthetischen Buchstabenauflösungen stammen vom Katalogbearbeiter; der Titel als solcher ist überliefert.
+    title_status: unspecified
+  - label: b
+    title: Index
+    locus: p. 187–192
+    note: Vom Katalogbearbeiter verwendete strukturelle Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

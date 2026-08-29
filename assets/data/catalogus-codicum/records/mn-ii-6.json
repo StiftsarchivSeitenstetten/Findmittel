@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-6",
   "signature": "MN II 6",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "8",
   "heading": {
-    "title": "Quaestio de Alteratione: p. 7 - 40",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Quaestio de Alteratione",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1618"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Abhandlungen über Veränderung, Seele und Metaphysik; wohl Teil desselben Grazer Kurses wie MN II 3 und 5.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestio de Alteratione: p. 7 - 40",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestio de Alteratione",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 7 - 40",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Sicut in intentione naturae generantis....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Sicut in intentione naturae generantis....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +84,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Quaestiones in tres libros Aristotelis De Anima: p. 43 - 330",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Quaestiones in tres libros Aristotelis De Anima",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 43 - 330",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Primo ad libros de anima ingressu....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Primo ad libros de anima ingressu....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,19 +119,50 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "In Metaphysicam Aristotelis quaestiones duae: p. 331 - 368",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "In Metaphysicam Aristotelis quaestiones duae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 331 - 368",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Utcunque......in conspectum veniamus sapientiae....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 368",
+          "text": "Absoluta Metaphysica 9 die Junii Anno 1618",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 368",
+          "text": "Absoluta Metaphysica 9 die Junii Anno 1618",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "text": "Utcunque......in conspectum veniamus sapientiae....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 368",
+        "text": "Absoluta Metaphysica 9 die Junii Anno 1618",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
           "text": "In Metaphysicam Aristotelis quaestiones duae: p. 331 - 368"
+        },
+        {
+          "type": "notes",
+          "text": "Auctor et scriptor ignoti, sed probabiliter Codd. MN II 3, 5, 6 ad eundem cursum philosophicum Graecensem pertinerent."
         }
       ],
       "dates": [],
@@ -205,13 +263,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 6",
-    "titles": "Quaestio de Alteratione: p. 7 - 40 \nQuaestio de Alteratione: p. 7 - 40 \nQuaestiones in tres libros Aristotelis De Anima: p. 43 - 330 \nIn Metaphysicam Aristotelis quaestiones duae: p. 331 - 368",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "Abhandlungen über Veränderung, Seele und Metaphysik; wohl Teil desselben Grazer Kurses wie MN II 3 und 5. \nQuaestio de Alteratione: p. 7 - 40 \nQuaestiones in tres libros Aristotelis De Anima: p. 43 - 330 \nIn Metaphysicam Aristotelis quaestiones duae: p. 331 - 368",
-    "physical": "Papier \n378 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+    "titles": "Quaestio de Alteratione \nQuaestio de Alteratione \nQuaestiones in tres libros Aristotelis De Anima \nIn Metaphysicam Aristotelis quaestiones duae",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Sicut in intentione naturae generantis.... \nPrimo ad libros de anima ingressu.... \nUtcunque......in conspectum veniamus sapientiae....",
+    "explicits": "Absoluta Metaphysica 9 die Junii Anno 1618 \nAbsoluta Metaphysica 9 die Junii Anno 1618",
+    "notes": "Abhandlungen über Veränderung, Seele und Metaphysik; wohl Teil desselben Grazer Kurses wie MN II 3 und 5. \nQuaestio de Alteratione: p. 7 - 40 \nQuaestiones in tres libros Aristotelis De Anima: p. 43 - 330 \nIn Metaphysicam Aristotelis quaestiones duae: p. 331 - 368 \nAuctor et scriptor ignoti, sed probabiliter Codd. MN II 3, 5, 6 ad eundem cursum philosophicum Graecensem pertinerent.",
+    "physical": "Papier \n378 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+    "german": "378 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben im Jahr 1618.\n\n**a) Frage über die Veränderung:** S. 7–40.\n\nAnfang: **Wie in der Absicht der hervorbringenden Natur....**\n\n**b) Fragen zu den drei Büchern des Aristoteles Über die Seele:** S. 43–330.\n\nAnfang: **Beim ersten Zugang zu den Büchern über die Seele....**\n\nSiehe S. 329 zur Anordnung der zu behandelnden Gegenstände und S. 330 den Schlussvermerk!\n\n**c) Zwei Fragen zur Metaphysik des Aristoteles:** S. 331–368.\n\nAnfang: **Wie auch immer wir.... in den Anblick der Weisheit gelangen....**\n\nSchlussvermerk S. 368: **Die Metaphysik wurde am 9. Juni 1618 abgeschlossen.**\n\nVerfasser und Schreiber sind unbekannt; wahrscheinlich gehören jedoch die Codices MN II 3, 5 und 6 zu demselben philosophischen Kurs in Graz.",
+    "latin": "378 pagg.; teg. a1; script. anno 1618\n\na) Quaestio de Alteratione: p. 7 - 40\n\nInitium: Sicut in intentione naturae generantis....\n\nb) Quaestiones in tres libros Aristotelis De Anima: p. 43 - 330\n\nInitium: Primo ad libros de anima ingressu....\n\nVide p. 329 de dispositione rerum tractandarum et p. 330 clausulam!\n\nc) In Metaphysicam Aristotelis quaestiones duae: p. 331 - 368\n\nInitium: Utcunque......in conspectum veniamus sapientiae....\n\nClausula p. 368: Absoluta Metaphysica 9 die Junii Anno 1618\n\nAuctor et scriptor ignoti, sed probabiliter Codd. MN II 3, 5, 6 ad eundem cursum philosophicum Graecensem pertinerent."
   }
 }

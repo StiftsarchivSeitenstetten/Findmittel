@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-310",
   "signature": "MN II 310",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "271",
   "heading": {
     "title": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1799"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–526",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -145,13 +152,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 310",
     "titles": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799 \nJohannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
-    "persons": "Johann Christian Fabricius source author source_author \nFr. Maurus Pischofsky Schreiber scribe",
+    "persons": "Johann Christian Fabricius source author source_author  \nFr. Maurus Pischofsky Schreiber scribe Stift Seitenstetten",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n526 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n526 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "526 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1799.\n\n**Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.**\n\nWahrscheinlich wurde unser Codex aus dem ersten Band der berühmten *Entomologia Systematica* abgeschrieben, die 1792 in Kopenhagen auf Kosten Christian Gottlieb Profts erschienen war. Die Jahreszahl 1799 dürfte daher angeben, wann unser Band geschrieben wurde.\n\nAls Schreiber des Codex vermutet der Katalogbearbeiter denselben **Pischofsky**, wahrscheinlich Fr. Maurus Pischofsky, Seitenstettner Kleriker, der den vorhergehenden Codex angefertigt habe; die Schriftzüge stimmen sehr stark überein.",
+    "latin": "526 pagg.; teg. c3d; script. 1799\n\n**Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.**\n\nProbabiliter codex noster transscriptus est e tomo primo illius celeberrimae Entomologiae Systematicae, quae Hafniae (Kopenhagen), Impensis Christiani Gottlieb Proft MDCCXCII (1792) in lucem evenerat. Itaque numerus anni 1799 videtur indicare, quando tomus noster scriptus sit. Scriptorem autem codicis huius arbitror esse eundem **Pischofsky** (probabiliter F. Maurum Pischofsky, clericum Seitenstettensem), qui codicem praecedentem concinnavit; nam scripturae inter se valde congruunt."
   }
 }

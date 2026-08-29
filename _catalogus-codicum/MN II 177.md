@@ -13,9 +13,17 @@ ms_contents:
   - label: a
     title: Tractatus De Vitiis et Peccatis
     locus: fol. 1r–177r
+    incipits:
+    - label: Prooemii
+      text: Post examinatam materiam de actibus Humanis......
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus in Communi et in particulari
     locus: fol. 178r–235v
+    incipits:
+    - label: Prooemii
+      text: Quandoquidem iuxta mentem gentium Doctoris......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-234",
   "signature": "MN II 234",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "183",
   "heading": {
     "title": "Commentarius in Aristotelis Physicam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1708/09"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Commentarius in Aristotelis Physicam",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,26 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prooemium",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 13–14",
+      "locus": "p. 13–14",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "A Caligine ad lucem, â famula ad Dominam, â Lippiente Lia ad Speciosam Rachaelem (!)........",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "A Caligine ad lucem, â famula ad Dominam, â Lippiente Lia ad Speciosam Rachaelem (!)........",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,13 +78,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Quaestio Prolegomenalis De Artymologia (= Etymologia), Natura, et obiecto Physicae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 15–30",
+      "locus": "p. 15–30",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,15 +100,42 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Primus In Octo Libros Physicorum Aristotelis De Physico Auditu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 31–624",
+      "locus": "p. 31–624",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Quinque tractatibus Philosophus Universam absolvit Physicam, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 209",
+          "text": "Absolvimus 23. Novembris ante prandium In Festo. S. Clementis Martyris et Pontificis.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 624",
+          "text": "Absolvimus 13. Aprilis: ante prandium.",
+          "id": "colophon-2"
+        }
+      ],
+      "incipit": {
+        "text": "Quinque tractatibus Philosophus Universam absolvit Physicam, ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 209",
+        "text": "Absolvimus 23. Novembris ante prandium In Festo. S. Clementis Martyris et Pontificis.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -104,15 +150,35 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Secundus In Quatuor libros de Coelo et mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 625–685",
+      "locus": "p. 625–685",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Post examinatam naturam corporis naturalis in communi.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus 8. Maii in Vigilia Ascensionis Domini Nostri post prandium 1709.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Post examinatam naturam corporis naturalis in communi.",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus 8. Maii in Vigilia Ascensionis Domini Nostri post prandium 1709.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -127,14 +193,28 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tertius In 2 Libros De Ortu et Interitu",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 686–750",
+      "locus": "p. 686–750",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 687",
+          "text": "Praeliminaria. Praecipuas nascentium et intereuntium corporum affectiones.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 687",
+        "text": "Praeliminaria. Praecipuas nascentium et intereuntium corporum affectiones.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -145,15 +225,35 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio 2. (!) In Libros Meteorum Aristotelis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 750–795",
+      "locus": "p. 750–795",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "In arena naturae te ingeris misteria Philosophe, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hunc tractatum 1. Julii post prandium 1709.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "In arena naturae te ingeris misteria Philosophe, ......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Absolvimus hunc tractatum 1. Julii post prandium 1709.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -168,14 +268,26 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Tertia De Anima",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 796–867",
+      "locus": "p. 796–867",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Corporis naturalis praecipuam partem",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Corporis naturalis praecipuam partem",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -186,14 +298,26 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Ultima De Residuis, quae ad Metaphysicam spectant",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 868–892",
+      "locus": "p. 868–892",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Disputatio haec est et ultima ab Aristotele.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Disputatio haec est et ultima ab Aristotele.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -286,13 +410,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 234",
     "titles": "Commentarius in Aristotelis Physicam \nProoemium \nQuaestio Prolegomenalis De Artymologia (= Etymologia), Natura, et obiecto Physicae \nTractatus Primus In Octo Libros Physicorum Aristotelis De Physico Auditu \nTractatus Secundus In Quatuor libros de Coelo et mundo \nTractatus Tertius In 2 Libros De Ortu et Interitu \nDisputatio 2. (!) In Libros Meteorum Aristotelis \nDisputatio Tertia De Anima \nDisputatio Ultima De Residuis, quae ad Metaphysicam spectant",
-    "persons": "Fr. Engelbertus Eibl (Eybl) Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Engelbertus Eibl (Eybl) Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "A Caligine ad lucem, â famula ad Dominam, â Lippiente Lia ad Speciosam Rachaelem (!)........ \nQuinque tractatibus Philosophus Universam absolvit Physicam, ...... \nPost examinatam naturam corporis naturalis in communi. \nPraeliminaria. Praecipuas nascentium et intereuntium corporum affectiones..... \nIn arena naturae te ingeris misteria Philosophe, ...... \nCorporis naturalis praecipuam partem \nDisputatio haec est et ultima ab Aristotele.....",
+    "explicits": "Absolvimus 23. Novembris ante prandium In Festo. S. Clementis Martyris et Pontificis. \nAbsolvimus 13. Aprilis: ante prandium. \nAbsolvimus 8. Maii in Vigilia Ascensionis Domini Nostri post prandium 1709. \nAbsolvimus hunc tractatum 1. Julii post prandium 1709.",
     "notes": "",
-    "physical": "Papier \n892 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n892 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "892 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1708/09.\n\n**Kommentar zur Physik des Aristoteles.**\n\na) **Vorrede:** S. 13–14. Anfang: Von der Dunkelheit zum Licht, von der Magd zur Herrin, von der kurzsichtigen Lea zur schönen Rachel........\n\nb) **Prolegomenale Frage über Etymologie, Natur und Gegenstand der Physik:** S. 15–30. Anfang: Zur Etymologie des Namens Physik.....\n\nc) **Erste Abhandlung zu den acht Büchern der Physik des Aristoteles über das physikalische Hören:** S. 31–624. Anfang: In fünf Abhandlungen vollendet der Philosoph die gesamte Physik...... Schluss S. 209: **Wir beendeten [dies] am 23. November vor dem Mittagessen, am Fest des hl. Clemens, Märtyrer und Papst.** Notiz S. 327: **Im Jahr des Herrn 1709, am 3. Januar, begannen wir am Morgen unsere Federn arbeiten zu lassen; ich wünsche ihnen Schnelligkeit und Erfolg....** Schluss S. 624: **Wir beendeten [dies] am 13. April vor dem Mittagessen.**\n\nd) **Zweite Abhandlung zu den vier Büchern Über Himmel und Welt:** S. 625–685. Anfang: Nachdem die Natur des Naturkörpers im Allgemeinen untersucht wurde..... Schluss: **Wir beendeten [dies] am 8. Mai, am Vorabend von Christi Himmelfahrt, nach dem Mittagessen 1709.**\n\ne) **Dritte Abhandlung zu den zwei Büchern Über Werden und Vergehen:** S. 686–750. Anfang S. 687: Vorbemerkungen. Die wichtigsten Eigenschaften entstehender und vergehender Körper.....\n\nf) **Zweite (!) Disputation zu den Büchern der Meteorologie des Aristoteles:** S. 750–795. Anfang: Auf die Bühne der Natur begibst du dich, Philosoph, in ihre Geheimnisse hinein..... Schluss: **Wir beendeten diese Abhandlung am 1. Juli nach dem Mittagessen 1709.**\n\ng) **Dritte Disputation über die Seele:** S. 796–867. Anfang: Den vornehmsten Teil des Naturkörpers beginnt der Philosoph.....\n\nh) **Letzte Disputation über die übrigen Dinge, die zur Metaphysik gehören:** S. 868–892. Anfang: Diese Disputation ist die letzte bei Aristoteles.....\n\nVerfasser und Schreiber werden im Codex selbst nicht genannt. Der Vergleich mit MN II 235 zeigt jedoch, dass Fr. Engelbertus Eibl (Eybl) auch diesen Codex geschrieben hat.",
+    "latin": "892 pagg.; teg. a1; script. 1708/09\n\nCommentarius in Aristotelis Physicam\n\na) Prooemium: p. 13–14. Initium: A Caligine ad lucem, â famula ad Dominam, â Lippiente Lia ad Speciosam Rachaelem (!)........\n\nb) Quaestio Prolegomenalis: p. 15–30: De Artymologia (= Etymologia), Natura, et obiecto Physicae. Initium: Aetymologiam nominis Physicae..\n\nc) Tractatus Primus. In Octo Libros Physicorum Aristotelis De Physico Auditu: p. 31–624. Initium: Quinque tractatibus Philosophus Universam absolvit Physicam, ......\n\nClausula p. 209: Absolvimus 23. Novembris ante prandium In Festo. S. Clementis Martyris et Pontificis.\n\nNota p. 327: Anno Domini 1709; 3. Januarii Incepimus manè nostros Laborare calamos. quibus ad velocitatem et felicitatem exopto....\n\nClausula p. 624: Absolvimus 13. Aprilis: ante prandium.\n\nd) Tractatus Secundus In Quatuor libros de Coelo et mundo: p. 625–685. Initium: Post examinatam naturam corporis naturalis in communi.\n\nClausula: Absolvimus 8. Maii in Vigilia Ascensionis Domini Nostri post prandium 1709.\n\ne) Tractatus Tertius In 2 Libros De Ortu et Interitu: p. 686–750.\n\nInitium p. 687: Praeliminaria. Praecipuas nascentium et intereuntium corporum affectiones.....\n\nf) Disputatio 2. (!) In Libros Meteorum Aristotelis: p. 750–795.\n\nInitium: In arena naturae te ingeris misteria Philosophe, ......\n\nClausula: Absolvimus hunc tractatum 1. Julii post prandium 1709.\n\ng) Disputatio Tertia. De Anima: p. 796–867.\n\nInitium: Corporis naturalis praecipuam partem incipit Philosophus....\n\nh) Disputatio Ultima. De Residuis, quae ad Metaphysicam spectant: p. 868–892. Initium: Disputatio haec est et ultima ab Aristotele.....\n\nNeque auctor notus neque scriptor ex codice nostro; sed si comparaveris codicem MN II 235 (infra p. 184!), non negabis F. Engelbertum Eibl (Eybl) etiam nostrum codicem scripsisse."
   }
 }

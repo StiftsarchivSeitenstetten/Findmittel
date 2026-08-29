@@ -12,10 +12,18 @@ ms_contents:
   items:
   - label: a
     title: Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica
-    locus: S. 5–759
+    locus: p. 5–759
+    incipits:
+    - label: Proloquii Ad Neo Physicos
+      text: 'p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....'
+    title_status: unspecified
   - label: b
     title: Commentarius in Metaphysicam Aristotelis seu Philosophia transnaturalis Aristotelico-Thomistica
-    locus: S. 760–814
+    locus: p. 760–814
+    incipits:
+    - label: Proloquii
+      text: Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -12,13 +12,21 @@ ms_contents:
   items:
   - label: a
     title: Logica minor Sive Dialectica Pars prima Logicae
-    locus: S. 1–50
-    incipit: Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata
-    completeness: incomplete
+    locus: p. 1–50
+    completeness:
+      status: defective
+      note: incomplete
+    incipits:
+    - text: Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata
+    - label: Tractatus primi. De vocibus prout signis operationum Mentis
+      text: 'p. 1: Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata;.....'
+    title_status: unspecified
   - label: b
     title: Correcta Rhetorices Studiosi Seitenstettensis Anno 1776
     locus: S. 1–176 (= S. 51–226)
-    note: Im Titel ist „Joannis Fux“ teilweise gestrichen. Ein alphabetischer Index rerum folgt S. 180–189 (= S. 230–239); zwischen S. 178 und 179 wurden zahlreiche Blätter herausgeschnitten.
+    note: Im Titel ist „Joannis Fux“ teilweise gestrichen. Ein alphabetischer Index rerum folgt S. 180–189 (= S. 230–239); zwischen S. 178 und
+      179 wurden zahlreiche Blätter herausgeschnitten.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

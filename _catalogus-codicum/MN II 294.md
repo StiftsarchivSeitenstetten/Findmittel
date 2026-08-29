@@ -13,15 +13,27 @@ ms_contents:
   items:
   - label: a
     title: Liber I
-    locus: S. 1–234
-    incipit: 'Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus, Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa'
+    locus: p. 1–234
+    incipits:
+    - text: 'Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus,
+        Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa......'
+    title_status: unspecified
   - label: b
     title: Liber Secundus
-    locus: S. 234–265
-    incipit: 'Ad Titulum XI De Matrimonio: Definiri melius solet matrimonium, quod sit coniunctio'
+    locus: p. 234–265
+    incipits:
+    - text: 'Ad Titulum XI De Matrimonio: Definiri melius solet matrimonium, quod sit coniunctio'
+    - label: Ad Titulum XI De Matrimonio
+      text: Definiri melius solet matrimonium, quod sit coniunctio......
+    title_status: unspecified
   - label: c
     title: Index Titulorum
-    locus: S. 267–268
+    locus: p. 267–268
+    colophons:
+    - locus: p. 265
+      text: Finis partis primae.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

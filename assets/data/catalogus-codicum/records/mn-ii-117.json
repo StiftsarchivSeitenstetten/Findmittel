@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-117",
   "signature": "MN II 117",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "74",
   "heading": {
-    "title": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Jus Civile seu In L Libros Digestorum",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "non post annum 1669"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,37 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Jus Civile seu In L Libros Digestorum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1–447r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Prooemii",
+          "text": "Antequam imperium nostrum vel potius pars eius Orientalis......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Prooemii",
+        "text": "Antequam imperium nostrum vel potius pars eius Orientalis......",
+        "id": "incipit-1"
+      },
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +131,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-117/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 117",
-    "titles": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu. \n(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
+    "titles": "Jus Civile seu In L Libros Digestorum \nJus Civile seu In L Libros Digestorum",
     "persons": "",
-    "incipits": "",
+    "incipits": "Antequam imperium nostrum vel potius pars eius Orientalis......",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n450 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.",
+    "physical": "Papier \n450 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "450 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben nicht nach 1669.\n\n**(Zivilrecht oder zu den 50 Büchern der Digesten):** fol. 1–447r; alphabetisches Titelregister ab fol. 448.\n\nAnfang der Vorrede fol. 1r: Bevor unser Reich oder vielmehr sein östlicher Teil......\n\nBesitzvermerk auf der Innenseite des Vorderdeckels: **Ex Libris Pauli Mayr J: V: L: Advocati Regiminis Landishuti Anno Domini 1669.** = Aus den Büchern des Paulus Mayr, Lizentiat beider Rechte oder Lehrer beider Rechte, Regierungsadvokat in Landshut, im Jahr des Herrn 1669.\n\nVerfasser und Schreiber sind unbekannt.",
+    "latin": "450 foll.; teg. a2; scriptus non post annum 1669\n\n(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.\n\n_Initium_ Prooemii fol. 1r: Antequam imperium nostrum vel potius pars eius Orientalis......\n\nNota possidentis in parte adversa tegumenti ab intrinsecus: Ex Libris Pauli Mayr J: V: L: (= Juris Utriusque Licentiati aut Juris Utriusque Lectoris) Advocati Regiminis Landishuti Anno Domini 1669.\n\nAuctor et scriptor ignoti."
   }
 }

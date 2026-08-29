@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 193
 ms_contents:
-  title: Tractatus De Jure et Justitia
   items:
   - label: a
     title: Tractatus De Jure et Justitia
-    locus: S. 1–398
+    locus: p. 1–398
+    title_status: attested
+    title_source: spine
 phys_desc:
   object_form: codex
   support: Papier

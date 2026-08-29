@@ -17,27 +17,50 @@ ms_contents:
   items:
   - label: a
     title: Undecim Theses in Casus Conscientiae
-    locus: S. 3–28
-    title_type: supplied
+    locus: p. 3–28
+    incipits:
+    - label: Monitionis ad Lectorem
+      text: Plerasque materias practicas hisce thesibus complexi sumus....
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Libri aliquot De variis et Selectioribus Sacrae scripturae legibus
-    locus: S. 31–46
-    title_type: supplied
+    locus: p. 31–46
     author: Benedictus Abelzhauser
+    incipits:
+    - label: Praefationis et Intentionis Operis
+      text: Nunquam non operae pretium duxi et summi momenti esse iudicavi..... Idem
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: De praeceptis Decalogi
-    locus: S. 47–354
-    title_type: supplied
-    completeness: Nur die ersten fünf Gebote erhalten.
+    locus: p. 47–354
+    completeness:
+      status: defective
+      note: Nur die ersten fünf Gebote erhalten.
+    incipits:
+    - locus: p. 47
+      text: Decalogus omnium aliarum legum Epitome est....
+    title_status: supplied
+    title_source: cataloguer
   - label: d
     title: In Librum Quartum Decretalium
-    locus: S. 357–489
-    title_type: supplied
+    locus: p. 357–489
+    incipits:
+    - text: In toto hoc libro quarto causae et quaestiones matrimoniales....
+    title_status: supplied
+    title_source: cataloguer
   - label: e
     title: In Librum Quintum Decretalium
-    locus: S. 495–550
-    title_type: supplied
-    completeness: Nur die ersten 18 Titel erhalten.
+    locus: p. 495–550
+    completeness:
+      status: defective
+      note: Nur die ersten 18 Titel erhalten.
+    incipits:
+    - text: In hoc quinto Decretalium libro agit..... (Etiam huius partis iam non exstant nisi XVIII tituli priores.) De scriptore vide codices
+        MN II 79 et 86. Auctor solius partis b notus.
+    title_status: supplied
+    title_source: cataloguer
   responsibility:
   - role: scribe
     name: unbekannt

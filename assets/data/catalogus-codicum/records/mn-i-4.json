@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-4",
   "signature": "MN I 4",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "41",
   "heading": {
     "title": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1661"
   },
   "date": {
@@ -26,19 +26,39 @@
     "certainty": "",
     "qualifier": ""
   },
-  "contentsOverview": {},
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
   "contents": [
     {
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "main: de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -158,13 +178,16 @@
       "note": "Der vorhergehende Codex enthält dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 4",
     "titles": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff \nIus Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
-    "persons": "Ioannes Baptista Suttinger à Thurnhoff Bearbeiter compiler",
+    "persons": "Ioannes Baptista Suttinger à Thurnhoff Bearbeiter compiler ",
     "incipits": "",
     "explicits": "",
     "notes": "Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich. \nGewohnheitsrecht in alphabetischer Ordnung der Gegenstände, Buchstaben A–L einschließlich. \nDer Katalog bezeichnet Johann Baptist Suttinger als Sammler des Werkes. \nDer Besitzvermerk wurde vom Katalogbearbeiter anhand des folgenden Codex ergänzt.",
-    "physical": "Papier \n1104 Seiten \nFolio"
+    "physical": "Papier \n1104 Seiten \nFolio",
+    "german": "Folioformat; 1104 Seiten; der Einband ist vollständig entfernt; geschrieben 1661.\n\nGewohnheitsrecht, gesammelt von Herrn **Johann Baptist Suttinger von Thurnhof**, Doktor beider Rechte, Österreicher aus Wien und Kanzler der hohen niederösterreichischen Regierung. Im Jahr 1661.\n\nAlphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich (deutsch). Der Schreiber ist unbekannt. Dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der vorhergehende Codex 96.1.18.\n\nAm oberen Rand der Titelseite befindet sich ein Besitzvermerk: Aus den Büchern des Johann Ignaz Albrec(ht, Doktor beider Rechte) (ergänzt nach dem folgenden Codex).",
+    "latin": "fol.; 1104 pagg.; tegumentum penitus abscissum; script. 1661\n\nIus Consuetudinarium Collectum A Domino **Ioanne Baptista Suttingero à Thurnhoff** I: V: D: (= Juris Utriusque Doctore) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario. Anno. Millesimo Sexcentesimo Sexagesimo Primo.\n\nOrdo rerum alphabeticus: Litterae A–L inclusive (Germanice). Scriptor ignotus. Idem ius consuetudinarium, sed ab alia manu scriptum, continet codex praecedens 96.1.18.\n\nIn margine superiore paginae titularis nota possidentis: Ex libris Ioannis Ignatii Albrec(ht I: U: D:) (restituta iuxta codicem sequ.)"
   }
 }

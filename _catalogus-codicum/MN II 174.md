@@ -9,13 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 174
 ms_contents:
-  title: Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae
   items:
   - label: a
     title: Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae
-    locus: fol. 1r–255v
+    locus: fol. 1r
     end_date: '1692-08-30'
     end_time_display: nach dem Mittagessen
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: A Verbo Incarnato Theologiae nostrae exordium ducimus,.....
+    colophons:
+    - locus: fol. 255v
+      text: Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

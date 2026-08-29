@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-6",
   "signature": "MN I 6",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "140",
   "heading": {
     "title": "Vernewerte Landes Ordnung des Marggraffthumb Mähren",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1694"
   },
   "date": {
@@ -26,42 +26,89 @@
     "certainty": "",
     "qualifier": ""
   },
-  "contentsOverview": {},
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
   "contents": [
     {
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vernewerte Landes Ordnung des Marggraffthumb Mähren",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–255v (= S. 9–516)",
+      "locus": "fol. 1r–255v",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [
-        {
-          "type": "contents_note",
-          "text": "Erneuerte Landesordnung der Markgrafschaft Mähren zusammen mit dem 1628 erlassenen Verkündungsdekret."
-        }
-      ],
+      "notes": [],
       "dates": [],
       "persons": [],
-      "subitems": []
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "physicalUnit": "",
+          "title": {
+            "text": "decreto promulgationis anno 1628 edito",
+            "typeRaw": "supplied",
+            "typeLabel": "erschlossener Titel"
+          },
+          "locus": "p. 5–8",
+          "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [
+            {
+              "type": "date",
+              "display": "anno 1628"
+            }
+          ],
+          "persons": [],
+          "subitems": []
+        }
+      ]
     },
     {
       "id": "item-b",
       "label": "b",
       "type": "index",
+      "physicalUnit": "",
       "title": {
         "text": "Regiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 517–525",
+      "locus": "p. 517–525",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -73,15 +120,33 @@
       "id": "item-c",
       "label": "c",
       "type": "alphabetical_index",
+      "physicalUnit": "",
       "title": {
         "text": "Syllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 526–564",
+      "locus": "p. 526–564",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 564",
+          "text": "den 12. ten Martii. 1694. 2.. N:",
+          "date": "12. ten Martii. 1694",
+          "note": "Quae litterae videntur esse initia nominis scriptoris.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 564",
+        "text": "den 12. ten Martii. 1694. 2.. N:",
+        "date": "12. ten Martii. 1694",
+        "note": "Quae litterae videntur esse initia nominis scriptoris.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -170,13 +235,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-6/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 6",
-    "titles": "Vernewerte Landes Ordnung des Marggraffthumb Mähren \nVernewerte Landes Ordnung des Marggraffthumb Mähren \nRegiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden \nSyllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets",
+    "titles": "Vernewerte Landes Ordnung des Marggraffthumb Mähren \nVernewerte Landes Ordnung des Marggraffthumb Mähren \ndecreto promulgationis anno 1628 edito \nRegiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden \nSyllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets",
     "persons": "",
     "incipits": "",
-    "explicits": "",
-    "notes": "Erneuerte Landesordnung der Markgrafschaft Mähren zusammen mit dem 1628 erlassenen Verkündungsdekret.",
-    "physical": "Papier \n566 Seiten \nKleines Folio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "explicits": "den 12. ten Martii. 1694. 2.. N:",
+    "notes": "den 12. ten Martii. 1694. 2.. N: \nD. A. S. 1774",
+    "physical": "Papier \n566 Seiten \nKleines Folio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Kleines Folioformat; 566 Seiten; geschrieben 1694; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.\n\na) Vernewerte Landes Ordnung des Marggraffthumb Mähren: fol. 1r–255v (= S. 9–516), zusammen mit dem im Jahr 1628 erlassenen Verkündungsdekret: S. 5–8.\n\nb) Regiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden: S. 517–525.\n\nc) Syllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets: S. 526–564. Vermerk auf S. 564: den 12. ten Martii. 1694. 2.. N: (Diese Buchstaben scheinen die Initialen des Namens des Schreibers zu sein.)\n\nAufschrift auf der Vorderseite des Einbandes: D. A. S. (= Dominicus, Abt von Seitenstetten) 1774 (das heißt: Er ließ den Codex mit einem Einband versehen).",
+    "latin": "fol. min.; 566 pagg.; scriptus 1694; teg. b1 cum dorso albo\n\na) Vernewerte Landes Ordnung des Marggraffthumb Mähren: fol. 1r–255v (= pag. 9–516) cum decreto promulgationis anno 1628 edito: p. 5–8\n\nb) Regiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden: p. 517–525\n\nc) Syllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets: p. 526–564. Nota p. 564: den 12. ten Martii. 1694. 2.. N: (Quae litterae videntur esse initia nominis scriptoris.)\n\nInscriptio in parte adversa tegumenti: D. A. S. (= Dominicus Abbas Seitenstettensis) 1774 (scilicet tegumento munivit codicem)"
   }
 }

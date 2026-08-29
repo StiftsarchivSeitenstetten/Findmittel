@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "96-1-19",
   "signature": "96.1.19",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "48a",
   "heading": {
     "title": "Pars Secunda Iuris Consuetudinarii",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Pars Secunda Iuris Consuetudinarii",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Secunda Iuris Consuetudinarii",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–686",
+      "locus": "p. 48",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -149,13 +156,16 @@
       "note": "Der Katalog verweist auf den ersten Teil."
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "96.1.19",
     "titles": "Pars Secunda Iuris Consuetudinarii \nPars Secunda Iuris Consuetudinarii",
-    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n686 pagg. \nFolioformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n686 pagg. \nFolioformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Folioformat; 686 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.\n\n**Zweiter Teil des Gewohnheitsrechts** – siehe den ersten Teil oben S. 48 bei Codex MN I 4.\n\nBesitzvermerk am oberen Rand des Titelblattes: **Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)**, also aus den Büchern des Johann Ignatius Albrecht, Doktor beider Rechte.",
+    "latin": "fol.; 686 pagg.; teg. a1\n\nPars Secunda Iuris Consuetudinarii (Vide partem primam supra p. 48 ad codicem MN I 4!)\n\nNota possidentis in margine superiore paginae titularis: Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)"
   }
 }

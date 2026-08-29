@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-166",
   "signature": "MN II 166",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "117",
   "heading": {
     "title": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1690"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,45 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–364",
+      "locus": "p. 3",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "p. 3",
+          "text": "Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 364",
+          "text": "Absolvimus 26. Augusti 1690.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 3",
+        "text": "Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 364",
+        "text": "Absolvimus 26. Augusti 1690.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Scriptor et auctor ignoti."
+        }
+      ],
       "dates": [
         {
           "type": "end_date",
@@ -137,13 +169,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-166/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 166",
     "titles": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi \nLiber quartus Decretalium Gregorii IX. Pontificis Maximi",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n366 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....",
+    "explicits": "Absolvimus 26. Augusti 1690.",
+    "notes": "Scriptor et auctor ignoti.",
+    "physical": "Papier \n366 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "366 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1690.\n\n**Viertes Buch der Dekretalen Papst Gregors IX.**\n\nAnfang S. 3: **Erster Titel. Über Verlöbnisse und Ehe.** Da dieses gesamte vierte Buch der Dekretalen von Verlöbnissen und Ehe handelt.....\n\nSchluss S. 364: **Wir beendeten [dies] am 26. August 1690.**\n\nSchreiber und Verfasser sind unbekannt.",
+    "latin": "366 pagg.; teg. a1; script. 1690\n\nLiber quartus Decretalium Gregorii IX. Pontificis Maximi.  \nInitium p. 3: Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....  \nClausula p. 364: Absolvimus 26. Augusti 1690.  \nScriptor et auctor ignoti."
   }
 }

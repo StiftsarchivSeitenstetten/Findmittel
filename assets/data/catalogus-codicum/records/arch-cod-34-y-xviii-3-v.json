@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-y-xviii-3-v",
   "signature": "Arch. Cod. 34 Y (XVIII 3 v)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "132–133",
   "heading": {
-    "title": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim.....",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1689/90"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 Y (XVIII 3 v).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim.....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–52v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Antiloquii",
+          "text": "Summulas hoc est Logices maioris synopsim.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Antiloquii",
+        "text": "Summulas hoc est Logices maioris synopsim.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -68,14 +87,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Logica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam audiamus, plurimum necesse est.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Logica Maior",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 59–302v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Praefationis In Logicam Maiorem",
+          "text": "Ut prius Logicam videamus quam audiamus, plurimum necesse est.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Praefationis In Logicam Maiorem",
+        "text": "Ut prius Logicam videamus quam audiamus, plurimum necesse est.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -171,13 +204,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 Y (XVIII 3 v)",
-    "titles": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim..... \nLogica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim..... \nLogica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam audiamus, plurimum necesse est.",
-    "persons": "P. Pontianus Schyz Dozent lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
-    "incipits": "",
+    "titles": "Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus \nLogica Minor sive Summulae Dialecticae. De tribus mentis operationibus \nLogica Maior",
+    "persons": "P. Pontianus Schyz Dozent lecturer  \nFr. Gabriel Sumadtinger Schreiber scribe ",
+    "incipits": "Summulas hoc est Logices maioris synopsim..... \nUt prius Logicam videamus quam audiamus, plurimum necesse est.",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 Y (XVIII 3 v). \nLogica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim..... \nLogica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam audiamus, plurimum necesse est.",
-    "physical": "Papier \n302 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n302 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 302 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf dem Vorderdeckel IHS, auf dem Rückdeckel die Unbefleckte Mutter nach Apk 12,1; geschrieben 1689/90.\n\na) **Kleine Logik oder Summulae der Dialektik über die drei Tätigkeiten des Geistes:** fol. 1–52v. Anfang: „Die Summulae, das heißt eine Zusammenfassung der größeren Logik....“\n\nb) **Große Logik:** fol. 59–302v. Anfang der Vorrede: „Dass wir die Logik zuerst sehen, bevor wir sie hören, ist höchst notwendig.“\n\nInitialen auf dem Vorderdeckel: **F G S P S = Fr. Gabriel Sumadtinger Professus Seittenstettensis**, 1691. Auch die Rückenaufschrift nennt Fr. Gabriel Someting aus Seitenstetten als Schreiber und P. Pontianus Schyz als Professor. Tatsächlich diktierte der Ottobeurer Mönch und Salzburger Professor diese Logik; sie stimmt mit MN II 169 überein.",
+    "latin": "4°; 302 foll.; teg. a2, in cuius parte adversa I H S, in aversa Mater Immaculata iuxta Apoc. XII, 1; script. 1689/90\n\na) Logica Minor sive Summulae Dialecticae. De tribus mentis operationibus: fol. 1–52v. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris synopsim.....\n\nb) Logica Maior: fol. 59–302v. Initium Praefationis In Logicam Maiorem: Ut prius Logicam videamus quam audiamus, plurimum necesse est.\n\n\n\n\nLitterae initiales in parte adversa tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1691. Scriptor codicis nostri etiam in dorso notatus est: Logica M S. à F. Gabriele Someting (Ipse vero nomen suum Sumadtinger scripsit!) Seittenstettensi Sub P. Pontiano Schyz. Et re vera hic professor Ottoburanus et professor Salisburgensis hanc logicam dictavit; nam eadem est atque codicis MN II 169 (vide supra p. 131–132!)."
   }
 }

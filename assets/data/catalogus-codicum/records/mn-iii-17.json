@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-17",
   "signature": "MN III 17",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "167–168",
   "heading": {
     "title": "Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1700"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–35",
+      "locus": "p. 1–35",
       "language": "",
+      "incipits": [
+        {
+          "text": "Ad moribundum ex praescripto Divi Jacobi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Ad moribundum ex praescripto Divi Jacobi....."
+        "text": "Ad moribundum ex praescripto Divi Jacobi.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,13 +78,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Epitome Praeparationis ad mortem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 36–126",
+      "locus": "p. 36–126",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -83,13 +100,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Post exspirationem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 126–129",
+      "locus": "p. 126–129",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -101,13 +122,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Interrogatorium Pro Confessionibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 130–147",
+      "locus": "p. 130–147",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -119,13 +144,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Forma Absolutionis Jubilaei, Semel in Vita: et in mortis articulo personis utriusque Sexus Ordinis S: Benedicti indulti",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 148–150",
+      "locus": "p. 148–150",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -206,13 +235,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-17/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 17",
     "titles": "Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo \nTractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo \nEpitome Praeparationis ad mortem \nPost exspirationem \nInterrogatorium Pro Confessionibus \nForma Absolutionis Jubilaei, Semel in Vita: et in mortis articulo personis utriusque Sexus Ordinis S: Benedicti indulti",
-    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt author or compiler author_or_compiler  \nunbekannt Schreiber scribe ",
     "incipits": "Ad moribundum ex praescripto Divi Jacobi.....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min., XIV + 162 pagg. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8° min., XIV + 162 pagg. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Kleines Oktavformat; XIV + 162 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1700.\n\na) **Kurze Abhandlung über die Weise, wie sich der Priester bei einem Sterbenden verhalten soll:** S. 1–35. Anfang: Zu einem Sterbenden ist nach der Vorschrift des hl. Jakobus.....\n\nb) **Auszug aus der Vorbereitung auf den Tod:** S. 36–126.\n\nc) **Nach dem Verscheiden:** S. 126–129.\n\nd) **Fragenkatalog für Beichten:** S. 130–147.\n\ne) **Form der Jubiläumsabsolution, die Personen beiderlei Geschlechts des Benediktinerordens einmal im Leben und in der Todesstunde gewährt wird:** S. 148–150.\n\nForm von Einband und Schrift weisen auf eine Entstehung um 1700. Der Schreiber ist unbekannt.",
+    "latin": "8° min., XIV + 162 pagg.; teg. a1; script. ca. 1700\n\na) Tractatus Brevis De modo, quo gerere Se debet Sacerdos cum Agonizante, seu moribundo: p. 1–35. Initium: Ad moribundum ex praescripto Divi Jacobi.....\n\nb) Epitome Praeparationis ad mortem: p. 36–126.\n\nc) Post exspirationem: p. 126–129.\n\nd) Interrogatorium Pro Confessionibus: p. 130–147.\n\ne) Forma Absolutionis Jubilaei, Semel in Vita: et in mortis articulo personis utriusque Sexus Ordinis S: Benedicti indulti: p. 148–150.\n\nForma tegumenti scripturaeque scriptum esse codicillum nostrum circa annum 1700 indicant. Scriptor autem ignotus."
   }
 }

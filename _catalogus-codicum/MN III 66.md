@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 66
 ms_contents:
-  title: "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh"
   items:
-  - label: "a"
-    title: "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh"
-    locus: "S. 1–66"
-    note: "Vorwiegend Exzerpte aus Gabriel Ducreux; außerdem Matthias Dannenmayr."
+  - label: a
+    title: Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh
+    locus: p. 20, 26
+    note: Vorwiegend Exzerpte aus Gabriel Ducreux; außerdem Matthias Dannenmayr.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

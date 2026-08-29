@@ -17,11 +17,40 @@ ms_contents:
   summary: Physikvorlesung Eberhard Neidharts und eine Einführung in die Astronomie, geschrieben von Johann Ulrich Zürcher.
   items:
   - label: a
-    catalog_statement: '*In Universam Aristotelis Physicam Prooemium:* fol. 1 - 4v. *Initium* Prooemii: Post Exanlatos (!) felicis Deo Ter Optimo Maximo....'
+    catalog_statement: '*In Universam Aristotelis Physicam Prooemium:* fol. 1 - 4v. *Initium* Prooemii: Post Exanlatos (!) felicis Deo Ter Optimo
+      Maximo....'
+    title: In Universam Aristotelis Physicam Prooemium
+    locus: fol. 1 - 4v
+    incipits:
+    - label: Prooemii
+      text: Post Exanlatos (!) felicis Deo Ter Optimo Maximo....
+    title_status: unspecified
   - label: b
-    catalog_statement: '*In octo Libros Physicorum:* fol. 5 - 310; *initium:* Tribus hos octo libros tract(at)ibus complectemur.... Clausula fol. 310r: absolvimus octo libros Physicorum 3. die Septembris horis antemeridianis. Anno 1644.'
+    catalog_statement: '*In octo Libros Physicorum:* fol. 5 - 310; *initium:* Tribus hos octo libros tract(at)ibus complectemur.... Clausula fol.
+      310r: absolvimus octo libros Physicorum 3. die Septembris horis antemeridianis. Anno 1644.'
+    title: In octo Libros Physicorum
+    locus: fol. 5 - 310
+    incipits:
+    - text: Tribus hos octo libros tract(at)ibus complectemur....
+    colophons:
+    - locus: fol. 310r
+      text: absolvimus octo libros Physicorum 3. die Septembris horis antemeridianis. Anno 1644.
+    title_status: unspecified
   - label: c
-    catalog_statement: '*Introductio ad Astronomiam:* fol. 312 - 367; *initium* fol. 312r: Astronomia inter humanas Scientias una est ex primariis.... Clausula fol. 367v: Finis, et professor quoque huius moeae (?), vitam finivit. Professorem autem indicat inscriptio dorsi: (Commentarii in libros) Physicorum A Reverendo Patre Everardo Neidhart dictati sunt 1644.'
+    catalog_statement: '*Introductio ad Astronomiam:* fol. 312 - 367; *initium* fol. 312r: Astronomia inter humanas Scientias una est ex primariis....
+      Clausula fol. 367v: Finis, et professor quoque huius moeae (?), vitam finivit. Professorem autem indicat inscriptio dorsi: (Commentarii
+      in libros) Physicorum A Reverendo Patre Everardo Neidhart dictati sunt 1644.'
+    title: Introductio ad Astronomiam
+    locus: fol. 312 - 367
+    incipits:
+    - locus: fol. 312r
+      text: Astronomia inter humanas Scientias una est ex primariis....
+    colophons:
+    - locus: fol. 367v
+      text: Finis, et professor quoque huius moeae (?), vitam finivit. Professorem autem indicat
+    title_status: unspecified
+    notes:
+    - 'inscriptio dorsi: (Commentarii in libros) Physicorum A Reverendo Patre Everardo Neidhart dictati sunt 1644.'
 phys_desc:
   object_form: codex
   support: Papier

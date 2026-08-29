@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-19",
   "signature": "MN I 19",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "275",
   "heading": {
     "title": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1807"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt.",
-    "language": "de",
+    "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,33 +49,22 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
-      "language": "",
+      "locus": "p. 11",
+      "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [
-        {
-          "type": "summary",
-          "text": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt."
-        }
-      ],
+      "notes": [],
       "dates": [],
-      "persons": [
-        {
-          "name": "Philipp V.",
-          "roleRaw": "translator_or_copyist",
-          "roleLabel": "translator or copyist",
-          "scope": "item",
-          "itemId": "item-1",
-          "certainty": "uncertain",
-          "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
-        }
-      ],
+      "persons": [],
       "subitems": []
     }
   ],
@@ -102,15 +94,6 @@
       "roleRaw": "translator_or_copyist",
       "roleLabel": "translator or copyist",
       "scope": "contents",
-      "certainty": "uncertain",
-      "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
-    },
-    {
-      "name": "Philipp V.",
-      "roleRaw": "translator_or_copyist",
-      "roleLabel": "translator or copyist",
-      "scope": "item",
-      "itemId": "item-1",
       "certainty": "uncertain",
       "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
     }
@@ -198,13 +181,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-19/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 19",
     "titles": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807. \nKatholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
-    "persons": "Philipp V. translator or copyist translator_or_copyist \nP. Clemens Lietz provenance annotator provenance annotator \nJohann Hönigschmid Schenker donor \nPhilipp V. translator or copyist translator_or_copyist \nPhilipp V. translator or copyist translator_or_copyist",
+    "persons": "Philipp V. translator or copyist translator_or_copyist  \nP. Clemens Lietz provenance annotator provenance annotator Stift Seitenstetten \nJohann Hönigschmid Schenker donor  \nPhilipp V. translator or copyist translator_or_copyist ",
     "incipits": "",
     "explicits": "",
-    "notes": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt. \nde \nDeutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt. \nDer volle Name des als 'Philipp V.' bezeichneten Übersetzers oder Abschreibers konnte vom Katalogbearbeiter nicht ermittelt werden. \nPhilipp V. war nach der Feststellung des Katalogbearbeiters kein Seitenstettner Mönch.",
-    "physical": "Papier \n384 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "notes": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt. \nDer volle Name des als 'Philipp V.' bezeichneten Übersetzers oder Abschreibers konnte vom Katalogbearbeiter nicht ermittelt werden. \nPhilipp V. war nach der Feststellung des Katalogbearbeiters kein Seitenstettner Mönch. \nVon P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.",
+    "physical": "Papier \n384 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "Großquartformat; 384 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben im Jahr 1807.\n\n**Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.**\n\nDen vollständigen Namen jenes **Philipp V.**, der laut S. 11 entweder selbst das Salzburger Ritual ins Deutsche übersetzte oder lediglich die Übersetzung abschrieb, habe ich nirgends gefunden. Sicherlich war er kein Seitenstettner Mönch; denn P. Clemens (Lietz, Seitenstettner Mönch, geb. 1853, Profess 1873, Priesterweihe 1877, gest. 1922) vermerkte auf der Innenseite des Vorderdeckels: **Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.**\n\nWas nur für den Priester bestimmt ist, ist größtenteils nicht übersetzt.",
+    "latin": "4° mai.; 384 pagg.; teg. c2d; scriptus anno 1807\n\n**Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.**\n\nPlenum nomen illius **Philippi V.**, qui iuxta p. 11 librum ritualem Salisburgensem aut ipse in linguam Germanicam transtulit aut translationem descripsit tantum, nusquam repperi. Certe non est monachus Seitenstettensis; notavit enim P. Clemens (Lietz, monachus Seitenstettensis, n. 1853, p. 1873, s. 1877, m. 1922) in parte adversa tegumenti ab intrinsecus: **Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.**\n\nQuae pro solo sacerdote sunt, plerumque non sunt translata."
   }
 }

@@ -12,35 +12,130 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholasticus De Angelis et Actibus Humanis
-    locus: S. 5–409
+    locus: p. 5–409
     date: 1699/1700
     subitems:
     - title: Prooemium
-      locus: S. 7–8
+      locus: p. 7–8
+      incipits:
+      - text: Consideravimus anno praecedenti Deum in seipso.......
+      - text: Angelorum nomen ex privata sui institutione esse nomen officii......
+      - locus: p. 297
+        text: Actus humanus dicitur actus ex deliberatione factus....
+      colophons:
+      - text: Finis huius Tractatus de Angelis. 26. Maii. 1700.
+      - text: Die 28 Augusti. Anno 1700.
+      title_status: supplied
+      title_source: cataloguer
     - title: Disputatio Prima De Creatura Angelica
-      locus: S. 9–291
+      locus: p. 9–291
       end_date: '1700-05-26'
+      incipits:
+      - text: Angelorum nomen ex privata sui institutione esse nomen officii......
+      - locus: p. 297
+        text: Actus humanus dicitur actus ex deliberatione factus....
+      colophons:
+      - text: Finis huius Tractatus de Angelis. 26. Maii. 1700.
+      - text: Die 28 Augusti. Anno 1700.
+      title_status: unspecified
     - title: Disputatio Secunda In secundam Partem Divi Thomae de Actibus Humanis
-      locus: S. 295–409
+      locus: p. 295–409
       start_date: '1700-05-26'
       end_date: '1700-08-28'
+      title_status: unspecified
+    incipits:
+    - text: Consideravimus anno praecedenti Deum in seipso.......
+    - text: Angelorum nomen ex privata sui institutione esse nomen officii......
+    - locus: p. 297
+      text: Actus humanus dicitur actus ex deliberatione factus....
+    colophons:
+    - text: Finis huius Tractatus de Angelis. 26. Maii. 1700.
+    - text: Die 28 Augusti. Anno 1700.
+    title_status: unspecified
   - label: b
     title: Ethica Supernaturalis sive Theologia Practica De Bono et Malo Morali
-    locus: S. 413–600
+    locus: p. 413–600
     date: 1699/1700
     subitems:
     - title: Praefatio
-      locus: S. 415–416
+      locus: p. 415–416
+      incipits:
+      - text: 'quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.'
+      - text: Praesens tractatus totius Theologiae moralis est basis....
+      - text: Tametsi homo ad aeternam beatitudinem sit conditus..
+      - locus: p. 1
+        label: Proloquii
+        text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+      colophons:
+      - text: 'finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.'
+      - locus: p. 491
+        text: Die 31 Augusti 1701.
+      - locus: p. 582
+        text: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)
+      title_status: unspecified
     - title: Tractatus Primus De Conscientia
-      locus: S. 416–536
+      locus: p. 416–536
       end_date: '1700-03-17'
+      incipits:
+      - text: 'quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.'
+      - text: Praesens tractatus totius Theologiae moralis est basis....
+      - text: Tametsi homo ad aeternam beatitudinem sit conditus..
+      - locus: p. 1
+        label: Proloquii
+        text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+      colophons:
+      - text: 'finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.'
+      - locus: p. 491
+        text: Die 31 Augusti 1701.
+      - locus: p. 582
+        text: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)
+      title_status: unspecified
     - title: Tractatus Secundus De Actibus Humanis
-      locus: S. 537–600
-      dated_clausula:
-        locus: S. 582
-        date: '1700-07-10'
+      locus: p. 537–600
+      incipits:
+      - text: 'quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.'
+      - text: Praesens tractatus totius Theologiae moralis est basis....
+      - text: Tametsi homo ad aeternam beatitudinem sit conditus..
+      - locus: p. 1
+        label: Proloquii
+        text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+      colophons:
+      - text: 'finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.'
+      - locus: p. 491
+        text: Die 31 Augusti 1701.
+      - locus: p. 582
+        text: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)
+      title_status: unspecified
     - title: Fragmenta de legibus
       locus: nach S. 582
+      incipits:
+      - text: 'quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.'
+      - text: Praesens tractatus totius Theologiae moralis est basis....
+      - text: Tametsi homo ad aeternam beatitudinem sit conditus..
+      - locus: p. 1
+        label: Proloquii
+        text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+      colophons:
+      - text: 'finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.'
+      - locus: p. 491
+        text: Die 31 Augusti 1701.
+      - locus: p. 582
+        text: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)
+      title_status: unspecified
+    incipits:
+    - text: 'quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536.'
+    - text: Praesens tractatus totius Theologiae moralis est basis....
+    - text: Tametsi homo ad aeternam beatitudinem sit conditus..
+    - locus: p. 1
+      label: Proloquii
+      text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+    colophons:
+    - text: 'finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600.'
+    - locus: p. 491
+      text: Die 31 Augusti 1701.
+    - locus: p. 582
+      text: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

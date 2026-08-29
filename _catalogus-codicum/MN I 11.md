@@ -20,86 +20,80 @@ ms_identifier:
   idno: "MN I 11"
 
 ms_contents:
-  overall_title:
-    title: "Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti"
-    title_type: "wrapper_title"
-    language: "de"
-    note: "Die Umschlagaufschrift nennt nur die Faszikel zu Leopold I., Joseph I. und Karl VI.; die Faszikel II und V werden nicht erwähnt."
-
-  summary: "Sammlung von fünf Faszikeln zur Wahl und Krönung der Kaiser Leopold I., Joseph I. und Karl VI., zu Reichsvikariatsangelegenheiten sowie zu einer Sitzung des Reichsfürstenrates von 1731."
-
+  summary: Sammlung von fünf Faszikeln zur Wahl und Krönung der Kaiser Leopold I., Joseph I. und Karl VI., zu Reichsvikariatsangelegenheiten sowie
+    zu einer Sitzung des Reichsfürstenrates von 1731.
   items:
-    - item: 1
-      physical_unit: "Faszikel I"
-      title: "Waell Zur Römischen Kayser Leopoldi"
-      title_type: "original"
-      extent:
-        display: "148 Seiten"
-        pages: 148
-      persons:
-        - name: "Leopold I."
-          role: "subject"
-      contents_note: "Behandelt nicht nur die Wahl, sondern auch die Krönung Leopolds I."
-
-    - item: 2
-      physical_unit: "Faszikel II"
-      title: "Vicariatssachen"
-      title_type: "original"
-      extent:
-        display: "70 Seiten"
-        pages: 70
-      summary: "Was während eines Interregnums oder bei Verhinderung des Kaisers zu geschehen hat."
-      subject: "Reichsvikariat"
-      date:
-        display: "unter der Regierung Leopolds I."
-        certainty: "inferred"
-        evidence: "Nach Angabe des Katalogbearbeiters ergibt sich dies aus S. 61 des Faszikels."
-      note: "Dieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt."
-
-    - item: 3
-      physical_unit: "Faszikel III"
-      title: "Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690"
-      title_type: "original"
-      extent:
-        display: "158 Seiten"
-        pages: 158
-      content_date:
-        display: "1689–1690"
-        from: 1689
-        to: 1690
-      persons:
-        - name: "Joseph I."
-          role: "subject"
-      contents_note: "Behandelt nicht nur die Wahl, sondern auch die Krönung Josephs I."
-
-    - item: 4
-      physical_unit: "Faszikel IV"
-      title: "Wahl: und Crönungs Act Caroli VI."
-      title_type: "original"
-      extent:
-        display: "304 Seiten"
-        pages: 304
-      persons:
-        - name: "Karl VI."
-          role: "subject"
-      event_date:
-        display: "1711"
-        when: 1711
-      contents_note: "Akten zur Wahl und Krönung Karls VI."
-
-    - item: 5
-      physical_unit: "Faszikel V"
-      title: "Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731"
-      title_type: "original"
-      extent:
-        display: "104 Seiten"
-        pages: 104
-      date:
-        display: "18. Dezember 1731"
-        when: "1731-12-18"
-      subject: "Reichsfürstenrat"
-      note: "Dieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt."
-
+  - item: 1
+    physical_unit: Faszikel I
+    title: Waell Zur Römischen Kayser Leopoldi
+    extent:
+      display: 148 Seiten
+      pages: 148
+    persons:
+    - name: Leopold I.
+      role: subject
+    contents_note: Behandelt nicht nur die Wahl, sondern auch die Krönung Leopolds I.
+    title_status: unspecified
+  - item: 2
+    physical_unit: Faszikel II
+    title: Vicariatssachen
+    extent:
+      display: 70 Seiten
+      pages: 70
+    summary: Was während eines Interregnums oder bei Verhinderung des Kaisers zu geschehen hat.
+    subject: Reichsvikariat
+    date:
+      display: unter der Regierung Leopolds I.
+      certainty: inferred
+      evidence: Nach Angabe des Katalogbearbeiters ergibt sich dies aus S. 61 des Faszikels.
+    note: Dieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt.
+    title_status: unspecified
+  - item: 3
+    physical_unit: Faszikel III
+    title: Von der Wall Ihro Römisch Kayserlichen Mayestätt Josephi anno 1689. und 1690
+    extent:
+      display: 158 Seiten
+      pages: 158
+    content_date:
+      display: 1689–1690
+      from: 1689
+      to: 1690
+    persons:
+    - name: Joseph I.
+      role: subject
+    contents_note: Behandelt nicht nur die Wahl, sondern auch die Krönung Josephs I.
+    title_status: unspecified
+  - item: 4
+    physical_unit: Faszikel IV
+    title: 'Wahl: und Crönungs Act Caroli VI.'
+    extent:
+      display: 304 Seiten
+      pages: 304
+    persons:
+    - name: Karl VI.
+      role: subject
+    event_date:
+      display: '1711'
+      when: 1711
+    contents_note: Akten zur Wahl und Krönung Karls VI.
+    title_status: unspecified
+  - item: 5
+    physical_unit: Faszikel V
+    title: Reichs Fürsten Raths Protzhocoll Dienstag den 18ten Decembris 1731
+    extent:
+      display: 104 Seiten
+      pages: 104
+    date:
+      display: 18. Dezember 1731
+      when: '1731-12-18'
+    subject: Reichsfürstenrat
+    note: Dieser Faszikel wird auf der Umschlagaufschrift nicht erwähnt.
+    title_status: unspecified
+  title: 'Nachrichten Von der Wahl: und Crönung Kayßers Leopoldi, Josephi, Caroli Sexti'
+  languages:
+  - de
+  title_status: attested
+  title_source: wrapper
 phys_desc:
   object_form: "composite_manuscript"
   support: "Papier"

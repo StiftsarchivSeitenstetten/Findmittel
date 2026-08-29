@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-74",
   "signature": "MN III 74",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "282–283",
   "heading": {
     "title": "Proprietates digniores",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "nach 1837; wahrscheinlich um 1860"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Proprietates digniores",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–6",
+      "locus": "p. 5–6",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Diversa consilia practica et praecepta medicinalia",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 7–16",
+      "locus": "p. 7–16",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,13 +102,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Anleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 17–24",
+      "locus": "p. 17–24",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -114,13 +129,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Iterum diversa consilia practica",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 27–33",
+      "locus": "p. 27–33",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +156,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Consilia ad epistolas officiales recte scribendas",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 119–121",
+      "locus": "p. 119–121",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -160,13 +183,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Diversa carmina Germanica",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 127–154",
+      "locus": "p. 127–154",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -183,13 +210,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Iterum diversa consilia practica",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–8, 28 (= 181–188, 208)",
+      "locus": "p. 1–8, 28",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -270,13 +301,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-74/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 74",
     "titles": "Proprietates digniores \nProprietates digniores \nDiversa consilia practica et praecepta medicinalia \nAnleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren \nIterum diversa consilia practica \nConsilia ad epistolas officiales recte scribendas \nDiversa carmina Germanica \nIterum diversa consilia practica",
-    "persons": "P. Ludovicus Debois compiler and scribe compiler_and_scribe",
+    "persons": "P. Ludovicus Debois compiler and scribe compiler_and_scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Hebraice – Latine. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nTractatus mutilus. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; mit einzelnen lateinischen Versen und Aussprüchen. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Schwarzer Einband mit rehbraunem Lederrücken."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Schwarzer Einband mit rehbraunem Lederrücken.",
+    "german": "Oktavformat; 180 + 30 = 210 Seiten; schwarzer Einband mit rehbraunem Lederrücken; geschrieben nach 1837, wahrscheinlich um 1860.\n\na) **Bedeutendere Eigentümlichkeiten** (Hebräisch–Lateinisch): S. 5–6.\n\nb) **Verschiedene praktische Ratschläge und medizinische Vorschriften:** S. 7–16.\n\nc) **Anleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren:** S. 17–24; unvollständig.\n\nd) **Wiederum verschiedene praktische Ratschläge:** S. 27–33.\n\ne) **Ratschläge zum richtigen Abfassen amtlicher Schreiben:** S. 119–121.\n\nf) **Verschiedene deutsche Gedichte:** S. 127–154, mit einigen eingestreuten lateinischen Versen und Aussprüchen. Der Verfasser ist jeweils am Anfang oder Ende des Gedichts angegeben.\n\ng) **Erneut verschiedene praktische Ratschläge:** S. 1–8, 28 (= S. 181–188, 208).\n\nS. 149 steht das Gedicht **Liebe. Von Clemens August, Bischof: bei seinem Gange ins Exil.** Clemens August von Droste-Vischering, Erzbischof von Köln, wurde 1837 ins Exil gezwungen. Zumindest Teil f kann daher nicht vor 1837 geschrieben worden sein.\n\nS. 31 verwendet der Schreiber zur Demonstration einer russischen Geheimschrift den Namen **„Adolf Debois Pater Ludwig“**. Wahrscheinlich ist dies sein eigener Name. **P. Ludovicus Debois** beschäftigte sich mit Kunst, malte etwa Heiligenbilder im Seitenstettner Konvent und unterrichtete ab 1871 am Seitenstettner Gymnasium Zeichnen und Schönschreiben. Das passt zu den zahlreichen Ratschlägen zu Malerei, Vergoldung und verwandten Künsten.\n\nDaher hat P. Ludovicus Debois den Codex wahrscheinlich zusammengestellt und geschrieben, wohl nicht vor seinem Eintritt in das Kloster Seitenstetten 1859 oder 1860. Da er bereits 1849 Priester geworden war, wurde er auch während des Noviziats schon als Pater bezeichnet. Somit entstand der Codex wahrscheinlich nicht vor 1860.",
+    "latin": "8°; 180 + 30 = 210 pagg.; teg. nigrum cum dorso scorteo cervini coloris; scriptus post annum 1837 (circa 1860?)\n\na) Proprietates digniores (Hebraice – Latine): p. 5–6\n\nb) (Diversa consilia practica et praecepta medicinalia): p. 7–16\n\nc) **Anleitung zum Vergolden, Goldputzen Alabastriren & Marmorieren:** p. 17–24 (tractatus mutilus)\n\nd) (Iterum diversa consilia practica): p. 27–33.\n\ne) (Consilia ad epistolas officiales recte scribendas): p. 119–121\n\nf) (Diversa carmina Germanica): p. 127–154 (inspersi aliquot versibus dictisque Latinis). Auctor unicuique poemati aut in initio aut in fine adscriptus est.\n\ng) (Iterum diversa consilia practica): p. 1–8, 28 (= 181–188, 208)\n\nP. 149 scriptum est carmen: **Liebe. Von Clemens August, Bischof: bei seinem Gange ins Exil:** Qui Clemens August de Droste-Vischering, Archi-Episcopus Coloniae Agrippinae, anno 1837 in exilium pulsus est. Qua de re codicillus noster miscellaneus non est scriptus (saltem quoad partem f) ante annum 1837.\n\nInsuper p. 31 scriptor, ut demonstraret arcanam scripturam Russicam, exemplum nominis **„Adolf Debois Pater Ludwig“** adhibuit. Quod esse ipsius scriptoris nomen veri simile est. Nam ille **P. Ludovicus Debois** artibus operam dedit, ex. gr. imagines sanctorum in ambitu conventuali Seitenstettensi pinxit et ab anno 1871 in gymnasio Seitenstettensi artem delineandi et scribendi docuit. In codicillo nostro autem plurima consilia ad artes pingendi, inaurandi similesque pertinent. Quae cum ita sint, P. Ludovicus Debois codicillum nostrum compilavit scripsitque, eumque fortasse probabiliter non antequam anno 1859 aut 1860 in monasterium Seitenstettense ingressus est. Nam cum iam anno 1849 sacerdotio initiatus esset, iam tempore novitiatus voce patris appellabatur. Itaque codicillus noster probabiliter non ante annum 1860 collectus est."
   }
 }

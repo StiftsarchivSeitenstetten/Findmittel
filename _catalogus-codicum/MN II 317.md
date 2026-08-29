@@ -9,7 +9,6 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 317
 ms_contents:
-  title: Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91
   items:
   - label: a
     title: Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91
@@ -17,6 +16,7 @@ ms_contents:
     start_date_display: 29. Oktober 1889
     end_date_display: März 1891
     note: S. 106 ff. leer.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

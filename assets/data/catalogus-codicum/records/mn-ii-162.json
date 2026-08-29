@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-162",
   "signature": "MN II 162",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "116",
   "heading": {
     "title": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1686/87"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Prima De Virtute et obiecto Justitiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–302",
+      "locus": "p. 3–302",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Secunda De Restitutione in genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 303–393",
+      "locus": "p. 303–393",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -81,13 +92,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio tertia De Iniuriis et Restitutione in Specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 393–548",
+      "locus": "p. 393–548",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -192,13 +207,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 162",
     "titles": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie \nDisputatio Prima De Virtute et obiecto Justitiae \nDisputatio Secunda De Restitutione in genere \nDisputatio tertia De Iniuriis et Restitutione in Specie",
-    "persons": "P. Paulus Mezger author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "persons": "P. Paulus Mezger author or lecturer author_or_lecturer St. Peter in Salzburg / Universität Salzburg \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n548 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n548 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "548 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**(Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen).**\n\nAnfang der Vorrede S. 1: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.....\n\na) **Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:** S. 3–302.\n\nb) **Zweite Disputation über Restitution im Allgemeinen:** S. 303–393.\n\nc) **Dritte Disputation über Unrecht und Restitution im Einzelnen:** S. 393–548.\n\nDer Schreiber, der auch den folgenden Codex schrieb, ist unbekannt. Dieselbe Abhandlung enthalten MN II 148 und MN II 159; daher besteht kein Zweifel, dass Verfasser P. Paulus Mezger, Profess von St. Peter in Salzburg und dort Theologieprofessor, war. Da alle drei Codices beinahe wortgleich sind, dürfte auch dieser im Studienjahr 1686/87 geschrieben worden sein.",
+    "latin": "548 pagg.; teg. a2; script. 1686/87\n\n(Tractatus....De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie).\n\nInitium (Prooemii) p. 1: A Theologicis ad virtutes Cardinales progreditur S. Doctor.....\n\na) Disputatio Prima. De Virtute et obiecto Justitiae: p. 3–302\n\nb) Disputatio Secunda. De Restitutione in genere: p. 303–393\n\nc) Disputatio 3. De Iniuriis et Restitutione in Specie: p. 393–548\n\nScriptor codicis nostri, quamquam etiam codicem sequentem scripsit, tamen ignotus est. Eundem tractatum exhibent etiam codices MN II 148 (supra p. 108!) et MN II 159 (vide supra p. 113/14!). Qua de causa de auctore codicis nostri, scilicet P. Paulo Mezger Professo ad S. Petrum Salisburgi et ibidem Theologiae Professore, ne dubitaveris! Et quia paene ad verbum inter se consonant hi tres codices, etiam codicem nostrum eodem anno scholari 1686/87 scriptum esse atque codices MN II 148 et 159 quis neget?"
   }
 }

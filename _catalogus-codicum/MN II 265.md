@@ -12,23 +12,36 @@ ms_contents:
   items:
   - label: a
     title: Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates
-    locus: S. 3–473
-    incipit: Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri
+    locus: p. 3–473
     note: Enthält einen Kommentar zu den acht Büchern der Physik.
+    incipits:
+    - text: Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri....
+      locus: p. 5
+      label: Proloquii
+    title_status: unspecified
   - label: b
     title: Philosophiae Naturalis Pars altera pertractans Libros de Mundo, et Caelo, de Generatione et Corruptione, de Meteoris, et Anima
-    locus: S. 475–665
-    incipit: Physicâ Universali pro rerum dignitate
+    locus: p. 475–665
+    incipits:
+    - text: Physicâ Universali pro rerum dignitate, ......
+    title_status: unspecified
   - label: c
     title: Philosophia Transnaturalis seu Metaphysica
-    locus: S. 666–723
-    incipit: Philosophiam tam rationalem quam naturalem
+    locus: p. 666–723
+    incipits:
+    - text: Philosophiam tam rationalem quam naturalem,........
+    title_status: unspecified
   - label: d
     title: Quaestione de Angelis
-    title_type: supplied
-    locus: S. 704–723
-    completeness: incomplete
+    locus: p. 704–723
+    completeness:
+      status: defective
+      note: incomplete
     note: Diese Inhaltsbezeichnung steht im lateinischen Katalogtext innerhalb einer runden Klammer und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: Philosophiam tam rationalem quam naturalem,........
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

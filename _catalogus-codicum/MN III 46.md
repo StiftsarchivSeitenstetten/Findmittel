@@ -10,25 +10,37 @@ ms_identifier:
   idno: MN III 46
 ms_contents:
   items:
-  - label: "a"
-    title: "Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764)"
-    title_type: "supplied"
-    locus: "S. 1–78"
-    incipit: "Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!....."
-    note: "Nur die arabische Auflösung „1764“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
-  - label: "b"
-    title: "Libellus Professionis sive Explicatio Formulae Professionis Benedictinae"
-    locus: "S. 80–178"
-    incipit: "Si turpe est Patritio,....."
-  - label: "c"
-    title: "Quinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae"
-    locus: "S. 178–179"
-  - label: "d"
-    title: "Duodecim gradus humilitatis Sex versibus contenti"
-    locus: "S. 179"
-  - label: "e"
-    title: "Quaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae"
-    locus: "S. 179–193"
+  - label: a
+    title: Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764)
+    locus: p. 1–78
+    note: Nur die arabische Auflösung „1764“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    incipits:
+    - text: Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!.....
+      locus: p. 2
+      label: Partis Primae
+    title_status: unspecified
+  - label: b
+    title: Libellus Professionis sive Explicatio Formulae Professionis Benedictinae
+    locus: p. 80–178
+    incipits:
+    - text: Si turpe est Patritio,.....
+      locus: p. 82
+      label: Praefatiunculae in Explicationem formulae Professionis Benedictinae
+    title_status: unspecified
+  - label: c
+    title: 'Quinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae'
+    locus: p. 178–179
+    title_status: unspecified
+  - label: d
+    title: Duodecim gradus humilitatis Sex versibus contenti
+    locus: p. 179
+    title_status: unspecified
+  - label: e
+    title: Quaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae
+    locus: p. 179–193
+    incipits:
+    - text: 'Ego F: Placidus Schnuegg Bojus Marzollensis Dioecesis Salisburgensis'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

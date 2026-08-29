@@ -13,18 +13,27 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 27
 ms_contents:
-  title: "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici"
   items:
-  - label: "a"
-    title: "Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici"
-    locus: "Bl. 1r–260v"
-    incipit: "Qualis praerogativa, quae utilitas sit scientiae logicae...."
-    explicit: "Finem 12 Septembris nostrae logicae imposuimus, Anni....1636."
-  - label: "b"
-    title: "Index"
-    title_type: supplied
-    locus: "Bl. 261r–264v"
-    note: "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+  - label: a
+    title: Commentaria et quaestiones in universam Aristotelis logicam ad mentem Divi Thomae Doctoris Angelici
+    locus: fol. 1 - 260v
+    incipits:
+    - text: Qualis praerogativa, quae utilitas sit scientiae logicae....
+      locus: fol. 1
+    colophons:
+    - locus: fol. 260v
+      text: Finem 12 Septembris nostrae logicae imposuimus, Anni....1636. In folio titulari insigne monasterii Seittenstettensis delineatum est
+        cum litteris initialibus M. B. M. V. I. S. (= Monasterium Beatae Mariae Virginis In Seittenstetten) 1637.
+    - text: Finem 12 Septembris nostrae logicae imposuimus, Anni....1636.
+    title_status: unspecified
+    notes:
+    - Auctor et scriptor (vel scriptores?) ignoti.
+  - label: b
+    title: indice
+    locus: Bl. 261r–264v
+    note: Vom Katalog verwendete strukturelle Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

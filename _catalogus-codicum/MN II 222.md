@@ -9,12 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 222
 ms_contents:
-  title: Liber 3. Decretalium
   items:
   - label: a
     title: Liber 3. Decretalium
-    locus: S. 3–229
+    locus: p. 3–229
     incipit_section: Titulus 1. De Vita et honestate Clericorum
+    incipits:
+    - label: Tituli 1. De Vita et honestate Clericorum
+      text: In favorabilibus nomine clericorum omnes personae ecclesiasticae veniunt......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

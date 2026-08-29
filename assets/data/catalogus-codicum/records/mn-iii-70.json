@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-70",
   "signature": "MN III 70",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "278",
   "heading": {
     "title": "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1820 (?)"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–196",
+      "locus": "p. 196",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -140,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-70/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 70",
     "titles": "Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele \nVollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele",
-    "persons": "Johann Hirsch Besitzer owner \nJohann Hirsch Schreiber scribe",
+    "persons": "Johann Hirsch Besitzer owner  \nJohann Hirsch Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Mit braunem Leinen überzogener Einband."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Mit braunem Leinen überzogener Einband.",
+    "german": "Oktavformat; 196 Seiten; mit braunem Leinen überzogener Einband; geschrieben um 1820 (?).\n\n**Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele.**\n\nBesitzvermerk auf einem Vorsatzblatt: **Joh(ann) Hirsch.** Seine Initialen sind auch auf dem Vorderdeckel eingeprägt: **J. H.**\n\nSchrift und Orthographie scheinen eine Entstehung des Büchleins um 1820 anzuzeigen; der Einband dürfte jedoch jünger sein. Daher ist zweifelhaft, ob Joannes Hirsch selbst der Schreiber war.\n\nMehrere Kupferstiche sind eingefügt, die **G. B. Göz** in Augsburg mit großer Kunst entwarf und ausführte.\n\nS. 196 notierte P. Joseph Schock, Seitenstettner Mönch: **M. Simlinger, Mauer=Öhling 12. IX. 1915.** Matthias Simlinger, Rektor der Kirche der dortigen Heil- und Pflegeanstalt, schenkte ihm demnach das Büchlein.",
+    "latin": "8°; 196 pagg.; teg. linteo fusco inductum; scriptus ca. 1820?\n\n**Vollständiges Gebetts=Buch darinnen Verschiedene Gebetter, Tag=Zeiten, und Litaneyen enthalten, zum Nutzen und Gebrauch einer Christlichen Seele.**\n\nNota possessoris in folio praeliminari: **Joh(ann) Hirsch.** Cuius litterae initiales etiam parti adversae tegumenti impressae sunt: **J. H.** Atqui scriptura et orthographia videntur indicare codicillum nostrum circa annum 1820 scriptum esse, tegumentum autem recentioris temporis esse verisimile est. Rebus sic stantibus dubito, num Joannes ille Hirsch ipse scripserit libellum nostrum. Cui libello iniunctae sunt aliquot imagines chalcographicae, quas **G. B. Göz** Augustae Vindelicorum summa cum arte invenit et fecit.\n\np. 196 notavit P. Josephus Schock, monachus Seitenstettensis: **M. Simlinger, Mauer=Öhling 12. IX. 1915.** Donavit igitur hunc libellum rector ille ecclesiae in nosocomio maniacorum nomine Matthias Simlinger."
   }
 }

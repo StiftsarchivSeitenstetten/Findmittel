@@ -16,11 +16,35 @@ ms_contents:
   summary: Salzburger naturphilosophische Kommentare, mitgeschrieben von Georg Reybi; Besitzvermerk des Klosters Ochsenhausen.
   items:
   - label: a
-    catalog_statement: Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)
+    catalog_statement: Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio
+      Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)
+    title: Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense
+      Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)
+    title_status: unspecified
+    incipits:
+    - locus: fol. 3r
+      label: praefationis
+      text: Philosophia est cognitio rerum ut sunt....
+    locus: fol. 2r
   - label: b
-    catalog_statement: 'Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621): fol. 1 - 65r'
+    catalog_statement: 'Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621):
+      fol. 1 - 65r'
+    title: 'Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621)'
+    locus: fol. 1 - 65r
+    title_status: unspecified
+    incipits:
+    - locus: fol. 2r
+      label: Prooemii
+      text: Duplex est tractatio physica......
   - label: c
     catalog_statement: 'Commentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622): fol. 1 - 65r.'
+    title: Commentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622)
+    locus: fol. 1 - 65r
+    title_status: unspecified
+    incipits:
+    - locus: fol. 2r
+      label: Praefationis
+      text: Mutari et moveri est quaedam compassio....
 phys_desc:
   object_form: codex
   support: Papier

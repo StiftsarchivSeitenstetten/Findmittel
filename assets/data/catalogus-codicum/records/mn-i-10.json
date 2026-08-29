@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-10",
   "signature": "MN I 10",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "219",
   "heading": {
     "title": "Nachrichten Von der Wacht: und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae.",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "date": "nicht vor 1711"
   },
   "date": {
@@ -29,12 +29,15 @@
   },
   "contentsOverview": {
     "title": "Nachrichten Von der Wacht: und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae.",
-    "titleTypeRaw": "wrapper_title",
-    "titleTypeLabel": "wrapper title",
+    "titleTypeRaw": "attested",
+    "titleTypeLabel": "überlieferter Titel",
     "translation": "",
     "summary": "Sammlung von fünf Faszikeln zu Wahlen und Krönungen römischer Kaiser und Könige sowie zu damit verbundenen historischen Ereignissen.",
     "language": "de; la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "Faszikel I",
       "title": {
         "text": "Wal Acta. Ferdinandi Primi Römischen Kaysers",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -77,13 +84,17 @@
       "id": "item-2",
       "label": "2",
       "type": "",
+      "physicalUnit": "Faszikel II",
       "title": {
         "text": "Wal-Acta. Maximiliani Secundi Römischen Kaysers",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -108,13 +119,17 @@
       "id": "item-3",
       "label": "3",
       "type": "",
+      "physicalUnit": "Faszikel III",
       "title": {
         "text": "Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -139,13 +154,17 @@
       "id": "item-4",
       "label": "4",
       "type": "",
+      "physicalUnit": "Faszikel IV",
       "title": {
         "text": "Wahl Acta. Ferdinandi Tertii Römischen Kaysers",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -170,6 +189,7 @@
       "id": "item-5",
       "label": "5",
       "type": "",
+      "physicalUnit": "Faszikel V",
       "title": {
         "text": "Inhaltseinheit 5",
         "typeRaw": null,
@@ -177,6 +197,9 @@
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -187,13 +210,17 @@
           "id": "item-a",
           "label": "a",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Wahl Actus. Ferdinandi quarti zum Römischen König",
-            "typeRaw": "original",
-            "typeLabel": "überlieferter Titel"
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
           "locus": "S. 3–43",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -213,13 +240,17 @@
           "id": "item-b",
           "label": "b",
           "type": "",
+          "physicalUnit": "",
           "title": {
             "text": "Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae",
-            "typeRaw": "original",
-            "typeLabel": "überlieferter Titel"
+            "typeRaw": "unspecified",
+            "typeLabel": ""
           },
-          "locus": "S. 45–86",
+          "locus": "p. 45–86",
           "language": "",
+          "incipits": [],
+          "explicits": [],
+          "colophons": [],
           "incipit": null,
           "explicit": null,
           "notes": [],
@@ -363,13 +394,146 @@
       "note": "Die Schrift stimmt nach Aussage des Katalogbearbeiters mit den älteren Faszikeln von MN I 11 überein."
     }
   ],
+  "physicalUnits": [
+    {
+      "id": "physical-faszikel-i",
+      "label": "Faszikel I",
+      "itemIds": [
+        "item-1"
+      ],
+      "titles": [
+        "Wal Acta. Ferdinandi Primi Römischen Kaysers"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Ferdinand I.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-ii",
+      "label": "Faszikel II",
+      "itemIds": [
+        "item-2"
+      ],
+      "titles": [
+        "Wal-Acta. Maximiliani Secundi Römischen Kaysers"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Maximilian II.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-2"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-iii",
+      "label": "Faszikel III",
+      "itemIds": [
+        "item-3"
+      ],
+      "titles": [
+        "Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Ferdinand II.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-3"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-iv",
+      "label": "Faszikel IV",
+      "itemIds": [
+        "item-4"
+      ],
+      "titles": [
+        "Wahl Acta. Ferdinandi Tertii Römischen Kaysers"
+      ],
+      "loci": [],
+      "persons": [
+        {
+          "name": "Ferdinand III.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-4"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    },
+    {
+      "id": "physical-faszikel-v",
+      "label": "Faszikel V",
+      "itemIds": [
+        "item-5",
+        "item-a",
+        "item-b"
+      ],
+      "titles": [
+        "Inhaltseinheit 5",
+        "Wahl Actus. Ferdinandi quarti zum Römischen König",
+        "Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae"
+      ],
+      "loci": [
+        "S. 3–43",
+        "p. 45–86"
+      ],
+      "persons": [
+        {
+          "name": "Ferdinand IV.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-a"
+        },
+        {
+          "name": "Eleonora Magdalena Theresia",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-b"
+        }
+      ],
+      "incipits": [],
+      "explicits": [],
+      "colophons": []
+    }
+  ],
   "search": {
     "signature": "MN I 10",
     "titles": "Nachrichten Von der Wacht: und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae. \nWal Acta. Ferdinandi Primi Römischen Kaysers \nWal-Acta. Maximiliani Secundi Römischen Kaysers \nWahl: und Crönungs Acta. Kayßers Ferdinandi Secundi \nWahl Acta. Ferdinandi Tertii Römischen Kaysers \nInhaltseinheit 5 \nWahl Actus. Ferdinandi quarti zum Römischen König \nVon der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae",
-    "persons": "Ferdinand I. subject subject \nMaximilian II. subject subject \nFerdinand II. subject subject \nFerdinand III. subject subject \nFerdinand IV. subject subject \nEleonora Magdalena Theresia subject subject",
+    "persons": "Ferdinand I. subject subject  \nMaximilian II. subject subject  \nFerdinand II. subject subject  \nFerdinand III. subject subject  \nFerdinand IV. subject subject  \nEleonora Magdalena Theresia subject subject ",
     "incipits": "",
     "explicits": "",
     "notes": "Sammlung von fünf Faszikeln zu Wahlen und Krönungen römischer Kaiser und Könige sowie zu damit verbundenen historischen Ereignissen. \nde; la \nEnthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands I. \nEnthält neben der Kaiserwahl auch Berichte über weitere Taten Maximilians II. \nEnthält neben Wahl und Krönung auch Berichte über weitere Taten Ferdinands II. \nEnthält neben der Kaiserwahl auch Berichte über weitere Taten Ferdinands III. \nDie fünf Faszikel sind physisch selbständige Einheiten ohne eigenen Einband und werden gemeinsam in einem Papierumschlag mit Lederrücken aufbewahrt. \nDer Katalog datiert die Niederschrift ausdrücklich nicht vor 1711 und erwägt aufgrund des Schriftvergleichs mit MN I 11 eine Entstehung zwischen 1711 und 1731. \nDie älteren historischen Stoffe dürfen nicht mit der Entstehungszeit der Abschriften gleichgesetzt werden. Der Katalog bezeichnet die Faszikel eher als historische Abhandlungen denn als Editionen der ursprünglichen Wahlakten. \nDie Form 'Wacht' in der Umschlagaufschrift wird vom Katalog ausdrücklich als Fehler für 'Wahl' gekennzeichnet und daher im Originaltitel nicht stillschweigend korrigiert.",
-    "physical": "Papier \nunits: 5; unit_type: Faszikel; description: Fünf Faszikel aus zusammengebundenen Blättern im Folioformat."
+    "physical": "Papier \nunits: 5; unit_type: Faszikel; description: Fünf Faszikel aus zusammengebundenen Blättern im Folioformat. \nFaszikel I \nFaszikel II \nFaszikel III \nFaszikel IV \nFaszikel V",
+    "german": "5 Faszikel im Folioformat aus zusammengebundenen Blättern, ohne eigenen Einband; sie werden jedoch in einem Papierumschlag mit Lederrücken im Großfolioformat aufbewahrt; geschrieben nicht vor 1711.\n\n**Aufschrift des Umschlags:** Nachrichten Von der Wacht: (Fehler! zu verstehen ist: Wahl!) und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae.\n\n**Erster Faszikel:** Wal Acta. Ferdinandi Primi Römischen Kaysers: 60 Seiten.\n\n**Zweiter Faszikel:** Wal-Acta. Maximiliani Secundi Römischen Kaysers: 54 Seiten.\n\n**Dritter Faszikel:** Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi: 190 Seiten.\n\n**Vierter Faszikel:** Wahl Acta. Ferdinandi Tertii Römischen Kaysers: 546 Seiten.\n\n**Fünfter Faszikel:** 88 Seiten:\n\na) Wahl Actus. Ferdinandi quarti zum Römischen König: S. 3–43.\n\nb) Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae: S. 45–86.\n\nDie Faszikel I–IV enthalten nicht nur die Wahlen der erhabensten Kaiser, sondern berichten auch über zahlreiche von ihnen vollbrachte Taten.\n\nAlle Faszikel scheinen von ein und derselben Hand oder zumindest zur selben Zeit geschrieben worden zu sein, vielleicht zwischen den Jahren 1711 und 1731; denn auch die Faszikel des folgenden Codex MN I 11 weisen dieselbe Schrift auf, und zwar bis zu den Akten der im Jahr 1711 erfolgten Wahl Kaiser Karls VI., während die Akten des Jahres 1731 bereits von einer anderen Hand geschrieben wurden. Ja, auch die früheren Faszikel sind nicht vor dem 17. Jahrhundert verfasst worden; denn sie sind eher historische Abhandlungen als Editionen der eigentlichen Wahlakten und führen Werke von Gelehrten an, die im 17. Jahrhundert erschienen sind.",
+    "latin": "5 fasciculi (folio) foliorum colligatorum, et non tegumento munitorum, sed in involucro chartaceo cum dorso scorteo (folio mai.) servati; script. non ante 1711\n\n**Inscriptio involucri:** Nachrichten Von der Wacht: (mendum! intellige: Wahl!) und Crönung. Kayßers Ferdinandi Primi, Maximiliani Secundi, Ferdinandi Tertii; et Pacis Wesph(alicae) (!); Ferdinandi Quarti, Crönung der Kayßerin Eleonorae.\n\n**Fasciculus Primus:** Wal Acta. Ferdinandi Primi Römischen Kaysers: 60 pagg.\n\n**Fasciculus Secundus:** Wal-Acta. Maximiliani Secundi Römischen Kaysers: 54 pagg.\n\n**Fasciculus Tertius:** Wahl: und Crönungs Acta. Kayßers Ferdinandi Secundi: 190 pagg.\n\n**Fasciculus Quartus:** Wahl Acta. Ferdinandi Tertii Römischen Kaysers: 546 pagg.\n\n**Fasciculus Quintus:** 88 pagg:\n\na) Wahl Actus. Ferdinandi quarti zum Römischen König: pagg. 3–43\n\nb) Von der Crönung der Römischen Kayserin Eleonorae Magdalenae Theresiae: p. 45–86.\n\nFasciculi I–IV non solum electiones Augustissimorum Imperatorum continent, sed etiam multas ab eis gestas res enarrant.\n\nOmnes fasciculi videntur ab una eademque manu, vel saltem eodem tempore scripti esse, fortasse inter annos 1711 et 1731, nam etiam fasciculi codicis sequentis MN I 11 eandem scripturam exhibent, usque ad Acta electionis Imperatoris Caroli VI anno 1711 factae, cum Acta anni 1731 iam ab alia manu scriberentur. Immo etiam priores fasciculi non ante saeculum XVII. compositi sunt; sunt enim magis dissertationes historicae quam editiones ipsorum electionum actorum, et laudant opera virorum litteratorum, quae saeculo XVII. in lucem evenerunt."
   }
 }

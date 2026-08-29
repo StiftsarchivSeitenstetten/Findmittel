@@ -14,16 +14,17 @@ ms_identifier:
   idno: "MN I 3"
 
 ms_contents:
+  items:
   - item: 1
-    title: "Fortsetzung des vorhergehenden Codex"
-    title_type: "supplied"
-    language:
-      - "de"
-    contents_note: "Fortsetzung von MN I 2: alphabetisch geordnete Einträge der Buchstaben M–Z sowie Register."
+    title: 'Continuatio codicis praecedentis: Litterae M–Z et Index'
+    contents_note: Cetera vide supra!
     index:
       present: true
-      extent: "52 Seiten"
-
+      extent: 52 Seiten
+    languages:
+    - de
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: "codex"
   format: "Folio"

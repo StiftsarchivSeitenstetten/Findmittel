@@ -9,12 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 181
 ms_contents:
-  title: Tractatus De Jure et Justitia
   items:
   - label: a
     title: Tractatus De Jure et Justitia
     locus: fol. 1r–201v
     end_date: '1695-08-26'
+    incipits:
+    - locus: fol. 1r
+      label: Proloquii
+      text: Examinatis anno priori Tribus Virtutibus Theologicis.....
+    colophons:
+    - locus: fol. 201v
+      text: Absolvimus hunc tractatum Die 26 Augusti 1695.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

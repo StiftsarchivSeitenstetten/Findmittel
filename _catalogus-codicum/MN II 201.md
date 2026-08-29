@@ -9,13 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 201
 ms_contents:
-  title: Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio
   items:
   - label: a
     title: Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio
     end_locus: fol. 241v
     start_date: '1699'
     end_date: '1700-08-26'
+    incipits:
+    - label: Proloquii
+      text: Cum finis et scopus Totius Summae Theologicae.....
+    colophons:
+    - locus: fol. 241v
+      text: Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

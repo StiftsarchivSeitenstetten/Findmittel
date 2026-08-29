@@ -12,12 +12,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 78
 ms_contents:
-  title: "Notizen"
   items:
-  - label: "a"
-    title: "Notizen"
-    locus: "S. 1–288"
-    note: "Vor allem Aufzeichnungen über das Heilige Land und Jerusalem."
+  - label: a
+    title: Notizen
+    locus: p. 92
+    note: Vor allem Aufzeichnungen über das Heilige Land und Jerusalem.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

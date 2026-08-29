@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-139",
   "signature": "MN II 139",
   "aliases": [
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Collegia Juris Canonici in Libros I - V Decretalium",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,15 +42,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Collegia Juris Canonici in Libros I - V Decretalium",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–1454",
+      "locus": "p. 5 - 1454",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus....",
+          "locus": "p. 5",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus...."
+        "text": "Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus....",
+        "locus": "p. 5",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -127,13 +142,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-139/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 139",
     "titles": "Collegia Juris Canonici in Libros I - V Decretalium \nCollegia Juris Canonici in Libros I - V Decretalium",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus....",
     "explicits": "",
     "notes": "Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern. Das fünfte Buch der Dekretalen wird ab S. 1455 nur noch den Kasuisten überlassen.",
-    "physical": "Papier \n1464 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n1464 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "1464 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1680 (?).\n\n**(Kollegien des kanonischen Rechts zu den Büchern I–V der Dekretalen):** S. 5–1454. Das fünfte Buch der Dekretalen wird ab S. 1455 jedoch nur noch den Kasuisten überlassen.\n\nAnfang S. 5: Frage: Was ist Recht? Antwort: Das Recht wird in verschiedener Weise verstanden, nämlich als Gesetze oder Konstitutionen....\n\nRandnotiz S. 5: **Juris Canonici Collegium 7 9 Decembris.** In welchem Jahr der Codex entstanden ist, bleibt ungewiss. Auch Verfasser und Schreiber sind unbekannt. Form von Einband und Schrift scheinen jedoch darauf hinzuweisen, dass der Codex um 1680 geschrieben und eingebunden wurde.",
+    "latin": "1464 pagg.; teg. a2; script. ca. 1680 (?)\n\n(Collegia Juris Canonici in Libros I - V Decretalium): p. 5 - 1454 (Liber autem quintus Decretalium p. 1455 non nisi ad Casistas delegatur!)\n\nInitium p. 5: Quaeritur. Quid sit ius. Respondeo: Jus diversimodé accipi, scilicet pro legibus vel constitutionibus....\n\nNota in margine p. 5: Juris Canonici Collegium 7 9 Decembris. At quo anno codex noster ortus sit, incertum est. Ignoti etiam auctor scriptorque. Forma tamen tegumenti scripturaeque videntur indicare, circa annum 1680 scriptum tegumentoque munitum esse codicem nostrum."
   }
 }

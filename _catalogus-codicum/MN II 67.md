@@ -16,11 +16,31 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus In Libros Octo Physicorum Aristotelis
-    locus: S. 2–313
-    title_type: supplied
+    locus: p. 2–313
+    incipits:
+    - locus: p. 2
+      label: Proloquii
+      text: Peragrato horribili logicae deserto.....
+    colophons:
+    - locus: p. 62
+      text: Absolvimus hunc librum primum primo die Septembris. 1654 Anno.
+    - locus: p. 313
+      text: Absolvimus 9. Januarii 1655.
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus secundus In Libros Quatuor De Caelis et Mundo
-    locus: S. 328–432
+    locus: p. 1–105
+    incipits:
+    - locus: p. 328
+      label: Proloquii
+      text: Postquam Philosophus in 8. libris physicorum egit de corpore naturali in communi.....
+    colophons:
+    - locus: p. 51
+      text: Absolvimus 25 Januarii Anno 1655.
+    notes:
+    - Clausula in fine tractatus deest.
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Anselm Schlager

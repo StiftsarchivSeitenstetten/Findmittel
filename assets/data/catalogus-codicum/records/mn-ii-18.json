@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-18",
   "signature": "MN II 18",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "13",
   "heading": {
-    "title": "(In libros de Generatione et Corruptione): fol. 1 - 96",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "In libros de Generatione et Corruptione",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "1632"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Philosophischer Kurs zu Werden, Seele und Metaphysik, abgeschlossen an der Universität Graz.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(In libros de Generatione et Corruptione): fol. 1 - 96",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "In libros de Generatione et Corruptione",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 96",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Postquam Aristoteles 8 libris physicorum egisset....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Postquam Aristoteles 8 libris physicorum egisset....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,15 +86,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "In Libros de Anima: fol. 96r. - 205r.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "In Libros de Anima",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 96r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 96v",
+          "label": "Prooemii",
+          "text": "Aggredimur post alia illam philosophiae partem....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 205r",
+          "text": "8. Maii",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 96v",
+        "label": "Prooemii",
+        "text": "Aggredimur post alia illam philosophiae partem....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 205r",
+        "text": "8. Maii",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -92,15 +135,43 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Metaphysica): fol. 1 - 30v. (=208 - 238)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Metaphysica",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1 - 30v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 208",
+          "label": "Prooemii",
+          "text": "Metaphysica scientiarum omnium nobilissima....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 238v",
+          "label": "triennalis philosophiae laboris",
+          "text": "Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 208",
+        "label": "Prooemii",
+        "text": "Metaphysica scientiarum omnium nobilissima....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 238v",
+        "label": "triennalis philosophiae laboris",
+        "text": "Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -195,13 +266,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 18",
-    "titles": "(In libros de Generatione et Corruptione): fol. 1 - 96 \n(In libros de Generatione et Corruptione): fol. 1 - 96 \nIn Libros de Anima: fol. 96r. - 205r. \n(Metaphysica): fol. 1 - 30v. (=208 - 238)",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "In libros de Generatione et Corruptione \nIn libros de Generatione et Corruptione \nIn Libros de Anima \nMetaphysica",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Postquam Aristoteles 8 libris physicorum egisset.... \nAggredimur post alia illam philosophiae partem.... \nMetaphysica scientiarum omnium nobilissima....",
+    "explicits": "8. Maii \nActum Graecii in Archiducali Universitate 14 Junii. Anno 1632.",
     "notes": "Philosophischer Kurs zu Werden, Seele und Metaphysik, abgeschlossen an der Universität Graz. \n(In libros de Generatione et Corruptione): fol. 1 - 96 \nIn Libros de Anima: fol. 96r. - 205r. \n(Metaphysica): fol. 1 - 30v. (=208 - 238)",
-    "physical": "Papier \n239 Blätter \nQuartformat \ndescription: Wie MN II 17: Einband aus einem mit Musiknoten beschriebenen Pergamentblatt."
+    "physical": "Papier \n239 Blätter \nQuartformat \ndescription: Wie MN II 17: Einband aus einem mit Musiknoten beschriebenen Pergamentblatt.",
+    "german": "II + 205 + 32 = 239 Blätter; Einband wie bei Codex MN II 17, also aus einem mit Musiknoten beschriebenen Pergamentblatt.\n\n**a) Zu den Büchern Über Werden und Vergehen:** Bl. 1–96.\n\nAnfang der Vorrede: **Nachdem Aristoteles in acht Büchern der Physik gehandelt hatte....**\n\n**b) Zu den Büchern Über die Seele:** Bl. 96r–205r.\n\nAnfang der Vorrede Bl. 96v: **Nach den anderen Dingen gehen wir an jenen Teil der Philosophie heran....** Schlussvermerk Bl. 205r: **8. Mai.**\n\n**c) Metaphysik:** Bl. 1–30v (= 208–238).\n\nAnfang der Vorrede: **Die Metaphysik ist die vornehmste aller Wissenschaften....** (Bl. 208).\n\nSchlussvermerk der dreijährigen philosophischen Arbeit Bl. 238v: **Geschehen zu Graz an der erzherzoglichen Universität am 14. Juni 1632.**\n\nZu demselben philosophischen Kurs scheint auch Codex MN II 17 zu gehören.\n\nVerfasser und Schreiber sind unbekannt.",
+    "latin": "II + 205 + 32 = 239 foll., tegumentum ut in codice MN II 17\n\na) (In libros de Generatione et Corruptione): fol. 1 - 96\n\nInitium Prooemii: Postquam Aristoteles 8 libris physicorum egisset....\n\nb) In Libros de Anima: fol. 96r. - 205r.\n\nInitium Prooemii fol. 96v.: Aggredimur post alia illam philosophiae partem.... Clausula fol. 205r: 8. Maii\n\nc) (Metaphysica): fol. 1 - 30v. (=208 - 238)\n\nInitium Prooemii: Metaphysica scientiarum omnium nobilissima.... (fol. 208)\n\nClausula triennalis philosophiae laboris fol. 238v: Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.\n\nAd eundem cursum philosophicum etiam Cod. MN II 17 videtur pertinere.\n\nAuctor et scriptor ignoti."
   }
 }

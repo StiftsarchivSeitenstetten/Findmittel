@@ -16,15 +16,38 @@ ms_contents:
   - label: a
     title: Tractatus In Duos Libros De Generatione et Corruptione
     locus: fol. 4r–104r
+    incipits:
+    - locus: fol. 5r
+      label: Prooemii
+      text: 'Recta scientiarum methodus, exigit.... fol. 104r:'
+    title_status: unspecified
+    colophons:
+    - text: 5 Maii.
   - label: b
     title: Tractatus IV. In Libros IV. Aristotelis De Meteoris
     locus: fol. 105r–121v
+    incipits:
+    - text: Post traditam generalem doctrinam......
+    title_status: unspecified
   - label: c
     title: Tractatus In Tres Libros De Anima
     locus: fol. 122r–192r
+    incipits:
+    - locus: fol. 123r
+      label: Prooemii
+      text: De anima praesens praesens (lapsus calami!) pertractatio est........
+    title_status: unspecified
   - label: d
     title: Tractatus Sextus et Ultimus In XII Aristotelis Libros Metaphysicos
     locus: fol. 194r–248r
+    incipits:
+    - locus: fol. 195r
+      label: Prooemii
+      text: Non suprema scientiarum physica est.....
+    colophons:
+    - locus: fol. 248r
+      text: absolvimus 17 Septembris Anno 1655.
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Adam Piringer

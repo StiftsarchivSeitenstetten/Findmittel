@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-262",
   "signature": "MN II 262",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "198",
   "heading": {
     "title": "Tractatus de virtute et Sacramento Poenitentiae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1714"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus de virtute et Sacramento Poenitentiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–185v",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia"
+        "text": "Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia, ......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -70,15 +83,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De tribus ultimis Sacramentis, extrema unctione, ordine, et matrimonio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 185v–217v",
       "language": "",
+      "incipits": [
+        {
+          "text": "absoluta de Sacramento poenitentiae consideratione.....",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "absoluta de Sacramento poenitentiae consideratione"
+        "text": "absoluta de Sacramento poenitentiae consideratione.....",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -174,13 +199,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 262",
     "titles": "Tractatus de virtute et Sacramento Poenitentiae \nTractatus de virtute et Sacramento Poenitentiae \nTractatus De tribus ultimis Sacramentis, extrema unctione, ordine, et matrimonio",
-    "persons": "P. Alanus Pfeiffer Dozent lecturer \nFr. Hieronymus Hueber Schreiber scribe",
-    "incipits": "Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia \nabsoluta de Sacramento poenitentiae consideratione",
+    "persons": "P. Alanus Pfeiffer Dozent lecturer Stift Admont / Universität Salzburg \nFr. Hieronymus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia, ...... \nabsoluta de Sacramento poenitentiae consideratione.....",
     "explicits": "",
     "notes": "Der Katalog bezeichnet das Incipit ausdrücklich als fehlerhaft geschrieben.",
-    "physical": "Papier \n219 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n219 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "219 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1714.\n\na) **Abhandlung über Tugend und Sakrament der Buße:** fol. 1r–185v. Anfang: Den vierten Platz in der Lehrordnung unter den Sakramenten nimmt gewöhnlich die Buße ein,......\n\nb) **Abhandlung über die drei letzten Sakramente, Letzte Ölung, Weihe und Ehe:** fol. 185v–217v. Anfang der Vorrede: Nach Abschluss der Betrachtung über das Sakrament der Buße.....\n\nDass auch unseren Codex **Fr. Hieronymus Hueber** schrieb, lässt sich beim Vergleich mit den fünf vorhergehenden Codices kaum bestreiten. Dass dagegen **P. Alanus Pfeiffer**, Profess von Admont und Professor in Salzburg, die Vorlesungen diktierte, zeigt die Rückenaufschrift: *Tractatus Theologicus Reverendi P: Alani Pfeiffer.*\n\nDieselben Abhandlungen fanden wir bereits in MN II 253; da dieser 1714 geschrieben wurde und mit unserem Codex sehr gut übereinstimmt – abgesehen vom Anfang des Teiles a, der zweifellos einen Schreibfehler enthält –, ist wahrscheinlich, dass auch unser Codex 1714 geschrieben wurde.",
+    "latin": "219 foll.; teg. a1; script. 1714\n\na) Tractatus de virtute et Sacramento Poenitentiae: fol. 1r–185v.  \nInitium: Quartum ordine doctrinae communiter Sacramenta locum obtinet poenitentia, ......\n\nb) Tractatus De tribus ultimis Sacramentis, extrema unctione, ordine, et matrimonio: fol. 185v–217v.  \nInitium Proemii: absoluta de Sacramento poenitentiae consideratione.....\n\nScripsisse nostrum quoque codicem minime negabis **F. Hieronymum Hueber**, collatis quinque codicibus praecedentibus. Dictasse autem tractatus nostros **P. Alanum Pfeiffer** (professum Admontensem et professorem Salisburgensem) docet inscriptio dorsi: *Tractatus Theologicus Reverendi P: Alani Pfeiffer.* Eosdem tractatus iam supra p. 194 invenimus in codice MN II 253; qui cum anno 1714 scriptus sit et cum codice nostro optime conveniat (non obstante initio partis a, quod sine dubio lapsum scriptoris contineat), veri simile est, etiam hunc codicem anno 1714 exaratum esse."
   }
 }

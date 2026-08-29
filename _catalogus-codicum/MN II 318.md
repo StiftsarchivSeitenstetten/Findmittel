@@ -9,14 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 318
 ms_contents:
-  title: Annales a prima Olympiade usque ad Christum natum
-  title_type: supplied
   items:
   - label: a
     title: Annales a prima Olympiade usque ad Christum natum
-    title_type: supplied
-    locus: S. 1–249
-    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; S. 250–294 sind leer.
+    locus: p. 249
+    note: Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; S.
+      250–294 sind leer.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-123",
   "signature": "MN II 123",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "77–78",
   "heading": {
     "title": "Libri aliquot De variis controversisticis fidei materiis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. MN II 123.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,14 +42,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Libri aliquot De variis controversisticis fidei materiis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 5–164.",
+      "locus": "p. 5–164",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 7",
+          "label": "Prooemii",
+          "text": "Videbat olim de nocte vir desideriorum et magnus Propheta Daniel......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 7",
+        "label": "Prooemii",
+        "text": "Videbat olim de nocte vir desideriorum et magnus Propheta Daniel......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -57,14 +76,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Libri aliquot De variis et selectioribus Sacrae scripturae locis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "p. 171–349.",
+      "locus": "p. 171–349",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 173",
+          "text": "Praefatio et intentio operis. Nunquam non opere (!) pretium duxi et summi momenti esse iudicavi.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 173",
+        "text": "Praefatio et intentio operis. Nunquam non opere (!) pretium duxi et summi momenti esse iudicavi.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -132,13 +165,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-123/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 123",
     "titles": "Libri aliquot De variis controversisticis fidei materiis \nLibri aliquot De variis controversisticis fidei materiis \nLibri aliquot De variis et selectioribus Sacrae scripturae locis",
-    "persons": "P. Benedictus Abelzhauser Autor author",
-    "incipits": "",
+    "persons": "P. Benedictus Abelzhauser Autor author ",
+    "incipits": "Videbat olim de nocte vir desideriorum et magnus Propheta Daniel...... \nPraefatio et intentio operis. Nunquam non opere (!) pretium duxi et summi momenti esse iudicavi.....",
     "explicits": "",
     "notes": "Katalogbeschreibung von Bibl. Cod. MN II 123.",
-    "physical": "Papier \n364 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n364 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "364 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1670.\n\na) **Einige Bücher über verschiedene kontroverstheologische Glaubensmaterien:** S. 5–164. Anfang der Vorrede S. 7: Einst sah bei Nacht der Mann der Sehnsüchte und große Prophet Daniel......\n\nb) **Einige Bücher über verschiedene und ausgewähltere Stellen der Heiligen Schrift:** S. 171–349. Anfang S. 173: Vorrede und Absicht des Werkes. Ich hielt es stets der Mühe wert und für höchst bedeutsam.....\n\nRückenaufschrift: **Controversistica MS. de Religione et S. Scriptura.**\n\nDass der Verfasser dieses Codex P. Benedictus Abelzhauser ist, zeigt der folgende Archivcodex 34–23, der dieselben Abhandlungen enthält. Möglicherweise schrieb der Verfasser selbst unseren Codex. Obwohl der Parallelcodex 1672 geschrieben wurde, halte ich es nicht für sicher, dass auch unser Codex aus diesem Jahr stammt. 1672 war Abelzhauser bereits Prior in Seitenstetten; wahrscheinlicher ist, dass er diese Traktate während seiner Salzburger Lehrtätigkeit in Kontroverstheologie verfasste. Falls er den Codex selbst schrieb, dürfte er daher um 1670 entstanden sein.\n\nEs bleibt auch zu fragen, ob unser Codex als Vorbereitung auf theologische Vorlesungen gedacht war. Die Bezeichnung **Libri aliquot** scheint eher anzudeuten, dass der Verfasser diese Bücher zum Druck bestimmt hatte.",
+    "latin": "364 pagg.; teg. a1; script. ca. 1670\n\na) Libri aliquot De variis controversisticis fidei materiis: p. 5–164. _Initium_ Prooemii p. 7: Videbat olim de nocte vir desideriorum et magnus Propheta Daniel......\n\nb) Libri aliquot De variis et selectioribus Sacrae scripturae locis: p. 171–349. _Initium_ p. 173: Praefatio et intentio operis. Nunquam non opere (!) pretium duxi et summi momenti esse iudicavi.....\n\n\n\n\nInscriptio dorsi: Controversistica MS. de Religione et S. Scriptura.\n\nAuctorem huius codicis **P. Benedictum Abelzhauser** esse proximus codex (34–23) manifestabit, quippe qui eosdem tractatus contineat. Sed codicem nostrum fortasse ipse auctor sua manu scripsit. Etiamsi codex proximus anno 1672 exaratus est, tamen non pro certo habeo etiam codicem nostrum in illo anno scriptum esse. Nam anno 1672 auctor noster iam Prior monasterii Seittenstettensis fuit; atqui veri simile est composuisse eum tractatus nostros, quamdiu Salisburgi Theologiam controversisticam tradidit. Ergo circa annum 1670 scriptum esse codicem nostrum puto, siquidem ipse auctor codicem scripsit. Dubitandum vero est, num codex noster praeparatio ad lectiones Theologicas habendas sit. Etenim inscriptio „Libri aliquot“ magis videtur indicare auctorem hos libros praelio committere voluisse."
   }
 }

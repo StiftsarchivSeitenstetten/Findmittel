@@ -9,8 +9,16 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 117
 ms_contents:
-  catalogue_title_or_summary: '(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol.
-    448 sequu.'
+  items:
+  - catalog_statement: '(Jus Civile seu In L Libros Digestorum): fol. 1–447r cum Indice Titulorum (alphabetico) fol. 448 sequu.'
+    title: Jus Civile seu In L Libros Digestorum
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1–447r
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Antequam imperium nostrum vel potius pars eius Orientalis......
 phys_desc:
   object_form: codex
   support: Papier

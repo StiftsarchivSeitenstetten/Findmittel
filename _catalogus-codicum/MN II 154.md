@@ -10,28 +10,68 @@ ms_identifier:
   idno: MN II 154
 ms_contents:
   title: Philosophia Reverendi P. Maximiliani Steger Seittenstettensis
-  title_type: later_use_inscription
   items:
   - label: a
     title: Disputatio unica De distinctionibus
-    locus: S. 3–17
+    locus: p. 3–17
+    incipits:
+    - locus: p. 3
+      text: Antequam ad ipsam naturam distinctionis veniamus....
+    title_status: unspecified
   - label: b
     title: Logica Compendiosa
-    locus: S. 19–166
+    locus: p. 19–166
+    incipits:
+    - locus: p. 19
+      label: Quaestionis I. De Ente Rationis
+      text: Definitur ens rationis quod sit id......
+    title_status: unspecified
   - label: c
     title: Physica Compendiosa
-    locus: S. 175–475
+    locus: p. 175–475
     subitems:
     - title: Physica generalis
-      locus: S. 175–247
+      locus: p. 175–247
+      title_status: unspecified
     - title: Disputatio de Mundo
-      locus: S. 248–255
+      locus: p. 248–255
+      title_status: unspecified
     - title: De Caelis
-      locus: S. 255–272
+      locus: p. 255–272, d
+      incipits:
+      - locus: p. 175
+        label: Quaestionis Primae. De Principiis Corporis naturalis
+        text: 'Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem,
+          dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426,
+          De anima: p. 436–475.'
+      title_status: unspecified
     - title: De generatione, corruptione, motu aliisque ad haec spectantibus
-      locus: S. 272–426
+      locus: p. 175–475
+      incipits:
+      - locus: p. 175
+        label: Quaestionis Primae. De Principiis Corporis naturalis
+        text: 'Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem,
+          dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426,
+          De anima: p. 436–475.'
+      title_status: unspecified
     - title: De anima
-      locus: S. 436–475
+      locus: p. 436–475
+      incipits:
+      - locus: p. 175
+        label: Quaestionis Primae. De Principiis Corporis naturalis
+        text: 'Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem,
+          dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426,
+          De anima: p. 436–475.'
+      title_status: unspecified
+    incipits:
+    - locus: p. 175
+      label: Quaestionis Primae. De Principiis Corporis naturalis
+      text: 'Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem,
+        dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426,
+        De anima: p. 436–475.'
+    title_status: unspecified
+  title_status: attested
+  title_source: later_inscription
 phys_desc:
   object_form: codex
   support: Papier

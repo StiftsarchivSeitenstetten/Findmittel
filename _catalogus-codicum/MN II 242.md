@@ -13,20 +13,38 @@ ms_contents:
   - label: a
     title: Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie
     locus: fol. 1r–25r
-    incipit: Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta
     end_date_display: 23. August 1710
+    incipits:
+    - text: Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......
+      label: Proemii
+    colophons:
+    - text: Die 23. Augusti. Anno 1710.
+    title_status: unspecified
   - label: b
-    title: Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum
-    locus: fol. 1r–45v (= fol. 29r–73v)
-    incipit: Proemium. Compendiosam tibi viam aperit hystoria
-    completeness: incomplete
+    title: Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno
+      ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum
+    locus: fol. 1r–45v
+    completeness:
+      status: defective
+      note: incomplete
     note: Vom letzten Kapitel ist nur die Inscriptio erhalten.
+    incipits:
+    - text: Proemium. Compendiosam tibi viam aperit hystoria,..... Tractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.
+    title_status: unspecified
   - label: c
     title: Tractatus de Pollemica, offensiva ac defensiva
-    locus: fol. 1–21v (= fol. 80–100v)
-    incipit: Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro
-    completeness: mutilated_or_unfinished
+    locus: fol. 1–21v
+    completeness:
+      status: defective
+      note: mutilated_or_unfinished
     note: Der Katalog lässt offen, ob der Traktat nie vollendet oder durch Blattverlust am Ende verstümmelt wurde.
+    incipits:
+    - locus: fol. 1
+      label: Proemii
+      text: Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro..... Etiam hic tractatus de arte belli gerendi
+        videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt. Neque auctorem (aut potius
+        auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

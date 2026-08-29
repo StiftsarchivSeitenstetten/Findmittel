@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-178",
   "signature": "MN II 178",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "136",
   "heading": {
     "title": "Liber Quartus Decretalium Gregorii Noni Pontificis Maximi",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1694"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Liber Quartus Decretalium Gregorii Noni Pontificis Maximi",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,37 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber Quartus Decretalium Gregorii Noni Pontificis Maximi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 172r",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "text": "Titulus Primus De Sponsalibus, et Matrimonio. Pars Prima De sponsalibus. Uberrimam, et si nescis, oppidó difficilem ac usu frequentem materiam......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 172r",
+          "text": "Absolvimus hunc librum quartum Die 23 Augusti 1694.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "text": "Titulus Primus De Sponsalibus, et Matrimonio. Pars Prima De sponsalibus. Uberrimam, et si nescis, oppidó difficilem ac usu frequentem materiam......",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 172r",
+        "text": "Absolvimus hunc librum quartum Die 23 Augusti 1694.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -145,13 +170,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 178",
     "titles": "Liber Quartus Decretalium Gregorii Noni Pontificis Maximi \nLiber Quartus Decretalium Gregorii Noni Pontificis Maximi",
-    "persons": "Fr. Gabriel Sumadtinger author and scribe author_and_scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "Fr. Gabriel Sumadtinger author and scribe author_and_scribe Seitenstetten",
+    "incipits": "Titulus Primus De Sponsalibus, et Matrimonio. Pars Prima De sponsalibus. Uberrimam, et si nescis, oppidó difficilem ac usu frequentem materiam......",
+    "explicits": "Absolvimus hunc librum quartum Die 23 Augusti 1694.",
     "notes": "",
-    "physical": "Papier \n178 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n178 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "178 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1694.\n\n**Viertes Buch der Dekretalen Papst Gregors IX.**\n\nAnfang: **Erster Titel über Verlöbnisse und Ehe. Erster Teil über Verlöbnisse.** Die Materie ist sehr reichhaltig und, wenn man sie nicht kennt, überaus schwierig und in der Praxis häufig......\n\nSchluss fol. 172r: **Wir beendeten dieses vierte Buch am 23. August 1694.**\n\nDass Verfasser und Schreiber unseres Codex Fr. Gabriel Sumadtinger war, zeigt der Vergleich seiner Schrift mit den vorhergehenden und folgenden Codices desselben Seitenstettner Mönchs sowie die passende Datierung.\n\nDieselben Vorlesungen enthält auch Teil a von MN II 195.",
+    "latin": "178 foll.; teg. a2; script. 1694\n\nLiber Quartus Decretalium Gregorii Noni Pontificis Maximi.  \nInitium: Titulus Primus De Sponsalibus, et Matrimonio. Pars Prima De sponsalibus. Uberrimam, et si nescis, oppidó difficilem ac usu frequentem materiam...... Clausula fol. 172r: Absolvimus hunc librum quartum Die 23 Augusti 1694.\n\nAuctorem autem scriptorem codicis nostri esse F. Gabrielem Sumadtinger indicant comparatio scripturae eius cum codicibus praecedentibus et sequentibus, ab eodem monacho Seitenstettensi scriptis, cui etiam tempus, quo ortus est codex noster, congruit.\n\nEasdem lectiones, quas codex noster, continet etiam pars a codicis MN II 195 (vide infra p. 145!)"
   }
 }

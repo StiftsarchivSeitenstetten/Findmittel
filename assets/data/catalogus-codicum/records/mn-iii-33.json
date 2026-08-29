@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-33",
   "signature": "MN III 33",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "210–211",
   "heading": {
     "title": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1724 oder kurz danach"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–186",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -133,13 +140,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-33/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 33",
     "titles": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724 \nAbregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "Kleines Oktavformat; 186 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1724 oder kurz danach.\n\n**Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.**\n\nDiese Sammlung sehr kurzer Lebensbeschreibungen Jesu Christi und der Heiligen mit ihren berühmtesten Aussprüchen scheint 1724 in Paris gedruckt und später von unbekannter Hand abgeschrieben worden zu sein.\n\nAuch der Verfasser ist unbekannt.",
+    "latin": "8° min.; 186 pagg.; teg. b1; script. 1724 aut paulo post\n\n**Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.**\n\nVidetur haec collectio brevissimarum vitarum Jesu Christi et Sanctorum cum celeberrimis dictis eorum Parisii 1724 typis edita et postea a nescio quo manu exscripta esse. Sed et auctor ignotus."
   }
 }

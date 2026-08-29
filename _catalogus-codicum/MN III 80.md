@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 80
 ms_contents:
-  title: "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:"
   items:
-  - label: "a"
-    title: "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:"
-    locus: "S. 1–738"
-    note: "Die Klammern enthalten Unsicherheits- und Fehlermarkierungen des Katalogbearbeiters; der Titel als solcher ist überliefert."
+  - label: a
+    title: 'BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne
+      Mößgebetter: Auch Andere gar schöne gebetter:'
+    locus: S. 1–738
+    note: Die Klammern enthalten Unsicherheits- und Fehlermarkierungen des Katalogbearbeiters; der Titel als solcher ist überliefert.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

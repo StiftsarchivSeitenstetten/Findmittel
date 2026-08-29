@@ -12,10 +12,19 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Septimus In Primam Secundae Divi Thomae Aquinatis De Gratia
-    locus: S. 5–448
+    locus: p. 5–448
+    incipits:
+    - locus: p. 5
+      label: Proloquii
+      text: Post explicatam actuum humanorum naturam.....
+    title_status: unspecified
   - label: b
     title: Tractatus Octavus In Secundam Secundae Divi Thomae Aquinatis De Fide, Spe et Charitate
-    locus: S. 449–685
+    locus: p. 449–685
+    incipits:
+    - label: Proloquii
+      text: Cum in moralibus doctrina generalis parum utilitatis habeat,....
+    title_status: unspecified
   course_reconstruction:
   - academic_year: 1694/95
     tractates: I De Deo Uno; II De Deo Trino

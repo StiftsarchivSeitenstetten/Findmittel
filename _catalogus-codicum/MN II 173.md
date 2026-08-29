@@ -13,12 +13,22 @@ ms_contents:
   - label: a
     title: Tractatus Scripturisticus Commentarius In Historiam Sanctorum Jacobi et Josephi Patriarcharum a Capite 27 usque ad finem Genesis
     locus: fol. 1r–91r
+    incipits:
+    - text: Synopsis Totius Historiae Jacobi, et Josephi. Jacobus anno aetatis.....
+    title_status: unspecified
   - label: b
     title: Vita Moysis in sensu litterali et Mystico exposita Cum Doctrinis et annotationibus moralibus
-    locus: fol. 1r–94v (=101r–194v)
+    locus: fol. 1r–94v
+    incipits:
+    - text: Vitam Josephi unacum Genesi clausimus.....
+    title_status: unspecified
   - label: c
     title: De vera et Falsa Religione Judaeorum
-    locus: fol. 1r–98r (=197r–294r)
+    locus: fol. 1r–98r
+    incipits:
+    - label: Proloquii
+      text: Post debellatos Aegyptios,.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

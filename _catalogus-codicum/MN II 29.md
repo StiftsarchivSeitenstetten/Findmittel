@@ -17,15 +17,56 @@ ms_contents:
   summary: Augsburger Physik- und Metaphysikvorlesungen Adam Griessers, geschrieben von Bartholomaeus Piscator, mit gedruckten Disputationen.
   items:
   - label: a
-    catalog_statement: '*Physica Peripatetica Tradita a R. P. Adamo Griesser Societatis Jesu Sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu. Ad S. Annam Augustae (= Augsburg) Anno M.DC.XXXVII et VIII:* p. 1 - 760'
+    catalog_statement: '*Physica Peripatetica Tradita a R. P. Adamo Griesser Societatis Jesu Sacerdote. Excepta a Bartholomaeo Piscatore Fischensi
+      In Catholico Gymnasio Soc. Jesu. Ad S. Annam Augustae (= Augsburg) Anno M.DC.XXXVII et VIII:* p. 1 - 760'
+    title: Physica Peripatetica Tradita a R. P. Adamo Griesser Societatis Jesu Sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico
+      Gymnasio Soc. Jesu. Ad S. Annam Augustae (= Augsburg) Anno M.DC.XXXVII et VIII
+    locus: p. 1 - 760
+    incipits:
+    - locus: p. 1
+      label: Prooemii Physicae peripateticae sive Doctrinae in Universam Aristotelis [physicam] seu philosophiam Naturalem hoc tempore tradi solitae
+      text: Aristotelicam ac peripateticam veramque philosophiam universam....
+    colophons:
+    - locus: p. 759
+      text: Absolvimus libros de anima 12 Martii (1638)
+    - locus: p. 82
+      text: Anni 1637, die 12 Januarii.
+    title_status: unspecified
   - label: b
     catalog_statement: '(Argumenta singulorum articulorum partis a): p. 761 - 802'
+    title: Argumenta singulorum articulorum partis a
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 761 - 802
   - label: c
-    catalog_statement: '*Metaphysica Dictata a R. P. Adamo Griesser Societatis Jesu Sacerdote Scripta a Bartholomaeo Piscatore ...(ut in parte a)... Anno...M.DC.XXXVIII (1638):* p. 1 - 106 (=807 - 913)'
+    catalog_statement: '*Metaphysica Dictata a R. P. Adamo Griesser Societatis Jesu Sacerdote Scripta a Bartholomaeo Piscatore ...(ut in parte
+      a)... Anno...M.DC.XXXVIII (1638):* p. 1 - 106 (=807 - 913)'
+    title: Metaphysica Dictata a R. P. Adamo Griesser Societatis Jesu Sacerdote Scripta a Bartholomaeo Piscatore ...(ut in parte a)... Anno...M.DC.XXXVIII
+      (1638)
+    locus: p. 1 - 106
+    incipits:
+    - label: Prooemii (sub titulo
+      text: 'Metaphysica Peripatetica sive Doctrina in Universam Metaphysicam Aristotelis 14 lib. compraehensam hoc tempore Tradi solet.): Est
+        haec ultima et ratione sui obiecti praestantissima pars....'
+    colophons:
+    - locus: p. 106
+      text: Finis philosophiae nostrae impositus est 19 Maii Anni Domini M.D.C.XXXVIII.
+    title_status: unspecified
   - label: d
-    catalog_statement: '*Disputatio Philosophica Ex VIII. Libris Physicorum. Quam D. O. M. A. (= Deo Optimo Maximo Auxiliante) In Catholico Gymnasio Societ. Jesu Ad S. Annam Augustae Vindelicorum Praeside Adamo Griesser Soc. Jesu ibidem Philosophiae Professore. Propugnabit .....Henricus Guett Landspergensis Metaphysicae Studiosus. Ad diem 29 Aprilis, M.DC.XXXVIII (1638).....Augustae Vindelicorum, Typis Ioannis Udalrici Schoenick:* II + 14 pagg. (= p. 918 - 934)'
+    catalog_statement: '*Disputatio Philosophica Ex VIII. Libris Physicorum. Quam D. O. M. A. (= Deo Optimo Maximo Auxiliante) In Catholico Gymnasio
+      Societ. Jesu Ad S. Annam Augustae Vindelicorum Praeside Adamo Griesser Soc. Jesu ibidem Philosophiae Professore. Propugnabit .....Henricus
+      Guett Landspergensis Metaphysicae Studiosus. Ad diem 29 Aprilis, M.DC.XXXVIII (1638).....Augustae Vindelicorum, Typis Ioannis Udalrici Schoenick:*
+      II + 14 pagg. (= p. 918 - 934)'
+    title: Disputatio Philosophica Ex VIII. Libris Physicorum. Quam D. O. M. A. (= Deo Optimo Maximo Auxiliante) In Catholico Gymnasio Societ.
+      Jesu Ad S. Annam Augustae Vindelicorum Praeside Adamo Griesser Soc. Jesu ibidem Philosophiae Professore. Propugnabit .....Henricus Guett
+      Landspergensis Metaphysicae Studiosus. Ad diem 29 Aprilis, M.DC.XXXVIII (1638).....Augustae Vindelicorum, Typis Ioannis Udalrici Schoenick
+    title_status: unspecified
   - label: e
-    catalog_statement: '*Disputatio Philosophica Ex Libris De Generatione. Quam.....(ut in parte d!)..Praeside Adamo Griesser....propugnabit....Balthasarus Heinrich Grienwaldensis Metaphysicae Studiosus. Ad diem 18 Maii, M.DC.XXXVIII....(ut in parte d):* II + 14 pagg. (= p. 935 - 951)'
+    catalog_statement: '*Disputatio Philosophica Ex Libris De Generatione. Quam.....(ut in parte d!)..Praeside Adamo Griesser....propugnabit....Balthasarus
+      Heinrich Grienwaldensis Metaphysicae Studiosus. Ad diem 18 Maii, M.DC.XXXVIII....(ut in parte d):* II + 14 pagg. (= p. 935 - 951)'
+    title: Disputatio Philosophica Ex Libris De Generatione. Quam.....(ut in parte d!)..Praeside Adamo Griesser....propugnabit....Balthasarus
+      Heinrich Grienwaldensis Metaphysicae Studiosus. Ad diem 18 Maii, M.DC.XXXVIII....(ut in parte d)
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

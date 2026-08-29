@@ -12,17 +12,31 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 134.
   items:
   - label: a
-    title: Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate
-      Salisburgensi, Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi
-      Monasterii ad S. Gallum in Helvetia Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum
-      Canonum Professoris ordinarii, Scriptis excepit Religiosus Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in
-      Seittenstetten Professus. Anno 1680
-    locus: p. 1 - 564.
+    title: Commentarius In Librum I Decretalium. De officiis, et Ecclesiae Ministris. Quem In Alma, et Archiepiscopali Universitate Salisburgensi,
+      Sub Praesidio ......Consultissimi Domini P. Caelestini Sfondrati Ordinis S. Benedicti, Illustrissimi Monasterii ad S. Gallum in Helvetia
+      Professi, Sacrosanctae Theologiae, et Juris Utriusque Doctoris, nec non Sacrorum Canonum Professoris ordinarii, Scriptis excepit Religiosus
+      Fr. Leopoldus Wimmer eiusdem Ordinis ad Divam Virginem in Seittenstetten Professus. Anno 1680
+    locus: p. 1 - 564
+    incipits:
+    - label: Prooemii. De Utilitate, et Necessitate Juris Canonici
+      text: 'p. 1: Ut in ipso Juris Canonici ingressu praeviis velut vestigiis,....'
+    colophons:
+    - locus: p. 564
+      text: Et hic esto Libri primi Decretalium finis, 26 Augusti 1680.
+    title_status: unspecified
   - label: b
-    title: 'Loca obscuriora et difficiliora Sacrae Scripturae: Illustrata ab......Patre Josepho Mezger, Benedictino in Antiquissimo
-      Monasterio S. Petri Odeo Salisburgi Professo, Sacrae Scripturae Professore Ordinario. Scriptis Excepta à Fratre Leopoldo
-      Wimmer Ordinis S. Benedicti in Seittenstetten Professo. Anno 1678'
-    locus: p. 1 - 192.
+    title: 'Loca obscuriora et difficiliora Sacrae Scripturae: Illustrata ab......Patre Josepho Mezger, Benedictino in Antiquissimo Monasterio
+      S. Petri Odeo Salisburgi Professo, Sacrae Scripturae Professore Ordinario. Scriptis Excepta à Fratre Leopoldo Wimmer Ordinis S. Benedicti
+      in Seittenstetten Professo. Anno 1678'
+    locus: p. 1 - 192
+    incipits:
+    - locus: p. 1
+      label: Praefationis
+      text: Scriptura Divina, veluti immensum et profundissimum aequor est.....
+    colophons:
+    - locus: p. 192
+      text: Absolvimus hunc tractatum die 5 Octobris, S. Placido, Sociorumque illius Martyrum benedictae turbae Sacro, Anno 1678.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

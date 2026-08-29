@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-24-a-77",
   "signature": "Arch. Cod. 34 - 24 (A 77)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "24",
   "heading": {
     "title": "Contiones festivales Latinae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1639–1647"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Contiones festivales Latinae",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Contiones festivales Latinae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–573",
+      "locus": "p. 516",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -140,13 +147,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-24-a-77/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 - 24 (A 77)",
     "titles": "Contiones festivales Latinae \nContiones festivales Latinae",
-    "persons": "P. Gabriel Saur Autor author \nP. Gabriel Saur Schreiber scribe",
+    "persons": "P. Gabriel Saur Autor author  \nP. Gabriel Saur Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Aus verschiedenen Handbüchern exzerpierte Festpredigten für St. Michael, Allhartsberg, Wolfsbach und besonders 1646/47 Aschbach; die erste Predigt wurde 1639, die letzte 1647 gehalten.",
-    "physical": "Papier \n16°, 573 pagg., inclusae folio membranaceo modis musicis inscripto \nSedezformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+    "physical": "Papier \n16°, 573 pagg., inclusae folio membranaceo modis musicis inscripto \nSedezformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+    "german": "Sedezformat; 573 Seiten; in ein mit geistlicher Musik beschriebenes Pergamentblatt eingeschlagen.\n\n**Lateinische Festpredigten**, die ein unbekannter Schreiber aus verschiedenen Handbüchern exzerpierte, um Predigten für die Kirchen St. Michael, Allhartsberg, Wolfsbach und besonders 1646/47 Aschbach vorzubereiten. Die erste Predigt wurde 1639, die letzte 1647 gehalten.\n\nS. 53 findet sich der Name P. Romanus, wohl Romanus Textor († 1659), S. 516 der Name P. Aemilianus Wenzinger.\n\nSoweit sich vermuten lässt, hält der Katalogbearbeiter **P. Gabriel Saur**, der 1648 nach seiner Tätigkeit als Pfarrer von Aschbach zum Abt gewählt wurde, für Verfasser und Schreiber dieses Büchleins, allerdings nicht ohne Zweifel.",
+    "latin": "16°, 573 pagg., inclusae folio membranaceo modis musicis inscripto\n\n*Contiones festivales Latinae*, quas scriptor ignotus e variis libris manualibus deprompsit, ut homilias habendas in ecclesiis ad S. Michaelis, Allhartsbergensi, Wolfsbacensi et (praesertim 1646/47) Aspacensi praepararet. Prima contio 1639 habita est, ultima 1647. P. 53 invenies nom. P. Romani (Textoris, + 1659), p. 516 nomen P. Aemiliani (Wenzinger). Quantum coniectare licet, P. Gabrielem Saur, qui anno 1648 abbas electus est, postquam parochus Aspacensis fuit, auctorem scriptoremque huius codicilli esse arbitror, non tamen sine dubio."
   }
 }

@@ -13,18 +13,25 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 32
 ms_contents:
-  title: "Compendium perbreve ex Casibus R. P. Gretseri."
   items:
-  - label: "a"
-    title: "Compendium perbreve ex Casibus R. P. Gretseri."
-    locus: "S. 1–262"
-    explicit: "31. Jan. 1638"
-    note: "Enthält Traktate über die Sünden und das Bußsakrament, Gesetze, Ablässe, Zensuren, theologische und Kardinaltugenden, widernatürliche Laster und die Feiertagsbeobachtung."
-  - label: "b"
-    title: "Index"
-    title_type: supplied
-    locus: "S. 263–271"
-    note: "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+  - label: a
+    title: Compendium perbreve ex Casibus R. P. Gretseri.
+    locus: p. 262
+    note: Enthält Traktate über die Sünden und das Bußsakrament, Gesetze, Ablässe, Zensuren, theologische und Kardinaltugenden, widernatürliche
+      Laster und die Feiertagsbeobachtung.
+    explicits:
+    - text: 31. Jan. 1638
+      locus: p. 262
+    title_status: unspecified
+  - label: b
+    title: Index
+    locus: p. 263 - 271
+    note: Vom Katalog verwendete strukturelle Inhaltsbezeichnung.
+    explicits:
+    - locus: p. 262
+      text: 31. Jan. 1638
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,30 +10,38 @@ ms_identifier:
   idno: MN III 39
 ms_contents:
   items:
-  - label: "a"
-    title: "Christliche Lehr in Nothwendige Fragen eingetheillet"
-    locus: "S. 11–131"
-  - label: "b.1"
-    title: "Andächtige Übung Vor der Christlichen Lehr"
-    locus: "S. 132–133"
-  - label: "b.2"
-    title: "Nach der Christlichen Lehr"
-    locus: "S. 133–134"
-  - label: "c"
-    title: "Liebs Seuffzer des Heiligen Franc: Xaverij"
-    locus: "S. 134"
-  - label: "d"
-    title: "Kurtze Übung der fürnembsten Dugenden"
-    locus: "S. 135–137"
-  - label: "e"
-    title: "Carmen Germanicum spirituale"
-    title_type: "supplied"
-    locus: "S. 138"
-    note: "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; Lied mit Noten, Anfang „O Jesu Christ! Dir lebe ich, ....“."
-  - label: "f"
-    title: "Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann"
-    locus: "S. 141"
-    note: "Nur das Titelblatt ist ausgeführt."
+  - label: a
+    title: Christliche Lehr in Nothwendige Fragen eingetheillet
+    locus: p. 11–131
+    title_status: unspecified
+  - label: b.1
+    title: Andächtige Übung Vor der Christlichen Lehr
+    locus: p. 132–133
+    title_status: unspecified
+  - label: b.2
+    title: Nach der Christlichen Lehr
+    locus: p. 133–134
+    title_status: unspecified
+  - label: c
+    title: 'Liebs Seuffzer des Heiligen Franc: Xaverij'
+    locus: p. 134
+    title_status: unspecified
+  - label: d
+    title: Kurtze Übung der fürnembsten Dugenden
+    locus: p. 135–137
+    title_status: unspecified
+  - label: e
+    title: Carmen Germanicum spirituale
+    locus: p. 138
+    note: Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; Lied mit Noten, Anfang „O Jesu Christ! Dir lebe ich, ....“.
+    title_status: supplied
+    title_source: cataloguer
+  - label: f
+    title: 'Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne
+      beschwürnuß besteigen kann'
+    locus: p. 141
+    note: Nur das Titelblatt ist ausgeführt.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

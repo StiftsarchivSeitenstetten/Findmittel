@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-109",
   "signature": "MN II 109",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "68",
   "heading": {
-    "title": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1670"
   },
   "date": {
@@ -21,13 +21,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,16 +42,35 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–362",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Superavimus tandem (= tandem) auspice Deo, promovente conatus nostros...... Inscriptio dorsi: Physica MS. F. Ernesti.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Superavimus tandem (= tandem) auspice Deo, promovente conatus nostros...... Inscriptio dorsi: Physica MS. F. Ernesti.",
+        "id": "incipit-1"
+      },
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -107,13 +129,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-109/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 109",
-    "titles": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362. \nCommentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
+    "titles": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis \nCommentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis",
     "persons": "",
-    "incipits": "",
+    "incipits": "Superavimus tandem (= tandem) auspice Deo, promovente conatus nostros...... Inscriptio dorsi: Physica MS. F. Ernesti.",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n364 pagg. \ndescription: Einbandbeschreibung siehe Katalogtext."
+    "notes": "Commentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.",
+    "physical": "Papier \n364 pagg. \ndescription: Einbandbeschreibung siehe Katalogtext.",
+    "german": "364 Seiten; Einband wie bei Codex MN II 108; geschrieben um 1670.\n\n**Kommentar zu den acht Büchern der Physik oder Über die Physikvorlesung des Aristoteles:** S. 1–362.\n\nAnfang S. 1: Endlich haben wir, unter Gottes Schutz, der unsere Bemühungen fördert, überwunden...... Rückenaufschrift: **Physica MS. F. Ernesti.**\n\nWie auch die Schrift zeigt, schrieb diesen Codex Fr. Ernestus Weissenperger. Im Schlussvermerk S. 362 ist von „diesem zweiten Jahr unseres Kurses“ die Rede; daher ist wahrscheinlich, dass der Codex 1670 geschrieben wurde. Der Verfasser ist unbekannt.",
+    "latin": "364 pagg.; teg. ut supra in cod. MN II 108; script. ca. 1670\n\nCommentarius (!) In octo Libros Physicorum sive De physico auditu Aristotelis: p. 1–362.\n\n_Initium_ p. 1: Superavimus tandem (= tandem) auspice Deo, promovente conatus nostros...... _Inscriptio dorsi_: Physica MS. F. Ernesti.\n\nUt etiam scriptura indicat, hunc quoque codicem **F. Ernestus Weissenperger** scripsit. In clausula vero p. 362 loquitur de „hoc secundo cursus nostri anno“, ideoque veri simile est codicem nostrum anno 1670 scriptum esse. (Vide supra ad codicem MN II 108!) Auctor ignotus."
   }
 }

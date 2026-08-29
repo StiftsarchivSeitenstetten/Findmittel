@@ -17,11 +17,26 @@ ms_contents:
   summary: 'Sammelhandschrift zur Logik: Fonseca-Synopsis, Fragen zum Organon und logische Thesen.'
   items:
   - label: a
-    catalog_statement: 'Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: "Institutiones dialecticae" edidit). Initium: Disserere nihil aliud est....'
+    catalog_statement: 'Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ,
+      + 1599, anno 1564 Ulissipone celeberrimum opus: "Institutiones dialecticae" edidit). Initium: Disserere nihil aliud est....'
+    title: Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur
+    locus: p. 5 - 58
+    incipits:
+    - text: Disserere nihil aliud est....
+    title_status: unspecified
   - label: b
     catalog_statement: 'Quaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407)'
+    title: Quaestiones in Organum Aristotelis
+    title_status: unspecified
+    incipits:
+    - locus: p. (65
+      label: Prooemii
+      text: Cum plures fuerint qui Logicam Aristotelis....
   - label: c
     catalog_statement: '(Theses ex universa Logica): 12 pagg. (= p. 417 - 429)'
+    title: Theses ex universa Logica
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

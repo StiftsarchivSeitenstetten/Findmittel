@@ -12,14 +12,18 @@ ms_contents:
   title: Artzeney Buech. Mariae Magdalenae Antonia Voglin gehörig Anno 1724
   items:
   - label: a
-    title: Friderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden. Dresden Bey Johann Jacob Wincklern 1724
-    locus: S. III, 1–247
+    title: Friderici Zobelii Chymische Medicinische Perle Mit dem Andern Theil Von SchußWunden Vermehret darinen herrliche, Köstliche Medicamenta
+      nebst deren gründlichen bericht Und ausführlichen Ursachen deren Kranckheiten auch deren Curation nach Spagirischer Art Und Weise zufinden.
+      Dresden Bey Johann Jacob Wincklern 1724
+    locus: p. III, 1–247
     note: Kapitel- und Sachregister S. 248–258.
+    title_status: unspecified
   - label: b
     title: M(agistri?) Johannis Isaaci Hollandi vegetabel Werckh
-    title_type: supplied
-    locus: S. 259–560
+    locus: p. 259–560
     note: Die in runden Klammern stehende Auflösung „agistri?“ ist eine editorische Ergänzung des Katalogtexts.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

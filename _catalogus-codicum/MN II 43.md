@@ -18,16 +18,41 @@ ms_contents:
   items:
   - label: a
     title: Commentarius in Duos Libros Aristotelis De Generatione et Corruptione
-    locus: Bl. 1–104v
+    locus: fol. 1 - 104v
+    incipits:
+    - locus: fol. 1r
+      text: Objectum attributionis physicae est corpus naturale considerabile....
+    colophons:
+    - locus: fol. 104v
+      text: Absolvimus hunc tractatum 14 Junii post prandium 1651....
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Commentarius in quatuor Libros Aristotelis De Meteoris
-    locus: Bl. 105r–131v
+    locus: fol. 105r - 131v
+    incipits:
+    - text: Postquam Aristoteles in duobus libris de generatione et corruptione....
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Commentarius in Tres Libros Aristotelis De Anima
-    locus: Bl. 132–208v
+    locus: fol. 132 - 208v
+    incipits:
+    - locus: fol. 132r
+      text: Objectum attributionis physicae est corpus naturale quod multipliciter....
+    colophons:
+    - text: Absolvimus hunc Commentarium.... secunda Septembris.... Anno 1651 (fol. 208v.)
+    title_status: supplied
+    title_source: cataloguer
   - label: d
     title: Commentarius in XIV libros metaphysicae Aristotelis
-    locus: Bl. 209r–235v
+    locus: fol. 209r - 235v
+    incipits:
+    - text: Physica abstrahit à materia sensibili singulari....
+    colophons:
+    - text: Absolvimus 12 Septembris anteprandium Anno Domini MDCLI (mendum calami!)
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

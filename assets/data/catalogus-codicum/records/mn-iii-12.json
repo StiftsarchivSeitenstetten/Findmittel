@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-12",
   "signature": "MN III 12",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Expositio Rhetoricae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–2r",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quaeres primo. Unde Rhetorica suam originem trahat?.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quaeres primo. Unde Rhetorica suam originem trahat?....."
+        "text": "Quaeres primo. Unde Rhetorica suam originem trahat?.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,13 +78,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber Primus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 2r–124v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -83,13 +100,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tabulae Libri Secundi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 125r–184r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -101,13 +122,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Liber Tertius Rhetorices",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "fol. 1r–121r (= 205r–325r)",
+      "locus": "fol. 1r–121r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -188,13 +213,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-12/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 12",
     "titles": "Rhetorica \nExpositio Rhetoricae \nLiber Primus \nTabulae Libri Secundi \nLiber Tertius Rhetorices",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "Quaeres primo. Unde Rhetorica suam originem trahat?.....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° min., 204 + 129 = 333 foll. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n8° min., 204 + 129 = 333 foll. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Kleines Oktavformat; 204 + 129 = 333 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1700.\n\n**Rhetorik.**\n\na) **Darstellung der Rhetorik:** fol. 1r–2r. Anfang: Zuerst wirst du fragen: Woher hat die Rhetorik ihren Ursprung?.....\n\nb) **Erstes Buch:** fol. 2r–124v.\n\nc) **Tabellen zum zweiten Buch:** fol. 125r–184r.\n\nd) **Drittes Buch der Rhetorik:** fol. 1r–121r (= fol. 205r–325r).\n\nDer Einband ist beinahe derselbe wie bei den beiden vorausgehenden Codices; auch die Schrift stimmt sehr stark mit ihnen überein. Daher nimmt der Katalogbearbeiter eine ungefähr gleichzeitige Entstehung an. Verfasser und Schreiber sind unbekannt.",
+    "latin": "8° min., 204 + 129 = 333 foll.; teg. a1; script. ca. 1700\n\n(Rhetorica)\n\na) Expositio Rhetoricae: fol. 1r–2r. Initium: Quaeres primo. Unde Rhetorica suam originem trahat?.....\n\nb) Liber Primus: fol. 2r–124v.\n\nc) Tabulae Libri Secundi: fol. 125r–184r.\n\nd) Liber Tertius Rhetorices: fol. 1r–121r (= 205r–325r).\n\nTegumentum paene idem est atque in duobus codicibus praecedentibus. Insuper scriptura duobus illis codicibus valde congruit. Qua de re codicem nostrum circa idem tempus scriptum esse puto. Ceterum tam auctor quam scriptor ignotus."
   }
 }

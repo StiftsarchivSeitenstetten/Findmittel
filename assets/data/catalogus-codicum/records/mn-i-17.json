@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-17",
   "signature": "MN I 17",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "259",
   "heading": {
     "title": "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {
@@ -22,13 +22,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?",
-    "titleTypeRaw": "original",
-    "titleTypeLabel": "überlieferter Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "de",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -40,13 +43,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?",
-        "typeRaw": "original",
-        "typeLabel": "überlieferter Titel"
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 61 eti",
       "language": "de",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -212,13 +219,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-17/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 17",
     "titles": "Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen? \nUntersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?",
-    "persons": "Khristoph Reinisch author; Doktor der freien Künste und Philosophie author; Doktor der freien Künste und Philosophie \nP. Placidus Haslinger former owner; user; Profess von Seitenstetten former_owner; user; Profess von Seitenstetten \nP. Florentius Lorenz later user later_user \nKhristoph Reinisch Autor author",
+    "persons": "Khristoph Reinisch author; Doktor der freien Künste und Philosophie author; Doktor der freien Künste und Philosophie Universität Salzburg \nP. Placidus Haslinger former owner; user; Profess von Seitenstetten former_owner; user; Profess von Seitenstetten  \nP. Florentius Lorenz later user later_user  \nKhristoph Reinisch Autor author ",
     "incipits": "",
     "explicits": "",
-    "notes": "de \nDer ursprüngliche Datierungsansatz des Katalogkopfes lautet 1771–1785. \nDas abschließende PS schränkt diese Datierung jedoch wesentlich ein: Da S. 69/70 noch bestehende Jesuitenkollegien voraussetzt, hält der Katalogbearbeiter eine Niederschrift nach 1773 für unwahrscheinlich. \nFür die strukturierte Datierung wird deshalb 1771–1773 als wahrscheinlichster Zeitraum erfasst, während die ältere Katalogangabe 1771–1785 erhalten bleibt. \nDie Initialen PFL werden nur wahrscheinlich P. Florentius Lorenz zugewiesen. \nP. Placidus Haslinger wird aufgrund des Exlibris als Besitzer erfasst, jedoch ausdrücklich nicht als Schreiber.",
-    "physical": "Papier \n146 Seiten \nFolio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; der Rücken mit eingeprägten und vergoldeten Blümchen verziert."
+    "notes": "de \nDer ursprüngliche Datierungsansatz des Katalogkopfes lautet 1771–1785. \nDas abschließende PS schränkt diese Datierung jedoch wesentlich ein: Da S. 69/70 noch bestehende Jesuitenkollegien voraussetzt, hält der Katalogbearbeiter eine Niederschrift nach 1773 für unwahrscheinlich. \nFür die strukturierte Datierung wird deshalb 1771–1773 als wahrscheinlichster Zeitraum erfasst, während die ältere Katalogangabe 1771–1785 erhalten bleibt. \nDie Initialen PFL werden nur wahrscheinlich P. Florentius Lorenz zugewiesen. \nP. Placidus Haslinger wird aufgrund des Exlibris als Besitzer erfasst, jedoch ausdrücklich nicht als Schreiber. \nPFL \nEx libris P. Placidi Haslinger Ordinis S. P. Benedicti professi Monasterii Seittenstettensis \nDie Unterschrift wird vom Katalogbearbeiter zum Vergleich mit der Schrift des Codex herangezogen.",
+    "physical": "Papier \n146 Seiten \nFolio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; der Rücken mit eingeprägten und vergoldeten Blümchen verziert.",
+    "german": "Folioformat; lederner Einband von rehbrauner oder brauner Farbe, der Rücken mit eingeprägten und vergoldeten Blümchen verziert; 146 Seiten; geschrieben zwischen den Jahren 1771 und 1785.\n\n**Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?**\n\n**In Drey Abschnitten entworffen Von Khristoph Reinisch der Freyen Künste, und Weltweißheit Doktor auf der hohen Schule zu Saltzburg.**\n\nWer dieses Buch so elegant und sorgfältig geschrieben hat, wissen wir nicht. Die Initialen **PFL**, die sich zweimal auf der Titelseite finden, weisen wahrscheinlich darauf hin, dass P. Florentius Lorenz dieses Buch benutzt hat. Dieser war wegen der sogenannten Französischen Revolution als Flüchtling aus dem elsässischen Kloster Altdorf gekommen und legte im Jahr 1799 im Kloster Seitenstetten erneut die Gelübde ab.\n\nUnser Codex dürfte jedoch zwischen dem Jahr 1771 – diese Jahreszahl findet man in der letzten Zeile von Seite 31 – und dem Jahr 1785 geschrieben worden sein; denn in den Verzeichnissen der damals noch bestehenden Klöster, beispielsweise auf S. 61, werden auch Klöster aufgezählt, die im Jahr 1785 vom allerhöchsten Kaiser Joseph II. aufgehoben wurden.\n\nAber auch P. Placidus Haslinger, dessen Besitzvermerk auf der Titelseite eingetragen ist (**Ex libris P. Placidi Haslinger Ordinis S. P. Benedicti professi Monasterii Seittenstettensis** = „Aus den Büchern des P. Placidus Haslinger, Profess des Ordens des hl. Vaters Benedikt im Kloster Seitenstetten“), hat unseren Codex wahrscheinlich nicht geschrieben – denn die Schrift seiner Unterschrift auf S. 9 stimmt mit der Schrift des Codex nicht gut überein –, sondern ihn lediglich benutzt. Nachdem P. Placidus Haslinger im Jahr 1806 gestorben war, benutzte P. Florentius Lorenz unseren Codex.\n\nDass P. Placidus Haslinger unseren Codex erworben hat, ist wahrscheinlich; denn da er von Geburt Böhme war, dürfte er gewiss der Ansicht gewesen sein, dass in unserem Codex gleichsam eine ihn selbst betreffende Angelegenheit behandelt werde.\n\n**PS.** Da auf S. 69/70 noch bestehende Kollegien der Jesuiten miteinander verglichen werden, ist unser Codex wahrscheinlich nicht nach dem Jahr 1773 geschrieben worden.",
+    "latin": "fol.; teg. b1, dorsum flosculis impressis et inauratis ornatum; 146 pagg.; scriptus inter annos 1771 et 1785\n\n**Untersuchung der Frage Ob die Verfassung, die Zahl, Güter, und der ledige Stand der dermaligen böhmischen Klerisey, hauptsächlich aber der Ordensmänner dem böhmischen Staate würklich so schädlich sey, wie einige behaupten wollen?**\n\n**In Drey Abschnitten entworffen Von Khristoph Reinisch der Freyen Künste, und Weltweißheit Doktor auf der hohen Schule zu Saltzburg.**\n\nQuis hunc librum tam eleganter et diligenter scripserit, nescimus. Initia **PFL**, quae in pagina titulari bis reperiuntur, probabiliter indicant P. Florentium Lorenz usum esse hoc libro. Qui ex Alsatia e monasterio Altdorfensi propter revolutionem, quam dicunt Francogallicam, fugitivus anno 1799 in monasterio Seitenstettensi iterum vota nuncupavit. Atqui codicem nostrum inter annum 1771 (quem numerum invenies in ultima linea paginae 31) et annum 1785 (nam in tabellis monasteriorum adhuc exstantium ex. gr. p. 61 etiam monasteria enumerantur, quae anno 1785 ab augustissimo imperatore Josepho II. sublata sunt) scriptum esse veri simile est. Sed etiam P. Placidus Haslinger, cuius signum in pagina titulari (**Ex libris P. Placidi Haslinger Ordinis S. P. Benedicti professi Monasterii Seittenstettensis**) notatum est, probabiliter non scripsit codicem nostrum (etenim scriptura subscriptionis p. 9 cum scriptura codicis non bene convenit), sed usus est tantum eo; cum vero ille P. Placidus Haslinger anno 1806 mortuus esset, utebatur codice nostro ille P. Florentius Lorenz. P. vero Placidum Haslinger comparavisse codicem nostrum veri simile est, nam cum esset natione Bohemus, certo in codice nostro quasi rem suam tractatam esse putavit.\n\n**PS.** Cum p. 69/70 Jesuitarum adhuc exstantia collegia comparantur, probabiliter codex noster non est scriptus post annum 1773."
   }
 }

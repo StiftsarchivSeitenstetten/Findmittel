@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-11",
   "signature": "MN II 11",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "10",
   "heading": {
     "title": "Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1621/22"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Salzburger naturphilosophische Kommentare, mitgeschrieben von Georg Reybi; Besitzvermerk des Klosters Ochsenhausen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 2r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 3r",
+          "label": "praefationis",
+          "text": "Philosophia est cognitio rerum ut sunt....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 3r",
+        "label": "praefationis",
+        "text": "Philosophia est cognitio rerum ut sunt....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +88,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621): fol. 1 - 65r",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 65r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 2r",
+          "label": "Prooemii",
+          "text": "Duplex est tractatio physica......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 2r",
+        "label": "Prooemii",
+        "text": "Duplex est tractatio physica......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,14 +127,30 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622): fol. 1 - 65r.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 65r",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 2r",
+          "label": "Praefationis",
+          "text": "Mutari et moveri est quaedam compassio....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 2r",
+        "label": "Praefationis",
+        "text": "Mutari et moveri est quaedam compassio....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -184,13 +235,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-11/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 11",
-    "titles": "Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621) \nCommentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621) \nCommentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621): fol. 1 - 65r \nCommentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622): fol. 1 - 65r.",
-    "persons": "Matthaeus Reis (Teil a) author lecturer author_lecturer \nGeorg Reybi (Teil a); bei b/c im Titel nicht ausdrücklich genannt Schreiber scribe",
-    "incipits": "",
+    "titles": "Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621) \nCommentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621) \nCommentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621) \nCommentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622)",
+    "persons": "Matthaeus Reis (Teil a) author lecturer author_lecturer  \nGeorg Reybi (Teil a); bei b/c im Titel nicht ausdrücklich genannt Schreiber scribe ",
+    "incipits": "Philosophia est cognitio rerum ut sunt.... \nDuplex est tractatio physica...... \nMutari et moveri est quaedam compassio....",
     "explicits": "",
     "notes": "Salzburger naturphilosophische Kommentare, mitgeschrieben von Georg Reybi; Besitzvermerk des Klosters Ochsenhausen. \nCommentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621) \nCommentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621): fol. 1 - 65r \nCommentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622): fol. 1 - 65r.",
-    "physical": "Papier \n195 + 68 + 65 Blätter \nQuartformat \ndescription: Weißer Kalbsledereinband mit schwarz eingeprägten Verzierungen."
+    "physical": "Papier \n195 + 68 + 65 Blätter \nQuartformat \ndescription: Weißer Kalbsledereinband mit schwarz eingeprägten Verzierungen.",
+    "german": "195 + 68 + 65 Blätter; weißer Kalbsledereinband mit schwarz eingeprägten Verzierungen; geschrieben 1621/22.\n\n**a) Kommentar zur Naturphilosophie**, diktiert von Herrn Matthaeus Reis, ordentlichem Professor der Philosophie; mitgeschrieben von Georg Reybi aus Monthofen im Allgäu, im Jahr 1621.\n\nBesitzvermerk Bl. 2r: **Monasterii Ochsenhusani**.\n\nAnfang der Vorrede Bl. 3r: **Philosophie ist die Erkenntnis der Dinge, wie sie sind....**\n\nSchlussvermerk mit zwei Hexametern Bl. 191v.\n\n**b) Kommentar zu den vier Büchern Über den Himmel. Diktiert und mitgeschrieben an der berühmten Salzburger Universität im Jahr 1621:** Bl. 1–65r.\n\nAnfang der Vorrede: **Die physikalische Behandlung ist zweifach......** (Bl. 2r).\n\n**c) Kommentar zu den zwei Büchern Über Werden und Vergehen. Diktiert....** (wie b)!) **....im Jahr 1622:** Bl. 1–65r.\n\nAnfang der Vorrede Bl. 2r: **Verändert und bewegt zu werden ist eine gewisse Mitwirkung....**\n\nDie Anfänge der Vorlesungen werden mit Nummer und teilweise auch mit Tag und Monat am Rand vermerkt.",
+    "latin": "195 + 68 + 65 foll.; teg. album vitulini corii cum ornamentis nigri coloris impressis; script. 1621/22\n\na) Commentarius in Philosophiam Naturalem Dictatus a R. D. I. Mathaeo Reis Prof. Philosophiae ordinario. Exceptus a Georgio Reybi Monthovense Algui (= e loco Monthofen in regione Allgäu) Anno MDCXXI (1621)\n\nNota possidentis fol. 2r: Monasterii Ochsenhusani\n\nInitium praefationis fol. 3r: Philosophia est cognitio rerum ut sunt....\n\nClausula cum duobus versibus heroicis fol. 191v.\n\nb) Commentarius in Libros Quatuor de Coelo: Dictatus Exceptus In celeberrima Salisburgensium Academia Anno MDCXXI (1621): fol. 1 - 65r\n\nInitium Prooemii: Duplex est tractatio physica...... (fol. 2r)\n\nc) Commentarius in Duos libros de Generatione et Corruptione Dictatus.... (ut b)!)....Anno MDCXXII (1622): fol. 1 - 65r.\n\nInitium Praefationis fol. 2r: Mutari et moveri est quaedam compassio....\n\nInitia lectionum cum numero et partim etiam die menseque in margine notantur."
   }
 }

@@ -9,17 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 47
 ms_contents:
-  title: "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)"
-  title_type: "supplied"
   items:
-  - label: "a"
-    title: "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)"
-    title_type: "supplied"
-    locus: "S. 1–130"
-    note: "Nur die Auflösung „= manu scriptum?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
-  - label: "b"
-    title: "Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet"
-    locus: "S. 2–130"
+  - label: a
+    title: Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu
+      scriptum?)
+    locus: S. 1–130
+    note: Nur die Auflösung „= manu scriptum?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.
+    title_status: unspecified
+  - label: b
+    title: Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten
+      Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet
+    locus: p. 129
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

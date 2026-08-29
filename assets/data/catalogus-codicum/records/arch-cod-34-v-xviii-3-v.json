@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-v-xviii-3-v",
   "signature": "Arch. Cod. 34 V (XVIII 3 v)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "72–73",
   "heading": {
-    "title": "Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Institutiones sive Summulae Dialecticae",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1669"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 V (XVIII 3 v).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,37 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Institutiones sive Summulae Dialecticae",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–66",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Solent magnarum aedium Architecti.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Haec diuturno labore descripta 11. Februarii Anno 1669.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Solent magnarum aedium Architecti.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "text": "Haec diuturno labore descripta 11. Februarii Anno 1669.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -68,15 +93,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. Initium Prooemii: Si Romae antiquae solemnis consuetudo fuit..... Clausula fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius In Organum Aristotelis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–246",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Si Romae antiquae solemnis consuetudo fuit.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 246",
+          "text": "absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Si Romae antiquae solemnis consuetudo fuit.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 246",
+        "text": "absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -147,13 +196,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-v-xviii-3-v/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 V (XVIII 3 v)",
-    "titles": "Institutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669. \nInstitutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669. \nCommentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. Initium Prooemii: Si Romae antiquae solemnis consuetudo fuit..... Clausula fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
+    "titles": "Institutiones sive Summulae Dialecticae \nInstitutiones sive Summulae Dialecticae \nCommentarius In Organum Aristotelis",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
+    "incipits": "Solent magnarum aedium Architecti..... \nSi Romae antiquae solemnis consuetudo fuit.....",
+    "explicits": "Haec diuturno labore descripta 11. Februarii Anno 1669. \nabsolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 V (XVIII 3 v). \nInstitutiones sive Summulae Dialecticae: fol. 1–66. Initium fol. 1r: Solent magnarum aedium Architecti..... Clausula: Haec diuturno labore descripta 11. Februarii Anno 1669. \nCommentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. Initium Prooemii: Si Romae antiquae solemnis consuetudo fuit..... Clausula fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii.",
-    "physical": "Papier \n66 + 249 = 315 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n66 + 249 = 315 foll. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 66 + 249 = 315 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111; geschrieben 1669.\n\nFol. Ir: **Abhandlung zur Logik des Aristoteles.**\n\nFol. IIr: **Aristotelisches Organon**, vorgetragen von **P. Paulus Mezger**, Benediktiner von St. Peter in Salzburg, Doktor der freien Künste und Philosophie und ordentlichem Professor; aufgezeichnet von **Fr. Amandus Kerner**, Profess von Seitenstetten und Student der Philosophie und Gewissensfälle, 1669.\n\na) **Institutionen oder Summulae der Dialektik:** fol. 1–66. Anfang: „Die Architekten großer Gebäude pflegen....“ Schluss: **Nach langer Arbeit abgeschrieben am 11. Februar 1669.**\n\nb) **Kommentar zum Organon des Aristoteles:** fol. 1–246, mit Sachregister fol. 247–249. Anfang der Vorrede: „Wenn es im alten Rom feierlicher Brauch war....“ Schluss fol. 246: **Beendet am 14. Mai 1669 nach dem Mittagessen. Geprüft am 31. Mai.**",
+    "latin": "4°; 66 + 249 = 315 foll.; teg. a2 ut in cod. MN II 111; scr. 1669\n\nInscriptio folio Ir: Tractatus In Aristotelis Logicam.\n\nInscriptio folio IIr margine pulcherrime adornata: Organum Aristotelicum Traditum Ab ..... **P. Paulo Mezger** Ordinis S. Benedicti in Antiquissimo Monasterio ad S. Petrum Salisburgi Monacho, Artium Liberalium et Philosophiae Doctore et Professore ordinario Exceptum A me **F. Amando Kerner** eiusdem Ordinis professo ad Beatam Virginem in Seittenstötten, philosophiae et Casuum conscientiae studioso 1669.\n\n\n\n\na) Institutiones sive Summulae Dialecticae: fol. 1–66. _Initium_ fol. 1r: Solent magnarum aedium Architecti..... _Clausula_: Haec diuturno labore descripta 11. Februarii Anno 1669.\n\nb) Commentarius In Organum Aristotelis: fol. 1–246 cum Indice Rerum Omnium fol. 247–249. _Initium_ Prooemii: Si Romae antiquae solemnis consuetudo fuit..... _Clausula_ fol. 246: absolvimus die 14 Maii ... post prandium 1669. Examinatus die 31 Maii."
   }
 }

@@ -16,28 +16,35 @@ ms_identifier:
   repository: "Stiftsbibliothek Seitenstetten"
   idno: "MN I 22"
 ms_contents:
-  overall_title:
-    title: "Lexicon Novi Testamenti Graeco-Latinum"
-    title_type: "supplied"
-    language: "la"
   items:
-    - item: 1
-      title: "Significationes vocum"
-      translation: "Bedeutungen der Wörter"
-      locus: "S. 1–167"
-    - item: 2
-      title: "Usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum"
-      translation: "Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln"
-      locus: "S. 171–222"
-    - item: 3
-      title: "De usu et constructione articuli, nominis, adiectivi, verbi"
-      translation: "Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs"
-      locus: "S. 223–245"
+  - item: 1
+    title: Significationes vocum
+    translation: Bedeutungen der Wörter
+    locus: p. 1–167
+    title_status: supplied
+    title_source: cataloguer
+  - item: 2
+    title: Usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum
+    translation: Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln
+    locus: p. 171–222
+    title_status: supplied
+    title_source: cataloguer
+  - item: 3
+    title: De usu et constructione articuli, nominis, adiectivi, verbi
+    translation: Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs
+    locus: p. 223–245
+    title_status: supplied
+    title_source: cataloguer
   responsibility:
-    - role: "author"
-      name: "unbekannt"
-    - role: "scribe"
-      name: "unbekannt"
+  - role: author
+    name: unbekannt
+  - role: scribe
+    name: unbekannt
+  title: Lexicon Novi Testamenti Graeco-Latinum
+  languages:
+  - la
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: "codex"
   format: "Großquart"

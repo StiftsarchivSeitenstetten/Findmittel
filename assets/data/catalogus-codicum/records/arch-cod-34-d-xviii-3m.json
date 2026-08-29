@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-d-xviii-3m",
   "signature": "Arch. Cod. 34 D (XVIII 3m)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "251–252",
   "heading": {
     "title": "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1772"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–203",
+      "locus": "p. 203",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "text": "Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)",
+          "locus": "p. 203",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
       "explicit": {
-        "text": "Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)"
+        "text": "Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)",
+        "locus": "p. 203",
+        "id": "explicit-1"
       },
       "notes": [
         {
@@ -139,13 +154,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-d-xviii-3m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 D (XVIII 3m)",
     "titles": "Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten. \nVerschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.",
-    "persons": "P. Martinus Ober Bearbeiter compiler \nP. Martinus Ober Schreiber scribe",
+    "persons": "P. Martinus Ober Bearbeiter compiler  \nP. Martinus Ober Schreiber scribe ",
     "incipits": "",
     "explicits": "Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)",
     "notes": "Es folgen drei Chronogramme auf das Jahr 1772.",
-    "physical": "Papier \n204 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+    "physical": "Papier \n204 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe.",
+    "german": "Folioformat; 204 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1772.\n\n**Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.**\n\nInitialen des Kompilators auf der Innenseite des Vorderdeckels: **P. M. O. = P. Martinus Ober.**\n\nSchluss S. 203: **Zusam getragen und eigener Hand geschriben von P. M. O.**\n\nEs folgen drei Chronogramme auf das Jahr 1772.",
+    "latin": "fol.; 204 pagg.; teg. b1; scriptus 1772\n\n**Verschiedene von seiner Eminenz dem Cardinal Graf Migazzi Erzbischof zu Wienn Bischof zu Waizen vom Jahr 1766 bis Ende 1770. an Ihro Römisch Kayßerlich-Königliche Apostolische Majestätt Verfaßte Vorstellungen in Betreff der Kirchen=Sachen, und der in selben unternommenen Neuerungen Gesammlet, Von P. Martin Ober Profeß zu Seittenstetten.**\n\nLitterae initiales compilatoris in parte adversa tegumenti ab intrinsecus: **P. M. O. = P. Martinus Ober.**\n\nClausula p. 203: **Zusam getragen und eigener Hand geschriben von P. M. O. (= P. Martinus Ober)**\n\n**HoC annó QVÓ Vestro eLeCto IMpratorI [lectio obscura] sVaDetVr:**  \n**DesIne ReX ConsCrIbere popVLVM**  \n**QVIa ReX RegVM, DeLet ConsCrIptos**\n\n(Tria chronogrammata ad annum 1772!)"
   }
 }

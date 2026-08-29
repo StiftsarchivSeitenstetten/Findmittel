@@ -20,35 +20,34 @@ ms_identifier:
   idno: "MN I 12"
 
 ms_contents:
-  overall_title:
-    title: "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi"
-    title_type: "wrapper_title"
-    language: "de"
-
-  summary: "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII."
-
-  contents:
-    type: "session_protocols"
+  summary: Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII.
+  title: 'Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi'
+  title_status: attested
+  title_source: wrapper
+  items:
+  - title: protocolla 52 sessionum
+    title_status: supplied
+    title_source: cataloguer
+    type: session_protocols
     number_of_sessions: 52
     date:
-      display: "20. November 1741 bis 12. März 1742"
-      from: "1741-11-20"
-      to: "1742-03-12"
+      display: 20. November 1741 bis 12. März 1742
+      from: '1741-11-20'
+      to: '1742-03-12'
     place:
-      display: "Frankfurt"
+      display: Frankfurt
     participants:
-      display: "Kurfürsten oder deren Gesandte"
+      display: Kurfürsten oder deren Gesandte
     subject_person:
-      name: "Karl VII."
-      role: "subject"
-
-  missing_contents:
-    - session: 4
-      locus: "fol. 48–64"
-      status: "missing"
-    - session: 35
-      status: "missing"
-
+      name: Karl VII.
+      role: subject
+    completeness:
+      status: defective
+      note: Desunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent.
+      missing_parts:
+      - session: 4
+        locus: fol. 48–64
+      - session: 35
 phys_desc:
   object_form: "composite_manuscript"
   support: "Papier"

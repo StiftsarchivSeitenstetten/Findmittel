@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 56
 ms_contents:
-  title: "Catholischer Seelen=Wecker, Darinnen Viel auserlesene Gebete, Lytaneyen und Morgen, Abend, Meß, Beicht u:d Communion Gebeter, Wie auch Die sieben Buß=Psalmen, und viele andere schöne Gebeter"
   items:
-  - label: "a"
-    title: "Catholischer Seelen=Wecker, Darinnen Viel auserlesene Gebete, Lytaneyen und Morgen, Abend, Meß, Beicht u:d Communion Gebeter, Wie auch Die sieben Buß=Psalmen, und viele andere schöne Gebeter"
-    locus: "S. 1–300"
-    note: "Die anschließende Eigentumsangabe Johanna Golgins und das Datum 25. Februar 1792 wurden nicht als Bestandteil des Titels strukturiert."
+  - label: a
+    title: Catholischer Seelen=Wecker, Darinnen Viel auserlesene Gebete, Lytaneyen und Morgen, Abend, Meß, Beicht u:d Communion Gebeter, Wie auch
+      Die sieben Buß=Psalmen, und viele andere schöne Gebeter
+    locus: S. 1–300
+    note: Die anschließende Eigentumsangabe Johanna Golgins und das Datum 25. Februar 1792 wurden nicht als Bestandteil des Titels strukturiert.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

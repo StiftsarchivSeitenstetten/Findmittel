@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-275",
   "signature": "MN II 275",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "218",
   "heading": {
     "title": "Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1739"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–328",
+      "locus": "p. 3–328",
       "language": "",
+      "incipits": [
+        {
+          "text": "Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales",
+          "id": "incipit-1"
+        },
+        {
+          "text": "Tractatus Theologico-scholasticus De Jure et Justitia p. 7: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales .....",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales"
+        "text": "Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -138,13 +155,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-275/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 275",
     "titles": "Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione \nTractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione",
-    "persons": "P. Corbinian Thomas Dozent lecturer \nFr. Norbertus Pampichler Schreiber scribe",
-    "incipits": "Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales",
+    "persons": "P. Corbinian Thomas Dozent lecturer Kloster Elchingen / Universität Salzburg \nFr. Norbertus Pampichler Schreiber scribe Seitenstetten",
+    "incipits": "Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales \nTractatus Theologico-scholasticus De Jure et Justitia p. 7: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales .....",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n338 pagg. \ndescription: Rosafarbener Einband mit eingeprägten und vergoldeten Figuren; Rücken und Kanten aus weißem Leder."
+    "physical": "Papier \n338 pagg. \ndescription: Rosafarbener Einband mit eingeprägten und vergoldeten Figuren; Rücken und Kanten aus weißem Leder.",
+    "german": "338 Seiten; rosafarbener Einband mit sehr schönen eingeprägten und vergoldeten Figuren, Rücken und Kanten aus weißem Leder; geschrieben 1739.\n\n**Theologisch-scholastische Abhandlung über Recht und Gerechtigkeit sowie Restitution**, vorgetragen von P. Corbinian Thomas, Benediktiner und Profess des kaiserlichen Klosters Elchingen und damals ordentlicher Professor der heiligen Theologie an der erzbischöflichen Universität Salzburg; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und Theologiestudent im zweiten Jahr, 1739: S. 3–328.\n\nAnfang der theologisch-scholastischen Abhandlung über Recht und Gerechtigkeit S. 7: Nach den theologischen Tugenden schreitet der heilige Lehrer in rechter Ordnung zur Erklärung der moralischen Materien fort.....\n\nFr. Norbertus Pampichler schrieb auch die drei vorhergehenden Codices.",
+    "latin": "338 pagg.; teg. rosaceum, perbellis figuris impressis et inauratis ornatum, dorsum extremasque e corio albo; script. 1739\n\n**Tractatus Theologico-Scholasticus De Jure et Justitia ac Restitutione Datus à Plurimum Reverendo ac Clarissimo P. Corbiniano Thomas Ordinis S. Benedicti in Imperiali Monasterio Elchingensi Professo etc. etc. pro tempore in Archi-Episcopali Universitate Sacrosanctae Theologiae Professore ordinario. Exceptus à F. Norberto Pampichler ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo pro tempore Sacrosanctae Theologiae in II. annum auditore. Anno 1739:** p. 3–328\n\n**Initium:** Tractatus Theologico-scholasticus De Jure et Justitia p. 7: Equidem (?) post virtutes theologicas S. Doctor recto ordine procedit ad explicandas materias morales .....\n\nF. Norbertus Pampichler etiam tres codices praecedentes scripsit."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-60",
   "signature": "MN II 60",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "38",
   "heading": {
     "title": "De Jure et Justitia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1652/53"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge; das Ende fehlt.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,13 +49,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Jure et Justitia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 2r–50v",
+      "locus": "fol. 2r - 50v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -64,13 +71,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Restitutione",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 51r–176v",
+      "locus": "fol. 51r - 176v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -82,15 +93,27 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Contractibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "Bl. 177r–232r",
+      "locus": "fol. 177r - 232r",
       "language": "",
+      "incipits": [],
+      "explicits": [
+        {
+          "text": "et haec dicta sufficiant pro hoc Anno. Ut sequenti anno plura de his, etiam de Monopolis.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "et haec dicta sufficiant pro hoc Anno. Ut sequenti anno plura de his, etiam de Monopolis.",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "status",
@@ -205,13 +228,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 60",
     "titles": "De Jure et Justitia \nDe Jure et Justitia \nDe Restitutione \nDe Contractibus",
-    "persons": "P. Udalricus Freyberger OSB Dozent lecturer \nFr. Romanus Voith, Profess von Seitenstetten Schreiber scribe",
+    "persons": "P. Udalricus Freyberger OSB Dozent lecturer  \nFr. Romanus Voith, Profess von Seitenstetten Schreiber scribe ",
     "incipits": "",
-    "explicits": "",
+    "explicits": "et haec dicta sufficiant pro hoc Anno. Ut sequenti anno plura de his, etiam de Monopolis.",
     "notes": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge; das Ende fehlt. \nunvollständig; Ende der Abhandlung fehlt \nEnde der Abhandlung fehlt",
-    "physical": "Papier \nIII + 232 Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \nIII + 232 Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen.",
+    "german": "III + 232 Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen; geschrieben 1652/53.\n\n**Abhandlung über Recht und Gerechtigkeit, vorgetragen von P. Udalricus Freyberger, Benediktinermönch und Profess von St. Peter in Salzburg, ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Romanus Voith desselben Ordens, Profess des berühmten Klosters Seitenstetten in Niederösterreich und Student der Philosophie. 1653.**\n\nAnfang der Vorrede Bl. 1r: **Da der Mensch ein politisches Wesen ist....**\n\na) **Erster Teil. Über Recht und Gerechtigkeit:** Bl. 2r–50v.\n\nb) **Zweiter Teil. Über Restitution.... 1653** (kunstvolles Titelblatt): Bl. 51r–176v.\n\nc) **Dritter Teil. Über Verträge.... Im Jahr 1653:** Bl. 177r–232r. Schluss: **Und dies soll für dieses Jahr über das Gesagte genügen, damit im folgenden Jahr mehr darüber, auch über Monopole, behandelt werde.**\n\nDieselbe Abhandlung enthalten Codex MN II 58, Teil a von Arch. Cod. 34 P und Codex MN II 63. **NB.** In Codex MN II 60 fehlt das Ende der Abhandlung.",
+    "latin": "III + 232 foll.; teg. a2; script. 1652/53\n\n*Tractatus De Iure et Iustitia Traditus Ab.... P. Udalrico Freyberger Monacho Benedictino ad S. Petrum Salisburgi Professo Casuum Conscientiae Professore Ordinario. Exceptus A Religioso F. Romano Voith eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi Inferioris Austriae Professo Philosophiae Studioso. 1653.*\n\n*Initium* Prooemii fol. 1r: Cum homo sit animal politicum....\n\na) *Pars Prima De Jure et Justitia:* fol. 2r - 50v.\n\nb) *Pars II De Restitutione.... MDCLIII (pagina titularis artificiosa):* fol. 51r - 176v.\n\nc) *Pars Tertia De Contractibus.... Anno Millesimo Sexcentesimo quinquagesimo tertio:* fol. 177r - 232r. Clausula: et haec dicta sufficiant pro hoc Anno. Ut sequenti anno plura de his, etiam de Monopolis.\n\nEundem tractatum continent Cod. MN II 58 (supra p. 37) et pars a cod. Arch. 34 P (quem vide inferius!) nec non cod. MN II 63 (vide infra p. 40!) N. B.! In codice MN II 60 deest finis tractatus."
   }
 }

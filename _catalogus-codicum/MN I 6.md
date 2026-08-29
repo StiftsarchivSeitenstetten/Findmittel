@@ -14,39 +14,46 @@ ms_identifier:
   idno: "MN I 6"
 
 ms_contents:
+  items:
   - item: 1
-    label: "a"
-    title: "Vernewerte Landes Ordnung des Marggraffthumb Mähren"
-    title_type: "original"
-    language:
-      - "de"
-    locus: "fol. 1r–255v (= S. 9–516)"
-    related_text:
-      title: "Verkündungsdekret"
+    label: a
+    title: Vernewerte Landes Ordnung des Marggraffthumb Mähren
+    locus: fol. 1r–255v
+    subitems:
+    - title: decreto promulgationis anno 1628 edito
+      title_status: supplied
+      title_source: cataloguer
       date:
-        display: "1628"
+        display: anno 1628
         when: 1628
-      locus: "S. 5–8"
-    contents_note: "Erneuerte Landesordnung der Markgrafschaft Mähren zusammen mit dem 1628 erlassenen Verkündungsdekret."
-
+      locus: p. 5–8
+    languages:
+    - de
+    title_status: unspecified
   - item: 2
-    label: "b"
-    title: "Regiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden"
-    title_type: "original"
-    language:
-      - "de"
-    locus: "S. 517–525"
-    type: "index"
-
+    label: b
+    title: Regiester. Derer Tituln so in dieser Vernewerten Landes ordnung zu finden
+    locus: p. 517–525
+    type: index
+    languages:
+    - de
+    title_status: unspecified
   - item: 3
-    label: "c"
-    title: "Syllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen Landes ordnung zue befinden, nach ordnung des Alphabets"
-    title_type: "original"
-    language:
-      - "de"
-    locus: "S. 526–564"
-    type: "alphabetical_index"
-
+    label: c
+    title: Syllabus. oder. Khurtze & Summarische Verzeichnus der Vornembsten Materien, Unnd Wöhrter, welche in der New Publicirten Mährischen
+      Landes ordnung zue befinden, nach ordnung des Alphabets
+    locus: p. 526–564
+    type: alphabetical_index
+    languages:
+    - de
+    title_status: unspecified
+    colophons:
+    - locus: p. 564
+      text: 'den 12. ten Martii. 1694. 2.. N:'
+      date:
+        display: 12. ten Martii. 1694
+        when: '1694-03-12'
+      note: Quae litterae videntur esse initia nominis scriptoris.
 phys_desc:
   object_form: "codex"
   format: "Kleines Folio"

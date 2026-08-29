@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-2",
   "signature": "MN III 2",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "5",
   "heading": {
     "title": "Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "Ende des 16. Jahrhunderts"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–172",
+      "locus": "p. 5 - 172",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Rechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet. Durch: Valentinum Ernestum der Rechenkunst liebhabern",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 173–329",
+      "locus": "p. 173 - 329",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -145,13 +156,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-2/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 2",
     "titles": "Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem \nEin Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem \nRechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet. Durch: Valentinum Ernestum der Rechenkunst liebhabern",
-    "persons": "Valentinus Ernestus Autor author",
+    "persons": "Valentinus Ernestus Autor author ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n16°, 329 pagg., teg. b1 (ornamentis impressum) \nSedezformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext."
+    "physical": "Papier \n16°, 329 pagg., teg. b1 (ornamentis impressum) \nSedezformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext.",
+    "german": "Sedezformat; 329 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit eingeprägten Verzierungen; geschrieben gegen Ende des 16. Jahrhunderts.\n\na) **Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem:** S. 5–172.\n\nb) **Rechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet. Durch: Valentinum Ernestum der Rechenkunst liebhabern:** S. 173–329.\n\nBesitzvermerk auf der Innenseite des Vorderdeckels: **Ex Raritatibus P. And: A.....**; der Rest ist ausradiert.",
+    "latin": "16°, 329 pagg., teg. b1 (ornamentis impressum); scr. saec. XVI exeunte\n\na) Ein Kunstlich wolgeordnet, Ündt zuvor nie erfundenes Rechenbuch. Inn welchem der Silberkauff gar bequemlich auff den Talerpreiß......gerechnet zufinden. Calculirt Durch: Valentinum Ernestum, der Rechenkunst Amatorem: p. 5 - 172\n\nb) Rechnung Über den Silberkauff. So gar bequemlich auch auff die Gulden, [unleserliches Wort] Schilling, Undt Pfenning.....gerechnet. Durch: Valentinum Ernestum der Rechenkunst liebhabern: p. 173 - 329\n\nNota in tegumento adverso ab intrinsecus: Ex Raritatibus P. And: A..... (cetera rasa!)"
   }
 }

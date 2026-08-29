@@ -12,17 +12,24 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Scholastico-Dogmaticus de Incarnatione verbi Divini
-    locus: S. 3–385
-    incipit: Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium
+    locus: p. 3–385
     end_date_display: 9. August 1756
-  - label: a.1
-    title: Breviculum Vitae et operum Jesu Christi
-    title_type: supplied
-    locus: S. 293–385
-    note: Diese Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+    incipits:
+    - text: Quàm dignum et praestans sit hoc fidei et tractationis nostrae mysterium,.....
+    title_status: unspecified
+    colophons:
+    - text: 9. Augusti 1756.
+    subitems:
+    - label: a.1
+      title: Breviculum Vitae et operum Jesu Christi
+      locus: p. 293–385
+      note: Diese Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.
+      title_status: supplied
+      title_source: cataloguer
   - label: b
     title: Elenchus Dissertationum et Articulorum (?) hujus Tractatus De Incarnatione Verbi Divini
-    locus: S. 386–390
+    locus: p. 386–390
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

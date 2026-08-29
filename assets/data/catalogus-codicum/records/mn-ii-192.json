@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-192",
   "signature": "MN II 192",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "143",
   "heading": {
     "title": "Tractatus De Gratia",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1694"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Gratia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–335",
+      "locus": "p. 1–335",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Prooemii",
+          "text": "quandoquidem homines (!) ad veram aeternamque felicitatem aspiranti non sufficit,",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Prooemii",
+        "text": "quandoquidem homines (!) ad veram aeternamque felicitatem aspiranti non sufficit,",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,14 +82,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Virtutibus Theologicis fide, spe et charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 335–461",
+      "locus": "p. 335–461",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Cum operari sequatur ad esse......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Cum operari sequatur ad esse......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -163,13 +194,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 192",
     "titles": "Tractatus De Gratia \nTractatus De Gratia \nTractatus Theologicus De Virtutibus Theologicis fide, spe et charitate",
-    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
+    "persons": "Fr. Joannes Rigele Schreiber scribe Seitenstetten \nunbekannt Autor author ",
+    "incipits": "quandoquidem homines (!) ad veram aeternamque felicitatem aspiranti non sufficit, \nCum operari sequatur ad esse......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n464 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n464 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+    "german": "464 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1694.\n\na) **Abhandlung über die Gnade:** S. 1–335. Anfang der Vorrede: Da den Menschen, die nach wahrer und ewiger Glückseligkeit streben, nicht genügt.....\n\nb) **Theologische Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 335–461. Anfang: Da das Handeln dem Sein folgt.....\n\nDie Datierung auf 1694 ergibt sich daraus, dass MN II 179, der dieselben Abhandlungen nahezu wörtlich enthält, in diesem Jahr geschrieben wurde. Der Verfasser wird in keinem der beiden Codices genannt.\n\nAls Schreiber kommt wahrscheinlich Fr. Joannes Rigele in Frage.",
+    "latin": "464 pagg.; teg. c2d; script. 1694\n\na) Tractatus De Gratia: p. 1–335. Initium Prooemii p. 1: quandoquidem homines (!) ad veram aeternamque felicitatem aspiranti non sufficit,\n\nb) Tractatus Theologicus De Virtutibus Theologicis fide spe et charitate: p. 335–461. Initium: Cum operari sequatur ad esse......\n\nCodicem nostrum anno 1694 scriptum esse suspicimus, quod hoc anno codex MN II 179 eosdem tractatus ad verbum continens scriptus est. (Confer huius catalogi p. 136–137!). Auctor autem neque in hoc neque in illo codice nuntiatur. Scriptorem vero probabiliter F. Joannem Rigele esse iam supra p. 141 ad codices MN II 186 et 188 implicite ostendimus."
   }
 }

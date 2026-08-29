@@ -9,11 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 315
 ms_contents:
-  title: Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852
   items:
   - label: a
-    title: Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852
+    title: Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt
+      von Jordan Habert, Lehrer. 1852
     locus: S. 1–92
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

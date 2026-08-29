@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-33-n-i-l-u",
   "signature": "Arch. Cod. 33 N (I l. u.)",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "245",
   "heading": {
     "title": "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1765"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "S. 1–91",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-n-i-l-u/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 33 N (I l. u.)",
     "titles": "Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda. \nDamon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \n91 pagg. \nQuartformat \ndescription: Blauer Seideneinband."
+    "physical": "Papier \n91 pagg. \nQuartformat \ndescription: Blauer Seideneinband.",
+    "german": "Quartformat; 91 Seiten; blauer Seideneinband; geschrieben 1765.\n\n**Damon et Pythias oder die gekrönte Freundschaft.** Lateinische Tragödie, von der Salzburger Poetik im Juni 1765 aufzuführen.\n\nWeder der Verfasser des Dramas noch der kunstvolle Schreiber sind bekannt.\n\nDasselbe lateinische Drama erschien auch im Druck: Salzburg, bei Johann Joseph Mair, Hof- und Universitätsdrucker und Buchhändler. Ein Exemplar befindet sich in der Seitenstettner Bibliothek unter Nr. 92.5.15 und ist in denselben Einband eingebunden wie die Handschrift.\n\n> **Handschriftliche Nachträge:** mehrere spätere Notizen, wegen schwacher Lesbarkeit nicht sicher transkribiert.",
+    "latin": "4°; 91 pagg.; teg. caeruleum sericatum; script. 1765\n\n**Damon et Pythias Seu Amicitia Coronata. (Latina) Tragoedia a Poetica Salisburgensi anno 1765 mense Junio in Scenam danda.**\n\nEtiam in hoc codice neque quis hoc drama composuerit neque quis tam venuste scripserit scimus.\n\nIdem drama Latinum etiam typis impressum in lucem evenit: Salisburgi, Typis Joannis Josephi Mair, Aulicoacademici Typographi, ac Bibliopolae post mortem Haeredis (Bibliotheca monasterii Seitenstettensis Nr. 92.5.15, eodem tegumento inclusum ut codicillus noster manu scriptus).\n\n> **Handschriftliche Nachträge auf der Seite:** mehrere spätere Notizen, teilweise über den gedruckten Text gelegt; wegen der schwachen Lesbarkeit nicht sicher transkribiert."
   }
 }

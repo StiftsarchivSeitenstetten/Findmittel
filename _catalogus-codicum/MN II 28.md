@@ -13,19 +13,31 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 28
 ms_contents:
-  title: "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)"
   items:
-  - label: "a"
-    title: "Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)"
-    locus: "S. 1–508"
-    incipit: "Philosophia Primo dicto etymon quibusdam definitur...."
-    explicit: "Absolvimus 5. Septembris Anno 1636."
-    note: "Die parenthetischen Orts- und Datumsauflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied."
-  - label: "b"
-    title: "Index"
-    title_type: supplied
-    locus: "S. 509–513"
-    note: "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+  - label: a
+    title: Logica Peripatetica Tradita à R. P. Julio Maulderer Societatis Jesu sacerdote. Excepta a Bartholomaeo Piscatore Fischensi In Catholico
+      Gymnasio Soc. Jesu Augustae (= Augsburg) Ad S. Annam. Anno Domini M. DC. XXXVI (1636)
+    locus: p. 509 - 513
+    note: Die parenthetischen Orts- und Datumsauflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied.
+    incipits:
+    - text: Philosophia Primo dicto etymon quibusdam definitur....
+      locus: p. 1
+      label: Prooemii Logicae Peripateticae sive Doctrinae in universam logicam Aristotelis Peripateticae Tradi solitae
+    explicits:
+    - locus: P. 513
+      text: Tota logica continet 19. tractatus. 31 quaestiones. 102 articulos.
+    colophons:
+    - locus: p. 47
+      text: Absolvimus 18 Januarii 1636.
+    - locus: p. 508
+      text: Absolvimus 5. Septembris Anno 1636.
+    title_status: unspecified
+  - label: b
+    title: Indice
+    locus: S. 509–513
+    note: Vom Katalog verwendete strukturelle Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

@@ -17,6 +17,7 @@ ms_contents:
   - label: a
     title: Zweiter Teil von Logikvorlesungen
     note: Beginnt mitten in Art. IV der 8. Disputation.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

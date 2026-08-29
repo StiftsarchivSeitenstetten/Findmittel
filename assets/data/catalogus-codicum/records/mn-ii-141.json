@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-141",
   "signature": "MN II 141",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "103",
   "heading": {
     "title": "Tractatus De vitiis et peccatis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1685"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De vitiis et peccatis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–402",
+      "locus": "p. 7–402",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 7",
+          "text": "Consideratâ actûs humani moralitate in genere.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 7",
+        "text": "Consideratâ actûs humani moralitate in genere.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -63,15 +80,39 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus De Legibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 403–605",
+      "locus": "p. 403–605",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Quaestionis primae. De lege in Communi",
+          "text": "p. 403: Usitato ordine prius legem in communi consideramus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 605",
+          "text": "Anno 1685. 28. augusti.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Quaestionis primae. De lege in Communi",
+        "text": "p. 403: Usitato ordine prius legem in communi consideramus.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 605",
+        "text": "Anno 1685. 28. augusti.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -166,13 +207,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 141",
     "titles": "Tractatus De vitiis et peccatis \nTractatus De vitiis et peccatis \nTractatus De Legibus",
-    "persons": "unbekannt Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "persons": "unbekannt Dozent lecturer  \nunbekannt Schreiber scribe ",
+    "incipits": "Consideratâ actûs humani moralitate in genere..... \np. 403: Usitato ordine prius legem in communi consideramus.....",
+    "explicits": "Anno 1685. 28. augusti.",
     "notes": "",
-    "physical": "Papier \n616 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n616 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "616 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1685.\n\na) **Abhandlung über Laster und Sünden:** S. 7–402. Anfang S. 7: Nachdem die moralische Beschaffenheit des menschlichen Handelns im Allgemeinen betrachtet worden ist.....\n\nb) **Abhandlung über die Gesetze:** S. 403–605. Anfang der ersten Frage **Über das Gesetz im Allgemeinen**, S. 403: Nach der üblichen Ordnung betrachten wir zuerst das Gesetz im Allgemeinen..... Schluss S. 605: **Im Jahr 1685, am 28. August.**\n\nWeder derjenige, der diese Abhandlungen diktierte, noch der Schreiber unseres Codex ist bekannt. Derselbe Schreiber schrieb jedoch auch den folgenden Codex.",
+    "latin": "616 pagg.; teg. a1; script. 1685\n\na) Tractatus De vitiis et peccatis: p. 7–402. Initium p. 7: Consideratâ actûs humani moralitate in genere.....\n\nb) Tractatus De Legibus: p. 403–605. Initium Quaestionis primae. De lege in Communi: p. 403: Usitato ordine prius legem in communi consideramus..... Clausula p. 605: Anno 1685. 28. augusti.\n\nNeque qui dictaverit hos tractatus notus neque qui scripserit codicem nostrum. Sed qui codicem nostrum etiam codicem sequentem scripsit."
   }
 }

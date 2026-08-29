@@ -18,13 +18,24 @@ ms_contents:
   items:
   - label: a
     title: De Sacramentis
-    locus: S. 3–428; Register S. 428–434
+    locus: p. 3 - 428
+    incipits:
+    - locus: p. 4
+      text: Postquam de Verbo Incarnato egerit (?) S. Thomas....
+    title_status: unspecified
   - label: b
     title: De Gratia et Merito
-    locus: S. 435–735
+    locus: p. 435 - 735
+    incipits:
+    - locus: p. 436
+      text: Post Explicatam liberalitatem et honestatem....
+    title_status: unspecified
   - label: c
     title: De Vitiis et Peccatis Creaturarum
-    locus: S. 737–822
+    locus: p. 737 - 822
+    incipits:
+    - text: De peccato Actuali habituali et originali tractaturi sumus.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

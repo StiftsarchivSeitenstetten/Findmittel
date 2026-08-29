@@ -9,44 +9,103 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 25
 ms_contents:
-  title: "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711"
+  title: Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et
+    Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner
+    Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711
   items:
-  - label: "a"
-    title: "Tractatus de Justitia, et Jure"
-    locus: "S. 9–61"
-  - label: "b"
-    title: "Tractatus de Restitutione"
-    locus: "S. 63–102"
-  - label: "c"
-    title: "Tractatus de Contractibus"
-    locus: "S. 105–129"
-  - label: "d"
-    title: "Tractatus de Incarnatione"
-    locus: "S. 137–226"
-  - label: "e"
-    title: "Tractatus de Sacramentis in genere"
-    locus: "S. 227–261"
-  - label: "f"
-    title: "Tractatus de Baptismate"
-    locus: "S. 263–276"
-  - label: "g"
-    title: "Tractatus de Confirmatione"
-    locus: "S. 277–280"
-  - label: "h"
-    title: "Tractatus de Sanctissima Eucharistia"
-    locus: "S. 281–292"
-  - label: "i"
-    title: "Tractatus de Virtute et Sacramento Paenitentiae"
-    locus: "S. 295–348"
-  - label: "j"
-    title: "Tractatus de Sacramento Extremae Unctionis"
-    locus: "S. 349–352"
-  - label: "k"
-    title: "Tractatus de Sacramento ordinis"
-    locus: "S. 355–359"
-  - label: "l"
-    title: "Disputatio De Matrimonio"
-    locus: "S. 360–369"
+  - label: a
+    title: Tractatus de Justitia, et Jure
+    locus: p. 9–61
+    title_status: unspecified
+  - label: b
+    title: Tractatus de Restitutione
+    locus: p. 63–102
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: c
+    title: Tractatus de Contractibus
+    locus: p. 105–129
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: d
+    title: Tractatus de Incarnatione
+    locus: p. 137–226
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: e
+    title: Tractatus de Sacramentis in genere
+    locus: p. 227–261
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: f
+    title: Tractatus de Baptismate
+    locus: p. 263–276
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: g
+    title: Tractatus de Confirmatione
+    locus: p. 277–280
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: h
+    title: Tractatus de Sanctissima Eucharistia
+    locus: p. 281–292
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: i
+    title: Tractatus de Virtute et Sacramento Paenitentiae
+    locus: p. 295–348
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: j
+    title: Tractatus de Sacramento Extremae Unctionis
+    locus: p. 349–352
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: k
+    title: Tractatus de Sacramento ordinis
+    locus: p. 355–359
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  - label: l
+    title: Disputatio De Matrimonio
+    locus: p. 360–369
+    colophons:
+    - locus: p. 369
+      text: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae
+        tamen
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

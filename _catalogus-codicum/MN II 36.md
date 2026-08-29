@@ -18,38 +18,121 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15'
+    title: De Praeceptis Decalogi et virtutibus in eo contentis
+    locus: p. 1 - 15
+    incipits:
+    - locus: p. 1
+      text: Peccatum est dictum, factum, vel concupitum contra legem....
+    title_status: unspecified
   - label: b
     catalog_statement: 'De Sacramentis (in genere et in specie): p. 15 - 36'
+    title: De Sacramentis (in genere et in specie)
+    locus: p. 15 - 36
+    incipits:
+    - locus: p. 15
+      text: Sacramentum novae legis est signum rei sacrae....
+    title_status: unspecified
   - label: c
     catalog_statement: 'De legibus humanis Ecclesiasticis: p. 36 - 68'
+    title: De legibus humanis Ecclesiasticis
+    locus: p. 36 - 68
+    incipits:
+    - locus: p. 36
+      text: Lex Ecclesiastica est duplex.....
+    title_status: unspecified
   - label: d
     catalog_statement: '(Tractatus De Conscientia) (?): p. 71 - 88; initium et finis desunt.'
+    title: Tractatus De Conscientia) (?
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 71 - 88
   - label: e
     catalog_statement: '(Tractatus Casisticus De Vitiis et Peccatis): p. 91 - 226; initium deest, item finis.'
+    title: Tractatus Casisticus De Vitiis et Peccatis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 91 - 226
   - label: f
     catalog_statement: '(Tractatus De Paenitentia): p. 227 - 340; initium deest.'
+    title: Tractatus De Paenitentia
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 227 - 340
   - label: g
     catalog_statement: '(Tractatus De Iustificatione): p. 347 - 362; initium (et finis??) deest.'
+    title: Tractatus De Iustificatione
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 347 - 362
   - label: h
     catalog_statement: '(Tractatus De Actibus Humanis): p. 363 - 409; initium deest.'
+    title: Tractatus De Actibus Humanis
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 363 - 409
   - label: i
     catalog_statement: '(Tractatus De Sacramentis in Specie): p. 411 - 458; initium et finis deest.'
+    title: Tractatus De Sacramentis in Specie
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 411 - 458
   - label: j
     catalog_statement: '(Tractatus De Restitutione): p. 459 - 493 (Sola Disputatio IV: De restitutione circa bona animi fortunaeque)'
+    title: Tractatus De Restitutione
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 459 - 493
   - label: k
     catalog_statement: 'Disputatio VI: De contractibus in genere: p. 493 - 501'
+    title: 'Disputatio VI: De contractibus in genere'
+    locus: p. 493 - 501
+    title_status: unspecified
   - label: l
     catalog_statement: (Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida.... p. 501 - 504
+    title: (Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida
+    locus: p. 501 - 504
+    title_status: supplied
+    title_source: cataloguer
   - label: m
     catalog_statement: '(Tractatus de Contractibus in specie): p. 507 - 519 (initium deest)'
+    title: Tractatus de Contractibus in specie
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 507 - 519
   - label: n
     catalog_statement: '(Tractatus de Restitutione): p. 520 - 556'
+    title: Tractatus de Restitutione
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 520 - 556
   - label: o
     catalog_statement: '(Tractatus De Justitia et Jure): p. 559 - 623; initium p. 559: De Justitia et Jure disputant philosophi....'
+    title: Tractatus De Justitia et Jure
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 559 - 623
+    incipits:
+    - locus: p. 559
+      text: De Justitia et Jure disputant philosophi....
   - label: p
-    catalog_statement: '(Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae si vocabuli notionem attendas....'
+    catalog_statement: '(Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae
+      si vocabuli notionem attendas....'
+    title: Institutiones Dialecticae
+    title_status: supplied
+    title_source: cataloguer
+    locus: p. 629 - 643
+    incipits:
+    - locus: p. 629
+      label: capitis I de natura, necessitate et utilitate dialecticae
+      text: Dialecticae si vocabuli notionem attendas....
   - label: q
     catalog_statement: 'De Distinctionibus: p. 647 - 663; initium p. 647: Collegerunt aliquas voces....'
+    title: De Distinctionibus
+    locus: p. 647 - 663
+    incipits:
+    - locus: p. 647
+      text: Collegerunt aliquas voces....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

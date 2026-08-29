@@ -9,13 +9,21 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 166
 ms_contents:
-  title: Liber quartus Decretalium Gregorii IX. Pontificis Maximi
   items:
   - label: a
     title: Liber quartus Decretalium Gregorii IX. Pontificis Maximi
-    locus: S. 3–364
+    locus: p. 3
     end_date: '1690-08-26'
     incipit_section: Titulus Primus De Sponsalibus et Matrimonio
+    incipits:
+    - locus: p. 3
+      text: Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....
+    colophons:
+    - locus: p. 364
+      text: Absolvimus 26. Augusti 1690.
+    title_status: unspecified
+    notes:
+    - Scriptor et auctor ignoti.
 phys_desc:
   object_form: codex
   support: Papier

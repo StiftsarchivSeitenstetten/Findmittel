@@ -17,16 +17,23 @@ ms_contents:
   items:
   - label: a
     title: 'Pars Prima: de Jure et Justitia'
-    locus: S. 2–77
+    locus: p. 2 - 77
+    title_status: unspecified
   - label: b
     title: Pars secunda de restitutione
-    locus: S. 77–297
+    locus: p. 77 - 297
+    title_status: unspecified
   - label: c
     title: Pars tertia, De contractibus
-    locus: S. 297–462
+    locus: p. 297 - 462
+    colophons:
+    - locus: p. 462
+      text: Absolvimus hunc Tractatum 13 octobris Anno 1653.
+    title_status: unspecified
   - label: d
     title: Index Tractatus huius
-    locus: S. 463–468
+    locus: p. 463 - 468
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Udalricus Freyberger
@@ -34,6 +41,7 @@ ms_contents:
   - role: scribe
     name: Fr. Joachim Hartung
     affiliation: Seitenstetten
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,12 +13,29 @@ ms_contents:
   items:
   - label: a
     title: Logica minor sive Summulae Dialecticae
-    locus: fol. 1–43v
+    locus: fol. 1–43
     end_date: '1689-12-07'
+    incipits:
+    - locus: fol. 1r
+      label: Antiloquii
+      text: Summulas hoc est Logices maioris Synopsin.....
+    colophons:
+    - locus: fol. 43v
+      text: Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).
+    title_status: unspecified
   - label: b
     title: Logica Maior
-    locus: fol. 45–276v
+    locus: fol. 45–276
     end_date_display: Vorabend von Pfingsten 1690
+    incipits:
+    - label: Praefationis In Logicam Maiorem
+      text: 'fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est.....'
+    colophons:
+    - locus: fol. 276v
+      text: Absolvimus autem in pervigilio Pentecostes ..... (1690)
+    title_status: supplied
+    title_source: cataloguer
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -15,16 +15,33 @@ ms_contents:
   - label: a
     title: Praefatio in Universam Logicam
     locus: fol. 3–8v
+    incipits:
+    - locus: fol. 3r
+      text: Obfuscatus per peccatum originale mentis oculus......
+    title_status: unspecified
   - label: b
     title: Introductio seu Summulae Dialecticae
     locus: fol. 8v–112r
     end_date: '1697-12-20'
     end_time_display: nach dem Mittagessen
+    colophons:
+    - text: Absolvimus hanc Dialecticam 20 Decembris post prandium Anno 1697.
+    title_status: supplied
+    title_source: cataloguer
   - label: c
     title: Logica Maior
-    locus: fol. 116–389v
+    locus: fol. 116–389
     end_date: '1698-05-28'
     end_date_display: Vorabend von Fronleichnam 1698
+    incipits:
+    - label: Quaestionum Praelegomenalium Tripartitarum Logicae Maioris (!)
+      text: 'fol. 116r: Solent communiter post summulas (!) tradere.....'
+    colophons:
+    - locus: fol. 389v
+      text: Absolvimus 28 Maii vigilia Corporis Christi 1698.
+    title_status: supplied
+    title_source: cataloguer
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -13,15 +13,26 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34–4 (XVIII 3h).
   items:
   - label: a
-    catalog_statement: 'Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio
-      Apologetica Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum
-      Patrem Dominum Gregorium Galisium Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum.
-      Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 1–226'
+    catalog_statement: 'Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica
+      Prima Domini Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium
+      Abbatem Montis Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb.
+      Benedictinus Seittenstettensis: p. 1–226'
+    title: Fabula Quod Sacrum Corpus Patriarchae S. Benedicti dormiat in Sepulchro Floriacensi denudata. Dissertatio Apologetica Prima Domini
+      Philippi Mariae Macchiarelli Benedictini Camaldulensis ad Illustrissimum, et Reverendissimum Patrem Dominum Gregorium Galisium Abbatem Montis
+      Cassini. Neapoli Typis Felicis Mosca. MDCCXIII cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis
+    locus: p. 1–226
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini
-      Philippi Macchiarelli Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem
-      Laudati et caeteros Abbates, et Monachos S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia
-      Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus Seittenstettensis: p. 241–340.'
+    catalog_statement: 'Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli
+      Benedictini Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos
+      S. Severini Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb.
+      Benedictinus Seittenstettensis: p. 241–340.'
+    title: Sancti Gregorii Magni Cultoris Regulae Patriarchae Sancti Benedicti Dissertatio Apologetica Domini Philippi Macchiarelli Benedictini
+      Camaldulensis Ad Illustrissimos, et Reverendissimos Patres Dominum Benedictum Abbatem Laudati et caeteros Abbates, et Monachos S. Severini
+      Neapoli. Neapoli Typis Felicis Mosca. MDCCXIII (1713) cum Licentia Superiorum. Ex Italico in Latinum reddidit P. Emmeramus Kolb. Benedictinus
+      Seittenstettensis
+    locus: p. 241–340
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

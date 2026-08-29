@@ -16,9 +16,22 @@ ms_contents:
   summary: Logikvorlesung Caspar Lechners, mitgeschrieben von Georg Reitter, mit eingebundenen gedruckten Thesen von 1615.
   items:
   - label: a
-    catalog_statement: '*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag. 262!'
+    catalog_statement: '*Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam* Dictatae a R. Patre Casparo
+      Lechnero Societatis Jesu. Exceptae a Georgio Reitter Wesseprunensi eiusdem facultatis studioso. M.DCXIV (1614): p. 1 - 263; vide notam pag.
+      262!'
+    title: Organum Scientiarum sive Notae Commentariae et Disputationes in universam Aristotelis logicam
+    locus: p. 1 - 263
+    title_status: unspecified
+    incipits:
+    - locus: p. 1
+      label: Prooemii
+      text: '[gestrichen] Artem aliquam docturi.....'
   - label: b
-    catalog_statement: '*Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus, Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.'
+    catalog_statement: '*Theses Philosophicae De Praedicatione*, quas in....Academia Ingolstadiensi praeside Gaspare Lechnero, S. J., Philosophiae
+      Professore Ordinario, asseret Die XVIII. Februarii [....] Joannes Christophorus Illsung Ingolstadiensis, LL. (?) et Physicae studiosus,
+      Anno MDCXV (1615). Ingolstadii, Ex Officina Typographica Ederiana, apud Elisabetham Angermayriam viduam: IV + 46 + II pagg.'
+    title: Theses Philosophicae De Praedicatione
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,34 +9,50 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 8
 ms_contents:
-  title: "Compendium Logicae"
-  title_type: "supplied"
+  title: Compendium Logicae
   items:
-  - label: "a"
-    title: "Tractatus Prolegomenalis de Logica"
-    title_type: "supplied"
-    locus: "S. 1–76"
-    note: "Titelblatt und S. 1–4 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
-  - label: "b"
-    title: "Tractatus de Universalibus"
-    locus: "S. 77–131"
-  - label: "c"
-    title: "Tractatus Dialecticus in libros Categoriarum Aristotelis"
-    locus: "S. 133–186"
-  - label: "d"
-    title: "In Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione"
-    locus: "S. 186–210"
-    end_date_display: "9. Mai 1692"
-  - label: "e"
-    title: "Compendium Logicae Ab Universalibus cum Deo ad finem usque perducendum"
-    locus: "S. 213–268"
-    end_date_display: "9. Mai 1692"
-  - label: "f"
-    title: "Compendium Totius Logicae"
-    locus: "S. 271–282"
-  - label: "g"
-    title: "Sequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum formale"
-    locus: "S. 283–287"
+  - label: a
+    title: Tractatus Prolegomenalis de Logica
+    locus: p. 1–76
+    note: Titelblatt und S. 1–4 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Tractatus de Universalibus
+    locus: p. 77–131
+    title_status: unspecified
+  - label: c
+    title: Tractatus Dialecticus in libros Categoriarum Aristotelis
+    locus: p. 133–186
+    title_status: unspecified
+  - label: d
+    title: In Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione
+    locus: p. 186–210
+    end_date_display: 9. Mai 1692
+    colophons:
+    - locus: p. 210
+      text: Die 9 Maii 1692, quo die vigilia Sanctissimi Festi Pentecostes celebrabatur.
+    title_status: unspecified
+  - label: e
+    title: Compendium Logicae Ab Universalibus cum Deo ad finem usque perducendum
+    locus: p. 213–268
+    end_date_display: 9. Mai 1692
+    colophons:
+    - locus: p. 268
+      text: Absolvimus 9 Maii ante prandium, in profesto et Vigilia Pentecostes 1692. (Ergo pars e brevius est compendium earundem lectionum,
+        quarum fusius compendium continent partes b–d.)
+    title_status: unspecified
+  - label: f
+    title: Compendium Totius Logicae
+    locus: p. 271–282
+    title_status: unspecified
+  - label: g
+    title: Sequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum
+      formale
+    locus: p. 283–287
+    title_status: unspecified
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

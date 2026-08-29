@@ -9,14 +9,15 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 298
 ms_contents:
-  title: Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758
   items:
   - label: a
     title: Fundamental-Practische Anweisung zur Rechen-Kunst Zusammengetragen 1758
     locus: fol. 1r–86v
+    title_status: unspecified
   - label: b
     title: Register Deren in disen Tractat Befindlichen Rechnungs Regl[n]
     locus: fol. 87r–88v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -9,11 +9,11 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 76
 ms_contents:
-  title: "Gott ist die reinste Liebe, mein Gebeth und meine Betrachtungen von Hofrath von Eckartshausen. Wien 1854"
   items:
-  - label: "a"
-    title: "Gott ist die reinste Liebe, mein Gebeth und meine Betrachtungen von Hofrath von Eckartshausen. Wien 1854"
-    locus: "S. 1–466, I–IV"
+  - label: a
+    title: Gott ist die reinste Liebe, mein Gebeth und meine Betrachtungen von Hofrath von Eckartshausen. Wien 1854
+    locus: p. 276
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,13 +10,12 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 K (XVIII 2m)
 ms_contents:
-  title: "Catalogus Abbatum Monasterii Seittenstetten Operâ et Studio Reverendi P. Norberti Pampichler Prioris"
   items:
-  - label: "a"
-    title: "Catalogus Abbatum Monasterii Seittenstetten Operâ et Studio Reverendi P. Norberti Pampichler Prioris"
-    locus: "S. 1–100"
-    title_source: binding
-    note: "Fortgeführt bis zum Tod Abt Dominicus 1777; ein späterer Nachtrag nennt bei Abt Ambrosius Rixner das Todesjahr 1812."
+  - label: a
+    title: Catalogus Abbatum Monasterii Seittenstetten Operâ et Studio Reverendi P. Norberti Pampichler Prioris
+    locus: p. 15
+    note: Fortgeführt bis zum Tod Abt Dominicus 1777; ein späterer Nachtrag nennt bei Abt Ambrosius Rixner das Todesjahr 1812.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

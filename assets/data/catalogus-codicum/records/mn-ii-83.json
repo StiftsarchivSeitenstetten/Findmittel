@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-83",
   "signature": "MN II 83",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "53",
   "heading": {
     "title": "Prolegomena Totius Theologiae",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1663"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Prolegomena Totius Theologiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 7–60",
+      "locus": "p. 7–60",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 7",
+          "text": "Proemium. Agit S. Doctor de Deo Uno, Trino, et Creatore Angelorum.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 7",
+        "text": "Proemium. Agit S. Doctor de Deo Uno, Trino, et Creatore Angelorum.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -64,14 +81,30 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus quinque de Deo Uno",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 61–737",
+      "locus": "p. 61–737",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 61",
+          "label": "Tractatus Primi",
+          "text": "Quia Deus est praecipuum huius scientiae subiectum....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 61",
+        "label": "Tractatus Primi",
+        "text": "Quia Deus est praecipuum huius scientiae subiectum....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -82,16 +115,45 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Ultimus De Sacro Trinitatis Mysterio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 738–860",
+      "locus": "p. 738–860",
       "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [],
+      "incipits": [
+        {
+          "locus": "p. 738",
+          "text": "Puteus quidem hic altus est....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 860",
+          "text": "10 Octobris 1663.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 738",
+        "text": "Puteus quidem hic altus est....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 860",
+        "text": "10 Octobris 1663.",
+        "id": "colophon-1"
+      },
+      "notes": [
+        {
+          "type": "notes",
+          "text": "Inscriptio dorsi: \"MS. Reverendissimi Abelzhauser"
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -185,13 +247,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 83",
     "titles": "Prolegomena Totius Theologiae \nProlegomena Totius Theologiae \nTractatus quinque de Deo Uno \nTractatus Ultimus De Sacro Trinitatis Mysterio",
-    "persons": "Benedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \n864 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80."
+    "persons": "Benedictus Abelzhauser Schreiber scribe  \nunbekannt Autor author ",
+    "incipits": "Proemium. Agit S. Doctor de Deo Uno, Trino, et Creatore Angelorum..... \nQuia Deus est praecipuum huius scientiae subiectum.... \nPuteus quidem hic altus est....",
+    "explicits": "10 Octobris 1663.",
+    "notes": "Inscriptio dorsi: \"MS. Reverendissimi Abelzhauser \nMS. Reverendissimi Abelzhauser de Deo Uno et Trino. 1663",
+    "physical": "Papier \n864 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80.",
+    "german": "864 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1663.\n\na) **Prolegomena zur gesamten Theologie:** S. 7–60. Anfang S. 7: **Vorrede. Der heilige Lehrer behandelt den einen und dreieinigen Gott sowie den Schöpfer der Engel.....**\n\nb) **(Fünf Abhandlungen über den einen Gott):** S. 61–737. Anfang der ersten Abhandlung S. 61: **Da Gott der vornehmste Gegenstand dieser Wissenschaft ist....**\n\nc) **Letzte Abhandlung über das heilige Geheimnis der Dreifaltigkeit:** S. 738–860. Anfang S. 738: **Dieser Brunnen ist freilich tief....** Schluss S. 860: **10. Oktober 1663.**\n\nRückenaufschrift: **Handschrift des hochwürdigsten Abelzhauser (zu ihm als Schreiber oben S. 51 bei Codex MN II 80!) über den einen und dreieinigen Gott. 1663.** Der Verfasser ist unbekannt.",
+    "latin": "864 pagg.; teg. a2 (ut in codice MN II 80); script. 1663\n\na) Prolegomena Totius Theologiae: p. 7–60. Initium p. 7: Proemium. Agit S. Doctor de Deo Uno, Trino, et Creatore Angelorum.....\n\nb) Tractatus (quinque de Deo Uno): p. 61–737. Initium Tractatus Primi p. 61: Quia Deus est praecipuum huius scientiae subiectum....\n\nc) Tractatus Ultimus De Sacro Trinitatis Mysterio: p. 738–860. Initium p. 738: Puteus quidem hic altus est.... Clausula p. 860: 10 Octobris 1663. Inscriptio dorsi: \"MS. Reverendissimi Abelzhauser (de quo scribente supra p. 51 ad codicem MN II 80!) de Deo Uno et Trino. 1663\" Auctor ignotus."
   }
 }

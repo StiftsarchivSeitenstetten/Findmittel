@@ -9,12 +9,13 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 306
 ms_contents:
-  title: Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden
   items:
   - label: a
-    title: Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden
+    title: Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte
+      zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden
     locus: S. 1–104
     note: Beschreibt 94 bis 1500 gedruckte und bis 1784 in Ardagger aufbewahrte Bücher.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

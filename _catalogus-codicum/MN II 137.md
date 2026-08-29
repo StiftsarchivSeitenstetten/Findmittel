@@ -13,16 +13,39 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Sacramentis in genere
-    locus: p. 5 - 406.
+    locus: p. 5 - 406
+    incipits:
+    - locus: p. 5
+      label: (Prooemii)
+      text: A Salvatore ad fontes Salvatoris digredimur.....
+    title_status: unspecified
   - label: b
     title: Tractatus secundus De Baptismo et Confirmatione
-    locus: p. 406 - 493.
+    locus: p. 406 - 493
+    incipits:
+    - locus: p. 406
+      label: Disputationis primae
+      text: Baptismus a Magistro gentium....
+    title_status: unspecified
   - label: c
     title: Tractatus De SacroSancta Eucharistia
-    locus: p. 493 - 639. I
+    locus: p. 493 - 639
+    incipits:
+    - locus: p. 494
+      text: Eucharistia idem est latiné quod bona gratia.....
+    colophons:
+    - locus: p. 639
+      text: Absolvimus Cursum nostrum Theologicum 27 die Augusti Anno reparatae salutis millesimo sexcentesimo octuagesimo primo (1681). Sub .....Patre
+        Paulo Mezger Ordinis S Benedicti Celeberrimi et antiquissimi Monasterii ad S Petrum Professo Sacrosanctae Theologiae Doctore et Professore
+        ordinario pro tempore Vice-Rectore. fuêre discipuli 22 omnes eiusdem ordinis.
+    title_status: unspecified
   - label: d
     title: Controversiae Fidei De Sacramentis
-    locus: p. 649 - 703. I
+    locus: p. 649 - 703
+    incipits:
+    - locus: p. 649
+      text: Aggrediamur de sacramentis tam in genere quam in specie......
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-286",
   "signature": "MN II 286",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "231–232",
   "heading": {
     "title": "Tractatus Theologicus De Gratia, justificatione, ac Merito",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1750/51"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Gratia, justificatione, ac Merito",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 3–130",
+      "locus": "p. 3–130",
       "language": "",
+      "incipits": [
+        {
+          "text": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia,......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia"
+        "text": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia,......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,15 +78,25 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus positivo Scholasticus De Fide, Spe, et Charitate",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 131–221",
+      "locus": "p. 131–221",
       "language": "",
+      "incipits": [
+        {
+          "text": "A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur,.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur"
+        "text": "A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur,.......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -85,15 +108,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Poenitentia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 223–322",
+      "locus": "p. 223–322",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sanctissimus Legislator noster Benedictus......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sanctissimus Legislator noster Benedictus"
+        "text": "Sanctissimus Legislator noster Benedictus......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -105,15 +138,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Duodecima De Sacramento Extremae Unctionis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 323–329",
+      "locus": "p. 323–329",
       "language": "",
+      "incipits": [
+        {
+          "text": "Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius"
+        "text": "Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -125,15 +168,25 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio decima tertia De Sacramento Ordinis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 329–339",
+      "locus": "p. 329–339",
       "language": "",
+      "incipits": [
+        {
+          "text": "Post Sacramenta, quibus homo in se ipso perficitur,.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Post Sacramenta, quibus homo in se ipso perficitur"
+        "text": "Post Sacramenta, quibus homo in se ipso perficitur,.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -145,15 +198,25 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio decima quarta. De Sponsalibus",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 339–363",
+      "locus": "p. 339–363",
       "language": "",
+      "incipits": [
+        {
+          "text": "Matrimonii praeambulum sunt Sponsalia.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Matrimonii praeambulum sunt Sponsalia"
+        "text": "Matrimonii praeambulum sunt Sponsalia.....",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -165,15 +228,27 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio decima quinta et Ultima De Matrimonio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 363–386",
+      "locus": "p. 363–386",
       "language": "",
+      "incipits": [
+        {
+          "text": "Ponendum primò: quod matrimonium sit......",
+          "label": "Articuli primi De Essentia, et obiecto matrimonii, tanquam contractus Civilis",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Ponendum primò: quod matrimonium sit"
+        "text": "Ponendum primò: quod matrimonium sit......",
+        "label": "Articuli primi De Essentia, et obiecto matrimonii, tanquam contractus Civilis",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -290,13 +365,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 286",
     "titles": "Tractatus Theologicus De Gratia, justificatione, ac Merito \nTractatus Theologicus De Gratia, justificatione, ac Merito \nTractatus positivo Scholasticus De Fide, Spe, et Charitate \nTractatus Theologicus De Poenitentia \nDisputatio Duodecima De Sacramento Extremae Unctionis \nDisputatio decima tertia De Sacramento Ordinis \nDisputatio decima quarta. De Sponsalibus \nDisputatio decima quinta et Ultima De Matrimonio",
-    "persons": "P. Benedictus Veit Dozent lecturer \nP. Bernardus Prevenhueber Dozent lecturer \nunbekannt Schreiber scribe",
-    "incipits": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia \nA gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur \nSanctissimus Legislator noster Benedictus \nPoenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius \nPost Sacramenta, quibus homo in se ipso perficitur \nMatrimonii praeambulum sunt Sponsalia \nPonendum primò: quod matrimonium sit",
+    "persons": "P. Benedictus Veit Dozent lecturer Stift Seitenstetten \nP. Bernardus Prevenhueber Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe ",
+    "incipits": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia,...... \nA gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur,....... \nSanctissimus Legislator noster Benedictus...... \nPoenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius..... \nPost Sacramenta, quibus homo in se ipso perficitur,..... \nMatrimonii praeambulum sunt Sponsalia..... \nPonendum primò: quod matrimonium sit......",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n392 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n392 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "392 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken sowie weißem Rücken; geschrieben 1750/51.\n\na) **Theologische Abhandlung über Gnade, Rechtfertigung und Verdienst:** S. 3–130. Anfang: Eine dem Besitzer überaus liebliche, dem Forscher aber umso schwierigere Materie bietet sich hier dar,......\n\nb) **Scholastisch-positive Abhandlung über Glaube, Hoffnung und Liebe:** S. 131–221. Anfang: Von der Gnade als Mutter schreiten wir mit dem heiligen Lehrer zu den Tugenden als Töchtern fort,.......\n\nc) **Theologische Abhandlung über die Buße:** S. 223–322. Anfang: Unser heiligster Gesetzgeber Benedikt......\n\nd) **Zwölfte Disputation über das Sakrament der Letzten Ölung:** S. 323–329. Anfang: Die Letzte Ölung ist hinsichtlich ihrer Wirkung der Buße sehr ähnlich, und nach dem hl. Lehrer ihre Vollendung.....\n\ne) **Dreizehnte Disputation über das Sakrament der Weihe:** S. 329–339. Anfang: Nach den Sakramenten, durch die der Mensch in sich selbst vervollkommnet wird,.....\n\nf) **Vierzehnte Disputation über die Verlöbnisse:** S. 339–363. Anfang: Die Verlöbnisse sind die Vorbereitung auf die Ehe.....\n\ng) **Fünfzehnte und letzte Disputation über die Ehe:** S. 363–386. Anfang des ersten Artikels über Wesen und Gegenstand der Ehe als bürgerlichen Vertrag: Zunächst ist festzuhalten, dass die Ehe......\n\nDer Schreiber dieses Codex, der auch den folgenden schrieb, ist unbekannt. Verfasser der Teile a und b ist **P. Benedictus Veit**, Seitenstettner Mönch, der diese beiden Abhandlungen im Studienjahr 1750/51 im Seitenstettner Hausstudium hielt; dies zeigt MN II 278. Die Teile c–g hielt **P. Bernardus Prevenhueber (Brevenhueber)** im selben Studienjahr, wie MN II 279 mit denselben Abhandlungen über die vier letzten Sakramente zeigt.\n\nZu beachten ist, dass die kurze Einführung in die scholastisch-positive Theologie, die MN II 278a enthält, in unserem Codex fehlt.",
+    "latin": "392 pagg.; teg. c3d (cum dorso albo); script. 1750/51\n\na) Tractatus Theologicus De Gratia, justificatione, ac Merito: p. 3–130.  \nInitium: Suavissima possidenti, sed magis ardua investiganti se hic offert materia,......\n\nb) Tractatus positivo Scholasticus De Fide, Spe, et Charitate: p. 131–221.  \nInitium: A gratia velut Matre ad virtutes tanquam filias cum S. Doctore progredimur,.......\n\nc) Tractatus Theologicus De Poenitentia: p. 223–322.  \nInitium: Sanctissimus Legislator noster Benedictus......\n\nd) Disputatio Duodecima De Sacramento Extremae Unctionis: p. 323–329.  \nInitium: Poenitentiae quoad simillima effectum (!), et juxta S. Doctorem consummatio illius.....\n\ne) Disputatio decima tertia De Sacramento Ordinis: p. 329–339.  \nInitium: Post Sacramenta, quibus homo in se ipso perficitur,.....\n\nf) Disputatio decima quarta. De Sponsalibus: p. 339–363.  \nInitium: Matrimonii praeambulum sunt Sponsalia.....\n\ng) Disputatio decima quinta et Ultima De Matrimonio: p. 363–386.  \nInitium Articuli primi De Essentia, et obiecto matrimonii, tanquam contractus Civilis: Ponendum primò: quod matrimonium sit......\n\n\n\n\nScriptor huius codicis, qui etiam sequentem codicem exaravit, ignotus. Auctor autem partium a et b est **P. Benedictus Veit**, monachus Seitenstettensis, quem duos istos tractatus anno scholari 1750/51 in cursu domestico Seitenstettensi tradidisse supra p. 227 ad codicem MN II 278 eosdem tractatus continentem ostendimus. Partes autem c–g **P. Bernardum Prevenhueber (Brevenhueber)** eodem anno scholari praelegisse codex MN II 279 demonstrat, eosdem tractatus de quatuor ultimis sacramentis cum contineat.\n\nNotandum vero partem a codicis MN II 278 (supra p. 227), dico introductionem brevem In Theologiam Scholastico Positivam, in codice nostro deesse."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-319",
   "signature": "MN II 319",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "23–24",
   "heading": {
     "title": "Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1640"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1r–189v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -146,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-319/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 319",
     "titles": "Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640 \nArtzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640",
-    "persons": "Susanna Maria Weissenberger, geb. Velsperger (?) Besitzer owner \nunbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "Susanna Maria Weissenberger, geb. Velsperger (?) Besitzer owner  \nunbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n189 foll. \ndescription: Umschlag aus einem handschriftlich beschriebenen Pergamentblatt; Datierung siehe Katalogtext."
+    "physical": "Papier \n189 foll. \ndescription: Umschlag aus einem handschriftlich beschriebenen Pergamentblatt; Datierung siehe Katalogtext.",
+    "german": "189 Blätter; Einband aus einem mit Musiknoten beschriebenen Pergamentblatt, durch langen Gebrauch stark abgenutzt; geschrieben 1640.\n\n*Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640.*\n\nAuf dem Vorderdeckel ist ein Zettel befestigt mit der Notiz: **Geschenk des Herrn Pilsinger Gastwirt in Allhartsberg. 5. XI. 1907. P. Anselm Salzer.**\n\nP. Anselm Salzer war damals Bibliothekar.",
+    "latin": "189 foll.; teg. e folio membranaceo modis musicis inscripto, sed usu longa[e]vo aegerrime attrito; script. 1640\n\n*Artzeney biechel So alles gerrecht und bewerth ist, waß hirinen beschrieben Mein Susanna Maria Weissenbergerin geborne Velspergerin (?) gehörig. Steyr den 12 Januarii 640.* Priori parti tegumenti affixa est scheda, quae haec indicat: Geschenk des Herrn Pilsinger Gastwirt in Allhartsberg. 5. XI. 1907. P. Anselm Salzer (tunc temporis bibliothecarius!)"
   }
 }

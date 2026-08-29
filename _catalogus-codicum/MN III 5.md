@@ -10,76 +10,103 @@ ms_identifier:
   idno: MN III 5
 ms_contents:
   items:
-  - label: "a"
-    title: "Politicae gnomae"
-    locus: "S. 13–19"
-    note: "65 sententiae."
-  - label: "b"
-    title: "Morales gnomae"
-    locus: "S. 47–55"
-    note: "69 sententiae mit Anhang S. 55."
-  - label: "c"
-    title: "Panegyricus Ennodii et Plinii"
-    title_type: "supplied"
-    locus: "S. 79–115"
-    note: "Zusammenfassende strukturierte Inhaltsbezeichnung; der Katalog nennt „Panegyricus Ennodii“ S. 79–88 und „Plinii“ S. 88–114; 175 sententiae mit Anhang S. 115."
-    end_date_display: "9. November 1667"
-  - label: "d"
-    title: "Ex Plauti Amphitruone"
-    locus: "S. 143–145"
-    note: "13 sententiae."
-  - label: "e.1"
-    title: "Exempla è Talione Stengelii"
-    locus: "S. 173–177"
-  - label: "e.2"
-    title: "Ex Stengelio De Fame"
-    locus: "S. 178"
-  - label: "e.3"
-    title: "Vis et Virtus Exemplorum Stengelii"
-    locus: "S. 179–181"
-  - label: "e.4"
-    title: "De poenitentia Eiusdem"
-    locus: "S. 181–182"
-  - label: "e.5"
-    title: "De Casu et fortuna Eiusdem"
-    locus: "S. 183–186"
-  - label: "e.6"
-    title: "De sortibus Eiusdem"
-    locus: "S. 187–190"
-  - label: "e.7"
-    title: "Croesus et Irus eiusdem"
-    locus: "S. 190–193"
-    note: "Der Katalogbearbeiter konnte dieses Werk nicht nachweisen und verweist auf „Croesus et Codrus“."
-  - label: "e.8"
-    title: "Ex eiusdem De Honore"
-    locus: "S. 194–198"
-  - label: "e.9"
-    title: "Mundus et eius partes Eiusdem"
-    locus: "S. 198–201"
-  - label: "e.10"
-    title: "Matrimonia fausta et infausta Eiusdem"
-    locus: "S. 201–206"
-  - label: "e.11"
-    title: "De Monstris et Monstrosis"
-    locus: "S. 207–210"
-  - label: "e.12"
-    title: "Spes & fiducia Eiusdem"
-    locus: "S. 211–215"
-  - label: "e.13"
-    title: "Ex Ruinard"
-    locus: "S. 215–217"
-  - label: "e.14"
-    title: "Ex Libro Historiarum"
-    locus: "S. 217–220"
-  - label: "e.15"
-    title: "Mercurius Histor(icus) (aut Historiarum?)"
-    title_type: "supplied"
-    locus: "S. 220–255"
-    note: "Die Auflösung „icus“ und die Alternative „aut Historiarum?“ stehen im Katalogtext in runden Klammern und sind editorisch ergänzt; 287 exempla insgesamt für Teil e."
-  - label: "f"
-    title: "Fabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem"
-    locus: "S. 269–270"
-    note: "10 fabulae."
+  - label: a
+    title: Politicae gnomae
+    locus: p. 13–19
+    note: 65 sententiae.
+    title_status: unspecified
+  - label: b
+    title: Morales gnomae
+    locus: p. 47–54
+    note: 69 sententiae mit Anhang S. 55.
+    title_status: unspecified
+  - label: c
+    note: 175 sententiae cum appendice p. 115.
+    subitems:
+    - label: c.1
+      title: Panegyricus Ennodii
+      locus: p. 79–88
+      title_status: unspecified
+    - label: c.2
+      title: Plinii
+      locus: p. 88–114
+      title_status: unspecified
+      colophons:
+      - locus: p. 114
+        text: Finis Panegyrici. 9. Novembris Anno 1667.
+  - label: d
+    title: Ex Plauti Amphitruone
+    locus: p. 143–145
+    note: 13 sententiae.
+    title_status: unspecified
+  - label: e.1
+    title: Exempla è Talione Stengelii
+    locus: p. 173–177
+    title_status: unspecified
+  - label: e.2
+    title: Ex Stengelio De Fame
+    locus: p. 178), Vi
+    title_status: unspecified
+  - label: e.3
+    title: Vis et Virtus Exemplorum Stengelii
+    locus: p. 179–181), D
+    title_status: unspecified
+  - label: e.4
+    title: De poenitentia Eiusdem
+    locus: p. 181–182), D
+    title_status: unspecified
+  - label: e.5
+    title: De Casu et fortuna Eiusdem
+    locus: p. 183–186), D
+    title_status: unspecified
+  - label: e.6
+    title: De sortibus Eiusdem
+    locus: p. 187–190), Cr
+    title_status: unspecified
+  - label: e.7
+    title: Croesus et Irus eiusdem
+    locus: p. 190–193
+    note: Der Katalogbearbeiter konnte dieses Werk nicht nachweisen und verweist auf „Croesus et Codrus“.
+    title_status: unspecified
+  - label: e.8
+    title: Ex eiusdem De Honore
+    locus: p. 194–198), M
+    title_status: unspecified
+  - label: e.9
+    title: Mundus et eius partes Eiusdem
+    locus: p. 198–201), M
+    title_status: unspecified
+  - label: e.10
+    title: Matrimonia fausta et infausta Eiusdem
+    locus: p. 201–206), D
+    title_status: unspecified
+  - label: e.11
+    title: De Monstris et Monstrosis
+    locus: p. 207–210
+    title_status: unspecified
+  - label: e.12
+    title: Spes & fiducia Eiusdem
+    locus: p. 211–215
+    title_status: unspecified
+  - label: e.13
+    title: Ex Ruinard
+    locus: p. 215–217
+    title_status: unspecified
+  - label: e.14
+    title: Ex Libro Historiarum
+    locus: p. 217–220), M
+    title_status: unspecified
+  - label: e.15
+    title: Mercurius Histor(icus) (aut Historiarum?)
+    locus: p. 220–255
+    note: Die Auflösung „icus“ und die Alternative „aut Historiarum?“ stehen im Katalogtext in runden Klammern und sind editorisch ergänzt; 287
+      exempla insgesamt für Teil e.
+    title_status: unspecified
+  - label: f
+    title: Fabulae, et Apologi Ex Talione Stengelii, De Virtute exemplorum, Croesus et Irus Eiusdem
+    locus: p. 269–270
+    note: 10 fabulae.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-19",
   "signature": "MN II 19",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "18–19",
   "heading": {
     "title": "Tractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1635"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Mehrere theologische Abhandlungen zu Gelübde, Eid, Kirchenrecht, menschlichen Handlungen, Verdienst und Sakramenten.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "label": "Praefationis",
+          "text": "Justitiae officium est alterius debitum reddere.... Auctor et scriptor ignoti.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "label": "Praefationis",
+        "text": "Justitiae officium est alterius debitum reddere.... Auctor et scriptor ignoti.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,15 +88,41 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus de Actibus Humanis: 220 pagg. (= 295 - 514)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Actibus Humanis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "tractationis",
+          "text": "Theologia universè est doctrina de Deo....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 220",
+          "label": "huius tractatus",
+          "text": "Finis datus Septembris die decimo ...1635.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "tractationis",
+        "text": "Theologia universè est doctrina de Deo....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 220",
+        "label": "huius tractatus",
+        "text": "Finis datus Septembris die decimo ...1635.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -92,15 +137,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Meritis bonorum operum contra Haereticos: p. 225 - 274 (= p. 520 - 569). Initium Prooemii: Quo modo ex Dei gratia et libero arbitrio bona operantur.... Clausula p. 274: ....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Meritis bonorum operum contra Haereticos",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 225 - 274",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "Quo modo ex Dei gratia et libero arbitrio bona operantur....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 274",
+          "text": "....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "Quo modo ex Dei gratia et libero arbitrio bona operantur....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 274",
+        "text": "....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -115,14 +184,28 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Sacramentis novae legis contra Haereticos: p. 275 - 407 (= p. 570 - 702). Initium Prooemii: De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Sacramentis novae legis contra Haereticos",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 275 - 407",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Prooemii",
+          "text": "De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti.",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Prooemii",
+        "text": "De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti.",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -209,13 +292,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-19/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 19",
-    "titles": "Tractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282 \nTractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282 \nTractatus de Actibus Humanis: 220 pagg. (= 295 - 514) \nTractatus De Meritis bonorum operum contra Haereticos: p. 225 - 274 (= p. 520 - 569). Initium Prooemii: Quo modo ex Dei gratia et libero arbitrio bona operantur.... Clausula p. 274: ....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit. \nTractatus De Sacramentis novae legis contra Haereticos: p. 275 - 407 (= p. 570 - 702). Initium Prooemii: De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti.",
-    "persons": "unbekannt authors authors \nunbekannt Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Tractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282 \nTractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282 \nTractatus de Actibus Humanis \nTractatus De Meritis bonorum operum contra Haereticos \nTractatus De Sacramentis novae legis contra Haereticos",
+    "persons": "unbekannt authors authors  \nunbekannt Schreiber scribe ",
+    "incipits": "Justitiae officium est alterius debitum reddere.... Auctor et scriptor ignoti. \nTheologia universè est doctrina de Deo.... \nQuo modo ex Dei gratia et libero arbitrio bona operantur.... \nDe Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti.",
+    "explicits": "Finis datus Septembris die decimo ...1635. \n....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit.",
     "notes": "Mehrere theologische Abhandlungen zu Gelübde, Eid, Kirchenrecht, menschlichen Handlungen, Verdienst und Sakramenten. \nTractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282 \nTractatus de Actibus Humanis: 220 pagg. (= 295 - 514) \nTractatus De Meritis bonorum operum contra Haereticos: p. 225 - 274 (= p. 520 - 569). Initium Prooemii: Quo modo ex Dei gratia et libero arbitrio bona operantur.... Clausula p. 274: ....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit. \nTractatus De Sacramentis novae legis contra Haereticos: p. 275 - 407 (= p. 570 - 702). Initium Prooemii: De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti. \nTeil c blieb wegen schwerer Erkrankung des Professors unvollendet.",
-    "physical": "Papier \n706 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \n706 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "294 + 412 = 706 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1635.\n\n**a) Drei Abhandlungen über Gelübde, Eid und Kirchenrecht:** S. 1–282.\n\nAnfang der Vorrede S. 1: **Aufgabe der Gerechtigkeit ist es, dem anderen das Geschuldete zu geben....** Verfasser und Schreiber unbekannt.\n\nS. 283–294 leer.\n\n**b) Abhandlung über menschliche Handlungen:** 220 Seiten (= S. 295–514).\n\nAnfang der Abhandlung: **Theologie im Allgemeinen ist die Lehre von Gott....**\n\nKapitel VI dieser Abhandlung behandelt die Gesetze: S. 153 ff. Schlussvermerk S. 220: **Ende, gesetzt am 10. September ...1635.**\n\n**c) Abhandlung über die Verdienste guter Werke gegen die Häretiker:** S. 225–274 (= S. 520–569). Anfang der Vorrede: **Auf welche Weise aus Gottes Gnade und freiem Willen gute Werke gewirkt werden....** Schluss S. 274: **....dies wurde hier deshalb nicht vollendet, weil der Professor in eine schwere Krankheit fiel und daher gehindert war, es abzuschließen.**\n\n**d) Abhandlung über die Sakramente des Neuen Gesetzes gegen die Häretiker:** S. 275–407 (= S. 570–702). Anfang der Vorrede: **Über Natur, Zahl und Materie der Sakramente.......** Verfasser (oder Verfasser?) und Schreiber aller Teile sind unbekannt.",
+    "latin": "294 + 412 = 706 pagg.; teg. a2; script. 1635\n\na) Tractatus Tres De Voto, Juramento, et Juris Canonici: pag. 1 - 282\n\nInitium Praefationis p. 1: Justitiae officium est alterius debitum reddere.... Auctor et scriptor ignoti.\n\nPagg. 283 - 294 vacuae.\n\nb) Tractatus de Actibus Humanis: 220 pagg. (= 295 - 514)\n\nInitium tractationis: Theologia universè est doctrina de Deo....\n\nCaput VI huius tractatus agit de Legibus: p. 153 seqq. Clausula huius tractatus p. 220: Finis datus Septembris die decimo ...1635.\n\n\n\n\nc) Tractatus De Meritis bonorum operum contra Haereticos: p. 225 - 274 (= p. 520 - 569). Initium Prooemii: Quo modo ex Dei gratia et libero arbitrio bona operantur.... Clausula p. 274: ....hic ideo non fuit completa quia professor in gravem aegritudinem lapsus, ideoque impeditus absolvere non potuit.\n\nd) Tractatus De Sacramentis novae legis contra Haereticos: p. 275 - 407 (= p. 570 - 702). Initium Prooemii: De Sacramentorum natura, numero, materia....... Auctor (vel Auctores) et scriptor omnium partium ignoti."
   }
 }

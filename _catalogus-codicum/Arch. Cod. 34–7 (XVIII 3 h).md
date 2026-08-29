@@ -10,13 +10,21 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–7 (XVIII 3 h)
 ms_contents:
-  title: "Tractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione, et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti in Beatae Virginis Monasterio Seittenstettensi Professo. 1700."
   items:
-  - label: "a"
-    title: "Tractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione, et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti in Beatae Virginis Monasterio Seittenstettensi Professo. 1700."
-    locus: "S. 1–491"
-    incipit: "Postquam Sanctus Doctor altissimum Incarnationis Mysterium......"
-    explicit: "Die 31 Augusti 1701."
+  - label: a
+    title: Tractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione,
+      et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi
+      Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti
+      in Beatae Virginis Monasterio Seittenstettensi Professo. 1700.
+    locus: p. 1
+    incipits:
+    - text: Postquam Sanctus Doctor altissimum Incarnationis Mysterium......
+      locus: p. 1
+      label: Proloquii
+    colophons:
+    - locus: p. 491
+      text: Die 31 Augusti 1701.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

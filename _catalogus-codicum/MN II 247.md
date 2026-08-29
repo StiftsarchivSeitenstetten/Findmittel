@@ -13,11 +13,17 @@ ms_contents:
   items:
   - label: a
     title: Tractatus De Mysterio Incarnationis
-    locus: S. 7–298
-    incipit: Admirandum verbi incarnati verbi mysterium
+    locus: p. 7
+    incipits:
+    - text: Admirandum verbi incarnati verbi mysterium
+    - label: Tractatus De Mysterio Incarnationis
+      text: 'p. 7: Admirandum verbi incarnati verbi mysterium......'
+    title_status: unspecified
   - label: b
     title: Quaedam notata circa Incarnationem
-    locus: S. 299–302
+    locus: p. 299–302
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

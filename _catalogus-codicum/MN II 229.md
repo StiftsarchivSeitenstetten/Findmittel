@@ -12,19 +12,35 @@ ms_contents:
   items:
   - label: a
     title: Philosophia Naturalis Aristotelico-Thomistica
-    locus: fol. 5r–442v
+    locus: fol. 5r
     start_date: '1706-07-16'
     end_date: '1707-07-13'
     end_time_display: nach dem Mittagessen gegen halb drei
+    incipits:
+    - locus: fol. 5r
+      label: Proloquii In Physicam Aristotelico-Thomisticam
+      text: Physicam divisit Aristoteles in 2 partes.....
+    colophons:
+    - locus: fol. 442v
+      text: Absolvimus universam Physicam die 13 Julii 1707. post prandium circa mediam tertiam.
+    title_status: unspecified
   - label: b
     title: Metaphysica Seu Tractatus in 14 Libros Transnaturales Aristotelis
-    locus: fol. 443r–466v
+    locus: fol. 443r
     start_date: '1707-07-13'
     end_date: '1707-07-23'
     note: Im Jahr 1707 gab es 122 Metaphysiker.
+    incipits:
+    - label: Disputationis XII. In 14 Libros Metaphysicae Aristotelis
+      text: 'fol. 443v: Metaphysica Scientia Transnaturalis est, ......'
+    colophons:
+    - locus: fol. 466v
+      text: absolvimus universam Philosophiam 23 Julii anno Domini 1707. Metaphysici fuerant hoc anno centum et viginti duo.
+    title_status: unspecified
   - label: c
     title: Index Conclusionum
     locus: fol. 467v–468v
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

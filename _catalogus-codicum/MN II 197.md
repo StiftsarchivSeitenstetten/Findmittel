@@ -12,22 +12,44 @@ ms_contents:
   items:
   - label: a
     title: Summulae Sive Introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis
-    locus: fol. 4–100r (=S. 7–199)
+    locus: fol. 4–100
     end_date: '1695-12-16'
     end_time_display: vor dem Mittagessen, kurz vor dem dritten Viertel zur Non
     certainty: probable
     note: Die Jahreszahl könnte flüchtig als 1694 gelesen werden; der Freitag, 16. Dezember, spricht nach dem Katalog für 1695.
+    incipits:
+    - locus: fol. 4r
+      text: Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata....
+    colophons:
+    - locus: fol. 100r
+      text: Finitae hae summulae Anno 1695 die 16 Decembris die Veneris ante prandium nonnihil ante tertium quadrantem ad Nonam.
+    title_status: unspecified
+    notes:
+    - (Forsitan numerum anni minus diligenter scriptum praecipue „1694“ legas, sed 16. Decembris anno 1695 erat dies Veneris.)
   - label: b
     title: Logica Aristotelico Thomistica per usitatas hoc tempore quaestiones exposita
-    locus: S. 1–200 (=201–400) + S. 1–645 (=401–1045)
+    locus: p. 1–200
     end_date: '1696-05-26'
     subitems:
     - title: Disputatio prima
       locus: S. 1–200 (=201–400)
       end_date: '1696-01-28'
       end_time_display: kurz vor dem dritten Viertel zur Non
+      title_status: unspecified
     - title: Disputationes secunda et tertia
       locus: S. 1–645 (=401–1045)
+      title_status: unspecified
+    incipits:
+    - label: Proemii
+      text: Quae hucusque dicta sunt, non incongrue appellari possunt......
+    colophons:
+    - label: Disputationis I
+      text: finivimus 28 Januarii die Sabbati ante tertium quadrantem ad nonam in Festo translato S. Pauli Eremitae.
+    - locus: p. 645
+      label: totius Logicae
+      text: Absolvimus 1696. 26 Maii. in Festo Divi Bedae Doctoris et Confessoris. Dum reliquiae immitterentur in fossam Reverendissimo Abbate
+        ad S. Petrum, cuius officio, quod
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

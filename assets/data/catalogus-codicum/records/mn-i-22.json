@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-i-22",
   "signature": "MN I 22",
   "aliases": [
@@ -36,6 +36,9 @@
     "summary": "",
     "language": "la",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -47,13 +50,17 @@
       "id": "item-1",
       "label": "1",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Significationes vocum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 1–167",
+      "locus": "p. 1–167",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -70,13 +77,17 @@
       "id": "item-2",
       "label": "2",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 171–222",
+      "locus": "p. 171–222",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -93,13 +104,17 @@
       "id": "item-3",
       "label": "3",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De usu et constructione articuli, nominis, adiectivi, verbi",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 223–245",
+      "locus": "p. 223–245",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -196,13 +211,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-22/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN I 22",
     "titles": "Lexicon Novi Testamenti Graeco-Latinum \nSignificationes vocum \nUsus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum \nDe usu et constructione articuli, nominis, adiectivi, verbi",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "la \nBedeutungen der Wörter \nGebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln \nÜber Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs \nVerfasser und Schreiber sind vollständig unbekannt. \nDie kalligraphische Ausführung erschwert nach Aussage des Katalogbearbeiters eine genauere paläographische Datierung.",
-    "physical": "Papier \n250 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "physical": "Papier \n250 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "Großquartformat; 250 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1850 (?).\n\n**(Griechisch-lateinisches Lexikon des Neuen Testaments)**\n\na) (Bedeutungen der Wörter): S. 1–167\n\nb) (Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln): S. 171–222\n\nc) (Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs): S. 223–245\n\nWer dieses arbeitsaufwendige Werk zusammengestellt und geschrieben hat, ist völlig unbekannt; da es kalligraphisch geschrieben ist, ist auch schwer zu sagen, wann es geschrieben wurde. Sicher ist jedoch, dass unser Codex nach 1821 geschrieben wurde, weil an vielen Stellen Winers *Grammatik des Neuen Testaments* angeführt wird, die 1821 erstmals erschien. Aufgrund der Schrift vermute ich jedoch, dass unser Codex kaum vor 1850 geschrieben wurde.",
+    "latin": "4° mai.; 250 pagg.; teg. c2d; scriptus ca. 1850 (?)\n\n**(Lexicon Novi Testamenti Graeco-Latinum)**\n\na) (significationes vocum): p. 1–167\n\nb) (usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum): p. 171–222\n\nc) (de usu et constructione articuli, nominis, adiectivi, verbi): p. 223–245\n\nQuis hoc opus laboriosum composuerit scripseritque, omnino ignotum est, et cum calligraphice scriptum sit, etiam quando scriptum sit, difficile dictu est. At certum est, post annum 1821 scriptum esse codicem nostrum, quia multis locis Winer, *Grammatica in Novum Testamentum*, laudatur, quae anno 1821 primum in lucem evenit. Sed propter scripturam coniicio, codicem nostrum vix ante 1850 scriptum esse."
   }
 }

@@ -9,13 +9,19 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 215
 ms_contents:
-  title: Commentarius In Organum sive Logicam Aristotelis
   items:
   - label: a
     title: Commentarius In Organum sive Logicam Aristotelis
-    locus: S. 3–499
+    locus: p. 3
     end_date: '1702-06-03'
     end_date_display: Vorabend von Pfingsten 1702
+    incipits:
+    - locus: p. 3
+      text: Proloquium Permultos esse intelligo,.....
+    title_status: unspecified
+    colophons:
+    - locus: p. 499
+      text: In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.
 phys_desc:
   object_form: codex
   support: Papier

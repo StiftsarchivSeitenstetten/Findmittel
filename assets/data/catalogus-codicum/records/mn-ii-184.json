@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-184",
   "signature": "MN II 184",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "139",
   "heading": {
     "title": "Continuatio Commentarii in octo libros Physicorum",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "ca. 1692"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Continuatio Commentarii in octo libros Physicorum",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 13–324",
+      "locus": "p. 13–324",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,14 +75,26 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus secundus De Mundo",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 321–411",
+      "locus": "p. 321–411",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "text": "Physica Aristotelis potest dividi in universalem et particularem, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "text": "Physica Aristotelis potest dividi in universalem et particularem, ......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [],
       "dates": [],
@@ -187,13 +206,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 184",
     "titles": "Continuatio Commentarii in octo libros Physicorum \nContinuatio Commentarii in octo libros Physicorum \nTractatus secundus De Mundo",
-    "persons": "P. Ludovicus Babenstuber author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
-    "incipits": "",
+    "persons": "P. Ludovicus Babenstuber author or lecturer author_or_lecturer Kloster Ettal / Universität Salzburg \nunbekannt Schreiber scribe ",
+    "incipits": "Physica Aristotelis potest dividi in universalem et particularem, ......",
     "explicits": "",
-    "notes": "Fortsetzung des in MN II 183 enthaltenen ersten Teils.",
-    "physical": "Papier \n446 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "notes": "Fortsetzung des in MN II 183 enthaltenen ersten Teils. \nPars Secunda Physices. De Mundo et Caelis. R: P L: B.",
+    "physical": "Papier \n446 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1692.\n\na) **Fortsetzung des Kommentars zu den acht Büchern der Physik:** S. 13–324. Den ersten Teil enthält MN II 183.\n\nb) **Zweite Abhandlung über die Welt:** S. 321–411. Anfang: Die Physik des Aristoteles kann in eine allgemeine und eine besondere eingeteilt werden.....\n\nDie stark verblichene Rückenaufschrift ist ungefähr zu lesen: **Pars Secunda Physices. De Mundo et Caelis. R: P L: B.** Wie bei MN II 183 erläutert, bezeichnen die Initialen P. Ludovicus Babenstuber, den berühmten Ettaler Mönch und Salzburger Professor. Er ist daher auch Verfasser dieses Codex, der nichts anderes als die Fortsetzung des vorhergehenden Codex darstellt.\n\nDer Codex wurde von demselben unbekannten Schreiber geschrieben, der auch den größten Teil von MN II 183 ausführte. Entstehungszeit ist ebenfalls ungefähr 1692.",
+    "latin": "446 pagg.; teg. a1; script. ca. 1692\n\na) (Continuatio Commentarii in 8 libros Physicorum): p. 13–324 (Partem priorem huius commentarii continet codex praecedens MN II 183, quem modo pag. 138 tractavimus.)\n\nb) Tractatus secundus: de Mundo: p. 321–411. Initium: Physica Aristotelis potest dividi in universalem et particularem, ......\n\nInscriptio dorsi luridissima ita fere legenda est: Pars Secunda Physices. De Mundo et Caelis. R: P L: B. Quid istae litterae initiales significarent, supra p. 138 ad codicem MN II 183 disseruimus. Est igitur P. Ludovicus Babenstuber, celeberrimus monachus Ettalensis et Professor Salisburgensis, etiam huius codicis auctor. Et profecto codex noster nihil aliud est quam continuatio istius codicis. Quid mirum, quod ab eodem scriptus est, qui maximam partem codicis MN II 183 exaravit? At persona scriptoris ignota. Tempus vero, quo ortus est codex noster, idem est atque codicis praecedentis (circa annum 1692)."
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-303",
   "signature": "MN II 303",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "254–255",
   "heading": {
     "title": "Proemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1775"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Proemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–82",
+      "locus": "p. 1–82",
       "language": "",
+      "incipits": [
+        {
+          "text": "Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat"
+        "text": "Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat, ......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,13 +78,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Exercitationes Dialecticae In Prolegomena Exegetica",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 83–155",
+      "locus": "p. 83–155",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -83,15 +100,25 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Generalis",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 157–374",
+      "locus": "p. 157–374",
       "language": "",
+      "incipits": [
+        {
+          "text": "Prima cogitationis, seu mentis operationis Species, quam Logica considerat",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Prima cogitationis, seu mentis operationis Species, quam Logica considerat"
+        "text": "Prima cogitationis, seu mentis operationis Species, quam Logica considerat",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -108,15 +135,25 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Logica Specialis",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 375–427",
+      "locus": "p. 375–427",
       "language": "",
+      "incipits": [
+        {
+          "text": "Hucusque in Logica Generali ea pertracta sunt, ......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Hucusque in Logica Generali ea pertracta sunt"
+        "text": "Hucusque in Logica Generali ea pertracta sunt, ......",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -197,13 +234,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-303/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 303",
     "titles": "Proemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam \nProemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam \nExercitationes Dialecticae In Prolegomena Exegetica \nLogica Generalis \nLogica Specialis",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
-    "incipits": "Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat \nPrima cogitationis, seu mentis operationis Species, quam Logica considerat \nHucusque in Logica Generali ea pertracta sunt",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
+    "incipits": "Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat, ...... \nPrima cogitationis, seu mentis operationis Species, quam Logica considerat \nHucusque in Logica Generali ea pertracta sunt, ......",
     "explicits": "",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.",
-    "physical": "Papier \n436 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n436 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "436 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1775.\n\na) **Vorrede zur gesamten Philosophie, sowohl zur exegetischen als auch zur dialektischen:** S. 1–82. Anfang: Wer seine Mühe im Studium der Philosophie mit Nutzen einsetzen möchte,......\n\nb) **Dialektische Übungen zu den exegetischen Prolegomena:** S. 83–155.\n\nc) **(Allgemeine Logik):** S. 157–374. Anfang des ersten Teiles der allgemeinen Logik **Über die erste Tätigkeit des Geistes oder über Begriffe und Ideen:** Die erste Art des Denkens oder der Tätigkeit des Geistes, welche die Logik betrachtet,.....\n\nd) **Spezielle Logik:** S. 375–427. Anfang: Bis hierher wurde in der allgemeinen Logik behandelt,......\n\nWeder Verfasser noch Schreiber noch das genaue Entstehungsjahr sind bekannt. Wegen der ungewöhnlichen Einbandform, die jener des folgenden, 1776 geschriebenen Codex sehr ähnlich ist, nimmt der Katalogbearbeiter eine Entstehung um 1775 an. Dafür spricht auch, dass auf S. 24 Wolffs Definition der Philosophie gelobt wird und S. 25 Leibniz, Wolff und Newton als Vertreter der vorausgehenden Epoche bezeichnet werden.",
+    "latin": "436 pagg.; teg. a2; script. ca. 1775\n\na) Proemium In Universam Philosophiam Tum Exegeticam, tum Dialecticam: p. 1–82.  \nInitium: Quisquis in Philosophiae Studio laborem suum utiliter collocare desiderat, ......\n\nb) Exercitationes Dialecticae In Prolegomena Exegetica: p. 83–155.\n\n\n\n\nc) (Logica Generalis): p. 157–374.  \nInitium Partis I. Logicae generalis. De Prima mentis operatione, seu de notionibus, et Ideis. Prima cogitationis, seu mentis operationis Species, quam Logica considerat,.....\n\nd) Logica Specialis: p. 375–427.  \nInitium: Hucusque in Logica Generali ea pertracta sunt, ......\n\nNeque auctorem scio neque scriptorem, neque certe, quando ortus sit codex noster. Sed propter formam tegumenti eamque raram et codici sequenti anno 1776 scripto consimilem etiam codicem nostrum circa annum 1775 scriptum esse puto. Quod eo magis coniicere possumus, quo p. 24 Wolfiana Philosophiae definitio laudatur et p. 25 Leibnitius, Wolfius, Newtonus praecedentis aetatis esse indicantur."
   }
 }

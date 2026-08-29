@@ -9,48 +9,65 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 11
 ms_contents:
-  title: "Compendium Ex Libris De Generatione Corruptione et Coelis"
+  title: Compendium Ex Libris De Generatione Corruptione et Coelis
   items:
-  - label: "a"
-    title: "Disputatio in Librum 3. Physicorum De Infinito et Motu"
-    locus: "S. 1–47"
-  - label: "b"
-    title: "Liber quartus Physicorum. De loco vacuo et tempore"
-    locus: "S. 47–93"
-  - label: "c"
-    title: "Liber quintus Physicorum. De Contrarietate Motuum et Quietis"
-    locus: "S. 93–96"
-  - label: "d"
-    title: "Liber sextus Physicorum De Continuo, Inceptione et Desitione rerum"
-    locus: "S. 97–138"
-  - label: "e"
-    title: "Liber 7. et 8 De quibusdam conditionibus et effectibus motus"
-    locus: "S. 138–142"
-  - label: "f"
-    title: "Tractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione"
-    locus: "S. 143–193"
-  - label: "g"
-    title: "Tractatus De Metheoris"
-    locus: "S. 193"
-  - label: "h"
-    title: "Tractatus in Libros De Coelis et Mundo"
-    locus: "S. 193–211"
-    end_date_display: "15. Juni 1697"
-  - label: "i"
-    title: "Notata De Penetratione et Continuo"
-    locus: "S. 212–213"
-  - label: "j"
-    title: "Solvuntur obiectiones ex F: J: (?) ex Variis Variae"
-    locus: "S. 227–312"
-  - label: "k"
-    title: "Ex Repetitione in Refectorio"
-    locus: "S. 323–348"
-  - label: "l"
-    title: "Repetitiones extraordinariae P. L."
-    locus: "S. 355–366"
-  - label: "m"
-    title: "Explicatio Reverendi P. F."
-    locus: "S. 379–381"
+  - label: a
+    title: Disputatio in Librum 3. Physicorum De Infinito et Motu
+    locus: p. 1–47
+    title_status: unspecified
+  - label: b
+    title: Liber quartus Physicorum. De loco vacuo et tempore
+    locus: p. 47–93
+    title_status: unspecified
+  - label: c
+    title: Liber quintus Physicorum. De Contrarietate Motuum et Quietis
+    locus: S. 93–96
+    title_status: unspecified
+  - label: d
+    title: Liber sextus Physicorum De Continuo, Inceptione et Desitione rerum
+    locus: p. 97–138
+    title_status: unspecified
+  - label: e
+    title: Liber 7. et 8 De quibusdam conditionibus et effectibus motus
+    locus: S. 138–142
+    title_status: unspecified
+  - label: f
+    title: Tractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione
+    locus: p. 143–193
+    title_status: unspecified
+  - label: g
+    title: Tractatus De Metheoris
+    locus: p. 193
+    title_status: unspecified
+  - label: h
+    title: Tractatus in Libros De Coelis et Mundo
+    locus: p. 193–211
+    end_date_display: 15. Juni 1697
+    title_status: unspecified
+    colophons:
+    - locus: p. 211
+      text: 1697. Die Sabbati hora quinta Die 15 Junii.
+  - label: i
+    title: Notata De Penetratione et Continuo
+    locus: p. 212–213
+    title_status: unspecified
+  - label: j
+    title: 'Solvuntur obiectiones ex F: J: (?) ex Variis Variae'
+    locus: p. 227–312
+    title_status: unspecified
+  - label: k
+    title: Ex Repetitione in Refectorio
+    locus: p. 323–348
+    title_status: unspecified
+  - label: l
+    title: Repetitiones extraordinariae P. L.
+    locus: p. 355–366
+    title_status: unspecified
+  - label: m
+    title: Explicatio Reverendi P. F.
+    locus: p. 379–381
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

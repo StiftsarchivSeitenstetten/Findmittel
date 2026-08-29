@@ -12,21 +12,36 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 122.
   items:
   - label: a
-    title: 'In Duos Libros De Generatione et Corruptione: fol. 1 - 91v. Initium fol. 1r: Corpus naturale dividitur primo in
-      simplex et mixtum.... (Prooemium)'
-    locus: fol. 1 - 91v.
+    title: In Duos Libros De Generatione et Corruptione
+    locus: fol. 1 - 91v
+    incipits:
+    - locus: fol. 1r
+      text: Corpus naturale dividitur primo in simplex et mixtum.... (Prooemium)
+    title_status: unspecified
   - label: b
-    title: '(In Tres libros De Anima): fol. 1 - 92 (=97 - 189). Initium Prooemii: libri isti de anima, quamquam in ordine
-      in physica sint postremi....'
-    locus: fol. 1 - 92 (=97 - 189).
+    title: In Tres libros De Anima
+    locus: fol. 1 - 92
+    title_status: supplied
+    title_source: cataloguer
+    incipits:
+    - label: Prooemii
+      text: libri isti de anima, quamquam in ordine in physica sint postremi....
   - label: c
-    title: '(In Quatuor libros Aristotelis De Meteoris): fol. 93 - 106 (=190 - 203). Initium Prooemii: huic vero methodus
-      dictat....'
-    locus: fol. 93 - 106 (=190 - 203).
+    title: In Quatuor libros Aristotelis De Meteoris
+    locus: fol. 93 - 106
+    title_status: supplied
+    title_source: cataloguer
+    incipits:
+    - label: Prooemii
+      text: huic vero methodus dictat....
   - label: d
-    title: 'In Metaphysicam Aristotelis: fol. 93 - 172 (secundum veteres foliorum numeros = secundum recentes: 108 - 187 =
-      205 - 284 numeratis in universum totius codicis foliis); initium Prooemii: lustratis naturalis philosophiae campis amoenissimis....'
-    locus: fol. 93 - 172 (
+    title: In Metaphysicam Aristotelis
+    locus: 'fol. 93 - 172 (secundum veteres foliorum numeros = secundum recentes: 108 - 187 = 205 - 284 numeratis in universum totius codicis
+      foliis)'
+    incipits:
+    - label: Prooemii
+      text: lustratis naturalis philosophiae campis amoenissimis....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

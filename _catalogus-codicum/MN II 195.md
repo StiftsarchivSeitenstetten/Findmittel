@@ -12,15 +12,24 @@ ms_contents:
   items:
   - label: a
     title: Liber Quartus decretalium Gregorii IX. Pontificis Maximi
-    locus: S. 1–240
+    locus: p. 1–240
     end_date: '1694-08-23'
+    title_status: unspecified
   - label: b
     title: Collegia Juris Canonici Clarissimi Patris König
-    locus: S. 1–90 (=255–344)
+    locus: p. 1–90
     date: '1693'
     subitems:
     - title: Collegium Primum Proemium Juris Universi
       locus: ab S. 255
+      incipits:
+      - locus: p. 255
+        text: Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....
+      title_status: unspecified
+    incipits:
+    - locus: p. 255
+      text: Collegium Primum Proemium Juris Universi. Jus est ars aequi et boni.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

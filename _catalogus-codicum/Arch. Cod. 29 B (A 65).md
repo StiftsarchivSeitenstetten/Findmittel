@@ -14,10 +14,18 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi: p. 1–50'
+    title: Ritus Festorum immobilium In nostro Divae Virginis Monasterio Seittenstettensi observandi
+    locus: p. 1–50
+    title_status: unspecified
   - label: b
     catalog_statement: 'Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi: p. 51–112'
+    title: Ritus Festorum mobilium In Nostro Divae Virginis Monasterio Seittenstettensi observandi
+    locus: p. 51–112
+    title_status: unspecified
   - label: c
     catalog_statement: 'Ritus Diversi per annum occurrentes: p. 112–126'
+    title: Ritus Diversi per annum occurrentes
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

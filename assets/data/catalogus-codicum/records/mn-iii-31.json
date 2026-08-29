@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-31",
   "signature": "MN III 31",
   "aliases": [
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Instructiones spirituales",
         "typeRaw": "supplied",
@@ -52,6 +56,9 @@
       },
       "locus": "fol. II–X, 3–8",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Piae preces",
-        "typeRaw": "supplied",
-        "typeLabel": "erschlossener Titel"
+        "text": "Inhaltseinheit b",
+        "typeRaw": null,
+        "typeLabel": null
       },
       "locus": "übrige Blätter",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -160,13 +171,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-31/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 31",
-    "titles": "Liber precatorius \nInstructiones spirituales \nPiae preces",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "titles": "Liber precatorius \nInstructiones spirituales \nInhaltseinheit b",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet; der überlieferte deutsche Titel ist mit mehreren Blättern verloren. \nDie Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet.",
-    "physical": "Papier \nX + 495 foll. \ncode: b2; description: Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext."
+    "physical": "Papier \nX + 495 foll. \ncode: b2; description: Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext.",
+    "german": "X + 495 Blätter; schwarzer Ledereinband; geschrieben um 1720 (?).\n\n**Gebetbuch.**\n\nDie eigentliche deutsche Überschrift ist zusammen mit einigen Blättern verloren. Fol. II–X und 3–8 enthalten verschiedene geistliche Unterweisungen, etwa fol. 5v: **Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.**\n\nDie übrigen Blätter enthalten fromme Gebete. Nach fol. 288 ist ein Kupferstich von A. Spaiser eingefügt.\n\nWeder Verfasser noch Schreiber sind bekannt. Die ungefähre Datierung erschließt der Katalogbearbeiter aus Einband, Schrift und Sprachgebrauch.",
+    "latin": "X + 495 foll.; teg. b2; script. ca. 1720 (?)\n\n(Liber precatorius)\n\nVera inscriptio huius libri Germanica lingua compositi cum aliquot foliis deperdita est. Fol. II–X, 3–8 exhibent quasdam instructiones spirituales, ex. gr. fol. 5v: *Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.* Cetera folia continent pias preces. Post fol. 288 insertum est imago chalcographice delineata ab A. Spaiser. Neque auctorem scio neque scriptorem. Quando ortus sit hic libellus, coniicio et forma tegumenti scripturaeque et usu loquendi."
   }
 }

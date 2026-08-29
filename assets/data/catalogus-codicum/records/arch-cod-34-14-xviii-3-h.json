@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-14-xviii-3-h",
   "signature": "Arch. Cod. 34 - 14 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "84–85",
   "heading": {
-    "title": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": ""
   },
   "date": {},
@@ -22,6 +22,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 - 14 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -33,14 +36,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 236",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Articuli Primi",
+          "text": "Quid et Quotuplex sit conscientia? p. 3: Dari conscientiam de fide certum est.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Articuli Primi",
+        "text": "Quid et Quotuplex sit conscientia? p. 3: Dari conscientiam de fide certum est.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -56,14 +73,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 127v",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1v",
+          "text": "§ primus: Quid sit Fides, et quod eius obiectum materiale? Praenoto cum Deum colere non possimus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1v",
+        "text": "§ primus: Quid sit Fides, et quod eius obiectum materiale? Praenoto cum Deum colere non possimus....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -114,13 +145,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-14-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 - 14 (XVIII 3 h)",
-    "titles": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236. \nDisputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236. \nTractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).",
+    "titles": "Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678 \nDisputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678 \nTractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis",
     "persons": "",
-    "incipits": "",
+    "incipits": "Quid et Quotuplex sit conscientia? p. 3: Dari conscientiam de fide certum est..... \n§ primus: Quid sit Fides, et quod eius obiectum materiale? Praenoto cum Deum colere non possimus....",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 - 14 (XVIII 3 h). \nDisputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236. \nTractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).",
-    "physical": "Papier \n236 pagg. + 127 foll. (= 254 pagg.) = 490 pagg.; 1678 \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n236 pagg. + 127 foll. (= 254 pagg.) = 490 pagg.; 1678 \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Quartformat; 236 Seiten + 127 Blätter (= 254 Seiten), zusammen 490 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1678.\n\na) **Einzige Disputation über das Gewissen**, diktiert von **P. Paulus Metzger**, Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor an der Benediktineruniversität Salzburg; aufgezeichnet von **Fr. Leopoldus Wimmer**, Profess von Seitenstetten und Student der Theologie und des kanonischen Rechts, 1678: S. 1–236.\n\nVorrede des Schreibers S. 2: **Nachdem ich die Abhandlung über Gnade, Glaube, Hoffnung und Liebe abgeschlossen hatte, die ich unter göttlicher Führung bei dem hochgelehrten P. Paulus Metzger sammelte, füge ich in den kleineren Ferien auch diese Abhandlung über das Gewissen hinzu, allerdings nicht eigentlich aus eigener, sondern aus fremder Schreibarbeit....**\n\nAnfang des ersten Artikels S. 3: **Was ist das Gewissen und wie vielfach ist es? Dass es ein Gewissen gibt, steht aus dem Glauben fest....**\n\nb) **Theologisch-moralische Abhandlung über die Gebote des Dekalogs und bei Gelegenheit auch über die kirchlichen Gebote, theologischen und moralischen Tugenden sowie die entgegengesetzten Laster:** fol. 1–127v (= S. 237–490).\n\nAnfang fol. 1v (= S. 238): **§ 1: Was ist der Glaube und was sein materieller Gegenstand? Ich merke voraus an, dass wir Gott nicht verehren können....**\n\nRückenaufschrift: **P. Paul Mezger, Abhandlung über das Gewissen und die ersten drei Gebote des Dekalogs, Handschrift des Fr. Leopold Wibmer aus Seitenstetten.**\n\nTeil a enthält dieselbe Abhandlung wie MN II 127c, dort jedoch mit veränderter Vorrede.",
+    "latin": "4°; 236 pagg. + 127 foll. (= 254 pagg.) = 490 pagg.; teg. a1; 1678\n\na) Disputatio unica. De conscientia. Dictata ab Admodum Reverendo.... Patre Paulo Metzger, Ordinis Divi Benedicti, Celeberrimi, et antiquissimi monasterii ad S. Petrum Professo: Sacrosanctae Theologiae Doctore, eiusdemque in Alma, ac Benedictina Universitate Salisburgensi Professore ordinario: et Scriptis collecta â Fr. Leopoldo Wimmer eiusdem Ordinis Professo Seittenstettensi Sacrosanctae Theologiae, et Sacrorum Canonum studioso Anno 1678: p. 1 - 236.\n\nProoemium (Scriptoris) p. 2: Post Absolutum Tractatum de gratia, fide, spe, et charitate, quem Deo ordinante collegi â Clarissimo Patre Paulo Metzger hunc quoque Tractatum de conscientia in mino-\n\n\n\nribus vacationibus non quidem propriò, sed alieno Scriptionis Marte adiicio......\n\nInitium Articuli Primi: Quid et Quotuplex sit conscientia? p. 3: Dari conscientiam de fide certum est.....\n\nb) Tractatus Theologico-moralis de Praeceptis Decalogi, et per occasionem de Ecclesiasticis praeceptis virtutibus Theologicis, moralibus et vitiis oppositis: fol. 1 - 127v (= pag. 237 - 490).\n\nInitium fol. 1v (= pag. 238): § primus: Quid sit Fides, et quod eius obiectum materiale? Praenoto cum Deum colere non possimus....\n\nInscriptio dorsi: P. Paul Mezger Tractatus de Conscientia et Praeceptis decalogi tribus primis M. S. a F. Leopold (!) Wibmer (!) Seittenstettensi.\n\nPars a codicis nostri eundem tractatum continet, quem etiam codex MN II 127 in parte c, mutato tamen prooemio. (Vide supra p. 80!)"
   }
 }

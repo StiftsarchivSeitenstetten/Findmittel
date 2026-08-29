@@ -17,9 +17,17 @@ ms_contents:
   - label: a
     title: Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam
     locus: fol. 1–135r
+    incipits:
+    - locus: fol. 1r
+      text: Hunc tractatum ita absolvit Sanctus Doctor......
+    title_status: unspecified
   - label: b
     title: Tractatus De Legibus
     locus: fol. 138r–167v
+    incipits:
+    - label: Disputationis Primae in quaestionem 90 S
+      text: 'Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....'
+    title_status: unspecified
   responsibility:
   - role: scribe
     name: Fr. Ambrosius Marholt

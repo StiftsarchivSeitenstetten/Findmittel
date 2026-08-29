@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-36",
   "signature": "MN II 36",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "10a–11",
   "heading": {
-    "title": "De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "De Praeceptis Decalogi et virtutibus in eo contentis",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "verschiedene Zeiten; alle Teile nach Einschätzung des Katalogbearbeiters vor 1650"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Große theologisch-kasuistische Sammelhandschrift mit abschließenden dialektischen Teilen und mehreren Händen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "De Praeceptis Decalogi et virtutibus in eo contentis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1 - 15",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Peccatum est dictum, factum, vel concupitum contra legem....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Peccatum est dictum, factum, vel concupitum contra legem....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,14 +86,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "De Sacramentis (in genere et in specie): p. 15 - 36",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "De Sacramentis (in genere et in specie)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 15 - 36",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 15",
+          "text": "Sacramentum novae legis est signum rei sacrae....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 15",
+        "text": "Sacramentum novae legis est signum rei sacrae....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -92,14 +123,28 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "De legibus humanis Ecclesiasticis: p. 36 - 68",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "De legibus humanis Ecclesiasticis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 36 - 68",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 36",
+          "text": "Lex Ecclesiastica est duplex.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 36",
+        "text": "Lex Ecclesiastica est duplex.....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -115,13 +160,17 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Conscientia) (?): p. 71 - 88; initium et finis desunt.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Conscientia) (?",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 71 - 88",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -138,13 +187,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus Casisticus De Vitiis et Peccatis): p. 91 - 226; initium deest, item finis.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus Casisticus De Vitiis et Peccatis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 91 - 226",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -161,13 +214,17 @@
       "id": "item-f",
       "label": "f",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Paenitentia): p. 227 - 340; initium deest.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Paenitentia",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 227 - 340",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -184,13 +241,17 @@
       "id": "item-g",
       "label": "g",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Iustificatione): p. 347 - 362; initium (et finis??) deest.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Iustificatione",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 347 - 362",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -207,13 +268,17 @@
       "id": "item-h",
       "label": "h",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Actibus Humanis): p. 363 - 409; initium deest.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Actibus Humanis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 363 - 409",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -230,13 +295,17 @@
       "id": "item-i",
       "label": "i",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Sacramentis in Specie): p. 411 - 458; initium et finis deest.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Sacramentis in Specie",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 411 - 458",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -253,13 +322,17 @@
       "id": "item-j",
       "label": "j",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Restitutione): p. 459 - 493 (Sola Disputatio IV: De restitutione circa bona animi fortunaeque)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Restitutione",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 459 - 493",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -276,13 +349,17 @@
       "id": "item-k",
       "label": "k",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Disputatio VI: De contractibus in genere: p. 493 - 501",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Disputatio VI: De contractibus in genere",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 493 - 501",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -299,13 +376,17 @@
       "id": "item-l",
       "label": "l",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida.... p. 501 - 504",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "(Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 501 - 504",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -322,13 +403,17 @@
       "id": "item-m",
       "label": "m",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus de Contractibus in specie): p. 507 - 519 (initium deest)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Contractibus in specie",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 507 - 519",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -345,13 +430,17 @@
       "id": "item-n",
       "label": "n",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus de Restitutione): p. 520 - 556",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus de Restitutione",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 520 - 556",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -368,14 +457,28 @@
       "id": "item-o",
       "label": "o",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Tractatus De Justitia et Jure): p. 559 - 623; initium p. 559: De Justitia et Jure disputant philosophi....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Justitia et Jure",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 559 - 623",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 559",
+          "text": "De Justitia et Jure disputant philosophi....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 559",
+        "text": "De Justitia et Jure disputant philosophi....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -391,14 +494,30 @@
       "id": "item-p",
       "label": "p",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae si vocabuli notionem attendas....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Institutiones Dialecticae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "p. 629 - 643",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 629",
+          "label": "capitis I de natura, necessitate et utilitate dialecticae",
+          "text": "Dialecticae si vocabuli notionem attendas....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 629",
+        "label": "capitis I de natura, necessitate et utilitate dialecticae",
+        "text": "Dialecticae si vocabuli notionem attendas....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -414,14 +533,28 @@
       "id": "item-q",
       "label": "q",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "De Distinctionibus: p. 647 - 663; initium p. 647: Collegerunt aliquas voces....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "De Distinctionibus",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 647 - 663",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 647",
+          "text": "Collegerunt aliquas voces....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 647",
+        "text": "Collegerunt aliquas voces....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -508,13 +641,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-36/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 36",
-    "titles": "De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15 \nDe Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15 \nDe Sacramentis (in genere et in specie): p. 15 - 36 \nDe legibus humanis Ecclesiasticis: p. 36 - 68 \n(Tractatus De Conscientia) (?): p. 71 - 88; initium et finis desunt. \n(Tractatus Casisticus De Vitiis et Peccatis): p. 91 - 226; initium deest, item finis. \n(Tractatus De Paenitentia): p. 227 - 340; initium deest. \n(Tractatus De Iustificatione): p. 347 - 362; initium (et finis??) deest. \n(Tractatus De Actibus Humanis): p. 363 - 409; initium deest. \n(Tractatus De Sacramentis in Specie): p. 411 - 458; initium et finis deest. \n(Tractatus De Restitutione): p. 459 - 493 (Sola Disputatio IV: De restitutione circa bona animi fortunaeque) \nDisputatio VI: De contractibus in genere: p. 493 - 501 \n(Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida.... p. 501 - 504 \n(Tractatus de Contractibus in specie): p. 507 - 519 (initium deest) \n(Tractatus de Restitutione): p. 520 - 556 \n(Tractatus De Justitia et Jure): p. 559 - 623; initium p. 559: De Justitia et Jure disputant philosophi.... \n(Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae si vocabuli notionem attendas.... \nDe Distinctionibus: p. 647 - 663; initium p. 647: Collegerunt aliquas voces....",
-    "persons": "unbekannt authors authors \nmindestens vier Hände, unbekannt scribes scribes",
-    "incipits": "",
+    "titles": "De Praeceptis Decalogi et virtutibus in eo contentis \nDe Praeceptis Decalogi et virtutibus in eo contentis \nDe Sacramentis (in genere et in specie) \nDe legibus humanis Ecclesiasticis \nTractatus De Conscientia) (? \nTractatus Casisticus De Vitiis et Peccatis \nTractatus De Paenitentia \nTractatus De Iustificatione \nTractatus De Actibus Humanis \nTractatus De Sacramentis in Specie \nTractatus De Restitutione \nDisputatio VI: De contractibus in genere \n(Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida \nTractatus de Contractibus in specie \nTractatus de Restitutione \nTractatus De Justitia et Jure \nInstitutiones Dialecticae \nDe Distinctionibus",
+    "persons": "unbekannt authors authors  \nmindestens vier Hände, unbekannt scribes scribes ",
+    "incipits": "Peccatum est dictum, factum, vel concupitum contra legem.... \nSacramentum novae legis est signum rei sacrae.... \nLex Ecclesiastica est duplex..... \nDe Justitia et Jure disputant philosophi.... \nDialecticae si vocabuli notionem attendas.... \nCollegerunt aliquas voces....",
     "explicits": "",
     "notes": "Große theologisch-kasuistische Sammelhandschrift mit abschließenden dialektischen Teilen und mehreren Händen. \nDe Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15 \nDe Sacramentis (in genere et in specie): p. 15 - 36 \nDe legibus humanis Ecclesiasticis: p. 36 - 68 \n(Tractatus De Conscientia) (?): p. 71 - 88; initium et finis desunt. \n(Tractatus Casisticus De Vitiis et Peccatis): p. 91 - 226; initium deest, item finis. \n(Tractatus De Paenitentia): p. 227 - 340; initium deest. \n(Tractatus De Iustificatione): p. 347 - 362; initium (et finis??) deest. \n(Tractatus De Actibus Humanis): p. 363 - 409; initium deest. \n(Tractatus De Sacramentis in Specie): p. 411 - 458; initium et finis deest. \n(Tractatus De Restitutione): p. 459 - 493 (Sola Disputatio IV: De restitutione circa bona animi fortunaeque) \nDisputatio VI: De contractibus in genere: p. 493 - 501 \n(Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida.... p. 501 - 504 \n(Tractatus de Contractibus in specie): p. 507 - 519 (initium deest) \n(Tractatus de Restitutione): p. 520 - 556 \n(Tractatus De Justitia et Jure): p. 559 - 623; initium p. 559: De Justitia et Jure disputant philosophi.... \n(Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae si vocabuli notionem attendas.... \nDe Distinctionibus: p. 647 - 663; initium p. 647: Collegerunt aliquas voces.... \nDie einzelnen Teile sind nicht sicher gleichzeitig entstanden; der Katalog hält alle für vor 1650 geschrieben.",
-    "physical": "Papier \n663 Seiten \nQuartformat \ndescription: Einband aus einem handschriftlich beschriebenen Pergamentblatt, möglicherweise 13. Jahrhundert."
+    "physical": "Papier \n663 Seiten \nQuartformat \ndescription: Einband aus einem handschriftlich beschriebenen Pergamentblatt, möglicherweise 13. Jahrhundert.",
+    "german": "663 Seiten; gebunden in ein handschriftlich beschriebenes Pergamentblatt, möglicherweise aus dem 13. Jahrhundert.\n\n**a) Über die Gebote des Dekalogs und die darin enthaltenen Tugenden:** S. 1–15.\n\nAnfang S. 1: **Sünde ist ein Wort, eine Tat oder ein Begehren gegen das Gesetz....**\n\n**b) Über die Sakramente im Allgemeinen und im Einzelnen:** S. 15–36.\n\nAnfang S. 15: **Ein Sakrament des Neuen Gesetzes ist ein Zeichen einer heiligen Sache....**\n\n**c) Über die menschlichen kirchlichen Gesetze:** S. 36–68.\n\nAnfang S. 36: **Das kirchliche Gesetz ist zweifach.....**\n\nS. 68–69: Register zu den Teilen a)–c), an dessen Beginn die Jahreszahl **Millesimo: sexcentesimo: vigesimo quinto (1625)** steht.\n\n**d) Abhandlung über das Gewissen (?)**: S. 71–88; Anfang und Ende fehlen.\n\n**e) Kasuistische Abhandlung über Laster und Sünden:** S. 91–226; Anfang und Ende fehlen.\n\n**f) Abhandlung über die Buße:** S. 227–340; Anfang fehlt.\n\n**g) Abhandlung über die Rechtfertigung:** S. 347–362; Anfang (und Ende??) fehlt.\n\n**h) Abhandlung über die menschlichen Handlungen:** S. 363–409; Anfang fehlt.\n\n**i) Abhandlung über die Sakramente im Einzelnen:** S. 411–458; Anfang und Ende fehlen.\n\n**j) Abhandlung über die Restitution:** S. 459–493 (nur Disputation IV: über die Restitution hinsichtlich der Güter des Geistes und des Vermögens).\n\n**k) Disputation VI. Über Verträge im Allgemeinen:** S. 493–501.\n\n**l) Abhandlung über die Buße, Abschnitt III. In welchen Fällen die Beichte ungültig sei....:** S. 501–504.\n\n**m) Abhandlung über Verträge im Einzelnen:** S. 507–519 (Anfang fehlt).\n\n**n) Abhandlung über die Restitution:** S. 520–556.\n\nS. 556 werden sehr viele Namen von Orten in Österreich und Deutschland aufgezählt, vielleicht zum Zeitvertreib.\n\n**o) Abhandlung über Gerechtigkeit und Recht:** S. 559–623; Anfang S. 559: **Über Gerechtigkeit und Recht disputieren die Philosophen....**\n\n**p) Dialektische Institutionen:** S. 629–643; Anfang von Kapitel I über Natur, Notwendigkeit und Nutzen der Dialektik S. 629: **Wenn du auf die Bedeutung des Wortes Dialektik achtest....**\n\n**q) Über Unterscheidungen:** S. 647–663; Anfang S. 647: **Sie haben einige Ausdrücke gesammelt....**\n\nOhne Zweifel sind in diesem Codex mehrere Hände zu unterscheiden. Eine schrieb die Teile a)–c), eine zweite Teil d), eine dritte – von der ersten weniger deutlich unterschieden – S. 91–202, 227–340, 459–506 und 629–663, eine vierte S. 203–226 und 347–458, vielleicht auch 507–623.\n\nEs steht nicht fest, dass alle Teile dieses Codex zur selben Zeit geschrieben wurden; ich glaube jedoch, dass sie sämtlich vor 1650 entstanden sind. Die Namen der Schreiber und Verfasser sind unbekannt.",
+    "latin": "663 pagg., folio manu scripto membranaceo (saec. XIII ?) tectae\n\na) De Praeceptis Decalogi et virtutibus in eo contentis: p. 1 - 15\n\nInitium p. 1: Peccatum est dictum, factum, vel concupitum contra legem....\n\nb) De Sacramentis (in genere et in specie): p. 15 - 36\n\nInitium p. 15: Sacramentum novae legis est signum rei sacrae....\n\nc) De legibus humanis Ecclesiasticis: p. 36 - 68\n\nInitium p. 36: Lex Ecclesiastica est duplex.....\n\nP. 68 - 69: Index ad partes a) - c), in cuius capite numerus annalis Millesimo: sexcentesimo: vigesimo quinto (1625).\n\nd) (Tractatus De Conscientia) (?): p. 71 - 88; initium et finis desunt.\n\ne) (Tractatus Casisticus De Vitiis et Peccatis): p. 91 - 226; initium deest, item finis.\n\nf) (Tractatus De Paenitentia): p. 227 - 340; initium deest.\n\ng) (Tractatus De Iustificatione): p. 347 - 362; initium (et finis??) deest.\n\nh) (Tractatus De Actibus Humanis): p. 363 - 409; initium deest.\n\ni) (Tractatus De Sacramentis in Specie): p. 411 - 458; initium et finis deest.\n\nj) (Tractatus De Restitutione): p. 459 - 493 (Sola Disputatio IV: De restitutione circa bona animi fortunaeque)\n\nk) Disputatio VI: De contractibus in genere: p. 493 - 501\n\nl) (Tractatus De Paenitentia) Sectio III. Quibus in casibus confessio sit invalida.... p. 501 - 504\n\nm) (Tractatus de Contractibus in specie): p. 507 - 519 (initium deest)\n\nn) (Tractatus de Restitutione): p. 520 - 556\n\np. 556 permulta nomina oppidorum Austriae et Germaniae (forsitan ludendi causa) enumerantur.\n\no) (Tractatus De Justitia et Jure): p. 559 - 623; initium p. 559: De Justitia et Jure disputant philosophi....\n\np) (Institutiones Dialecticae): p. 629 - 643; initium capitis I de natura, necessitate et utilitate dialecticae p. 629: Dialecticae si vocabuli notionem attendas....\n\nq) De Distinctionibus: p. 647 - 663; initium p. 647: Collegerunt aliquas voces....\n\nSine dubio in hoc codice plures manus discernendae sunt, e quibus una partes a) - c), altera partem d), tertia (a prima minus distincta) pagg. 91 - 202, 227 - 340, 459 - 506, 629 - 663, quarta pagg. 203 - 226, 347 - 458, fortasse etiam 507 - 623 scripserunt.\n\nNon constat omnes partes huius codicis eodem tempore exaratas esse, sed omnes ante annum 1650 scriptas esse puto. Nomina scriptorum et auctorum ignota."
   }
 }

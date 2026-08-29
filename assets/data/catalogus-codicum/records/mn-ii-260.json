@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-260",
   "signature": "MN II 260",
   "aliases": [
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
         "typeRaw": "supplied",
         "typeLabel": "erschlossener Titel"
       },
-      "locus": "S. 5–335",
+      "locus": "p. 5",
       "language": "",
+      "incipits": [
+        {
+          "text": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....",
+          "locus": "p. 5",
+          "label": "Proemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit"
+        "text": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....",
+        "locus": "p. 5",
+        "label": "Proemii",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [
@@ -156,13 +173,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 260",
     "titles": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio \nTractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
-    "persons": "unbekannt Autor author \nFr. Hieronymus Hueber Schreiber scribe",
-    "incipits": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit",
+    "persons": "unbekannt Autor author  \nFr. Hieronymus Hueber Schreiber scribe Seitenstetten",
+    "incipits": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....",
     "explicits": "",
     "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; der Schluss und mehrere Vorlesungen fehlen. \nincomplete",
-    "physical": "Papier \n340 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n340 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "340 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1716.\n\n**(Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung).**\n\nAnfang der Vorrede S. 5: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,....\n\nDer Schluss am Ende S. 335 fehlt. Beim Vergleich mit MN II 255, der dieselben Vorlesungen enthält, zeigt sich sogar, dass mehrere Vorlesungen fehlen: MN II 255 bietet zusätzlich einen zweiten Paragraphen zum zweiten Artikel der vorletzten Frage und die gesamte letzte Frage dieser Abhandlung.\n\nDa MN II 255 am 29. August 1716 beendet wurde, ist wahrscheinlich, dass auch unser Codex 1716 entstand.\n\nDer Verfasser ist unbekannt. Dass Fr. Hieronymus Hueber, Seitenstettner Mönch, der Schreiber war, zeigt derselbe Schriftcharakter wie in den beiden vorhergehenden Codices.",
+    "latin": "340 pagg.; teg. a1; scriptus 1716\n\n(Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio).  \nInitium Proemii p. 5: Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....  \nClausula in fine (p. 335) deest, immo etiam aliquot lectiones deesse arbitraberis comparato codice MN II 255 (supra p. 195), qui ut easdem lectiones quas codex noster continet, ita etiam alteram paragraphum ad articulum secundum quaestionis paenultimae et totam quaestionem ultimam huius tractatus addit. Cum codex MN II 255 die 29. Augusti Anno 1716 finitus sit, etiam hunc codicem anno 1716 ortum esse veri simile est. Auctor vero ignotus. Scriptorem autem esse F. Hieronymum Hueber monachum Seitenstettensem eadem scriptura docet, quam invenimus in duobus codicibus praecedentibus ab eodem scriptis."
   }
 }

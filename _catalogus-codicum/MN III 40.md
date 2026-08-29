@@ -10,28 +10,34 @@ ms_identifier:
   idno: MN III 40
 ms_contents:
   items:
-  - label: "a"
-    title: "Officiosa Pietas Exercitia ad cultum Dei Beatae Virginis Mariae et Sanctorum ordinata"
-    locus: "S. 1–130"
-  - label: "b"
-    title: "Praeparatio Ante Missam Pro opportunitate Sacerdotis facienda"
-    locus: "S. 130–141"
-  - label: "c"
-    title: "Gratiarum Actio Post Missam"
-    locus: "S. 142–148"
-  - label: "d"
-    title: "Quam Horrendum sit Sacro Sanctum Missae Sacrificium in peccato mortali offerre"
-    locus: "S. 148–152"
-  - label: "e.1"
-    title: "Latina precatio"
-    title_type: "supplied"
-    locus: "S. 152–155"
-    note: "Die katalogseitige Inhaltsbezeichnung steht in runden Klammern; von zweiter Hand."
-  - label: "e.2"
-    title: "Germanica precatio"
-    title_type: "supplied"
-    locus: "S. 152–155"
-    note: "Die katalogseitige Inhaltsbezeichnung steht in runden Klammern; von dritter Hand."
+  - label: a
+    title: Officiosa Pietas Exercitia ad cultum Dei Beatae Virginis Mariae et Sanctorum ordinata
+    locus: p. 1–130
+    title_status: unspecified
+  - label: b
+    title: Praeparatio Ante Missam Pro opportunitate Sacerdotis facienda
+    locus: p. 130–141
+    title_status: unspecified
+  - label: c
+    title: Gratiarum Actio Post Missam
+    locus: p. 142–148
+    title_status: unspecified
+  - label: d
+    title: Quam Horrendum sit Sacro Sanctum Missae Sacrificium in peccato mortali offerre
+    locus: p. 148–152
+    title_status: unspecified
+  - label: e.1
+    title: Latinam
+    locus: p. 152–155
+    note: Die katalogseitige Inhaltsbezeichnung steht in runden Klammern; von zweiter Hand.
+    title_status: supplied
+    title_source: cataloguer
+  - label: e.2
+    title: Germanicam precationem
+    locus: p. 152–155
+    note: Die katalogseitige Inhaltsbezeichnung steht in runden Klammern; von dritter Hand.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

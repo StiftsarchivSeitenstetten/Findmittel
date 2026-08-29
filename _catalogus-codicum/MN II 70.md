@@ -16,10 +16,26 @@ ms_contents:
   items:
   - label: a
     title: Commentarius In Octo Libros Physicorum
-    locus: S. 1–257
+    locus: p. 1
+    incipits:
+    - locus: p. 1
+      label: Proloquii
+      text: Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos....
+    colophons:
+    - locus: p. 257
+      text: absolvimus hos libros physicorum 9 Januarii Anno 1655.
+    title_status: unspecified
   - label: b
     title: Tractatus II. in IV. Libros De Coelo et Mundo
-    locus: S. 257a–355
+    locus: p. 257
+    incipits:
+    - locus: p. 258
+      label: Prooemii
+      text: Postquam philosophus in 8 physicorum egit de corpore naturali in communi....
+    colophons:
+    - locus: p. 355
+      text: absolvimus 13 februarii.
+    title_status: unspecified
   responsibility:
   - role: lecturer
     name: P. Anselm Schlager

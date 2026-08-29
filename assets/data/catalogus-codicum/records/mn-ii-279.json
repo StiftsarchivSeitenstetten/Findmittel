@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-279",
   "signature": "MN II 279",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "228",
   "heading": {
     "title": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1750/51"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,25 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Tractatus Theologicus De Poenitentia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 5–166",
+      "locus": "p. 5–166",
       "language": "",
+      "incipits": [
+        {
+          "text": "Sanctissimus Legislator noster Benedictus",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
       "incipit": {
-        "text": "Sanctissimus Legislator noster Benedictus"
+        "text": "Sanctissimus Legislator noster Benedictus",
+        "id": "incipit-1"
       },
       "explicit": null,
       "notes": [],
@@ -65,17 +78,45 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 167–251",
+      "locus": "p. 167–251",
       "language": "",
+      "incipits": [
+        {
+          "text": "Poenitentiae quoad effectum simillima",
+          "id": "incipit-1"
+        },
+        {
+          "label": "Disputationis XII De Sacramento extremae Unctionis",
+          "text": "p. 169: Poenitentiae quoad effectum simillima,...",
+          "id": "incipit-2"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Finivimus 31 Martii Anno 1.7.51. Altera",
+          "id": "colophon-1"
+        },
+        {
+          "label": "in eadem pagina 251 ab alia manu scripta",
+          "text": "In collegiis 26. Maii 1752.",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Poenitentiae quoad effectum simillima"
+        "text": "Poenitentiae quoad effectum simillima",
+        "id": "incipit-1"
       },
-      "explicit": null,
+      "explicit": {
+        "text": "Finivimus 31 Martii Anno 1.7.51. Altera",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
@@ -95,19 +136,37 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Parerga ex Tractatu De Poenitentia",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 252–258",
+      "locus": "p. 252–258",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 258",
+          "text": "Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "p. 258",
+        "text": "Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "note",
           "text": "In einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt."
+        },
+        {
+          "type": "notes",
+          "text": "Ad singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15 F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio Seitenstettensi vota emiserant."
         }
       ],
       "dates": [
@@ -283,13 +342,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 279",
     "titles": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis \nTractatus Theologicus De Poenitentia \nDe Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio \nParerga ex Tractatu De Poenitentia",
-    "persons": "P. Bernardus Brevenhueber Dozent lecturer \nunbekannt Schreiber scribe \nunbekannt additional hand additional_hand",
-    "incipits": "Sanctissimus Legislator noster Benedictus \nPoenitentiae quoad effectum simillima",
-    "explicits": "",
-    "notes": "Ein zweiter Vermerk anderer Hand nennt die Kollegien am 26. Mai 1752. \nIn einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt.",
-    "physical": "Papier \n264 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+    "persons": "P. Bernardus Brevenhueber Dozent lecturer Stift Seitenstetten \nunbekannt Schreiber scribe  \nunbekannt additional hand additional_hand ",
+    "incipits": "Sanctissimus Legislator noster Benedictus \nPoenitentiae quoad effectum simillima \np. 169: Poenitentiae quoad effectum simillima,...",
+    "explicits": "Finivimus 31 Martii Anno 1.7.51. Altera \nIn collegiis 26. Maii 1752. \nExamine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.",
+    "notes": "Ein zweiter Vermerk anderer Hand nennt die Kollegien am 26. Mai 1752. \nIn einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt. \nAd singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15 F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio Seitenstettensi vota emiserant.",
+    "physical": "Papier \n264 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+    "german": "264 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1750/51.\n\n**Theologische Abhandlung über die Buße und die drei letzten Sakramente**, diktiert von P. Bernardus Brevenhueber ab 6. Juli 1750.\n\na) **Theologische Abhandlung über die Buße:** S. 5–166. Anfang der Vorrede: Unser heiligster Gesetzgeber Benedikt......\n\nb) **Über die drei letzten Sakramente, nämlich Letzte Ölung, Weihe und Ehe:** S. 167–251. Anfang der zwölften Disputation über das Sakrament der Letzten Ölung S. 169: Die Letzte Ölung ist der Buße hinsichtlich ihrer Wirkung sehr ähnlich,.... Schluss: **Wir beendeten [dies] am 31. März 1751.** Ein zweiter, von anderer Hand auf derselben S. 251 eingetragener Vermerk lautet: **In den Kollegien am 26. Mai 1752.**\n\nOffenbar wurde unsere Abhandlung also auch 1752 im theologischen Studium Seitenstettens verwendet.\n\nc) **Parerga aus der Abhandlung über die Buße:** S. 252–258. Schluss S. 258: **In öffentlicher Prüfung erörtert am 1. Februar 1751 unter dem Professor P. Bernardus Brevenhueber.** Zu den einzelnen Parerga sind jene Kandidaten vermerkt, denen sie in der Prüfung gestellt wurden: Nr. 11 Fr. Anselmus Wisgrill, 12 Fr. Udalricus Digl, 15 Fr. Paulus Schober, 20 Fr. Michael Rothmayr, 24 Fr. Leander Lieb, 25 Fr. Emmeramus Kolb. Alle diese Kleriker legten 1749 in Seitenstetten Profess ab.\n\nDer Schreiber, obwohl er auch den vorhergehenden und die sechs folgenden Codices schrieb, ist unbekannt. Dass unser Codex zum Seitenstettner theologischen Kurs gehört, wurde bereits oben bei MN II 278 gezeigt.",
+    "latin": "264 pagg.; teg. c3d; script. 1750/51\n\n**Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Bernardo Brevenhueber dictatus Anno 1750 à die sexta Julii.**\n\na) Tractatus Theologicus De Poenitentia: p. 5–166.  \nInitium Praefationis: Sanctissimus Legislator noster Benedictus......\n\nb) De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio: p. 167–251.  \nInitium Disputationis XII De Sacramento extremae Unctionis: p. 169: Poenitentiae quoad effectum simillima,...  \nClausula: Finivimus 31 Martii Anno 1.7.51. Altera clausula in eadem pagina 251 ab alia manu scripta: **In collegiis 26. Maii 1752.**\n\nVidetur ergo tractatus noster etiam anno 1752 studio theologiae Seitenstettensis usui fuisse.\n\nc) Parerga ex Tractatu De Poenitentia: p. 252–258.  \nClausula p. 258: **Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.** Ad singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15 F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio Seitenstettensi vota emiserant.\n\nScriptor, etsi praecedentem et sex sequentes codices exaravit, ignotus est. Codicem nostrum ad cursum Theologiae Seitenstettensis pertinere, iam supra p. 227 monstravimus."
   }
 }

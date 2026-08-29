@@ -13,10 +13,19 @@ ms_contents:
   items:
   - label: a
     title: (Tractatus De Vitiis et Peccatis)
-    locus: p. 9–540.
+    locus: p. 9–540
+    incipits:
+    - label: Disputationis Primae De natura Distinctione et comparatione peccatorum
+      text: 'ad quaestiones 71; 72; 73; S: Doctoris p. 9: Quamvis Divus Thomas ad Dicta quaestionem 71: de vitiis et peccatis disputare incipiat.....'
+    title_status: supplied
+    title_source: cataloguer
   - label: b
     title: Tractatus sextus De legibus
-    locus: p. 541–632 (
+    locus: p. 541–632
+    incipits:
+    - locus: p. 541
+      text: 'Materiam De legibus quam Divus Thomas a quaestione 90: usque ad 118: inclusive prosequitur......'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

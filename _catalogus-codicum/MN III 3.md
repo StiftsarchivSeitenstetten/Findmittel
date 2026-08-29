@@ -10,24 +10,33 @@ ms_identifier:
   idno: MN III 3
 ms_contents:
   items:
-  - label: "a"
-    title: "Sententiae ex Seneca"
-    locus: "S. 5–234"
-    end_date_display: "24. April 1660"
-  - label: "b"
-    title: "Juvenalis"
-    locus: "S. 237–269"
-    note: "Die Inhaltsbezeichnung „Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen."
-  - label: "c"
-    title: "Ovidius"
-    locus: "S. 271–279"
-    note: "Die Inhaltsbezeichnung „item Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen."
-  - label: "d"
-    title: "Claudianus"
-    locus: "S. 281"
-  - label: "e"
-    title: "Martialis"
-    locus: "S. 301–302"
+  - label: a
+    title: Sententiae ex Seneca
+    locus: p. 5–234
+    end_date_display: 24. April 1660
+    colophons:
+    - locus: p. 234
+      text: Finitum 24. Aprilis Anno 1660.
+    title_status: unspecified
+  - label: b
+    title: Juvenalis
+    locus: p. 237–269
+    note: Die Inhaltsbezeichnung „Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen.
+    title_status: unspecified
+  - label: c
+    title: Ovidius
+    locus: p. 271–279
+    note: Die Inhaltsbezeichnung „item Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel
+      übernommen.
+    title_status: unspecified
+  - label: d
+    title: Claudianus
+    locus: p. 281
+    title_status: unspecified
+  - label: e
+    title: Martialis
+    locus: p. 301–302
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

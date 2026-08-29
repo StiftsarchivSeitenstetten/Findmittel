@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-13",
   "signature": "MN II 13",
   "aliases": [
@@ -10,8 +10,8 @@
   "catalogPage": "11",
   "heading": {
     "title": "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1628/29"
   },
   "date": {
@@ -28,13 +28,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,18 +49,50 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 1–674",
+      "locus": "p. 3",
       "language": "",
+      "incipits": [
+        {
+          "text": "Pulchrè docet S. Thomas.....",
+          "label": "Prooemii",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "p. 87, p. 224",
+          "text": "M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [
+        {
+          "locus": "p. 3",
+          "label": "Prooemii",
+          "text": "Finit feliciter prooemium logicae nostrae in festo Conceptionis Beatae Mariae Virginis 1628.",
+          "id": "colophon-1"
+        },
+        {
+          "locus": "p. 674",
+          "text": "quinto die Junii 1629; aliae",
+          "id": "colophon-2"
+        }
+      ],
       "incipit": {
-        "text": "Pulchrè docet S. Thomas....."
+        "text": "Pulchrè docet S. Thomas.....",
+        "label": "Prooemii",
+        "id": "incipit-1"
       },
       "explicit": {
-        "text": "quinto die Junii 1629"
+        "locus": "p. 87, p. 224",
+        "text": "M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten",
+        "id": "explicit-1"
       },
       "notes": [
         {
@@ -148,13 +183,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-13/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 13",
     "titles": "Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus. \nCommentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus.",
-    "persons": "P. Simon Fyrbas OSB Dozent lecturer \nFr. Ludwig Scherb OSB Schreiber scribe",
+    "persons": "P. Simon Fyrbas OSB Dozent lecturer  \nFr. Ludwig Scherb OSB Schreiber scribe ",
     "incipits": "Pulchrè docet S. Thomas.....",
-    "explicits": "quinto die Junii 1629",
-    "notes": "Register S. 657–674. Die parenthetische Auflösung „= Fratre“ ist eine Erläuterung innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied.",
-    "physical": "Papier \nVIII + 680 Seiten \nQuartformat \ncode: a1; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "explicits": "M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten \nFinit feliciter prooemium logicae nostrae in festo Conceptionis Beatae Mariae Virginis 1628. \nquinto die Junii 1629; aliae",
+    "notes": "Register S. 657–674. Die parenthetische Auflösung „= Fratre“ ist eine Erläuterung innerhalb des überlieferten Titels; der Titel als solcher ist nicht supplied. \nM B M V I S",
+    "physical": "Papier \nVIII + 680 Seiten \nQuartformat \ncode: a1; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "VIII + 680 Seiten; weißer Einband, ebenfalls aus Holz, jedoch mit Schweinsleder bezogen, mit eingeprägten ungefärbten Verzierungen; geschrieben 1628/29.\n\n**Kommentar zum Organon des Aristoteles**, diktiert von [gestrichen] P. Fr. (= Frater) Simon Fyrbas aus Scheyern, Profess des Benediktinerordens; an der Universität Salzburg von mir, Fr. Ludwig Scherb aus Seitenstetten, Profess desselben Ordens der Österreichischen Kongregation, mitgeschrieben.\n\nAnfang der Vorrede: **Trefflich lehrt der hl. Thomas.....**\n\nSchluss der Vorrede S. 3: **Glücklich endet die Vorrede zu unserer Logik am Fest der Empfängnis der seligen Jungfrau Maria 1628.**\n\nSchlussvermerk S. 674: **am 5. Juni 1629**; weitere Schlussvermerke S. 87, S. 224 (mit zwei ungleichen Versen), S. 369 (mit Notizen über eine Prozession nach Mülln sowie über den leidenden P. Placidus von Seeon), S. 418, S. 530, S. 656. Register S. 657–674. Siehe auch die Randnotizen.\n\nÜber Verfasser und Schreiber siehe auch die folgenden Codices!\n\nInitialen auf der Vorderseite des Einbandes: **M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten**.",
+    "latin": "VIII + 680 pagg.; teg. a1; script. 1628/29\n\n*Commentarius in Organum Aristotelis Dictatus à [gestrichen] P. F. (= Fratre) Simone Fyrbas Schyrensi, Ordinis Sancti Benedicti Professo. In Alma Salisburgensium Universitate a me F. Ludovico Scherbio Seittenstöttensi Ord: Sancti Benedicti Austriacae Congregationis Professo, exceptus.*\n\nInitium Prooemii: Pulchrè docet S. Thomas.....\n\nClausula Prooemii p. 3: Finit feliciter prooemium logicae nostrae in festo Conceptionis Beatae Mariae Virginis 1628.\n\nClausula p. 674: quinto die Junii 1629; aliae clausulae p. 87, p. 224 (cum duobus versibus imparibus), p. 369 (cum notis de quadam processione in locum Mülln deducto necnon de P. Placido Seonensi laborante), p. 418, p. 530, p. 656. Index a pag. 657 - 674. Vide etiam not. marg.\n\nDe auctore et scriptore vide etiam ad sequentes codices!\n\nLitterae initiales in tegumento adverso: M B M V I S = Monasterium Beatae Mariae Virginis in Seittenstetten"
   }
 }

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-101",
   "signature": "MN II 101",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "64",
   "heading": {
-    "title": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1670"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,16 +48,25 @@
       "id": "item-1",
       "label": "",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
-      "notes": [],
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670."
+        }
+      ],
       "dates": [],
       "persons": [],
       "subitems": []
@@ -119,13 +131,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-101/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 101",
-    "titles": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670. \nTractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
+    "titles": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670 \nTractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670",
     "persons": "",
     "incipits": "",
     "explicits": "",
-    "notes": "",
-    "physical": "Papier \n316 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Tractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... P. Benedicto Pettschacher Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A F. Ambrosio Marhold (!) Professo Seittenstettensi manu propria 1670.",
+    "physical": "Papier \n316 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "316 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1670.\n\n**Abhandlung über Gnade, Glaube, Hoffnung und Liebe. Vorgetragen von P. Benedictus Pettschacher, Profess des freien und exemten Klosters St. Lambrecht, Doktor der heiligen Theologie und ordentlicher Professor derselben; eigenhändig aufgezeichnet von Fr. Ambrosius Marhold, Profess von Seitenstetten, 1670.**\n\na) **Abhandlung über die Gnade:** fol. 1r–233r. Anfang: Der heilige Lehrer behandelt die Gnade von Frage 109 der Prima Secundae bis zur Secunda Secundae.\n\nb) **Abhandlung zur Secunda Secundae des hl. Thomas über Glaube, Hoffnung und Liebe:** fol. 234r–316v. Anfang: Beim Glauben – dasselbe sage ich von Hoffnung und Liebe – sind vor allem drei Dinge zu betrachten.....\n\nDieselben Abhandlungen enthält auch Codex MN II 112.",
+    "latin": "316 foll.; teg. a2 (ut in codice MN II 98); script. 1670\n\nTractatus De Gratia, Fide, Spe, et Charitate. Traditus. Ab.... **P. Benedicto Pettschacher** Liberi et Exempti Monasterii ad S. Lambertum Professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario. Exceptus A **F. Ambrosio Marhold** (!) Professo Seittenstettensi manu propria 1670.\n\na) Tractatus De Gratia: fol. 1r–233r. _Initium_: De gratia agit S: Doctor à quaestione 109, primae secundae usque ad secundam, secundae.\n\nb) Tractatus in secundam secundae Divi Thomae De Fide, Spe, et charitate: fol. 234r–316v. _Initium_: De fide, idem dico de spe et charitate, tria potissimum considerantur.....\n\nEosdem tractatus continet etiam codex MN II 112 (vide inferius!)."
   }
 }

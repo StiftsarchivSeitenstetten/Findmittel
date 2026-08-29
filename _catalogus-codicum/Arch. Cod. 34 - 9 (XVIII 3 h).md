@@ -13,15 +13,36 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 - 9 (XVIII 3 h).
   items:
   - label: a
-    catalog_statement: '(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol.
-      1 - 261. Initium Prooemii fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r:
-      Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante
-      prandium die 9. Octobris 1677.'
+    catalog_statement: '(Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia): fol. 1 - 261. Initium Prooemii
+      fol. 1r: Post considerationem eorum, quae pertinent ad mysteria...... Clausula fol. 261r: Absolvimus materiam de sacramentis in genere,
+      Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9. Octobris 1677.'
+    title: 'Tractatus I - IV, nempe: De Sacramentis in genere, de Baptismo, Confirmatione, Eucharistia'
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 261
+    incipits:
+    - locus: fol. 1r
+      label: Prooemii
+      text: Post considerationem eorum, quae pertinent ad mysteria......
+    colophons:
+    - locus: fol. 261r
+      text: Absolvimus materiam de sacramentis in genere, Item Baptismo, Confirmatione, Sanctissima Eucharistia, in specie ante prandium die 9.
+        Octobris 1677.
   - label: b
-    catalog_statement: '(Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1
-      - 252 (= 265 - 517). Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium)
-      Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191):
-      Absolvimus die 22 Junii 1678.'
+    catalog_statement: '(Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie): fol. 1 - 252 (= 265 - 517).
+      Initium Prooemii Tractatus quinti. De Sacramento Poenitentiae fol. 265: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in
+      regeneratis omnibus gratitudo erga Deum esset,.... Clausula fol. 456 (= 191): Absolvimus die 22 Junii 1678.'
+    title: Tractatus V - VIII, dico de Poenitentia, Extrema Unctione, Ordine, Matrimonio, in specie
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 1 - 252
+    incipits:
+    - locus: fol. 265
+      label: Prooemii Tractatus quinti. De Sacramento Poenitentiae
+      text: Si ea, inquit (Concilium) Trident(inum) sessione 14 capite 1, in regeneratis omnibus gratitudo erga Deum esset,....
+    colophons:
+    - locus: fol. 456
+      text: Absolvimus die 22 Junii 1678.
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-18",
   "signature": "MN III 18",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "264",
   "heading": {
     "title": "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1790"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": "circa"
   },
   "contentsOverview": {
-    "title": "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-18/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 18",
     "titles": "Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt \nPrecationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt",
-    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Bearbeiter compiler  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n8° \nOktavformat \ndescription: Rosafarbener Pappeinband."
+    "physical": "Papier \n8° \nOktavformat \ndescription: Rosafarbener Pappeinband.",
+    "german": "Oktavformat; 152 Seiten; rosafarbener Pappeinband; geschrieben um 1790.\n\n**Gebete vor und nach der Messe, aus dem Römischen Messbuch und anderen Quellen entnommen, nun verbessert und erweitert herausgegeben.**\n\nÜber Kompilator und Schreiber dieses lateinischen Büchleins fand der Katalogbearbeiter keinerlei Angaben. Aufgrund der Schrift nimmt er eine Entstehung um 1790 an. Da das Büchlein jedoch kalligraphisch geschrieben ist und neben moderneren auch ältere Buchstabenformen verwendet, lässt sich die Entstehungszeit nicht sicher bestimmen.",
+    "latin": "8°; 152 pagg.; teg. chartaceum rosaceum; script. ca. 1790\n\n**Precationes Ante, et post Missam dicendae, Ex Missali Romano, Aliisque locis depromptae, Quae Nunc emendatiores, ac auctiores prodeunt.**\n\nDe compilatore et scriptore huius codicilli Latini nihil omnino repperi. Propter scripturam puto circa annum 1790 ortum esse hoc opusculum. Sed cum calligraphice scriptum sit et praeter litteras recentioris alias vetustioris formae praebeat, neque quando ortum sit, certo dicere possum."
   }
 }

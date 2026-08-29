@@ -18,18 +18,26 @@ ms_contents:
   items:
   - label: a
     title: De Jure et Justitia
-    locus: Bl. 1v–44r
+    locus: fol. 1r
+    incipits:
+    - locus: fol. 1r
+      label: Praefationis
+      text: Cum homo sit animal politicum....
+    title_status: unspecified
   - label: b
     title: De Restitutione
-    locus: Bl. 44r–150v
+    locus: fol. 44r - 150v
+    title_status: unspecified
   - label: c
     title: De Contractu
-    locus: Bl. 151r–226v
+    locus: fol. 151r - 226v
     status: Ende fehlt
+    title_status: unspecified
   - label: d
     title: Index
-    locus: Bl. 229r–231v
+    locus: fol. 229r - 231v
     status: Anfang fehlt
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

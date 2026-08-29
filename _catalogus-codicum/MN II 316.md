@@ -9,12 +9,12 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 316
 ms_contents:
-  title: Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar
   items:
   - label: a
     title: Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar
     locus: S. 1–340
     start_date_display: 5. Oktober 1887
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

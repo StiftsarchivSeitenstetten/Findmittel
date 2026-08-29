@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-23",
   "signature": "MN II 23",
   "aliases": [
@@ -9,9 +9,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "15",
   "heading": {
-    "title": "*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora....",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634)",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1634"
   },
   "date": {
@@ -35,6 +35,9 @@
     "summary": "Vorlesungen Simon Fyrbas’ zu Himmel, Meteorologie und Werden mit eingebundenen gedruckten Disputationen.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -46,14 +49,30 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora....",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1 - 124",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "label": "Protologiae ad Libros IV Coelorum",
+          "text": "Quantum Coelum distat a terra in tantum nobiliora....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "fol. 1r",
+        "label": "Protologiae ad Libros IV Coelorum",
+        "text": "Quantum Coelum distat a terra in tantum nobiliora....",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -69,13 +88,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Pronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri.....:* fol. 129 - 144",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Pronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 129 - 144",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -92,15 +115,39 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Theoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)!*: fol. 146 - 171v. Initium Protologiae: Post simplicia corpora perfecta corpora mixta tractavimus.... Clausula fol. 171v: 28 Augusti 1634.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)!",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 146 - 171v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Protologiae",
+          "text": "Post simplicia corpora perfecta corpora mixta tractavimus....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 171v",
+          "text": "28 Augusti 1634.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "label": "Protologiae",
+        "text": "Post simplicia corpora perfecta corpora mixta tractavimus....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 171v",
+        "text": "28 Augusti 1634.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -115,15 +162,39 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Theoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione):* fol. 177 - 275v. Initium Protologiae: Physica in communi corpus naturale qua naturale considerat.... Clausula fol. 275v: 3. Apr. 1634.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Theoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione)",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 177 - 275v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "label": "Protologiae",
+          "text": "Physica in communi corpus naturale qua naturale considerat....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "fol. 275v",
+          "text": "3. Apr. 1634.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [],
+      "incipit": {
+        "label": "Protologiae",
+        "text": "Physica in communi corpus naturale qua naturale considerat....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 275v",
+        "text": "3. Apr. 1634.",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -138,13 +209,17 @@
       "id": "item-e",
       "label": "e",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "*Syntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.* (fol. 282 - 294)",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Syntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 282 - 294",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -230,13 +305,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-23/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 23",
-    "titles": "*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora.... \n*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora.... \n*Pronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri.....:* fol. 129 - 144 \n*Theoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)!*: fol. 146 - 171v. Initium Protologiae: Post simplicia corpora perfecta corpora mixta tractavimus.... Clausula fol. 171v: 28 Augusti 1634. \n*Theoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione):* fol. 177 - 275v. Initium Protologiae: Physica in communi corpus naturale qua naturale considerat.... Clausula fol. 275v: 3. Apr. 1634. \n*Syntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.* (fol. 282 - 294)",
-    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer \nP. Benedict Graff OSB (Teil a; Kurszusammenhang) Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634) \nTheoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634) \nPronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri \nTheoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)! \nTheoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione) \nSyntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici",
+    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer  \nP. Benedict Graff OSB (Teil a; Kurszusammenhang) Schreiber scribe ",
+    "incipits": "Quantum Coelum distat a terra in tantum nobiliora.... \nPost simplicia corpora perfecta corpora mixta tractavimus.... \nPhysica in communi corpus naturale qua naturale considerat....",
+    "explicits": "3. Apr. 1634. \n28 Augusti 1634.",
     "notes": "Vorlesungen Simon Fyrbas’ zu Himmel, Meteorologie und Werden mit eingebundenen gedruckten Disputationen. \n*Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora.... \n*Pronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri.....:* fol. 129 - 144 \n*Theoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)!*: fol. 146 - 171v. Initium Protologiae: Post simplicia corpora perfecta corpora mixta tractavimus.... Clausula fol. 171v: 28 Augusti 1634. \n*Theoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione):* fol. 177 - 275v. Initium Protologiae: Physica in communi corpus naturale qua naturale considerat.... Clausula fol. 275v: 3. Apr. 1634. \n*Syntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.* (fol. 282 - 294)",
-    "physical": "Papier \nKomplexer Mischband aus Handschrift, Leerblättern und zwei Drucken \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+    "physical": "Papier \nKomplexer Mischband aus Handschrift, Leerblättern und zwei Drucken \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+    "german": "II + 124 handschriftliche Blätter + 7 leere Blätter + IV + 28 gedruckte Seiten (= Bl. 129–145) + 259 handschriftliche Blätter + 6 leere Blätter + 97 handschriftliche Blätter + 6 leere Blätter + IV + 19 gedruckte Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen und denselben Initialen wie Codex MN II 20.\n\n**a) Physikalische Theorien zu den vier Büchern des Aristoteles Über den Himmel**, diktiert von P. Simon Fyrbas, Mönch von Scheyern, mitgeschrieben von P. Benedict Graff, Profess in Seitenstetten. Salzburg 1634: Bl. 1–124. Anfang der Protologie Bl. 1r: **So weit der Himmel von der Erde entfernt ist, um so viel edler....**\n\n**b) Philosophische Lehrsätze über die Natur des Himmels**, unter dem Vorsitz von P. Fr. Simon Fyrbas verteidigt von P. Wolfgang David Probsti, Profess des Klosters Monacense, Student des Kirchenrechts und Bakkalaureus der Philosophie. Für den ... Juni MDCXXX.... Salzburg, gedruckt bei Christoph Katzenberger.....: Bl. 129–144.\n\n**c) Physikalische Theorien zu den vier Büchern des Aristoteles über die Meteore**, diktiert.... (alles wie in Teil a)!: Bl. 146–171v. Anfang der Protologie: **Nach den einfachen Körpern haben wir die vollkommenen gemischten Körper behandelt....** Schluss Bl. 171v: **28. August 1634.**\n\n**d) Physikalische Theorien zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** Bl. 177–275v. Anfang der Protologie: **Die Physik im Allgemeinen betrachtet den natürlichen Körper, insofern er natürlicher Körper ist....** Schluss Bl. 275v: **3. April 1634.**\n\n**e) Physikalische Lehrsätze über die Natur von Werden, Vergehen, Veränderung und Wachstum**, an der Universität Salzburg unter dem Vorsitz von P. Fr. Simon Fyrbas verteidigt von Fr. Odo Guzinger, Profess des Klosters Seeon, Bakkalaureus der Philosophie und Student der Metaphysik. Für den ... September 1634. Salzburg, gedruckt bei Christoph Katzenberger, Hof- und Universitätsdrucker: Bl. 282–294.",
+    "latin": "II + 124 foll. manu scripta + 7 foll. vacua + IV + 28 pagg. typis impressae (= fol. 129 - 145) + 259 manuscr. + 6 foll. vacua + 97 foll. manuscr. + 6 foll. vacua + IV + 19 pagg. typis mandatae; teg. a2 cum litteris initialibus ut in cod. MN II 20\n\na) *Theoriae Physicae ad IV Aristotelis Libros de Coelis Dictatae ab .....P. Simone Fyrbas .....Monacho Schyrensi...Exceptae a P. Benedicto Graff ....in Seittenstetten Professo. Salisburgi Anno MDCXXXIV (1634):* fol. 1 - 124. Initium Protologiae ad Libros IV Coelorum fol. 1r: Quantum Coelum distat a terra in tantum nobiliora....\n\nb) *Pronunciata Philosophica, De Natura Coelesti....sub praesidio P. F. Simonis Fyrbas....Propugnata a....P. Wolfgango Davide Probsti ....Monasterio Monacensi Professo, Juris Canonici Studioso, et Philosophiae Baccalaureo. Ad diem ....Mensis Junii, Anno MDCXXX....Salisburgi, Typis Christophori Katzenbergeri.....:* fol. 129 - 144\n\nc) *Theoriae Physicae ad IV Aristotelis libros Meteororum Dictatae....(omnia ut in parte a)!*: fol. 146 - 171v. Initium Protologiae: Post simplicia corpora perfecta corpora mixta tractavimus.... Clausula fol. 171v: 28 Augusti 1634.\n\nd) *Theoriae Physicae ad II Aristotelis Libros (de Generatione et Corruptione):* fol. 177 - 275v. Initium Protologiae: Physica in communi corpus naturale qua naturale considerat.... Clausula fol. 275v: 3. Apr. 1634.\n\ne) *Syntagmata Physica, De Natura Generationis, Corruptionis, Alterationis, et Accretionis. In Alma....(ut in parte b) Praeside P. F. Simone Fyrbas .... Propugnata a....F. Oddone Guzinger ....in....Monasterio Seeonensi Professo, Philosophiae Baccalaureo, ac Metaphysicae Studioso. Ad diem....Mensis Sept. MDCXXXIV....Salisburgi, Typis Christophori Katzenbergeri, Typographi Aulici et Academici.* (fol. 282 - 294)"
   }
 }

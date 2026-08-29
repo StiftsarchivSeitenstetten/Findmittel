@@ -13,14 +13,34 @@ ms_contents:
   summary: Katalogbeschreibung von Arch. Cod. 34 X (XVIII 3v).
   items:
   - label: a
-    catalog_statement: 'Commentarius in VIII Libros Physicorum Aristotelis Traditus a R. P. Rudolpho Wiser Monacho Benedictino
-      ad S. Lambertum (St. Lambrecht) Philosophiae Professore ordinario. Exceptus a Religioso F. Bonifacio Stummer Monacho
-      Benedictino Seittenstettensi. Anno MDCLI (1651): fol. 1 - 272. Inscriptio haec margine eleganter lineata circumdata
-      est, cuius auctor a parte sinistra signum suum "A Waltres exc." posuit.'
+    catalog_statement: 'Commentarius in VIII Libros Physicorum Aristotelis Traditus a R. P. Rudolpho Wiser Monacho Benedictino ad S. Lambertum
+      (St. Lambrecht) Philosophiae Professore ordinario. Exceptus a Religioso F. Bonifacio Stummer Monacho Benedictino Seittenstettensi. Anno
+      MDCLI (1651): fol. 1 - 272. Inscriptio haec margine eleganter lineata circumdata est, cuius auctor a parte sinistra signum suum "A Waltres
+      exc." posuit.'
+    title: Commentarius in VIII Libros Physicorum Aristotelis Traditus a R. P. Rudolpho Wiser Monacho Benedictino ad S. Lambertum (St. Lambrecht)
+      Philosophiae Professore ordinario. Exceptus a Religioso F. Bonifacio Stummer Monacho Benedictino Seittenstettensi. Anno MDCLI (1651)
+    locus: fol. 1 - 272
+    incipits:
+    - locus: fol. 1r
+      label: Proemii
+      text: Cum in logica sufficienter scientiarum viam indagaverimus....
+    colophons:
+    - locus: fol. 272r
+      text: Absolvimus hunc Commentarium.... primâ Martii post prandium Anno Domini 1651.
+    title_status: unspecified
   - label: b
-    catalog_statement: '(Commentarius in IV libros de Coelis Aristotelis Traditus a P. R. Rudolpho Wiser.... (omnia ut in
-      parte a!)): fol. 273 - 333 (cum indice). Titulus eodem margine ornatus est; cui tamen non solum a parte sinistra: "A.
-      Waltres exc.", sed etiam a parte dextra: "F Moncornet le Jeune sculpsit" subnotatum est.'
+    catalog_statement: '(Commentarius in IV libros de Coelis Aristotelis Traditus a P. R. Rudolpho Wiser.... (omnia ut in parte a!)): fol. 273
+      - 333 (cum indice). Titulus eodem margine ornatus est; cui tamen non solum a parte sinistra: "A. Waltres exc.", sed etiam a parte dextra:
+      "F Moncornet le Jeune sculpsit" subnotatum est.'
+    title: Commentarius in IV libros de Coelis Aristotelis Traditus a P. R. Rudolpho Wiser.... (omnia ut in parte a!)
+    title_status: supplied
+    title_source: cataloguer
+    locus: fol. 273 - 333
+    colophons:
+    - locus: fol. 333v
+      text: Absolvimus 4 libros De coelis pridie calendas Aprilis.
+    - locus: fol. 333r
+      text: absolvi haec omnia 12 Aprilis Anni 1651.
 phys_desc:
   object_form: codex
   support: Papier

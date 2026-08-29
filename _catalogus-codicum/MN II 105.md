@@ -9,10 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 105
 ms_contents:
-  catalogue_title_or_summary: 'Summa Logicae Dictata Ab.....Patre Gregorio Wimberger Ordinis Sanctissimi Patris Benedicti
-    in Celeberrimo Monasterio Cremifanensi professo, et Philosophiae illo tempore Salisburgi Professore Ordinario. Excepta
-    verò â Reverendo Domino Fratre Joanne Gerstl eiusdemque (!) ordinis, Professo in Celeberrimo Monasterio Seittenstettensi
-    inferioris Austriae. M: DC: LXX 1670.'
+  items:
+  - catalog_statement: 'Summa Logicae Dictata Ab.....Patre Gregorio Wimberger Ordinis Sanctissimi Patris Benedicti in Celeberrimo Monasterio Cremifanensi
+      professo, et Philosophiae illo tempore Salisburgi Professore Ordinario. Excepta verò â Reverendo Domino Fratre Joanne Gerstl eiusdemque
+      (!) ordinis, Professo in Celeberrimo Monasterio Seittenstettensi inferioris Austriae. M: DC: LXX 1670.'
+    title: 'Summa Logicae Dictata Ab.....Patre Gregorio Wimberger Ordinis Sanctissimi Patris Benedicti in Celeberrimo Monasterio Cremifanensi
+      professo, et Philosophiae illo tempore Salisburgi Professore Ordinario. Excepta verò â Reverendo Domino Fratre Joanne Gerstl eiusdemque
+      (!) ordinis, Professo in Celeberrimo Monasterio Seittenstettensi inferioris Austriae. M: DC: LXX 1670'
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

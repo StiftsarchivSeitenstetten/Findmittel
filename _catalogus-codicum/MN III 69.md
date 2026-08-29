@@ -9,15 +9,18 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 69
 ms_contents:
-  title: "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres"
   items:
-  - label: "a"
-    title: "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres"
-    locus: "S. 1–108"
-  - label: "b"
-    title: "Bittgesang bey der Procession nach Enzersdorf nächst Brunn"
-    locus: "S. 79–81"
-    incipit: "Gnadenquelle! sey gegrüßt,....."
+  - label: a
+    title: Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen.
+      Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres
+    locus: p. 109–110
+    title_status: unspecified
+  - label: b
+    title: Bittgesang bey der Procession nach Enzersdorf nächst Brunn
+    locus: p. 79–81
+    incipits:
+    - text: Gnadenquelle! sey gegrüßt,.....
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

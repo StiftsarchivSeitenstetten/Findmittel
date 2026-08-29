@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "69-7-33",
   "signature": "69.7.33",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsbibliothek Seitenstetten",
   "catalogPage": "212",
   "heading": {
-    "title": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1728 (?)"
   },
   "date": {
@@ -28,6 +28,9 @@
     "summary": "Katalogbeschreibung von Bibl. Cod. 69.7.33.",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -39,13 +42,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–106",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -62,13 +69,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Beylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz, ......: fol. 107–322.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Beylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz,",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 107–322",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -142,13 +153,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/69-7-33/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "69.7.33",
-    "titles": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106 \nErb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106 \nBeylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz, ......: fol. 107–322.",
-    "persons": "Johann Adam von Heintz author or compiler author_or_compiler",
+    "titles": "Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz \nErb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz \nBeylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz,",
+    "persons": "Johann Adam von Heintz author or compiler author_or_compiler ",
     "incipits": "",
     "explicits": "",
     "notes": "Katalogbeschreibung von Bibl. Cod. 69.7.33. \nErb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz: fol. 1–106 \nBeylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz, ......: fol. 107–322.",
-    "physical": "Papier \n322 foll. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+    "physical": "Papier \n322 foll. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+    "german": "Folioformat; 322 Blätter; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1728 (?).\n\na) **Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz:** fol. 1–106.\n\nb) **Beylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz, ......:** fol. 107–322.\n\nDer Schreiber ist unbekannt; ebenso bleibt ungewiss, ob gerade dieses Exemplar bereits 1728 geschrieben wurde.\n\nDie Einbandaufschrift **D. A. S. 1774** ist so zu verstehen: Abt Dominicus von Seitenstetten ließ den Codex 1774 einbinden. Vgl. dieselbe Aufschrift oben S. 206 bei MN I 9, S. 207 bei 97.1.6–9 und MN I 15.",
+    "latin": "fol.; 322 foll.; teg. b1 cum dorso albo; script. 1728 (?)\n\na) **Erb-Huldigungs Actus: In Inner Österreich, idem (!), Steüer (= Steiermark), Cärnthen, Crain, Görtz, Trieste und Fiume: Wie solcher Anno 1728: Ihro Römisch Kaiserliche in Hispanien auch zu Hungarn und Böhaimb Königliche Mayestät Ertzhertzogen zu Österreich Carolo Sexto ......abgelegt worden.....alles Unter dem Praesidio Deß Hochwohlgebohrnen Herrn Herrn Johann Frantz Godfried deß Heyligen Römischen Reichs Grafen von Dietrichstain Freyherrn zu Hollabrunn,.....und HofsCammer Praesidenten In Einer ordnung zur künfftigen Nachricht.....Zusamben getragen und Beschriben Durch Allerhöchst gedacht Ihro Kayserlich und Königlich Catholischen Mayestät HofsBuchhaltern, und damahls auf gedachter Erb Rayß mit gewesten Raitt Rath: Johann Adam von Heintz:** fol. 1–106\n\nb) **Beylagen, Welche zu Den Anno 1728 .....ErbHuldigungs Actum gehörig seynd, Zusamben getragen, und in ordnung gebracht: Durch Johann Adam von Heintz, ......:** fol. 107–322.\n\nScriptor ignotus; item incertum, num codex noster iam anno 1728 inscriptus sit.\n\nInscriptio in tegumento adverso: **D. A. S. 1774** ita intelligenda est: Dominicus Abbas Seitenstettensis anno 1774 tegumento munivit hunc codicem. (Vide eandem inscriptionem supra p. 206 ad codicem MN I 9 et p. 207 ad codices 97.1.6–9 et MN I 15!)"
   }
 }

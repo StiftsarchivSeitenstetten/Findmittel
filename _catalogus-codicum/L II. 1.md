@@ -10,16 +10,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: L II. 1
 ms_contents:
-  title: "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati"
   items:
-  - label: "a"
-    title: "Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati"
-    locus: "S. 1–547"
-  - label: "b"
-    title: "indice alphabetico"
-    title_type: supplied
-    locus: "S. 548–576"
-    note: "Der alphabetische Index wird im Katalog als parenthetische Inhaltsbezeichnung angegeben."
+  - label: a
+    title: Antiquitates typographicae seu libri usque ad annum 1500 impressi, qui in bibliotheca monasterii Seitenstadiensis adservantur, secundum
+      annorum seriem dispositi et descripti nonnullisque notis historico-litterariis illustrati
+    title_status: unspecified
+  - label: b
+    title: indice alphabetico
+    locus: p. 548–576
+    note: Der alphabetische Index wird im Katalog als parenthetische Inhaltsbezeichnung angegeben.
+    title_status: supplied
+    title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

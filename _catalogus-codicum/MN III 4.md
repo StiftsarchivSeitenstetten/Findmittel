@@ -10,67 +10,112 @@ ms_identifier:
   idno: MN III 4
 ms_contents:
   items:
-  - label: "a"
-    title: "Articulus Primus De Ad statum Religiosum pertinentibus"
-    locus: "S. 1–80"
-    incipit: "Considera, si Religiosus sis...."
-  - label: "b"
-    title: "De varia piarum Meditationum materia cuivis hominum statui apta"
-    locus: "S. 81–128"
-    incipit: "Inter omnia pietatis verae Exercitia...."
-  - label: "c"
-    title: "Articulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi"
-    locus: "S. 129–240"
-    incipit: "Considera igitur ô anima mea....."
-  - label: "d"
-    title: "Articulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda"
-    locus: "S. 241–269"
-    incipit: "Considerabis....."
-  - label: "e"
-    title: "Articulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae"
-    locus: "S. 270–288"
-    incipit: "Olim nihil fuisse....."
-  - label: "f"
-    title: "Articulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem"
-    locus: "S. 289–375"
-  - label: "g"
-    title: "Articulus 7. De Beneficiis Dei"
-    locus: "S. 376–394"
-    incipit: "1° Considera: Ab aeterno...."
-  - label: "h"
-    title: "Articulus 8. De Dignitate status Sacerdotalis"
-    locus: "S. 395–442"
-    incipit: "Caput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina...."
-  - label: "i"
-    title: "Articulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis"
-    locus: "S. 442–494"
-    incipit: "Si in Sacerdotio....."
-  - label: "j"
-    title: "Index"
-    locus: "S. 497–515"
-  - label: "k"
-    title: "Adiumenta generalia ad vitae emendationem conducentia"
-    locus: "S. 517–519"
-  - label: "l"
-    title: "Annotationes de Morte ex Sanctis Patribus"
-    locus: "S. 520–523"
-  - label: "m"
-    title: "Quo fine litteris incumbendum ex S. Bernardo"
-    locus: "S. 527–528"
-  - label: "n"
-    title: "De vitiis quae maximè declinari debeant"
-    locus: "S. 529–542"
-  - label: "o"
-    title: "De Virtutibus, quae homines Christianos potissimum decent"
-    locus: "S. 543–584"
-    incipit: "1. Timor Dei. Ante omnia se offert Dei Timor...."
-  - label: "p"
-    title: "Meditatio de Scopo et fine religiosi hominis"
-    locus: "S. 631–696"
-    note: "Mit weiteren Meditationen."
-  - label: "q"
-    title: "Communia Omnibus Meditationibus"
-    locus: "S. 696–702"
+  - label: a
+    title: Articulus Primus De Ad statum Religiosum pertinentibus
+    locus: p. 1–80
+    incipits:
+    - text: Considera, si Religiosus sis....
+      locus: p. 1
+    title_status: unspecified
+  - label: b
+    title: De varia piarum Meditationum materia cuivis hominum statui apta
+    locus: p. 81–128
+    incipits:
+    - text: Inter omnia pietatis verae Exercitia....
+      locus: p. 81
+      label: Praefationis
+    title_status: unspecified
+  - label: c
+    title: Articulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi
+    locus: p. 129–240
+    incipits:
+    - text: Considera igitur ô anima mea.....
+      locus: p. 129
+      label: Capitis I De Pedum lotione
+    title_status: unspecified
+  - label: d
+    title: Articulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda
+    locus: p. 241–269
+    incipits:
+    - text: Considerabis.....
+      locus: p. 241
+      label: Capitis I De Conceptione Beatae Virginis
+    title_status: unspecified
+  - label: e
+    title: Articulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae
+    locus: p. 270–288
+    incipits:
+    - text: Olim nihil fuisse.....
+      locus: p. 270
+      label: Capitis I De miseria hominis ex parte Corporis
+    title_status: unspecified
+  - label: f
+    title: Articulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem
+    locus: p. 289–375
+    incipits:
+    - locus: p. 289
+      label: Considerationis I De Peccatorum multitudine
+      text: 1° Igitur peccatorum vitae praeterritae.(1)....
+    title_status: unspecified
+  - label: g
+    title: Articulus 7. De Beneficiis Dei
+    locus: p. 376–394
+    incipits:
+    - text: '1° Considera: Ab aeterno....'
+      locus: p. 376
+      label: Capitis I De Creationis beneficio
+    title_status: unspecified
+  - label: h
+    title: Articulus 8. De Dignitate status Sacerdotalis
+    locus: p. 395–442
+    incipits:
+    - text: Caput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina....
+      locus: p. 395
+    title_status: unspecified
+  - label: i
+    title: Articulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam
+      proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis
+    locus: p. 442–494
+    incipits:
+    - text: Si in Sacerdotio.....
+      locus: p. 442
+    title_status: unspecified
+  - label: j
+    title: Index
+    locus: p. 497–515
+    title_status: unspecified
+  - label: k
+    title: Adiumenta generalia ad vitae emendationem conducentia
+    locus: p. 517–519
+    title_status: unspecified
+  - label: l
+    title: Annotationes de Morte ex Sanctis Patribus
+    locus: p. 520–523
+    title_status: unspecified
+  - label: m
+    title: Quo fine litteris incumbendum ex S. Bernardo
+    locus: p. 527–528
+    title_status: unspecified
+  - label: n
+    title: De vitiis quae maximè declinari debeant
+    locus: p. 529–542
+    title_status: unspecified
+  - label: o
+    title: De Virtutibus, quae homines Christianos potissimum decent
+    locus: p. 543–584
+    incipits:
+    - text: 1. Timor Dei. Ante omnia se offert Dei Timor....
+      locus: p. 543
+    title_status: unspecified
+  - label: p
+    title: Meditatio de Scopo et fine religiosi hominis
+    locus: p. 631–696
+    note: Mit weiteren Meditationen.
+    title_status: unspecified
+  - label: q
+    title: Communia Omnibus Meditationibus
+    locus: p. 696–702
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "cccxii",
   "signature": "CCCXII",
   "aliases": [
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Jus regni Bohemici, lingua Bohemica scriptum",
-    "titleTypeRaw": "supplied",
-    "titleTypeLabel": "erschlossener Titel",
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,6 +48,7 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Jus regni Bohemici, lingua Bohemica scriptum",
         "typeRaw": "supplied",
@@ -52,6 +56,9 @@
       },
       "locus": "Bl. 1r–345v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -137,13 +144,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/cccxii/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "CCCXII",
     "titles": "Jus regni Bohemici, lingua Bohemica scriptum \nJus regni Bohemici, lingua Bohemica scriptum",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern.",
-    "physical": "Papier \n8°, teg. b2, 345 foll., script. anno 1564 \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierungen bzw. Besonderheiten siehe Katalogtext."
+    "physical": "Papier \n8°, teg. b2, 345 foll., script. anno 1564 \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierungen bzw. Besonderheiten siehe Katalogtext.",
+    "german": "Oktavformat; schwarzer Ledereinband; 345 Blätter; geschrieben 1564.\n\n**(Recht des Königreichs Böhmen, in böhmischer Sprache geschrieben)**",
+    "latin": "8°, teg. b2, 345 foll., script. anno 1564\n\n(Jus regni Bohemici, lingua Bohemica scriptum)"
   }
 }

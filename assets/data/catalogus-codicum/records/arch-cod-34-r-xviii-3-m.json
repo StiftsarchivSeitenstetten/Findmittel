@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-r-xviii-3-m",
   "signature": "Arch. Cod. 34 R (XVIII 3 m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "73–74",
   "heading": {
-    "title": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris .......",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": ""
   },
   "date": {},
@@ -22,6 +22,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34 R (XVIII 3 m).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -33,15 +36,29 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris .......",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
       },
-      "locus": "",
+      "locus": "fol. 1–414",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 414v",
+          "text": "absolvimus primo die Septembris .......",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "locus": "fol. 414v",
+        "text": "absolvimus primo die Septembris .......",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -56,15 +73,47 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Commentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. Initium fol. 1r: Pars ista philosophiae tertia uti tempore ultima.... Clausula fol. 51r: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670. Clausula altera fol. 52r: ....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Commentarius in Aristotelis Metaphysicam. 1670. 2 September",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "fol. 1–51",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "fol. 1r",
+          "text": "Pars ista philosophiae tertia uti tempore ultima....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [
+        {
+          "locus": "fol. 52r",
+          "label": "altera",
+          "text": "....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.",
+          "id": "explicit-1"
+        }
+      ],
+      "colophons": [
+        {
+          "locus": "fol. 51r",
+          "text": "Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "fol. 1r",
+        "text": "Pars ista philosophiae tertia uti tempore ultima....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 52r",
+        "label": "altera",
+        "text": "....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.",
+        "id": "explicit-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -114,13 +163,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-r-xviii-3-m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34 R (XVIII 3 m)",
-    "titles": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris ....... \n(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris ....... \nCommentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. Initium fol. 1r: Pars ista philosophiae tertia uti tempore ultima.... Clausula fol. 51r: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670. Clausula altera fol. 52r: ....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.",
+    "titles": "(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus \n(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus \nCommentarius in Aristotelis Metaphysicam. 1670. 2 September",
     "persons": "",
-    "incipits": "",
-    "explicits": "",
+    "incipits": "Pars ista philosophiae tertia uti tempore ultima....",
+    "explicits": "....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi. \nabsolvimus primo die Septembris ....... \nAbsolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34 R (XVIII 3 m). \n(Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). Clausula fol. 414v: absolvimus primo die Septembris ....... \nCommentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. Initium fol. 1r: Pars ista philosophiae tertia uti tempore ultima.... Clausula fol. 51r: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670. Clausula altera fol. 52r: ....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.",
-    "physical": "Papier \n**420 + 53 = 473 foll.** [beide Summanden handschriftlich über überschriebenen älteren Zahlen] \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n**420 + 53 = 473 foll.** [beide Summanden handschriftlich über überschriebenen älteren Zahlen] \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Quartformat; 420 + 53 = 473 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111.\n\na) **Kommentar zur Physik des Aristoteles = zweiter Teil der Physik oder spezielle Physik:** ursprünglich fol. 1–414; heute sind fol. 1–117 herausgeschnitten. Es folgt ein Register fol. 1–6r, auf fol. 6r die Jahreszahl 1670. Schluss fol. 414v: **Wir beendeten [dies] am 1. September.**\n\nb) **Kommentar zur Metaphysik des Aristoteles**, begonnen 2. September 1670: fol. 1–51, mit Register fol. 52. Anfang fol. 1r: „Dieser dritte Teil der Philosophie ist, wie er zeitlich der letzte ist....“ Schluss fol. 51r: **Wir beendeten [dies] am 19. September in der Nachmittagsstunde, zu jener Zeit, als ich mich im Examen für den Subdiakonat befand, 1670.** Zweiter Schluss fol. 52r: **Diese Dinge wurden nach langer Arbeit von mir, Fr. Amandus Kerner, Benediktiner von Seitenstetten, niedergeschrieben.**\n\nRandnotiz: **Physik des ehrwürdigen P. Paulus Mezger, Benediktiner von St. Peter in Salzburg, Teil II.**",
+    "latin": "4°; **420 + 53 = 473 foll.** [beide Summanden handschriftlich über überschriebenen älteren Zahlen]; teg. a2 ut in cod. MN II 111\n\na) (Commentarius in Aristotelis Physicam = Pars II. Physices seu Physica Specialis): primitus fol. 1–414, sed nunc fol. 1–117 excisa sunt; sequitur Index fol. 1–6r. (fol. 6r numerus anni: 1670). _Clausula_ fol. 414v: absolvimus primo die Septembris .......\n\nb) Commentarius in Aristotelis Metaphysicam. 1670. 2 September: fol. 1–51 cum Indice fol. 52. _Initium_ fol. 1r: Pars ista philosophiae tertia uti tempore ultima.... _Clausula_ fol. 51r: Absolvimus 19. die Septembris.....horâ pomeridianâ quo tempore eram in examine pro subdiaconatu 1670. _Clausula altera_ fol. 52r: ....haec diuturno labore conscripta a me Fratre Amando (Kerner) sunto. P. Benedictino Seittenstöttensi.\n\n[Marginalie:] Physicae Reverendi **P. Pauli Mezger** Ordinis S. Benedicti, ad S. Petrum Salisburgi Pars II."
   }
 }

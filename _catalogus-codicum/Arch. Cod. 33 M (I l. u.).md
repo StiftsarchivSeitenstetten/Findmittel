@@ -10,12 +10,13 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 33 M (I l. u.)
 ms_contents:
-  title: "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)"
   items:
-  - label: "a"
-    title: "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)"
-    locus: "S. 1–78"
-    note: "Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist nicht supplied."
+  - label: a
+    title: Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)
+    locus: S. 1–78
+    note: Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist
+      nicht supplied.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

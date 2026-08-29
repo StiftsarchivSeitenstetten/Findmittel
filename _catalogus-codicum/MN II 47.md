@@ -17,10 +17,15 @@ ms_contents:
   items:
   - label: a
     title: Tractatus Primus De Sacramentis in Communi
-    locus: S. 1–75
+    locus: p. 1 - 75
+    incipits:
+    - label: Praefationis
+      text: Quoniam Utilitas, Necessitas et praestantia....
+    title_status: unspecified
   - label: b
     title: Tractatus II–VIII De singulis sacramentis in specie
     locus: S. 75–568
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

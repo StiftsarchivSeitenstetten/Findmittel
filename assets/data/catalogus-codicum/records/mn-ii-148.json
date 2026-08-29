@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-148",
   "signature": "MN II 148",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "108–109",
   "heading": {
     "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1686/87"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie",
-    "titleTypeRaw": "",
+    "titleTypeRaw": "unspecified",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,27 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Prima De Virtute et obiecto Justitiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 1v–97v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687)",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687)",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -68,15 +83,27 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Secunda De Restitutione In Genere",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 98r–144v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -91,15 +118,27 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Tertia De Iniuriis et Restitutione in specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 145r–220r",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [
+        {
+          "text": "Die. 27. Augusti Anno 1687.",
+          "id": "colophon-1"
+        }
+      ],
       "incipit": null,
-      "explicit": null,
+      "explicit": {
+        "text": "Die. 27. Augusti Anno 1687.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [
         {
@@ -114,15 +153,39 @@
       "id": "item-d",
       "label": "d",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "fol. 221v–232v",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. IX",
+          "text": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "fol. 231v",
+          "text": "Lectio 140 Die 2. Septembris 1687.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. IX",
+        "text": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "fol. 231v",
+        "text": "Lectio 140 Die 2. Septembris 1687.",
+        "id": "colophon-1"
+      },
       "notes": [],
       "dates": [],
       "persons": [],
@@ -239,13 +302,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 148",
     "titles": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie \nDisputatio Prima De Virtute et obiecto Justitiae \nDisputatio Secunda De Restitutione In Genere \nDisputatio Tertia De Iniuriis et Restitutione in specie \nIndex super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie",
-    "persons": "P. Paulus Mezger Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
-    "notes": "",
-    "physical": "Papier \nIII + 232 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "persons": "P. Paulus Mezger Dozent lecturer St. Peter, Salzburg \nFr. Marcus Starnisi Schreiber scribe Seitenstetten",
+    "incipits": "Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus.....",
+    "explicits": "Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687) \nAbsolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer. \nDie. 27. Augusti Anno 1687. \nLectio 140 Die 2. Septembris 1687.",
+    "notes": "type: historical_note; context: Schlussvermerk der ersten Disputation; date_display: 11. (?) April 1687; subject: Tod des Abtes Ambrosius von Seitenstetten; certainty: uncertain \nInfulierung durch Bischof Stainer.",
+    "physical": "Papier \nIII + 232 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "III + 232 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**Abhandlung zur Secunda Secundae des hl. Thomas über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen**, vorgetragen von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und erster ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, damals sein Schüler, im Jahr 1687.\n\nAnfang der Vorrede fol. 1r: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.... Randnotiz: **Begonnen am 6. (?) November 1686.**\n\na) **Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:** fol. 1v–97v. Schluss: **Beendet am 14. April 1687, in dem Jahr, in welchem unser Abt Ambrosius von Seitenstetten am 11. (?) April fromm in Christus verschied.** (Chronogramm auf 1687.)\n\nb) **Zweite Disputation über die Restitution im Allgemeinen:** fol. 98r–144v. Schluss: **Beendet am 11. Juni 1687. Heute wurde unser hochwürdigster Benedictus Abelzhauser vom hochwürdigsten Bischof Stainer infuliert.**\n\nc) **Dritte Disputation über Unrecht und Restitution im Einzelnen:** fol. 145r–220r. Schluss: **27. August 1687.**\n\nd) **Register zur Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge:** fol. 221v–232v. Nach den beigefügten Nummern enthält der Codex etwa 150 Vorlesungen.\n\nDieselbe Abhandlung enthalten MN II 159 und MN II 162. Fr. Marcus Starnisi schrieb auch die beiden vorhergehenden und die sechs folgenden Codices.",
+    "latin": "III + 232 foll.; teg. a2; script. 1686/87\n\nTractatus In Secundam Secundae Divi Thomae partem De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie. Traditus A Plurimum Reverendo....P. Paulo Mezger, Ordinis S. P. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo Sacrosanctae Theologiae Doctore, et Professore eiusdem Ordinario, et Primario. Calamô vero exceptus A Religioso F. Marco Starnisi eiusdem Ordinis Professo, in Celeberrimo Inferioris Austriae Monasterio Seittenstettensi, eius pro tempore indignissimo Discipulo. Anno Domini M. D.C. LXXXVII. Initium (Prooemii) Tractatus De Jure et Justitia: fol. 1r: A Theologicis ad virtutes Cardinales progreditur S. Doctor.... Nota in margine inferiore: Inceptus 6. (?) Novembris 1686.\n\na) Disputatio Prima De Virtute et obiecto Justitiae: fol. 1v–97v. Clausula: Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687)\n\nb) Disputatio Secunda De Restitutione In Genere: fol. 98r–144v. Clausula: Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer.\n\nc) Disputatio Tertia. De Iniuriis et Restitutione in specie: fol. 145r–220r. Clausula: Die. 27. Augusti Anno 1687.\n\nd) Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie: fol. 221v–232v. (Juxta numeros appositos codex continet circ. 150 lect.)\n\nEundem tractatum exhibent etiam codices MN II 159 et 162 (vide inferius!) F. Marcus Starnisi scripsit etiam duos codices praecedentes et sex sequentes.\n\n### Arch. Cod. 34–11 (XVIII 3 h)\n\n4°. VI + 236 foll.; teg. a2; script. 1686/87\n\nTractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).\n\n\n\n\nInitium p. IX (= fol. Vr): Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus..... Clausula fol. 231v: Lectio 140 Die 2. Septembris 1687.\n\nEundem tractatum reperies in codicibus MN II 160 et 162 (Vide inferius!) F. Marcus Starnisi scripsit etiam tres codices praecedentes et quinque sequentes."
   }
 }

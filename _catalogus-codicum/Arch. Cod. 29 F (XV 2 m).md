@@ -10,12 +10,16 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 29 F (XV 2 m)
 ms_contents:
-  title: "Privilegia Monasterii Seitenstettensis dispensandi in variis Casibus .....ob communicationem privilegiorum cum Cassinensibus concessam ab Innocentio 12mo Summo Pontifice Romano. Conscripta a R. P. Amando Kerner Ordinis S. Benedicti, Professo Seittenstettensi Anno 1704, [litterae deletae] Mense Julio Die XII."
   items:
-  - label: "a"
-    title: "Privilegia Monasterii Seitenstettensis dispensandi in variis Casibus .....ob communicationem privilegiorum cum Cassinensibus concessam ab Innocentio 12mo Summo Pontifice Romano. Conscripta a R. P. Amando Kerner Ordinis S. Benedicti, Professo Seittenstettensi Anno 1704, [litterae deletae] Mense Julio Die XII."
-    locus: "S. 1–64"
-    explicit: "Finis P. Amandus Kerner Anno 1704, 28. Junii."
+  - label: a
+    title: Privilegia Monasterii Seitenstettensis dispensandi in variis Casibus .....ob communicationem privilegiorum cum Cassinensibus concessam
+      ab Innocentio 12mo Summo Pontifice Romano. Conscripta a R. P. Amando Kerner Ordinis S. Benedicti, Professo Seittenstettensi Anno 1704, [litterae
+      deletae] Mense Julio Die XII.
+    locus: p. 64
+    colophons:
+    - locus: p. 64
+      text: Finis P. Amandus Kerner Anno 1704, 28. Junii.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

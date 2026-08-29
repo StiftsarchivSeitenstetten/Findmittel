@@ -10,13 +10,17 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 34–18 (XVIII 3 m)
 ms_contents:
-  title: "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686)."
   items:
-  - label: "a"
-    title: "Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686)."
-    locus: "S. IX–Bl. 439v"
-    incipit: "Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur...."
-    note: "Mit mehreren Zeichnungen."
+  - label: a
+    title: Tractatus in Physicam Aristotelis Traditus in Alma et Archi-Episcopali Universitate Salisburgensi Ab...... P. Brunone Schlibnigg ordinis
+      S. Benedicti celeberrimi Monasterii ad Sanctum Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Exceptus A Religioso
+      F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo Anno MDCLXXXVI. (1686).
+    locus: p. IX
+    note: Mit mehreren Zeichnungen.
+    incipits:
+    - text: Tractatus 2 In octo Libros Physicorum Aristotelis. A spineto logicae digredimur....
+      locus: p. IX
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -10,32 +10,55 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 Y (XVIII 2v)
 ms_contents:
-  title: "Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797."
+  title: Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und
+    westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe
+    ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner
+    der Abbtey Seitenstetten 1797.
   items:
-  - label: "a"
-    title: "Tomus I"
-    title_type: supplied
-    locus: "352 Seiten"
+  - label: a
+    title: Tomus I
+    locus: 352 Seiten
     date: 1794
-    note: "Mit einem zusätzlich eingebundenen, nicht mit dem Band verbundenen Werkchen desselben Verfassers."
-  - label: "b"
-    title: "Tomus II"
-    title_type: supplied
-    locus: "366 Seiten"
+    note: Mit einem zusätzlich eingebundenen, nicht mit dem Band verbundenen Werkchen desselben Verfassers.
+    colophons:
+    - locus: p. 444
+      text: Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph
+        Schaukegl Benedictiner von Seitenstetten.
+    - text: P. Joseph Schaukegl 3 Decembris 1797.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: Tomus II
+    locus: 366 Seiten
     date: 1795
-  - label: "c"
-    title: "Tomus III"
-    title_type: supplied
-    locus: "446 Seiten"
+    colophons:
+    - locus: p. 444
+      text: Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph
+        Schaukegl Benedictiner von Seitenstetten.
+    - text: P. Joseph Schaukegl 3 Decembris 1797.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: Tomus III
+    locus: 446 pagg
     date: 1797
-    explicit: "Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten."
-    note: "Mit genealogischen Tabellen."
-  - label: "d"
-    title: "Tomus IV"
-    title_type: supplied
-    locus: "192 Seiten"
+    note: Mit genealogischen Tabellen.
+    colophons:
+    - locus: p. 444
+      text: Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph
+        Schaukegl Benedictiner von Seitenstetten.
+    - text: P. Joseph Schaukegl 3 Decembris 1797.
+    title_status: supplied
+    title_source: cataloguer
+  - label: d
+    title: Tomus IV
+    locus: 192 pagg
     date: 1797
-    explicit: "P. Joseph Schaukegl 3 Decembris 1797."
+    title_status: supplied
+    title_source: cataloguer
+    colophons:
+    - text: P. Joseph Schaukegl 3 Decembris 1797.
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

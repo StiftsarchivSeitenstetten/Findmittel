@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "97-1-12",
   "signature": "97.1.12",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "79",
   "heading": {
     "title": "Gehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "non post annum 1675"
   },
   "date": {
@@ -27,13 +27,16 @@
     "qualifier": ""
   },
   "contentsOverview": {
-    "title": "Gehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.",
+    "title": "",
     "titleTypeRaw": "",
     "titleTypeLabel": "",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Gehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
       "locus": "Bl. 1r–140v",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -132,13 +139,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/97-1-12/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "97.1.12",
     "titles": "Gehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget. \nGehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.",
-    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "persons": "unbekannt Autor author  \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
     "notes": "",
-    "physical": "Papier \n140 foll. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "physical": "Papier \n140 foll. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "Folioformat; 140 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben nicht nach 1675.\n\n**Gehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.**\n\nAuf dem Vorderdeckel steht: **A. A. Z. S. 1675 = Adam Abt Zu Seittenstetten 1675**, das heißt: Er ließ den Band in diesem Jahr einbinden. Daraus folgt, dass der Codex nicht nach 1675 geschrieben worden sein kann.\n\nSchreiber und Verfasser sind unbekannt.",
+    "latin": "fol.; 140 foll.; teg. a2; script. non post annum 1675\n\nGehaimbe Instruction.......was einem Hoff Cammer Rath in Rechts Sachen Politicis und Oeconomia zu wissen ist und obliget.\n\nParti adversae tegumenti haec inscripta sunt: A. A. Z. S. 1675 = Adam Abt Zu Seittenstetten 1675 (scilicet: tegumento hoc munivit librum). Qua de re codex noster non post annum 1675 scriptus sit oportet.\n\nScriptor et auctor ignoti."
   }
 }

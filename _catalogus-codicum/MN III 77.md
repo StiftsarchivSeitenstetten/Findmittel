@@ -9,24 +9,29 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 77
 ms_contents:
-  title: "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche"
+  title: Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche
   items:
-  - label: "a"
-    title: "Ritus baptismi"
-    title_type: "supplied"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
-  - label: "b"
-    title: "Benedictio mulieris post partum"
-    title_type: "supplied"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
-  - label: "c"
-    title: "Cura infirmorum"
-    title_type: "supplied"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
-  - label: "d"
-    title: "Nuptiae"
-    title_type: "supplied"
-    note: "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+  - label: a
+    title: ritum baptismi
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
+  - label: b
+    title: benedictionis mulieris post partum
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
+  - label: c
+    title: curae infirmorum
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
+  - label: d
+    title: nuptiarum
+    note: Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung.
+    title_status: supplied
+    title_source: cataloguer
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

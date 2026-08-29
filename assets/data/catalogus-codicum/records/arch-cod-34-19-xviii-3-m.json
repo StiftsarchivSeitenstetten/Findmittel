@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-19-xviii-3-m",
   "signature": "Arch. Cod. 34–19 (XVIII 3 m)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "200–201",
   "heading": {
-    "title": "Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Praeliminaria Logicae (",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1717"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–19 (XVIII 3 m).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,14 +48,28 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Praeliminaria Logicae (",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 4), L",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "label": "Proloquii",
+          "text": "p. 5: Speciosam juxta, ac formosam Rachelem.......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "label": "Proloquii",
+        "text": "p. 5: Speciosam juxta, ac formosam Rachelem.......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -68,14 +85,28 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Logica Magna seu Philosophia Rationalis: p. 109–588.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Logica Magna seu Philosophia Rationalis",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 109–588",
       "language": "",
-      "incipit": null,
+      "incipits": [
+        {
+          "locus": "p. 109",
+          "text": "Exantlatis sponsalitiis laboribus......",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [],
+      "incipit": {
+        "locus": "p. 109",
+        "text": "Exantlatis sponsalitiis laboribus......",
+        "id": "incipit-1"
+      },
       "explicit": null,
       "notes": [
         {
@@ -154,13 +185,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-19-xviii-3-m/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–19 (XVIII 3 m)",
-    "titles": "Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107. \nPraeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107. \nLogica Magna seu Philosophia Rationalis: p. 109–588.",
-    "persons": "P. Carolus Gschwandtner author and scribe author_and_scribe",
-    "incipits": "",
+    "titles": "Praeliminaria Logicae ( \nPraeliminaria Logicae ( \nLogica Magna seu Philosophia Rationalis",
+    "persons": "P. Carolus Gschwandtner author and scribe author_and_scribe ",
+    "incipits": "p. 5: Speciosam juxta, ac formosam Rachelem....... \nExantlatis sponsalitiis laboribus......",
     "explicits": "",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–19 (XVIII 3 m). \nPraeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107. \nLogica Magna seu Philosophia Rationalis: p. 109–588.",
-    "physical": "Papier \n590 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n590 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "590 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.\n\n**Abhandlung über die gesamte aristotelisch-thomistische Philosophie**, an der erzbischöflichen Benediktineruniversität Salzburg ausgearbeitet und eigenhändig verfasst von **P. Carolus Gschwandtner**, Benediktiner von Seitenstetten, 1717.\n\na) **Vorbereitungen zur Logik; Kleine Logik oder Institutionen der Dialektik:** S. 7–107. Anfang des Prologs S. 5: „Die schöne und anmutige Rachel....“\n\nb) **Große Logik oder rationale Philosophie:** S. 109–588. Anfang: „Nachdem die mühseligen Verlobungsarbeiten vollbracht sind....“\n\nWie der Titel ausdrücklich sagt, ist P. Carolus Gschwandtner zugleich Verfasser und Schreiber.",
+    "latin": "590 pagg.; teg. a1; script. 1717\n\n**Tractatus in Universam Philosophiam Aristotelico-Thomisticam.** Productus in lucem In alma, et Archi-Episcopali Universitate Benedictina Salisburgensi et compositus a Reverendo **P. Carolo Gschwandtner** Benedictino Seitenstettensi m(anu) (propr)ia Anno Domini 1717.\n\na) Praeliminaria Logicae (p. 4), Logica Parva, seu Institutiones Dialecticae: p. 7–107.  \nInitium Proloquii: p. 5: Speciosam juxta, ac formosam Rachelem.......\n\nb) Logica Magna seu Philosophia Rationalis: p. 109–588.  \nInitium p. 109: Exantlatis sponsalitiis laboribus......\n\nUt inscriptio totius tractatus indicat, P. Carolus Gschwandtner idem auctor est et scriptor."
   }
 }

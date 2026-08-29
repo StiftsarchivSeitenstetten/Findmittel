@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "arch-cod-34-15-xviii-3-h",
   "signature": "Arch. Cod. 34–15 (XVIII 3 h)",
   "aliases": [
@@ -8,9 +8,9 @@
   "repository": "Stiftsarchiv Seitenstetten",
   "catalogPage": "42–43",
   "heading": {
-    "title": "Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "title": "Selectum Ex Universo Jure Canonico Collegium",
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "1655"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "Katalogbeschreibung von Arch. Cod. 34–15 (XVIII 3 h).",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,15 +48,39 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Selectum Ex Universo Jure Canonico Collegium",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–210",
       "language": "",
-      "incipit": null,
-      "explicit": null,
+      "incipits": [
+        {
+          "locus": "p. 1",
+          "text": "Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit....",
+          "id": "incipit-1"
+        }
+      ],
+      "explicits": [],
+      "colophons": [
+        {
+          "locus": "p. 210",
+          "text": "Absolvi 22 Martii Salisburgi Anno 1655.",
+          "id": "colophon-1"
+        }
+      ],
+      "incipit": {
+        "locus": "p. 1",
+        "text": "Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit....",
+        "id": "incipit-1"
+      },
+      "explicit": {
+        "locus": "p. 210",
+        "text": "Absolvi 22 Martii Salisburgi Anno 1655.",
+        "id": "colophon-1"
+      },
       "notes": [
         {
           "type": "catalog_statement",
@@ -68,13 +95,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
-        "text": "Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258); finis huius partis deest.",
-        "typeRaw": null,
-        "typeLabel": null
+        "text": "Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio",
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "",
+      "locus": "p. 1–48",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -154,13 +185,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-15-xviii-3-h/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "Arch. Cod. 34–15 (XVIII 3 h)",
-    "titles": "Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655. \nSelectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655. \nCollegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258); finis huius partis deest.",
-    "persons": "Fr. Joannes Merck Schreiber scribe",
-    "incipits": "",
-    "explicits": "",
+    "titles": "Selectum Ex Universo Jure Canonico Collegium \nSelectum Ex Universo Jure Canonico Collegium \nCollegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio",
+    "persons": "Fr. Joannes Merck Schreiber scribe ",
+    "incipits": "Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit....",
+    "explicits": "Absolvi 22 Martii Salisburgi Anno 1655.",
     "notes": "Katalogbeschreibung von Arch. Cod. 34–15 (XVIII 3 h). \nSelectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655. \nCollegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258); finis huius partis deest.",
-    "physical": "Papier \n4°, 210 + 48 = 258 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+    "physical": "Papier \n4°, 210 + 48 = 258 pagg. \nQuartformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+    "german": "Quartformat; 210 + 48 = 258 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1655.\n\na) **Ausgewähltes Kolleg aus dem gesamten kanonischen Recht:** S. 1–210. Anfang S. 1: „Einteilung des kanonischen Rechts. Kanonisches Recht heißt zunächst so, weil es gesammelt ist....“ Schluss S. 210: **Beendet am 22. März 1655 in Salzburg.**\n\nb) **Kolleg des gesamten kanonischen Rechts oder knappe Erklärung der Dekretalen:** S. 1–48 (= S. 211–258); das Ende fehlt.\n\nInitialen auf dem Vorderdeckel: **C. S. E. V. I. C. F. I. M. P. S. = Collegium Salisburgense ex universo Jure Canonico, F. Joannes Merck Professus Seittenstettensis.**\n\nDaraus ergibt sich **Fr. Joannes Merck**, Profess von Seitenstetten, als Schreiber. Der Verfasser beider Kollegien ist unbekannt.",
+    "latin": "4°, 210 + 48 = 258 pagg.; teg. a1; script. 1655\n\na) Selectum Ex Universo Jure Canonico Collegium: p. 1–210. Initium p. 1: Juris Canonici Divisio. Jus Canonicum primo sic dictum est, quod collectura sit.... Clausula p. 210: Absolvi 22 Martii Salisburgi Anno 1655.\n\nb) Collegium totius Juris Canonici sive Compendiosa S. (?) Decretalium explicatio: p. 1–48 (= 211–258); finis huius partis deest.\n\nLitterae initiales adverso in tegumento: C. S. E. V. I. C .F.I.M.P.S. = Collegium Salisburgense ex universo Jure Canonico, F. Joannes Merck Professus Seittenstettensis. Qui frater hunc codicem scripsit; auctor autem utriusque collegii ignotus.\n\n\n<!-- PDF-Seite 47 -->"
   }
 }

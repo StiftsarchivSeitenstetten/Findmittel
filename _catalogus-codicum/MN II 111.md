@@ -9,7 +9,10 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 111
 ms_contents:
-  catalogue_title_or_summary: Codex MN II 111
+  items:
+  - catalog_statement: Codex MN II 111
+    title: Codex MN II 111
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

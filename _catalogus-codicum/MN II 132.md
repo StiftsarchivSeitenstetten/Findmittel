@@ -12,12 +12,26 @@ ms_contents:
   summary: Katalogbeschreibung von Bibl. Cod. MN II 132.
   items:
   - label: a
-    title: Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno
-      1678 (Inscriptio p. IV graphitide scripta)
-    locus: p. IV
+    title: Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p.
+      IV graphitide scripta)
+    locus: p. 1 - 354
+    incipits:
+    - locus: p. 1
+      text: Tractatus Secundus. De gratia. Postquam S. Doctor, in prima secundae tractavit de legibus,......
+    colophons:
+    - locus: p. 354
+      text: Absolvimus hunc tractatum 8 Julii, 1678.
+    title_status: unspecified
   - label: b
     title: Tractatus III. (De Virtutibus Theologicis Fide, Spe, et Charitate)
-    locus: p. 355 - 449.
+    locus: p. 355 - 449
+    incipits:
+    - locus: p. 355
+      text: De Fide. Pergimus ad secundam secundae Divi Thomae, ubi tractatur de virtutibus et vitiis oppositis in particulari....
+    colophons:
+    - locus: p. 449
+      text: Absolvimus hunc tractatum 8 Octobris 1678. Finis huius materiae Anno 1678. Inscriptio tegumenti ut in codice MN II 131
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

@@ -25,389 +25,405 @@ ms_identifier:
       note: "Der Katalogbearbeiter stellt ausdrücklich fest, dass Signaturen dieser Art weder in der Seitenstettner Bibliothek noch im Seitenstettner Archiv verwendet wurden."
 
 ms_contents:
-  overall_title:
-    title: "Variae Relationes"
-    title_type: "spine_title"
-    locus: "Rückenaufschrift"
-    translation: "Verschiedene Berichte"
   languages:
-    - "de"
-    - "la"
-  summary: "Sammelhandschrift mit politischen, militärischen, rechtlichen und historischen Berichten, Mandaten, Dekreten, Verträgen und Rechtsgutachten vorwiegend des 16. und frühen 17. Jahrhunderts."
-
+  - de
+  - la
+  summary: Sammelhandschrift mit politischen, militärischen, rechtlichen und historischen Berichten, Mandaten, Dekreten, Verträgen und Rechtsgutachten
+    vorwiegend des 16. und frühen 17. Jahrhunderts.
   items:
-    - label: "a"
-      title: "Ratschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß"
-      title_type: "original"
-      locus: "S. 3–13"
-      date:
-        display: "1532"
-        when: 1532
-        evidence: "Geben Inn Regenßpurg Freytags nach Cantate Anno XXXII."
-
-    - label: "b"
-      title: "Waß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen, unnd Ihr Mayestät selbst geredt haben"
-      title_type: "original"
-      locus: "S. 15–26"
-      date:
-        display: "1576"
-        when: 1576
-
-    - label: "c"
-      title: "Eines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung"
-      title_type: "original"
-      locus: "S. 27–29"
-      date:
-        display: "16. Jahrhundert?"
-        certainty: "uncertain"
-
-    - label: "d"
-      title: "Proposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten"
-      title_type: "original"
-      locus: "S. 31–37"
-      date:
-        display: "3. Juli 1582"
-        when: "1582-07-03"
-
-    - label: "e"
-      title: "Bericht über die Schlacht bei Keresztes"
-      title_type: "supplied"
-      locus: "S. 39–64"
-      incipit: "Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen..."
-      event_date:
-        display: "26. Oktober 1596"
-        when: "1596-10-26"
-      responsibility:
-        - role: "commissioner"
-          name: "Maximilian, Erzherzog von Österreich"
-      note: "Die ursprüngliche Überschrift fehlt; der Katalog gibt stattdessen den Beginn des Berichtes wieder."
-
-    - label: "f"
-      title: "Die schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten"
-      title_type: "original"
-      locus: "S. 66–69"
-      event_date:
-        display: "23. April 1519"
-        when: "1519-04-23"
-      responsibility:
-        - role: "author"
-          name: "Joannes de Angliara"
-      note: "Der Katalogbearbeiter vermutet, dass der Bericht ursprünglich nicht deutsch abgefasst, sondern von einem Unbekannten ins Deutsche übersetzt wurde."
-
-    - label: "g"
-      title: "Relation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet"
-      title_type: "original"
-      locus: "S. 71–80"
-      event_date:
-        display: "8. Oktober 1588"
-        when: "1588-10-08"
-      place:
-        display: "Szikszó"
-
-    - label: "h"
-      title: "Warhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn Normandia am 14 Martii Anno 1590 erhalten"
-      title_type: "original"
-      locus: "S. 83–102"
-      event_date:
-        display: "14. März 1590"
-        when: "1590-03-14"
-      text_date:
-        display: "nicht nach 1610"
-        not_after: 1610
-        evidence: "Der Ausdruck 'Jetziger Khönig zu Franckhreich' setzt nach Auffassung des Katalogbearbeiters die Ermordung Heinrichs IV. 1610 als terminus ante quem."
-
-    - label: "i"
-      title: "Khayserliche Citation So an herrn Georgen Poppel außgangen"
-      title_type: "original"
-      locus: "S. 103–109"
-      date:
-        display: "1594"
-        when: 1594
-        evidence: "S. 105: 'negsthin dieses 94 Jahres, auß Prager Schloß Vor Unnser Persohn'."
-
-    - label: "j"
-      title: "Beschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession Abgesandten gegeben worden"
-      title_type: "original"
-      locus: "S. 111–112"
-      date:
-        display: "10. Juli 1599"
-        when: "1599-07-10"
-      place:
-        display: "Prag"
-
-    - label: "k"
-      title: "Der Fürl. Durchl. Inn Grätz Decret ann die Landtstendt In Steyer"
-      title_type: "original"
-      locus: "S. 113–116"
-      date:
-        display: "5. März 1599"
-        when: "1599-03-05"
-      responsibility:
-        - role: "issuer"
-          name: "Ferdinand, Erzherzog von Österreich"
-
-    - label: "l"
-      title: "Relation Waß sich bey belegerung der Vestung Canischa, welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben unnd Zuegetragen"
-      title_type: "original"
-      locus: "S. 121–151"
-      date:
-        display: "1600"
-        when: 1600
-      persons:
-        - name: "Georg Paradeiser"
-          role: "mentioned"
-      place:
-        display: "Kanizsa"
-
-    - label: "m"
-      title: "Vergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg"
-      title_type: "original"
-      locus: "S. 153–159"
-      date:
-        display: "12. Oktober 1600"
-        when: "1600-10-12"
-      place:
-        display: "Oberehnheim (Obernai)"
-
-    - label: "n"
-      title: "Sibenbürgerische Relation"
-      title_type: "original"
-      locus: "S. 163–183"
-      date:
-        display: "11. Februar 1601"
-        when: "1601-02-11"
-
-    - label: "o"
-      title: "Capitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta"
-      title_type: "original"
-      locus: "S. 184–188"
-      date:
-        display: "13. April 1567"
-        when: "1567-04-13"
-      persons:
-        - name: "Johann Friedrich II., Herzog von Sachsen"
-          role: "mentioned"
-        - name: "Wilhelm von Grumbach"
-          role: "mentioned"
-        - name: "August, Kurfürst von Sachsen"
-          role: "signatory"
-
-    - label: "p"
-      title: "Extract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen zue Ferrar, Beschehen In 1698. Jahr"
-      title_type: "original"
-      locus: "S. 189–191"
-      date:
-        display: "1698"
-        when: 1698
-        certainty: "disputed"
-      alternative_date:
-        display: "1598"
-        when: 1598
-        type: "cataloguer_conjecture"
-        certainty: "uncertain"
-      note: "Der Katalogbearbeiter bezweifelt die Jahreszahl 1698 und vermutet einen Abschreibfehler für 1598."
-
-    - label: "q"
-      title: "Extract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder N: (?) o: (?) Lanndschafften..."
-      title_type: "original"
-      locus: "S. 191–192"
-      date:
-        display: "um 1600"
-        certainty: "conjectural"
-      note: "Jahreszahl fehlt; der Katalogbearbeiter datiert das gegen Häretiker gerichtete Dekret ungefähr um 1600."
-
-    - label: "r"
-      title: "Veldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa"
-      title_type: "original"
-      locus: "S. 193–199"
-      date:
-        display: "21. November 1601"
-        when: "1601-11-21"
-      responsibility:
-        - role: "author"
-          name: "Hermann Christoph Graf von Roßwurm"
-          variants:
-            - "Roßwuerm"
-            - "Rußwurm"
-
-    - label: "s"
-      title: "Relation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen"
-      title_type: "original"
-      locus: "S. 201–230"
-      date:
-        display: "1602"
-        when: 1602
-      place:
-        display: "Ungarn"
-
-    - label: "t"
-      title: "Kurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn In Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat"
-      title_type: "original"
-      locus: "S. 233–247"
-      event_date:
-        display: "18. September bis 13. Oktober 1604"
-        from: "1604-09-18"
-        to: "1604-10-13"
-      place:
-        display: "Gran, Ungarn"
-
-    - label: "u"
-      title: "Khunl. May. Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen"
-      title_type: "original"
-      locus: "S. 249–254"
-      date:
-        display: "Ende 1608 oder 1609"
-        certainty: "inferred"
-      note: "Datierung aus dem Inhalt von S. 253 erschlossen."
-
-    - label: "v"
-      title: "Warumb die Bibel Inn glaubens sachen nit khann Richter seinn"
-      title_type: "original"
-      locus: "S. 257–279"
-      responsibility:
-        - role: "author"
-          name: "unbekannt"
-
-    - label: "w"
-      title: "Hierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen unnd dem Soldan Zue Alchayro unnd dem Sofft (?) begeben hat..."
-      title_type: "original"
-      locus: "S. 281–293"
-      event_date:
-        display: "1516/17"
-        from: 1516
-        to: 1517
-      persons:
-        - name: "Selim I."
-          role: "subject"
-
-    - label: "x"
-      title: "Vernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher Mayestät so beschehen zue Ach, In October Im M.D.XX. Jahr"
-      title_type: "original"
-      locus: "S. 294–307"
-      event_date:
-        display: "Oktober 1520"
-        when: "1520-10"
-      persons:
-        - name: "Karl V."
-          role: "subject"
-      place:
-        display: "Aachen"
-
-    - label: "y"
-      title: "Khüniglicher Mayestät Zue Behaimb unnd Hungern ... auff die Crönnung gehn Prag außzug vonn Wien ... der am fünfften tag Februarii Im 1527 Jahr beschehen Ist..."
-      title_type: "original"
-      locus: "S. 308–323"
-      event_date:
-        display: "5. Februar 1527"
-        when: "1527-02-05"
-      places:
-        - "Wien"
-        - "Prag"
-
-    - label: "z"
-      title: "Des Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben"
-      title_type: "original"
-      locus: "S. 323–327"
-      date:
-        display: "27. September 1594"
-        when: "1594-09-27"
-      place:
-        display: "Raab"
-
-    - label: "A"
-      title: "Der Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne Khünigliche Crönung Zu Preß, Im XXVII Jahr"
-      title_type: "original"
-      locus: "S. 329–338"
-      event_date:
-        display: "1527"
-        when: 1527
-
-    - label: "B"
-      title: "Ein Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu München, Zuletzt gehn Augspurg, auf den Reichstag..."
-      title_type: "original"
-      locus: "S. 338–371"
-      date:
-        display: "1530"
-        when: 1530
-      places:
-        - "Innsbruck"
-        - "Schwaz"
-        - "München"
-        - "Augsburg"
-
-    - label: "C"
-      title: "Khönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait unnd Oberigkhait Passauer Bisthumbs betreffendt"
-      title_type: "original"
-      locus: "S. 372–376"
-      date:
-        display: "17. November 1528"
-        when: "1528-11-17"
-      place:
-        display: "Wien"
-
-    - label: "D"
-      title: "Infection ordnung der Statt Wienn"
-      title_type: "original"
-      locus: "S. 377–389"
-      date:
-        display: "1558 oder 1658"
-        certainty: "uncertain"
-        candidate_dates:
-          - 1558
-          - 1658
-        preferred_interpretation: 1658
-      note: "Der Katalogbearbeiter hält 1658 für wahrscheinlicher, weil der erwähnte Gesundheitsmeister erst von Maximilian II. eingesetzt worden sei."
-
-    - label: "E"
-      title: "Conditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori 1606 inter utrosque tractatae et conclusae sunt"
-      title_type: "original"
-      locus: "S. 393–398"
-      date:
-        display: "1606"
-        when: 1606
-      place:
-        display: "Zsitva-Török"
-      note: "Der Katalogbearbeiter verweist auf die Übereinstimmung der Geschichtsschreiber hinsichtlich des Abschlussortes."
-
-    - label: "F"
-      title: "Reconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae"
-      title_type: "original"
-      locus: "S. 399–419"
-      date:
-        display: "23. Juni 1608"
-        when: "1608-06-23"
-
-    - label: "G"
-      title: "Copy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung..."
-      title_type: "original"
-      locus: "S. 421–432"
-      date:
-        display: "1608"
-        when: 1608
-
-    - label: "H"
-      title: "Serenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem et felicitatem Humillime precatur"
-      title_type: "original"
-      locus: "S. 434–460"
-      date:
-        display: "24. Februar 1609"
-        when: "1609-02-24"
-        evidence: "Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX."
-      place:
-        display: "Wien"
-      responsibility:
-        - role: "author"
-          name: "unbekannt"
-          note: "Die Initialen in der Schlussformel sind nach Aussage des Katalogbearbeiters noch nicht aufgelöst."
-      contents_note: "Enthält mindestens zwei Rechtsgutachten."
-      incipits:
-        - locus: "S. 434"
-          text: "Dies hic solennis et praeclarissima..."
-        - locus: "S. 435"
-          text: "Cum multi ex Baronum, et equestris ordinis statibus..."
-        - locus: "S. 448"
-          text: "Postquam de crimine protestantium..."
-
+  - label: a
+    title: Ratschlag Römisch Khayserlicher Mayestät Und des Heylligen Römischen Reichs fürsten Kriegs Obrieten, Unnd der Anderen Hirzue Verordneten
+      Haubtleuthen Unndt Kriegs Räthe. Zue Widerstandt der Christenhait Erbfeindt deß Türckhen gewaltigen fürhabenß
+    locus: p. 3–13
+    date:
+      display: '1532'
+      when: 1532
+      evidence: Geben Inn Regenßpurg Freytags nach Cantate Anno XXXII.
+    title_status: unspecified
+  - label: b
+    title: Waß sich In wenig tagen vor der Römisch Khayserlichen Mayestät Maximiliani deß Andern, Erwölten Römischen Khaysern Ableiben zugetragen,
+      unnd Ihr Mayestät selbst geredt haben
+    locus: p. 15–26
+    date:
+      display: '1576'
+      when: 1576
+    title_status: unspecified
+  - label: c
+    title: Eines obrisssten uber ein Regiment, Khnecht, sambt seiner ober Unnd Nider befelchs haber besoldung
+    locus: p. 27–29
+    date:
+      display: 16. Jahrhundert?
+      certainty: uncertain
+    title_status: unspecified
+  - label: d
+    title: Proposition. So Ihr Mayestät denn Churfürsten unnd Stenden zu Augspurg fürgetragen. Denn 3 Julii Anno zwayundAchtzigisten
+    locus: p. 31–37
+    date:
+      display: 3. Juli 1582
+      when: '1582-07-03'
+    title_status: unspecified
+  - label: e
+    title: Bericht über die Schlacht bei Keresztes
+    locus: p. 39–64
+    event_date:
+      display: 26. Oktober 1596
+      when: '1596-10-26'
+    responsibility:
+    - role: commissioner
+      name: Maximilian, Erzherzog von Österreich
+    note: Die ursprüngliche Überschrift fehlt; der Katalog gibt stattdessen den Beginn des Berichtes wieder.
+    incipits:
+    - text: Nachdem Unnß Vonn mehr Unntterschiedlichen Orthes, Iner Unnd ausser des Heilligen Römischen Reichs glaubwirdig bericht einkhomen...
+    title_status: supplied
+    title_source: cataloguer
+  - label: f
+    title: Die schiffung mit dem Landt der gulden Insel gefunden, durch Herrn Johannem Von Angliara Haubtman deß Cristlichen Khönigs Von Hispania
+      gar hipsch Dinge Zue herrn mit allm ihren Leben Und Siten
+    locus: p. 66–69
+    event_date:
+      display: 23. April 1519
+      when: '1519-04-23'
+    responsibility:
+    - role: author
+      name: Joannes de Angliara
+    note: Der Katalogbearbeiter vermutet, dass der Bericht ursprünglich nicht deutsch abgefasst, sondern von einem Unbekannten ins Deutsche übersetzt
+      wurde.
+    title_status: unspecified
+  - label: g
+    title: Relation und beschreibung der Niderlag die sich denn Achten tag October Anno AchttundAchtzig In ober Ungern bey mainem Marckht, Sixo
+      betreffent und Zuegetragen, von Anfang zum Endt bestes Vleiß verfaßet
+    locus: p. 71–80
+    event_date:
+      display: 8. Oktober 1588
+      when: '1588-10-08'
+    place:
+      display: Szikszó
+    title_status: unspecified
+  - label: h
+    title: Warhafftiger Bericht vom Sieg und Victori so der von Navara Jetziger Khönig zu Franckhreich, In der Schlacht, bey der Statt Ivri Inn
+      Normandia am 14 Martii Anno 1590 erhalten
+    locus: p. 83–102
+    event_date:
+      display: 14. März 1590
+      when: '1590-03-14'
+    text_date:
+      display: nicht nach 1610
+      not_after: 1610
+      evidence: Der Ausdruck 'Jetziger Khönig zu Franckhreich' setzt nach Auffassung des Katalogbearbeiters die Ermordung Heinrichs IV. 1610 als
+        terminus ante quem.
+    title_status: unspecified
+  - label: i
+    title: Khayserliche Citation So an herrn Georgen Poppel außgangen
+    locus: p. 103–109
+    date:
+      display: '1594'
+      when: 1594
+      evidence: 'S. 105: ''negsthin dieses 94 Jahres, auß Prager Schloß Vor Unnser Persohn''.'
+    title_status: unspecified
+  - label: j
+    title: 'Beschaidt so von der Röm: Khay: May: deren Zwenn Ständt von Herrn unnd Ritterschafft In Oesterreich Ob der Ennß Augspurgerischen Confession
+      Abgesandten gegeben worden'
+    locus: p. 111–112
+    date:
+      display: 10. Juli 1599
+      when: '1599-07-10'
+    place:
+      display: Prag
+    title_status: unspecified
+  - label: k
+    title: Der Fürl. Durchl. Inn Grätz Decret ann die Landtstendt In Steyer
+    locus: p. 113–116
+    date:
+      display: 5. März 1599
+      when: '1599-03-05'
+    responsibility:
+    - role: issuer
+      name: Ferdinand, Erzherzog von Österreich
+    title_status: unspecified
+  - label: l
+    title: Relation Waß sich bey belegerung der Vestung Canischa, welche vonn dem Paradeiser dem Türckhen dazumalln auch aufgeben worden, Begeben
+      unnd Zuegetragen
+    locus: p. 121–151
+    date:
+      display: '1600'
+      when: 1600
+    persons:
+    - name: Georg Paradeiser
+      role: mentioned
+    place:
+      display: Kanizsa
+    incipits:
+    - text: 'Durchleuchtigister Ertzherzog Gnedigister fürst und Herr Allß Euer fürstl Durchl: denn 16 Sept: dieses Lauffenden Sechzehenhunderdisten
+        Jahrs,..... (1600) (Generalissimus Georgius Paradeiser anno 1600 arcem Kanischa, qui praefuit, diu obsessam hostibus tradidit.)'
+    title_status: unspecified
+  - label: m
+    title: Vergleichung Zwischen Lotringen und Württemberg, Betreffente das Hochstifft Straßburg
+    locus: p. 153–159
+    date:
+      display: 12. Oktober 1600
+      when: '1600-10-12'
+    place:
+      display: Oberehnheim (Obernai)
+    colophons:
+    - text: Actum & Signatum, Inn der Statt ober Ehenhaimb (= Oberehnheim = Obernai) denn 12 Octobris Anno (1)600.
+    title_status: unspecified
+  - label: n
+    title: Sibenbürgerische Relation
+    locus: p. 163–183
+    date:
+      display: 11. Februar 1601
+      when: '1601-02-11'
+    title_status: unspecified
+  - label: o
+    title: Capitulation, von Einnehmung der Vesstung Grimmenstain und der Statt Gotta
+    locus: p. 184–188
+    date:
+      display: 13. April 1567
+      when: '1567-04-13'
+    persons:
+    - name: Johann Friedrich II., Herzog von Sachsen
+      role: mentioned
+    - name: Wilhelm von Grumbach
+      role: mentioned
+    - name: August, Kurfürst von Sachsen
+      role: signatory
+    title_status: unspecified
+  - label: p
+    title: Extract Auß ainer Verbindnuß unnd Außthaillung deß Reichs, so Wom Bapst Khayser, Khünig Inn Hispania, Franckhreich, Polln, Lottringischen
+      Herzogen, auch dem Pischoffen Zue Cölln, unnd den Österreichischen, Bayrischen Gräzerischen, unnd Anndern Ertzherzogen, unnd Bischoffen
+      zue Ferrar, Beschehen In 1698. Jahr
+    locus: p. 189–191
+    date:
+      display: '1698'
+      when: 1698
+      certainty: disputed
+    alternative_date:
+      display: '1598'
+      when: 1598
+      type: cataloguer_conjecture
+      certainty: uncertain
+    note: Der Katalogbearbeiter bezweifelt die Jahreszahl 1698 und vermutet einen Abschreibfehler für 1598.
+    title_status: unspecified
+  - label: q
+    title: 'Extract Auß Ertzherzogen Ferdinanden Zue Österreich & General [handschriftlich hinzugefügtes Zeichen], vom Sibenden May, Inn die Vorder
+      N: (?) o: (?) Lanndschafften...'
+    locus: p. 191–192
+    date:
+      display: um 1600
+      certainty: conjectural
+    note: Jahreszahl fehlt; der Katalogbearbeiter datiert das gegen Häretiker gerichtete Dekret ungefähr um 1600.
+    title_status: unspecified
+  - label: r
+    title: Veldmarschalch Roßwuermos Relation An Ihr Durchlaucht Vonn Canischa
+    locus: p. 193–199
+    date:
+      display: 21. November 1601
+      when: '1601-11-21'
+    responsibility:
+    - role: author
+      name: Hermann Christoph Graf von Roßwurm
+      variants:
+      - Roßwuerm
+      - Rußwurm
+    colophons:
+    - text: Datum Denn 21. Novembris Anno 1601. (Roßwuerm ab elite Rußwurm aut Rußwurm vocetur.) Auctor huius partis est Hermannus Christophorus
+        Comes de Roßwurm (Rußwurm).
+    title_status: unspecified
+  - label: s
+    title: Relation Waß sich Im 602 Jährigren Veldtzug Inn Hungern allenthalber biß Wider Zum Abzug verloffen unnd zuegetragen
+    locus: p. 201–230
+    date:
+      display: '1602'
+      when: 1602
+    place:
+      display: Ungarn
+    title_status: unspecified
+  - label: t
+    title: 'Kurze Relation Was sich vom 18 Sept: biß auff denn 13 Octobris deß (1)604 Jahrs, Inn Welcher Zeit der Feindt die Vestung Kronn In
+      Ungern beleger(t), vonn tag zue tag Zuegetragen unnd verloffen hat'
+    locus: p. 233–247
+    event_date:
+      display: 18. September bis 13. Oktober 1604
+      from: '1604-09-18'
+      to: '1604-10-13'
+    place:
+      display: Gran, Ungarn
+    title_status: unspecified
+  - label: u
+    title: Khunl. May. Resolution uber der von Herrn unnd Rittersstands Augspurgerischen Confession praetensionen
+    locus: p. 249–254
+    date:
+      display: Ende 1608 oder 1609
+      certainty: inferred
+    note: Datierung aus dem Inhalt von S. 253 erschlossen.
+    title_status: unspecified
+  - label: v
+    title: Warumb die Bibel Inn glaubens sachen nit khann Richter seinn
+    locus: p. 257–279
+    responsibility:
+    - role: author
+      name: unbekannt
+    title_status: unspecified
+  - label: w
+    title: Hierinnen Ist begriffen alle geschicht, so sich In Levant, oder gehn auffgang der Sonnen, Inn Orient Zwischen dem grossen Türckhen
+      unnd dem Soldan Zue Alchayro unnd dem Sofft (?) begeben hat...
+    locus: p. 281–293
+    event_date:
+      display: 1516/17
+      from: 1516
+      to: 1517
+    persons:
+    - name: Selim I.
+      role: subject
+    title_status: unspecified
+  - label: x
+    title: Vernembt x auff daß kürtzest beschrieben, die einbelaittung daß einreitten, unnd die Khrönnung, Römisch unnd Hispanischer Khüniglicher
+      Mayestät so beschehen zue Ach, In October Im M.D.XX. Jahr
+    locus: p. 294–307
+    event_date:
+      display: Oktober 1520
+      when: 1520-10
+    persons:
+    - name: Karl V.
+      role: subject
+    place:
+      display: Aachen
+    title_status: unspecified
+  - label: y
+    title: Khüniglicher Mayestät Zue Behaimb unnd Hungern ... auff die Crönnung gehn Prag außzug vonn Wien ... der am fünfften tag Februarii Im
+      1527 Jahr beschehen Ist...
+    locus: p. 308–323
+    event_date:
+      display: 5. Februar 1527
+      when: '1527-02-05'
+    places:
+    - Wien
+    - Prag
+    title_status: unspecified
+  - label: z
+    title: Des Graffen von Hardeckh, unnd der Obristen Zue Raab einnütschu[l]digung, warumb Sye die Vestung aufgeben haben
+    locus: p. 323–327
+    date:
+      display: 27. September 1594
+      when: '1594-09-27'
+    place:
+      display: Raab
+    colophons:
+    - locus: p. 327
+      text: Beschehen Zue Raab den 27. Septembris Anno (15)94.
+    title_status: unspecified
+  - label: A
+    title: Der Khünigklichen Durchleichtigkeit Zue Behem Ertzherzog Ferdinannus Unnd seiner Khöniglichen Durchleichtigkeit Gemahele beschechne
+      Khünigliche Crönung Zu Preß, Im XXVII Jahr
+    locus: p. 329–338
+    event_date:
+      display: '1527'
+      when: 1527
+    title_status: unspecified
+  - label: B
+    title: Ein Khurtze anZaigung und beschreibung, Römischer Khayserlicher Mayestät einreyten, Erstlich von Innßpruckh gehn Ichßwaz, Volgent Zu
+      München, Zuletzt gehn Augspurg, auf den Reichstag...
+    locus: p. 338–371
+    date:
+      display: '1530'
+      when: 1530
+    places:
+    - Innsbruck
+    - Schwaz
+    - München
+    - Augsburg
+    title_status: unspecified
+  - label: C
+    title: Khönigelicher Mayestätt, Zu Ungern unnd Behäim, als Ertzherzogen Zu Österreich etc. General Manndat, die Gristlich Jurisdiction, Freyhait
+      unnd Oberigkhait Passauer Bisthumbs betreffendt
+    locus: p. 372–376
+    date:
+      display: 17. November 1528
+      when: '1528-11-17'
+    place:
+      display: Wien
+    colophons:
+    - text: Geben in Unnserer Statt Wienn, am Sibnzehenten tag des Monaxsts Novembris Anno Domini fünffzechen hundert, Unnd im Achtundzwanzigisten
+        Unnserer Reiche im Dritten, Ferdinandus..... (1528)
+    title_status: unspecified
+  - label: D
+    title: Infection ordnung der Statt Wienn
+    locus: p. 377–389
+    date:
+      display: 1558 oder 1658
+      certainty: uncertain
+      candidate_dates:
+      - 1558
+      - 1658
+      preferred_interpretation: 1658
+    note: Der Katalogbearbeiter hält 1658 für wahrscheinlicher, weil der erwähnte Gesundheitsmeister erst von Maximilian II. eingesetzt worden
+      sei.
+    colophons:
+    - text: Actum Wienn, Am ainunnd Zwanzigisten tag Octobris, Anno Im Achtunnd Fünffzigisten.
+    title_status: unspecified
+    notes:
+    - Quaeritur igitur, utrum hoc decretum anno 1558 an 1658 editum sit. Sed cum magister sanitatis, quem edictum nostrum memorat, a Maximiliano
+      II. ideoque post annum 1558 institutus sit, probabiliter ordo noster ad morbos contagiosos coercendos anno 1658 in lucem evenit.
+  - label: E
+    title: Conditiones Pacis inter Romanorum et Turcicum Imperatorem, Rudolphum II. & Mehometem I. (= Ahmed I. ?) Sultanum, ut illae Anno superiori
+      1606 inter utrosque tractatae et conclusae sunt
+    locus: p. 393–398
+    date:
+      display: '1606'
+      when: 1606
+    place:
+      display: Zsitva-Török
+    note: Der Katalogbearbeiter verweist auf die Übereinstimmung der Geschichtsschreiber hinsichtlich des Abschlussortes.
+    title_status: unspecified
+  - label: F
+    title: Reconciliatio cum Hungaris Facta 23. Junii 1608. nec non conditiones pacis Turcicae
+    locus: p. 399–419
+    date:
+      display: 23. Juni 1608
+      when: '1608-06-23'
+    title_status: unspecified
+  - label: G
+    title: Copy der antwort, welche die Landt Ständt In Österreich ob der Ennß, Wegen deren zu Freßburg im Januario diß Eintausent Sechshundert
+      Unnd Achten Jahrs, mit denen Hungarischen ständen fürÜbergangen Tractats Unndt Handlung...
+    locus: p. 421–432
+    date:
+      display: '1608'
+      when: 1608
+    title_status: unspecified
+  - label: H
+    title: Serenissimo ac potentissimo Principi Domino Domino Matthiae II. Dei gratia Hungarorum Regi, Archiduci Austriae, Marchioni Moraviae
+      Duci Burgundiae, Comiti Tirolensi etc. Domino suo clementissimo nomine totius Jurisconsultorum Collegii Archigymnasii Viennensis salutem
+      et felicitatem Humillime precatur
+    locus: p. 434–460
+    date:
+      display: 24. Februar 1609
+      when: '1609-02-24'
+      evidence: Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX.
+    place:
+      display: Wien
+    responsibility:
+    - role: author
+      name: unbekannt
+      note: Die Initialen in der Schlussformel sind nach Aussage des Katalogbearbeiters noch nicht aufgelöst.
+    contents_note: Enthält mindestens zwei Rechtsgutachten.
+    incipits:
+    - locus: p. 434
+      label: (Praefationis?)
+      text: Dies hic solennis et praeclarissima saec(er = 24. Februarii)......
+    - locus: p. 435
+      label: prioris juris consultationis
+      text: Cum multi ex Baronum, et equestris ordinis statibus,.....
+    - text: Postquam de crimine protestantium......
+    colophons:
+    - locus: p. 434
+      label: (Praefationis)
+      text: Datum Viennae Austriae ipso Die Domino Matthiae sacro, Anno M.DC.IX. B. I. C. D. S. R. M. (= Sacrae Romanae Maiestati Iulae?) Iurisconsultissimus
+        S. B. P. I. V. D. (= Juris Utriusque Doctor) P. P.
+    title_status: unspecified
+    notes:
+    - (Quae litterae initiales nondum explanatae sunt; qua de re auctorem huius iuris consultorum nondum investigavimus.)
+  title: Variae Relationes
+  title_status: unspecified
 phys_desc:
   object_form: "codex"
   format: "Kleines Folio"

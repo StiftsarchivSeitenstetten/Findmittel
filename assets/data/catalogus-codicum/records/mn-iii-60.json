@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-iii-60",
   "signature": "MN III 60",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "272",
   "heading": {
     "title": "Zum wahren Angedenken",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "unspecified",
+    "titleTypeLabel": "",
     "date": "um 1775"
   },
   "date": {
@@ -34,6 +34,9 @@
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Zum wahren Angedenken",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. III",
+      "locus": "p. III",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -68,13 +75,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. IV, 1–153, 169–172",
+      "locus": "p. IV, 1–153",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -91,13 +102,17 @@
       "id": "item-c",
       "label": "c",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Litaney zu allen Heiligen Gottes",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 154–167",
+      "locus": "p. 154–167",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -184,13 +199,16 @@
   },
   "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-60/",
   "relations": [],
+  "physicalUnits": [],
   "search": {
     "signature": "MN III 60",
     "titles": "Zum wahren Angedenken \nZum wahren Angedenken \nSeelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A: \nLitaney zu allen Heiligen Gottes",
-    "persons": "F. C. A. Schreiber scribe \nJoseph Bachinger Schreiber scribe \nBarbara Dirnbergerin user user",
+    "persons": "F. C. A. Schreiber scribe  \nJoseph Bachinger Schreiber scribe  \nBarbara Dirnbergerin user user ",
     "incipits": "",
     "explicits": "",
     "notes": "Deutsches Mahngedicht; die in Klammern stehende Inhaltsbeschreibung stammt vom Katalogbearbeiter und wurde nicht als Titel übernommen. \nMit Register „Aller hierin Begriffenen gebettern“ S. 169–172.",
-    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+    "german": "Oktavformat; 176 Seiten; schwarzer Ledereinband, mit Blümchen und anderen sehr feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben um 1775.\n\na) **Zum wahren Angedenken:** S. III. Ein mahnendes Gedicht, das davor warnt, durch Nachlässigkeit gegenüber dem heutigen Tag den morgigen zu verlieren. Wie der ganze Codex deutsch.\n\nb) **Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:** S. IV, 1–153; mit **Register Aller hierin Begriffenen gebettern** S. 169–172.\n\nc) **Litaney zu allen Heiligen Gottes:** S. 154–167. Am Ende steht der Name **Joseph Bachinger**, der jedoch nur Teil c geschrieben hat.\n\nDie übrigen Teile schrieb **F. C: A:**. Der vollständige Name konnte nicht ermittelt werden. Barbara Dirnbergerin war nicht die Schreiberin der Teile a und b, sondern lediglich deren Benutzerin.\n\nEine Entstehung um 1775 erschließt der Katalogbearbeiter aus der Einbandform, die jener des 1772 geschriebenen Codex MN III 81 ähnelt, wenngleich dieser Einband viel einfacher und stärker abgenutzt ist.\n\nAuf der Vorderseite des Einbandes stehen die vergoldeten Initialen **M. B. O.**; wahrscheinlich bezeichnen sie den Besitzer, der das Büchlein so kunstvoll einbinden ließ.",
+    "latin": "8°; 176 pagg.; teg. b2, flosculis aliisque tenerrimis ornamentis impressis et inauratis decoratum; ca. 1775\n\na) **Zum wahren Angedenken** (Carmen monitorium, ne negligendo hodiernum amittas crastinum diem): p. III. (lingua Germanica ut totus codex!)\n\nb) **Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:** p. IV, 1–153 cum indice: Register: Aller hierin Begriffenen gebettern: p. 169–172\n\nc) **Litaney zu allen Heiligen Gottes:** p. 154–167, cuius in fine notatum est nomen **Joseph Bachinger**, qui vero nil nisi partem c scripsit.\n\nCetera autem scripsit **F. C: A:**, cuius quod nescio plenum nomen, valde doleo. Nam Barbara Dirnbergerin partes a et b non scripsit, sed usa tantum est iis.\n\nCirca annum 1775 exaratum esse hunc libellum precatorium e forma tegumenti colligo, quippe quod similiter ornatum sit ut codex MN III 81, anno 1772 scriptus (vide supra p. 253!), etsi multo vilius sit, multoque magis attritum. In parte adversa tegumenti inveniuntur litterae initiales inauratae: **M. B. O.**, quae probabiliter nomen possidentis indicant, qui codicillum nostrum tam artificiose tegumento muniendum curavit."
   }
 }

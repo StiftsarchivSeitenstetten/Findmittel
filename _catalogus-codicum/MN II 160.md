@@ -13,15 +13,23 @@ ms_contents:
   items:
   - label: a
     title: Disputatio Prolegomenalis De Natura et qualitatibus Theologiae
-    locus: S. 1–89
+    locus: p. 1–89
+    title_status: unspecified
   - label: b
     title: Pars Prima De Deo Uno
-    locus: S. 90–611
+    locus: p. 90–611
     end_date: '1687-08-25'
+    colophons:
+    - text: 'Anno 1687. Die: 25 Augusti. absolvimus.'
+    title_status: unspecified
   - label: c
     title: Pars Secunda De Deo Trino
-    locus: S. 612–662
+    locus: p. 612–662
     end_date: '1687-09-02'
+    colophons:
+    - text: Anno 1687. Die 2. Septembris.
+    title_status: unspecified
+  title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

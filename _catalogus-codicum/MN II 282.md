@@ -9,15 +9,20 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 282
 ms_contents:
-  title: Tractatus Scholastico-Positivus De Incarnatione Verbi Divini
   items:
   - label: a
     title: Tractatus Scholastico-Positivus De Incarnatione Verbi Divini
-    locus: S. 5–257
-    incipit: Hoc praecipuum post Sanctissimam Trinitatem mysterium
+    locus: p. 5
     start_date_display: 23. Dezember 1751, morgens
     end_date_display: 8. Juli 1752
     note: Die Tageszahl des Beginns wurde vom Katalogbearbeiter aus der Randnotiz auf S. 5 ergänzt.
+    incipits:
+    - text: Hoc praecipuum post Sanctissimam Trinitatem mysterium,......
+      locus: p. 5
+    colophons:
+    - locus: p. 257
+      text: Finivimus 8 Julii 1752.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

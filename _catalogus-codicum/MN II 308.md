@@ -9,12 +9,14 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN II 308
 ms_contents:
-  title: Materialien zu einem Neuen Theologischen Handbuch. Nach den Vorzügen und Bedürfnissen Unsers Zeitalters. 1793. Von P. B. W. Benediktiner zu Seitenstetten. IV. Heft
   items:
   - label: a
-    title: Materialien zu einem Neuen Theologischen Handbuch. Nach den Vorzügen und Bedürfnissen Unsers Zeitalters. 1793. Von P. B. W. Benediktiner zu Seitenstetten. IV. Heft
+    title: Materialien zu einem Neuen Theologischen Handbuch. Nach den Vorzügen und Bedürfnissen Unsers Zeitalters. 1793. Von P. B. W. Benediktiner
+      zu Seitenstetten. IV. Heft
     locus: S. 1–172
-    note: Der Katalog löst die Initialen P. B. W. in runden Klammern als P. Benedictus Walcher auf; die editorische Auflösung wurde nicht in den Titel übernommen.
+    note: Der Katalog löst die Initialen P. B. W. in runden Klammern als P. Benedictus Walcher auf; die editorische Auflösung wurde nicht in den
+      Titel übernommen.
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

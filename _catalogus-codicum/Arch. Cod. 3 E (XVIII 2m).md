@@ -10,15 +10,22 @@ ms_identifier:
   repository: Stiftsarchiv Seitenstetten
   idno: Arch. Cod. 3 E (XVIII 2m)
 ms_contents:
-  title: "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus III"
-  title_type: supplied
+  title: Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico
+    huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus
+    celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus III
   items:
-  - label: "a"
-    title: "Tomus III"
-    title_type: supplied
-    locus: "S. 877–1255"
-    explicit: "Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis Ordinis S. Benedicti 28 Februarii 1791"
-    note: "Der Katalog bezeichnet den Inhalt durch Rückverweis als dritten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt."
+  - label: a
+    title: Tomus III
+    locus: S. 877–1255
+    note: Der Katalog bezeichnet den Inhalt durch Rückverweis als dritten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel
+      ist daraus ergänzt.
+    title_status: supplied
+    title_source: cataloguer
+    colophons:
+    - text: Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis
+        Ordinis S. Benedicti 28 Februarii 1791
+  title_status: supplied
+  title_source: cataloguer
 phys_desc:
   object_form: codex
   support: Papier

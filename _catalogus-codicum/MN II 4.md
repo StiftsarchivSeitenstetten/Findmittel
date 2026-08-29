@@ -17,8 +17,17 @@ ms_contents:
   items:
   - label: a
     catalog_statement: 'Liber primus. De Sacerdote: p. 1 - 103'
+    title: Liber primus. De Sacerdote
+    locus: p. 1 - 103
+    title_status: unspecified
   - label: b
-    catalog_statement: 'Liber II Theologiae Moralis De Sacramentis in genere, et particulari: p. 104 - 572; post p. 498 arbor consanguinitatis inserta est, iocosis delineamentis decorata, quae "F. T. R. Sculpsit", sed in Catalogo Conventualium Seitenstettensium non invenitur ad annum 1616 Frater cum litteris initialibus T. R. Incertum est etiam, utrum ille F. T. R. etiam codicem hunc scripsit an alius. At verisimile est unam ex manibus, quae codicem MN II 3 scripserunt, etiam hunc codicem exaravisse.'
+    catalog_statement: 'Liber II Theologiae Moralis De Sacramentis in genere, et particulari: p. 104 - 572; post p. 498 arbor consanguinitatis
+      inserta est, iocosis delineamentis decorata, quae "F. T. R. Sculpsit", sed in Catalogo Conventualium Seitenstettensium non invenitur ad
+      annum 1616 Frater cum litteris initialibus T. R. Incertum est etiam, utrum ille F. T. R. etiam codicem hunc scripsit an alius. At verisimile
+      est unam ex manibus, quae codicem MN II 3 scripserunt, etiam hunc codicem exaravisse.'
+    title: Liber II Theologiae Moralis De Sacramentis in genere, et particulari
+    locus: p. 104 - 572
+    title_status: unspecified
 phys_desc:
   object_form: codex
   support: Papier

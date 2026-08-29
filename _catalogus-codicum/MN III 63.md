@@ -9,11 +9,17 @@ ms_identifier:
   repository: Stiftsbibliothek Seitenstetten
   idno: MN III 63
 ms_contents:
-  title: "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802"
   items:
-  - label: "a"
-    title: "Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch zur beicht und Communion zu finden sind 1802"
-    locus: "S. 1–153"
+  - label: a
+    title: Der Geheiligte Gottes-Dienst. eines Wahren Christen bestehend In dem Kernhaftesten Andachsubungen, bey dem Ambt der Heyligen Meß, auch
+      zur beicht und Communion zu finden sind 1802
+    locus: p. 153
+    colophons:
+    - locus: p. 153
+      text: 'Im Namen Gott des Vatters und des Sohns; und des H: Geistes, Amen, 1802 :I. H: Doleo, quod plenum nomen'
+    title_status: unspecified
+    notes:
+    - scriptoris, cuius istae litterae probabiliter sunt initiales, nusquam invenio.
 phys_desc:
   object_form: codex
   support: Papier

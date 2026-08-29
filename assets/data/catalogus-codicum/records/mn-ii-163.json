@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "mn-ii-163",
   "signature": "MN II 163",
   "aliases": [
@@ -9,8 +9,8 @@
   "catalogPage": "116–117",
   "heading": {
     "title": "Tractatus in primam Divi Thomae partem De Deo Uno",
-    "titleTypeRaw": null,
-    "titleTypeLabel": null,
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "date": "probabiliter 1686/87"
   },
   "date": {
@@ -28,12 +28,15 @@
   },
   "contentsOverview": {
     "title": "Tractatus in primam Divi Thomae partem De Deo Uno",
-    "titleTypeRaw": "",
-    "titleTypeLabel": "",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
     "translation": "",
     "summary": "",
     "language": "",
     "locus": "",
+    "incipits": [],
+    "explicits": [],
+    "colophons": [],
     "incipit": null,
     "explicit": null,
     "part": "",
@@ -45,13 +48,17 @@
       "id": "item-a",
       "label": "a",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Disputatio Prolegomenalis De Natura et qualitatibus Theologiae",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 15–139",
+      "locus": "p. 15–139",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [],
@@ -63,13 +70,17 @@
       "id": "item-b",
       "label": "b",
       "type": "",
+      "physicalUnit": "",
       "title": {
         "text": "Pars Prima De Deo uno",
-        "typeRaw": null,
-        "typeLabel": null
+        "typeRaw": "unspecified",
+        "typeLabel": ""
       },
-      "locus": "S. 139–525",
+      "locus": "p. 139–525",
       "language": "",
+      "incipits": [],
+      "explicits": [],
+      "colophons": [],
       "incipit": null,
       "explicit": null,
       "notes": [
@@ -80,33 +91,6 @@
         {
           "type": "completeness",
           "text": "incomplete"
-        }
-      ],
-      "dates": [],
-      "persons": [],
-      "subitems": []
-    },
-    {
-      "id": "item-c",
-      "label": "c",
-      "type": "",
-      "title": {
-        "text": "Pars Secunda De Deo Trino",
-        "typeRaw": null,
-        "typeLabel": null
-      },
-      "locus": "",
-      "language": "",
-      "incipit": null,
-      "explicit": null,
-      "notes": [
-        {
-          "type": "note",
-          "text": "Dieser Teil fehlt vollständig."
-        },
-        {
-          "type": "completeness",
-          "text": "missing"
         }
       ],
       "dates": [],
@@ -220,13 +204,16 @@
       "note": ""
     }
   ],
+  "physicalUnits": [],
   "search": {
     "signature": "MN II 163",
-    "titles": "Tractatus in primam Divi Thomae partem De Deo Uno \nDisputatio Prolegomenalis De Natura et qualitatibus Theologiae \nPars Prima De Deo uno \nPars Secunda De Deo Trino",
-    "persons": "P. Maurus Liechtenhaimb author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "titles": "Tractatus in primam Divi Thomae partem De Deo Uno \nDisputatio Prolegomenalis De Natura et qualitatibus Theologiae \nPars Prima De Deo uno",
+    "persons": "P. Maurus Liechtenhaimb author or lecturer author_or_lecturer St. Lambrecht / Universität Salzburg \nunbekannt Schreiber scribe ",
     "incipits": "",
     "explicits": "",
-    "notes": "Das Ende des ersten Teils über den einen Gott und der gesamte zweite Teil über den dreieinigen Gott fehlen. \nincomplete \nDer Schluss dieses Teils fehlt. \nincomplete \nDieser Teil fehlt vollständig. \nmissing",
-    "physical": "Papier \n532 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+    "notes": "Das Ende des ersten Teils über den einen Gott und der gesamte zweite Teil über den dreieinigen Gott fehlen. \nincomplete \nDer Schluss dieses Teils fehlt. \nincomplete",
+    "physical": "Papier \n532 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+    "german": "532 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; wahrscheinlich 1686/87 geschrieben.\n\n**(Abhandlung zum ersten Teil des hl. Thomas über den einen Gott).**\n\nAnfang der Vorrede S. 13: Wir nehmen eine schwierige Sache in Angriff, wenn wir Gott zu betrachten versuchen......\n\na) **Vorbereitende Disputation über Natur und Eigenschaften der Theologie:** S. 15–139.\n\nb) **Erster Teil über den einen Gott:** S. 139–525.\n\nDieselbe Abhandlung enthalten auch Archivcodex 34–11 und MN II 160. In unserem Codex fehlen jedoch das Ende des ersten Teils über den einen Gott und der gesamte zweite Teil über den dreieinigen Gott. Dennoch steht fest, dass auch dieser Codex von P. Maurus Liechtenhaimb, Profess von St. Lambrecht in der Steiermark und Theologieprofessor in Salzburg, stammt.\n\nDer Schreiber schrieb auch den vorhergehenden Codex. Trotz der Verstümmelung ist wahrscheinlich, dass unser Codex wie die Parallelcodices 34–11 und MN II 160 im Studienjahr 1686/87 entstand, da sich – abgesehen vom Verlust – kaum Unterschiede finden.",
+    "latin": "532 pagg.; teg. a2; scriptus probabiliter 1686/87\n\n(Tractatus in primam Divi Thomae partem De Deo Uno)\n\nInitium Prooemii p. 13: Arduam rem aggredimur Dum Deum speculari cogitamus......\n\na) Disputatio Prolegomenalis. De Natura et qualitatibus Theologiae: p. 15–139.\n\nb) Pars I. De Deo uno: p. 139–525. Eundem tractatum quem codex noster continent etiam codices 34–11 (supra p. 108/09!) et MN II 160 (supra p. 114!), sed in codice nostro desunt finis Partis Primae (De Deo Uno) et tota Pars Secunda (De Deo Trino). Nihilominus certum est nostri quoque codicis auctorem esse P. Maurum Liechtenhaimb ad S. Lambertum in Styria Professum et Salisburgi Theologiae Professorem.\n\nScriptor codicis nostri etiam codicem praecedentem exaravit. Quamvis mutilus sit codex noster, tamen verisimile est, eum eodem anno scholari 1686/87 ortum esse, quo codices 34–11 et MN II 160. Nam praeter mutilationem vix invenies differentiam istorum codicum."
   }
 }
