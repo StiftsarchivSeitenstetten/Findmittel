@@ -1,0 +1,153 @@
+{
+  "schemaVersion": 1,
+  "id": "97-1-8",
+  "signature": "97.1.8",
+  "aliases": [
+    "Bibl. Cod. 97.1.8"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "208",
+  "heading": {
+    "title": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1723 (?)"
+  },
+  "date": {
+    "display": "1723 (?)",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–ca. 650",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Fischer",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "ca. 650 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1723 (?)",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; etwa 650 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.**\n\nDa dieser Codex lediglich die beiden vorausgehenden fortsetzt, siehe oben S. 207 bei Codex 97.1.6 zu Verfasser, Schreiber und Entstehung des Gesamtwerks.",
+    "germanHtml": "<p>Folioformat; etwa 650 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).</p>\n<p><strong>Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.</strong></p>\n<p>Da dieser Codex lediglich die beiden vorausgehenden fortsetzt, siehe oben S. 207 bei Codex 97.1.6 zu Verfasser, Schreiber und Entstehung des Gesamtwerks.</p>",
+    "latin": "fol.; ca. 650 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.**\n\nHic cum nil nisi continuet codex duos codices praecedentes, vide supra p. 207, quae ad codicem 97.1.6 de auctore, scriptore, origine totius operis dixerimus!",
+    "latinHtml": "<p>fol.; ca. 650 pagg.; teg. b1 cum dorso albo; script. 1723 (?)</p>\n<p><strong>Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.</strong></p>\n<p>Hic cum nil nisi continuet codex duos codices praecedentes, vide supra p. 207, quae ad codicem 97.1.6 de auctore, scriptore, origine totius operis dixerimus!</p>"
+  },
+  "source": {
+    "file": "97.1.8.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/97-1-8/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "97.1.6",
+      "targetId": "97-1-6",
+      "targetSignature": "97.1.6",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "97.1.7",
+      "targetId": "97-1-7",
+      "targetSignature": "97.1.7",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "97.1.8",
+    "titles": "Codicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876. \nCodicis Provincialis Dritter Theil von Litera N bis S, das ist von No 1227 bis No 1876.",
+    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nca. 650 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

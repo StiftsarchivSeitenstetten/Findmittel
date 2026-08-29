@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-282",
+  "signature": "MN II 282",
+  "aliases": [
+    "Bibl. Cod. MN II 282"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "229–230",
+  "heading": {
+    "title": "Tractatus Scholastico-Positivus De Incarnatione Verbi Divini",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1751/52"
+  },
+  "date": {
+    "display": "1751/52",
+    "intervals": [
+      {
+        "from": 1751,
+        "to": 1752,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholastico-Positivus De Incarnatione Verbi Divini",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Positivus De Incarnatione Verbi Divini",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–257",
+      "language": "",
+      "incipit": {
+        "text": "Hoc praecipuum post Sanctissimam Trinitatem mysterium"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Tageszahl des Beginns wurde vom Katalogbearbeiter aus der Randnotiz auf S. 5 ergänzt."
+        }
+      ],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "23. Dezember 1751, morgens"
+        },
+        {
+          "type": "end_date_display",
+          "display": "8. Juli 1752"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Veit",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictatus“ bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "268 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1751/52",
+        "intervals": [
+          {
+            "from": 1751,
+            "to": 1752,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "268 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.\n\n**Scholastisch-positive Abhandlung über die Menschwerdung des göttlichen Wortes**, diktiert von P. Benedictus Veit im Jahr 1751, beginnend am 23. Dezember 1751.\n\nDie Tageszahl wurde vom Katalogbearbeiter ergänzt, weil am oberen Rand von S. 5 die Notiz steht: **Wir begannen am Morgen des 23. Dezember 1751.**\n\nAnfang S. 5: Dieses nach der Allerheiligsten Dreifaltigkeit vorzüglichste Geheimnis,...... Schluss S. 257: **Wir beendeten [dies] am 8. Juli 1752.**\n\nUnser Codex ist Band V jenes scholastisch-theologischen Kurses, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde. Wer den gesamten Kurs geschrieben hat, ist unbekannt.",
+    "germanHtml": "<p>268 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.</p>\n<p><strong>Scholastisch-positive Abhandlung über die Menschwerdung des göttlichen Wortes</strong>, diktiert von P. Benedictus Veit im Jahr 1751, beginnend am 23. Dezember 1751.</p>\n<p>Die Tageszahl wurde vom Katalogbearbeiter ergänzt, weil am oberen Rand von S. 5 die Notiz steht: <strong>Wir begannen am Morgen des 23. Dezember 1751.</strong></p>\n<p>Anfang S. 5: Dieses nach der Allerheiligsten Dreifaltigkeit vorzüglichste Geheimnis,...... Schluss S. 257: <strong>Wir beendeten [dies] am 8. Juli 1752.</strong></p>\n<p>Unser Codex ist Band V jenes scholastisch-theologischen Kurses, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde. Wer den gesamten Kurs geschrieben hat, ist unbekannt.</p>",
+    "latin": "268 pagg.; teg. c3d; script. 1751/52\n\n**Tractatus Scholastico-Positivus De Incarnatione Verbi Divini. Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751, à die (23. Decembris 1751.)** (Numerum diei apposui, quia p. 5 in margine superiore haec invenitur nota: Incepimus 23. Decembris Anno 1751. Mane.)\n\nInitium p. 5: Hoc praecipuum post Sanctissimam Trinitatem mysterium,......  \nClausula p. 257: Finivimus 8 Julii 1752.\n\nCodex noster tomus V est illius cursus Theologiae Scholasticae, qui ab anno 1750 usque ad annum 1753 in monasterio Seitenstettensi traditus est. Quis totum hunc cursum scripserit, nescimus.",
+    "latinHtml": "<p>268 pagg.; teg. c3d; script. 1751/52</p>\n<p><strong>Tractatus Scholastico-Positivus De Incarnatione Verbi Divini. Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751, à die (23. Decembris 1751.)</strong> (Numerum diei apposui, quia p. 5 in margine superiore haec invenitur nota: Incepimus 23. Decembris Anno 1751. Mane.)</p>\n<p>Initium p. 5: Hoc praecipuum post Sanctissimam Trinitatem mysterium,...... Clausula p. 257: Finivimus 8 Julii 1752.</p>\n<p>Codex noster tomus V est illius cursus Theologiae Scholasticae, qui ab anno 1750 usque ad annum 1753 in monasterio Seitenstettensi traditus est. Quis totum hunc cursum scripserit, nescimus.</p>"
+  },
+  "source": {
+    "file": "MN II 282.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-282/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 282",
+    "titles": "Tractatus Scholastico-Positivus De Incarnatione Verbi Divini \nTractatus Scholastico-Positivus De Incarnatione Verbi Divini",
+    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Hoc praecipuum post Sanctissimam Trinitatem mysterium",
+    "explicits": "",
+    "notes": "Die Tageszahl des Beginns wurde vom Katalogbearbeiter aus der Randnotiz auf S. 5 ergänzt.",
+    "physical": "Papier \n268 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

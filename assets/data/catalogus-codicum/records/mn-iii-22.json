@@ -1,0 +1,160 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-22",
+  "signature": "MN III 22",
+  "aliases": [
+    "Bibl. Cod. MN III 22"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "172",
+  "heading": {
+    "title": "Liber 4. Decretalium",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1703"
+  },
+  "date": {
+    "display": "um 1703",
+    "intervals": [
+      {
+        "from": 1703,
+        "to": 1703,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Liber 4. Decretalium",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liber 4. Decretalium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–188",
+      "language": "",
+      "incipit": {
+        "text": "Sponsalia a spondendo dicta:....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1703",
+        "intervals": [
+          {
+            "from": 1703,
+            "to": 1703,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 202 Seiten; Einband aus einem Pergamentblatt des 15. Jahrhunderts mit geistlicher Musik; geschrieben um 1703.\n\n**Viertes Buch der Dekretalen:** S. 1–188.\n\nAnfang des ersten Titels **Über Verlöbnisse und Ehe:** *Sponsalia* wird von *spondere* hergeleitet.....\n\nOb der Codex ein Kompendium von Teil b des Codex MN III 20 ist, bleibt ungewiss. Kaum jemand wird jedoch bestreiten, dass beide Codices von derselben Hand geschrieben wurden, vielleicht von P. Joannes Rigele.\n\nDer Verfasser ist völlig unbekannt. Trotz des anderen Einbandes datiert der Katalogbearbeiter auch diesen Codex aufgrund der Schrift ungefähr auf 1703.",
+    "germanHtml": "<p>Kleines Oktavformat; 202 Seiten; Einband aus einem Pergamentblatt des 15. Jahrhunderts mit geistlicher Musik; geschrieben um 1703.</p>\n<p><strong>Viertes Buch der Dekretalen:</strong> S. 1–188.</p>\n<p>Anfang des ersten Titels <strong>Über Verlöbnisse und Ehe:</strong> <em>Sponsalia</em> wird von <em>spondere</em> hergeleitet.....</p>\n<p>Ob der Codex ein Kompendium von Teil b des Codex MN III 20 ist, bleibt ungewiss. Kaum jemand wird jedoch bestreiten, dass beide Codices von derselben Hand geschrieben wurden, vielleicht von P. Joannes Rigele.</p>\n<p>Der Verfasser ist völlig unbekannt. Trotz des anderen Einbandes datiert der Katalogbearbeiter auch diesen Codex aufgrund der Schrift ungefähr auf 1703.</p>",
+    "latin": "8° min.; 202 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae inscriptum; scriptus circa annum 1703\n\nLiber 4. Decretalium: p. 1–188.\n\nInitium Tituli 1. De sponsalibus et matrimonio: Sponsalia a spondendo dicta:.....\n\nUtrum codex noster compendium sit partis b codicis MN III 20 (vide supra p. 171!) an non, incertum est. Sed vix umquam negabit quisquam ambos codices ab eadem manu scriptos esse, dico fortasse a P. Joanne Rigele. Auctorem autem nescio omnino. Etsi alio tegumento inclusus sit codex noster, tamen propter scripturam arbitror fere anno 1703 scriptum esse eum.",
+    "latinHtml": "<p>8° min.; 202 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae inscriptum; scriptus circa annum 1703</p>\n<p>Liber 4. Decretalium: p. 1–188.</p>\n<p>Initium Tituli 1. De sponsalibus et matrimonio: Sponsalia a spondendo dicta:.....</p>\n<p>Utrum codex noster compendium sit partis b codicis MN III 20 (vide supra p. 171!) an non, incertum est. Sed vix umquam negabit quisquam ambos codices ab eadem manu scriptos esse, dico fortasse a P. Joanne Rigele. Auctorem autem nescio omnino. Etsi alio tegumento inclusus sit codex noster, tamen propter scripturam arbitror fere anno 1703 scriptum esse eum.</p>"
+  },
+  "source": {
+    "file": "MN III 22.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-22/",
+  "relations": [
+    {
+      "typeRaw": "possible_summary_of",
+      "typeLabel": "possible summary of",
+      "targetRaw": "[[MN III 20]]",
+      "targetId": "mn-iii-20",
+      "targetSignature": "MN III 20",
+      "appliesTo": [
+        "Teil b"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 22",
+    "titles": "Liber 4. Decretalium \nLiber 4. Decretalium",
+    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "Sponsalia a spondendo dicta:.....",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+  }
+}

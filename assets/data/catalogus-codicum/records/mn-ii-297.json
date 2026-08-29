@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-297",
+  "signature": "MN II 297",
+  "aliases": [
+    "Bibl. Cod. MN II 297"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "239–240",
+  "heading": {
+    "title": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1759"
+  },
+  "date": {
+    "display": "1759",
+    "intervals": [
+      {
+        "from": 1759,
+        "to": 1759,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–26",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten."
+        },
+        {
+          "type": "completeness",
+          "text": "mutilated"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Annotationes Quaedam Physices",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 27–130",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Josephus Pampichler",
+      "roleRaw": "student",
+      "roleLabel": "Student",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Josephus Pampichler",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Schrieb die Abhandlungen wahrscheinlich nach Diktat und mit Hilfe eines Lehrers."
+    },
+    {
+      "name": "Josephus Pampichler",
+      "roleRaw": "illustrator",
+      "roleLabel": "illustrator",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "Josephus Pampichler",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "172 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1759",
+        "intervals": [
+          {
+            "from": 1759,
+            "to": 1759,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Wien",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ex_libris",
+      "text": "Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria. Amen."
+    },
+    {
+      "type": "drawing",
+      "subject": "Christus am Kreuz",
+      "caption": "Vexillum meum"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "172 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken, stark beschädigt; geschrieben 1759.\n\na) **Theoreme, Probleme, Lemmata und einige Fragen aus den Elementen der Mathematik, kurz zusammengestellt von Josephus Pampichler, Philosoph im ersten Jahr, 1759:** S. 1–26. Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten.\n\nb) **Einige Anmerkungen zur Physik:** S. 27–130.\n\nBeide Abhandlungen sind lateinisch und mit zahlreichen Zeichnungen illustriert.\n\nAuf der Innenseite des Rückdeckels steht: **Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria. Amen.** = Aus den Büchern des Josephus Pampichler, Rhetorikstudenten, im Jahr des Heils 1758. Meine erste Hoffnung ist Gott, meine zweite Hoffnung die Jungfrau Maria. Amen. Unter diesem Hexameter ist Christus am Kreuz mit der Beischrift **Vexillum meum** („Mein Feldzeichen“) gezeichnet.\n\nWie bereits beim vorhergehenden Codex bemerkt, ist wahrscheinlich, dass Josephus Pampichler später in Seitenstetten eintrat, den Namen Fr. Maximilianus annahm und 1762 Profess ablegte. Während beim vorhergehenden Codex ungewiss bleibt, ob Josephus ihn eigenhändig schrieb, ist bei unserem Codex ungewiss, ob er diese mathematischen Theoreme und physikalischen Probleme selbst verfasste. Wahrscheinlich schrieb und illustrierte er sie lediglich nach Diktat und mit Hilfe eines Lehrers.",
+    "germanHtml": "<p>172 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken, stark beschädigt; geschrieben 1759.</p>\n<p>a) <strong>Theoreme, Probleme, Lemmata und einige Fragen aus den Elementen der Mathematik, kurz zusammengestellt von Josephus Pampichler, Philosoph im ersten Jahr, 1759:</strong> S. 1–26. Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten.</p>\n<p>b) <strong>Einige Anmerkungen zur Physik:</strong> S. 27–130.</p>\n<p>Beide Abhandlungen sind lateinisch und mit zahlreichen Zeichnungen illustriert.</p>\n<p>Auf der Innenseite des Rückdeckels steht: <strong>Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria. Amen.</strong> = Aus den Büchern des Josephus Pampichler, Rhetorikstudenten, im Jahr des Heils 1758. Meine erste Hoffnung ist Gott, meine zweite Hoffnung die Jungfrau Maria. Amen. Unter diesem Hexameter ist Christus am Kreuz mit der Beischrift <strong>Vexillum meum</strong> („Mein Feldzeichen“) gezeichnet.</p>\n<p>Wie bereits beim vorhergehenden Codex bemerkt, ist wahrscheinlich, dass Josephus Pampichler später in Seitenstetten eintrat, den Namen Fr. Maximilianus annahm und 1762 Profess ablegte. Während beim vorhergehenden Codex ungewiss bleibt, ob Josephus ihn eigenhändig schrieb, ist bei unserem Codex ungewiss, ob er diese mathematischen Theoreme und physikalischen Probleme selbst verfasste. Wahrscheinlich schrieb und illustrierte er sie lediglich nach Diktat und mit Hilfe eines Lehrers.</p>",
+    "latin": "172 pagg.; teg. c3d (valde laesum!); script. 1759\n\na) Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae Per **Josephum Pampichler Philosophum in primum annum 1759**: p. 1–26. (Folium unum cum initio tractatus excisum est.)\n\nb) Annotationes Quaedam Physices: p. 27–130.\n\nUterque tractatus lingua latina utitur multisque delineationibus illustratur.\n\nIn parte aversa tegumenti ab intrinsecus haec nota invenitur: **Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria.** (Versus hexameter!) **Amen.** Quo sub versu delineata est imago Christi crucifixi cum subscriptione **Vexillum meum.**\n\nJosephum Pampichler postea in monasterium Seitenstettense ingressum nomen Fratris Maximiliani accepisse et anno 1762 vota nuncupasse veri simile est, ut iam ad codicem praecedentem indicavimus. Cum vero in codice praecedente incertum sit, num Josephus Pampichler codicem scripserit sua manu, in codice nostro incertum est, num ipse composuerit haec theoremata Mathematica et problemata Physica. Probabiliter dictante auxilianteque magistro librum nostrum nil nisi conscripsit illustravitque.",
+    "latinHtml": "<p>172 pagg.; teg. c3d (valde laesum!); script. 1759</p>\n<p>a) Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae Per <strong>Josephum Pampichler Philosophum in primum annum 1759</strong>: p. 1–26. (Folium unum cum initio tractatus excisum est.)</p>\n<p>b) Annotationes Quaedam Physices: p. 27–130.</p>\n<p>Uterque tractatus lingua latina utitur multisque delineationibus illustratur.</p>\n<p>In parte aversa tegumenti ab intrinsecus haec nota invenitur: <strong>Ex Libris Josephi Pampichler Rethorices Studiosi Anno Salutis 1758 Spes mea prima Deus Spes altera Virgo Maria.</strong> (Versus hexameter!) <strong>Amen.</strong> Quo sub versu delineata est imago Christi crucifixi cum subscriptione <strong>Vexillum meum.</strong></p>\n<p>Josephum Pampichler postea in monasterium Seitenstettense ingressum nomen Fratris Maximiliani accepisse et anno 1762 vota nuncupasse veri simile est, ut iam ad codicem praecedentem indicavimus. Cum vero in codice praecedente incertum sit, num Josephus Pampichler codicem scripserit sua manu, in codice nostro incertum est, num ipse composuerit haec theoremata Mathematica et problemata Physica. Probabiliter dictante auxilianteque magistro librum nostrum nil nisi conscripsit illustravitque.</p>"
+  },
+  "source": {
+    "file": "MN II 297.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-297/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 297",
+    "titles": "Theoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae \nTheoremata, Problemata, lemmata et Quaestiones quaedam ex Elementis Matheseos breviter conscriptae \nAnnotationes Quaedam Physices",
+    "persons": "Josephus Pampichler Student student \nJosephus Pampichler Schreiber scribe \nJosephus Pampichler illustrator illustrator \nJosephus Pampichler Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Ein Blatt mit dem Anfang der Abhandlung ist herausgeschnitten. \nmutilated",
+    "physical": "Papier \n172 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

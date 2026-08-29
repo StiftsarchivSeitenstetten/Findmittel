@@ -1,0 +1,176 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-12",
+  "signature": "MN I 12",
+  "aliases": [
+    "Bibl. Cod. MN I 12",
+    "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "220",
+  "heading": {
+    "title": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
+    "titleTypeRaw": "wrapper_title",
+    "titleTypeLabel": "wrapper title",
+    "date": "vermutlich zwischen 1742 und 1745"
+  },
+  "date": {
+    "display": "vermutlich zwischen 1742 und 1745",
+    "intervals": [
+      {
+        "from": 1742,
+        "to": 1745,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
+    "titleTypeRaw": "wrapper_title",
+    "titleTypeLabel": "wrapper title",
+    "translation": "",
+    "summary": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII.",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "summary",
+          "text": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII."
+        },
+        {
+          "type": "missing_contents",
+          "text": "session: 4; locus: fol. 48–64; status: missing; session: 35; status: missing"
+        },
+        {
+          "type": "contents",
+          "text": "type: session_protocols; number_of_sessions: 52; date: 20. November 1741 bis 12. März 1742; place: Frankfurt; participants: Kurfürsten oder deren Gesandte; subject_person: Karl VII."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Karl VII.",
+      "roleRaw": "subject; Kaiser",
+      "roleLabel": "subject; Kaiser",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "composite_manuscript",
+    "support": "Papier",
+    "extent": "52 Faszikel = 541 Blätter",
+    "format": "Folio",
+    "binding": {
+      "code": "",
+      "description": "",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt"
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "unit_type: Faszikel; units: 52; construction: Die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden.; sewing_or_ties: material: Seide; color: blau",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "vermutlich zwischen 1742 und 1745",
+        "intervals": [
+          {
+            "from": 1742,
+            "to": 1745,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": "Die Datierung 1742–1745 wird vom Katalogbearbeiter ausdrücklich nur mit Vorbehalt vorgeschlagen."
+    },
+    "provenance": [
+      {
+        "type": "unresolved_provenance_question",
+        "statement": "Der Weg der Faszikel in ein österreichisches Kloster ist ungeklärt.",
+        "note": "Der Katalogbearbeiter hebt besonders hervor, dass die Überlieferung von Akten zur Wahl und Krönung Karls VII., den er als den österreichischen Interessen überaus feindlich bezeichnet, in einem österreichischen Kloster erklärungsbedürftig sei."
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Der Katalog nennt insgesamt 52 Faszikel und zugleich Protokolle von 52 Sitzungen, vermerkt jedoch, dass die Faszikel zur vierten und fünfunddreißigsten Sitzung fehlen. Diese Angaben werden ohne Harmonisierung übernommen.",
+    "Die Datierung auf 1742–1745 ist eine Vermutung des Katalogbearbeiters und keine unmittelbar im Codex belegte Datierung.",
+    "Die blaue Farbe der seidenen Bänder wird ausdrücklich im Katalog vermerkt und als physisches Merkmal erfasst."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "52 Faszikel = 541 Blätter; Folioformat; die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden; sämtliche Faszikel werden jedoch lose in einem Papierumschlag mit Lederrücken aufbewahrt, der das Format der Blätter etwas überragt (Großfolio).\n\n**Aufschrift des Umschlags:** Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Tatsächlich enthält unser Umschlag die Protokolle von 52 Sitzungen, welche die Kurfürsten oder deren Gesandte in Frankfurt vom 20. November 1741 bis zum 12. März 1742 abhielten. Es fehlen jedoch die Faszikel mit den Protokollen der vierten Sitzung (fol. 48–64) und der fünfunddreißigsten Sitzung.\n\nEs ist sehr zu bezweifeln, dass diese Protokolle erst nach dem Tod Karls VII. abgeschrieben wurden. Daher würde ich, wenn auch nicht ganz ohne Vorbehalt, annehmen, dass unsere Faszikel zwischen den Jahren 1742 und 1745 geschrieben wurden.\n\nWie diese Faszikel über die Wahl und Krönung eines Kaisers, der den österreichischen Interessen überaus feindlich gesinnt war, in ein österreichisches Kloster gelangten, ist eine Frage, die einer Klärung würdig ist.\n\nIm Übrigen kenne ich weder den Kompilator noch den Schreiber.\n\n(Die Seidenbänder, welche die Blätter der Faszikel zusammenhalten, sind blau gefärbt.)",
+    "germanHtml": "<p>52 Faszikel = 541 Blätter; Folioformat; die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden; sämtliche Faszikel werden jedoch lose in einem Papierumschlag mit Lederrücken aufbewahrt, der das Format der Blätter etwas überragt (Großfolio).</p>\n<p><strong>Aufschrift des Umschlags:</strong> Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Tatsächlich enthält unser Umschlag die Protokolle von 52 Sitzungen, welche die Kurfürsten oder deren Gesandte in Frankfurt vom 20. November 1741 bis zum 12. März 1742 abhielten. Es fehlen jedoch die Faszikel mit den Protokollen der vierten Sitzung (fol. 48–64) und der fünfunddreißigsten Sitzung.</p>\n<p>Es ist sehr zu bezweifeln, dass diese Protokolle erst nach dem Tod Karls VII. abgeschrieben wurden. Daher würde ich, wenn auch nicht ganz ohne Vorbehalt, annehmen, dass unsere Faszikel zwischen den Jahren 1742 und 1745 geschrieben wurden.</p>\n<p>Wie diese Faszikel über die Wahl und Krönung eines Kaisers, der den österreichischen Interessen überaus feindlich gesinnt war, in ein österreichisches Kloster gelangten, ist eine Frage, die einer Klärung würdig ist.</p>\n<p>Im Übrigen kenne ich weder den Kompilator noch den Schreiber.</p>\n<p>(Die Seidenbänder, welche die Blätter der Faszikel zusammenhalten, sind blau gefärbt.)</p>",
+    "latin": "52 fasciculi = 541 foll.; fol.; uniuscuiusque fasciculi folia ligamine serico coniuncta sunt; omnes autem fasciculi soluti in involucro chartaceo cum dorso scorteo servantur, quod ambitum foliorum aliquantum excedit (fol. mai.).\n\n**Inscriptio involucri:** Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Et re vera continet involucrum nostrum protocolla 52 sessionum, quas principes electorales aut eorum nuntii Francofurti a die 20. Novembris 1741 usque ad diem 12. Martii 1742 instituerunt. Desunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent.\n\nValde dubitandum est, num haec protocolla Carolo Septimo iam mortuo descripta sint. Qua de causa fasciculos nostros inter annos 1742 et 1745 scriptos esse, etsi non sine ulla haesitatione, putaverim.\n\nQuo modo hi fasciculi de electione et coronatione imperatoris rerum Austriacarum inimicissimi in monasterium Austriacum devenerint, digna est, quae solvatur, quaestio.\n\nCeterum neque compilatorem scio neque scriptorem.\n\n(Ligamina serica, quae fasciculorum folia coniungunt, caeruleo colore tincta sunt.)",
+    "latinHtml": "<p>52 fasciculi = 541 foll.; fol.; uniuscuiusque fasciculi folia ligamine serico coniuncta sunt; omnes autem fasciculi soluti in involucro chartaceo cum dorso scorteo servantur, quod ambitum foliorum aliquantum excedit (fol. mai.).</p>\n<p><strong>Inscriptio involucri:</strong> Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi. Et re vera continet involucrum nostrum protocolla 52 sessionum, quas principes electorales aut eorum nuntii Francofurti a die 20. Novembris 1741 usque ad diem 12. Martii 1742 instituerunt. Desunt tamen fasciculi, qui protocolla sessionis quartae (fol. 48–64) et trigesimae quintae continent.</p>\n<p>Valde dubitandum est, num haec protocolla Carolo Septimo iam mortuo descripta sint. Qua de causa fasciculos nostros inter annos 1742 et 1745 scriptos esse, etsi non sine ulla haesitatione, putaverim.</p>\n<p>Quo modo hi fasciculi de electione et coronatione imperatoris rerum Austriacarum inimicissimi in monasterium Austriacum devenerint, digna est, quae solvatur, quaestio.</p>\n<p>Ceterum neque compilatorem scio neque scriptorem.</p>\n<p>(Ligamina serica, quae fasciculorum folia coniungunt, caeruleo colore tincta sunt.)</p>"
+  },
+  "source": {
+    "file": "MN I 12.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-12/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 12",
+    "titles": "Wahl- und Cronungs: Prothocolla Kaysers Caroli Septimi \nWahl- und Cronungs: Prothocolla Kaysers Caroli Septimi",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe \nKarl VII. subject; Kaiser subject; Kaiser",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Protokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII. \nde \nProtokolle von Sitzungen der Kurfürsten oder ihrer Gesandten in Frankfurt im Zusammenhang mit Wahl und Krönung Kaiser Karls VII. \nsession: 4; locus: fol. 48–64; status: missing; session: 35; status: missing \ntype: session_protocols; number_of_sessions: 52; date: 20. November 1741 bis 12. März 1742; place: Frankfurt; participants: Kurfürsten oder deren Gesandte; subject_person: Karl VII. \nDer Katalog nennt insgesamt 52 Faszikel und zugleich Protokolle von 52 Sitzungen, vermerkt jedoch, dass die Faszikel zur vierten und fünfunddreißigsten Sitzung fehlen. Diese Angaben werden ohne Harmonisierung übernommen. \nDie Datierung auf 1742–1745 ist eine Vermutung des Katalogbearbeiters und keine unmittelbar im Codex belegte Datierung. \nDie blaue Farbe der seidenen Bänder wird ausdrücklich im Katalog vermerkt und als physisches Merkmal erfasst.",
+    "physical": "Papier \n52 Faszikel = 541 Blätter \nFolio \nunit_type: Faszikel; units: 52; construction: Die Blätter jedes einzelnen Faszikels sind mit Seidenbändern zusammengebunden.; sewing_or_ties: material: Seide; color: blau"
+  }
+}

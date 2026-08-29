@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-75",
+  "signature": "MN III 75",
+  "aliases": [
+    "Bibl. Cod. MN III 75"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "280",
+  "heading": {
+    "title": "Gott ist die reinste Liebe mein Gebet und meine Betrachtung",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1820"
+  },
+  "date": {
+    "display": "um 1820",
+    "intervals": [
+      {
+        "from": 1820,
+        "to": 1820,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Gott ist die reinste Liebe mein Gebet und meine Betrachtung",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Gott ist die reinste Liebe mein Gebet und meine Betrachtung",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–251",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Einige Teile stimmen wörtlich mit MN III 76 überein."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Oratio historiaque (ne dicam fabula), quae superstitiam sapiunt",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 252",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung wurde aus der lateinischen Beschreibung des Katalogbearbeiters übernommen; Bleistiftnachtrag von anderer Hand."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "H A. L. L. A.",
+      "roleRaw": "donor_or_scribe",
+      "roleLabel": "donor or scribe",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Karl von Eckartshausen",
+      "roleRaw": "source_author",
+      "roleLabel": "source author",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1820",
+        "intervals": [
+          {
+            "from": 1820,
+            "to": 1820,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 252 Seiten; lederner Einband von rehbrauner oder brauner Farbe, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben um 1820.\n\n**Gott ist die reinste Liebe mein Gebet und meine Betrachtung**\n\n**Zum Andenken vom H A. L. L. A.**\n\nWen diese Initialen bezeichnen, ist unbekannt. Vielleicht handelt es sich um den Schreiber oder sogar Kompilator; sicher ist nur, dass die betreffende Person das Buch verschenkte.\n\nS. 252 ergänzte eine andere Hand mit Bleistift ein Gebet und eine Geschichte – wenn nicht vielmehr eine Sage –, die abergläubisch wirken.\n\nWegen Einband und Schrift datiert der Katalogbearbeiter das Büchlein ungefähr um 1820.\n\nEinige Teile stimmen Wort für Wort mit MN III 76 überein. Dort ist **Karl von Eckartshausen** als Verfasser angegeben; deshalb ist dieser Zusammenhang bei der Beurteilung unseres Codex zu berücksichtigen.",
+    "germanHtml": "<p>Oktavformat; 252 Seiten; lederner Einband von rehbrauner oder brauner Farbe, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben um 1820.</p>\n<p><strong>Gott ist die reinste Liebe mein Gebet und meine Betrachtung</strong></p>\n<p><strong>Zum Andenken vom H A. L. L. A.</strong></p>\n<p>Wen diese Initialen bezeichnen, ist unbekannt. Vielleicht handelt es sich um den Schreiber oder sogar Kompilator; sicher ist nur, dass die betreffende Person das Buch verschenkte.</p>\n<p>S. 252 ergänzte eine andere Hand mit Bleistift ein Gebet und eine Geschichte – wenn nicht vielmehr eine Sage –, die abergläubisch wirken.</p>\n<p>Wegen Einband und Schrift datiert der Katalogbearbeiter das Büchlein ungefähr um 1820.</p>\n<p>Einige Teile stimmen Wort für Wort mit MN III 76 überein. Dort ist <strong>Karl von Eckartshausen</strong> als Verfasser angegeben; deshalb ist dieser Zusammenhang bei der Beurteilung unseres Codex zu berücksichtigen.</p>",
+    "latin": "8°; 252 pagg.; teg. b1 in margine et dorso ornamentis impressis et inauratis decenter decoratum; scriptus ca. 1820\n\n**Gott ist die reinste Liebe mein Gebet und meine Betrachtung**\n\n**Zum Andenken vom H A. L. L. A.** Quem significent hae litterae initiales, nescio. Forsitan sit scriptor vel etiam compilator huius libri precatorii, certe librum dono dedit.\n\np. 252 ab alia manu graphitide addita est oratio historiaque (ne dicam fabula), quae superstitiam sapiunt.\n\nPropter formam tegumenti scripturaeque circa annum 1820 exaratum esse hunc codicillum puto. Quaedam partes huius libri cum codice MN III 76 (vide inferius!) ad verbum consonant. Vide igitur, quae infra p. 281 de **Carolo ab Eckartshausen**, auctore codicis MN III 76 dicturi simus!",
+    "latinHtml": "<p>8°; 252 pagg.; teg. b1 in margine et dorso ornamentis impressis et inauratis decenter decoratum; scriptus ca. 1820</p>\n<p><strong>Gott ist die reinste Liebe mein Gebet und meine Betrachtung</strong></p>\n<p><strong>Zum Andenken vom H A. L. L. A.</strong> Quem significent hae litterae initiales, nescio. Forsitan sit scriptor vel etiam compilator huius libri precatorii, certe librum dono dedit.</p>\n<p>p. 252 ab alia manu graphitide addita est oratio historiaque (ne dicam fabula), quae superstitiam sapiunt.</p>\n<p>Propter formam tegumenti scripturaeque circa annum 1820 exaratum esse hunc codicillum puto. Quaedam partes huius libri cum codice MN III 76 (vide inferius!) ad verbum consonant. Vide igitur, quae infra p. 281 de <strong>Carolo ab Eckartshausen</strong>, auctore codicis MN III 76 dicturi simus!</p>"
+  },
+  "source": {
+    "file": "MN III 75.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-75/",
+  "relations": [
+    {
+      "typeRaw": "textual_overlap",
+      "typeLabel": "textual overlap",
+      "targetRaw": "[[MN III 76]]",
+      "targetId": "mn-iii-76",
+      "targetSignature": "MN III 76",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 75",
+    "titles": "Gott ist die reinste Liebe mein Gebet und meine Betrachtung \nGott ist die reinste Liebe mein Gebet und meine Betrachtung \nOratio historiaque (ne dicam fabula), quae superstitiam sapiunt",
+    "persons": "H A. L. L. A. donor or scribe donor_or_scribe \nKarl von Eckartshausen source author source_author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Einige Teile stimmen wörtlich mit MN III 76 überein. \nDie gesamte Inhaltsbezeichnung wurde aus der lateinischen Beschreibung des Katalogbearbeiters übernommen; Bleistiftnachtrag von anderer Hand.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+  }
+}

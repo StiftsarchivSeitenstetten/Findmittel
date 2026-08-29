@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-66",
+  "signature": "MN III 66",
+  "aliases": [
+    "Bibl. Cod. MN III 66"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "274",
+  "heading": {
+    "title": "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "nach 1788"
+  },
+  "date": {
+    "display": "nach 1788",
+    "intervals": [
+      {
+        "from": 1788,
+        "to": 1788,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–66",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vorwiegend Exzerpte aus Gabriel Ducreux; außerdem Matthias Dannenmayr."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "c2",
+      "description": "Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nach 1788",
+        "intervals": [
+          {
+            "from": 1788,
+            "to": 1788,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 66 Seiten; marmorierter Pappeinband; geschrieben nach 1788.\n\n**Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh**\n\nAm Rand des Titelblattes und an vielen anderen Stellen wird Ducreux zitiert. Der Codex scheint daher größtenteils ein Auszug aus Gabriel Ducreux, *Les siècles chrétiens*, Paris 1775, beziehungsweise aus der deutschen Übersetzung *Die christlichen Jahrhunderte oder Geschichte des Christentums*, Wien, Trattner, 1777–1779, 9 Bände, zu sein.\n\nGelegentlich wird auch **Dannenmayr** zitiert, etwa S. 20 und 26, wahrscheinlich Matthias Dannenmayr, *Institutiones historiae ecclesiasticae Novi Testamenti*, Wien 1788.\n\nDaher kann das Büchlein sicher nicht vor 1788 zusammengestellt worden sein. Die Schrift wirkt eher wie aus dem 19. Jahrhundert.\n\nWer diese Auszüge gesammelt und geschrieben hat, ist unbekannt.",
+    "germanHtml": "<p>Oktavformat; 66 Seiten; marmorierter Pappeinband; geschrieben nach 1788.</p>\n<p><strong>Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh</strong></p>\n<p>Am Rand des Titelblattes und an vielen anderen Stellen wird Ducreux zitiert. Der Codex scheint daher größtenteils ein Auszug aus Gabriel Ducreux, <em>Les siècles chrétiens</em>, Paris 1775, beziehungsweise aus der deutschen Übersetzung <em>Die christlichen Jahrhunderte oder Geschichte des Christentums</em>, Wien, Trattner, 1777–1779, 9 Bände, zu sein.</p>\n<p>Gelegentlich wird auch <strong>Dannenmayr</strong> zitiert, etwa S. 20 und 26, wahrscheinlich Matthias Dannenmayr, <em>Institutiones historiae ecclesiasticae Novi Testamenti</em>, Wien 1788.</p>\n<p>Daher kann das Büchlein sicher nicht vor 1788 zusammengestellt worden sein. Die Schrift wirkt eher wie aus dem 19. Jahrhundert.</p>\n<p>Wer diese Auszüge gesammelt und geschrieben hat, ist unbekannt.</p>",
+    "latin": "8°; 66 pagg.; teg. c2; scriptus post annum 1788\n\n**Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh**\n\nIn margine paginae titularis et multis aliis locis libelli nostri laudatur Ducreux, ita ut quoad maximam partem excerptus esse videatur ex Historiae Ecclesiasticae Gabrielis Ducreux, *Les siècles chrétiens*, Paris 1775, versione Germanica: *Die christlichen Jahrhunderte oder Geschichte des Christentums.* Wien, Trattner, 1777–1779 (9 Tomi). Interdum vero etiam „Dannenmayr“ laudatur (ex. gr. p. 20, 26), probabiliter Matthiae Dannenmayr *Institutiones historiae ecclesiasticae Novi Testamenti*, Vindobonae 1788. Quae cum ita sint, codicillus noster certe non ante annum 1788 compositus est. At scriptura potius videtur esse saeculi XIX. Nescimus autem, quis haec excerpta collegerit scripseritque.",
+    "latinHtml": "<p>8°; 66 pagg.; teg. c2; scriptus post annum 1788</p>\n<p><strong>Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh</strong></p>\n<p>In margine paginae titularis et multis aliis locis libelli nostri laudatur Ducreux, ita ut quoad maximam partem excerptus esse videatur ex Historiae Ecclesiasticae Gabrielis Ducreux, <em>Les siècles chrétiens</em>, Paris 1775, versione Germanica: <em>Die christlichen Jahrhunderte oder Geschichte des Christentums.</em> Wien, Trattner, 1777–1779 (9 Tomi). Interdum vero etiam „Dannenmayr“ laudatur (ex. gr. p. 20, 26), probabiliter Matthiae Dannenmayr <em>Institutiones historiae ecclesiasticae Novi Testamenti</em>, Vindobonae 1788. Quae cum ita sint, codicillus noster certe non ante annum 1788 compositus est. At scriptura potius videtur esse saeculi XIX. Nescimus autem, quis haec excerpta collegerit scripseritque.</p>"
+  },
+  "source": {
+    "file": "MN III 66.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-66/",
+  "relations": [
+    {
+      "typeRaw": "source",
+      "typeLabel": "source",
+      "targetRaw": "Gabriel Ducreux, Les siècles chrétiens",
+      "targetId": null,
+      "targetSignature": "Gabriel Ducreux, Les siècles chrétiens",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "source",
+      "typeLabel": "source",
+      "targetRaw": "Die christlichen Jahrhunderte",
+      "targetId": null,
+      "targetSignature": "Die christlichen Jahrhunderte",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "source",
+      "typeLabel": "source",
+      "targetRaw": "Matthias Dannenmayr, Institutiones historiae ecclesiasticae Novi Testamenti",
+      "targetId": null,
+      "targetSignature": "Matthias Dannenmayr, Institutiones historiae ecclesiasticae Novi Testamenti",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 66",
+    "titles": "Die christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh \nDie christlichen Jahrhunderte oder Geschichte der Kirche. XV. Jahrh",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Vorwiegend Exzerpte aus Gabriel Ducreux; außerdem Matthias Dannenmayr.",
+    "physical": "Papier \n8° \nOktavformat \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext."
+  }
+}

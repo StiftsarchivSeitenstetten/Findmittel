@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-h-xviii-2m",
+  "signature": "Arch. Cod. 3 H (XVIII 2m)",
+  "aliases": [
+    "Arch. Cod. 3 H (XVIII 2m)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "242–243",
+  "heading": {
+    "title": "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1762"
+  },
+  "date": {
+    "display": "1762",
+    "intervals": [
+      {
+        "from": 1762,
+        "to": 1762,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–156",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Norbertus Pampichler",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Prior und Konvent von Seitenstetten",
+      "roleRaw": "dedicator",
+      "roleLabel": "Widmender",
+      "scope": "manuscript",
+      "date": "1762-08-04"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "156 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1762",
+        "intervals": [
+          {
+            "from": 1762,
+            "to": 1762,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 156 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen; geschrieben 1762.\n\n**Katalog der hochwürdigsten Äbte des berühmten Benediktinerklosters Seitenstetten in Niederösterreich**, beginnend mit Abt Gundaker im 14. Jahrhundert und über die in den Hausüberlieferungen fortgeführte Äbtereihe bis zu Abt Paul II.; ergänzt um einen Anhang über jene Seitenstettner Äbte, die zu Vorstehern anderer Klöster postuliert wurden, und überall mit historischen und kritischen Notizen versehen.\n\nDas Werk wurde Abt **Dominicus** zum Namenstag am 4. August 1762 vom Prior und Konvent untertänigst gewidmet.\n\nDie sehr lange Titulatur erstreckt sich über S. 1–4.\n\nDer gesamte Codex ist äußerst kunstvoll geschrieben; weder Schreiber noch Verfasser werden darin genannt. Den Namen des Verfassers liefert jedoch der folgende Codex 3 K: **P. Norbertus Pampichler**.",
+    "germanHtml": "<p>Folioformat; 156 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen; geschrieben 1762.</p>\n<p><strong>Katalog der hochwürdigsten Äbte des berühmten Benediktinerklosters Seitenstetten in Niederösterreich</strong>, beginnend mit Abt Gundaker im 14. Jahrhundert und über die in den Hausüberlieferungen fortgeführte Äbtereihe bis zu Abt Paul II.; ergänzt um einen Anhang über jene Seitenstettner Äbte, die zu Vorstehern anderer Klöster postuliert wurden, und überall mit historischen und kritischen Notizen versehen.</p>\n<p>Das Werk wurde Abt <strong>Dominicus</strong> zum Namenstag am 4. August 1762 vom Prior und Konvent untertänigst gewidmet.</p>\n<p>Die sehr lange Titulatur erstreckt sich über S. 1–4.</p>\n<p>Der gesamte Codex ist äußerst kunstvoll geschrieben; weder Schreiber noch Verfasser werden darin genannt. Den Namen des Verfassers liefert jedoch der folgende Codex 3 K: <strong>P. Norbertus Pampichler</strong>.</p>",
+    "latin": "fol.; 156 pagg.; teg. b1 (dorsum flosculis impressis inauratisque ornatum); script. 1762\n\n**Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,...... Reverendissimo ......Dominico Ordinis S. Benedicti Celeberrimi Beatissimae Virginis Monasterii Seittenstettensis à V. Nonas Maji**\n\n\n\n\n**Anno Christi MDCCXLVII. Abbati Vigilantissimo LII.......Hanc quam nomine Suo illustrat Antecessorum Seriem, ....humillime offerimus, Censurae subjicimus Solenni Gloriosissimi Nominis festo Pridie Nonas Augustas MDCCLXII. (1762) humillimi filii Prior et Conventus.**\n\n(Hanc longissimam inscriptionem libri invenies a pag. 1 usque ad pag. 4!)\n\nTotus Codex ornatissime scriptus est, sed neque nomen scriptoris, neque nomen auctoris invenitur in codice nostro. At auctoris nomen praebet codex proximus:",
+    "latinHtml": "<p>fol.; 156 pagg.; teg. b1 (dorsum flosculis impressis inauratisque ornatum); script. 1762</p>\n<p><strong>Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,...... Reverendissimo ......Dominico Ordinis S. Benedicti Celeberrimi Beatissimae Virginis Monasterii Seittenstettensis à V. Nonas Maji</strong></p>\n<p><strong>Anno Christi MDCCXLVII. Abbati Vigilantissimo LII.......Hanc quam nomine Suo illustrat Antecessorum Seriem, ....humillime offerimus, Censurae subjicimus Solenni Gloriosissimi Nominis festo Pridie Nonas Augustas MDCCLXII. (1762) humillimi filii Prior et Conventus.</strong></p>\n<p>(Hanc longissimam inscriptionem libri invenies a pag. 1 usque ad pag. 4!)</p>\n<p>Totus Codex ornatissime scriptus est, sed neque nomen scriptoris, neque nomen auctoris invenitur in codice nostro. At auctoris nomen praebet codex proximus:</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 H (XVIII 2m).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-h-xviii-2m/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 3 H (XVIII 2m)",
+    "titles": "Catalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,...... \nCatalogus Reverendissimorum et Amplissimorum Dominorum Abbatum Celeberrimi Beatae Virginis Monasterii Seittenstettensis in inferiori Austria Ordinis Sancti Benedicti à Gundackero loci Abbate XVIII ad sua usque tempora Saeculi XIV annum XXIV. in domesticarum traditionum codice descriptus. Alia deinceps atque alia coaeva tamen semper et Abbatiali plerumque manu Usque ad obitum Caspari Plautii Abbatis XLIV Saeculi XVII. annum XXVII. continuatus..... Nunc ad Saeculi XVIII. I. annum XLVII. Pauli II. Abbatis LI. ultimum extensus cum Appendice seu Reverendissimorum DD. Abbatum à è Seittenstettensi Monasterio ad aliorum Coenobiorum infulas postulatorum breviculo. Subjectis ubique historicis et criticis notulis,......",
+    "persons": "P. Norbertus Pampichler Autor author \nunbekannt Schreiber scribe \nPrior und Konvent von Seitenstetten Widmender dedicator",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n156 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+  }
+}

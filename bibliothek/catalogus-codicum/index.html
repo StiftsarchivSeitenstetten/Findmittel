@@ -1,0 +1,63 @@
+---
+layout: default
+extra_css:
+  - /assets/css/catalogus.css
+extra_js:
+  - /assets/js/catalogus-data.js
+  - /assets/js/catalogus-search.js
+---
+
+<p><a class="back-link" href="{{ site.baseurl }}/bibliothek/">&larr; Zurück zur Stiftsbibliothek</a></p>
+
+<h2>Catalogus Codicum</h2>
+<p>Digitales Findmittel zum <em>Katalog der frühneuzeitlichen Handschriften des Stifts Seitenstetten</em>. Recherchiert werden die strukturierte moderne Erschließung, einzelne Inhaltseinheiten sowie die vollständige deutsche Übersetzung und der historische lateinische Katalogtext.</p>
+
+<div class="catalogus-intro-note">
+    Die digitale Erschließung des <em>Catalogus Codicum</em> wird laufend weiterentwickelt. Die historischen Katalogtexte und Übersetzungen sind vollständig verfügbar; die strukturierten Metadaten werden derzeit in weiteren fachlichen Redaktionsschritten normalisiert und ergänzt. Erschlossene oder unsichere Angaben werden, soweit bereits strukturiert erfasst, entsprechend gekennzeichnet.
+</div>
+
+<p><a href="https://archive.org/details/seitenstetten-catalogus-codicum" target="_blank" rel="noopener">Historisches Digitalisat auf Archive.org &rarr;</a></p>
+
+<section class="catalogus-search"
+         data-catalogus-search
+         data-base-url="{{ site.baseurl }}"
+         data-manifest-url="{{ site.baseurl }}/assets/data/catalogus-codicum/manifest.json"
+         data-search-index-url="{{ site.baseurl }}/assets/data/catalogus-codicum/search-index.json">
+    <form class="catalogus-search-panel" data-search-form>
+        <div class="catalogus-search-controls">
+            <div class="search-field catalogus-query-field">
+                <label for="catalogusSearchQuery">Suchbegriff</label>
+                <input id="catalogusSearchQuery" data-search-query type="search" autocomplete="off" placeholder="z. B. MN II 147, Aristoteles, Bruno Schlibnig oder Incipit">
+            </div>
+            <div class="filter-field">
+                <label for="catalogusFieldFilter">Suche in</label>
+                <select id="catalogusFieldFilter" data-field-filter>
+                    <option value="all">Allen Feldern</option>
+                    <option value="signature">Signatur</option>
+                    <option value="contents">Titel / Inhalt</option>
+                    <option value="persons">Personen</option>
+                    <option value="incipit">Incipit</option>
+                    <option value="german">Deutsche Übersetzung</option>
+                    <option value="latin">Lateinischer Originaltext</option>
+                </select>
+            </div>
+            <div class="filter-field">
+                <label for="catalogusDateFrom">Datierung von</label>
+                <input id="catalogusDateFrom" data-date-from type="number" inputmode="numeric" min="1400" max="1950" placeholder="z. B. 1680">
+            </div>
+            <div class="filter-field">
+                <label for="catalogusDateTo">bis</label>
+                <input id="catalogusDateTo" data-date-to type="number" inputmode="numeric" min="1400" max="1950" placeholder="z. B. 1700">
+            </div>
+            <div class="filter-field">
+                <label for="catalogusRepository">Aufbewahrung</label>
+                <select id="catalogusRepository" data-repository-filter>
+                    <option value="">Alle</option>
+                </select>
+            </div>
+            <button class="button-link" type="submit">Suchen</button>
+        </div>
+        <p class="search-meta" data-search-status>Catalogus-Daten werden geladen ...</p>
+    </form>
+    <div class="catalogus-search-results" data-search-results aria-live="polite"></div>
+</section>

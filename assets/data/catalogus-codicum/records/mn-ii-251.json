@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-251",
+  "signature": "MN II 251",
+  "aliases": [
+    "Bibl. Cod. MN II 251"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "193–194",
+  "heading": {
+    "title": "Tractatus Theologicus. De vitiis et peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1710–1715"
+  },
+  "date": {
+    "display": "ca. 1710–1715",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1715,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus. De vitiis et peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–126",
+      "language": "",
+      "incipit": {
+        "text": "Peccatum informe et infame monstrum"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 126–192",
+      "language": "",
+      "incipit": {
+        "text": "Tractatus de legibus communis est"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Sacramentis in Genere et de tribus prioribus in specie",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 193–367",
+      "language": "",
+      "incipit": {
+        "text": "Post explicatum et disputatum Incarnationis Divinae mysterium"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "376 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1710–1715",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1715,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "376 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben ungefähr zwischen 1710 und 1715.\n\na) **Theologische Abhandlung über Laster und Sünden:** S. 3–126. Anfang der Vorrede S. 3: Die Sünde, ein formloses und schändliches Ungeheuer.....\n\nb) **Abhandlung über die Gesetze:** S. 126–192; unvollständig. Anfang der ersten Disputation: Die Abhandlung über die Gesetze ist eine gemeinsame.....\n\nc) **(Abhandlung über die Sakramente im Allgemeinen und über die ersten drei im Einzelnen):** S. 193–367. Anfang der Vorrede: Nachdem das Geheimnis der göttlichen Menschwerdung erklärt und erörtert worden ist........\n\nWeder Verfasser noch Schreiber sind bekannt. Aufgrund der Ähnlichkeit von Schrift und Einband mit den folgenden Codices nimmt der Katalogbearbeiter an, dass auch dieser zwischen 1710 und 1715 geschrieben wurde.",
+    "germanHtml": "<p>376 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben ungefähr zwischen 1710 und 1715.</p>\n<p>a) <strong>Theologische Abhandlung über Laster und Sünden:</strong> S. 3–126. Anfang der Vorrede S. 3: Die Sünde, ein formloses und schändliches Ungeheuer.....</p>\n<p>b) <strong>Abhandlung über die Gesetze:</strong> S. 126–192; unvollständig. Anfang der ersten Disputation: Die Abhandlung über die Gesetze ist eine gemeinsame.....</p>\n<p>c) <strong>(Abhandlung über die Sakramente im Allgemeinen und über die ersten drei im Einzelnen):</strong> S. 193–367. Anfang der Vorrede: Nachdem das Geheimnis der göttlichen Menschwerdung erklärt und erörtert worden ist........</p>\n<p>Weder Verfasser noch Schreiber sind bekannt. Aufgrund der Ähnlichkeit von Schrift und Einband mit den folgenden Codices nimmt der Katalogbearbeiter an, dass auch dieser zwischen 1710 und 1715 geschrieben wurde.</p>",
+    "latin": "376 pagg.; teg. a1; script. ca. 1710–1715\n\na) Tractatus Theologicus. De vitiis et peccatis: p. 3–126.  \nInitium Prooemii p. 3: Peccatum informe et infame monstrum.....\n\nb) Tractatus De Legibus: p. 126–192 (tractatus imperfectus!).  \nInitium Disputationis Primae: Tractatus de legibus communis est ......\n\nc) (Tractatus De Sacramentis in Genere et de tribus prioribus in specie): p. 193–367.  \nInitium Prooemii: Post explicatum et disputatum Incarnationis Divinae mysterium ........\n\nNeque auctor notus neque scriptor, sed propter similitudinem scripturae et tegumenti cum codicibus sequentibus etiam codicem nostrum inter annum 1710 et 1715 scriptum esse puto.",
+    "latinHtml": "<p>376 pagg.; teg. a1; script. ca. 1710–1715</p>\n<p>a) Tractatus Theologicus. De vitiis et peccatis: p. 3–126. Initium Prooemii p. 3: Peccatum informe et infame monstrum.....</p>\n<p>b) Tractatus De Legibus: p. 126–192 (tractatus imperfectus!). Initium Disputationis Primae: Tractatus de legibus communis est ......</p>\n<p>c) (Tractatus De Sacramentis in Genere et de tribus prioribus in specie): p. 193–367. Initium Prooemii: Post explicatum et disputatum Incarnationis Divinae mysterium ........</p>\n<p>Neque auctor notus neque scriptor, sed propter similitudinem scripturae et tegumenti cum codicibus sequentibus etiam codicem nostrum inter annum 1710 et 1715 scriptum esse puto.</p>"
+  },
+  "source": {
+    "file": "MN II 251.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-251/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 251",
+    "titles": "Tractatus Theologicus. De vitiis et peccatis \nTractatus Theologicus. De vitiis et peccatis \nTractatus De Legibus \nTractatus De Sacramentis in Genere et de tribus prioribus in specie",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Peccatum informe et infame monstrum \nTractatus de legibus communis est \nPost explicatum et disputatum Incarnationis Divinae mysterium",
+    "explicits": "",
+    "notes": "incomplete \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet.",
+    "physical": "Papier \n376 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-312",
+  "signature": "MN II 312",
+  "aliases": [
+    "Bibl. Cod. MN II 312"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "276–277",
+  "heading": {
+    "title": "Achte Predigt=Sammlung G W(?) 1821",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1821/22"
+  },
+  "date": {
+    "display": "1821/22",
+    "intervals": [
+      {
+        "from": 1821,
+        "to": 1822,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Achte Predigt=Sammlung G W(?) 1821",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Achte Predigt=Sammlung G W(?) 1821",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–284",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Zwischen „Predigt=Sammlung“ und der unsicheren Auflösung „G W(?)“ steht ein handschriftliches Monogramm; Predigten 1821 in Straubing und ab S. 185 im Jahr 1822 als Pfarrer in Rattenberg gehalten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Fragmente eines Tagebuches",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 285–290",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 291–294",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "mutilated"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "G W (?)",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "note": "Laut Katalog sind Verfasser und Schreiber ohne Zweifel identisch; die Auflösung des Monogramms bleibt unsicher."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "294 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband. Der Rücken ist abgeschnitten.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1821/22",
+        "intervals": [
+          {
+            "from": 1821,
+            "to": 1822,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Straubing und Rattenberg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "294 Seiten; grauer Pappeinband, Rücken abgeschnitten; geschrieben 1821/22.\n\n**Achte Predigt=Sammlung [handschriftliches Monogramm] = G W(?) 1821**\n\nDer Verfasser, der ohne Zweifel zugleich der Schreiber ist, hielt die Predigten dieses Codex 1821 in Straubing und 1822 als Pfarrer in Rattenberg – von S. 185 an.\n\nAm Ende des Codex fügte er außerdem **Fragmente eines Tagebuches** S. 285–290 und **Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit** S. 291–294 hinzu; der letztgenannte Teil ist verstümmelt.",
+    "germanHtml": "<p>294 Seiten; grauer Pappeinband, Rücken abgeschnitten; geschrieben 1821/22.</p>\n<p><strong>Achte Predigt=Sammlung [handschriftliches Monogramm] = G W(?) 1821</strong></p>\n<p>Der Verfasser, der ohne Zweifel zugleich der Schreiber ist, hielt die Predigten dieses Codex 1821 in Straubing und 1822 als Pfarrer in Rattenberg – von S. 185 an.</p>\n<p>Am Ende des Codex fügte er außerdem <strong>Fragmente eines Tagebuches</strong> S. 285–290 und <strong>Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit</strong> S. 291–294 hinzu; der letztgenannte Teil ist verstümmelt.</p>",
+    "latin": "294 pagg.; teg. c1 (dorso abscisso); scriptus 1821/22\n\n**Achte Predigt=Sammlung [handschriftliches Monogramm] = G W(?) 1821**\n\nAuctor (qui sine dubio idem est atque scriptor) conciones huius codicis anno 1821 in Straubing, 1822 ut parochus in Rattenberg (inde a pag. 185) habuit, qui in codicis nostri fine addidit etiam **Fragmente eines Tagebuches** (p. 285–290) et **Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit** (p. 291–294; pars mutila)",
+    "latinHtml": "<p>294 pagg.; teg. c1 (dorso abscisso); scriptus 1821/22</p>\n<p><strong>Achte Predigt=Sammlung [handschriftliches Monogramm] = G W(?) 1821</strong></p>\n<p>Auctor (qui sine dubio idem est atque scriptor) conciones huius codicis anno 1821 in Straubing, 1822 ut parochus in Rattenberg (inde a pag. 185) habuit, qui in codicis nostri fine addidit etiam <strong>Fragmente eines Tagebuches</strong> (p. 285–290) et <strong>Das Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit</strong> (p. 291–294; pars mutila)</p>"
+  },
+  "source": {
+    "file": "MN II 312.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-312/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 312",
+    "titles": "Achte Predigt=Sammlung G W(?) 1821 \nAchte Predigt=Sammlung G W(?) 1821 \nFragmente eines Tagebuches \nDas Leiden unsers Herr Jesu Christi in 40 Punkte getheilt zu Täglichen Betrachtungen während der heiligen Fastenzeit",
+    "persons": "G W (?) author and scribe author_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Zwischen „Predigt=Sammlung“ und der unsicheren Auflösung „G W(?)“ steht ein handschriftliches Monogramm; Predigten 1821 in Straubing und ab S. 185 im Jahr 1822 als Pfarrer in Rattenberg gehalten. \nmutilated",
+    "physical": "Papier \n294 pagg. \ncode: c1; description: Grauer Pappeinband. Der Rücken ist abgeschnitten."
+  }
+}

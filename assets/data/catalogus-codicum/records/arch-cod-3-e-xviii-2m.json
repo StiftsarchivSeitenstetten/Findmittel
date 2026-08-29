@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-e-xviii-2m",
+  "signature": "Arch. Cod. 3 E (XVIII 2m)",
+  "aliases": [
+    "Arch. Cod. 3 E (XVIII 2m)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "267",
+  "heading": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus III",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1791"
+  },
+  "date": {
+    "display": "1791",
+    "intervals": [
+      {
+        "from": 1791,
+        "to": 1791,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus III",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tomus III",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 877–1255",
+      "language": "",
+      "incipit": null,
+      "explicit": {
+        "text": "Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis Ordinis S. Benedicti 28 Februarii 1791"
+      },
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog bezeichnet den Inhalt durch Rückverweis als dritten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "378 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1791",
+        "intervals": [
+          {
+            "from": 1791,
+            "to": 1791,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 378 Seiten; Einband wie beim vorausgehenden Arch. Cod. 3 D; geschrieben 1791.\n\nDieser Codex enthält Band III desselben Werkes von **P. Josephus Schaukegl**, also S. 877–1255.\n\nSchluss S. 1255: **Hier endet die neunte Untersuchung dieses Werkes, mit Gottes Hilfe, damit in allem Gott verherrlicht werde. Joseph Schaukegl, Priester der Abtei Seitenstetten, Benediktiner, 28. Februar 1791.**\n\nEin weiteres lateinisches Exemplar dieses Werkes befindet sich in der Studienbibliothek Linz. Dieses Linzer Exemplar enthält auch Band IV, also die Untersuchungen X–XII, die in Seitenstetten heute leider fehlen.",
+    "germanHtml": "<p>Folioformat; 378 Seiten; Einband wie beim vorausgehenden Arch. Cod. 3 D; geschrieben 1791.</p>\n<p>Dieser Codex enthält Band III desselben Werkes von <strong>P. Josephus Schaukegl</strong>, also S. 877–1255.</p>\n<p>Schluss S. 1255: <strong>Hier endet die neunte Untersuchung dieses Werkes, mit Gottes Hilfe, damit in allem Gott verherrlicht werde. Joseph Schaukegl, Priester der Abtei Seitenstetten, Benediktiner, 28. Februar 1791.</strong></p>\n<p>Ein weiteres lateinisches Exemplar dieses Werkes befindet sich in der Studienbibliothek Linz. Dieses Linzer Exemplar enthält auch Band IV, also die Untersuchungen X–XII, die in Seitenstetten heute leider fehlen.</p>",
+    "latin": "fol.; 378 pagg.; teg. ut in codice praecedente 3 D; script. 1791\n\nHic codex eiusdem operis **P. Josephi Schaukegl** monachi Seitenstettensis Tomum III, id est pagg. 877–1255, continet.\n\n**Clausula p. 1255:** Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis Ordinis S. Benedicti 28 Februarii 1791\n\n**NB!** Alterum exemplar huius operis Latine scripti asservatur in Bibliotheca Studiorum Lincii. Illud Linciense exemplar continet etiam Tomum IV., id est exercitationes X–XII, quae quod in monasterio Seitenstettensi iam non inveniuntur, valde dolendum est.",
+    "latinHtml": "<p>fol.; 378 pagg.; teg. ut in codice praecedente 3 D; script. 1791</p>\n<p>Hic codex eiusdem operis <strong>P. Josephi Schaukegl</strong> monachi Seitenstettensis Tomum III, id est pagg. 877–1255, continet.</p>\n<p><strong>Clausula p. 1255:</strong> Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis Ordinis S. Benedicti 28 Februarii 1791</p>\n<p><strong>NB!</strong> Alterum exemplar huius operis Latine scripti asservatur in Bibliotheca Studiorum Lincii. Illud Linciense exemplar continet etiam Tomum IV., id est exercitationes X–XII, quae quod in monasterio Seitenstettensi iam non inveniuntur, valde dolendum est.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 E (XVIII 2m).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-e-xviii-2m/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "Arch. Cod. 3 D (XVIII 2m)",
+      "targetId": "arch-cod-3-d-xviii-2m",
+      "targetSignature": "Arch. Cod. 3 D (XVIII 2m)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "Arch. Cod. 3 E (XVIII 2m)",
+    "titles": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus III \nTomus III",
+    "persons": "P. Josephus Schaukegl Autor author \nP. Josephus Schaukegl Schreiber scribe",
+    "incipits": "",
+    "explicits": "Hic finit Exercitatio IX hujus operis, Deo propitio, Ut In Omnibus Glorificetur Deus. Josephus Schaukegl Presbyter Abbatiae Seitenstettensis Ordinis S. Benedicti 28 Februarii 1791",
+    "notes": "Der Katalog bezeichnet den Inhalt durch Rückverweis als dritten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt.",
+    "physical": "Papier \n378 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

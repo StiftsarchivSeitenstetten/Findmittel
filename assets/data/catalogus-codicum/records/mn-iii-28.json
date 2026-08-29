@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-28",
+  "signature": "MN III 28",
+  "aliases": [
+    "Bibl. Cod. MN III 28"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "197",
+  "heading": {
+    "title": "Compendium Tractatus De Incarnationis Mysterio",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1716 (?)"
+  },
+  "date": {
+    "display": "1716 (?)",
+    "intervals": [
+      {
+        "from": 1716,
+        "to": 1716,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Compendium Tractatus De Incarnationis Mysterio",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Compendium Tractatus De Incarnationis Mysterio",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 5–284",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; die übrigen Seiten sind leer."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Hieronymus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Hieronymus Hueber",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1716 (?)",
+        "intervals": [
+          {
+            "from": 1716,
+            "to": 1716,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 356 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1716 (?).\n\n**Kompendium der Abhandlung über das Geheimnis der Menschwerdung:** S. 5–284. Die übrigen Seiten sind leer.\n\nAufgrund des Schriftcharakters steht fest, dass dieses Kompendium von demselben Fr. Hieronymus Hueber geschrieben wurde, der die Abhandlung über die Menschwerdung im vorausgehenden Codex aufgezeichnet hat.\n\nEr scheint bei der Erstellung dieses Kompendiums jene Abhandlung benutzt oder sogar nichts anderes getan zu haben, als den Traktat aus MN II 260 zusammenzuziehen. Daher dürfte auch unser Codex 1716 entstanden sein.",
+    "germanHtml": "<p>Kleines Oktavformat; 356 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1716 (?).</p>\n<p><strong>Kompendium der Abhandlung über das Geheimnis der Menschwerdung:</strong> S. 5–284. Die übrigen Seiten sind leer.</p>\n<p>Aufgrund des Schriftcharakters steht fest, dass dieses Kompendium von demselben Fr. Hieronymus Hueber geschrieben wurde, der die Abhandlung über die Menschwerdung im vorausgehenden Codex aufgezeichnet hat.</p>\n<p>Er scheint bei der Erstellung dieses Kompendiums jene Abhandlung benutzt oder sogar nichts anderes getan zu haben, als den Traktat aus MN II 260 zusammenzuziehen. Daher dürfte auch unser Codex 1716 entstanden sein.</p>",
+    "latin": "8° min.; 356 pagg.; teg. a2; script. 1716 (?)\n\n(Compendium Tractatus De Incarnationis Mysterio): p. 5–284 (Ceterae paginae vacuae!)\n\nPropter formam scripturae certum est, hoc compendium ab eodem F. Hieronymo Hueber scriptum esse, qui ipsum tractatum de incarnatione in codice praecedente notavit. Insuper videtur in conficiendo hoc compendio illo tractatu usus esse vel etiam nil nisi tractatum codicis MN II 260 in hoc compendio contraxisse. Itaque videtur etiam codex noster anno 1716 ortus esse.",
+    "latinHtml": "<p>8° min.; 356 pagg.; teg. a2; script. 1716 (?)</p>\n<p>(Compendium Tractatus De Incarnationis Mysterio): p. 5–284 (Ceterae paginae vacuae!)</p>\n<p>Propter formam scripturae certum est, hoc compendium ab eodem F. Hieronymo Hueber scriptum esse, qui ipsum tractatum de incarnatione in codice praecedente notavit. Insuper videtur in conficiendo hoc compendio illo tractatu usus esse vel etiam nil nisi tractatum codicis MN II 260 in hoc compendio contraxisse. Itaque videtur etiam codex noster anno 1716 ortus esse.</p>"
+  },
+  "source": {
+    "file": "MN III 28.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-28/",
+  "relations": [
+    {
+      "typeRaw": "summary_of",
+      "typeLabel": "summary of",
+      "targetRaw": "[[MN II 260]]",
+      "targetId": "mn-ii-260",
+      "targetSignature": "MN II 260",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 28",
+    "titles": "Compendium Tractatus De Incarnationis Mysterio \nCompendium Tractatus De Incarnationis Mysterio",
+    "persons": "Fr. Hieronymus Hueber Schreiber scribe \nFr. Hieronymus Hueber Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; die übrigen Seiten sind leer.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

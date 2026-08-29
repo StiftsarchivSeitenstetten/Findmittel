@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-194",
+  "signature": "MN II 194",
+  "aliases": [
+    "Bibl. Cod. MN II 194"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "144–145",
+  "heading": {
+    "title": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1696 oder 1697"
+  },
+  "date": {
+    "display": "1696 oder 1697",
+    "intervals": [
+      {
+        "from": 1696,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 6–150",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Titel und Vorrede fehlen; behandelt werden die Fragen 50–64 und 106–115."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Quaestiuncula De obiecto Intellectionis angelicae",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 3",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio prima De Substantia Angelorum secundum se",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "ab S. 6",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus quartus in primam secundae Summae Angelicae De Actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 150–319",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Zuschreibung aufgrund der Schriftgleichheit mit den acht vorhergehenden Codices."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "324 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1696 oder 1697",
+        "intervals": [
+          {
+            "from": 1696,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Tractatus De Angelis et Actibus Humanis. M. S."
+    },
+    {
+      "type": "bookbinder_instruction",
+      "locus": "S. 3, unterer Rand",
+      "text": "Her Von Mortnsberg (?) rukh et ökh.",
+      "certainty": "uncertain",
+      "note": "Der Name im ersten Teil ist schwer lesbar; der zweite Teil weist an, Rücken und Kanten mit Leder zu versehen."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "324 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1696 oder 1697.\n\na) **Dritte Abhandlung zum ersten Teil der Summa des hl. Thomas über Substanz, Eigenschaften, Wirkungen und Ursachen der Engel, von Frage 50–64 und 106–115:** S. 6–150. Titel und Vorrede fehlen. Anfang der ersten Disputation über die Substanz der Engel an sich, S. 6: Erster Artikel. Ob die Engel gänzlich unkörperlich seien? Zunächst ist zu beachten: Der Name Engel bezeichnet etymologisch.....\n\nZu diesem Traktat gehört in gewisser Weise auch die kleine Frage **Über den Gegenstand der engelhaften Erkenntnis** auf S. 3.\n\nb) **Vierte Abhandlung zur Prima Secundae der engelgleichen Summa über die menschlichen Handlungen:** S. 150–319. Anfang der Vorrede S. 150: Nachdem der hl. Thomas im ersten Teil der theologischen Summa über Gott, den Besten und Größten, gehandelt hat..... Schluss S. 319: **Hier ist meiner Theologie ein festes Ende gesetzt.....**\n\nWegen derselben Schrift ist anzunehmen, dass auch diesen Codex wie die acht vorhergehenden wahrscheinlich Fr. Joannes Rigele schrieb. Dieser empfing am 6. Januar 1697 die Priesterweihe; daher beendete er seine theologischen Studien entweder 1696 oder 1697, und in diesem Zeitraum muss auch der Codex entstanden sein.\n\nRückenaufschrift: **Tractatus De Angelis et Actibus Humanis. M. S.**\n\nDieselben Abhandlungen enthält MN II 211, dort jedoch mit Titel und Vorrede des ersten sowie mit einer vierten Disputation über das Gewissen im zweiten Traktat. Der Verfasser ist unbekannt.\n\nAnweisung für den Buchbinder am unteren Rand von S. 3: **Her Von Mortnsberg (?) rukh et ökh.** Der Name im ersten Teil ist schwer zu lesen; der zweite Teil verlangt, Rücken und Kanten mit Leder zu versehen.",
+    "germanHtml": "<p>324 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1696 oder 1697.</p>\n<p>a) <strong>Dritte Abhandlung zum ersten Teil der Summa des hl. Thomas über Substanz, Eigenschaften, Wirkungen und Ursachen der Engel, von Frage 50–64 und 106–115:</strong> S. 6–150. Titel und Vorrede fehlen. Anfang der ersten Disputation über die Substanz der Engel an sich, S. 6: Erster Artikel. Ob die Engel gänzlich unkörperlich seien? Zunächst ist zu beachten: Der Name Engel bezeichnet etymologisch.....</p>\n<p>Zu diesem Traktat gehört in gewisser Weise auch die kleine Frage <strong>Über den Gegenstand der engelhaften Erkenntnis</strong> auf S. 3.</p>\n<p>b) <strong>Vierte Abhandlung zur Prima Secundae der engelgleichen Summa über die menschlichen Handlungen:</strong> S. 150–319. Anfang der Vorrede S. 150: Nachdem der hl. Thomas im ersten Teil der theologischen Summa über Gott, den Besten und Größten, gehandelt hat..... Schluss S. 319: <strong>Hier ist meiner Theologie ein festes Ende gesetzt.....</strong></p>\n<p>Wegen derselben Schrift ist anzunehmen, dass auch diesen Codex wie die acht vorhergehenden wahrscheinlich Fr. Joannes Rigele schrieb. Dieser empfing am 6. Januar 1697 die Priesterweihe; daher beendete er seine theologischen Studien entweder 1696 oder 1697, und in diesem Zeitraum muss auch der Codex entstanden sein.</p>\n<p>Rückenaufschrift: <strong>Tractatus De Angelis et Actibus Humanis. M. S.</strong></p>\n<p>Dieselben Abhandlungen enthält MN II 211, dort jedoch mit Titel und Vorrede des ersten sowie mit einer vierten Disputation über das Gewissen im zweiten Traktat. Der Verfasser ist unbekannt.</p>\n<p>Anweisung für den Buchbinder am unteren Rand von S. 3: <strong>Her Von Mortnsberg (?) rukh et ökh.</strong> Der Name im ersten Teil ist schwer zu lesen; der zweite Teil verlangt, Rücken und Kanten mit Leder zu versehen.</p>",
+    "latin": "324 pagg.; teg. c2d; script. 1696 aut 1697\n\na) (Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum à Quaestione 50 usque 64 et à 106 usque 115): p. 6–150. Inscriptio et Prooemium desunt. Initium Disputationis I. De Substantia Angelorum secundum se p. 6: Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.\n\nb) Tractatus 4. in primam secundae Summae Angelicae De Actibus humanis: p. 150–319. Initium Prooemii p. 150: Postquam Divus Thomas in prima parte Summae Theologicae egit De Deo Optimo Maximo.....\n\n\n\n\nClausula p. 319: hic Theologiae meae est fixus terminus.......\n\nAtqui propter eandem Scripturam putandum est, etiam codicem nostrum ut octo praecedentes probabiliter a F. Joanne Rigele scriptum esse. (Vide supra p. 144 ad codicem MN II 193 et 141 ad codicem MN II 188!) Frater autem ille die 6. Januarii 1697 sacerdotium suscepit. Qua de causa aut anno 1696 aut anno 1697 studia theologica finivit. Itaque etiam codicem nostrum 1696 aut 1697 scripsit.\n\nInscriptio dorsi: Tractatus De Angelis et Actibus Humanis. M. S.  \nQuos tractatus etiam codex MN II 211 continet, sed cum titulo (quem in codicem nostrum transtuli) et prooemio prioris et disputatione quarta (De Conscientia) alterius tractatus. (De quo codice infra!) Auctor ignotus.\n\nNota pro bibliopego in margine inferiore p. 3: Her Von Mortnsberg (?) rukh et ökh. (Nomen in priore huius notae parte difficile intellectu est. Altera autem pars indicat bibliopego, ut dorsum et extrema libri corio tegat.)",
+    "latinHtml": "<p>324 pagg.; teg. c2d; script. 1696 aut 1697</p>\n<p>a) (Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum à Quaestione 50 usque 64 et à 106 usque 115): p. 6–150. Inscriptio et Prooemium desunt. Initium Disputationis I. De Substantia Angelorum secundum se p. 6: Articulus I. Utrum Angeli sint omnino incorporei? Sciendum I. nomen angeli secundum aethimologiam..... Ad hunc tractatum aliquo modo pertinet etiam quaestiuncula De obiecto Intellectionis angelicae p. 3.</p>\n<p>b) Tractatus 4. in primam secundae Summae Angelicae De Actibus humanis: p. 150–319. Initium Prooemii p. 150: Postquam Divus Thomas in prima parte Summae Theologicae egit De Deo Optimo Maximo.....</p>\n<p>Clausula p. 319: hic Theologiae meae est fixus terminus.......</p>\n<p>Atqui propter eandem Scripturam putandum est, etiam codicem nostrum ut octo praecedentes probabiliter a F. Joanne Rigele scriptum esse. (Vide supra p. 144 ad codicem MN II 193 et 141 ad codicem MN II 188!) Frater autem ille die 6. Januarii 1697 sacerdotium suscepit. Qua de causa aut anno 1696 aut anno 1697 studia theologica finivit. Itaque etiam codicem nostrum 1696 aut 1697 scripsit.</p>\n<p>Inscriptio dorsi: Tractatus De Angelis et Actibus Humanis. M. S. Quos tractatus etiam codex MN II 211 continet, sed cum titulo (quem in codicem nostrum transtuli) et prooemio prioris et disputatione quarta (De Conscientia) alterius tractatus. (De quo codice infra!) Auctor ignotus.</p>\n<p>Nota pro bibliopego in margine inferiore p. 3: Her Von Mortnsberg (?) rukh et ökh. (Nomen in priore huius notae parte difficile intellectu est. Altera autem pars indicat bibliopego, ut dorsum et extrema libri corio tegat.)</p>"
+  },
+  "source": {
+    "file": "MN II 194.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-194/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 211]]",
+      "targetId": "mn-ii-211",
+      "targetSignature": "MN II 211",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 194",
+    "titles": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nTractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nQuaestiuncula De obiecto Intellectionis angelicae \nDisputatio prima De Substantia Angelorum secundum se \nTractatus quartus in primam secundae Summae Angelicae De Actibus humanis",
+    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Titel und Vorrede fehlen; behandelt werden die Fragen 50–64 und 106–115. \nincomplete",
+    "physical": "Papier \n324 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

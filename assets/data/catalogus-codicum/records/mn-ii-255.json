@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-255",
+  "signature": "MN II 255",
+  "aliases": [
+    "Bibl. Cod. MN II 255"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "195",
+  "heading": {
+    "title": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1716"
+  },
+  "date": {
+    "display": "1716",
+    "intervals": [
+      {
+        "from": 1716,
+        "to": 1716,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–147r",
+      "language": "",
+      "incipit": {
+        "text": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "29. August 1716"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 252–254 und MN II 256–257."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "148 foll.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1716",
+        "intervals": [
+          {
+            "from": 1716,
+            "to": 1716,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "148 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1716.\n\n**Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung.**\n\nAnfang der Vorrede fol. 1r: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,.....\n\nSchluss fol. 147r: **Im Jahr des Herrn 1716, am 29. August.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber führte jedoch auch die drei vorhergehenden und die beiden folgenden Codices aus. Dieselben Vorlesungen wie unser Codex enthält auch MN II 260.",
+    "germanHtml": "<p>148 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1716.</p>\n<p><strong>Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung.</strong></p>\n<p>Anfang der Vorrede fol. 1r: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,.....</p>\n<p>Schluss fol. 147r: <strong>Im Jahr des Herrn 1716, am 29. August.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt. Derselbe Schreiber führte jedoch auch die drei vorhergehenden und die beiden folgenden Codices aus. Dieselben Vorlesungen wie unser Codex enthält auch MN II 260.</p>",
+    "latin": "148 foll.; teg. c3d; script. 1716\n\nTractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio.  \nInitium Proemii fol. 1r: Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,.....  \nClausula: fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:\n\nAuctor et scriptor ignoti, etiamsi scriptor noster tres quoque codices praecedentes et duos sequentes exaravit et easdem, quas codex noster, etiam codex MN II 260 continet lectiones. (Quem codicem vide inferius!)",
+    "latinHtml": "<p>148 foll.; teg. c3d; script. 1716</p>\n<p>Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio. Initium Proemii fol. 1r: Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit,..... Clausula: fol. 147r: Anno Domini MDCXVI (1716). die 29. Augusti:</p>\n<p>Auctor et scriptor ignoti, etiamsi scriptor noster tres quoque codices praecedentes et duos sequentes exaravit et easdem, quas codex noster, etiam codex MN II 260 continet lectiones. (Quem codicem vide inferius!)</p>"
+  },
+  "source": {
+    "file": "MN II 255.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-255/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 260]]",
+      "targetId": "mn-ii-260",
+      "targetSignature": "MN II 260",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 255",
+    "titles": "Tractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio \nTractatus Theologicus. De Sacro-Sancto Incarnationis Mysterio",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Omnium Arcanorum, quae Fides Catholica post augustissimum Triados Mysterium credenda proponit",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n148 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

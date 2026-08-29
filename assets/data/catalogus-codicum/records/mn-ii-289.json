@@ -1,0 +1,282 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-289",
+  "signature": "MN II 289",
+  "aliases": [
+    "Bibl. Cod. MN II 289"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "233–234",
+  "heading": {
+    "title": "Tractatus Scholastico-dogmaticus De Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1751/52"
+  },
+  "date": {
+    "display": "1751/52",
+    "intervals": [
+      {
+        "from": 1751,
+        "to": 1752,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-dogmaticus De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–86",
+      "language": "",
+      "incipit": {
+        "text": "Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Additamenta S. 87–88."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus II. De creatura corporali",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 91–163",
+      "language": "",
+      "incipit": {
+        "text": "Post considerationem Spiritualis creaturae"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus I. in I. Secundae S. Thomae Aquinatis De ultimo fine seu beatitudine hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 165–241",
+      "language": "",
+      "incipit": {
+        "text": "Amor Divinus circulum efficit admirabilem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus II. De actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 243–383",
+      "language": "",
+      "incipit": {
+        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos"
+      },
+      "explicit": {
+        "text": "Sicque die Veneris suspendimus Organa nostra, quo solet et fidicen plectra referre domum."
+      },
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "11. August 1752"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Norbertus Pampichler",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "certain",
+      "note": "Vom Katalog aufgrund der Parallelüberlieferung ausdrücklich als auctor und aufgrund von Schrift und Anlage als eigenhändiger Schreiber bestimmt."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "388 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2",
+      "description": "Marmorierter Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": "Jeweils nur die linke Seitenhälfte vollständig beschrieben; rechte Hälfte für Ergänzungen."
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1751/52",
+        "intervals": [
+          {
+            "from": 1751,
+            "to": 1752,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_leaves",
+      "locus": "zwischen S. 238 und 239",
+      "description": "Zwei gefaltete Blätter mit 49 sehr kurzen Sätzen (Nr. 1–48 und 60) De locis Theologicis."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "388 Seiten; marmorierter Pappeinband; geschrieben 1751/52.\n\na) **Scholastisch-dogmatische Abhandlung über die Engel:** S. 7–86; Zusätze S. 87–88. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind, geht der heilige Lehrer zu den Geschöpfen über,.....\n\nb) **Zweite Abhandlung über die körperliche Schöpfung:** S. 91–163. Anfang: Nach der Betrachtung der geistigen Schöpfung,.......\n\nc) **Erste Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen:** S. 165–241. Anfang: Die göttliche Liebe bildet einen wunderbaren Kreis......\n\nd) **Zweite Abhandlung über die menschlichen Handlungen:** S. 243–383. Anfang: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: **11. August 1752.** Daran schließen sich die Verse:\n\n**So hängen wir am Freitag unsere Instrumente auf,  \nan dem auch der Saitenspieler gewöhnlich sein Plektrum nach Hause trägt.**\n\nZwischen S. 238 und 239 sind zwei gefaltete Blätter eingelegt, die 49 sehr kurze Sätze (Nr. 1–48 und 60) **Über die theologischen Orte** enthalten.\n\nSowohl der Schlussvermerk als auch die Anfänge der einzelnen Teile zeigen, dass **P. Norbertus Pampichler** der Verfasser ist. Denn es sind dieselben Abhandlungen, die bereits in MN II 283, MN II 287b–e und MN II 288c–f vorkommen und dort diesem Verfasser zugeschrieben werden.\n\nEs besteht außerdem kein Zweifel, dass P. Norbertus Pampichler diesen Codex eigenhändig schrieb – und wegen der sehr ähnlichen Schrift wahrscheinlich auch die vier folgenden. Jeweils nur die linke Hälfte jeder Seite ist vollständig beschrieben; die rechte Hälfte enthält Ergänzungen, die in MN II 283 teilweise bereits in den Haupttext aufgenommen sind. Unser Codex ist daher eine eigene Vorbereitung des Autors auf seine theologischen Vorlesungen. So erklärt sich auch, warum MN II 283, MN II 287b–e und MN II 288c–f untereinander wörtlich übereinstimmen, unser Codex mit ihnen dagegen inhaltlich, aber nicht Wort für Wort.",
+    "germanHtml": "<p>388 Seiten; marmorierter Pappeinband; geschrieben 1751/52.</p>\n<p>a) <strong>Scholastisch-dogmatische Abhandlung über die Engel:</strong> S. 7–86; Zusätze S. 87–88. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind, geht der heilige Lehrer zu den Geschöpfen über,.....</p>\n<p>b) <strong>Zweite Abhandlung über die körperliche Schöpfung:</strong> S. 91–163. Anfang: Nach der Betrachtung der geistigen Schöpfung,.......</p>\n<p>c) <strong>Erste Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen:</strong> S. 165–241. Anfang: Die göttliche Liebe bildet einen wunderbaren Kreis......</p>\n<p>d) <strong>Zweite Abhandlung über die menschlichen Handlungen:</strong> S. 243–383. Anfang: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: <strong>11. August 1752.</strong> Daran schließen sich die Verse:</p>\n<p><strong>So hängen wir am Freitag unsere Instrumente auf, an dem auch der Saitenspieler gewöhnlich sein Plektrum nach Hause trägt.</strong></p>\n<p>Zwischen S. 238 und 239 sind zwei gefaltete Blätter eingelegt, die 49 sehr kurze Sätze (Nr. 1–48 und 60) <strong>Über die theologischen Orte</strong> enthalten.</p>\n<p>Sowohl der Schlussvermerk als auch die Anfänge der einzelnen Teile zeigen, dass <strong>P. Norbertus Pampichler</strong> der Verfasser ist. Denn es sind dieselben Abhandlungen, die bereits in MN II 283, MN II 287b–e und MN II 288c–f vorkommen und dort diesem Verfasser zugeschrieben werden.</p>\n<p>Es besteht außerdem kein Zweifel, dass P. Norbertus Pampichler diesen Codex eigenhändig schrieb – und wegen der sehr ähnlichen Schrift wahrscheinlich auch die vier folgenden. Jeweils nur die linke Hälfte jeder Seite ist vollständig beschrieben; die rechte Hälfte enthält Ergänzungen, die in MN II 283 teilweise bereits in den Haupttext aufgenommen sind. Unser Codex ist daher eine eigene Vorbereitung des Autors auf seine theologischen Vorlesungen. So erklärt sich auch, warum MN II 283, MN II 287b–e und MN II 288c–f untereinander wörtlich übereinstimmen, unser Codex mit ihnen dagegen inhaltlich, aber nicht Wort für Wort.</p>",
+    "latin": "388 pagg.; teg. c2; script. 1751/52\n\na) Tractatus Scholastico-dogmaticus De Angelis: p. 7–86 cum additamentis p. 87–88.  \nInitium: Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit,.....\n\nb) Tractatus II. De creatura corporali: p. 91–163.  \nInitium: Post considerationem Spiritualis creaturae,.......\n\nc) Tractatus I. in I. Secundae S. Thomae Aquinatis De ultimo fine seu beatitudine hominis: p. 165–241.  \nInitium: Amor Divinus circulum efficit admirabilem......\n\nd) Tractatus II. De actibus humanis: p. 243–383.  \nInitium: Progredimur cum Angelico duce nostro ad explicandos actus humanos,.....  \nClausula: 11 Augusti 1752. (Cui clausulae adduntur hi versus impares:)  \nSicque die Veneris suspendimus Organa nostra,  \nquo solet et fidicen plectra referre domum.\n\n\n\n\nInter paginas 238 et 239 inserta sunt duo folia plicata, quae exhibent 49 sententias (1–48, 60) brevissimas De locis Theologicis.\n\nTam clausula in fine codicis quam initia singularum partium demonstrant **P. Norbertum Pampichler** auctorem esse codicis nostri. Etenim eosdem tractatus continet, quos iam in codice MN II 283 (supra p. 230), in partibus b–e codicis MN II 287 (supra p. 232), in partibus c–f codicis MN II 288 (supra p. 233) invenimus compositosque esse ab illo auctore monstravimus. Sed etiam quin ipse auctor P. Norbertus Pampichler sua manu scripserit codicem nostrum (ideoque propter scripturam simillimam etiam quattuor sequentes), non est dubium. Nam non nisi sinistrum dimidium uniuscuiusque paginae totum inscriptum est, dexterum autem dimidium additamenta exhibet, quae in codice MN II 283 partim ipsi tractatui inserta sunt. Qua de re codex noster praeparationem auctoris ad praelectiones theologicas habendas continet. Hoc modo etiam quaestio solvitur, cur ut codices MN II 283, MN II 287b–e, MN II 288c–f inter se ad verbum consentiant, ita codex noster cum illis codicibus iuxta sensum, sed non iuxta verba congruat.",
+    "latinHtml": "<p>388 pagg.; teg. c2; script. 1751/52</p>\n<p>a) Tractatus Scholastico-dogmaticus De Angelis: p. 7–86 cum additamentis p. 87–88. Initium: Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit,.....</p>\n<p>b) Tractatus II. De creatura corporali: p. 91–163. Initium: Post considerationem Spiritualis creaturae,.......</p>\n<p>c) Tractatus I. in I. Secundae S. Thomae Aquinatis De ultimo fine seu beatitudine hominis: p. 165–241. Initium: Amor Divinus circulum efficit admirabilem......</p>\n<p>d) Tractatus II. De actibus humanis: p. 243–383. Initium: Progredimur cum Angelico duce nostro ad explicandos actus humanos,..... Clausula: 11 Augusti 1752. (Cui clausulae adduntur hi versus impares:) Sicque die Veneris suspendimus Organa nostra, quo solet et fidicen plectra referre domum.</p>\n<p>Inter paginas 238 et 239 inserta sunt duo folia plicata, quae exhibent 49 sententias (1–48, 60) brevissimas De locis Theologicis.</p>\n<p>Tam clausula in fine codicis quam initia singularum partium demonstrant <strong>P. Norbertum Pampichler</strong> auctorem esse codicis nostri. Etenim eosdem tractatus continet, quos iam in codice MN II 283 (supra p. 230), in partibus b–e codicis MN II 287 (supra p. 232), in partibus c–f codicis MN II 288 (supra p. 233) invenimus compositosque esse ab illo auctore monstravimus. Sed etiam quin ipse auctor P. Norbertus Pampichler sua manu scripserit codicem nostrum (ideoque propter scripturam simillimam etiam quattuor sequentes), non est dubium. Nam non nisi sinistrum dimidium uniuscuiusque paginae totum inscriptum est, dexterum autem dimidium additamenta exhibet, quae in codice MN II 283 partim ipsi tractatui inserta sunt. Qua de re codex noster praeparationem auctoris ad praelectiones theologicas habendas continet. Hoc modo etiam quaestio solvitur, cur ut codices MN II 283, MN II 287b–e, MN II 288c–f inter se ad verbum consentiant, ita codex noster cum illis codicibus iuxta sensum, sed non iuxta verba congruat.</p>"
+  },
+  "source": {
+    "file": "MN II 289.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-289/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 283]]",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_author_series",
+      "typeLabel": "gleicher Autor / Werkzusammenhang",
+      "targetRaw": "MN II 289",
+      "targetId": "mn-ii-289",
+      "targetSignature": "MN II 289",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_author_series",
+      "typeLabel": "gleicher Autor / Werkzusammenhang",
+      "targetRaw": "MN II 290",
+      "targetId": "mn-ii-290",
+      "targetSignature": "MN II 290",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_author_series",
+      "typeLabel": "gleicher Autor / Werkzusammenhang",
+      "targetRaw": "MN II 291",
+      "targetId": "mn-ii-291",
+      "targetSignature": "MN II 291",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_author_series",
+      "typeLabel": "gleicher Autor / Werkzusammenhang",
+      "targetRaw": "MN II 292",
+      "targetId": "mn-ii-292",
+      "targetSignature": "MN II 292",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_author_series",
+      "typeLabel": "gleicher Autor / Werkzusammenhang",
+      "targetRaw": "MN II 293",
+      "targetId": "mn-ii-293",
+      "targetSignature": "MN II 293",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 289",
+    "titles": "Tractatus Scholastico-dogmaticus De Angelis \nTractatus Scholastico-dogmaticus De Angelis \nTractatus II. De creatura corporali \nTractatus I. in I. Secundae S. Thomae Aquinatis De ultimo fine seu beatitudine hominis \nTractatus II. De actibus humanis",
+    "persons": "P. Norbertus Pampichler author and scribe author_and_scribe",
+    "incipits": "Explicata Dei unius et trini essentia attributisque Sanctus Doctor ad creaturas transit \nPost considerationem Spiritualis creaturae \nAmor Divinus circulum efficit admirabilem \nProgredimur cum Angelico duce nostro ad explicandos actus humanos",
+    "explicits": "Sicque die Veneris suspendimus Organa nostra, quo solet et fidicen plectra referre domum.",
+    "notes": "Additamenta S. 87–88.",
+    "physical": "Papier \n388 pagg. \nJeweils nur die linke Seitenhälfte vollständig beschrieben; rechte Hälfte für Ergänzungen. \ncode: c2; description: Marmorierter Pappeinband."
+  }
+}

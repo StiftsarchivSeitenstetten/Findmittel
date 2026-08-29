@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-31",
+  "signature": "MN III 31",
+  "aliases": [
+    "Bibl. Cod. MN III 31"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "202–203",
+  "heading": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1720 (?)"
+  },
+  "date": {
+    "display": "um 1720 (?)",
+    "intervals": [
+      {
+        "from": 1720,
+        "to": 1720,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Instructiones spirituales",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. II–X, 3–8",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet; der überlieferte deutsche Titel ist mit mehreren Blättern verloren."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Piae preces",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "übrige Blätter",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "X + 495 foll.",
+    "format": "",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1720 (?)",
+        "intervals": [
+          {
+            "from": 1720,
+            "to": 1720,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "X + 495 Blätter; schwarzer Ledereinband; geschrieben um 1720 (?).\n\n**Gebetbuch.**\n\nDie eigentliche deutsche Überschrift ist zusammen mit einigen Blättern verloren. Fol. II–X und 3–8 enthalten verschiedene geistliche Unterweisungen, etwa fol. 5v: **Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.**\n\nDie übrigen Blätter enthalten fromme Gebete. Nach fol. 288 ist ein Kupferstich von A. Spaiser eingefügt.\n\nWeder Verfasser noch Schreiber sind bekannt. Die ungefähre Datierung erschließt der Katalogbearbeiter aus Einband, Schrift und Sprachgebrauch.",
+    "germanHtml": "<p>X + 495 Blätter; schwarzer Ledereinband; geschrieben um 1720 (?).</p>\n<p><strong>Gebetbuch.</strong></p>\n<p>Die eigentliche deutsche Überschrift ist zusammen mit einigen Blättern verloren. Fol. II–X und 3–8 enthalten verschiedene geistliche Unterweisungen, etwa fol. 5v: <strong>Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.</strong></p>\n<p>Die übrigen Blätter enthalten fromme Gebete. Nach fol. 288 ist ein Kupferstich von A. Spaiser eingefügt.</p>\n<p>Weder Verfasser noch Schreiber sind bekannt. Die ungefähre Datierung erschließt der Katalogbearbeiter aus Einband, Schrift und Sprachgebrauch.</p>",
+    "latin": "X + 495 foll.; teg. b2; script. ca. 1720 (?)\n\n(Liber precatorius)\n\nVera inscriptio huius libri Germanica lingua compositi cum aliquot foliis deperdita est. Fol. II–X, 3–8 exhibent quasdam instructiones spirituales, ex. gr. fol. 5v: *Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.* Cetera folia continent pias preces. Post fol. 288 insertum est imago chalcographice delineata ab A. Spaiser. Neque auctorem scio neque scriptorem. Quando ortus sit hic libellus, coniicio et forma tegumenti scripturaeque et usu loquendi.",
+    "latinHtml": "<p>X + 495 foll.; teg. b2; script. ca. 1720 (?)</p>\n<p>(Liber precatorius)</p>\n<p>Vera inscriptio huius libri Germanica lingua compositi cum aliquot foliis deperdita est. Fol. II–X, 3–8 exhibent quasdam instructiones spirituales, ex. gr. fol. 5v: <em>Wie ein Mensch geistlicher Weiß in die Himmlische Kram gehen soll und von Gott und den lieben Heilligen schöne kleyder einkauffen, Gawendt sein seel geziert werd.</em> Cetera folia continent pias preces. Post fol. 288 insertum est imago chalcographice delineata ab A. Spaiser. Neque auctorem scio neque scriptorem. Quando ortus sit hic libellus, coniicio et forma tegumenti scripturaeque et usu loquendi.</p>"
+  },
+  "source": {
+    "file": "MN III 31.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-31/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 31",
+    "titles": "Liber precatorius \nInstructiones spirituales \nPiae preces",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet; der überlieferte deutsche Titel ist mit mehreren Blättern verloren. \nDie Inhaltsbezeichnung wurde aus der katalogseitigen Beschreibung gebildet.",
+    "physical": "Papier \nX + 495 foll. \ncode: b2; description: Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext."
+  }
+}

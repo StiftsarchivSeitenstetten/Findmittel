@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-97",
+  "signature": "MN II 97",
+  "aliases": [
+    "Bibl. Cod. MN II 97",
+    "Tractatus De Jure et Justitia"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "62",
+  "heading": {
+    "title": "Tractatus De Jure et Justitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1670"
+  },
+  "date": {
+    "display": "um 1670",
+    "intervals": [
+      {
+        "from": 1670,
+        "to": 1670,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Jure et Justitia",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "S. 1–659",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–659",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Fr. Bernardus Leittner",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1",
+          "certainty": "probable"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "certainty": "probable"
+    },
+    {
+      "name": "Fr. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "663 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband aus zwei zusammengeklebten Pergamentblättern des 15. Jahrhunderts mit Brevierlesungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1670",
+        "intervals": [
+          {
+            "from": 1670,
+            "to": 1670,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_slip",
+      "contents": "Namen von Mönchen",
+      "note": "Vom Katalog als möglicher Datierungshinweis erwähnt; Namen nicht wiedergegeben."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "663 Seiten; Einband aus zwei zusammengeklebten Pergamentblättern, die im 15. Jahrhundert mit Brevierlesungen beschrieben wurden; geschrieben um 1670.\n\n**Abhandlung über Recht und Gerechtigkeit:** S. 1–659. Anfang der ersten Disputation **Über das Recht** S. 1: **Zunächst ist festzuhalten: Das Wort Recht wird in verschiedener Bedeutung gebraucht......**\n\nDie Schrift dieses Codex ist jener der Codices MN II 92–96 so ähnlich, dass ich auch diesen Codex für von **Fr. Bernardus Leittner** geschrieben halten würde, wenn nicht bereits Codex MN II 96b die Materie über Recht und Gerechtigkeit enthielte. Hat jener Bruder die Vorlesungen über Recht und Gerechtigkeit zweimal gehört und mitgeschrieben?\n\nVielleicht könnten die Namen von Mönchen, die auf einem in diesem Codex gefundenen Zettel vermerkt sind, anzeigen, wann unser Codex entstanden ist. Da jedoch S. 1–521 unseres Codex dieselben Vorlesungen bieten wie Codex MN II 115 (siehe unten S. 72), der um 1670 geschrieben wurde, wird wohl niemand bestreiten, dass auch unser Codex ungefähr zu dieser Zeit entstand.",
+    "germanHtml": "<p>663 Seiten; Einband aus zwei zusammengeklebten Pergamentblättern, die im 15. Jahrhundert mit Brevierlesungen beschrieben wurden; geschrieben um 1670.</p>\n<p><strong>Abhandlung über Recht und Gerechtigkeit:</strong> S. 1–659. Anfang der ersten Disputation <strong>Über das Recht</strong> S. 1: <strong>Zunächst ist festzuhalten: Das Wort Recht wird in verschiedener Bedeutung gebraucht......</strong></p>\n<p>Die Schrift dieses Codex ist jener der Codices MN II 92–96 so ähnlich, dass ich auch diesen Codex für von <strong>Fr. Bernardus Leittner</strong> geschrieben halten würde, wenn nicht bereits Codex MN II 96b die Materie über Recht und Gerechtigkeit enthielte. Hat jener Bruder die Vorlesungen über Recht und Gerechtigkeit zweimal gehört und mitgeschrieben?</p>\n<p>Vielleicht könnten die Namen von Mönchen, die auf einem in diesem Codex gefundenen Zettel vermerkt sind, anzeigen, wann unser Codex entstanden ist. Da jedoch S. 1–521 unseres Codex dieselben Vorlesungen bieten wie Codex MN II 115 (siehe unten S. 72), der um 1670 geschrieben wurde, wird wohl niemand bestreiten, dass auch unser Codex ungefähr zu dieser Zeit entstand.</p>",
+    "latin": "663 pagg.; teg. conglutinatum e duobus foliis membranaceis, saec. XV lectionibus breviarii inscriptis; script. ca. 1670\n\nTractatus De Jure et Justitia: p. 1–659. _Initium_ Disputationis primae De Jure p. 1: Nota primo: Jus varie usurpari......\n\nScriptura huius codicis simillima est codicibus MN II 92–96 (vide supra p. 59–61) ita, ut etiam hunc codicem a **Fr. Bernardo Leittner** scriptum esse arbitrarer, nisi materiam de jure et justitia iam codex MN II 96b contineret. Bisne Frater ille lectiones de Jure et Justitia audivit notavitque? Forsitan nomina monachorum in schedula notata, quae in hoc codice inventa est, indicare possint, quo tempore codex noster ortus sit. Sed quia p. 1–521 codicis nostri easdem lectiones exhibet, quas cod. MN II 115 (vide infra p. 72!) circa annum 1670 scriptus, etiam codicem nostrum in illo tempore ortum esse quis neget?",
+    "latinHtml": "<p>663 pagg.; teg. conglutinatum e duobus foliis membranaceis, saec. XV lectionibus breviarii inscriptis; script. ca. 1670</p>\n<p>Tractatus De Jure et Justitia: p. 1–659. _Initium_ Disputationis primae De Jure p. 1: Nota primo: Jus varie usurpari......</p>\n<p>Scriptura huius codicis simillima est codicibus MN II 92–96 (vide supra p. 59–61) ita, ut etiam hunc codicem a <strong>Fr. Bernardo Leittner</strong> scriptum esse arbitrarer, nisi materiam de jure et justitia iam codex MN II 96b contineret. Bisne Frater ille lectiones de Jure et Justitia audivit notavitque? Forsitan nomina monachorum in schedula notata, quae in hoc codice inventa est, indicare possint, quo tempore codex noster ortus sit. Sed quia p. 1–521 codicis nostri easdem lectiones exhibet, quas cod. MN II 115 (vide infra p. 72!) circa annum 1670 scriptus, etiam codicem nostrum in illo tempore ortum esse quis neget?</p>"
+  },
+  "source": {
+    "file": "MN II 97.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-97/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 115]]",
+      "targetId": "mn-ii-115",
+      "targetSignature": "MN II 115",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 97",
+    "titles": "Tractatus De Jure et Justitia \nTractatus De Jure et Justitia",
+    "persons": "Fr. Bernardus Leittner Schreiber scribe \nFr. Bernardus Leittner Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n663 Seiten \ndescription: Einband aus zwei zusammengeklebten Pergamentblättern des 15. Jahrhunderts mit Brevierlesungen."
+  }
+}

@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "xxix",
+  "signature": "XXIX",
+  "aliases": [
+    "Bibl. Cod. XXIX"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "3",
+  "heading": {
+    "title": "Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "saec. XVI."
+  },
+  "date": {
+    "display": "saec. XVI.",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Im Katalog alternativ als Chronik Österreichs eines gewissen Matthäus, eher aber des Gregor Hagen, bis 1398 beschrieben; deutschsprachig."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Gregor Hagen",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Der Katalog erwägt alternativ einen gewissen Matthäus, hält Gregor Hagen jedoch für wahrscheinlicher."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "fol. min., 225 foll., script. saec. XVI.",
+    "format": "Kleines Folioformat",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "saec. XVI.",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "former_owner": "Joannes Georgius Schwandner",
+        "origin": "Stadelkirchen, Österreich",
+        "place": "Wien",
+        "date": 1757
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Folioformat; 225 Blätter; geschrieben im 16. Jahrhundert.\n\n**Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.**\n\nOder: Chronik Österreichs eines gewissen Matthäus, vielmehr wohl des Gregor Hagen, von den ersten Bewohnern dieses Landes bis zum Jahr Christi 1398, in deutscher Sprache geführt.\n\nAus der Bibliothek des Johann Georg Schwandner, Österreichers aus Stadelkirchen, Wien in Österreich, 1757.\n\nAusführlicher behandelt diesen Codex der alte *Catalogus Codicum Manuscriptorum*, Bd. I, S. 46–48.",
+    "germanHtml": "<p>Kleines Folioformat; 225 Blätter; geschrieben im 16. Jahrhundert.</p>\n<p><strong>Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.</strong></p>\n<p>Oder: Chronik Österreichs eines gewissen Matthäus, vielmehr wohl des Gregor Hagen, von den ersten Bewohnern dieses Landes bis zum Jahr Christi 1398, in deutscher Sprache geführt.</p>\n<p>Aus der Bibliothek des Johann Georg Schwandner, Österreichers aus Stadelkirchen, Wien in Österreich, 1757.</p>\n<p>Ausführlicher behandelt diesen Codex der alte <em>Catalogus Codicum Manuscriptorum</em>, Bd. I, S. 46–48.</p>",
+    "latin": "fol. min., 225 foll., script. saec. XVI.\n\nDiß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406. Seu Matthaei cuiusdam, aut potius Gregorii Hagenii Chronicon Austriae à primis huius terrae incolis usque ad annum Christi MCCCLXXXXVIII (1398) idiomate Germanico perductum.\n\nEx bibliotheca Joannis Georgii Schwandneri Austriaci Stadelkirchensis Viennae Austriae MDCCLVII (1757).\n\n(Fusius de hoc codice disserit vetus Catalogus Cod. Manuscriptorum, Tom. I, p. 46 - 48)",
+    "latinHtml": "<p>fol. min., 225 foll., script. saec. XVI.</p>\n<p>Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406. Seu Matthaei cuiusdam, aut potius Gregorii Hagenii Chronicon Austriae à primis huius terrae incolis usque ad annum Christi MCCCLXXXXVIII (1398) idiomate Germanico perductum.</p>\n<p>Ex bibliotheca Joannis Georgii Schwandneri Austriaci Stadelkirchensis Viennae Austriae MDCCLVII (1757).</p>\n<p>(Fusius de hoc codice disserit vetus Catalogus Cod. Manuscriptorum, Tom. I, p. 46 - 48)</p>"
+  },
+  "source": {
+    "file": "XXIX.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/xxix/",
+  "relations": [],
+  "search": {
+    "signature": "XXIX",
+    "titles": "Diß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406. \nDiß Hochloblichen Landts-Fursten und Erzherzogthum Osterreich Anfang und Herkomen; der Herren und Landtsfursten Regierung biß auf Herzog Wilhelm und Herzog Albrechten Jst beschriben durch den Erbarn Gregorio Hagen, im Jahr 1406.",
+    "persons": "Gregor Hagen Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Im Katalog alternativ als Chronik Österreichs eines gewissen Matthäus, eher aber des Gregor Hagen, bis 1398 beschrieben; deutschsprachig.",
+    "physical": "Papier \nfol. min., 225 foll., script. saec. XVI. \nKleines Folioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

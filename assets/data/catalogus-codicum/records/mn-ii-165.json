@@ -1,0 +1,768 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-165",
+  "signature": "MN II 165",
+  "aliases": [
+    "Bibl. Cod. MN II 165"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "117–119",
+  "heading": {
+    "title": "De plerorumque Nominum gradibus ordine Alphabetico",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1690(?)."
+  },
+  "date": {
+    "display": "ca. 1690(?).",
+    "intervals": [
+      {
+        "from": 1690,
+        "to": 1690,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De plerorumque Nominum gradibus ordine Alphabetico",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–4",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Verborum Amplificatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–7",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Sententiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 13–16",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Descriptio moderni Saeculi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 17–18",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Collectio verborum synonymorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 19–47",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Notata ex Suada Civili",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 51–55",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Brevissima exercitia Rhetorica ad varia themata",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 57–68",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vor allem sehr kurze rhetorische Beschreibungen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 69–152",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Symbola rerum alphabetico ordine dispositarum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 153–154",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur der Buchstabe A ist erhalten."
+        },
+        {
+          "type": "completeness",
+          "text": "fragmentary"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Acutiae? aliaeque perbreves narrationes ad themata alphabetico ordine disposita",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 155–188",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Lesung „Acutiae“ ist im Katalog als unsicher gekennzeichnet."
+        },
+        {
+          "type": "certainty",
+          "text": "uncertain"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Hieroglyphica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 191–192",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Beispiele für die Verwendung natürlicher Dinge zur Veranschaulichung menschlicher Eigenschaften."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Variae brevissimae fabulae historiaeque",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 193–197",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-m",
+      "label": "m",
+      "type": "",
+      "title": {
+        "text": "Varia Notata ex Bosquiero",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 199–204",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-n",
+      "label": "n",
+      "type": "",
+      "title": {
+        "text": "Variae historiae breves ad diversa themata moralia alphabetico ordine disposita",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 207–410",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Litterae A–E",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 207–222",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Litterae B–V",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 223–410",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-o",
+      "label": "o",
+      "type": "",
+      "title": {
+        "text": "Varia exercitia oratoria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 413–421",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Kurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und ähnliche Themen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-p",
+      "label": "p",
+      "type": "",
+      "title": {
+        "text": "Alia exercitia oratoria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 425–461",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Laus Viennae",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 441–443",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 452–454",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [
+            {
+              "type": "note",
+              "text": "Mit 19 Versen anstelle eines Epitaphs."
+            }
+          ],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-q",
+      "label": "q",
+      "type": "",
+      "title": {
+        "text": "Historiae Pulcherrimae Ex Variis Libris Excerptae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 463–470",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-r",
+      "label": "r",
+      "type": "",
+      "title": {
+        "text": "Alia exercitia oratoria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 471–474",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De somno",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De Antonomasia",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-s",
+      "label": "s",
+      "type": "",
+      "title": {
+        "text": "Praxis amplificandi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 475–481",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-t",
+      "label": "t",
+      "type": "",
+      "title": {
+        "text": "Institutio Brevis pro Facienda Chria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 481–496",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-u",
+      "label": "u",
+      "type": "",
+      "title": {
+        "text": "Institutio ad Chriam faciendam aliquot exemplis demonstrata",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 497–530",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-v",
+      "label": "v",
+      "type": "",
+      "title": {
+        "text": "Exempla perpolita ad tria genera Chriarum monstranda",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 531–571",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "note": "Der Katalog erwägt diese Identifizierung für die vierte Hand anhand von MN II 195 und MN II 217."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "576 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. oder möglicherweise beginnenden 15. Jahrhunderts; der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "number_of_hands": 15,
+      "note": "Der Codex vereinigt mehrere von verschiedenen Händen geschriebene Faszikel; innerhalb des Bereichs der achten Hand könnten einzelne Blätter von weiteren Händen stammen.",
+      "hands": [
+        {
+          "number": 1,
+          "locus": "S. 3–4"
+        },
+        {
+          "number": 2,
+          "locus": "S. 5–7"
+        },
+        {
+          "number": 3,
+          "locus": "S. 13–18"
+        },
+        {
+          "number": 4,
+          "locus": "S. 19–47",
+          "possible_scribe": "Fr. Joannes Rigele",
+          "certainty": "uncertain"
+        },
+        {
+          "number": 5,
+          "locus": "S. 51–55"
+        },
+        {
+          "number": 6,
+          "locus": "S. 57–152"
+        },
+        {
+          "number": 7,
+          "locus": "S. 153–182"
+        },
+        {
+          "number": 8,
+          "locus": "S. 183–410"
+        },
+        {
+          "number": 9,
+          "locus": "S. 413–421"
+        },
+        {
+          "number": 10,
+          "locus": "S. 425–461"
+        },
+        {
+          "number": 11,
+          "locus": "S. 463–470"
+        },
+        {
+          "number": 12,
+          "locus": "S. 471–474"
+        },
+        {
+          "number": 13,
+          "locus": "S. 475–496"
+        },
+        {
+          "number": 14,
+          "locus": "S. 497–530"
+        },
+        {
+          "number": 15,
+          "locus": "S. 531–571"
+        }
+      ]
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1690(?).",
+        "intervals": [
+          {
+            "from": 1690,
+            "to": 1690,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "cited_person",
+      "locus": "S. 279",
+      "persons": [
+        "P. Paulus Mezger"
+      ]
+    },
+    {
+      "type": "handwritten_note_on_catalogue_copy",
+      "certainty": "uncertain",
+      "note": "Handschriftlicher Nachtrag auf der Katalogvorlage; nur teilweise sicher lesbar."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "576 Seiten; Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. Jahrhunderts (oder beginnenden 15. Jahrhunderts?); geschrieben um 1690 (?). Der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt.\n\na) **Über die Steigerungsstufen zahlreicher Substantive in alphabetischer Ordnung:** S. 3–4.\n\nb) **Über die Erweiterung der Verben:** S. 5–7.\n\nc) **Sentenzen:** S. 13–16.\n\nd) **Beschreibung des gegenwärtigen Jahrhunderts:** S. 17–18.\n\ne) **Sammlung synonymischer Wörter:** S. 19–47.\n\nf) **Notizen aus der *Suada Civilis* (fol. 309, 311, 312):** S. 51–55.\n\ng) **(Sehr kurze rhetorische Übungen zu verschiedenen Themen):** S. 57–68, vor allem sehr kurze rhetorische Beschreibungen.\n\nh) **(Kurze rhetorische Übungen zu alphabetisch geordneten Propositionen):** S. 69–152.\n\ni) **Sinnbilder alphabetisch geordneter Dinge:** S. 153–154. Erhalten ist nur der Buchstabe A.\n\nj) **(Acutiae? [Lesung unsicher] und andere sehr kurze Erzählungen zu alphabetisch geordneten Themen):** S. 155–188.\n\nk) **Hieroglyphica**, das heißt verschiedene Beispiele dafür, wie natürliche Dinge zur Veranschaulichung menschlicher Eigenschaften verwendet werden können: S. 191–192.\n\nl) **(Verschiedene sehr kurze Fabeln und Geschichten):** S. 193–197.\n\nm) **Verschiedene Notizen aus Bosquier** – Philipp Bosquier, Franziskaner und berühmter Prediger, gestorben 1631 –: S. 199–204.\n\nn) **(Verschiedene kurze Geschichten zu unterschiedlichen moralischen Themen in alphabetischer Ordnung):** Buchstaben A–E: S. 207–222; Buchstaben B–V: S. 223–410.\n\no) **(Verschiedene Redeübungen: kurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und Ähnliches):** S. 413–421.\n\np) **(Weitere Redeübungen: Beschreibungen und Lobreden, z. B. Lob Wiens S. 441–443; rhetorisches Enthymem, das beweist, dass in diesem Jahrhundert die Frau herrsche, S. 452–454, mit 19 Versen als Epitaph):** S. 425–461.\n\nq) **Sehr schöne Geschichten, aus verschiedenen Büchern exzerpiert:** S. 463–470.\n\nr) **(Weitere Redeübungen):** S. 471–474, über den Schlaf und über Antonomasie.\n\ns) **Praxis der Erweiterung:** S. 475–481.\n\nt) **Kurze Anleitung zur Abfassung einer Chrie**, also zur knappen Erläuterung beispielhafter Worte oder Taten, die in einer Rede verwendet werden können: S. 481–496.\n\nu) **(Die Anleitung zur Abfassung einer Chrie wird an einigen Beispielen gezeigt):** S. 497–530.\n\nv) **(Ausgearbeitete Beispiele zur Darstellung der drei Arten von Chrien):** S. 531–571.\n\nDer Codex vereinigt mehrere von verschiedenen Händen geschriebene Faszikel: erste Hand S. 3–4; zweite S. 5–7; dritte S. 13–18; vierte – möglicherweise Fr. Joannes Rigele, siehe MN II 195 und 217 – S. 19–47; fünfte S. 51–55; sechste S. 57–152; siebte S. 153–182; achte S. 183–410, vielleicht mit einzelnen Blättern anderer Hände; neunte S. 413–421; zehnte S. 425–461; elfte S. 463–470; zwölfte S. 471–474; dreizehnte S. 475–496; vierzehnte S. 497–530; fünfzehnte S. 531–571.\n\n> **Handschriftlicher Nachtrag auf der Vorlage:** nur teilweise sicher lesbar.\n\nSoweit erkennbar, erschienen die von den einzelnen Schreibern benutzten Bücher im 17. Jahrhundert. Wahrscheinlich, wenn auch nicht sicher, wurden alle Teile ungefähr zur selben Zeit geschrieben. Fr. Joannes Rigele legte 1691 Profess ab und dürfte sich ungefähr damals der Rhetorik gewidmet haben. Zudem wird S. 279 der bereits vielfach begegnete P. Paulus Mezger zitiert.\n\nDaher scheint der Codex um 1690 geschrieben worden zu sein.",
+    "germanHtml": "<p>576 Seiten; Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. Jahrhunderts (oder beginnenden 15. Jahrhunderts?); geschrieben um 1690 (?). Der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt.</p>\n<p>a) <strong>Über die Steigerungsstufen zahlreicher Substantive in alphabetischer Ordnung:</strong> S. 3–4.</p>\n<p>b) <strong>Über die Erweiterung der Verben:</strong> S. 5–7.</p>\n<p>c) <strong>Sentenzen:</strong> S. 13–16.</p>\n<p>d) <strong>Beschreibung des gegenwärtigen Jahrhunderts:</strong> S. 17–18.</p>\n<p>e) <strong>Sammlung synonymischer Wörter:</strong> S. 19–47.</p>\n<p>f) <strong>Notizen aus der <em>Suada Civilis</em> (fol. 309, 311, 312):</strong> S. 51–55.</p>\n<p>g) <strong>(Sehr kurze rhetorische Übungen zu verschiedenen Themen):</strong> S. 57–68, vor allem sehr kurze rhetorische Beschreibungen.</p>\n<p>h) <strong>(Kurze rhetorische Übungen zu alphabetisch geordneten Propositionen):</strong> S. 69–152.</p>\n<p>i) <strong>Sinnbilder alphabetisch geordneter Dinge:</strong> S. 153–154. Erhalten ist nur der Buchstabe A.</p>\n<p>j) <strong>(Acutiae? [Lesung unsicher] und andere sehr kurze Erzählungen zu alphabetisch geordneten Themen):</strong> S. 155–188.</p>\n<p>k) <strong>Hieroglyphica</strong>, das heißt verschiedene Beispiele dafür, wie natürliche Dinge zur Veranschaulichung menschlicher Eigenschaften verwendet werden können: S. 191–192.</p>\n<p>l) <strong>(Verschiedene sehr kurze Fabeln und Geschichten):</strong> S. 193–197.</p>\n<p>m) <strong>Verschiedene Notizen aus Bosquier</strong> – Philipp Bosquier, Franziskaner und berühmter Prediger, gestorben 1631 –: S. 199–204.</p>\n<p>n) <strong>(Verschiedene kurze Geschichten zu unterschiedlichen moralischen Themen in alphabetischer Ordnung):</strong> Buchstaben A–E: S. 207–222; Buchstaben B–V: S. 223–410.</p>\n<p>o) <strong>(Verschiedene Redeübungen: kurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und Ähnliches):</strong> S. 413–421.</p>\n<p>p) <strong>(Weitere Redeübungen: Beschreibungen und Lobreden, z. B. Lob Wiens S. 441–443; rhetorisches Enthymem, das beweist, dass in diesem Jahrhundert die Frau herrsche, S. 452–454, mit 19 Versen als Epitaph):</strong> S. 425–461.</p>\n<p>q) <strong>Sehr schöne Geschichten, aus verschiedenen Büchern exzerpiert:</strong> S. 463–470.</p>\n<p>r) <strong>(Weitere Redeübungen):</strong> S. 471–474, über den Schlaf und über Antonomasie.</p>\n<p>s) <strong>Praxis der Erweiterung:</strong> S. 475–481.</p>\n<p>t) <strong>Kurze Anleitung zur Abfassung einer Chrie</strong>, also zur knappen Erläuterung beispielhafter Worte oder Taten, die in einer Rede verwendet werden können: S. 481–496.</p>\n<p>u) <strong>(Die Anleitung zur Abfassung einer Chrie wird an einigen Beispielen gezeigt):</strong> S. 497–530.</p>\n<p>v) <strong>(Ausgearbeitete Beispiele zur Darstellung der drei Arten von Chrien):</strong> S. 531–571.</p>\n<p>Der Codex vereinigt mehrere von verschiedenen Händen geschriebene Faszikel: erste Hand S. 3–4; zweite S. 5–7; dritte S. 13–18; vierte – möglicherweise Fr. Joannes Rigele, siehe MN II 195 und 217 – S. 19–47; fünfte S. 51–55; sechste S. 57–152; siebte S. 153–182; achte S. 183–410, vielleicht mit einzelnen Blättern anderer Hände; neunte S. 413–421; zehnte S. 425–461; elfte S. 463–470; zwölfte S. 471–474; dreizehnte S. 475–496; vierzehnte S. 497–530; fünfzehnte S. 531–571.</p>\n<blockquote><p><strong>Handschriftlicher Nachtrag auf der Vorlage:</strong> nur teilweise sicher lesbar.</p></blockquote>\n<p>Soweit erkennbar, erschienen die von den einzelnen Schreibern benutzten Bücher im 17. Jahrhundert. Wahrscheinlich, wenn auch nicht sicher, wurden alle Teile ungefähr zur selben Zeit geschrieben. Fr. Joannes Rigele legte 1691 Profess ab und dürfte sich ungefähr damals der Rhetorik gewidmet haben. Zudem wird S. 279 der bereits vielfach begegnete P. Paulus Mezger zitiert.</p>\n<p>Daher scheint der Codex um 1690 geschrieben worden zu sein.</p>",
+    "latin": "576 pagg.; tegumentum adversum et aversum foliis membranaceis saec. XIV (aut ineunte XV ?) manu scriptis; script. ca. 1690(?).  \n(Dorsum munitum fragmento membranaceo saec. XV manu scripto.)\n\na) De plerorumque Nominum gradibus ordine Alphabetico: p. 3–4\n\nb) De Verborum Amplificatione: p. 5–7\n\nc) Sententiae: p. 13–16\n\nd) Descriptio moderni Saeculi: p. 17–18\n\ne) Collectio verborum synonymorum: p. 19–47\n\nf) Notata ex Suada Civili (fol. 309, 311, 312): p. 51–55\n\ng) (Brevissima exercitia Rhetorica ad varia themata): p. 57–68 (praesertim brevissimae descriptiones rhetoricae)\n\n\n\n\nh) (Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas): p. 69–152\n\ni) Symbola rerum alphabetico ordine dispositarum: p. 153–154  \n(Superest sola littera A!)\n\nj) (Acutiae? [lectio incerta] aliaeque perbreves narrationes ad themata alphabetico ordine disposita): p. 155–188\n\nk) Hieroglyphica (id est varia exempla, quomodo rebus naturalibus ad illustrandas qualitates hominum uti possis): p. 191–192\n\nl) (Variae brevissimae fabulae historiaeque): p. 193–197\n\nm) Varia Notata ex Bosquiero (Philippo, Ordinis Fratrum Minorum, praeclaro concionatore, anno 1631 mortuo): p. 199–204\n\nn) (Variae historiae breves ad diversa themata moralia alphabetico ordine disposita): litterae A–E: p. 207–222; litterae B–V: p. 223–410\n\no) (Varia exercitia oratoria: Oratiunculae de Mundi fallacia, Igne purgatorio, Vita humana et similibus): p. 413–421\n\np) (Alia exercitia oratoria: descriptiones et laudes, ex. gr. Laus Viennae p. 441–443; Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari: p. 452–454 appositis 19 versibus loco epitaphii): p. 425–461\n\nq) Historiae Pulcherrimae Ex Variis Libris Excerptae: p. 463–470\n\nr) (Alia exercitia oratoria): p. 471–474 (De somno; De Antonomasia)\n\ns) Praxis amplificandi: p. 475–481\n\nt) Institutio Brevis pro Facienda Chria (id est pro breviter exponendis verbis vel factis exemplaribus, quibus uti possis in oratione): p. 481–496\n\nu) (Institutio ad Chriam faciendam aliquot exemplis demonstratur): p. 497–530\n\nv) (Exempla perpolita ad tria genera Chriarum monstranda): p. 531–571\n\nIn hoc codice complures fasciculi a diversis manibus scripti coniuncti sunt: Prima manus scripsit p. 3–4, secunda p. 5–7, tertia p. 13–18, quarta (eaque F. Joannis Rigele? vide infra ad codices MN II 195 et 217!) p. 19–47, quinta p. 51–55, sexta p. 57–152, septima p. 153–182, octava p. 183–410 (interpositis aliquot foliis ab aliis manibus scriptis?), nona p. 413–421, decima p. 425–461, undecima p. 463–470, duodecima p. 471–474, tertiadecima p. 475–496, quartadecima p. 497–530, quintadecima p. 531–571.\n\n[Handschriftlicher Nachtrag auf der Vorlage; nur teilweise sicher lesbar.]\n\nQuantum videre potuimus, libri quibus scriptores singularium partium codicis nostri usi sunt, saeculo XVII in lucem evenerunt. Verisimile, etsi non certum est, omnes partes codicis nostri fere eodem tempore scriptas esse. Atqui F. Joannes Rigele 1691 vota emisit et probabiliter fere eodem tempore arti oratoriae operam dedit. Insuper p. 279 P. Paulus Mezger laudatur, nobis iam notissimus.  \nVidetur igitur codex noster circa annum 1690 scriptus esse.",
+    "latinHtml": "<p>576 pagg.; tegumentum adversum et aversum foliis membranaceis saec. XIV (aut ineunte XV ?) manu scriptis; script. ca. 1690(?). (Dorsum munitum fragmento membranaceo saec. XV manu scripto.)</p>\n<p>a) De plerorumque Nominum gradibus ordine Alphabetico: p. 3–4</p>\n<p>b) De Verborum Amplificatione: p. 5–7</p>\n<p>c) Sententiae: p. 13–16</p>\n<p>d) Descriptio moderni Saeculi: p. 17–18</p>\n<p>e) Collectio verborum synonymorum: p. 19–47</p>\n<p>f) Notata ex Suada Civili (fol. 309, 311, 312): p. 51–55</p>\n<p>g) (Brevissima exercitia Rhetorica ad varia themata): p. 57–68 (praesertim brevissimae descriptiones rhetoricae)</p>\n<p>h) (Brevia exercitia rhetorica ad propositiones alphabetico ordine dispositas): p. 69–152</p>\n<p>i) Symbola rerum alphabetico ordine dispositarum: p. 153–154 (Superest sola littera A!)</p>\n<p>j) (Acutiae? [lectio incerta] aliaeque perbreves narrationes ad themata alphabetico ordine disposita): p. 155–188</p>\n<p>k) Hieroglyphica (id est varia exempla, quomodo rebus naturalibus ad illustrandas qualitates hominum uti possis): p. 191–192</p>\n<p>l) (Variae brevissimae fabulae historiaeque): p. 193–197</p>\n<p>m) Varia Notata ex Bosquiero (Philippo, Ordinis Fratrum Minorum, praeclaro concionatore, anno 1631 mortuo): p. 199–204</p>\n<p>n) (Variae historiae breves ad diversa themata moralia alphabetico ordine disposita): litterae A–E: p. 207–222; litterae B–V: p. 223–410</p>\n<p>o) (Varia exercitia oratoria: Oratiunculae de Mundi fallacia, Igne purgatorio, Vita humana et similibus): p. 413–421</p>\n<p>p) (Alia exercitia oratoria: descriptiones et laudes, ex. gr. Laus Viennae p. 441–443; Enthymema Rhetoricum: Probans foeminam hoc saeculo dominari: p. 452–454 appositis 19 versibus loco epitaphii): p. 425–461</p>\n<p>q) Historiae Pulcherrimae Ex Variis Libris Excerptae: p. 463–470</p>\n<p>r) (Alia exercitia oratoria): p. 471–474 (De somno; De Antonomasia)</p>\n<p>s) Praxis amplificandi: p. 475–481</p>\n<p>t) Institutio Brevis pro Facienda Chria (id est pro breviter exponendis verbis vel factis exemplaribus, quibus uti possis in oratione): p. 481–496</p>\n<p>u) (Institutio ad Chriam faciendam aliquot exemplis demonstratur): p. 497–530</p>\n<p>v) (Exempla perpolita ad tria genera Chriarum monstranda): p. 531–571</p>\n<p>In hoc codice complures fasciculi a diversis manibus scripti coniuncti sunt: Prima manus scripsit p. 3–4, secunda p. 5–7, tertia p. 13–18, quarta (eaque F. Joannis Rigele? vide infra ad codices MN II 195 et 217!) p. 19–47, quinta p. 51–55, sexta p. 57–152, septima p. 153–182, octava p. 183–410 (interpositis aliquot foliis ab aliis manibus scriptis?), nona p. 413–421, decima p. 425–461, undecima p. 463–470, duodecima p. 471–474, tertiadecima p. 475–496, quartadecima p. 497–530, quintadecima p. 531–571.</p>\n<p>[Handschriftlicher Nachtrag auf der Vorlage; nur teilweise sicher lesbar.]</p>\n<p>Quantum videre potuimus, libri quibus scriptores singularium partium codicis nostri usi sunt, saeculo XVII in lucem evenerunt. Verisimile, etsi non certum est, omnes partes codicis nostri fere eodem tempore scriptas esse. Atqui F. Joannes Rigele 1691 vota emisit et probabiliter fere eodem tempore arti oratoriae operam dedit. Insuper p. 279 P. Paulus Mezger laudatur, nobis iam notissimus. Videtur igitur codex noster circa annum 1690 scriptus esse.</p>"
+  },
+  "source": {
+    "file": "MN II 165.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-165/",
+  "relations": [
+    {
+      "typeRaw": "possible_same_scribe_as",
+      "typeLabel": "möglicherweise gleicher Schreiber",
+      "targetRaw": "[[MN II 195]]",
+      "targetId": "mn-ii-195",
+      "targetSignature": "MN II 195",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "possible_same_scribe_as",
+      "typeLabel": "möglicherweise gleicher Schreiber",
+      "targetRaw": "[[MN II 217]]",
+      "targetId": "mn-ii-217",
+      "targetSignature": "MN II 217",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 165",
+    "titles": "De plerorumque Nominum gradibus ordine Alphabetico \nDe plerorumque Nominum gradibus ordine Alphabetico \nDe Verborum Amplificatione \nSententiae \nDescriptio moderni Saeculi \nCollectio verborum synonymorum \nNotata ex Suada Civili \nBrevissima exercitia Rhetorica ad varia themata \nBrevia exercitia rhetorica ad propositiones alphabetico ordine dispositas \nSymbola rerum alphabetico ordine dispositarum \nAcutiae? aliaeque perbreves narrationes ad themata alphabetico ordine disposita \nHieroglyphica \nVariae brevissimae fabulae historiaeque \nVaria Notata ex Bosquiero \nVariae historiae breves ad diversa themata moralia alphabetico ordine disposita \nLitterae A–E \nLitterae B–V \nVaria exercitia oratoria \nAlia exercitia oratoria \nLaus Viennae \nEnthymema Rhetoricum: Probans foeminam hoc saeculo dominari \nHistoriae Pulcherrimae Ex Variis Libris Excerptae \nAlia exercitia oratoria \nDe somno \nDe Antonomasia \nPraxis amplificandi \nInstitutio Brevis pro Facienda Chria \nInstitutio ad Chriam faciendam aliquot exemplis demonstrata \nExempla perpolita ad tria genera Chriarum monstranda",
+    "persons": "Fr. Joannes Rigele Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Vor allem sehr kurze rhetorische Beschreibungen. \nNur der Buchstabe A ist erhalten. \nfragmentary \nDie Lesung „Acutiae“ ist im Katalog als unsicher gekennzeichnet. \nuncertain \nBeispiele für die Verwendung natürlicher Dinge zur Veranschaulichung menschlicher Eigenschaften. \nKurze Reden über die Täuschung der Welt, das Fegefeuer, das menschliche Leben und ähnliche Themen. \nMit 19 Versen anstelle eines Epitaphs.",
+    "physical": "Papier \n576 pagg. \ndescription: Vorder- und Rückdeckel aus handschriftlich beschriebenen Pergamentblättern des 14. oder möglicherweise beginnenden 15. Jahrhunderts; der Rücken ist mit einem handschriftlich beschriebenen Pergamentfragment des 15. Jahrhunderts verstärkt."
+  }
+}

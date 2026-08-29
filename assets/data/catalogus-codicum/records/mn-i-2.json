@@ -1,0 +1,130 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-2",
+  "signature": "MN I 2",
+  "aliases": [
+    "Bibl. Cod. MN I 2"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "41",
+  "heading": {
+    "title": "Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": ""
+  },
+  "date": {},
+  "contentsOverview": {},
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "",
+      "language": "de",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "contents_note",
+          "text": "Die Gegenstände sind alphabetisch bis zum Anfang des Buchstabens M geordnet."
+        }
+      ],
+      "dates": [
+        {
+          "type": "content_date",
+          "display": "1521–1581"
+        },
+        {
+          "type": "compilation_date",
+          "display": "1652"
+        }
+      ],
+      "persons": [
+        {
+          "name": "Joannes Baptista Suttinger zum Thurnhoff",
+          "roleRaw": "compiler",
+          "roleLabel": "Bearbeiter",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Joannes Baptista Suttinger zum Thurnhoff",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 752 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt"
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {},
+  "additions": [],
+  "editorialNotes": [
+    "Die Einbandbeschreibung wurde aus dem Verweis auf Codex 97.1.11 aufgelöst."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; IV + 752 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken, wie bei Codex 97.1.11 (siehe vorhergehende Seite!).\n\nEiner Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch **Joannem Baptistam Suttinger** zum Thurnhoff der R: D: (= Königliches Haus) Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.\n\nDer Schreiber ist unbekannt. Die Gegenstände sind in alphabetischer Reihenfolge bis zum Anfang des Buchstabens M geordnet. Die Fortsetzung siehe im folgenden Codex!",
+    "germanHtml": "<p>Folioformat; IV + 752 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken, wie bei Codex 97.1.11 (siehe vorhergehende Seite!).</p>\n<p>Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch <strong>Joannem Baptistam Suttinger</strong> zum Thurnhoff der R: D: (= Königliches Haus) Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.</p>\n<p>Der Schreiber ist unbekannt. Die Gegenstände sind in alphabetischer Reihenfolge bis zum Anfang des Buchstabens M geordnet. Die Fortsetzung siehe im folgenden Codex!</p>",
+    "latin": "fol.; IV + 752 pagg.; teg. ut in codice 97.1.11 (vide paginam praecedentem!)\n\nEiner Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch **Joannem Baptistam Suttinger** zum Thurnhoff der R: D: (= Regiae Domus) Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.\n\nScriptor ignotus. Ordo rerum alphabeticus usque ad initium litterae M. Continuationem vide in codice proximo!",
+    "latinHtml": "<p>fol.; IV + 752 pagg.; teg. ut in codice 97.1.11 (vide paginam praecedentem!)</p>\n<p>Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch <strong>Joannem Baptistam Suttinger</strong> zum Thurnhoff der R: D: (= Regiae Domus) Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.</p>\n<p>Scriptor ignotus. Ordo rerum alphabeticus usque ad initium litterae M. Continuationem vide in codice proximo!</p>"
+  },
+  "source": {
+    "file": "MN I 2.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-2/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "[[MN I 3]]",
+      "targetId": "mn-i-3",
+      "targetSignature": "MN I 3",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Fortsetzung der alphabetischen Ordnung im folgenden Codex."
+    }
+  ],
+  "search": {
+    "signature": "MN I 2",
+    "titles": "Einer Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652. \nEiner Löbl: NÖ: Landschafft Gedenckhbuech Auß denen Denckhwürdigen Landtags Handlungen von Anno 1521. biß 1581 alles Vleißes in Nachfolgende ordnung zusamen getragen Durch Joannem Baptistam Suttinger zum Thurnhoff der R: D: Röm: Kay: May Rath und N: Ö: Regierungs Cantzlern Anno 1652.",
+    "persons": "Joannes Baptista Suttinger zum Thurnhoff Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Gegenstände sind alphabetisch bis zum Anfang des Buchstabens M geordnet. \nDie Einbandbeschreibung wurde aus dem Verweis auf Codex 97.1.11 aufgelöst.",
+    "physical": "Papier \nIV + 752 Seiten \nFolio \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

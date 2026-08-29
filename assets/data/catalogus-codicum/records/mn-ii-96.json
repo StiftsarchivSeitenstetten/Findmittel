@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-96",
+  "signature": "MN II 96",
+  "aliases": [
+    "Bibl. Cod. MN II 96",
+    "De Vitiis atque peccatis et De Jure et Justitia"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "61",
+  "heading": {
+    "title": "Tractatus Primus De Vitiis, atque peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1670"
+  },
+  "date": {
+    "display": "um 1670",
+    "intervals": [
+      {
+        "from": 1670,
+        "to": 1670,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus De Vitiis, atque peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–193",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Casistico practicus in materiam de Jure, et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 194–475",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "193 + 303 = 496 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamentblatt des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1670",
+        "intervals": [
+          {
+            "from": 1670,
+            "to": 1670,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "193 + 303 = 496 Seiten; Einband aus einem im 15. Jahrhundert kunstvoll mit geistlicher Musik beschriebenen Pergamentblatt; geschrieben um 1670.\n\na) **Erste Abhandlung über Laster und Sünden:** S. 1–193. Anfang der ersten Frage S. 1: **Zunächst ist festzuhalten, dass diese Wörter Tugend,....**\n\nb) **Kasuistisch-praktische Abhandlung über Recht und Gerechtigkeit:** S. 1–282 (=194–475). Anfang der Vorrede S. 194: **Wir werden in diesem Jahr mit Gottes Hilfe über Recht und Gerechtigkeit handeln........**\n\nDer Schriftcharakter zeigt, dass derselbe **Fr. Bernardus Leittner**, der die Codices MN II 92–95 geschrieben hat, auch diesen Codex schrieb. Der Verfasser ist unbekannt.",
+    "germanHtml": "<p>193 + 303 = 496 Seiten; Einband aus einem im 15. Jahrhundert kunstvoll mit geistlicher Musik beschriebenen Pergamentblatt; geschrieben um 1670.</p>\n<p>a) <strong>Erste Abhandlung über Laster und Sünden:</strong> S. 1–193. Anfang der ersten Frage S. 1: <strong>Zunächst ist festzuhalten, dass diese Wörter Tugend,....</strong></p>\n<p>b) <strong>Kasuistisch-praktische Abhandlung über Recht und Gerechtigkeit:</strong> S. 1–282 (=194–475). Anfang der Vorrede S. 194: <strong>Wir werden in diesem Jahr mit Gottes Hilfe über Recht und Gerechtigkeit handeln........</strong></p>\n<p>Der Schriftcharakter zeigt, dass derselbe <strong>Fr. Bernardus Leittner</strong>, der die Codices MN II 92–95 geschrieben hat, auch diesen Codex schrieb. Der Verfasser ist unbekannt.</p>",
+    "latin": "193 + 303 = 496 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae ornate inscriptum; script. ca. 1670\n\na) Tractatus Primus De Vitiis, atque peccatis: p. 1–193. _Initium_ Quaestionis Primae p. 1: Notandum est primo haec vocabula virtus,....\n\nb) Tractatus Casistico practicus in materiam de Jure, et Justitia: p. 1–282 (=194–475). _Initium_ Prooemii p. 194: Agemus hoc anno Deo opitulante De Jure, et Justitia........\n\nCharacter scribendi indicat eundem **Fr. Bernardum Leittner**, qui codices MN II 92–95 (vide p. 59–61), etiam hunc codicem scripsisse. Auctor ignotus.",
+    "latinHtml": "<p>193 + 303 = 496 pagg.; teg. folium membranaceum saec. XV. modis musicae sacrae ornate inscriptum; script. ca. 1670</p>\n<p>a) Tractatus Primus De Vitiis, atque peccatis: p. 1–193. _Initium_ Quaestionis Primae p. 1: Notandum est primo haec vocabula virtus,....</p>\n<p>b) Tractatus Casistico practicus in materiam de Jure, et Justitia: p. 1–282 (=194–475). _Initium_ Prooemii p. 194: Agemus hoc anno Deo opitulante De Jure, et Justitia........</p>\n<p>Character scribendi indicat eundem <strong>Fr. Bernardum Leittner</strong>, qui codices MN II 92–95 (vide p. 59–61), etiam hunc codicem scripsisse. Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 96.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-96/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 96",
+    "titles": "Tractatus Primus De Vitiis, atque peccatis \nTractatus Primus De Vitiis, atque peccatis \nTractatus Casistico practicus in materiam de Jure, et Justitia",
+    "persons": "Fr. Bernardus Leittner Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n193 + 303 = 496 Seiten \ndescription: Pergamentblatt des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-48",
+  "signature": "MN III 48",
+  "aliases": [
+    "Bibl. Cod. MN III 48"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "246",
+  "heading": {
+    "title": "I H S Khern schöner Gebetter",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1767"
+  },
+  "date": {
+    "display": "1767",
+    "intervals": [
+      {
+        "from": 1767,
+        "to": 1767,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a-1",
+      "label": "a.1",
+      "type": "",
+      "title": {
+        "text": "I H S Khern schöner Gebetter",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. VII",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-a-2",
+      "label": "a.2",
+      "type": "",
+      "title": {
+        "text": "Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. IX, 1–160",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit Index S. 157–160."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 161–165",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Von anderer Hand im Jahr 1857 geschrieben."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1767",
+        "intervals": [
+          {
+            "from": 1767,
+            "to": 1767,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 186 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1767.\n\na) Überschrift S. VII: **I H S Khern schöner Gebetter**, von Verzierungen umrahmt.\n\nWeitere Überschrift S. IX: **Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767:** S. 1–156; mit Register S. 157–160.\n\nb) **Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit:** S. 161–165. Dieses Gebet wurde 1857 von einer anderen Hand geschrieben; siehe die Jahreszahl am unteren Rand von S. 161.\n\nS. III steht mit Bleistift: **Von Josefine Gürtler in Neuhofen.** Ob diese Josefine Gürtler Teil a oder Teil b oder überhaupt keinen Teil dieses Gebetbuches geschrieben hat, ist unbekannt. Daher kennt der Katalogbearbeiter weder Verfasser noch Schreiber.",
+    "germanHtml": "<p>Oktavformat; 186 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1767.</p>\n<p>a) Überschrift S. VII: <strong>I H S Khern schöner Gebetter</strong>, von Verzierungen umrahmt.</p>\n<p>Weitere Überschrift S. IX: <strong>Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767:</strong> S. 1–156; mit Register S. 157–160.</p>\n<p>b) <strong>Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit:</strong> S. 161–165. Dieses Gebet wurde 1857 von einer anderen Hand geschrieben; siehe die Jahreszahl am unteren Rand von S. 161.</p>\n<p>S. III steht mit Bleistift: <strong>Von Josefine Gürtler in Neuhofen.</strong> Ob diese Josefine Gürtler Teil a oder Teil b oder überhaupt keinen Teil dieses Gebetbuches geschrieben hat, ist unbekannt. Daher kennt der Katalogbearbeiter weder Verfasser noch Schreiber.</p>",
+    "latin": "8°; 186 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decoratum; scriptus 1767\n\na) Inscriptio p. VII: **I H S Khern schöner Gebetter** (ornamentis inclusa)\n\nInscriptio p. IX: **Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767:** p. 1–156 cum indice p. 157–160\n\nb) Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit: p. 161–165. Quae oratio ab alia manu scripta est anno 1857 (Vide numerum annalem in margine inferiore p. 161!)\n\np. III graphitide notatum est: **Von Josefine Gürtler in Neuhofen.** Nescio vero, utrum haec Josephina Gürtler partem a an partem b an omnino nihil huius libelli precatorii scripserit. Qua de re neque auctorem huius libri scio neque scriptorem.",
+    "latinHtml": "<p>8°; 186 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decoratum; scriptus 1767</p>\n<p>a) Inscriptio p. VII: <strong>I H S Khern schöner Gebetter</strong> (ornamentis inclusa)</p>\n<p>Inscriptio p. IX: <strong>Kurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767:</strong> p. 1–156 cum indice p. 157–160</p>\n<p>b) Andächtiges Gebeth zu der allerheiligsten Dreifaltigkeit: p. 161–165. Quae oratio ab alia manu scripta est anno 1857 (Vide numerum annalem in margine inferiore p. 161!)</p>\n<p>p. III graphitide notatum est: <strong>Von Josefine Gürtler in Neuhofen.</strong> Nescio vero, utrum haec Josephina Gürtler partem a an partem b an omnino nihil huius libelli precatorii scripserit. Qua de re neque auctorem huius libri scio neque scriptorem.</p>"
+  },
+  "source": {
+    "file": "MN III 48.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-48/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 48",
+    "titles": "I H S Khern schöner Gebetter \nI H S Khern schöner Gebetter \nKurz und guet verfasster Khern aller Gebetter: daß ist: Ein überaus Schön und Ney geschriebenes gebett: oder hand Biechlein: Worinnen. Allerhand Schöne Morgen Abend: Meß= Beicht Communion und andere Gebetter verfaßt 1767 \nAndächtiges Gebeth zu der allerheiligsten Dreifaltigkeit",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Mit Index S. 157–160. \nVon anderer Hand im Jahr 1857 geschrieben.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+  }
+}

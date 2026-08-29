@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "97-1-11",
+  "signature": "97.1.11",
+  "aliases": [
+    "Bibl. Cod. 97.1.11"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "47",
+  "heading": {
+    "title": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "nach 1655"
+  },
+  "date": {
+    "display": "nach 1655",
+    "intervals": [
+      {
+        "from": 1655,
+        "to": 1655,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–126v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "126 foll.; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nach 1655",
+        "intervals": [
+          {
+            "from": 1655,
+            "to": 1655,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "former_owner": "Jo(annes) Bapt(ista) Kedif (Redif?)",
+        "certainty": "conjectural",
+        "note": "Der Katalogbearbeiter deutet die Namensunterschrift als Besitzvermerk."
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 126 Blätter; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken. Auf dem Vorderdeckel: **D. A. S. (= Dominicus Abbas Seittenstettensis) 1774**.\n\n**Geheimnisse oder besonders bemerkenswerte Notizen, vor allem die Stände Oberösterreichs betreffend usw.**\n\nAuf dem Titelblatt steht die Namensunterschrift **Jo(annes) Bapt(ista) Kedif (Redif?)**. Der Katalogbearbeiter hält sie für einen Besitzvermerk.\n\nAls Terminus post quem für die Entstehung erscheint das Jahr 1655, auf das sich die Vorgänge fol. 77v und 79r beziehen. 1774 erhielt der Codex lediglich einen neuen Einband.",
+    "germanHtml": "<p>Folioformat; 126 Blätter; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken. Auf dem Vorderdeckel: <strong>D. A. S. (= Dominicus Abbas Seittenstettensis) 1774</strong>.</p>\n<p><strong>Geheimnisse oder besonders bemerkenswerte Notizen, vor allem die Stände Oberösterreichs betreffend usw.</strong></p>\n<p>Auf dem Titelblatt steht die Namensunterschrift <strong>Jo(annes) Bapt(ista) Kedif (Redif?)</strong>. Der Katalogbearbeiter hält sie für einen Besitzvermerk.</p>\n<p>Als Terminus post quem für die Entstehung erscheint das Jahr 1655, auf das sich die Vorgänge fol. 77v und 79r beziehen. 1774 erhielt der Codex lediglich einen neuen Einband.</p>",
+    "latin": "fol.; 126 foll.; teg. b1 cum dorso albo; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774\n\nArcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.\n\nIn pagina titulari subscriptio nominis: Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.\n\nTerminus, post quem codex noster ortus est, videtur esse annus 1655, quo anno acta sunt, quae fol. 77v et 79r inveniuntur. Anno 1774 hic codex non nisi novo tegumento munitus est.",
+    "latinHtml": "<p>fol.; 126 foll.; teg. b1 cum dorso albo; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774</p>\n<p>Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.</p>\n<p>In pagina titulari subscriptio nominis: Jo(annes) Bapt(ista) Kedif (Redif?). Quam subscriptionem notam possidentis esse puto.</p>\n<p>Terminus, post quem codex noster ortus est, videtur esse annus 1655, quo anno acta sunt, quae fol. 77v et 79r inveniuntur. Anno 1774 hic codex non nisi novo tegumento munitus est.</p>"
+  },
+  "source": {
+    "file": "97.1.11.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/97-1-11/",
+  "relations": [],
+  "search": {
+    "signature": "97.1.11",
+    "titles": "Arcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc. \nArcana Sive Notata Dignissima. Statuum Austriae Superioris potissimum concernentia. etc.",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n126 foll.; in parte adversa tegumenti D. A. S. (= Dominicus Abbas Seittenstettensis) 1774 \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

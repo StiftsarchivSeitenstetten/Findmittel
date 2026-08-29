@@ -1,0 +1,345 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-35",
+  "signature": "MN II 35",
+  "aliases": [
+    "Bibl. Cod. MN II 35",
+    "Theologia Moralis - Maximilian Kherscher"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "23",
+  "heading": {
+    "title": "*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1639/40"
+  },
+  "date": {
+    "display": "1639/40",
+    "intervals": [
+      {
+        "from": 1639,
+        "to": 1640,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Moraltheologische und sakramententheologische Sammelhandschrift von Fr. Maximilian Kherscher mit Zusatzmaterialien.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "*Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "(Theologia Moralis): p. 224 - 403",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Theologia Moralis): p. 224 - 403"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "*Memoriale Sciendorum A Clericis:* p. 434 - 441",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Memoriale Sciendorum A Clericis:* p. 434 - 441"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "*Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Maximilian Kherscher OSB",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "nicht für alle Teile ausdrücklich geklärt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "82* + 450 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1639/40",
+        "intervals": [
+          {
+            "from": 1639,
+            "to": 1640,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "scribe_note",
+      "text": "Fr. Maximilianus Kherscher ... Anno 1639"
+    },
+    {
+      "type": "ownership_note",
+      "text": "Sum Monasterii Seittenstöttensis Anno 1640"
+    }
+  ],
+  "editorialNotes": [
+    "Die Jahreszahl im Schlussvermerk S. 403 ist durch Überschreibung unklar; S. 430 nennt ausdrücklich den 6. Juli 1640."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "82* + 450 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1639/40.\n\n**a) Über Mängel, die bei der Feier der Messe auftreten:** S. 1*–13*.\n\n**b) Tractat Von der Schwagerschafft:** S. 13*/14* (teils lateinisch, teils deutsch).\n\n**c) Abhandlung über die Sakramente sowohl im Allgemeinen als auch im Einzelnen:** S. 25* (= Titelblatt), S. 1–222 (alle Sakramente auch im Einzelnen!).\n\nS. 25*: **Fr. Maximilianus Kherscher, Ordinis S. Benedicti. Professus Monasterii Seittenstöttensis (!) Anno 1639.** (Den Namen des Schreibers findet man auch S. 80.) Bl. 1 am oberen Rand: **Sum Monasterii Seittenstöttensis Anno 1640.** Anfang der Disputation über die Sakramente S. 1: **Passend schließt sich an die Erklärung des Dekalogs die Disputation über die Sakramente an....**\n\nNB! Zwischen S. 4 und 5 ist eine weitere Abhandlung über die Sakramente im Allgemeinen eingefügt, deren Anfang verstümmelt ist (S. 27*–82*).\n\n**d) Moraltheologie:** S. 224–403.\n\nAnfang der Vorrede zu den Geboten des Dekalogs S. 224: **Mit Gottes Hilfe beginnen wir den ersten Teil der Moraltheologie....** Schluss S. 403: **All dies wurde von Frater Maximilian Kherscher geschrieben. Ich beendete es am 30. Juni [Jahreszahl durch Überschreibung unklar].** (Dieser Teil enthält Abhandlungen über die allgemeinen Prinzipien der Moraltheologie, über menschliche Handlungen und über die aktuelle Sünde.)\n\n**e) Index der Fälle:** S. 405–430; S. 430: **Ende dieses Buches. Geschrieben von Frater Maximilian Kherscher OSB, Profess des Klosters Seitenstetten, im Jahr 1640, am 6. Juli. Ende.**\n\n**f) Einige kleine Fragen über die Sakramente der Weihe und der Ehe:** S. 431/432.\n\n**g) Merkbuch dessen, was Kleriker wissen müssen:** S. 434–441.\n\n**h) Vergleich der Tierkreiszeichen mit den Buchstaben A–M:** S. 447. (Vielleicht diente dieser Vergleich zur Bildung eines Geheimenalphabets.)\n\n**i) Was jeder einzelne lateinische Buchstabe bedeutet, aus Wion (?):** S. 448 (alphabetisches Gedicht in Hexametern).",
+    "germanHtml": "<p>82* + 450 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1639/40.</p>\n<p><strong>a) Über Mängel, die bei der Feier der Messe auftreten:</strong> S. 1<em>–13</em>.</p>\n<p><strong>b) Tractat Von der Schwagerschafft:</strong> S. 13<em>/14</em> (teils lateinisch, teils deutsch).</p>\n<p><strong>c) Abhandlung über die Sakramente sowohl im Allgemeinen als auch im Einzelnen:</strong> S. 25* (= Titelblatt), S. 1–222 (alle Sakramente auch im Einzelnen!).</p>\n<p>S. 25*: <strong>Fr. Maximilianus Kherscher, Ordinis S. Benedicti. Professus Monasterii Seittenstöttensis (!) Anno 1639.</strong> (Den Namen des Schreibers findet man auch S. 80.) Bl. 1 am oberen Rand: <strong>Sum Monasterii Seittenstöttensis Anno 1640.</strong> Anfang der Disputation über die Sakramente S. 1: <strong>Passend schließt sich an die Erklärung des Dekalogs die Disputation über die Sakramente an....</strong></p>\n<p>NB! Zwischen S. 4 und 5 ist eine weitere Abhandlung über die Sakramente im Allgemeinen eingefügt, deren Anfang verstümmelt ist (S. 27<em>–82</em>).</p>\n<p><strong>d) Moraltheologie:</strong> S. 224–403.</p>\n<p>Anfang der Vorrede zu den Geboten des Dekalogs S. 224: <strong>Mit Gottes Hilfe beginnen wir den ersten Teil der Moraltheologie....</strong> Schluss S. 403: <strong>All dies wurde von Frater Maximilian Kherscher geschrieben. Ich beendete es am 30. Juni [Jahreszahl durch Überschreibung unklar].</strong> (Dieser Teil enthält Abhandlungen über die allgemeinen Prinzipien der Moraltheologie, über menschliche Handlungen und über die aktuelle Sünde.)</p>\n<p><strong>e) Index der Fälle:</strong> S. 405–430; S. 430: <strong>Ende dieses Buches. Geschrieben von Frater Maximilian Kherscher OSB, Profess des Klosters Seitenstetten, im Jahr 1640, am 6. Juli. Ende.</strong></p>\n<p><strong>f) Einige kleine Fragen über die Sakramente der Weihe und der Ehe:</strong> S. 431/432.</p>\n<p><strong>g) Merkbuch dessen, was Kleriker wissen müssen:</strong> S. 434–441.</p>\n<p><strong>h) Vergleich der Tierkreiszeichen mit den Buchstaben A–M:</strong> S. 447. (Vielleicht diente dieser Vergleich zur Bildung eines Geheimenalphabets.)</p>\n<p><strong>i) Was jeder einzelne lateinische Buchstabe bedeutet, aus Wion (?):</strong> S. 448 (alphabetisches Gedicht in Hexametern).</p>",
+    "latin": "82* + 450 pagg.; teg. a1; script. 1639/40\n\na) *De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13*\n\nb) *Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice)\n\nc) *Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*)\n\np. 25*: Fr. Maximilianus Kherscher, Ordinis S. Benedicti. Professus Monasterii Seittenstöttensis (!) Anno 1639. (Nomen scriptoris etiam p. 80 reperies.) F. 1 in margine superiore: Sum Monasterii Seittenstöttensis Anno 1640. *Initium* Disputationis De Sacramentis p. 1: Opportune ad interpretationem Decalogi accedit disputatio de Sacramentis....\n\nN. B.! Inter p. 4 et 5 alter tractatus de Sacramentis in Communi isque in initio mutilus insertus est (p. 27* - 82*).\n\nd) (Theologia Moralis): p. 224 - 403\n\n*Initium* Proemii In Decalogi Praecepta p. 224: Aggredimur Deo Propitio primam Theologiae moralis partem.... *Clausula* p. 403: Haec omnia a Fratre Maximiliano Kherscher sunt scripta: Finivi: 30 Junii [Jahreszahl durch Überschreibung unklar]. (Continet haec pars tractatus De Principiis generalibus moralis Theologiae, De Actibus Humanis, De peccato Actuali)\n\ne) *Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin.\n\nf) (Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2\n\ng) *Memoriale Sciendorum A Clericis:* p. 434 - 441\n\nh) (Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.)\n\ni) *Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum)",
+    "latinHtml": "<p>82* + 450 pagg.; teg. a1; script. 1639/40</p>\n<p>a) <em>De Defectibus in Celebratione Missarum Occurrentibus:</em> p. 1<em> - 13</em></p>\n<p>b) <em>Tractat Von der Schwagerschafft:</em> p. 13<em>/14</em> (partim Latine, partim Germanice)</p>\n<p>c) <em>Tractatus De Sacramentis tam in Genere quam in Particulari:</em> p. 25<em> (= pagina titularis), p. 1 - 222 (</em>omnia Sacramenta etiam in specie!*)</p>\n<p>p. 25<em>: Fr. Maximilianus Kherscher, Ordinis S. Benedicti. Professus Monasterii Seittenstöttensis (!) Anno 1639. (Nomen scriptoris etiam p. 80 reperies.) F. 1 in margine superiore: Sum Monasterii Seittenstöttensis Anno 1640. </em>Initium* Disputationis De Sacramentis p. 1: Opportune ad interpretationem Decalogi accedit disputatio de Sacramentis....</p>\n<p>N. B.! Inter p. 4 et 5 alter tractatus de Sacramentis in Communi isque in initio mutilus insertus est (p. 27<em> - 82</em>).</p>\n<p>d) (Theologia Moralis): p. 224 - 403</p>\n<p><em>Initium</em> Proemii In Decalogi Praecepta p. 224: Aggredimur Deo Propitio primam Theologiae moralis partem.... <em>Clausula</em> p. 403: Haec omnia a Fratre Maximiliano Kherscher sunt scripta: Finivi: 30 Junii [Jahreszahl durch Überschreibung unklar]. (Continet haec pars tractatus De Principiis generalibus moralis Theologiae, De Actibus Humanis, De peccato Actuali)</p>\n<p>e) <em>Index Casuum:</em> p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin.</p>\n<p>f) (Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2</p>\n<p>g) <em>Memoriale Sciendorum A Clericis:</em> p. 434 - 441</p>\n<p>h) (Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.)</p>\n<p>i) <em>Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)</em> p. 448 (Carmen alphabeticum versibus heroicis compositum)</p>"
+  },
+  "source": {
+    "file": "MN II 35.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-35/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 35",
+    "titles": "*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13* \n*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13* \n*Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice) \n*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*) \n(Theologia Moralis): p. 224 - 403 \n*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin. \n(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2 \n*Memoriale Sciendorum A Clericis:* p. 434 - 441 \n(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.) \n*Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum)",
+    "persons": "Fr. Maximilian Kherscher OSB Schreiber scribe \nnicht für alle Teile ausdrücklich geklärt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Moraltheologische und sakramententheologische Sammelhandschrift von Fr. Maximilian Kherscher mit Zusatzmaterialien. \n*De Defectibus in Celebratione Missarum Occurrentibus:* p. 1* - 13* \n*Tractat Von der Schwagerschafft:* p. 13*/14* (partim Latine, partim Germanice) \n*Tractatus De Sacramentis tam in Genere quam in Particulari:* p. 25* (= pagina titularis), p. 1 - 222 (*omnia Sacramenta etiam in specie!*) \n(Theologia Moralis): p. 224 - 403 \n*Index Casuum:* p. 405 - 430; p. 430: Finis huius Libri. A. Fratre Maximiliano Kherscher Ordinis Divi Benedicti. professus Monasterii Seittenstöttensis Script: Anno M.DC.40. 6. Julius. Fin. \n(Quaedam quaestiunculae de Sacramentis Ordinis et Matrimonii): 431/2 \n*Memoriale Sciendorum A Clericis:* p. 434 - 441 \n(Comparatio signorum zodiaci cum litteris A - M): p. 447 (Fortasse haec comparatio usui erat ad constituendum alphabetum arcanum.) \n*Quid unaquaeque littera Alphabetica latina valeat. ex Wione (?)* p. 448 (Carmen alphabeticum versibus heroicis compositum) \nDie Jahreszahl im Schlussvermerk S. 403 ist durch Überschreibung unklar; S. 430 nennt ausdrücklich den 6. Juli 1640.",
+    "physical": "Papier \n82* + 450 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

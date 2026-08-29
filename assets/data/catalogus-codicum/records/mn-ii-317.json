@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-317",
+  "signature": "MN II 317",
+  "aliases": [
+    "Bibl. Cod. MN II 317"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "285",
+  "heading": {
+    "title": "Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1889/91"
+  },
+  "date": {
+    "display": "1889/91",
+    "intervals": [
+      {
+        "from": 1889,
+        "to": 1891,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–105",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "S. 106 ff. leer."
+        }
+      ],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "29. Oktober 1889"
+        },
+        {
+          "type": "end_date_display",
+          "display": "März 1891"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Hieronymus Noldin SJ",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Universität Innsbruck",
+      "certainty": "certain"
+    },
+    {
+      "name": "Fr. Coelestin Berger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "certain"
+    },
+    {
+      "name": "Abt Dominicus Hoenigl",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "156 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3",
+      "description": "Brauner Pappeinband; Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1889/91",
+        "intervals": [
+          {
+            "from": 1889,
+            "to": 1891,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Universität Innsbruck",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_print",
+      "title": "Cautelae in celebrati(o)ne Missae et ministrando S. Communionem observandae, ne sacrae Species periculo profanationis exponantur. Editio aucta et emendata.",
+      "title_type": "supplied",
+      "publication_place": "Steyr",
+      "printer": "G. Bruckschweiger",
+      "date": {
+        "display": "vor 1891",
+        "not_after": 1891,
+        "certainty": "probable"
+      },
+      "note": "Die Ergänzung „o“ in „celebrati(o)ne“ sowie „Editio aucta et emendata“ stehen im Katalogtext in runden Klammern; Abt Dominicus Hoenigl ist nur wahrscheinlich der Verfasser."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "156 Seiten; brauner Pappeinband mit schwarzem Rücken und schwarzen Kanten; geschrieben 1889/91.\n\n**Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91.**\n\nFr. Coelestinus Berger, Benediktiner und Seitenstettner Kleriker, zeichnete in diesem Buch Innsbrucker Vorlesungen auf, die **P. Hieronymus Noldin SJ**, später ein sehr bekannter Moraltheologe, über die heilige Liturgie hielt. Die Mitschrift entstand in den beiden Studienjahren 1889/90 und 1890/91, vom 29. Oktober 1889 bis März 1891.\n\nIm Buch fand sich ein Doppelblatt mit dem Titel: **Cautelae in celebrati(o)ne Missae et ministrando S. Communionem observandae, ne sacrae Species periculo profanationis exponantur. (Editio aucta et emendata.)**\n\nDieses ohne Verfassernamen und Entstehungsjahr in Steyr bei G. Bruckschweiger gedruckte Büchlein trägt unter dem Titel eine mit Bleistift eingetragene Notiz: **Reverendissimo Domino Domino Dominico Hoenigl Abbate Ordinis S. Benedicti Seitenstette[nsi].**\n\nDaher scheint Abt Dominicus Hoenigl der Verfasser zu sein. Da dieses Blatt wahrscheinlich Fr. Coelestin beim Studium der Liturgie diente, ist eine Drucklegung vor 1891 wahrscheinlich.\n\nS. 106 ff. sind leer.",
+    "germanHtml": "<p>156 Seiten; brauner Pappeinband mit schwarzem Rücken und schwarzen Kanten; geschrieben 1889/91.</p>\n<p><strong>Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91.</strong></p>\n<p>Fr. Coelestinus Berger, Benediktiner und Seitenstettner Kleriker, zeichnete in diesem Buch Innsbrucker Vorlesungen auf, die <strong>P. Hieronymus Noldin SJ</strong>, später ein sehr bekannter Moraltheologe, über die heilige Liturgie hielt. Die Mitschrift entstand in den beiden Studienjahren 1889/90 und 1890/91, vom 29. Oktober 1889 bis März 1891.</p>\n<p>Im Buch fand sich ein Doppelblatt mit dem Titel: <strong>Cautelae in celebrati(o)ne Missae et ministrando S. Communionem observandae, ne sacrae Species periculo profanationis exponantur. (Editio aucta et emendata.)</strong></p>\n<p>Dieses ohne Verfassernamen und Entstehungsjahr in Steyr bei G. Bruckschweiger gedruckte Büchlein trägt unter dem Titel eine mit Bleistift eingetragene Notiz: <strong>Reverendissimo Domino Domino Dominico Hoenigl Abbate Ordinis S. Benedicti Seitenstette[nsi].</strong></p>\n<p>Daher scheint Abt Dominicus Hoenigl der Verfasser zu sein. Da dieses Blatt wahrscheinlich Fr. Coelestin beim Studium der Liturgie diente, ist eine Drucklegung vor 1891 wahrscheinlich.</p>\n<p>S. 106 ff. sind leer.</p>",
+    "latin": "156 pagg.; teg. c3 cum dorso extremisque nigris; scr. 1889/91\n\n**Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91.**\n\nExcepit ergo Fr. Coelestinus Berger, Ordinis S. Benedicti, clericus Seitenstettensis, in hoc libro lectiones Oenipontanas, quas **P. Hieronymus Noldin** Societatis Jesu, postea clarissimus Moralista, de Sacra Liturgia habuit, easque duobus annis scholaribus 1889/1890 et 1890/91 (a die 29. Octobris 1889 usque ad Martium 1891).\n\nInveni in hoc libro schedam duorum foliorum cum inscriptione: **Cautelae in celebrati(o)ne Missae et ministrando S. Communionem observandae, ne sacrae Species periculo profanationis exponantur. (Editio aucta et emendata.)** Quod opusculum sine nomine auctoris et anno originis Styrae Typis G. Bruckschweigeri editum est. Sed nescio quis sub inscriptione schedulae notavit graphitide: **Reverendissimo Domino Domino Dominico Hoenigl Abbate Ordinis S. Benedicti Seitenstette[nsi].** Videtur ergo abbas ille auctor esse, et cum probabiliter Fr. Coelestino haec plagula in discendo Sacram Liturgiam usui esset, ante annum 1891 editam esse eam veri simile est. pagg. 106 sequu. vacuae.",
+    "latinHtml": "<p>156 pagg.; teg. c3 cum dorso extremisque nigris; scr. 1889/91</p>\n<p><strong>Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91.</strong></p>\n<p>Excepit ergo Fr. Coelestinus Berger, Ordinis S. Benedicti, clericus Seitenstettensis, in hoc libro lectiones Oenipontanas, quas <strong>P. Hieronymus Noldin</strong> Societatis Jesu, postea clarissimus Moralista, de Sacra Liturgia habuit, easque duobus annis scholaribus 1889/1890 et 1890/91 (a die 29. Octobris 1889 usque ad Martium 1891).</p>\n<p>Inveni in hoc libro schedam duorum foliorum cum inscriptione: <strong>Cautelae in celebrati(o)ne Missae et ministrando S. Communionem observandae, ne sacrae Species periculo profanationis exponantur. (Editio aucta et emendata.)</strong> Quod opusculum sine nomine auctoris et anno originis Styrae Typis G. Bruckschweigeri editum est. Sed nescio quis sub inscriptione schedulae notavit graphitide: <strong>Reverendissimo Domino Domino Dominico Hoenigl Abbate Ordinis S. Benedicti Seitenstette[nsi].</strong> Videtur ergo abbas ille auctor esse, et cum probabiliter Fr. Coelestino haec plagula in discendo Sacram Liturgiam usui esset, ante annum 1891 editam esse eam veri simile est. pagg. 106 sequu. vacuae.</p>"
+  },
+  "source": {
+    "file": "MN II 317.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-317/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 317",
+    "titles": "Liturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91 \nLiturgik nach den Vorträgen Prof. Dr. Noldin S. J. fr. Petr. Coelestin Berger O. S. B. 1889/90/91",
+    "persons": "P. Hieronymus Noldin SJ Dozent lecturer \nFr. Coelestin Berger Schreiber scribe \nAbt Dominicus Hoenigl Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "S. 106 ff. leer.",
+    "physical": "Papier \n156 pagg. \ncode: c3; description: Brauner Pappeinband; Zustand siehe Katalogtext."
+  }
+}

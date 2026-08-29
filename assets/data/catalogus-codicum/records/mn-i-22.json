@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-22",
+  "signature": "MN I 22",
+  "aliases": [
+    "Bibl. Cod. MN I 22",
+    "Lexicon Novi Testamenti Graeco-Latinum",
+    "Griechisch-lateinisches Lexikon des Neuen Testaments"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "281",
+  "heading": {
+    "title": "Lexicon Novi Testamenti Graeco-Latinum",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1850 (?)"
+  },
+  "date": {
+    "display": "um 1850 (?)",
+    "intervals": [
+      {
+        "from": 1850,
+        "to": 1850,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Lexicon Novi Testamenti Graeco-Latinum",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "la",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Significationes vocum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–167",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Bedeutungen der Wörter"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-2",
+      "label": "2",
+      "type": "",
+      "title": {
+        "text": "Usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 171–222",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-3",
+      "label": "3",
+      "type": "",
+      "title": {
+        "text": "De usu et constructione articuli, nominis, adiectivi, verbi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 223–245",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "250 Seiten",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "description": "Kalligraphische Schrift."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1850 (?)",
+        "intervals": [
+          {
+            "from": 1850,
+            "to": 1850,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Verfasser und Schreiber sind vollständig unbekannt.",
+    "Die kalligraphische Ausführung erschwert nach Aussage des Katalogbearbeiters eine genauere paläographische Datierung."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": [
+      {
+        "author": "Winer",
+        "title": "Grammatica in Novum Testamentum",
+        "first_publication": 1821
+      }
+    ],
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 250 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1850 (?).\n\n**(Griechisch-lateinisches Lexikon des Neuen Testaments)**\n\na) (Bedeutungen der Wörter): S. 1–167\n\nb) (Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln): S. 171–222\n\nc) (Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs): S. 223–245\n\nWer dieses arbeitsaufwendige Werk zusammengestellt und geschrieben hat, ist völlig unbekannt; da es kalligraphisch geschrieben ist, ist auch schwer zu sagen, wann es geschrieben wurde. Sicher ist jedoch, dass unser Codex nach 1821 geschrieben wurde, weil an vielen Stellen Winers *Grammatik des Neuen Testaments* angeführt wird, die 1821 erstmals erschien. Aufgrund der Schrift vermute ich jedoch, dass unser Codex kaum vor 1850 geschrieben wurde.",
+    "germanHtml": "<p>Großquartformat; 250 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1850 (?).</p>\n<p><strong>(Griechisch-lateinisches Lexikon des Neuen Testaments)</strong></p>\n<p>a) (Bedeutungen der Wörter): S. 1–167</p>\n<p>b) (Gebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln): S. 171–222</p>\n<p>c) (Über Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs): S. 223–245</p>\n<p>Wer dieses arbeitsaufwendige Werk zusammengestellt und geschrieben hat, ist völlig unbekannt; da es kalligraphisch geschrieben ist, ist auch schwer zu sagen, wann es geschrieben wurde. Sicher ist jedoch, dass unser Codex nach 1821 geschrieben wurde, weil an vielen Stellen Winers <em>Grammatik des Neuen Testaments</em> angeführt wird, die 1821 erstmals erschien. Aufgrund der Schrift vermute ich jedoch, dass unser Codex kaum vor 1850 geschrieben wurde.</p>",
+    "latin": "4° mai.; 250 pagg.; teg. c2d; scriptus ca. 1850 (?)\n\n**(Lexicon Novi Testamenti Graeco-Latinum)**\n\na) (significationes vocum): p. 1–167\n\nb) (usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum): p. 171–222\n\nc) (de usu et constructione articuli, nominis, adiectivi, verbi): p. 223–245\n\nQuis hoc opus laboriosum composuerit scripseritque, omnino ignotum est, et cum calligraphice scriptum sit, etiam quando scriptum sit, difficile dictu est. At certum est, post annum 1821 scriptum esse codicem nostrum, quia multis locis Winer, *Grammatica in Novum Testamentum*, laudatur, quae anno 1821 primum in lucem evenit. Sed propter scripturam coniicio, codicem nostrum vix ante 1850 scriptum esse.",
+    "latinHtml": "<p>4° mai.; 250 pagg.; teg. c2d; scriptus ca. 1850 (?)</p>\n<p><strong>(Lexicon Novi Testamenti Graeco-Latinum)</strong></p>\n<p>a) (significationes vocum): p. 1–167</p>\n<p>b) (usus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum): p. 171–222</p>\n<p>c) (de usu et constructione articuli, nominis, adiectivi, verbi): p. 223–245</p>\n<p>Quis hoc opus laboriosum composuerit scripseritque, omnino ignotum est, et cum calligraphice scriptum sit, etiam quando scriptum sit, difficile dictu est. At certum est, post annum 1821 scriptum esse codicem nostrum, quia multis locis Winer, <em>Grammatica in Novum Testamentum</em>, laudatur, quae anno 1821 primum in lucem evenit. Sed propter scripturam coniicio, codicem nostrum vix ante 1850 scriptum esse.</p>"
+  },
+  "source": {
+    "file": "MN I 22.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-22/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 22",
+    "titles": "Lexicon Novi Testamenti Graeco-Latinum \nSignificationes vocum \nUsus et constructio coniunctionum, praepositionum, pronominum, adverbiorum, particularum \nDe usu et constructione articuli, nominis, adiectivi, verbi",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "la \nBedeutungen der Wörter \nGebrauch und Konstruktion der Konjunktionen, Präpositionen, Pronomen, Adverbien und Partikeln \nÜber Gebrauch und Konstruktion des Artikels, Nomens, Adjektivs und Verbs \nVerfasser und Schreiber sind vollständig unbekannt. \nDie kalligraphische Ausführung erschwert nach Aussage des Katalogbearbeiters eine genauere paläographische Datierung.",
+    "physical": "Papier \n250 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

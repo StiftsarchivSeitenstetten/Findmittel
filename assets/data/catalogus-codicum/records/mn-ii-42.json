@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-42",
+  "signature": "MN II 42",
+  "aliases": [
+    "Bibl. Cod. MN II 42",
+    "Institutiones Dialecticae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "27",
+  "heading": {
+    "title": "Institutiones Dialecticae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1648"
+  },
+  "date": {
+    "display": "1648",
+    "intervals": [
+      {
+        "from": 1648,
+        "to": 1648,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Dialektische Institutionen, Register und Kommentare zur Logik des Aristoteles.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Institutiones Dialecticae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–125",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 129–138",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Commentaria et Quaestiones in universam Aristotelis Logicam, ad mentem Divi Thomae Aquinatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1–84",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Bonifacius Stummer, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "140 Seiten + 86 Blätter (= 312 Seiten)",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1648",
+        "intervals": [
+          {
+            "from": 1648,
+            "to": 1648,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "140 Seiten + 86 Blätter (= 312 Seiten); weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1648.\n\na) **Grundlagen der Dialektik:** S. 3–125. Anfang der Vorrede des Verfassers S. 5: **Da, wie Aristoteles sagt,....**\n\nb) **Register der Logik** (das heißt: des folgenden Teils!): S. 129–138. Schluss S. 138: **Ende. Am 8. September im Jahr 1648.**\n\nc) **Kommentare und Quaestionen zur gesamten Logik des Aristoteles nach der Lehre des hl. Thomas von Aquin:** Bl. 1–84; dort Schlussvermerk: **18. Juli 1648.** Anfang der Vorrede: **Nachdem die kleinere Dialektik abgeschlossen ist,....**\n\nSchöne Zeichnungen finden sich auf S. 3 und Bl. 40r.\n\nDer Verfasser ist unbekannt; den Schreiber geben jedoch die auf der Vorderseite des Einbandes mit schwarzer Farbe eingeprägten Initialen an: **F B S P S = Frater Bonifacius Stummer Professus Seittenstettensis**, also Fr. Bonifacius Stummer, Profess von Seitenstetten.",
+    "germanHtml": "<p>140 Seiten + 86 Blätter (= 312 Seiten); weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1648.</p>\n<p>a) <strong>Grundlagen der Dialektik:</strong> S. 3–125. Anfang der Vorrede des Verfassers S. 5: <strong>Da, wie Aristoteles sagt,....</strong></p>\n<p>b) <strong>Register der Logik</strong> (das heißt: des folgenden Teils!): S. 129–138. Schluss S. 138: <strong>Ende. Am 8. September im Jahr 1648.</strong></p>\n<p>c) <strong>Kommentare und Quaestionen zur gesamten Logik des Aristoteles nach der Lehre des hl. Thomas von Aquin:</strong> Bl. 1–84; dort Schlussvermerk: <strong>18. Juli 1648.</strong> Anfang der Vorrede: <strong>Nachdem die kleinere Dialektik abgeschlossen ist,....</strong></p>\n<p>Schöne Zeichnungen finden sich auf S. 3 und Bl. 40r.</p>\n<p>Der Verfasser ist unbekannt; den Schreiber geben jedoch die auf der Vorderseite des Einbandes mit schwarzer Farbe eingeprägten Initialen an: <strong>F B S P S = Frater Bonifacius Stummer Professus Seittenstettensis</strong>, also Fr. Bonifacius Stummer, Profess von Seitenstetten.</p>",
+    "latin": "140 pagg. + 86 fol. (= 312 pagg.); teg. a1; script. 1648\n\na) *Institutiones Dialecticae:* p. 3 - 125; *initium* Praefationis Authoris p. 5: Quoniam ut Author est Aristoteles....\n\nb) *Index Logicae* (id est partis sequentis!): p. 129 - 138; clausula p. 138: Finis. Die 8 Septembris. Anno 1648.\n\nc) *Commentaria et Quaestiones in universam Aristotelis Logicam, ad mentem Divi Thomae Aquinatis:* fol. 1 - 84, ubi clausula: 18 Jul. 1648. *Initium* Praefationis: Absolutâ minori Dialecticâ,....\n\nImagines pulchrae delineatae p. 3 et fol. 40r.\n\nAuctor ignotus, scriptorem autem tradunt litterae initiales parti adversae tegumenti nigro colore impressae: F B S P S = Frater Bonifacius Stummer Professus Seittenstettensis.",
+    "latinHtml": "<p>140 pagg. + 86 fol. (= 312 pagg.); teg. a1; script. 1648</p>\n<p>a) <em>Institutiones Dialecticae:</em> p. 3 - 125; <em>initium</em> Praefationis Authoris p. 5: Quoniam ut Author est Aristoteles....</p>\n<p>b) <em>Index Logicae</em> (id est partis sequentis!): p. 129 - 138; clausula p. 138: Finis. Die 8 Septembris. Anno 1648.</p>\n<p>c) <em>Commentaria et Quaestiones in universam Aristotelis Logicam, ad mentem Divi Thomae Aquinatis:</em> fol. 1 - 84, ubi clausula: 18 Jul. 1648. <em>Initium</em> Praefationis: Absolutâ minori Dialecticâ,....</p>\n<p>Imagines pulchrae delineatae p. 3 et fol. 40r.</p>\n<p>Auctor ignotus, scriptorem autem tradunt litterae initiales parti adversae tegumenti nigro colore impressae: F B S P S = Frater Bonifacius Stummer Professus Seittenstettensis.</p>"
+  },
+  "source": {
+    "file": "MN II 42.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-42/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 42",
+    "titles": "Institutiones Dialecticae \nInstitutiones Dialecticae \nIndex Logicae \nCommentaria et Quaestiones in universam Aristotelis Logicam, ad mentem Divi Thomae Aquinatis",
+    "persons": "unbekannt Autor author \nFr. Bonifacius Stummer, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Dialektische Institutionen, Register und Kommentare zur Logik des Aristoteles.",
+    "physical": "Papier \n140 Seiten + 86 Blätter (= 312 Seiten) \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

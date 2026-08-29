@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-137",
+  "signature": "MN II 137",
+  "aliases": [
+    "Bibl. Cod. MN II 137"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "94–95",
+  "heading": {
+    "title": "Tractatus De Sacramentis in genere",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1680/81"
+  },
+  "date": {
+    "display": "1680/81",
+    "intervals": [
+      {
+        "from": 1680,
+        "to": 1681,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Katalogbeschreibung von Bibl. Cod. MN II 137.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 5 - 406.",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus secundus De Baptismo et Confirmatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 406 - 493.",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De SacroSancta Eucharistia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 493 - 639. I",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Controversiae Fidei De Sacramentis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 649 - 703. I",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "716 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1680/81",
+        "intervals": [
+          {
+            "from": 1680,
+            "to": 1681,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "716 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1680/81.\n\na) **Abhandlung über die Sakramente im Allgemeinen:** S. 5–406. Anfang der Vorrede S. 5: Vom Erlöser gehen wir zu den Quellen des Erlösers über.....\n\nb) **Zweite Abhandlung über Taufe und Firmung:** S. 406–493. Anfang der ersten Disputation S. 406: Die Taufe wird vom Lehrer der Völker....\n\nc) **Abhandlung über die heiligste Eucharistie:** S. 493–639. Anfang S. 494: Eucharistie bedeutet auf Latein dasselbe wie gute Gnade..... Schluss S. 639: Wir beendeten unseren theologischen Kurs am 27. August 1681 unter P. Paulus Mezger, Benediktiner von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor, damals Vizerektor. Es waren 22 Schüler, alle aus demselben Orden.\n\nDaher diktierte P. Paulus Mezger die Teile a, b und c.\n\nd) **Glaubenskontroversen über die Sakramente:** S. 649–703. Anfang S. 649: Gehen wir die Sakramente sowohl im Allgemeinen als auch im Einzelnen an......\n\nDer Verfasser von Teil d und der Schreiber des gesamten Codex sind unbekannt; derselbe Schreiber scheint jedoch auch MN II 138 und MN II 168 geschrieben zu haben.",
+    "germanHtml": "<p>716 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1680/81.</p>\n<p>a) <strong>Abhandlung über die Sakramente im Allgemeinen:</strong> S. 5–406. Anfang der Vorrede S. 5: Vom Erlöser gehen wir zu den Quellen des Erlösers über.....</p>\n<p>b) <strong>Zweite Abhandlung über Taufe und Firmung:</strong> S. 406–493. Anfang der ersten Disputation S. 406: Die Taufe wird vom Lehrer der Völker....</p>\n<p>c) <strong>Abhandlung über die heiligste Eucharistie:</strong> S. 493–639. Anfang S. 494: Eucharistie bedeutet auf Latein dasselbe wie gute Gnade..... Schluss S. 639: Wir beendeten unseren theologischen Kurs am 27. August 1681 unter P. Paulus Mezger, Benediktiner von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor, damals Vizerektor. Es waren 22 Schüler, alle aus demselben Orden.</p>\n<p>Daher diktierte P. Paulus Mezger die Teile a, b und c.</p>\n<p>d) <strong>Glaubenskontroversen über die Sakramente:</strong> S. 649–703. Anfang S. 649: Gehen wir die Sakramente sowohl im Allgemeinen als auch im Einzelnen an......</p>\n<p>Der Verfasser von Teil d und der Schreiber des gesamten Codex sind unbekannt; derselbe Schreiber scheint jedoch auch MN II 138 und MN II 168 geschrieben zu haben.</p>",
+    "latin": "716 pagg.; teg. a2; script. 1680/81\n\na) Tractatus De Sacramentis in genere: p. 5 - 406.\n\nInitium (Prooemii) p. 5: A Salvatore ad fontes Salvatoris digredimur.....\n\nb) Tractatus secundus De Baptismo et Confirmatione: p. 406 - 493.\n\nInitium Disputationis primae p. 406: Baptismus a Magistro gentium....\n\nc) Tractatus De SacroSancta Eucharistia: p. 493 - 639. Initium p. 494: Eucharistia idem est latiné quod bona gratia..... Clausula p. 639: Absolvimus Cursum nostrum Theologicum 27 die Augusti Anno reparatae salutis millesimo sexcentesimo octuagesimo primo (1681). Sub .....Patre Paulo Mezger Ordinis S Benedicti Celeberrimi et antiquissimi Monasterii ad S Petrum Professo Sacrosanctae Theologiae Doctore et Professore ordinario pro tempore Vice-Rectore. fuêre discipuli 22 omnes eiusdem ordinis.\n\nErgo Partes a, b, c codicis nostri dictavit P. Paulus Mezger.\n\n\n\nd) Controversiae Fidei De Sacramentis: p. 649 - 703. Initium p. 649: Aggrediamur de sacramentis tam in genere quam in specie......\n\nAuctor partis d et scriptor totius codicis ignotus; videtur tamen scriptor noster etiam codicem praecedentem MN II 138 (p. 94) et subsequentem MN II 168 (vide infra!) scripsisse.",
+    "latinHtml": "<p>716 pagg.; teg. a2; script. 1680/81</p>\n<p>a) Tractatus De Sacramentis in genere: p. 5 - 406.</p>\n<p>Initium (Prooemii) p. 5: A Salvatore ad fontes Salvatoris digredimur.....</p>\n<p>b) Tractatus secundus De Baptismo et Confirmatione: p. 406 - 493.</p>\n<p>Initium Disputationis primae p. 406: Baptismus a Magistro gentium....</p>\n<p>c) Tractatus De SacroSancta Eucharistia: p. 493 - 639. Initium p. 494: Eucharistia idem est latiné quod bona gratia..... Clausula p. 639: Absolvimus Cursum nostrum Theologicum 27 die Augusti Anno reparatae salutis millesimo sexcentesimo octuagesimo primo (1681). Sub .....Patre Paulo Mezger Ordinis S Benedicti Celeberrimi et antiquissimi Monasterii ad S Petrum Professo Sacrosanctae Theologiae Doctore et Professore ordinario pro tempore Vice-Rectore. fuêre discipuli 22 omnes eiusdem ordinis.</p>\n<p>Ergo Partes a, b, c codicis nostri dictavit P. Paulus Mezger.</p>\n<p>d) Controversiae Fidei De Sacramentis: p. 649 - 703. Initium p. 649: Aggrediamur de sacramentis tam in genere quam in specie......</p>\n<p>Auctor partis d et scriptor totius codicis ignotus; videtur tamen scriptor noster etiam codicem praecedentem MN II 138 (p. 94) et subsequentem MN II 168 (vide infra!) scripsisse.</p>"
+  },
+  "source": {
+    "file": "MN II 137.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-137/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 137",
+    "titles": "Tractatus De Sacramentis in genere \nTractatus De Sacramentis in genere \nTractatus secundus De Baptismo et Confirmatione \nTractatus De SacroSancta Eucharistia \nControversiae Fidei De Sacramentis",
+    "persons": "P. Paulus Mezger Dozent lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Katalogbeschreibung von Bibl. Cod. MN II 137.",
+    "physical": "Papier \n716 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

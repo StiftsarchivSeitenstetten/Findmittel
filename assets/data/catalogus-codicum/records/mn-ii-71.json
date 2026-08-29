@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-71",
+  "signature": "MN II 71",
+  "aliases": [
+    "Bibl. Cod. MN II 71",
+    "De Generatione, Meteoris, Anima, Metaphysica"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "46",
+  "heading": {
+    "title": "Tractatus In Duos Libros De Generatione et Corruptione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1655"
+  },
+  "date": {
+    "display": "1655",
+    "intervals": [
+      {
+        "from": 1655,
+        "to": 1655,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Duos Libros De Generatione et Corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 4r–104r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus IV. In Libros IV. Aristotelis De Meteoris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 105r–121v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Tres Libros De Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 122r–192r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus Sextus et Ultimus In XII Aristotelis Libros Metaphysicos",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 194r–248r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Adam Piringer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "252 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1655",
+        "intervals": [
+          {
+            "from": 1655,
+            "to": 1655,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "de generatione et Corruptione, Meteoris, anima, Metaphysica MS. à Reverendissimo Adamo Piringer Seittenstettensi 1655."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "252 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 68; geschrieben 1655.\n\na) **Abhandlung zu den zwei Büchern Über Werden und Vergehen:** fol. 4r–104r. Anfang der Vorrede fol. 5r: Die richtige Methode der Wissenschaften verlangt.... fol. 104r Schluss: **5. Mai.**\n\nb) **Vierte (!) Abhandlung zu den vier Büchern des Aristoteles Über die Meteorologie:** fol. 105r–121v. Anfang: Nach Darlegung der allgemeinen Lehre......\n\nc) **Abhandlung zu den drei Büchern Über die Seele:** fol. 122r–192r. Anfang der Vorrede fol. 123r: Die vorliegende vorliegende (Schreibfehler!) Behandlung der Seele ist........\n\nd) **Sechste und letzte Abhandlung zu den zwölf Büchern der Metaphysik des Aristoteles:** fol. 194r–248r. Anfang der Vorrede fol. 195r: Die Physik ist nicht die höchste der Wissenschaften..... Schluss fol. 248r: **Wir beendeten [dies] am 17. September 1655.**\n\nRückenaufschrift: **Über Werden und Vergehen, Meteorologie, Seele und Metaphysik, Handschrift des hochwürdigsten Adam Piringer aus Seitenstetten, 1655.**\n\nDa diese Abhandlungen jene des Codex MN II 70 (siehe oben!) fortsetzen, die von P. Anselm Schlager, Andechser Mönch, vorgetragen wurden, ist es wahrscheinlich, wenn auch nicht sicher, dass derselbe auch diese vorgetragen hat. Dieselben Abhandlungen findet man im folgenden Codex MN II 72.",
+    "germanHtml": "<p>252 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 68; geschrieben 1655.</p>\n<p>a) <strong>Abhandlung zu den zwei Büchern Über Werden und Vergehen:</strong> fol. 4r–104r. Anfang der Vorrede fol. 5r: Die richtige Methode der Wissenschaften verlangt.... fol. 104r Schluss: <strong>5. Mai.</strong></p>\n<p>b) <strong>Vierte (!) Abhandlung zu den vier Büchern des Aristoteles Über die Meteorologie:</strong> fol. 105r–121v. Anfang: Nach Darlegung der allgemeinen Lehre......</p>\n<p>c) <strong>Abhandlung zu den drei Büchern Über die Seele:</strong> fol. 122r–192r. Anfang der Vorrede fol. 123r: Die vorliegende vorliegende (Schreibfehler!) Behandlung der Seele ist........</p>\n<p>d) <strong>Sechste und letzte Abhandlung zu den zwölf Büchern der Metaphysik des Aristoteles:</strong> fol. 194r–248r. Anfang der Vorrede fol. 195r: Die Physik ist nicht die höchste der Wissenschaften..... Schluss fol. 248r: <strong>Wir beendeten [dies] am 17. September 1655.</strong></p>\n<p>Rückenaufschrift: <strong>Über Werden und Vergehen, Meteorologie, Seele und Metaphysik, Handschrift des hochwürdigsten Adam Piringer aus Seitenstetten, 1655.</strong></p>\n<p>Da diese Abhandlungen jene des Codex MN II 70 (siehe oben!) fortsetzen, die von P. Anselm Schlager, Andechser Mönch, vorgetragen wurden, ist es wahrscheinlich, wenn auch nicht sicher, dass derselbe auch diese vorgetragen hat. Dieselben Abhandlungen findet man im folgenden Codex MN II 72.</p>",
+    "latin": "252 foll.; teg. a2 (ut in codice MN II 68); script. 1655\n\na) Tractatus In Duos Libros De Generatione et Corruptione: fol. 4r–104r. Initium Prooemii fol. 5r: Recta scientiarum methodus, exigit.... fol. 104r: Clausula: 5 Maii.\n\nb) Tractatus IV. (!) In Libros IV. Aristotelis De Meteoris: fol. 105r–121v. Initium: Post traditam generalem doctrinam......\n\nc) Tractatus In Tres Libros De Anima: fol. 122r–192r. Initium Prooemii fol. 123r: De anima praesens praesens (lapsus calami!) pertractatio est........\n\nd) Tractatus Sextus et Ultimus In XII Aristotelis Libros Metaphysicos: fol. 194r–248r. Initium Prooemii fol. 195r: Non suprema scientiarum physica est..... Clausula fol. 248r: absolvimus 17 Septembris Anno 1655.\n\nInscriptio dorsi: de generatione et Corruptione, Meteoris, anima, Metaphysica MS. à Reverendissimo Adamo Piringer Seittenstettensi 1655. Quod hi tractatus prosequuntur tractatus codicis MN II 70 (vide supra!) a P. Anselmo Schlager Monacho Andecensi traditos, veri simile, etsi non certum est, eundem etiam hos tradidisse. Eosdem tractatus invenies in proximo codice MN II 72.",
+    "latinHtml": "<p>252 foll.; teg. a2 (ut in codice MN II 68); script. 1655</p>\n<p>a) Tractatus In Duos Libros De Generatione et Corruptione: fol. 4r–104r. Initium Prooemii fol. 5r: Recta scientiarum methodus, exigit.... fol. 104r: Clausula: 5 Maii.</p>\n<p>b) Tractatus IV. (!) In Libros IV. Aristotelis De Meteoris: fol. 105r–121v. Initium: Post traditam generalem doctrinam......</p>\n<p>c) Tractatus In Tres Libros De Anima: fol. 122r–192r. Initium Prooemii fol. 123r: De anima praesens praesens (lapsus calami!) pertractatio est........</p>\n<p>d) Tractatus Sextus et Ultimus In XII Aristotelis Libros Metaphysicos: fol. 194r–248r. Initium Prooemii fol. 195r: Non suprema scientiarum physica est..... Clausula fol. 248r: absolvimus 17 Septembris Anno 1655.</p>\n<p>Inscriptio dorsi: de generatione et Corruptione, Meteoris, anima, Metaphysica MS. à Reverendissimo Adamo Piringer Seittenstettensi 1655. Quod hi tractatus prosequuntur tractatus codicis MN II 70 (vide supra!) a P. Anselmo Schlager Monacho Andecensi traditos, veri simile, etsi non certum est, eundem etiam hos tradidisse. Eosdem tractatus invenies in proximo codice MN II 72.</p>"
+  },
+  "source": {
+    "file": "MN II 71.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-71/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 70]]",
+      "targetId": "mn-ii-70",
+      "targetSignature": "MN II 70",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 72]]",
+      "targetId": "mn-ii-72",
+      "targetSignature": "MN II 72",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 71",
+    "titles": "Tractatus In Duos Libros De Generatione et Corruptione \nTractatus In Duos Libros De Generatione et Corruptione \nTractatus IV. In Libros IV. Aristotelis De Meteoris \nTractatus In Tres Libros De Anima \nTractatus Sextus et Ultimus In XII Aristotelis Libros Metaphysicos",
+    "persons": "Adam Piringer Schreiber scribe \nP. Anselm Schlager Dozent lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n252 Blätter \ncode: a2; description: Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

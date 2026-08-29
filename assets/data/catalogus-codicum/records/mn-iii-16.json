@@ -1,0 +1,270 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-16",
+  "signature": "MN III 16",
+  "aliases": [
+    "Bibl. Cod. MN III 16"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "167",
+  "heading": {
+    "title": "Notata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1700"
+  },
+  "date": {
+    "display": "um 1700",
+    "intervals": [
+      {
+        "from": 1700,
+        "to": 1700,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Notata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–79",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Nota Ex Regula S: Basilii, Translatores Ruffino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 81–132",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Epistola De vitae honestate ad Gregorium Nazianzenum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 132–136",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Vita et ortus S: P: Basilii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 136–138",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Ex Regula S: Augustini quaedam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 139–148",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Ex Regula Fratrum Minorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 149–152",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Laus Sacrosanctae Religionis ex homilia S. Bernardi (?)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 153–160",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "De tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 161–167",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Einband verloren.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1700",
+        "intervals": [
+          {
+            "from": 1700,
+            "to": 1700,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; Einband verloren; 168 Seiten; geschrieben um 1700.\n\na) **Kurze Notizen aus dem sehr gelehrten Herrn Johannes Trithemius, Abt von Sponheim, über berühmte Männer unseres heiligen Ordens:** S. 1–79.\n\nb) **Notizen aus der Regel des hl. Basilius in der Übersetzung Rufins:** S. 81–132.\n\nc) **Brief über ehrbaren Lebenswandel an Gregor von Nazianz:** S. 132–136.\n\nd) **Leben und Herkunft des hl. Vaters Basilius:** S. 136–138.\n\ne) **Einige Stücke aus der Regel des hl. Augustinus:** S. 139–148.\n\nf) **Aus der Regel der Minderbrüder:** S. 149–152.\n\ng) **Lob des heiligen Ordens aus einer Homilie des hl. Bernhard (?)** zu „Das Himmelreich ist gleich einem Kaufmann“ S. 153–156 und zu „Siehe, wir haben alles verlassen“ S. 156–160.\n\nh) **Über die drei Gelübde, besonders das Gelübde des Gehorsams, aus dem 18. Opusculum des hl. Thomas von Aquin über die Vollkommenheit des geistlichen Lebens:** S. 161–167.\n\nDa im Codex weder eine Jahreszahl noch der Name des Verfassers beziehungsweise Kompilators vorkommt, der vielleicht zugleich Schreiber war, lässt sich die Entstehungszeit nur aus der Schrift erschließen. Der Katalogbearbeiter datiert das Büchlein ungefähr um 1700.",
+    "germanHtml": "<p>Kleines Oktavformat; Einband verloren; 168 Seiten; geschrieben um 1700.</p>\n<p>a) <strong>Kurze Notizen aus dem sehr gelehrten Herrn Johannes Trithemius, Abt von Sponheim, über berühmte Männer unseres heiligen Ordens:</strong> S. 1–79.</p>\n<p>b) <strong>Notizen aus der Regel des hl. Basilius in der Übersetzung Rufins:</strong> S. 81–132.</p>\n<p>c) <strong>Brief über ehrbaren Lebenswandel an Gregor von Nazianz:</strong> S. 132–136.</p>\n<p>d) <strong>Leben und Herkunft des hl. Vaters Basilius:</strong> S. 136–138.</p>\n<p>e) <strong>Einige Stücke aus der Regel des hl. Augustinus:</strong> S. 139–148.</p>\n<p>f) <strong>Aus der Regel der Minderbrüder:</strong> S. 149–152.</p>\n<p>g) <strong>Lob des heiligen Ordens aus einer Homilie des hl. Bernhard (?)</strong> zu „Das Himmelreich ist gleich einem Kaufmann“ S. 153–156 und zu „Siehe, wir haben alles verlassen“ S. 156–160.</p>\n<p>h) <strong>Über die drei Gelübde, besonders das Gelübde des Gehorsams, aus dem 18. Opusculum des hl. Thomas von Aquin über die Vollkommenheit des geistlichen Lebens:</strong> S. 161–167.</p>\n<p>Da im Codex weder eine Jahreszahl noch der Name des Verfassers beziehungsweise Kompilators vorkommt, der vielleicht zugleich Schreiber war, lässt sich die Entstehungszeit nur aus der Schrift erschließen. Der Katalogbearbeiter datiert das Büchlein ungefähr um 1700.</p>",
+    "latin": "8° min.; tegumentum perditum; 168 pagg.; script. ca. 1700\n\na) Notata brevia Ex Domino Joanne Trithemio Spantheimensi (= monasterii Sponheim) Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri: p. 1–79.\n\nb) Nota Ex Regula S: Basilii, Translatores Ruffino: p. 81–132.\n\nc) Epistola De vitae honestate ad Gregorium Nazianzenum: p. 132–136.\n\nd) Vita et ortus S: P: Basilii: p. 136–138.\n\ne) Ex Regula S: Augustini quaedam: p. 139–148.\n\nf) Ex Regula Fratrum Minorum: p. 149–152.\n\ng) Laus Sacrosanctae Religionis ex homilia S. Bernardi (?): simile est regnum coelorum homini negotiatori: p. 153–156, in Evangelium: ecce nos reliquimus omnia: p. 156–160.\n\nh) De tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis: p. 161–167.\n\nQuoniam numerus annalis nusquam reperitur in codice nostro neque auctor vel potius compilator huius collectionis, qui fortasse ipse codicem scripsit, notus est, ex sola scriptura conicere poteris, quando codex noster ortus sit. Quantum ad me puto codicillum hunc circa annum 1700 scriptum esse.",
+    "latinHtml": "<p>8° min.; tegumentum perditum; 168 pagg.; script. ca. 1700</p>\n<p>a) Notata brevia Ex Domino Joanne Trithemio Spantheimensi (= monasterii Sponheim) Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri: p. 1–79.</p>\n<p>b) Nota Ex Regula S: Basilii, Translatores Ruffino: p. 81–132.</p>\n<p>c) Epistola De vitae honestate ad Gregorium Nazianzenum: p. 132–136.</p>\n<p>d) Vita et ortus S: P: Basilii: p. 136–138.</p>\n<p>e) Ex Regula S: Augustini quaedam: p. 139–148.</p>\n<p>f) Ex Regula Fratrum Minorum: p. 149–152.</p>\n<p>g) Laus Sacrosanctae Religionis ex homilia S. Bernardi (?): simile est regnum coelorum homini negotiatori: p. 153–156, in Evangelium: ecce nos reliquimus omnia: p. 156–160.</p>\n<p>h) De tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis: p. 161–167.</p>\n<p>Quoniam numerus annalis nusquam reperitur in codice nostro neque auctor vel potius compilator huius collectionis, qui fortasse ipse codicem scripsit, notus est, ex sola scriptura conicere poteris, quando codex noster ortus sit. Quantum ad me puto codicillum hunc circa annum 1700 scriptum esse.</p>"
+  },
+  "source": {
+    "file": "MN III 16.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-16/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 16",
+    "titles": "Notata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri \nNotata brevia Ex Domino Joanne Trithemio Spantheimensi Abbate Doctissimo De Viris Illustribus Sacrosancti Ordinis Nostri \nNota Ex Regula S: Basilii, Translatores Ruffino \nEpistola De vitae honestate ad Gregorium Nazianzenum \nVita et ortus S: P: Basilii \nEx Regula S: Augustini quaedam \nEx Regula Fratrum Minorum \nLaus Sacrosanctae Religionis ex homilia S. Bernardi (?) \nDe tribus et praecipuè obedientiae voto Ex S: Thomae Aquinatis opusculo 18 de perfectione (?) vitae spiritualis",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband verloren."
+  }
+}

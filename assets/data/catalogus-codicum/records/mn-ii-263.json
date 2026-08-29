@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-263",
+  "signature": "MN II 263",
+  "aliases": [
+    "Bibl. Cod. MN II 263"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "199–200",
+  "heading": {
+    "title": "De Sponsalibus",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1715"
+  },
+  "date": {
+    "display": "ca. 1715",
+    "intervals": [
+      {
+        "from": 1715,
+        "to": 1715,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "De Sponsalibus",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De Sponsalibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–41v",
+      "language": "",
+      "incipit": {
+        "text": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Hieronymus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "43 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1715",
+        "intervals": [
+          {
+            "from": 1715,
+            "to": 1715,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "43 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1715.\n\n**Über Verlöbnisse:** fol. 1r–41v.\n\nAnfang des ersten Kapitels **Über die erste Bedingung der Verlöbnisse, dass sie ein gegenseitiges Versprechen seien:** Zu beachten ist erstens: Verlöbnisse heißen teils solche über die Gegenwart, teils solche über die Zukunft;.....\n\nDer Verfasser ist unbekannt. Aus der Ähnlichkeit der Schrift vermute ich jedoch, dass **P. Hieronymus Hueber** der Schreiber war; daher dürfte der Codex um 1715 entstanden sein, allerdings nicht ohne Zweifel.\n\n> **Handschriftlicher Nachtrag am unteren Rand:** nur teilweise lesbar; nicht sicher transkribiert.",
+    "germanHtml": "<p>43 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1715.</p>\n<p><strong>Über Verlöbnisse:</strong> fol. 1r–41v.</p>\n<p>Anfang des ersten Kapitels <strong>Über die erste Bedingung der Verlöbnisse, dass sie ein gegenseitiges Versprechen seien:</strong> Zu beachten ist erstens: Verlöbnisse heißen teils solche über die Gegenwart, teils solche über die Zukunft;.....</p>\n<p>Der Verfasser ist unbekannt. Aus der Ähnlichkeit der Schrift vermute ich jedoch, dass <strong>P. Hieronymus Hueber</strong> der Schreiber war; daher dürfte der Codex um 1715 entstanden sein, allerdings nicht ohne Zweifel.</p>\n<blockquote><p><strong>Handschriftlicher Nachtrag am unteren Rand:</strong> nur teilweise lesbar; nicht sicher transkribiert.</p></blockquote>",
+    "latin": "43 foll.; teg. a1; script. ca. 1715\n\n**De Sponsalibus:** fol. 1r–41v.  \nInitium Capitis Primi. De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro;.....\n\nAuctor ignotus; scriptorem vero esse **P. Hieronymum Hueber** e similitudine scribendi coniicio, ideoque codicem circa annum 1715 ortum esse, sed non sine dubiis.\n\n> **Handschriftlicher Nachtrag am unteren Rand:** nur teilweise lesbar; nicht sicher transkribiert.",
+    "latinHtml": "<p>43 foll.; teg. a1; script. ca. 1715</p>\n<p><strong>De Sponsalibus:</strong> fol. 1r–41v. Initium Capitis Primi. De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro;.....</p>\n<p>Auctor ignotus; scriptorem vero esse <strong>P. Hieronymum Hueber</strong> e similitudine scribendi coniicio, ideoque codicem circa annum 1715 ortum esse, sed non sine dubiis.</p>\n<blockquote><p><strong>Handschriftlicher Nachtrag am unteren Rand:</strong> nur teilweise lesbar; nicht sicher transkribiert.</p></blockquote>"
+  },
+  "source": {
+    "file": "MN II 263.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-263/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 263",
+    "titles": "De Sponsalibus \nDe Sponsalibus",
+    "persons": "P. Hieronymus Hueber Schreiber scribe \nunbekannt Autor author",
+    "incipits": "De prima Sponsalium conditione, ut sint promissio mutua. Nota: 1. Sponsalia alia dicuntur de praesenti, alia de futuro",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n43 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

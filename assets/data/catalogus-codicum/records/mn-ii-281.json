@@ -1,0 +1,263 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-281",
+  "signature": "MN II 281",
+  "aliases": [
+    "Bibl. Cod. MN II 281"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "229",
+  "heading": {
+    "title": "Tractatus Scholastico-Positivus De Jure, et Justitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1751"
+  },
+  "date": {
+    "display": "1751",
+    "intervals": [
+      {
+        "from": 1751,
+        "to": 1751,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholastico-Positivus De Jure, et Justitia",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Positivus De Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–269",
+      "language": "",
+      "incipit": {
+        "text": "Virtutum moralium praecipuae sunt"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "21. August 1751, Nachmittagsvorlesung"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Parerga ex Tractatu De Jure, et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 270–272",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Unter P. Benedictus Veit verteidigt; die zugeordneten Kandidaten sind im Katalogtext einzeln genannt."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "10. September 1751, vormittags und nachmittags"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Veit",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictatus“ bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "276 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1751",
+        "intervals": [
+          {
+            "from": 1751,
+            "to": 1751,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "276 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751.\n\n**Scholastisch-positive Abhandlung über Recht und Gerechtigkeit**, diktiert von P. Benedictus Veit im Jahr 1751, beginnend am 16. Juni.\n\na) **Scholastisch-positive Abhandlung über Recht und Gerechtigkeit:** S. 5–269. Anfang: Die vornehmsten moralischen Tugenden sind,...... Schluss: **Wir beendeten [dies] am 21. August in der Nachmittagsvorlesung 1751.**\n\nb) **Parerga aus der Abhandlung über Recht und Gerechtigkeit:** S. 270–272. Schluss: **Diese Parerga wurden am 10. September 1751 vormittags und nachmittags unter dem Professor P. Benedictus Veit verteidigt.**\n\nDieser Codex ist Band IV des scholastisch-theologischen Kurses im Kloster Seitenstetten. Der Schreiber ist unbekannt, obwohl derselbe auch die drei vorhergehenden und die vier folgenden Codices schrieb.\n\nAuch hier ist zu beachten, dass zu jedem Parergon der Kandidat vermerkt ist, dem es in der Prüfung gestellt wurde: bei Nr. 5 Fr. Paulus Schober, 6 Fr. Udalricus Digl, 8 Fr. Anselmus Wisgrill, 17 Fr. Leander Lieb, 20 Fr. Michael Rothmayr, 24 Fr. Odilo Felber und 29 Fr. Emmeramus Kolb. Die Namen sind am Rand teilweise vom Buchbinder beschnitten. Fr. Odilo Felber legte 1750, die übrigen 1749 in Seitenstetten Profess ab.",
+    "germanHtml": "<p>276 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751.</p>\n<p><strong>Scholastisch-positive Abhandlung über Recht und Gerechtigkeit</strong>, diktiert von P. Benedictus Veit im Jahr 1751, beginnend am 16. Juni.</p>\n<p>a) <strong>Scholastisch-positive Abhandlung über Recht und Gerechtigkeit:</strong> S. 5–269. Anfang: Die vornehmsten moralischen Tugenden sind,...... Schluss: <strong>Wir beendeten [dies] am 21. August in der Nachmittagsvorlesung 1751.</strong></p>\n<p>b) <strong>Parerga aus der Abhandlung über Recht und Gerechtigkeit:</strong> S. 270–272. Schluss: <strong>Diese Parerga wurden am 10. September 1751 vormittags und nachmittags unter dem Professor P. Benedictus Veit verteidigt.</strong></p>\n<p>Dieser Codex ist Band IV des scholastisch-theologischen Kurses im Kloster Seitenstetten. Der Schreiber ist unbekannt, obwohl derselbe auch die drei vorhergehenden und die vier folgenden Codices schrieb.</p>\n<p>Auch hier ist zu beachten, dass zu jedem Parergon der Kandidat vermerkt ist, dem es in der Prüfung gestellt wurde: bei Nr. 5 Fr. Paulus Schober, 6 Fr. Udalricus Digl, 8 Fr. Anselmus Wisgrill, 17 Fr. Leander Lieb, 20 Fr. Michael Rothmayr, 24 Fr. Odilo Felber und 29 Fr. Emmeramus Kolb. Die Namen sind am Rand teilweise vom Buchbinder beschnitten. Fr. Odilo Felber legte 1750, die übrigen 1749 in Seitenstetten Profess ab.</p>",
+    "latin": "276 pagg.; teg. c3d; script. 1751\n\n**Tractatus Scholastico-Positivus De Jure, et Justitia Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751 à die decima sexta Junii.**\n\na) Tractatus Scholastico-Positivus De Jure et Justitia: p. 5–269.  \nInitium: Virtutum moralium praecipuae sunt,......  \nClausula: Finivimus 21. Augusti in pomeridiana lectione. 1751.\n\nb) Parerga ex Tractatu De Jure, et Justitia: p. 270–272.  \nClausula: Propugnata (scilicet: sunt haec parerga) decima Septembris. 1751. Horis ante- et Po-meridianis. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P: Benedicto Veith.\n\nHic codex tomus IV est cursus theologiae scholasticae in Monasterio Seitenstettensi traditi (de quo supra p. 227!). Scriptor, etiamsi tres praecedentes et quattuor sequentes codices idem exaravit, ignotus.\n\nEtiam in hoc codice notetur, quod parergon unicuique candidato in examine propositum sit; nam nomen F. Pauli Schober ad 5., F. Udalrici Digl ad 6., F. Anselmi Wisgrill ad 8., F. Leandri Lieb ad 17., F. Michaelis Rothmayr ad 20., F. Odilonis Felber ad 24., F. Emmerami Kolb ad 29. parergon in margine (etsi a bibliopego praecisum) notatum est. F. Odilo Felber anno 1750, ceteri anno 1749 in monasterio Seitenstettensi vota nuncupaverant.",
+    "latinHtml": "<p>276 pagg.; teg. c3d; script. 1751</p>\n<p><strong>Tractatus Scholastico-Positivus De Jure, et Justitia Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751 à die decima sexta Junii.</strong></p>\n<p>a) Tractatus Scholastico-Positivus De Jure et Justitia: p. 5–269. Initium: Virtutum moralium praecipuae sunt,...... Clausula: Finivimus 21. Augusti in pomeridiana lectione. 1751.</p>\n<p>b) Parerga ex Tractatu De Jure, et Justitia: p. 270–272. Clausula: Propugnata (scilicet: sunt haec parerga) decima Septembris. 1751. Horis ante- et Po-meridianis. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P: Benedicto Veith.</p>\n<p>Hic codex tomus IV est cursus theologiae scholasticae in Monasterio Seitenstettensi traditi (de quo supra p. 227!). Scriptor, etiamsi tres praecedentes et quattuor sequentes codices idem exaravit, ignotus.</p>\n<p>Etiam in hoc codice notetur, quod parergon unicuique candidato in examine propositum sit; nam nomen F. Pauli Schober ad 5., F. Udalrici Digl ad 6., F. Anselmi Wisgrill ad 8., F. Leandri Lieb ad 17., F. Michaelis Rothmayr ad 20., F. Odilonis Felber ad 24., F. Emmerami Kolb ad 29. parergon in margine (etsi a bibliopego praecisum) notatum est. F. Odilo Felber anno 1750, ceteri anno 1749 in monasterio Seitenstettensi vota nuncupaverant.</p>"
+  },
+  "source": {
+    "file": "MN II 281.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-281/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 281",
+    "titles": "Tractatus Scholastico-Positivus De Jure, et Justitia \nTractatus Scholastico-Positivus De Jure et Justitia \nParerga ex Tractatu De Jure, et Justitia",
+    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Virtutum moralium praecipuae sunt",
+    "explicits": "",
+    "notes": "Unter P. Benedictus Veit verteidigt; die zugeordneten Kandidaten sind im Katalogtext einzeln genannt.",
+    "physical": "Papier \n276 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

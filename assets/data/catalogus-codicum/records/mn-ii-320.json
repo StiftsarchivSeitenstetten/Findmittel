@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-320",
+  "signature": "MN II 320",
+  "aliases": [
+    "Bibl. Cod. MN II 320"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "177–178",
+  "heading": {
+    "title": "Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1706; zusätzlicher Familienvermerk 1710"
+  },
+  "date": {
+    "display": "1706; zusätzlicher Familienvermerk 1710",
+    "intervals": [
+      {
+        "from": 1706,
+        "to": 1706,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–468",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 469–499",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 501–507",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Zwei weitere medizinische Ratschläge stehen auf der letzten Seite."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannter Liebhaber der Arzneikunst",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "S. A. (?)",
+      "roleRaw": "owner",
+      "roleLabel": "Besitzer",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Die Initialen S und A stehen in Herzzeichnungen auf Vorder- und Rückdeckel."
+    },
+    {
+      "name": "S. A. (?)",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "508 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband in grünlichen Textilstoff eingenäht.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1706; zusätzlicher Familienvermerk 1710",
+        "intervals": [
+          {
+            "from": 1706,
+            "to": 1706,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "family_note",
+      "locus": "S. 1",
+      "date": "1710-12-20",
+      "description": "Stark verblasster und mehrfach überschriebener Geburtsvermerk zu einem Sohn Sebastian Sigimundus; mehrere Lesungen bleiben unsicher."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "508 Seiten; der Einband ist in einen grünlichen Textilstoff eingenäht.\n\n**Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706:** S. 1–468.\n\n**Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet:** S. 469–499.\n\nVorder- und Rückseite des Einbandes sind jeweils mit der Zeichnung eines Herzens geschmückt. Im Herzen des Vorderdeckels steht der Buchstabe **S**, in jenem des Rückdeckels **A**. Wahrscheinlich handelt es sich um die Initialen des Besitzers, vielleicht auch des Schreibers.\n\nS. 501–507 folgen einige medizinische Ratschläge unter dem Titel: **Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben.** Zwei weitere medizinische Ratschläge stehen auf der letzten Seite.\n\nAuf S. 1 sind einige Zeilen geschrieben, sehr blass und später spielerisch mehrfach überschrieben, weshalb sie schwer zu lesen sind:\n\n**In Namen Der aller Heylligisten Dreyfallig Keit anno 1710 den 20 December umb ein Ur (?) in der frue (?) ist born (?) worden mein sonn gott Verley im glich (= Glück) und segen deß (?) Ward in leben sein (?) Sebastian Sigimundus brobßeraman (?) Sein gütt ist der gnedig herr in schloßderfar (?) Haubtman.**\n\nDer Katalog erläutert **gett** als *Patrinus* = Gödt/Pate.",
+    "germanHtml": "<p>508 Seiten; der Einband ist in einen grünlichen Textilstoff eingenäht.</p>\n<p><strong>Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706:</strong> S. 1–468.</p>\n<p><strong>Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet:</strong> S. 469–499.</p>\n<p>Vorder- und Rückseite des Einbandes sind jeweils mit der Zeichnung eines Herzens geschmückt. Im Herzen des Vorderdeckels steht der Buchstabe <strong>S</strong>, in jenem des Rückdeckels <strong>A</strong>. Wahrscheinlich handelt es sich um die Initialen des Besitzers, vielleicht auch des Schreibers.</p>\n<p>S. 501–507 folgen einige medizinische Ratschläge unter dem Titel: <strong>Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben.</strong> Zwei weitere medizinische Ratschläge stehen auf der letzten Seite.</p>\n<p>Auf S. 1 sind einige Zeilen geschrieben, sehr blass und später spielerisch mehrfach überschrieben, weshalb sie schwer zu lesen sind:</p>\n<p><strong>In Namen Der aller Heylligisten Dreyfallig Keit anno 1710 den 20 December umb ein Ur (?) in der frue (?) ist born (?) worden mein sonn gott Verley im glich (= Glück) und segen deß (?) Ward in leben sein (?) Sebastian Sigimundus brobßeraman (?) Sein gütt ist der gnedig herr in schloßderfar (?) Haubtman.</strong></p>\n<p>Der Katalog erläutert <strong>gett</strong> als <em>Patrinus</em> = Gödt/Pate.</p>",
+    "latin": "508 pagg.; tegumentum operi textili subviridi insutum est.\n\nArtztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706: p. 1–468.\n\nRegister Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet: p. 469–499.\n\nIn parte adversa et item in parte aversa tegumentum cordis adumbratione ornatum est. In quo corde partis adversae littera S, partis aversae littera A invenitur. Vix errabis, si has litteras initiales possidentis (et scribentis?) esse arbitratus sis.\n\np. 501–507 adduntur aliqua consilia medica sub titulo: Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben. Duo consilia medica etiam in ultima pagina adiecta sunt.\n\np. 1 aliquot lineae scriptae sunt, sed luridissime et postea ludi causa multis lineis superscriptae. Ideo difficiles lectu sunt:\n\nIn Namen Der aller Heylligisten Dreyfallig Keit anno 1710 den 20 December umb ein Ur (?) in der frue (?) ist born (?) worden mein sonn gott Verley im glich (= Glück) und segen deß (?) Ward in leben sein (?) Sebastian Sigimundus brobßeraman (?) Sein gütt ist der gnedig herr in schloßderfar (?) Haubtman. (gett = Patrinus = Gödt)",
+    "latinHtml": "<p>508 pagg.; tegumentum operi textili subviridi insutum est.</p>\n<p>Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706: p. 1–468.</p>\n<p>Register Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet: p. 469–499.</p>\n<p>In parte adversa et item in parte aversa tegumentum cordis adumbratione ornatum est. In quo corde partis adversae littera S, partis aversae littera A invenitur. Vix errabis, si has litteras initiales possidentis (et scribentis?) esse arbitratus sis.</p>\n<p>p. 501–507 adduntur aliqua consilia medica sub titulo: Matthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben. Duo consilia medica etiam in ultima pagina adiecta sunt.</p>\n<p>p. 1 aliquot lineae scriptae sunt, sed luridissime et postea ludi causa multis lineis superscriptae. Ideo difficiles lectu sunt:</p>\n<p>In Namen Der aller Heylligisten Dreyfallig Keit anno 1710 den 20 December umb ein Ur (?) in der frue (?) ist born (?) worden mein sonn gott Verley im glich (= Glück) und segen deß (?) Ward in leben sein (?) Sebastian Sigimundus brobßeraman (?) Sein gütt ist der gnedig herr in schloßderfar (?) Haubtman. (gett = Patrinus = Gödt)</p>"
+  },
+  "source": {
+    "file": "MN II 320.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-320/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 320",
+    "titles": "Artztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706 \nArtztnay Buech Darinen Underschidliche Recipe Wie auch Etliche Chymische stuck Zufinden: Und Mit Fleiß In dises buech Zusamben getragen Worden Durch Einen Liebhaber Dißer Kunst Anno 1706 \nRegister Deren Recipe, Und Mäterien, So In dißen buech Zufinden: Darbey Zue beobachten Ist; Alwo daß N: Stehet; der Numerus zu Suechen ist. 1 Oder daß Züffer bedeutet das bladt: Alwo daß Recipe stehet \nMatthias Gottfried Buramann hat in seiner Chyrurgia folgendts geschriben",
+    "persons": "unbekannter Liebhaber der Arzneikunst Bearbeiter compiler \nS. A. (?) Besitzer owner \nS. A. (?) Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Zwei weitere medizinische Ratschläge stehen auf der letzten Seite.",
+    "physical": "Papier \n508 pagg. \ndescription: Einband in grünlichen Textilstoff eingenäht."
+  }
+}

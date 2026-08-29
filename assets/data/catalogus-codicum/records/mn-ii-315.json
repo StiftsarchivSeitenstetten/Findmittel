@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-315",
+  "signature": "MN II 315",
+  "aliases": [
+    "Bibl. Cod. MN II 315"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "281",
+  "heading": {
+    "title": "Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1852"
+  },
+  "date": {
+    "display": "1852",
+    "intervals": [
+      {
+        "from": 1852,
+        "to": 1852,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–92",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Jordan Habert",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "certain"
+    },
+    {
+      "name": "Jordan Habert",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "92 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pappeinband mit grünem Leinenrücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1852",
+        "intervals": [
+          {
+            "from": 1852,
+            "to": 1852,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "92 Seiten; Pappeinband mit grünem Leinenrücken; 1852.\n\n**Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852.**\n\nJordan Habert war der Vater des Seitenstettner Mönchs P. Columbanus Habert. Vielleicht schrieb der Verfasser den Codex eigenhändig.",
+    "germanHtml": "<p>92 Seiten; Pappeinband mit grünem Leinenrücken; 1852.</p>\n<p><strong>Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852.</strong></p>\n<p>Jordan Habert war der Vater des Seitenstettner Mönchs P. Columbanus Habert. Vielleicht schrieb der Verfasser den Codex eigenhändig.</p>",
+    "latin": "92 pagg.; teg. chartaceum, dorsum viridi linteo munitum; 1852\n\n**Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852.**\n\nQui Jordanus Habert erat pater P. Columbani Habert, monachi Seitenstettensis. Fortasse ipse auctor codicem nostrum scripsit.",
+    "latinHtml": "<p>92 pagg.; teg. chartaceum, dorsum viridi linteo munitum; 1852</p>\n<p><strong>Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852.</strong></p>\n<p>Qui Jordanus Habert erat pater P. Columbani Habert, monachi Seitenstettensis. Fortasse ipse auctor codicem nostrum scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 315.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-315/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 315",
+    "titles": "Worte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852 \nWorte für das Leben. Eine Sammlung belehrender Aufsätze zum Gebrauche für die Sonntagsschüler, sowie für die erwachsene Jugend. Verfaßt von Jordan Habert, Lehrer. 1852",
+    "persons": "Jordan Habert Autor author \nJordan Habert Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n92 pagg. \ndescription: Pappeinband mit grünem Leinenrücken."
+  }
+}

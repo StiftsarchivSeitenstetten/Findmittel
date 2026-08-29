@@ -1,0 +1,182 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-311",
+  "signature": "MN II 311",
+  "aliases": [
+    "Bibl. Cod. MN II 311"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "272–273",
+  "heading": {
+    "title": "Vom Amte des Wortes, oder vom Religions-Unterrichte",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1800 (?)"
+  },
+  "date": {
+    "display": "um 1800 (?)",
+    "intervals": [
+      {
+        "from": 1788,
+        "to": 1793,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Vom Amte des Wortes, oder vom Religions-Unterrichte",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–228",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Argumenta concionum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 241–272",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; am Rand scheint jeweils der Name des Predigers zu stehen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Wolfgang Mitter",
+      "roleRaw": "former_user",
+      "roleLabel": "former user",
+      "scope": "manuscript",
+      "certainty": "certain",
+      "note": "Ein eingelegter Zettel bezeichnet ihn als Benutzer beziehungsweise Zugehörigen des Codex; der Katalog bezweifelt, dass er Schreiber war."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "274 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1800 (?)",
+        "intervals": [
+          {
+            "from": 1788,
+            "to": 1793,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_note",
+      "description": "Zettel mit Zugehörigkeitsvermerk für P. Wolfgang Mitter und einem durchgestrichenen Begräbnisvermerk für Maria Wieserin vom 4. April 1793."
+    }
+  ],
+  "editorialNotes": [
+    "Interne Hinweise sprechen für eine Entstehung nicht vor 1788 und wahrscheinlich nicht nach 1793; die Katalogüberschrift datiert dennoch vorsichtig 'ca. 1800 (?)'."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "274 Seiten; blaugrauer Pappeinband; geschrieben um 1800 (?).\n\na) **Vom Amte des Wortes, oder vom Religions-Unterrichte:** S. 1–228.\n\nb) **(Predigtthemen):** S. 241–272.\n\nIn diesem Codex fand sich ein Zettel. Auf der Vorderseite steht: **Dem Hochwürdigen Herrn Pater Wolfgang (Mitter) gehörig zu St(ift) Seittensteten**, auf der Rückseite: **Anno 1793. den 4ten April ist begraben worden Maria Wieserin ihres Alters 1 Jahr und 1 Monat. Rott Hartlmühl No. 10.**\n\nDie Aufschrift auf der Rückseite, die mit einer Tintenlinie durchgestrichen ist, scheint zur Pfarre Weistrach zu gehören. Zu beachten ist jedoch, dass Vorder- und Rückseite des Zettels von verschiedenen Händen beschrieben wurden; der Codex selbst wiederum stammt von einer dritten Hand.\n\nOb P. Wolfgang Mitter, der diesen Codex benutzte, auch dessen Schreiber war, ist zweifelhaft, denn seine bekannte Schrift ist wesentlich weniger sorgfältig. Der Schreiber bleibt daher unbekannt. Auch der Verfasser von Teil a ist unbekannt.\n\nIn Teil b scheint am Rand zu jeder Predigt der Name des jeweiligen Predigers vermerkt zu sein; S. 243 steht außerdem die Jahreszahl 1788. Unser Codex kann daher nicht vor 1788 entstanden sein. Nach Ansicht des Katalogbearbeiters dürfte er auch nicht nach 1793 geschrieben worden sein, es sei denn, der oben genannte Zettel wurde erst lange nach dem Tod Maria Wiesers in den Codex gelegt.",
+    "germanHtml": "<p>274 Seiten; blaugrauer Pappeinband; geschrieben um 1800 (?).</p>\n<p>a) <strong>Vom Amte des Wortes, oder vom Religions-Unterrichte:</strong> S. 1–228.</p>\n<p>b) <strong>(Predigtthemen):</strong> S. 241–272.</p>\n<p>In diesem Codex fand sich ein Zettel. Auf der Vorderseite steht: <strong>Dem Hochwürdigen Herrn Pater Wolfgang (Mitter) gehörig zu St(ift) Seittensteten</strong>, auf der Rückseite: <strong>Anno 1793. den 4ten April ist begraben worden Maria Wieserin ihres Alters 1 Jahr und 1 Monat. Rott Hartlmühl No. 10.</strong></p>\n<p>Die Aufschrift auf der Rückseite, die mit einer Tintenlinie durchgestrichen ist, scheint zur Pfarre Weistrach zu gehören. Zu beachten ist jedoch, dass Vorder- und Rückseite des Zettels von verschiedenen Händen beschrieben wurden; der Codex selbst wiederum stammt von einer dritten Hand.</p>\n<p>Ob P. Wolfgang Mitter, der diesen Codex benutzte, auch dessen Schreiber war, ist zweifelhaft, denn seine bekannte Schrift ist wesentlich weniger sorgfältig. Der Schreiber bleibt daher unbekannt. Auch der Verfasser von Teil a ist unbekannt.</p>\n<p>In Teil b scheint am Rand zu jeder Predigt der Name des jeweiligen Predigers vermerkt zu sein; S. 243 steht außerdem die Jahreszahl 1788. Unser Codex kann daher nicht vor 1788 entstanden sein. Nach Ansicht des Katalogbearbeiters dürfte er auch nicht nach 1793 geschrieben worden sein, es sei denn, der oben genannte Zettel wurde erst lange nach dem Tod Maria Wiesers in den Codex gelegt.</p>",
+    "latin": "274 pagg.; teg. chartaceum caesium; scriptus ca. 1800 (?)\n\na) **Vom Amte des Wortes, oder vom Religions-Unterrichte:** p. 1–228.\n\nb) **(Argumenta concionum):** p. 241–272.\n\nIn hoc codice inventa est schedula, cui rectae inscriptum est: **Dem Hochwürdigen Herrn Pater Wolfgang (Mitter) gehörig zu St(ift) Seittensteten**, versae autem: **Anno 1793. den 4ten April ist begraben worden Maria Wieserin ihres Alters 1 Jahr und 1 Monat. Rott Hartlmühl No. 10.** Inscriptio schedulae versae (quae linea atramenti deleta est) videtur ad parochiam Weistrahensem pertinere. Adverte tamen schedulam rectam ab alia manu inscriptam esse quam versam, codicem nostrum autem neque ab hac neque ab illa, sed a tertia manu. Dubito autem, num ipse P. Wolfgangus Mitter, qui hoc codice utebatur, scriptor sit codicis. Novimus enim scripturam eius multo minus diligentem esse. Qua de re scriptorem codicis nostri nescimus. Sed et auctor partis a ignotus est. In parte autem b ad singulas conciones in margine nomen concionatoris videtur notatum esse, et p. 243 etiam annus 1788. Itaque ante annum 1788 non est ortus codex noster. Sed et post 1793, ni fallor, non est ortus, nisi forte schedula, quam supra exscripsimus, multo post mortem illius Mariae Wieser codici nostro imposita est.",
+    "latinHtml": "<p>274 pagg.; teg. chartaceum caesium; scriptus ca. 1800 (?)</p>\n<p>a) <strong>Vom Amte des Wortes, oder vom Religions-Unterrichte:</strong> p. 1–228.</p>\n<p>b) <strong>(Argumenta concionum):</strong> p. 241–272.</p>\n<p>In hoc codice inventa est schedula, cui rectae inscriptum est: <strong>Dem Hochwürdigen Herrn Pater Wolfgang (Mitter) gehörig zu St(ift) Seittensteten</strong>, versae autem: <strong>Anno 1793. den 4ten April ist begraben worden Maria Wieserin ihres Alters 1 Jahr und 1 Monat. Rott Hartlmühl No. 10.</strong> Inscriptio schedulae versae (quae linea atramenti deleta est) videtur ad parochiam Weistrahensem pertinere. Adverte tamen schedulam rectam ab alia manu inscriptam esse quam versam, codicem nostrum autem neque ab hac neque ab illa, sed a tertia manu. Dubito autem, num ipse P. Wolfgangus Mitter, qui hoc codice utebatur, scriptor sit codicis. Novimus enim scripturam eius multo minus diligentem esse. Qua de re scriptorem codicis nostri nescimus. Sed et auctor partis a ignotus est. In parte autem b ad singulas conciones in margine nomen concionatoris videtur notatum esse, et p. 243 etiam annus 1788. Itaque ante annum 1788 non est ortus codex noster. Sed et post 1793, ni fallor, non est ortus, nisi forte schedula, quam supra exscripsimus, multo post mortem illius Mariae Wieser codici nostro imposita est.</p>"
+  },
+  "source": {
+    "file": "MN II 311.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-311/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 311",
+    "titles": "Vom Amte des Wortes, oder vom Religions-Unterrichte \nVom Amte des Wortes, oder vom Religions-Unterrichte \nArgumenta concionum",
+    "persons": "unbekannt Schreiber scribe \nunbekannt Autor author \nP. Wolfgang Mitter former user former_user",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; am Rand scheint jeweils der Name des Predigers zu stehen. \nInterne Hinweise sprechen für eine Entstehung nicht vor 1788 und wahrscheinlich nicht nach 1793; die Katalogüberschrift datiert dennoch vorsichtig 'ca. 1800 (?)'.",
+    "physical": "Papier \n274 pagg. \ndescription: Blaugrauer Pappeinband."
+  }
+}

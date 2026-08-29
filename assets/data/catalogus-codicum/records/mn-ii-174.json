@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-174",
+  "signature": "MN II 174",
+  "aliases": [
+    "Bibl. Cod. MN II 174"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "134–135",
+  "heading": {
+    "title": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1692"
+  },
+  "date": {
+    "display": "1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–255v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1692-08-30"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Edmund Ruedorffer",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "Kloster Lambach / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung wird durch den Vergleich mit MN II 170 erschlossen."
+    },
+    {
+      "name": "Fr. Gabriel Sumadtinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "256 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "256 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.\n\n**Abhandlung über die Menschwerdung des göttlichen Wortes zum dritten Teil des hl. Thomas.**\n\nAnfang der Vorrede fol. 1r: Vom fleischgewordenen Wort nehmen wir den Anfang unserer Theologie..... Schluss fol. 255v: **Wir beendeten diese Abhandlung am 30. August 1692 nach dem Mittagessen.**\n\nInitialen auf dem Vorderdeckel: **F G S P S** = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1693. Somit schrieb auch diesen Codex derselbe Schreiber wie die vier vorhergehenden und sieben folgenden.\n\nDen Verfasser erkennt man durch Vergleich mit MN II 170: P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg.",
+    "germanHtml": "<p>256 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.</p>\n<p><strong>Abhandlung über die Menschwerdung des göttlichen Wortes zum dritten Teil des hl. Thomas.</strong></p>\n<p>Anfang der Vorrede fol. 1r: Vom fleischgewordenen Wort nehmen wir den Anfang unserer Theologie..... Schluss fol. 255v: <strong>Wir beendeten diese Abhandlung am 30. August 1692 nach dem Mittagessen.</strong></p>\n<p>Initialen auf dem Vorderdeckel: <strong>F G S P S</strong> = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1693. Somit schrieb auch diesen Codex derselbe Schreiber wie die vier vorhergehenden und sieben folgenden.</p>\n<p>Den Verfasser erkennt man durch Vergleich mit MN II 170: P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg.</p>",
+    "latin": "256 foll.; teg. a2; script. 1692\n\nTractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae.  \nInitium Prooemii fol. 1r: A Verbo Incarnato Theologiae nostrae exordium ducimus,..... Clausula fol. 255v: Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.\n\nLitterae initiales in parte adversa tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1 6 9 3. Scripsit ergo codicem nostrum idem, qui quattuor praecedentes et septem sequentes. Auctorem vero codicis nostri invenies, si comparaveris codicem nostrum cum codice MN II 170 (supra p. 132!), quippe qui eundem tractatum a P. Edmundo Ruedorffer professo Lambacensi et professore Salisburgensi doceat dictatum esse.",
+    "latinHtml": "<p>256 foll.; teg. a2; script. 1692</p>\n<p>Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae. Initium Prooemii fol. 1r: A Verbo Incarnato Theologiae nostrae exordium ducimus,..... Clausula fol. 255v: Absolvimus Hunc Tractatum Die 30 Augusti 1692. Postprandium.</p>\n<p>Litterae initiales in parte adversa tegumenti: F G S P S (= F. Gabriel Sumadtinger Professus Seittenstettensis) 1 6 9 3. Scripsit ergo codicem nostrum idem, qui quattuor praecedentes et septem sequentes. Auctorem vero codicis nostri invenies, si comparaveris codicem nostrum cum codice MN II 170 (supra p. 132!), quippe qui eundem tractatum a P. Edmundo Ruedorffer professo Lambacensi et professore Salisburgensi doceat dictatum esse.</p>"
+  },
+  "source": {
+    "file": "MN II 174.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-174/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 170]]",
+      "targetId": "mn-ii-170",
+      "targetSignature": "MN II 170",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 174",
+    "titles": "Tractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae \nTractatus De Incarnatione Verbi Divini in tertiam partem Divi Thomae",
+    "persons": "P. Edmund Ruedorffer author or lecturer author_or_lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n256 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

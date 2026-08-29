@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-162",
+  "signature": "MN II 162",
+  "aliases": [
+    "Bibl. Cod. MN II 162"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "116",
+  "heading": {
+    "title": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1686/87"
+  },
+  "date": {
+    "display": "1686/87",
+    "intervals": [
+      {
+        "from": 1686,
+        "to": 1687,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_parallel",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prima De Virtute et obiecto Justitiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–302",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Disputatio Secunda De Restitutione in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 303–393",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Disputatio tertia De Iniuriis et Restitutione in Specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 393–548",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "St. Peter in Salzburg / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung ergibt sich aus der nahezu wörtlichen Übereinstimmung mit MN II 148 und MN II 159."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "548 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1686/87",
+        "intervals": [
+          {
+            "from": 1686,
+            "to": 1687,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_parallel",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "548 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**(Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen).**\n\nAnfang der Vorrede S. 1: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.....\n\na) **Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:** S. 3–302.\n\nb) **Zweite Disputation über Restitution im Allgemeinen:** S. 303–393.\n\nc) **Dritte Disputation über Unrecht und Restitution im Einzelnen:** S. 393–548.\n\nDer Schreiber, der auch den folgenden Codex schrieb, ist unbekannt. Dieselbe Abhandlung enthalten MN II 148 und MN II 159; daher besteht kein Zweifel, dass Verfasser P. Paulus Mezger, Profess von St. Peter in Salzburg und dort Theologieprofessor, war. Da alle drei Codices beinahe wortgleich sind, dürfte auch dieser im Studienjahr 1686/87 geschrieben worden sein.",
+    "germanHtml": "<p>548 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.</p>\n<p><strong>(Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen).</strong></p>\n<p>Anfang der Vorrede S. 1: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.....</p>\n<p>a) <strong>Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:</strong> S. 3–302.</p>\n<p>b) <strong>Zweite Disputation über Restitution im Allgemeinen:</strong> S. 303–393.</p>\n<p>c) <strong>Dritte Disputation über Unrecht und Restitution im Einzelnen:</strong> S. 393–548.</p>\n<p>Der Schreiber, der auch den folgenden Codex schrieb, ist unbekannt. Dieselbe Abhandlung enthalten MN II 148 und MN II 159; daher besteht kein Zweifel, dass Verfasser P. Paulus Mezger, Profess von St. Peter in Salzburg und dort Theologieprofessor, war. Da alle drei Codices beinahe wortgleich sind, dürfte auch dieser im Studienjahr 1686/87 geschrieben worden sein.</p>",
+    "latin": "548 pagg.; teg. a2; script. 1686/87\n\n(Tractatus....De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie).\n\nInitium (Prooemii) p. 1: A Theologicis ad virtutes Cardinales progreditur S. Doctor.....\n\na) Disputatio Prima. De Virtute et obiecto Justitiae: p. 3–302\n\nb) Disputatio Secunda. De Restitutione in genere: p. 303–393\n\nc) Disputatio 3. De Iniuriis et Restitutione in Specie: p. 393–548\n\nScriptor codicis nostri, quamquam etiam codicem sequentem scripsit, tamen ignotus est. Eundem tractatum exhibent etiam codices MN II 148 (supra p. 108!) et MN II 159 (vide supra p. 113/14!). Qua de causa de auctore codicis nostri, scilicet P. Paulo Mezger Professo ad S. Petrum Salisburgi et ibidem Theologiae Professore, ne dubitaveris! Et quia paene ad verbum inter se consonant hi tres codices, etiam codicem nostrum eodem anno scholari 1686/87 scriptum esse atque codices MN II 148 et 159 quis neget?",
+    "latinHtml": "<p>548 pagg.; teg. a2; script. 1686/87</p>\n<p>(Tractatus....De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie).</p>\n<p>Initium (Prooemii) p. 1: A Theologicis ad virtutes Cardinales progreditur S. Doctor.....</p>\n<p>a) Disputatio Prima. De Virtute et obiecto Justitiae: p. 3–302</p>\n<p>b) Disputatio Secunda. De Restitutione in genere: p. 303–393</p>\n<p>c) Disputatio 3. De Iniuriis et Restitutione in Specie: p. 393–548</p>\n<p>Scriptor codicis nostri, quamquam etiam codicem sequentem scripsit, tamen ignotus est. Eundem tractatum exhibent etiam codices MN II 148 (supra p. 108!) et MN II 159 (vide supra p. 113/14!). Qua de causa de auctore codicis nostri, scilicet P. Paulo Mezger Professo ad S. Petrum Salisburgi et ibidem Theologiae Professore, ne dubitaveris! Et quia paene ad verbum inter se consonant hi tres codices, etiam codicem nostrum eodem anno scholari 1686/87 scriptum esse atque codices MN II 148 et 159 quis neget?</p>"
+  },
+  "source": {
+    "file": "MN II 162.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-162/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 148]]",
+      "targetId": "mn-ii-148",
+      "targetSignature": "MN II 148",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 159]]",
+      "targetId": "mn-ii-159",
+      "targetSignature": "MN II 159",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 162",
+    "titles": "Tractatus De Jure et Justitia, De Restitutione, item De Contractibus tam in genere quam specie \nDisputatio Prima De Virtute et obiecto Justitiae \nDisputatio Secunda De Restitutione in genere \nDisputatio tertia De Iniuriis et Restitutione in Specie",
+    "persons": "P. Paulus Mezger author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n548 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-160",
+  "signature": "MN II 160",
+  "aliases": [
+    "Bibl. Cod. MN II 160"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "114–115",
+  "heading": {
+    "title": "Tractatus In Primam Divi Thomae partem De Deo Uno et Trino",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1686/87"
+  },
+  "date": {
+    "display": "1686/87",
+    "intervals": [
+      {
+        "from": 1686,
+        "to": 1687,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus In Primam Divi Thomae partem De Deo Uno et Trino",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prolegomenalis De Natura et qualitatibus Theologiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–89",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Pars Prima De Deo Uno",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 90–611",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-08-25"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda De Deo Trino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 612–662",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-09-02"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Maurus Liechtenhaimb",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Lambrecht"
+    },
+    {
+      "name": "Fr. Placidus Feigler",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Salzburg"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "XI + 663 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten die Unbefleckte Mutter nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1686/87",
+        "intervals": [
+          {
+            "from": 1686,
+            "to": 1687,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "locus": "S. 368",
+      "date": "1687-05-31",
+      "subject": "Abreise zur Abtwahl",
+      "persons": [
+        "Fr. Josephus Koppler",
+        "Fr. Caelestinus Pley",
+        "Fr. Marcus Starnisi",
+        "Fr. Maximilianus Steger",
+        "Graf Friedrich Preysing"
+      ],
+      "note": "Vier Mitbrüder brachen mit Graf Friedrich Preysing zu einer im Vermerk als Abtwahl bezeichneten Reise auf; einzelne Formulierungen des Katalogtexts sind unsicher."
+    },
+    {
+      "type": "later_note",
+      "locus": "S. 368",
+      "text": "NB. Der die Discesserunt election etc hier fert die E. [unleserlich]",
+      "certainty": "uncertain"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "XI + 663 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne **IHS**, hinten die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1686/87.\n\n**Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott**, vorgetragen von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht in der Steiermark, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Placidus Feigler, Benediktiner und Profess von Seitenstetten, damals sein Schüler in Salzburg, 1687.\n\nAnfang der Vorrede S. X: Wir nehmen eine schwierige Sache in Angriff, wenn wir Gott zu betrachten versuchen.....\n\na) **Vorbereitende Disputation über Natur und Eigenschaften der Theologie:** S. 1–89.\n\nb) **Erster Teil über den einen Gott:** S. 90–611. Schluss: **25. August 1687.**\n\nc) **Zweiter Teil über den dreieinigen Gott:** S. 612–662. Schluss: **2. September 1687.**\n\nDieselbe Abhandlung enthalten auch MN II 163 und Archivcodex 34–11. Fr. Placidus Feigler schrieb auch den vorhergehenden und folgenden Codex.\n\nVermerk S. 368: **Heute, nämlich am 31. Mai morgens um halb sechs, brachen vier Mitbrüder auf, nämlich Fr. Josephus (Koppler), Caelestinus (Pley), Marcus (Starnisi) und Maximilianus (Steger), zusammen mit dem hochgeborenen Herrn Grafen Friedrich Preysing zu unserer (?) Abtwahl (!) am Samstag nach Fronleichnam.**\n\n> **Handschriftlicher Nachtrag:** *NB. Der die Discesserunt election etc hier fert die E. [unleserlich]*",
+    "germanHtml": "<p>XI + 663 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne <strong>IHS</strong>, hinten die <strong>Unbefleckte Mutter nach Apk 12,1</strong>; geschrieben 1686/87.</p>\n<p><strong>Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott</strong>, vorgetragen von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht in der Steiermark, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Placidus Feigler, Benediktiner und Profess von Seitenstetten, damals sein Schüler in Salzburg, 1687.</p>\n<p>Anfang der Vorrede S. X: Wir nehmen eine schwierige Sache in Angriff, wenn wir Gott zu betrachten versuchen.....</p>\n<p>a) <strong>Vorbereitende Disputation über Natur und Eigenschaften der Theologie:</strong> S. 1–89.</p>\n<p>b) <strong>Erster Teil über den einen Gott:</strong> S. 90–611. Schluss: <strong>25. August 1687.</strong></p>\n<p>c) <strong>Zweiter Teil über den dreieinigen Gott:</strong> S. 612–662. Schluss: <strong>2. September 1687.</strong></p>\n<p>Dieselbe Abhandlung enthalten auch MN II 163 und Archivcodex 34–11. Fr. Placidus Feigler schrieb auch den vorhergehenden und folgenden Codex.</p>\n<p>Vermerk S. 368: <strong>Heute, nämlich am 31. Mai morgens um halb sechs, brachen vier Mitbrüder auf, nämlich Fr. Josephus (Koppler), Caelestinus (Pley), Marcus (Starnisi) und Maximilianus (Steger), zusammen mit dem hochgeborenen Herrn Grafen Friedrich Preysing zu unserer (?) Abtwahl (!) am Samstag nach Fronleichnam.</strong></p>\n<blockquote><p><strong>Handschriftlicher Nachtrag:</strong> <em>NB. Der die Discesserunt election etc hier fert die E. [unleserlich]</em></p></blockquote>",
+    "latin": "XI + 663 pagg.; teg. a2 (adverso in tegumento I H S, in averso Mater Immaculata iuxta Apoc. XII 1); script. 1686/87\n\nTractatus In Primam Divi Thomae partem De Deo Uno et Trino Traditus A ....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo, Sacrosanctae Theologiae Doctore et Professore ordinario Calamô autem exceptus A Religioso F. Placido Feigler eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi, et pro tempore eius indigno Discipulo Salisburgi. Anno Domini 1687.  \nInitium Prooemii p. X: Arduam rem aggredimur, dum Deum speculari cogitamus.....\n\na) Disputatio Prolegomenalis De Natura et qualitatibus Theologiae: p. 1–89\n\nb) Pars Prima De Deo Uno: p. 90–611. Clausula: Anno 1687. Die: 25 Augusti. absolvimus.\n\nc) Pars Secunda De Deo Trino: p. 612–662. Clausula: Anno 1687. Die 2. Septembris.\n\nEundem tractatum continent etiam codices MN II 163 (vide infra!) et Archivi Cod. 34–11 (quem vide supra p. 108/09!). F. Placidus Feigler scripsit etiam codicem praecedentem et subsequentem.\n\nNota p. 368: Hodie scilicet 31 Maii mane media sexta discesserunt quatuor confratres nimirum Fratres Josephus (Koppler), Caelestinus (Pley), Marcus (Starnisi), et Maximilianus (Steger) cum Illustrissimo Domino Domino Comite Friderico Preysing ad electionem (!) abbatialem nostram (?) in die sabbati post festum Corporis Christi.  \n[Nachtrag handschriftlich:] NB. Der die Discesserunt election etc hier fert die E. [unleserlich]",
+    "latinHtml": "<p>XI + 663 pagg.; teg. a2 (adverso in tegumento I H S, in averso Mater Immaculata iuxta Apoc. XII 1); script. 1686/87</p>\n<p>Tractatus In Primam Divi Thomae partem De Deo Uno et Trino Traditus A ....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo, Sacrosanctae Theologiae Doctore et Professore ordinario Calamô autem exceptus A Religioso F. Placido Feigler eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi, et pro tempore eius indigno Discipulo Salisburgi. Anno Domini 1687. Initium Prooemii p. X: Arduam rem aggredimur, dum Deum speculari cogitamus.....</p>\n<p>a) Disputatio Prolegomenalis De Natura et qualitatibus Theologiae: p. 1–89</p>\n<p>b) Pars Prima De Deo Uno: p. 90–611. Clausula: Anno 1687. Die: 25 Augusti. absolvimus.</p>\n<p>c) Pars Secunda De Deo Trino: p. 612–662. Clausula: Anno 1687. Die 2. Septembris.</p>\n<p>Eundem tractatum continent etiam codices MN II 163 (vide infra!) et Archivi Cod. 34–11 (quem vide supra p. 108/09!). F. Placidus Feigler scripsit etiam codicem praecedentem et subsequentem.</p>\n<p>Nota p. 368: Hodie scilicet 31 Maii mane media sexta discesserunt quatuor confratres nimirum Fratres Josephus (Koppler), Caelestinus (Pley), Marcus (Starnisi), et Maximilianus (Steger) cum Illustrissimo Domino Domino Comite Friderico Preysing ad electionem (!) abbatialem nostram (?) in die sabbati post festum Corporis Christi. [Nachtrag handschriftlich:] NB. Der die Discesserunt election etc hier fert die E. [unleserlich]</p>"
+  },
+  "source": {
+    "file": "MN II 160.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-160/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 163]]",
+      "targetId": "mn-ii-163",
+      "targetSignature": "MN II 163",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "Archivcodex 34–11",
+      "targetId": "arch-cod-34-11-xviii-3-h",
+      "targetSignature": "Arch. Cod. 34–11 (XVIII 3 h)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 160",
+    "titles": "Tractatus In Primam Divi Thomae partem De Deo Uno et Trino \nDisputatio Prolegomenalis De Natura et qualitatibus Theologiae \nPars Prima De Deo Uno \nPars Secunda De Deo Trino",
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Placidus Feigler Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nXI + 663 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten die Unbefleckte Mutter nach Apk 12,1."
+  }
+}

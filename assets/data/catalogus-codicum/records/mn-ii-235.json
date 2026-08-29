@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-235",
+  "signature": "MN II 235",
+  "aliases": [
+    "Bibl. Cod. MN II 235"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "184",
+  "heading": {
+    "title": "Tractatus Theologicus De Gratia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1709/10"
+  },
+  "date": {
+    "display": "1709/10",
+    "intervals": [
+      {
+        "from": 1709,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Gratia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. III–V, 1–239",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1710-04-07"
+        },
+        {
+          "type": "date",
+          "display": "1709/10"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Fide, Spe, et Charitate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 240–408",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1710-08-20"
+        },
+        {
+          "type": "date",
+          "display": "1709/10"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Engelbertus Eybl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "410 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1709/10",
+        "intervals": [
+          {
+            "from": 1709,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "material_note",
+      "locus": "Titelblatt von Teil a",
+      "note": "Das Titelblatt ist mit dem folgenden Blatt verklebt; gegen das Licht wird die Schrift sichtbar."
+    },
+    {
+      "type": "bookbinder_instruction",
+      "locus": "oberer Rand des Titelblatts von Teil a",
+      "certainty": "uncertain",
+      "note": "Die mutmaßliche Buchbinderanweisung ist schwer verständlich."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "410 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1709/10.\n\na) **Theologische Abhandlung über die Gnade**, diktiert von P. Caelestin Pley, Benediktiner und Profess von Seitenstetten, Doktor und Professor der heiligen Theologie und damaliger Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Engelbertus Eybl, Profess desselben Ordens und Klosters, 1709: S. III–V, 1–239.\n\nAnfang des Prologs S. IV: Wir dürsten nach dem Meer der Wasser, die ins ewige Leben springen...... Schluss: **Wir beendeten [dies] am 7. April 1710, am Montag nach dem Passionssonntag.**\n\nb) **Abhandlung über Glaube, Hoffnung und Liebe**, von demselben P. Caelestin Pley vorgetragen und von Fr. Engelbertus Eibl, Theologiestudent im ersten Jahr, aufgezeichnet: S. 240–408.\n\nAnfang des Prologs S. 241: Bisher haben wir Wesen und Einteilung der Gnade dargelegt..... Schluss: **Wir beendeten [dies] am 20. August, dem Fest des hl. Bernhard, 1710 vor dem Mittagessen.**\n\nDas Titelblatt von Teil a ist mit dem folgenden Blatt verklebt. Hält man das Doppelblatt gegen das Licht, wird die Schrift sichtbar. Am oberen Rand des Titelblatts scheint eine schwer verständliche Anweisung für den Buchbinder zu stehen.\n\nFr. Engelbertus Eybl schrieb auch MN II 234.",
+    "germanHtml": "<p>410 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1709/10.</p>\n<p>a) <strong>Theologische Abhandlung über die Gnade</strong>, diktiert von P. Caelestin Pley, Benediktiner und Profess von Seitenstetten, Doktor und Professor der heiligen Theologie und damaliger Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Engelbertus Eybl, Profess desselben Ordens und Klosters, 1709: S. III–V, 1–239.</p>\n<p>Anfang des Prologs S. IV: Wir dürsten nach dem Meer der Wasser, die ins ewige Leben springen...... Schluss: <strong>Wir beendeten [dies] am 7. April 1710, am Montag nach dem Passionssonntag.</strong></p>\n<p>b) <strong>Abhandlung über Glaube, Hoffnung und Liebe</strong>, von demselben P. Caelestin Pley vorgetragen und von Fr. Engelbertus Eibl, Theologiestudent im ersten Jahr, aufgezeichnet: S. 240–408.</p>\n<p>Anfang des Prologs S. 241: Bisher haben wir Wesen und Einteilung der Gnade dargelegt..... Schluss: <strong>Wir beendeten [dies] am 20. August, dem Fest des hl. Bernhard, 1710 vor dem Mittagessen.</strong></p>\n<p>Das Titelblatt von Teil a ist mit dem folgenden Blatt verklebt. Hält man das Doppelblatt gegen das Licht, wird die Schrift sichtbar. Am oberen Rand des Titelblatts scheint eine schwer verständliche Anweisung für den Buchbinder zu stehen.</p>\n<p>Fr. Engelbertus Eybl schrieb auch MN II 234.</p>",
+    "latin": "410 pagg.; teg. a1; script. 1709/10\n\na) Tractatus Theologicus De Gratia Dictatus â Plurimum Reverendo Religiosissimo ac Clarissimo Domino P. Caelestino Pley Ordinis Sanctissimi P. Nostri Benedicti, ex Celeberrimo Monasterio Divae Virginis Mariae Seittenstettensi Sacrosanctae Theologiae Professore. et Doctore. pro tempore Almae Universitatis Salisburgensis Vice-Rectore Meritissimo. Conscriptus A F. Engelberto Eybl Eundem Ordinem ibidem Professo Anno Domini 1709: p. III, IV, V, 1–239\n\nInitium Proloquii p. IV: Sitimus ad Pelagus aquarum in vitam aeternam salientium,......\n\nClausula: Absolvimus 7. Aprilis 1710. Feria Secunda post Dominicam Passionis.\n\nb) Tractatus De Fide, Spe, et Charitate ab Eodem Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Caelestino Pley ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Inferioris Austriae Professo. Sacrosanctae Theologiae Doctore ac Professore ordinario nec non Celsissimi Principis et Archi Episcopi Salisburgensis Consiliario Ecclesiastico et pro tempore Universitatis Vice-Rectore. Conscriptus. â F. Engelberto Eibl, Eundem Ordinem ibidem Professo. in Primum Annum Theologo: p. 240–408\n\nInitium Proloquii p. 241: Hactenus exposuimus essentiam et divisionem gratiae,....\n\nClausula: absolvimus 20. Augusti In festo S. Bernardi 1710 ante prandium.\n\nFolium titulare partis a) visco iunctum est cum proximo folio, sed si contra lumen perspexeris hoc duplex folium, scriptura transparebit. In margine superiore paginae titularis huius videtur scripta esse nota pro bibliopego, difficile tamen intellectu.\n\nF. Engelbertus Eybl (Eibl) etiam codicem MN II 234 (supra p. 183!) scripsit.",
+    "latinHtml": "<p>410 pagg.; teg. a1; script. 1709/10</p>\n<p>a) Tractatus Theologicus De Gratia Dictatus â Plurimum Reverendo Religiosissimo ac Clarissimo Domino P. Caelestino Pley Ordinis Sanctissimi P. Nostri Benedicti, ex Celeberrimo Monasterio Divae Virginis Mariae Seittenstettensi Sacrosanctae Theologiae Professore. et Doctore. pro tempore Almae Universitatis Salisburgensis Vice-Rectore Meritissimo. Conscriptus A F. Engelberto Eybl Eundem Ordinem ibidem Professo Anno Domini 1709: p. III, IV, V, 1–239</p>\n<p>Initium Proloquii p. IV: Sitimus ad Pelagus aquarum in vitam aeternam salientium,......</p>\n<p>Clausula: Absolvimus 7. Aprilis 1710. Feria Secunda post Dominicam Passionis.</p>\n<p>b) Tractatus De Fide, Spe, et Charitate ab Eodem Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Caelestino Pley ordinis S. P. Nostri Benedicti in Monasterio Seittenstettensi Inferioris Austriae Professo. Sacrosanctae Theologiae Doctore ac Professore ordinario nec non Celsissimi Principis et Archi Episcopi Salisburgensis Consiliario Ecclesiastico et pro tempore Universitatis Vice-Rectore. Conscriptus. â F. Engelberto Eibl, Eundem Ordinem ibidem Professo. in Primum Annum Theologo: p. 240–408</p>\n<p>Initium Proloquii p. 241: Hactenus exposuimus essentiam et divisionem gratiae,....</p>\n<p>Clausula: absolvimus 20. Augusti In festo S. Bernardi 1710 ante prandium.</p>\n<p>Folium titulare partis a) visco iunctum est cum proximo folio, sed si contra lumen perspexeris hoc duplex folium, scriptura transparebit. In margine superiore paginae titularis huius videtur scripta esse nota pro bibliopego, difficile tamen intellectu.</p>\n<p>F. Engelbertus Eybl (Eibl) etiam codicem MN II 234 (supra p. 183!) scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 235.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-235/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 234]]",
+      "targetId": "mn-ii-234",
+      "targetSignature": "MN II 234",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 235",
+    "titles": "Tractatus Theologicus De Gratia \nTractatus Theologicus De Gratia \nTractatus De Fide, Spe, et Charitate",
+    "persons": "P. Caelestin Pley Dozent lecturer \nFr. Engelbertus Eybl Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n410 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

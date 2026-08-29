@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-72",
+  "signature": "MN III 72",
+  "aliases": [
+    "Bibl. Cod. MN III 72"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "279",
+  "heading": {
+    "title": "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1823"
+  },
+  "date": {
+    "display": "1823",
+    "intervals": [
+      {
+        "from": 1823,
+        "to": 1823,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–96",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Titel ist gedruckt, der übrige Codex handschriftlich."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "J. J. N.",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "initials_only"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1823",
+        "intervals": [
+          {
+            "from": 1823,
+            "to": 1823,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 96 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben 1823.\n\n**Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823.**\n\nNur dieser Titel ist gedruckt; das übrige Büchlein ist handschriftlich.\n\nDa sich darin Andachtsbilder der wundertätigen Gottesmutter von Absam in Tirol finden, ist wahrscheinlich, dass das Büchlein tatsächlich in Tirol entstand.\n\nDen vollständigen Namen des Verfassers konnte der Katalogbearbeiter nirgends ermitteln.",
+    "germanHtml": "<p>Oktavformat; 96 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben 1823.</p>\n<p><strong>Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823.</strong></p>\n<p>Nur dieser Titel ist gedruckt; das übrige Büchlein ist handschriftlich.</p>\n<p>Da sich darin Andachtsbilder der wundertätigen Gottesmutter von Absam in Tirol finden, ist wahrscheinlich, dass das Büchlein tatsächlich in Tirol entstand.</p>\n<p>Den vollständigen Namen des Verfassers konnte der Katalogbearbeiter nirgends ermitteln.</p>",
+    "latin": "8°; 96 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decenter decoratum; scriptus anno 1823\n\n**Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823.**\n\nQui titulus libri typis impressus est, quamvis praeter hunc titulum totus libellus manu scriptus sit. Cum imagines devotionales Beatae Mariae Virginis thaumaturgae in Absam, Tirol, in libello nostro inventae sint, veri simile est, eum re vera in terra Tyrolensi ortum esse. At plenum nomen auctoris nusquam invenio.",
+    "latinHtml": "<p>8°; 96 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decenter decoratum; scriptus anno 1823</p>\n<p><strong>Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823.</strong></p>\n<p>Qui titulus libri typis impressus est, quamvis praeter hunc titulum totus libellus manu scriptus sit. Cum imagines devotionales Beatae Mariae Virginis thaumaturgae in Absam, Tirol, in libello nostro inventae sint, veri simile est, eum re vera in terra Tyrolensi ortum esse. At plenum nomen auctoris nusquam invenio.</p>"
+  },
+  "source": {
+    "file": "MN III 72.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-72/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 72",
+    "titles": "Geistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823 \nGeistes-Erhebungen für gebildete Jugendfreunde von J. J. N. Nauders in Tirol 1823",
+    "persons": "J. J. N. Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Titel ist gedruckt, der übrige Codex handschriftlich.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

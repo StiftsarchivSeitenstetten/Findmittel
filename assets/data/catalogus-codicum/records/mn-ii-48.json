@@ -1,0 +1,269 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-48",
+  "signature": "MN II 48",
+  "aliases": [
+    "Bibl. Cod. MN II 48",
+    "Logica Salisburgi F. Ingenuus Vogt"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "30–31",
+  "heading": {
+    "title": "Proaemium in Aristotelis Organum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1650/51"
+  },
+  "date": {
+    "display": "1650/51",
+    "intervals": [
+      {
+        "from": 1650,
+        "to": 1651,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Umfangreicher Logikkurs mit Aristoteles- und Porphyrios-Kommentaren, Registern und zahlreichen persönlichen Notizen.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Proaemium in Aristotelis Organum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–147",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Isagoge Porphyrii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 148–310",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Praedicamenta Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 311–554",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Peri Hermenias / De Interpretatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 555–678",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Analytica Priora",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 679–856",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Index Totius Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 857–867",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Nomina RR PP Convictorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 885–890",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Ingenuus Vogt, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "892 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1650/51",
+        "intervals": [
+          {
+            "from": 1650,
+            "to": 1651,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "marriage_note",
+      "location": "Innenseite des Hinterdeckels",
+      "date": "1652-05-14",
+      "persons": [
+        "Maria Magdalena Vogtin",
+        "Tobias Glirzen (Glitzen?)"
+      ],
+      "occupation": "Fleischer"
+    },
+    {
+      "type": "song_with_music",
+      "location": "S. 345a",
+      "text": "A cibo bis cocto, A Medico indocto, A Mala Muliere Libera me Domine."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "892 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1650/51.\n\na) **Vorrede zum Organon des Aristoteles:** S. 1–147. Anfang S. 3: **Alle Menschen, sagt Aristoteles im 1. Buch der Metaphysik, Kap. 1, streben von Natur aus nach Wissen....** Schluss S. 147: **Wir beendeten die Prolegomena am 19. Dezember 1650.**\n\nb) **Isagoge des Porphyrios:** S. 148–310. Anfang S. 149: **Chrysaorius, von Herkunft ein Patrizier....** Schluss S. 310: **Wir beendeten die Universalien am 31. Januar vor dem Mittagessen. Am selben Tag reisten Fr. Placidus nach dem Mittagessen und Fr. Bernardus Glunicensis ab** (nämlich aus dem Salzburger Konvikt der Ordensleute, nicht aus dem Orden; denn Fr. Placidus ist derselbe wie Fr. Placidus Steger von Seitenstetten).\n\nc) **Die Kategorien des Aristoteles:** S. 311–554. Anfang der Vorrede S. 312: **Den Anfang (?) der gesamten Logik nahm (?) Aristoteles von den Kategorien....**\n\nd) **Zu den zwei Büchern des Aristoteles Peri Hermeneias oder „Über die Interpretation“:** S. 555–678. Anfang der Vorrede: **Nachdem Aristoteles von den höchsten....**\n\ne) **Zu den zwei Büchern der Ersten Analytik:** S. 679–856. Anfang: **Dieses Werk ist der Anfang des dritten Teils der Logik....** Schluss: **Wir beendeten das Organon der Logik am 3. Juni im Jahr 1651.** Auf derselben Seite folgen astrologische Notizen für den 15. und 16. Juni sowie einige Namen von Personen, die aus Drama und Dichtung bekannt sind, vielleicht für ein Personenregister eines Schauspiels.\n\nf) **Register der gesamten Logik:** S. 857–867 (unvollständig).\n\ng) **Namen der ehrwürdigen Patres im Konvikt** (Theologen, Physiker, Logiker): S. 885–890.\n\nh) Auf der Innenseite des Hinterdeckels befindet sich ein Vermerk über die Hochzeit der Maria Magdalena Vogtin mit Tobias Glirzen (Glitzen?), Fleischer, am 14. Mai 1652.\n\ni) Auf S. 345a findet sich folgendes Gedicht mit unterlegten Noten: **Vor zweimal gekochter Speise, vor einem ungelehrten Arzt, vor einer bösen Frau erlöse mich, Herr.**\n\nAuf S. 270 ist am Stamm des Porphyrianischen Baumes der Name **Ingenuus** eingetragen. Dass damit Fr. Ingenuus Vogt, Profess von Seitenstetten, gemeint ist, zeigen auch die Initialen auf der Vorderseite des Einbandes **F I V P S** und die Rückenaufschrift: **Logica Salisburgi Scripta optima manu F. Ingenu[i] Vogt Seittenstettensis 1651** = „Logik, in Salzburg von der ausgezeichneten Hand des Fr. Ingenuus Vogt von Seitenstetten geschrieben, 1651.“ Der Verfasser ist unbekannt.",
+    "germanHtml": "<p>892 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1650/51.</p>\n<p>a) <strong>Vorrede zum Organon des Aristoteles:</strong> S. 1–147. Anfang S. 3: <strong>Alle Menschen, sagt Aristoteles im 1. Buch der Metaphysik, Kap. 1, streben von Natur aus nach Wissen....</strong> Schluss S. 147: <strong>Wir beendeten die Prolegomena am 19. Dezember 1650.</strong></p>\n<p>b) <strong>Isagoge des Porphyrios:</strong> S. 148–310. Anfang S. 149: <strong>Chrysaorius, von Herkunft ein Patrizier....</strong> Schluss S. 310: <strong>Wir beendeten die Universalien am 31. Januar vor dem Mittagessen. Am selben Tag reisten Fr. Placidus nach dem Mittagessen und Fr. Bernardus Glunicensis ab</strong> (nämlich aus dem Salzburger Konvikt der Ordensleute, nicht aus dem Orden; denn Fr. Placidus ist derselbe wie Fr. Placidus Steger von Seitenstetten).</p>\n<p>c) <strong>Die Kategorien des Aristoteles:</strong> S. 311–554. Anfang der Vorrede S. 312: <strong>Den Anfang (?) der gesamten Logik nahm (?) Aristoteles von den Kategorien....</strong></p>\n<p>d) <strong>Zu den zwei Büchern des Aristoteles Peri Hermeneias oder „Über die Interpretation“:</strong> S. 555–678. Anfang der Vorrede: <strong>Nachdem Aristoteles von den höchsten....</strong></p>\n<p>e) <strong>Zu den zwei Büchern der Ersten Analytik:</strong> S. 679–856. Anfang: <strong>Dieses Werk ist der Anfang des dritten Teils der Logik....</strong> Schluss: <strong>Wir beendeten das Organon der Logik am 3. Juni im Jahr 1651.</strong> Auf derselben Seite folgen astrologische Notizen für den 15. und 16. Juni sowie einige Namen von Personen, die aus Drama und Dichtung bekannt sind, vielleicht für ein Personenregister eines Schauspiels.</p>\n<p>f) <strong>Register der gesamten Logik:</strong> S. 857–867 (unvollständig).</p>\n<p>g) <strong>Namen der ehrwürdigen Patres im Konvikt</strong> (Theologen, Physiker, Logiker): S. 885–890.</p>\n<p>h) Auf der Innenseite des Hinterdeckels befindet sich ein Vermerk über die Hochzeit der Maria Magdalena Vogtin mit Tobias Glirzen (Glitzen?), Fleischer, am 14. Mai 1652.</p>\n<p>i) Auf S. 345a findet sich folgendes Gedicht mit unterlegten Noten: <strong>Vor zweimal gekochter Speise, vor einem ungelehrten Arzt, vor einer bösen Frau erlöse mich, Herr.</strong></p>\n<p>Auf S. 270 ist am Stamm des Porphyrianischen Baumes der Name <strong>Ingenuus</strong> eingetragen. Dass damit Fr. Ingenuus Vogt, Profess von Seitenstetten, gemeint ist, zeigen auch die Initialen auf der Vorderseite des Einbandes <strong>F I V P S</strong> und die Rückenaufschrift: <strong>Logica Salisburgi Scripta optima manu F. Ingenu[i] Vogt Seittenstettensis 1651</strong> = „Logik, in Salzburg von der ausgezeichneten Hand des Fr. Ingenuus Vogt von Seitenstetten geschrieben, 1651.“ Der Verfasser ist unbekannt.</p>",
+    "latin": "892 pagg.; teg. a1; script. 1650/51\n\na) *Proaemium in Aristotelis Organum:* p. 1 - 147; *initium* p. 3: Omnes homines inquit Aristoteles, 1. Met: Cap. 1. natura scire desiderant....; *clausula* p. 147: Absolvimus prolegomena 19. Decembris 1650.\n\nb) *Isagoge Porphyrii:* p. 148 - 310; *initium* p. 149: Chrysaorius genere Patritius.... *clausula* p. 310: Absolvimus Universalia 31. Januarii ante prandium. eodem autem die Fr. Placidus post prandium et Fr. Bernardus Glunicensis discesserunt (scilicet e convictu regularium Salisburgensi, non ex ordine, siquidem Fr. Placidus idem est atque Fr. Placidus Steger Seittenstettensis).\n\nc) *Praedicamenta Aristotelis:* p. 311 - 554; *initium* Prooemii p. 312: Totius logicae I Initium (?) Cepit (?) Aristoteles à Cathegoriis....\n\nd) *Ad duos Libros Aristotelis Peri Hermenias Seu de Interpretatione:* p. 555 - 678; *initium* Prooemii: Postquam Aristoteles de summis....\n\ne) *In duos Libros Priores Analyticos:* p. 679 - 856; *initium:* Opus hoc initium est tertiae partis logicae.... *clausula:* Absolvimus Logicae Organum tertiâ die Junii. Anno 1651 (sequuntur in eadem pagina notulae astrologicae pro 15. et 16. Junii nec non aliquot nomina personarum e fabula et poesi famosasrum, fortasse pro indice personarum cuiusdam dramatis)\n\nf) *Index Totius Logicae:* p. 857 - 867 (incompletus)\n\ng) *Nomina RR PP Convictorum (Theologorum, Physicorum, Logicorum):* p. 885 - 890\n\nh) In parte aversa tegumenti ab intrinsecus nota de nuptiis Mariae Magdalenae Vogtin, cum Tobia Glirzen (Glitzen?) Lanione 1652, 14. Maii.\n\ni) p. 345a sequens invenitur carmen, suppositis modis musicis: A cibo bis cocto, A Medico indocto, A Mala Muliere Libera me Domine.\n\np. 270 stipiti arboris Porphyrii inscriptum est nomen Ingenuus. Eundem fratrem Ingenuum Vogt professum Seittenstettensem indicant litterae initiales in parte adversa tegumenti: F I V P S et inscriptio dorsi: Logica Salisburgi Scripta optima manu F. Ingenu[i] Vogt Seittenstettensis 1651. Auctor ignotus.",
+    "latinHtml": "<p>892 pagg.; teg. a1; script. 1650/51</p>\n<p>a) <em>Proaemium in Aristotelis Organum:</em> p. 1 - 147; <em>initium</em> p. 3: Omnes homines inquit Aristoteles, 1. Met: Cap. 1. natura scire desiderant....; <em>clausula</em> p. 147: Absolvimus prolegomena 19. Decembris 1650.</p>\n<p>b) <em>Isagoge Porphyrii:</em> p. 148 - 310; <em>initium</em> p. 149: Chrysaorius genere Patritius.... <em>clausula</em> p. 310: Absolvimus Universalia 31. Januarii ante prandium. eodem autem die Fr. Placidus post prandium et Fr. Bernardus Glunicensis discesserunt (scilicet e convictu regularium Salisburgensi, non ex ordine, siquidem Fr. Placidus idem est atque Fr. Placidus Steger Seittenstettensis).</p>\n<p>c) <em>Praedicamenta Aristotelis:</em> p. 311 - 554; <em>initium</em> Prooemii p. 312: Totius logicae I Initium (?) Cepit (?) Aristoteles à Cathegoriis....</p>\n<p>d) <em>Ad duos Libros Aristotelis Peri Hermenias Seu de Interpretatione:</em> p. 555 - 678; <em>initium</em> Prooemii: Postquam Aristoteles de summis....</p>\n<p>e) <em>In duos Libros Priores Analyticos:</em> p. 679 - 856; <em>initium:</em> Opus hoc initium est tertiae partis logicae.... <em>clausula:</em> Absolvimus Logicae Organum tertiâ die Junii. Anno 1651 (sequuntur in eadem pagina notulae astrologicae pro 15. et 16. Junii nec non aliquot nomina personarum e fabula et poesi famosasrum, fortasse pro indice personarum cuiusdam dramatis)</p>\n<p>f) <em>Index Totius Logicae:</em> p. 857 - 867 (incompletus)</p>\n<p>g) <em>Nomina RR PP Convictorum (Theologorum, Physicorum, Logicorum):</em> p. 885 - 890</p>\n<p>h) In parte aversa tegumenti ab intrinsecus nota de nuptiis Mariae Magdalenae Vogtin, cum Tobia Glirzen (Glitzen?) Lanione 1652, 14. Maii.</p>\n<p>i) p. 345a sequens invenitur carmen, suppositis modis musicis: A cibo bis cocto, A Medico indocto, A Mala Muliere Libera me Domine.</p>\n<p>p. 270 stipiti arboris Porphyrii inscriptum est nomen Ingenuus. Eundem fratrem Ingenuum Vogt professum Seittenstettensem indicant litterae initiales in parte adversa tegumenti: F I V P S et inscriptio dorsi: Logica Salisburgi Scripta optima manu F. Ingenu[i] Vogt Seittenstettensis 1651. Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 48.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-48/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 48",
+    "titles": "Proaemium in Aristotelis Organum \nProaemium in Aristotelis Organum \nIsagoge Porphyrii \nPraedicamenta Aristotelis \nPeri Hermenias / De Interpretatione \nAnalytica Priora \nIndex Totius Logicae \nNomina RR PP Convictorum",
+    "persons": "unbekannt Autor author \nFr. Ingenuus Vogt, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Umfangreicher Logikkurs mit Aristoteles- und Porphyrios-Kommentaren, Registern und zahlreichen persönlichen Notizen.",
+    "physical": "Papier \n892 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

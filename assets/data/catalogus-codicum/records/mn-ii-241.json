@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-241",
+  "signature": "MN II 241",
+  "aliases": [
+    "Bibl. Cod. MN II 241"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "187",
+  "heading": {
+    "title": "Institutiones Dialecticae in Universam Aristotelis Philosophiam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1709/10"
+  },
+  "date": {
+    "display": "1709/10",
+    "intervals": [
+      {
+        "from": 1709,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_colophons",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Institutiones Dialecticae in Universam Aristotelis Philosophiam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–85",
+      "language": "",
+      "incipit": {
+        "text": "Aggressuri nobilissimum Philosophiae Studium"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "7. Dezember 1709"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus In universam Logicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–175r (= S. 89–437)",
+      "language": "",
+      "incipit": {
+        "text": "Praemissis hucusque institutionibus"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "26. Mai 1710"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 242 und MN II 243."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "88 pagg. + 176 foll. (=352 pagg.) = 440 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1709/10",
+        "intervals": [
+          {
+            "from": 1709,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_colophons",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "88 Seiten + 176 Blätter (= 352 Seiten), zusammen 440 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.\n\na) **Institutionen der Dialektik zur gesamten Philosophie des Aristoteles:** S. 1–85. Anfang der Vorrede S. 1: Im Begriff, das vornehmste Studium der Philosophie in Angriff zu nehmen........ Schluss: **1709, am 7. Dezember.**\n\nb) **Abhandlung über die gesamte Logik:** fol. 1r–175r (= S. 89–437). Anfang der Vorrede: Nachdem bisher die Institutionen vorausgeschickt worden sind........ Schluss: **Am 26. Mai 1710.**\n\nWeder Verfasser noch Schreiber sind bekannt, obwohl derselbe Schreiber auch die beiden folgenden Codices ausführte.",
+    "germanHtml": "<p>88 Seiten + 176 Blätter (= 352 Seiten), zusammen 440 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.</p>\n<p>a) <strong>Institutionen der Dialektik zur gesamten Philosophie des Aristoteles:</strong> S. 1–85. Anfang der Vorrede S. 1: Im Begriff, das vornehmste Studium der Philosophie in Angriff zu nehmen........ Schluss: <strong>1709, am 7. Dezember.</strong></p>\n<p>b) <strong>Abhandlung über die gesamte Logik:</strong> fol. 1r–175r (= S. 89–437). Anfang der Vorrede: Nachdem bisher die Institutionen vorausgeschickt worden sind........ Schluss: <strong>Am 26. Mai 1710.</strong></p>\n<p>Weder Verfasser noch Schreiber sind bekannt, obwohl derselbe Schreiber auch die beiden folgenden Codices ausführte.</p>",
+    "latin": "88 pagg. + 176 foll. (=352 pagg.) = 440 pagg.; teg. c3d\n\na) Institutiones Dialecticae in Universam Aristotelis Philosophiam: p. 1–85. Initium Proemii p. 1: Aggressuri nobilissimum Philosophiae Studium........\n\nClausula: 1709. Septimo Decembris.\n\nb) Tractatus In universam Logicam: fol. 1r–175r (= p. 89–437).\n\nInitium Proemii: Praemissis hucusque institutionibus........\n\nClausula: Die 26. Maii 1710.\n\nNec auctor notus nec scriptor, quamquam idem scriptor etiam duos codices sequentes exaravit.",
+    "latinHtml": "<p>88 pagg. + 176 foll. (=352 pagg.) = 440 pagg.; teg. c3d</p>\n<p>a) Institutiones Dialecticae in Universam Aristotelis Philosophiam: p. 1–85. Initium Proemii p. 1: Aggressuri nobilissimum Philosophiae Studium........</p>\n<p>Clausula: 1709. Septimo Decembris.</p>\n<p>b) Tractatus In universam Logicam: fol. 1r–175r (= p. 89–437).</p>\n<p>Initium Proemii: Praemissis hucusque institutionibus........</p>\n<p>Clausula: Die 26. Maii 1710.</p>\n<p>Nec auctor notus nec scriptor, quamquam idem scriptor etiam duos codices sequentes exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 241.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-241/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 242]]",
+      "targetId": "mn-ii-242",
+      "targetSignature": "MN II 242",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 243]]",
+      "targetId": "mn-ii-243",
+      "targetSignature": "MN II 243",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 241",
+    "titles": "Institutiones Dialecticae in Universam Aristotelis Philosophiam \nInstitutiones Dialecticae in Universam Aristotelis Philosophiam \nTractatus In universam Logicam",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Aggressuri nobilissimum Philosophiae Studium \nPraemissis hucusque institutionibus",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n88 pagg. + 176 foll. (=352 pagg.) = 440 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

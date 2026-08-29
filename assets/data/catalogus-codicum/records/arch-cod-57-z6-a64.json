@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-57-z6-a64",
+  "signature": "Arch. Cod. 57 Z₆ (A64)",
+  "aliases": [
+    "Arch. Cod. 57 Z₆ (A64)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "4–5",
+  "heading": {
+    "title": "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1600"
+  },
+  "date": {
+    "display": "um 1600",
+    "intervals": [
+      {
+        "from": 1600,
+        "to": 1600,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Bl. 1r–125v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die deutsche Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern. Am Anfang und Ende fehlen mehrere Blätter."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "4°, 125 foll. (desunt plura folia in initio et fine), script. ca annum 1600, involuta in folio membranaceo, quo modi musici descripti sunt",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1600",
+        "intervals": [
+          {
+            "from": 1600,
+            "to": 1600,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "donor": "Franz Hornung",
+        "occupation": "Richter des Landgerichts Mattsee",
+        "recipient": "Stiftsbibliothek Seitenstetten"
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; 125 Blätter; mehrere Blätter am Anfang und Ende fehlen; geschrieben um 1600; in ein Pergamentblatt mit Musiknotation eingeschlagen.\n\n**Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588–1590.**\n\nÜber dieses deutsch geschriebene Werk, das **Franz Hornung**, Richter des Landgerichts Mattsee, der Seitenstettner Bibliothek schenkte, handelt P. Godefrid Friess ausführlich und sachkundig im 32. Programm des k. k. Ober-Gymnasiums der Benediktiner zu Seitenstetten 1898, S. 3–50.",
+    "germanHtml": "<p>Quartformat; 125 Blätter; mehrere Blätter am Anfang und Ende fehlen; geschrieben um 1600; in ein Pergamentblatt mit Musiknotation eingeschlagen.</p>\n<p><strong>Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588–1590.</strong></p>\n<p>Über dieses deutsch geschriebene Werk, das <strong>Franz Hornung</strong>, Richter des Landgerichts Mattsee, der Seitenstettner Bibliothek schenkte, handelt P. Godefrid Friess ausführlich und sachkundig im 32. Programm des k. k. Ober-Gymnasiums der Benediktiner zu Seitenstetten 1898, S. 3–50.</p>",
+    "latin": "4°, 125 foll. (desunt plura folia in initio et fine), script. ca annum 1600, involuta in folio membranaceo, quo modi musici descripti sunt\n\n(Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590)\n\nDe hoc opere, lingua Germanica scripto, quod Franciscus Hornung, iudex districti Mattseensis, bibliothecae Seitenstettensi donavit, fuse et scienter egit P. Godefridus Friess in XXXII. Programm des k. k. Ober-Gymnasiums der Benedictiner zu Seitenstetten 1898, p. 3 - 50.",
+    "latinHtml": "<p>4°, 125 foll. (desunt plura folia in initio et fine), script. ca annum 1600, involuta in folio membranaceo, quo modi musici descripti sunt</p>\n<p>(Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590)</p>\n<p>De hoc opere, lingua Germanica scripto, quod Franciscus Hornung, iudex districti Mattseensis, bibliothecae Seitenstettensi donavit, fuse et scienter egit P. Godefridus Friess in XXXII. Programm des k. k. Ober-Gymnasiums der Benedictiner zu Seitenstetten 1898, p. 3 - 50.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 57 Z₆ (A64).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-57-z6-a64/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 57 Z₆ (A64)",
+    "titles": "Die Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590 \nDie Reise des Hans Christoph Freiherrn von Teufel in das Morgenland 1588 - 1590",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die deutsche Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern. Am Anfang und Ende fehlen mehrere Blätter.",
+    "physical": "Papier \n4°, 125 foll. (desunt plura folia in initio et fine), script. ca annum 1600, involuta in folio membranaceo, quo modi musici descripti sunt \nQuartformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+  }
+}

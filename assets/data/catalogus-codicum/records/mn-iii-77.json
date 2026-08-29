@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-77",
+  "signature": "MN III 77",
+  "aliases": [
+    "Bibl. Cod. MN III 77"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "281",
+  "heading": {
+    "title": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1850"
+  },
+  "date": {
+    "display": "um 1850",
+    "intervals": [
+      {
+        "from": 1850,
+        "to": 1850,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Ritus baptismi",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Benedictio mulieris post partum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Cura infirmorum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Nuptiae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Skokan",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1850",
+        "intervals": [
+          {
+            "from": 1850,
+            "to": 1850,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; 48 Seiten; geschrieben um 1850.\n\n**Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.**\n\nAuch die Rubriken sind ins Deutsche übersetzt, wurden aber mit rosafarbener Tinte geschrieben.\n\nDas Büchlein enthält den Ritus der Taufe, der Segnung einer Frau nach der Geburt, der Krankenpflege beziehungsweise Krankenpastoral und der Eheschließung.\n\nDer Schreiber nennt sich am unteren Rand von S. 43: **Joh(ann) Skokan.** Er schrieb das Büchlein äußerst sorgfältig. Schrift und Einband weisen eher auf eine Entstehung vor als nach 1850.",
+    "germanHtml": "<p>Oktavformat; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; 48 Seiten; geschrieben um 1850.</p>\n<p><strong>Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.</strong></p>\n<p>Auch die Rubriken sind ins Deutsche übersetzt, wurden aber mit rosafarbener Tinte geschrieben.</p>\n<p>Das Büchlein enthält den Ritus der Taufe, der Segnung einer Frau nach der Geburt, der Krankenpflege beziehungsweise Krankenpastoral und der Eheschließung.</p>\n<p>Der Schreiber nennt sich am unteren Rand von S. 43: <strong>Joh(ann) Skokan.</strong> Er schrieb das Büchlein äußerst sorgfältig. Schrift und Einband weisen eher auf eine Entstehung vor als nach 1850.</p>",
+    "latin": "8°; teg. c2d; 48 pagg.; scriptus circa annum 1850\n\n**Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.**\n\nEtiam Rubricae in linguam Germanicam translatae sunt, sed ad scribendas rubricas tinctura rosacea adhibita est. Continet hic libellus ritum baptismi, benedictionis mulieris post partum, curae infirmorum, nuptiarum.\n\nScriptor nomen suum in margine inferiore p. 43 notavit: **Joh(ann) Skokan.** Qui codicillum nostrum diligentissime scripsit, eumque potius ante quam post annum 1850, uti scriptura et tegumentum indicant.",
+    "latinHtml": "<p>8°; teg. c2d; 48 pagg.; scriptus circa annum 1850</p>\n<p><strong>Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche.</strong></p>\n<p>Etiam Rubricae in linguam Germanicam translatae sunt, sed ad scribendas rubricas tinctura rosacea adhibita est. Continet hic libellus ritum baptismi, benedictionis mulieris post partum, curae infirmorum, nuptiarum.</p>\n<p>Scriptor nomen suum in margine inferiore p. 43 notavit: <strong>Joh(ann) Skokan.</strong> Qui codicillum nostrum diligentissime scripsit, eumque potius ante quam post annum 1850, uti scriptura et tegumentum indicant.</p>"
+  },
+  "source": {
+    "file": "MN III 77.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-77/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 77",
+    "titles": "Gebethe und Ceremonien. Nach dem Sinne unserer katholischen Kirche \nRitus baptismi \nBenedictio mulieris post partum \nCura infirmorum \nNuptiae",
+    "persons": "Johann Skokan Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung.",
+    "physical": "Papier \n8° \nOktavformat \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

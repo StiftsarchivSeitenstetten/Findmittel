@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-25",
+  "signature": "MN I 25",
+  "aliases": [
+    "Bibl. Cod. MN I 25",
+    "Gury S. J. Theologiae Moralis Tomus II"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "285",
+  "heading": {
+    "title": "Gury S. J. Theologiae Moralis Tomus II.",
+    "titleTypeRaw": "spine",
+    "titleTypeLabel": "spine",
+    "date": "1889/90"
+  },
+  "date": {
+    "display": "1889/90",
+    "intervals": [
+      {
+        "from": 1889,
+        "to": 1890,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Gury S. J. Theologiae Moralis Tomus II.",
+    "titleTypeRaw": "spine",
+    "titleTypeLabel": "spine",
+    "translation": "",
+    "summary": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern.",
+    "language": "la",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Gury S. J. Theologiae Moralis Tomus II.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "summary",
+          "text": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern."
+        },
+        {
+          "type": "manuscript_additions",
+          "text": "description: Zwischen den gedruckten Blättern liegen jeweils handschriftlich beschriebene oder leere Blätter; die beschriebenen Blätter scheinen Kommentar und Ergänzungen zum Drucktext zu enthalten.; scribe: unbekannt"
+        },
+        {
+          "type": "printed_work",
+          "text": "Compendium Theologiae Moralis"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "J. P. Gury",
+      "roleRaw": "author of printed work",
+      "roleLabel": "author of printed work",
+      "scope": "manuscript",
+      "affiliation": "Societas Jesu"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe of manuscript commentary and additions",
+      "roleLabel": "scribe of manuscript commentary and additions",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "hybrid_codex",
+    "support": "Papier",
+    "extent": "236 gedruckte Seiten + 226 handschriftlich beschriebene oder leere Seiten",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "Gedrucktes Blatt und handschriftlich beschriebenes oder leeres Blatt wechseln regelmäßig miteinander ab.",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1889/90",
+        "intervals": [
+          {
+            "from": 1889,
+            "to": 1890,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_date_note",
+      "location": "Innenseite des Vorderdeckels",
+      "text": "2. 11. 1889."
+    }
+  ],
+  "editorialNotes": [
+    "Der Schreiber der handschriftlichen Kommentare und Ergänzungen ist unbekannt.",
+    "Die Angabe 'Fasciculus I.' wurde später mit Tinte zu 'II.' korrigiert."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 236 gedruckte Seiten + 226 entweder handschriftlich beschriebene oder leere Seiten; rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1889/90.\n\nGedruckter Teil: **Kompendium der Moraltheologie, verfasst von J. P. Gury SJ, Professor am Römischen Kolleg und am Seminar von Vals bei Le Puy. Erste Ausgabe in Deutschland, nach den besten Ausgaben sorgfältig gedruckt. Faszikel I.** (später mit Tinte korrigiert: **II.**) **Regensburg 1852. Auf Kosten von Georg Joseph Manz.** S. 257–489.\n\nZwischen die einzelnen Blätter dieses Werkes sind jeweils einzelne handschriftlich beschriebene oder leere Blätter eingefügt, sodass stets ein gedrucktes Blatt und ein handschriftlich beschriebenes oder leeres Blatt abwechseln. Die handschriftlich beschriebenen Blätter scheinen einen Kommentar und Ergänzungen zu den gedruckten Blättern zu enthalten; von welchem Schreiber sie stammen, weiß ich jedoch nicht.\n\nRückenaufschrift: **Gury S. J. Theologiae Moralis Tomus II.**\n\nWann unser Codex eingebunden wurde, zeigt der Vermerk auf der Innenseite des Vorderdeckels: **2. 11. 1889.**",
+    "germanHtml": "<p>Großquartformat; 236 gedruckte Seiten + 226 entweder handschriftlich beschriebene oder leere Seiten; rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1889/90.</p>\n<p>Gedruckter Teil: <strong>Kompendium der Moraltheologie, verfasst von J. P. Gury SJ, Professor am Römischen Kolleg und am Seminar von Vals bei Le Puy. Erste Ausgabe in Deutschland, nach den besten Ausgaben sorgfältig gedruckt. Faszikel I.</strong> (später mit Tinte korrigiert: <strong>II.</strong>) <strong>Regensburg 1852. Auf Kosten von Georg Joseph Manz.</strong> S. 257–489.</p>\n<p>Zwischen die einzelnen Blätter dieses Werkes sind jeweils einzelne handschriftlich beschriebene oder leere Blätter eingefügt, sodass stets ein gedrucktes Blatt und ein handschriftlich beschriebenes oder leeres Blatt abwechseln. Die handschriftlich beschriebenen Blätter scheinen einen Kommentar und Ergänzungen zu den gedruckten Blättern zu enthalten; von welchem Schreiber sie stammen, weiß ich jedoch nicht.</p>\n<p>Rückenaufschrift: <strong>Gury S. J. Theologiae Moralis Tomus II.</strong></p>\n<p>Wann unser Codex eingebunden wurde, zeigt der Vermerk auf der Innenseite des Vorderdeckels: <strong>2. 11. 1889.</strong></p>",
+    "latin": "4° mai.; 236 pagg. typis mandatae + 226 pagg. aut manu inscriptae aut vacuae; teg. chartaceum cervini coloris (in forma marmoreae variationis) d; script. 1889/90.\n\nPars typis impressa: **Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I.** (postea atramento correctum: **II.**) **Ratisbonae, 1852. Sumtibus Georgii Josephi Manz.** p. 257–489.\n\nInter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu inscriptum aut vacuum commutentur. Quae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris.\n\nInscriptio dorsi: **Gury S. J. Theologiae Moralis Tomus II.**\n\nQuando tegumento munitus sit codex noster, ostendit nota in parte adversa tegumenti ab intrinsecus: **2. 11. 1889.**",
+    "latinHtml": "<p>4° mai.; 236 pagg. typis mandatae + 226 pagg. aut manu inscriptae aut vacuae; teg. chartaceum cervini coloris (in forma marmoreae variationis) d; script. 1889/90.</p>\n<p>Pars typis impressa: <strong>Compendium Theologiae Moralis Auctore J. P. Gury, S. J., in collegio Romano et in Seminario Valenci prope Anicium Professore. Editio in Germania prima ad optimarum editionum fidem accurate impressa. Fasciculus I.</strong> (postea atramento correctum: <strong>II.</strong>) <strong>Ratisbonae, 1852. Sumtibus Georgii Josephi Manz.</strong> p. 257–489.</p>\n<p>Inter cuius operis folia singula inserta sunt singula folia manu inscripta aut vacua, ita ut semper folium typis impressum et folium manu inscriptum aut vacuum commutentur. Quae folia manu inscripta videntur continere commentarium et additamenta ad folia typis impressa, sed nescio cuius scriptoris.</p>\n<p>Inscriptio dorsi: <strong>Gury S. J. Theologiae Moralis Tomus II.</strong></p>\n<p>Quando tegumento munitus sit codex noster, ostendit nota in parte adversa tegumenti ab intrinsecus: <strong>2. 11. 1889.</strong></p>"
+  },
+  "source": {
+    "file": "MN I 25.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-25/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 25",
+    "titles": "Gury S. J. Theologiae Moralis Tomus II. \nGury S. J. Theologiae Moralis Tomus II.",
+    "persons": "J. P. Gury author of printed work author of printed work \nunbekannt scribe of manuscript commentary and additions scribe of manuscript commentary and additions",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Hybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern. \nla \nHybridband aus einem gedruckten Teil von J. P. Gurys Compendium Theologiae Moralis und dazwischen eingelegten handschriftlich beschriebenen oder leeren Blättern. \ndescription: Zwischen den gedruckten Blättern liegen jeweils handschriftlich beschriebene oder leere Blätter; die beschriebenen Blätter scheinen Kommentar und Ergänzungen zum Drucktext zu enthalten.; scribe: unbekannt \nCompendium Theologiae Moralis \nDer Schreiber der handschriftlichen Kommentare und Ergänzungen ist unbekannt. \nDie Angabe 'Fasciculus I.' wurde später mit Tinte zu 'II.' korrigiert.",
+    "physical": "Papier \n236 gedruckte Seiten + 226 handschriftlich beschriebene oder leere Seiten \nGroßquart \nGedrucktes Blatt und handschriftlich beschriebenes oder leeres Blatt wechseln regelmäßig miteinander ab. \ndescription: Rehbrauner, marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

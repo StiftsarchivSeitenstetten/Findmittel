@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-120",
+  "signature": "MN II 120",
+  "aliases": [
+    "Bibl. Cod. MN II 120"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "75–76",
+  "heading": {
+    "title": "(Physica Aristotelis)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1672"
+  },
+  "date": {
+    "display": "1672",
+    "intervals": [
+      {
+        "from": 1672,
+        "to": 1672,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "(Physica Aristotelis)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "(Physica Aristotelis)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "1184 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband verloren bzw. entfernt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1672",
+        "intervals": [
+          {
+            "from": 1672,
+            "to": 1672,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "1184 Seiten; Einband vollständig abgeschnitten; geschrieben 1672.\n\n**(Physik des Aristoteles).**\n\na) **(Disputationen I–IV zu den acht Büchern der Physik):** S. 1–784; das erste Blatt fehlt. Schluss S. 784: Wir beendeten die acht Bücher der Physik am 4. Mai 1672, ganz ohne Schmaus.\n\nb) **Fünfte Disputation zu den vier Büchern des Aristoteles Über den Himmel:** S. 791–861. Anfang: Nachdem erklärt ist, was über das bewegliche Seiende im Allgemeinen....\n\nc) **Fortsetzung des Kommentars. Sechste Disputation zu den zwei Büchern Über Werden und Vergehen:** S. 871–989. Anfang der ersten Frage: Erstens ist zu sagen, dass es Werden und Vergehen gibt......\n\nd) **Fortsetzung des Kommentars. Achte Disputation über Wesen, Arten und Eigenschaften der Seele im Allgemeinen:** S. 1055–1134. Anfang des ersten Artikels: Dass es eine Seele gibt, halten wir für sicher....\n\ne) **Fortsetzung des Kommentars zur gesamten Philosophie des Aristoteles. Neunte Disputation zu den vierzehn Büchern der Metaphysik des Aristoteles:** S. 1134–1168. Anfang der einzigen Frage: Erstens ist zu sagen, dass die Metaphysik die spekulative Wissenschaft vom realen Seienden ist.....\n\nDieselben Abhandlungen enthält MN II 107; die Teile c–b–d–e außerdem MN II 121.\n\nDer Verfasser ist unbekannt.\n\nVergleicht man die Schrift mit MN II 119, könnte man meinen, auch dieser Codex sei von Fr. Meinradus Higger geschrieben worden. Es bestehen jedoch Unterschiede, etwa in der Form des Buchstabens t; daher darf diese Zuschreibung nicht als sicher gelten.",
+    "germanHtml": "<p>1184 Seiten; Einband vollständig abgeschnitten; geschrieben 1672.</p>\n<p><strong>(Physik des Aristoteles).</strong></p>\n<p>a) <strong>(Disputationen I–IV zu den acht Büchern der Physik):</strong> S. 1–784; das erste Blatt fehlt. Schluss S. 784: Wir beendeten die acht Bücher der Physik am 4. Mai 1672, ganz ohne Schmaus.</p>\n<p>b) <strong>Fünfte Disputation zu den vier Büchern des Aristoteles Über den Himmel:</strong> S. 791–861. Anfang: Nachdem erklärt ist, was über das bewegliche Seiende im Allgemeinen....</p>\n<p>c) <strong>Fortsetzung des Kommentars. Sechste Disputation zu den zwei Büchern Über Werden und Vergehen:</strong> S. 871–989. Anfang der ersten Frage: Erstens ist zu sagen, dass es Werden und Vergehen gibt......</p>\n<p>d) <strong>Fortsetzung des Kommentars. Achte Disputation über Wesen, Arten und Eigenschaften der Seele im Allgemeinen:</strong> S. 1055–1134. Anfang des ersten Artikels: Dass es eine Seele gibt, halten wir für sicher....</p>\n<p>e) <strong>Fortsetzung des Kommentars zur gesamten Philosophie des Aristoteles. Neunte Disputation zu den vierzehn Büchern der Metaphysik des Aristoteles:</strong> S. 1134–1168. Anfang der einzigen Frage: Erstens ist zu sagen, dass die Metaphysik die spekulative Wissenschaft vom realen Seienden ist.....</p>\n<p>Dieselben Abhandlungen enthält MN II 107; die Teile c–b–d–e außerdem MN II 121.</p>\n<p>Der Verfasser ist unbekannt.</p>\n<p>Vergleicht man die Schrift mit MN II 119, könnte man meinen, auch dieser Codex sei von Fr. Meinradus Higger geschrieben worden. Es bestehen jedoch Unterschiede, etwa in der Form des Buchstabens t; daher darf diese Zuschreibung nicht als sicher gelten.</p>",
+    "latin": "1184 pagg.; tegumentum penitus abscissum; script. 1672\n\n(Physica Aristotelis)\n\na) (Disputatio I–IV In octo Libros Physicos): p. 1–784 (folium primum deest!) _Clausula_ p. 784: Absolvimus octo physicos Anno 1672. die quarta Maii. sine omni omnino schmauss.\n\nb) Disputatio quinta. In quatuor libros Aristotelis De Coelis: p. 791–861. _Initium_: Explicatis illis quae de ente mobili in communi....\n\nc) Commentarii Continuatio Disputatio sexta. In Duo (!) libros de generatione et Corruptione: p. 871–989. _Initium_ Quaestionis Primae: Dicendum est primo Dari generationem et corruptionem......\n\nd) Continuatio Commentarii. Disputatio Octava (!). De quidditate, quotuplicitate, et proprietatibus animae in communi: p. 1055–1134. _Initium_ Articuli Primi: Dari animam pro certo habemus....\n\n\n\n\ne) Continuatio Commentarii. In philosophiam universam aristotelis. Disputatio Nona in quatuordecim libros metaphysicos aristotelis: p. 1134–1168. _Initium_ Quaestionis Unicae: Dicendum est primo metaphysica est scientia speculativa entis realis.....\n\nEosdem tractatus continet codex MN II 107 (de quo supra p. 67!), partes c–b–d–e etiam codex MN II 121 (quem vide infra!)!\n\nAuctor ignotus.\n\nScripturam si comparaveris codicis nostri cum codice praecedente MN II 119, fortasse putabis etiam codicem nostrum a **F. Meinrado Higger** scriptum esse. Sunt tamen quaedam differentiae (ex. gr. forma litterae t); qua de re talem opinionem ne dixeris certam!",
+    "latinHtml": "<p>1184 pagg.; tegumentum penitus abscissum; script. 1672</p>\n<p>(Physica Aristotelis)</p>\n<p>a) (Disputatio I–IV In octo Libros Physicos): p. 1–784 (folium primum deest!) _Clausula_ p. 784: Absolvimus octo physicos Anno 1672. die quarta Maii. sine omni omnino schmauss.</p>\n<p>b) Disputatio quinta. In quatuor libros Aristotelis De Coelis: p. 791–861. _Initium_: Explicatis illis quae de ente mobili in communi....</p>\n<p>c) Commentarii Continuatio Disputatio sexta. In Duo (!) libros de generatione et Corruptione: p. 871–989. _Initium_ Quaestionis Primae: Dicendum est primo Dari generationem et corruptionem......</p>\n<p>d) Continuatio Commentarii. Disputatio Octava (!). De quidditate, quotuplicitate, et proprietatibus animae in communi: p. 1055–1134. _Initium_ Articuli Primi: Dari animam pro certo habemus....</p>\n<p>e) Continuatio Commentarii. In philosophiam universam aristotelis. Disputatio Nona in quatuordecim libros metaphysicos aristotelis: p. 1134–1168. _Initium_ Quaestionis Unicae: Dicendum est primo metaphysica est scientia speculativa entis realis.....</p>\n<p>Eosdem tractatus continet codex MN II 107 (de quo supra p. 67!), partes c–b–d–e etiam codex MN II 121 (quem vide infra!)!</p>\n<p>Auctor ignotus.</p>\n<p>Scripturam si comparaveris codicis nostri cum codice praecedente MN II 119, fortasse putabis etiam codicem nostrum a <strong>F. Meinrado Higger</strong> scriptum esse. Sunt tamen quaedam differentiae (ex. gr. forma litterae t); qua de re talem opinionem ne dixeris certam!</p>"
+  },
+  "source": {
+    "file": "MN II 120.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-120/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 120",
+    "titles": "(Physica Aristotelis) \n(Physica Aristotelis)",
+    "persons": "",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n1184 pagg. \ndescription: Einband verloren bzw. entfernt."
+  }
+}

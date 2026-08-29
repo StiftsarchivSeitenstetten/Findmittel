@@ -1,0 +1,146 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-49",
+  "signature": "MN III 49",
+  "aliases": [
+    "Bibl. Cod. MN III 49"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "253",
+  "heading": {
+    "title": "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1772"
+  },
+  "date": {
+    "display": "1772",
+    "intervals": [
+      {
+        "from": 1772,
+        "to": 1772,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–136",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "G R / R G",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Anna Maria zeindlinn / zrindlinn",
+      "roleRaw": "owner",
+      "roleLabel": "Besitzer",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1772",
+        "intervals": [
+          {
+            "from": 1772,
+            "to": 1772,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 136 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit feinen Verzierungen geschmückt; geschrieben 1772.\n\n**Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2.**\n\nDie Buchstaben **G R** oder **R G** scheinen daher die Initialen des Schreibers zu sein. Den vollständigen Namen konnte der Katalogbearbeiter nirgends ermitteln.\n\nAuf der Vorderseite des Titelblattes steht der Besitzername: **Anna Maria zeindlinn (aut zrindlinn?)**\n\nDas Gebetbuch ist schön in schwarzer und roter Tinte geschrieben und durch einige mit roter und grüner Farbe ausgeführte Zeichnungen verziert.",
+    "germanHtml": "<p>Kleines Oktavformat; 136 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit feinen Verzierungen geschmückt; geschrieben 1772.</p>\n<p><strong>Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2.</strong></p>\n<p>Die Buchstaben <strong>G R</strong> oder <strong>R G</strong> scheinen daher die Initialen des Schreibers zu sein. Den vollständigen Namen konnte der Katalogbearbeiter nirgends ermitteln.</p>\n<p>Auf der Vorderseite des Titelblattes steht der Besitzername: <strong>Anna Maria zeindlinn (aut zrindlinn?)</strong></p>\n<p>Das Gebetbuch ist schön in schwarzer und roter Tinte geschrieben und durch einige mit roter und grüner Farbe ausgeführte Zeichnungen verziert.</p>",
+    "latin": "8° min.; 136 pagg.; teg. b2 in dorso et marginibus decoratum teneris ornamentis; scriptus anno 1772\n\n**Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2.**\n\nVidentur ergo litterae initiales nominis scriptoris esse **G R** aut **R G**. Plenum autem nomen eius nusquam investigavi. In folio titulari recto legitur nomen possidentis: **Anna Maria zeindlinn (aut zrindlinn?)**\n\nLibellus noster precatorius pulchre nigro rubroque colore scriptus et aliquot delineationibus rubro viridique colore pictis ornatus est.",
+    "latinHtml": "<p>8° min.; 136 pagg.; teg. b2 in dorso et marginibus decoratum teneris ornamentis; scriptus anno 1772</p>\n<p><strong>Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2.</strong></p>\n<p>Videntur ergo litterae initiales nominis scriptoris esse <strong>G R</strong> aut <strong>R G</strong>. Plenum autem nomen eius nusquam investigavi. In folio titulari recto legitur nomen possidentis: <strong>Anna Maria zeindlinn (aut zrindlinn?)</strong></p>\n<p>Libellus noster precatorius pulchre nigro rubroque colore scriptus et aliquot delineationibus rubro viridique colore pictis ornatus est.</p>"
+  },
+  "source": {
+    "file": "MN III 49.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-49/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 49",
+    "titles": "Gebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2 \nGebett Biechel darinen Alerhandt Schöne Gebetter Zu finden seynd. beschriben Anno 1. 7. [Monogramm: G R/R G] 7. 2",
+    "persons": "G R / R G Schreiber scribe \nAnna Maria zeindlinn / zrindlinn Besitzer owner",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+  }
+}

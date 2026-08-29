@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-47",
+  "signature": "MN III 47",
+  "aliases": [
+    "Bibl. Cod. MN III 47"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "246",
+  "heading": {
+    "title": "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1767"
+  },
+  "date": {
+    "display": "1767",
+    "intervals": [
+      {
+        "from": 1767,
+        "to": 1767,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–130",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur die Auflösung „= manu scriptum?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 2–130",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1767",
+        "intervals": [
+          {
+            "from": 1767,
+            "to": 1767,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 130 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1767.\n\n**Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?):** S. 1.\n\nÜberschrift S. 2: **Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet.**\n\nKompilator und Schreiber sind unbekannt.\n\nAuf dem Vorderdeckel finden sich die Initialen **G P 1803**. Wem sie gehören, zeigt wohl S. 129, wo darunter ein vollständiger, allerdings schwer lesbarer Name steht: **Georg Plaim (?)**. Da unser Codex bereits 1767 geschrieben wurde, kann dieser Georg Plaim (?) kaum der Schreiber gewesen sein, sondern lediglich ein späterer Besitzer.",
+    "germanHtml": "<p>Oktavformat; 130 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1767.</p>\n<p><strong>Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?):</strong> S. 1.</p>\n<p>Überschrift S. 2: <strong>Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet.</strong></p>\n<p>Kompilator und Schreiber sind unbekannt.</p>\n<p>Auf dem Vorderdeckel finden sich die Initialen <strong>G P 1803</strong>. Wem sie gehören, zeigt wohl S. 129, wo darunter ein vollständiger, allerdings schwer lesbarer Name steht: <strong>Georg Plaim (?)</strong>. Da unser Codex bereits 1767 geschrieben wurde, kann dieser Georg Plaim (?) kaum der Schreiber gewesen sein, sondern lediglich ein späterer Besitzer.</p>",
+    "latin": "8°; 130 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decoratum; scriptus 1767\n\n**Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)** (p. 1)\n\nInscriptio p. 2: **Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet.**\n\nNomina compilatoris et scriptoris nescio. In parte adversa tegumenti inveniuntur litterae initiales: **G P 1803.** Quae cuius sint litterae initiales, reperitur p. 129, ubi litteris G P plenum nomen, difficile tamen lectu, suppositum est: **Georg Plaim (?)**. Sed cum codicillus noster iam anno 1767 scriptus sit, Georgius ille Plaim (?) vix potest esse scriptor, sed non nisi possessor libelli.",
+    "latinHtml": "<p>8°; 130 pagg.; teg. b2 in margine et dorso ornamentis impressis et inauratis decoratum; scriptus 1767</p>\n<p><strong>Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?)</strong> (p. 1)</p>\n<p>Inscriptio p. 2: <strong>Folgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet.</strong></p>\n<p>Nomina compilatoris et scriptoris nescio. In parte adversa tegumenti inveniuntur litterae initiales: <strong>G P 1803.</strong> Quae cuius sint litterae initiales, reperitur p. 129, ubi litteris G P plenum nomen, difficile tamen lectu, suppositum est: <strong>Georg Plaim (?)</strong>. Sed cum codicillus noster iam anno 1767 scriptus sit, Georgius ille Plaim (?) vix potest esse scriptor, sed non nisi possessor libelli.</p>"
+  },
+  "source": {
+    "file": "MN III 47.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-47/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 47",
+    "titles": "Kern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?) \nKern Aller Gebetter das ist Die Betrübte, und nach Ihren Geliebten seüfzende Turtel=Taube Maria In dem Jahr Christi 1767 M S. (= manu scriptum?) \nFolgen Unterschiedliche Andachts Übüngen. als Morgens und Abends Meß, Beicht, und Communion Gebetter, das officium der unbefleckten Empfängnus Mariae, die Lauretanische sambt mehreren andächtigen Lytaneyen zusammengesetzet",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nur die Auflösung „= manu scriptum?“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+  }
+}

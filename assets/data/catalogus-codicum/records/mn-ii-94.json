@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-94",
+  "signature": "MN II 94",
+  "aliases": [
+    "Bibl. Cod. MN II 94",
+    "In libros tertium et quartum Decretalium"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "60",
+  "heading": {
+    "title": "In librum tertium Decretalium",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "ca. 1670"
+  },
+  "date": {
+    "display": "ca. 1670",
+    "intervals": [
+      {
+        "from": 1670,
+        "to": 1670,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "In librum tertium Decretalium",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–344",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Bis zum Anfang des 22. Titels."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Librum quartum Decretalium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 387–580",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Ludovicus Engel",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "certainty": "inferred_from_parallel"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "386 + 200 = 586 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband aus zwei Pergamentblättern, Fragment von Lesungen des göttlichen Offiziums aus dem 15. Jahrhundert.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1670",
+        "intervals": [
+          {
+            "from": 1670,
+            "to": 1670,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": "Ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich 'ca. 1670'."
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "preliminary_note",
+      "text": "Conscripta à P. Bernardo.",
+      "note": "Wahrscheinlich erst nachträglich angebracht, da Leittner kaum vor 1672 als Pater bezeichnet wurde."
+    },
+    {
+      "type": "handwritten_note",
+      "text": "cf. Admont 1050/1"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "386 + 200 = 586 Seiten; Einband aus zwei zusammengeklebten Pergamentblättern, einem im 15. Jahrhundert geschriebenen Fragment von Lesungen des göttlichen Offiziums; geschrieben **[ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]**.\n\na) **(Zum dritten Buch der Dekretalen):** S. 1–344, bis zum Anfang des 22. Titels. Anfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker**, S. 1: **Es gibt zwei Arten von Christen, schreibt der hl. Hieronymus.....**\n\n> **Handschriftlicher Nachtrag am Seitenende:** *cf. Admont 1050/1.*\n\nb) **Abhandlung zum vierten Buch der Dekretalen:** S. 1–193 (=387–580).\n\nAnfang S. 387: **Vorrede. Dieses gesamte Buch handelt von der Ehe....**\n\nVermerk auf einem Vorsatzblatt dieses Codex: **Conscripta à P. Bernardo.** Dass damit niemand anderes als **P. Bernardus Leittner** gemeint ist, zeigt dieselbe Schrift wie in Codex MN II 93 (siehe oben S. 59/60).\n\nAls **Pater** wurde er jedoch kaum vor dem Jahr 1672 bezeichnet, in dem er wahrscheinlich zum Priester geweiht wurde. Daher scheint der Vermerk auf dem Vorsatzblatt erst angebracht worden zu sein, als der Codex bereits lange geschrieben war.\n\nDenn Teil a findet sich mit derselben Verstümmelung auch in Teil c des Codex MN II 114 (siehe unten S. 71) und wurde im Jahr 1620 von **P. Ludovicus Engel**, einem Melker Mönch, in Salzburg vorgetragen. Es ist wahrscheinlich, dass derselbe Professor auch Teil b unseres Codex diktierte.",
+    "germanHtml": "<p>386 + 200 = 586 Seiten; Einband aus zwei zusammengeklebten Pergamentblättern, einem im 15. Jahrhundert geschriebenen Fragment von Lesungen des göttlichen Offiziums; geschrieben <strong>[ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]</strong>.</p>\n<p>a) <strong>(Zum dritten Buch der Dekretalen):</strong> S. 1–344, bis zum Anfang des 22. Titels. Anfang des ersten Titels <strong>Über Leben und ehrbaren Wandel der Kleriker</strong>, S. 1: <strong>Es gibt zwei Arten von Christen, schreibt der hl. Hieronymus.....</strong></p>\n<blockquote><p><strong>Handschriftlicher Nachtrag am Seitenende:</strong> <em>cf. Admont 1050/1.</em></p></blockquote>\n<p>b) <strong>Abhandlung zum vierten Buch der Dekretalen:</strong> S. 1–193 (=387–580).</p>\n<p>Anfang S. 387: <strong>Vorrede. Dieses gesamte Buch handelt von der Ehe....</strong></p>\n<p>Vermerk auf einem Vorsatzblatt dieses Codex: <strong>Conscripta à P. Bernardo.</strong> Dass damit niemand anderes als <strong>P. Bernardus Leittner</strong> gemeint ist, zeigt dieselbe Schrift wie in Codex MN II 93 (siehe oben S. 59/60).</p>\n<p>Als <strong>Pater</strong> wurde er jedoch kaum vor dem Jahr 1672 bezeichnet, in dem er wahrscheinlich zum Priester geweiht wurde. Daher scheint der Vermerk auf dem Vorsatzblatt erst angebracht worden zu sein, als der Codex bereits lange geschrieben war.</p>\n<p>Denn Teil a findet sich mit derselben Verstümmelung auch in Teil c des Codex MN II 114 (siehe unten S. 71) und wurde im Jahr 1620 von <strong>P. Ludovicus Engel</strong>, einem Melker Mönch, in Salzburg vorgetragen. Es ist wahrscheinlich, dass derselbe Professor auch Teil b unseres Codex diktierte.</p>",
+    "latin": "386 + 200 = 586 pagg.; teg. duobus foliis membranaceis (fragmentum lectionum divini officii saec. XV. scriptum) conglutinatum; script. [ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]\n\na) (In librum tertium Decretalium): p. 1–344 (usque ad initium tituli 22). Initium Tituli Primi De Vita et honestate Clericorum: p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....\n\n[Handschriftlicher Nachtrag am Seitenende: \"cf. Admont 1050/1\".]\n\n\n\n\nb) Tractatus In Librum quartum Decretalium: p. 1–193 (= 387–580).\n\n_Initium_ p. 387: Praefatio. Totus hic liber tractat de matrimonio....\n\nNota in folio praeliminari huius codicis: Conscripta à P. Bernardo. Quem non nisi **P. Bernardum Leittner** esse ostendit eadem scriptura ut in codice MN II 93 (vide supra p. 59/60!). Nomine autem Patris vix ante annum 1672, quo anno probabiliter sacerdotio initiatus est, appellabatur. Qua de causa nota in folio praeliminari, codice iam pridem scripto, apposita esse videtur. Etenim pars a (cum eadem mutilatione) invenitur etiam in parte c codicis MN II 114 (vide infra p. 71) anno 1620 a **P. Ludovico Engel** Monacho Mellicensi Salisburgi tradita. Veri simile est eundem professorem etiam partem b codicis nostri dictavisse.",
+    "latinHtml": "<p>386 + 200 = 586 pagg.; teg. duobus foliis membranaceis (fragmentum lectionum divini officii saec. XV. scriptum) conglutinatum; script. [ursprüngliche maschinschriftliche Datierung gestrichen; handschriftlich: ca. 1670]</p>\n<p>a) (In librum tertium Decretalium): p. 1–344 (usque ad initium tituli 22). Initium Tituli Primi De Vita et honestate Clericorum: p. 1: Duo sunt genera Christianorum scribit S. Hieronymus.....</p>\n<p>[Handschriftlicher Nachtrag am Seitenende: \"cf. Admont 1050/1\".]</p>\n<p>b) Tractatus In Librum quartum Decretalium: p. 1–193 (= 387–580).</p>\n<p>_Initium_ p. 387: Praefatio. Totus hic liber tractat de matrimonio....</p>\n<p>Nota in folio praeliminari huius codicis: Conscripta à P. Bernardo. Quem non nisi <strong>P. Bernardum Leittner</strong> esse ostendit eadem scriptura ut in codice MN II 93 (vide supra p. 59/60!). Nomine autem Patris vix ante annum 1672, quo anno probabiliter sacerdotio initiatus est, appellabatur. Qua de causa nota in folio praeliminari, codice iam pridem scripto, apposita esse videtur. Etenim pars a (cum eadem mutilatione) invenitur etiam in parte c codicis MN II 114 (vide infra p. 71) anno 1620 a <strong>P. Ludovico Engel</strong> Monacho Mellicensi Salisburgi tradita. Veri simile est eundem professorem etiam partem b codicis nostri dictavisse.</p>"
+  },
+  "source": {
+    "file": "MN II 94.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-94/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 114]]",
+      "targetId": "mn-ii-114",
+      "targetSignature": "MN II 114",
+      "appliesTo": [
+        "Teil a"
+      ],
+      "certainty": "",
+      "note": "Gleiche Verstümmelung."
+    }
+  ],
+  "search": {
+    "signature": "MN II 94",
+    "titles": "In librum tertium Decretalium \nIn librum tertium Decretalium \nTractatus In Librum quartum Decretalium",
+    "persons": "P. Bernardus Leittner Schreiber scribe \nP. Ludovicus Engel Dozent lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Bis zum Anfang des 22. Titels.",
+    "physical": "Papier \n386 + 200 = 586 Seiten \ndescription: Einband aus zwei Pergamentblättern, Fragment von Lesungen des göttlichen Offiziums aus dem 15. Jahrhundert."
+  }
+}

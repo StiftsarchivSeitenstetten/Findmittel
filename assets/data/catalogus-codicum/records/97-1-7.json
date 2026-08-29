@@ -1,0 +1,143 @@
+{
+  "schemaVersion": 1,
+  "id": "97-1-7",
+  "signature": "97.1.7",
+  "aliases": [
+    "Bibl. Cod. 97.1.7"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "207–208",
+  "heading": {
+    "title": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1723 (?)"
+  },
+  "date": {
+    "display": "1723 (?)",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–ca. 600",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Fischer",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "ca. 600 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1723 (?)",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; etwa 600 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.**\n\nDa dieser Codex lediglich den vorausgehenden fortsetzt, gilt hinsichtlich Verfasser, Schreiber und Entstehung das dort Gesagte.",
+    "germanHtml": "<p>Folioformat; etwa 600 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).</p>\n<p><strong>Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.</strong></p>\n<p>Da dieser Codex lediglich den vorausgehenden fortsetzt, gilt hinsichtlich Verfasser, Schreiber und Entstehung das dort Gesagte.</p>",
+    "latin": "fol.; ca. 600 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.**\n\nCum hic codex nil nisi codicem praecedentem prosequatur, vide, quae supra de auctore, scriptore, origine exposuerimus!",
+    "latinHtml": "<p>fol.; ca. 600 pagg.; teg. b1 cum dorso albo; script. 1723 (?)</p>\n<p><strong>Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.</strong></p>\n<p>Cum hic codex nil nisi codicem praecedentem prosequatur, vide, quae supra de auctore, scriptore, origine exposuerimus!</p>"
+  },
+  "source": {
+    "file": "97.1.7.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/97-1-7/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "97.1.6",
+      "targetId": "97-1-6",
+      "targetSignature": "97.1.6",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "97.1.7",
+    "titles": "Codicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226. \nCodicis Provincialis Anderter Theil Von Littera G bis M. das ist Von No 673 bis No 1226.",
+    "persons": "Johann Fischer Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nca. 600 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

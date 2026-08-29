@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-26",
+  "signature": "MN I 26",
+  "aliases": [
+    "Bibl. Cod. MN I 26",
+    "Fäden der Liebe"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "286",
+  "heading": {
+    "title": "Fäden der Liebe.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "um 1900"
+  },
+  "date": {
+    "display": "um 1900",
+    "intervals": [
+      {
+        "from": 1900,
+        "to": 1900,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Fäden der Liebe.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Fäden der Liebe.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "genre",
+          "text": "Liebesroman"
+        },
+        {
+          "type": "publication_status",
+          "text": "unbekannt"
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Therese Rak",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Therese Rak",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Therese Rak",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Therese Rak",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "loose_leaves_in_wrapper",
+    "support": "Papier",
+    "extent": "511 lose Blätter",
+    "format": "Großquart",
+    "binding": {},
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1900",
+        "intervals": [
+          {
+            "from": 1900,
+            "to": 1900,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": "circa"
+      },
+      "place": "Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Der Name der Verfasserin steht am Ende des Werkes.",
+    "Ob das Werk jemals im Druck erschien, blieb dem Katalogbearbeiter unbekannt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 511 lose Blätter, aufbewahrt in einem Pappeinband, dessen Rücken und Kanten mit grauem Leinen verstärkt sind; geschrieben um 1900.\n\nNur die Vorderseiten der Blätter sind beschrieben.\n\n**Fäden der Liebe.**\n\nDie Verfasserin dieses umfangreichen Liebesromans setzte am Ende ihren Namen darunter: **Therese Rak.** Diese Schriftstellerin lebte um 1900 in Seitenstetten. Ob unser Werk im Druck veröffentlicht wurde, weiß ich nicht.",
+    "germanHtml": "<p>Großquartformat; 511 lose Blätter, aufbewahrt in einem Pappeinband, dessen Rücken und Kanten mit grauem Leinen verstärkt sind; geschrieben um 1900.</p>\n<p>Nur die Vorderseiten der Blätter sind beschrieben.</p>\n<p><strong>Fäden der Liebe.</strong></p>\n<p>Die Verfasserin dieses umfangreichen Liebesromans setzte am Ende ihren Namen darunter: <strong>Therese Rak.</strong> Diese Schriftstellerin lebte um 1900 in Seitenstetten. Ob unser Werk im Druck veröffentlicht wurde, weiß ich nicht.</p>",
+    "latin": "4° mai.; 511 foll. soluta, servata in tegumento chartaceo, dorso extremisque cano linteo munitis; script. ca. 1900\n\nFolia recta tantum inscripta sunt.\n\n**Fäden der Liebe.**\n\nAuctrix huius grandis fabulae amoris in fine nomen suum apposuit: **Therese Rak.** Fabularum illa poetrix habitavit circa annum 1900 in Seitenstetten. Num opus nostrum typis evulgatum sit, nescio.",
+    "latinHtml": "<p>4° mai.; 511 foll. soluta, servata in tegumento chartaceo, dorso extremisque cano linteo munitis; script. ca. 1900</p>\n<p>Folia recta tantum inscripta sunt.</p>\n<p><strong>Fäden der Liebe.</strong></p>\n<p>Auctrix huius grandis fabulae amoris in fine nomen suum apposuit: <strong>Therese Rak.</strong> Fabularum illa poetrix habitavit circa annum 1900 in Seitenstetten. Num opus nostrum typis evulgatum sit, nescio.</p>"
+  },
+  "source": {
+    "file": "MN I 26.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-26/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 26",
+    "titles": "Fäden der Liebe. \nFäden der Liebe.",
+    "persons": "Therese Rak Autor author \nTherese Rak Autor author \nTherese Rak Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "de \nLiebesroman \nunbekannt \nDer Name der Verfasserin steht am Ende des Werkes. \nOb das Werk jemals im Druck erschien, blieb dem Katalogbearbeiter unbekannt.",
+    "physical": "Papier \n511 lose Blätter \nGroßquart"
+  }
+}

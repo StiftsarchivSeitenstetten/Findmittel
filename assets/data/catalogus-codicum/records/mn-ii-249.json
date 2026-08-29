@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-249",
+  "signature": "MN II 249",
+  "aliases": [
+    "Bibl. Cod. MN II 249"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "192",
+  "heading": {
+    "title": "Tractatus Thomisticus De Sacramentis In Genere et Specie",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1718/19"
+  },
+  "date": {
+    "display": "1718/19",
+    "intervals": [
+      {
+        "from": 1718,
+        "to": 1719,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Thomisticus De Sacramentis In Genere et Specie",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholasticus In tertiam partem Angelici Magistri â quaestione 60 de Sacramentis in Genere et Specie. Proloquium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7",
+      "language": "",
+      "incipit": {
+        "text": "Tractare aggredimur (!) de Sacramentis"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Pars Prima De Sacramentis in Genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–69",
+      "language": "",
+      "incipit": {
+        "text": "Ordinem doctrinae servaturi"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda. De Sacramentis in Specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 70–94",
+      "language": "",
+      "incipit": {
+        "text": "Nomen baptismus propriè immersionem significat"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalogbearbeiter ergänzt in runden Klammern „scilicet de baptismo, confirmatione, eucharistia“; diese Ergänzung ist nicht Teil des überlieferten Titels."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "23. August 1718"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Notata de Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 101–104 und 104–116",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der zweite Abschnitt betrifft die Sakramente in specie."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Notata Alia circa diversos illos Articulos de Sacramentis in specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 117–139",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus In Tertiam Partem Divi Thomae Proloquium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 141",
+      "language": "",
+      "incipit": {
+        "text": "Rubum illum ardentem quem videret Moyses"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Pars Prima. De Sacramento Poenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 141–339",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Notata de Poenitentia Ut Sacramentum et Virtus est",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 341–363",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "1719"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Martin Krumplberger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster St. Lambrecht"
+    },
+    {
+      "name": "Fr. Andreas Bischoff",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "368 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1718/19",
+        "intervals": [
+          {
+            "from": 1718,
+            "to": 1719,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "St. Lambrecht",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "368 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1718/19.\n\n**Thomistische Abhandlung über die Sakramente im Allgemeinen und im Einzelnen**, von P. Martin Krumplberger, Benediktiner und Profess des freien und exemten Klosters St. Lambrecht, Doktor der heiligen Theologie und verdienstvoller Professor derselben, apostolischer Notar der heiligen Kanones und Senior der Novizen, 1718.\n\nDas beigefügte Zeichen weist den Schreiber als Fr. Andreas Bischoff den Jüngeren aus Seitenstetten aus.\n\na) **Scholastische Abhandlung zum dritten Teil des engelgleichen Lehrers, ab Frage 60, über die Sakramente im Allgemeinen und im Einzelnen. Vorrede:** S. 7. Anfang: Wir beginnen, über die Sakramente zu handeln.....\n\nb) **Erster Teil. Über die Sakramente im Allgemeinen:** S. 7–69. Anfang: Um die Ordnung der Lehre zu wahren.....\n\nc) **Zweiter Teil. Über die Sakramente im Einzelnen**, nämlich Taufe, Firmung und Eucharistie: S. 70–94. Anfang: Das Wort Taufe bedeutet im eigentlichen Sinn Untertauchen...... Schluss: **23. August 1718.** (= Andreas Bischoff aus Seitenstetten)\n\nd) **Notizen über die Sakramente im Allgemeinen:** S. 101–104, und im Einzelnen S. 104–116.\n\ne) **Weitere Notizen zu verschiedenen Artikeln über die Sakramente im Einzelnen:** S. 117–139.\n\nf) **Theologische Abhandlung zum dritten Teil des hl. Thomas. Vorrede:** S. 141. Anfang: Jenen brennenden Dornbusch, den Mose sah.....\n\ng) **Erster Teil. Über das Sakrament der Buße:** S. 141–339.\n\nh) **Notizen über die Buße als Sakrament und als Tugend:** S. 341–363. Schluss: **1719.**",
+    "germanHtml": "<p>368 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1718/19.</p>\n<p><strong>Thomistische Abhandlung über die Sakramente im Allgemeinen und im Einzelnen</strong>, von P. Martin Krumplberger, Benediktiner und Profess des freien und exemten Klosters St. Lambrecht, Doktor der heiligen Theologie und verdienstvoller Professor derselben, apostolischer Notar der heiligen Kanones und Senior der Novizen, 1718.</p>\n<p>Das beigefügte Zeichen weist den Schreiber als Fr. Andreas Bischoff den Jüngeren aus Seitenstetten aus.</p>\n<p>a) <strong>Scholastische Abhandlung zum dritten Teil des engelgleichen Lehrers, ab Frage 60, über die Sakramente im Allgemeinen und im Einzelnen. Vorrede:</strong> S. 7. Anfang: Wir beginnen, über die Sakramente zu handeln.....</p>\n<p>b) <strong>Erster Teil. Über die Sakramente im Allgemeinen:</strong> S. 7–69. Anfang: Um die Ordnung der Lehre zu wahren.....</p>\n<p>c) <strong>Zweiter Teil. Über die Sakramente im Einzelnen</strong>, nämlich Taufe, Firmung und Eucharistie: S. 70–94. Anfang: Das Wort Taufe bedeutet im eigentlichen Sinn Untertauchen...... Schluss: <strong>23. August 1718.</strong> (= Andreas Bischoff aus Seitenstetten)</p>\n<p>d) <strong>Notizen über die Sakramente im Allgemeinen:</strong> S. 101–104, und im Einzelnen S. 104–116.</p>\n<p>e) <strong>Weitere Notizen zu verschiedenen Artikeln über die Sakramente im Einzelnen:</strong> S. 117–139.</p>\n<p>f) <strong>Theologische Abhandlung zum dritten Teil des hl. Thomas. Vorrede:</strong> S. 141. Anfang: Jenen brennenden Dornbusch, den Mose sah.....</p>\n<p>g) <strong>Erster Teil. Über das Sakrament der Buße:</strong> S. 141–339.</p>\n<p>h) <strong>Notizen über die Buße als Sakrament und als Tugend:</strong> S. 341–363. Schluss: <strong>1719.</strong></p>",
+    "latin": "368 pagg.; teg. a1; script. 1718/19\n\nTractatus Thomisticus De Sacramentis In Genere et Specie A...... Patre Martino Krumplberger Ordinis Sanctissimi P. Benedicti Celeberrimi Liberi et Exempti Monasterii ad S. Lambertum Professo. Sacrosanctae Theologiae Doctore eiusdemque Professore dignissimo. nec non Sacrorum Canonum Apostolico Notario Tyronumque senior. Anno 1718.\n\nHoc signum manifestat scriptorem esse F. Andream Bischoff Juniorem Seitenstettensem (? Vide etiam, quae supra p. 189–191 ad codices MN II 245–248 de hoc signo notaverimus!)\n\na) Tractatus Scholasticus In tertiam partem Angelici Magistri â quaestione 60 de Sacramentis in Genere et Specie. Proloquium p. 7.  \nInitium: Tractare aggredimur (!) de Sacramentis,.....\n\nb) Pars Prima De Sacramentis in Genere: p. 7–69.  \nInitium: Ordinem doctrinae servaturi,.....\n\nc) Pars Secunda. De Sacramentis in Specie (scilicet de baptismo, confirmatione, eucharistia): p. 70–94.  \nInitium: Nomen baptismus propriè immersionem significat......  \nClausula: Anno 1718 die 23 Augusti. (= Andreas Bischoff Seitenstettensis)\n\nd) Notata de Sacramentis in genere: p. 101–104 et speciei 104–116\n\ne) Notata Alia circa diversos illos Articulos de Sacramentis in specie: p. 117–139\n\nf) Tractatus Theologicus In Tertiam Partem Divi Thomae Proloquium: p. 141.  \nInitium: Rubum illum ardentem quem videret Moyses.....\n\ng) Pars Prima. De Sacramento Poenitentiae: p. 141–339\n\nh) Notata de Poenitentia Ut Sacramentum et Virtus est: p. 341–363.  \nClausula: Anno 1719.",
+    "latinHtml": "<p>368 pagg.; teg. a1; script. 1718/19</p>\n<p>Tractatus Thomisticus De Sacramentis In Genere et Specie A...... Patre Martino Krumplberger Ordinis Sanctissimi P. Benedicti Celeberrimi Liberi et Exempti Monasterii ad S. Lambertum Professo. Sacrosanctae Theologiae Doctore eiusdemque Professore dignissimo. nec non Sacrorum Canonum Apostolico Notario Tyronumque senior. Anno 1718.</p>\n<p>Hoc signum manifestat scriptorem esse F. Andream Bischoff Juniorem Seitenstettensem (? Vide etiam, quae supra p. 189–191 ad codices MN II 245–248 de hoc signo notaverimus!)</p>\n<p>a) Tractatus Scholasticus In tertiam partem Angelici Magistri â quaestione 60 de Sacramentis in Genere et Specie. Proloquium p. 7. Initium: Tractare aggredimur (!) de Sacramentis,.....</p>\n<p>b) Pars Prima De Sacramentis in Genere: p. 7–69. Initium: Ordinem doctrinae servaturi,.....</p>\n<p>c) Pars Secunda. De Sacramentis in Specie (scilicet de baptismo, confirmatione, eucharistia): p. 70–94. Initium: Nomen baptismus propriè immersionem significat...... Clausula: Anno 1718 die 23 Augusti. (= Andreas Bischoff Seitenstettensis)</p>\n<p>d) Notata de Sacramentis in genere: p. 101–104 et speciei 104–116</p>\n<p>e) Notata Alia circa diversos illos Articulos de Sacramentis in specie: p. 117–139</p>\n<p>f) Tractatus Theologicus In Tertiam Partem Divi Thomae Proloquium: p. 141. Initium: Rubum illum ardentem quem videret Moyses.....</p>\n<p>g) Pars Prima. De Sacramento Poenitentiae: p. 141–339</p>\n<p>h) Notata de Poenitentia Ut Sacramentum et Virtus est: p. 341–363. Clausula: Anno 1719.</p>"
+  },
+  "source": {
+    "file": "MN II 249.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-249/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 249",
+    "titles": "Tractatus Thomisticus De Sacramentis In Genere et Specie \nTractatus Scholasticus In tertiam partem Angelici Magistri â quaestione 60 de Sacramentis in Genere et Specie. Proloquium \nPars Prima De Sacramentis in Genere \nPars Secunda. De Sacramentis in Specie \nNotata de Sacramentis in genere \nNotata Alia circa diversos illos Articulos de Sacramentis in specie \nTractatus Theologicus In Tertiam Partem Divi Thomae Proloquium \nPars Prima. De Sacramento Poenitentiae \nNotata de Poenitentia Ut Sacramentum et Virtus est",
+    "persons": "P. Martin Krumplberger Dozent lecturer \nFr. Andreas Bischoff Schreiber scribe",
+    "incipits": "Tractare aggredimur (!) de Sacramentis \nOrdinem doctrinae servaturi \nNomen baptismus propriè immersionem significat \nRubum illum ardentem quem videret Moyses",
+    "explicits": "",
+    "notes": "Der Katalogbearbeiter ergänzt in runden Klammern „scilicet de baptismo, confirmatione, eucharistia“; diese Ergänzung ist nicht Teil des überlieferten Titels. \nDer zweite Abschnitt betrifft die Sakramente in specie.",
+    "physical": "Papier \n368 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

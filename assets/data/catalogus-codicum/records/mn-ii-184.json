@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-184",
+  "signature": "MN II 184",
+  "aliases": [
+    "Bibl. Cod. MN II 184"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "139",
+  "heading": {
+    "title": "Continuatio Commentarii in octo libros Physicorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1692"
+  },
+  "date": {
+    "display": "ca. 1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_parallel",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Continuatio Commentarii in octo libros Physicorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 13–324",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Fortsetzung des in MN II 183 enthaltenen ersten Teils."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus secundus De Mundo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 321–411",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Ludovicus Babenstuber",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "Kloster Ettal / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung wird aus der Rückenaufschrift und MN II 183 erschlossen."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber wie beim größten Teil von MN II 183."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "446 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_parallel",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Pars Secunda Physices. De Mundo et Caelis. R: P L: B.",
+      "certainty": "uncertain",
+      "note": "Die Rückenaufschrift ist stark verblichen und wird im Katalog nur näherungsweise gelesen."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1692.\n\na) **Fortsetzung des Kommentars zu den acht Büchern der Physik:** S. 13–324. Den ersten Teil enthält MN II 183.\n\nb) **Zweite Abhandlung über die Welt:** S. 321–411. Anfang: Die Physik des Aristoteles kann in eine allgemeine und eine besondere eingeteilt werden.....\n\nDie stark verblichene Rückenaufschrift ist ungefähr zu lesen: **Pars Secunda Physices. De Mundo et Caelis. R: P L: B.** Wie bei MN II 183 erläutert, bezeichnen die Initialen P. Ludovicus Babenstuber, den berühmten Ettaler Mönch und Salzburger Professor. Er ist daher auch Verfasser dieses Codex, der nichts anderes als die Fortsetzung des vorhergehenden Codex darstellt.\n\nDer Codex wurde von demselben unbekannten Schreiber geschrieben, der auch den größten Teil von MN II 183 ausführte. Entstehungszeit ist ebenfalls ungefähr 1692.",
+    "germanHtml": "<p>446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1692.</p>\n<p>a) <strong>Fortsetzung des Kommentars zu den acht Büchern der Physik:</strong> S. 13–324. Den ersten Teil enthält MN II 183.</p>\n<p>b) <strong>Zweite Abhandlung über die Welt:</strong> S. 321–411. Anfang: Die Physik des Aristoteles kann in eine allgemeine und eine besondere eingeteilt werden.....</p>\n<p>Die stark verblichene Rückenaufschrift ist ungefähr zu lesen: <strong>Pars Secunda Physices. De Mundo et Caelis. R: P L: B.</strong> Wie bei MN II 183 erläutert, bezeichnen die Initialen P. Ludovicus Babenstuber, den berühmten Ettaler Mönch und Salzburger Professor. Er ist daher auch Verfasser dieses Codex, der nichts anderes als die Fortsetzung des vorhergehenden Codex darstellt.</p>\n<p>Der Codex wurde von demselben unbekannten Schreiber geschrieben, der auch den größten Teil von MN II 183 ausführte. Entstehungszeit ist ebenfalls ungefähr 1692.</p>",
+    "latin": "446 pagg.; teg. a1; script. ca. 1692\n\na) (Continuatio Commentarii in 8 libros Physicorum): p. 13–324 (Partem priorem huius commentarii continet codex praecedens MN II 183, quem modo pag. 138 tractavimus.)\n\nb) Tractatus secundus: de Mundo: p. 321–411. Initium: Physica Aristotelis potest dividi in universalem et particularem, ......\n\nInscriptio dorsi luridissima ita fere legenda est: Pars Secunda Physices. De Mundo et Caelis. R: P L: B. Quid istae litterae initiales significarent, supra p. 138 ad codicem MN II 183 disseruimus. Est igitur P. Ludovicus Babenstuber, celeberrimus monachus Ettalensis et Professor Salisburgensis, etiam huius codicis auctor. Et profecto codex noster nihil aliud est quam continuatio istius codicis. Quid mirum, quod ab eodem scriptus est, qui maximam partem codicis MN II 183 exaravit? At persona scriptoris ignota. Tempus vero, quo ortus est codex noster, idem est atque codicis praecedentis (circa annum 1692).",
+    "latinHtml": "<p>446 pagg.; teg. a1; script. ca. 1692</p>\n<p>a) (Continuatio Commentarii in 8 libros Physicorum): p. 13–324 (Partem priorem huius commentarii continet codex praecedens MN II 183, quem modo pag. 138 tractavimus.)</p>\n<p>b) Tractatus secundus: de Mundo: p. 321–411. Initium: Physica Aristotelis potest dividi in universalem et particularem, ......</p>\n<p>Inscriptio dorsi luridissima ita fere legenda est: Pars Secunda Physices. De Mundo et Caelis. R: P L: B. Quid istae litterae initiales significarent, supra p. 138 ad codicem MN II 183 disseruimus. Est igitur P. Ludovicus Babenstuber, celeberrimus monachus Ettalensis et Professor Salisburgensis, etiam huius codicis auctor. Et profecto codex noster nihil aliud est quam continuatio istius codicis. Quid mirum, quod ab eodem scriptus est, qui maximam partem codicis MN II 183 exaravit? At persona scriptoris ignota. Tempus vero, quo ortus est codex noster, idem est atque codicis praecedentis (circa annum 1692).</p>"
+  },
+  "source": {
+    "file": "MN II 184.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-184/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 183]]",
+      "targetId": "mn-ii-183",
+      "targetSignature": "MN II 183",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 183]]",
+      "targetId": "mn-ii-183",
+      "targetSignature": "MN II 183",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 184",
+    "titles": "Continuatio Commentarii in octo libros Physicorum \nContinuatio Commentarii in octo libros Physicorum \nTractatus secundus De Mundo",
+    "persons": "P. Ludovicus Babenstuber author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Fortsetzung des in MN II 183 enthaltenen ersten Teils.",
+    "physical": "Papier \n446 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

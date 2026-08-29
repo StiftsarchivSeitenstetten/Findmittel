@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-214",
+  "signature": "MN II 214",
+  "aliases": [
+    "Bibl. Cod. MN II 214"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "168",
+  "heading": {
+    "title": "Summulae sive Introductio ad Logicam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1701"
+  },
+  "date": {
+    "display": "1701",
+    "intervals": [
+      {
+        "from": 1701,
+        "to": 1701,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Summulae sive Introductio ad Logicam",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summulae sive Introductio ad Logicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–125",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1701-12-24"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber wie bei MN II 215 und MN II 216."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "130 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2",
+      "description": "Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1701",
+        "intervals": [
+          {
+            "from": 1701,
+            "to": 1701,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "130 Seiten; marmorierter Pappeinband; geschrieben 1701.\n\n**Summulae oder Einführung in die Logik:** S. 5–125.\n\nAnfang der Vorrede an die neuen Hörer der Philosophie: Ich weiß nicht, welchem unheilvollen Geschick des immer wechselnden Glücks ich es zuschreiben soll.....\n\nSchluss: **Diese Summulae über die Termini beendeten wir am Ende des Advents, nämlich am Heiligen Abend, dem 24. Dezember 1701.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.",
+    "germanHtml": "<p>130 Seiten; marmorierter Pappeinband; geschrieben 1701.</p>\n<p><strong>Summulae oder Einführung in die Logik:</strong> S. 5–125.</p>\n<p>Anfang der Vorrede an die neuen Hörer der Philosophie: Ich weiß nicht, welchem unheilvollen Geschick des immer wechselnden Glücks ich es zuschreiben soll.....</p>\n<p>Schluss: <strong>Diese Summulae über die Termini beendeten wir am Ende des Advents, nämlich am Heiligen Abend, dem 24. Dezember 1701.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.</p>",
+    "latin": "130 pagg.; teg. c2; script. 1701\n\n(Summulae sive Introductio ad Logicam): p. 5–125\n\nInitium Proloquii Ad Philosophiae Neo Auditores: Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....\n\nClausula: Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.\n\nNeque auctor notus neque scriptor, sed idem scriptor etiam duos codices sequentes exaravit.",
+    "latinHtml": "<p>130 pagg.; teg. c2; script. 1701</p>\n<p>(Summulae sive Introductio ad Logicam): p. 5–125</p>\n<p>Initium Proloquii Ad Philosophiae Neo Auditores: Nescio, quo sinistro fortunae semper volubilis fato evenisse dicam,....</p>\n<p>Clausula: Terminorum Summulas istas terminavimus in termino Adventûs, seu in Vigiliâ Nativitatis Domini. Die. 24. Decembris 1701.</p>\n<p>Neque auctor notus neque scriptor, sed idem scriptor etiam duos codices sequentes exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 214.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-214/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 215]]",
+      "targetId": "mn-ii-215",
+      "targetSignature": "MN II 215",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 216]]",
+      "targetId": "mn-ii-216",
+      "targetSignature": "MN II 216",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 214",
+    "titles": "Summulae sive Introductio ad Logicam \nSummulae sive Introductio ad Logicam",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n130 pagg. \ncode: c2; description: Marmorierter Pappeinband; weitere Besonderheiten siehe Katalogtext."
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-175",
+  "signature": "MN II 175",
+  "aliases": [
+    "Bibl. Cod. MN II 175"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "135",
+  "heading": {
+    "title": "Tractatus De Dei Creatoris primario effectu sive De Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1692"
+  },
+  "date": {
+    "display": "1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Dei Creatoris primario effectu sive De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–129v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1692-05-02"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–113r (=134–246r)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1692-09-01"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Gabriel Sumadtinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 131 + 122 = 255 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 131 + 122 = 255 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.\n\na) **Abhandlung über die erste Wirkung Gottes des Schöpfers oder über die Engel:** fol. 1–129. Anfang fol. 1r: Nachdem jene Dinge betrachtet sind, die Gott an sich betreffen, insofern er nämlich einer und dreieinig ist..... Schluss fol. 129v: **Wir beendeten diese Abhandlung über die Engel am 2. Mai 1692 vor dem Mittagessen.**\n\nb) **Kommentar zur Prima Secundae der Summa des engelgleichen Lehrers. Erste Abhandlung über die menschlichen Handlungen:** fol. 1r–113 (=134–246). Anfang der Vorrede: Da Gott, der Beste und Größte, nicht nur Ursprung der geschaffenen Dinge ist..... Schluss fol. 113 (=246)r: **Wir beendeten diese Abhandlung über die menschlichen Handlungen am 1. September 1692 vor dem Mittagessen.**\n\nAuf dem Vorderdeckel steht dieselbe Aufschrift wie beim vorhergehenden Codex. Daher schrieb auch diesen Codex Fr. Gabriel Sumadtinger. Wessen Vorlesungen er hier aufgezeichnet hat und wer somit der Verfasser ist, weiß ich nicht.",
+    "germanHtml": "<p>II + 131 + 122 = 255 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.</p>\n<p>a) <strong>Abhandlung über die erste Wirkung Gottes des Schöpfers oder über die Engel:</strong> fol. 1–129. Anfang fol. 1r: Nachdem jene Dinge betrachtet sind, die Gott an sich betreffen, insofern er nämlich einer und dreieinig ist..... Schluss fol. 129v: <strong>Wir beendeten diese Abhandlung über die Engel am 2. Mai 1692 vor dem Mittagessen.</strong></p>\n<p>b) <strong>Kommentar zur Prima Secundae der Summa des engelgleichen Lehrers. Erste Abhandlung über die menschlichen Handlungen:</strong> fol. 1r–113 (=134–246). Anfang der Vorrede: Da Gott, der Beste und Größte, nicht nur Ursprung der geschaffenen Dinge ist..... Schluss fol. 113 (=246)r: <strong>Wir beendeten diese Abhandlung über die menschlichen Handlungen am 1. September 1692 vor dem Mittagessen.</strong></p>\n<p>Auf dem Vorderdeckel steht dieselbe Aufschrift wie beim vorhergehenden Codex. Daher schrieb auch diesen Codex Fr. Gabriel Sumadtinger. Wessen Vorlesungen er hier aufgezeichnet hat und wer somit der Verfasser ist, weiß ich nicht.</p>",
+    "latin": "II + 131 + 122 = 255 foll.; teg. a2; script. 1692\n\na) Tractatus De Dei Creatoris primario effectu sive De Angelis: fol. 1–129. Initium fol. 1r: Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus..... Clausula fol. 129v: Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.\n\nb) Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis: fol. 1r–113 (= 134–246). Initium: Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,..... Clausula fol. 113 (246)r: Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.\n\nIn adversa parte tegumenti eadem inscriptio, quae in codice praecedenti. Qua de re (quod etiam in dorso codicis nostri notatur) F. Gabriel Sumadtinger etiam hunc codicem scripsit. Cuius tamen lectiones in codice nostro exceperit ideoque auctorem nostrum nescio.",
+    "latinHtml": "<p>II + 131 + 122 = 255 foll.; teg. a2; script. 1692</p>\n<p>a) Tractatus De Dei Creatoris primario effectu sive De Angelis: fol. 1–129. Initium fol. 1r: Consideratis (!) iis quae Deum secundum se quatenus nimirum unus et Trinus..... Clausula fol. 129v: Absolvimus Hunc Tractatum De Angelis secunda Maii Anno 1692. Anteprandium.</p>\n<p>b) Commentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis: fol. 1r–113 (= 134–246). Initium: Prooemium. Cum Deus Optimus Maximus non solum sit rerum Creatarum Principium,..... Clausula fol. 113 (246)r: Absolvimus praesentem Tractatum De Actibus Humanis 1 Septembris Anno 1692. Anteprandium.</p>\n<p>In adversa parte tegumenti eadem inscriptio, quae in codice praecedenti. Qua de re (quod etiam in dorso codicis nostri notatur) F. Gabriel Sumadtinger etiam hunc codicem scripsit. Cuius tamen lectiones in codice nostro exceperit ideoque auctorem nostrum nescio.</p>"
+  },
+  "source": {
+    "file": "MN II 175.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-175/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 175",
+    "titles": "Tractatus De Dei Creatoris primario effectu sive De Angelis \nTractatus De Dei Creatoris primario effectu sive De Angelis \nCommentarius In Primam Secundae Partis Summae Angelicae Sancti Doctoris. Tractatus Primus De Actibus Humanis",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nII + 131 + 122 = 255 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

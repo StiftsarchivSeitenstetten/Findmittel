@@ -1,0 +1,267 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-8",
+  "signature": "MN III 8",
+  "aliases": [
+    "Bibl. Cod. MN III 8"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "139–140",
+  "heading": {
+    "title": "Compendium Logicae",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1692"
+  },
+  "date": {
+    "display": "1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Compendium Logicae",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Prolegomenalis de Logica",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–76",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Titelblatt und S. 1–4 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Universalibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 77–131",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus Dialecticus in libros Categoriarum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 133–186",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "In Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 186–210",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "9. Mai 1692"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Compendium Logicae Ab Universalibus cum Deo ad finem usque perducendum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 213–268",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "9. Mai 1692"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Compendium Totius Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 271–282",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Sequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum formale",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 283–287",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "288 pagg.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "288 Seiten; kleines Oktavformat; Einband aus einem ehemals handschriftlich beschriebenen Pergamentblatt, heute so stark abgenutzt, dass es überhaupt nicht mehr gelesen werden kann.\n\n**Kompendium der Logik.**\n\na) **Prolegomenale Abhandlung über die Logik:** S. 1–76; Titelblatt sowie S. 1–4 fehlen.\n\nb) **Abhandlung über die Universalien:** S. 77–131.\n\nc) **Dialektische Abhandlung zu den Kategorien des Aristoteles:** S. 133–186.\n\nd) **Zu den Ersten und Zweiten Analytiken, über die dritte Tätigkeit des Geistes:** S. 186–210. Schluss S. 210: **9. Mai 1692, an welchem Tag die Vigil des hochheiligen Pfingstfestes gefeiert wurde.**\n\ne) **Kompendium der Logik von den Universalien bis zum mit Gottes Hilfe zu erreichenden Ende:** S. 213–268. Schluss S. 268: **Wir beendeten [dies] am 9. Mai vor dem Mittagessen, am Vorfest und an der Vigil von Pfingsten 1692.** Teil e ist also ein kürzeres Kompendium derselben Vorlesungen, die die Teile b–d ausführlicher zusammenfassen.\n\nf) **Kompendium der gesamten Logik:** S. 271–282.\n\ng) **Einige zu sammelnde Punkte für die Lehrmeinung, dass die Richtigkeit der erkannten Dinge ein Gedankending und der formale Gegenstand der Logik sei:** S. 283–287.\n\nWeder ist bekannt, wer diese Kompendien sammelte und schrieb, noch wessen Vorlesungen darin zusammengefasst wurden.",
+    "germanHtml": "<p>288 Seiten; kleines Oktavformat; Einband aus einem ehemals handschriftlich beschriebenen Pergamentblatt, heute so stark abgenutzt, dass es überhaupt nicht mehr gelesen werden kann.</p>\n<p><strong>Kompendium der Logik.</strong></p>\n<p>a) <strong>Prolegomenale Abhandlung über die Logik:</strong> S. 1–76; Titelblatt sowie S. 1–4 fehlen.</p>\n<p>b) <strong>Abhandlung über die Universalien:</strong> S. 77–131.</p>\n<p>c) <strong>Dialektische Abhandlung zu den Kategorien des Aristoteles:</strong> S. 133–186.</p>\n<p>d) <strong>Zu den Ersten und Zweiten Analytiken, über die dritte Tätigkeit des Geistes:</strong> S. 186–210. Schluss S. 210: <strong>9. Mai 1692, an welchem Tag die Vigil des hochheiligen Pfingstfestes gefeiert wurde.</strong></p>\n<p>e) <strong>Kompendium der Logik von den Universalien bis zum mit Gottes Hilfe zu erreichenden Ende:</strong> S. 213–268. Schluss S. 268: <strong>Wir beendeten [dies] am 9. Mai vor dem Mittagessen, am Vorfest und an der Vigil von Pfingsten 1692.</strong> Teil e ist also ein kürzeres Kompendium derselben Vorlesungen, die die Teile b–d ausführlicher zusammenfassen.</p>\n<p>f) <strong>Kompendium der gesamten Logik:</strong> S. 271–282.</p>\n<p>g) <strong>Einige zu sammelnde Punkte für die Lehrmeinung, dass die Richtigkeit der erkannten Dinge ein Gedankending und der formale Gegenstand der Logik sei:</strong> S. 283–287.</p>\n<p>Weder ist bekannt, wer diese Kompendien sammelte und schrieb, noch wessen Vorlesungen darin zusammengefasst wurden.</p>",
+    "latin": "288 pagg.; 8° min.; tegumentum folium membranaceum olim manu inscriptum, nunc vero ita attritum, ut omnino non possit legi.\n\n(Compendium Logicae)\n\na) (Tractatus Prolegomenalis de Logica): p. 1–76, sed desunt folium titulare et p. 1–4\n\nb) Tractatus de Universalibus: p. 77–131\n\nc) Tractatus Dialecticus in libros Categoriarum Aristotelis: p. 133–186\n\nd) In Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione: p. 186–210. Clausula p. 210: Die 9 Maii 1692, quo die vigilia Sanctissimi Festi Pentecostes celebrabatur.\n\ne) Compendium Logicae Ab Universalibus cum Deo ad finem usque perducendum: p. 213–268. Clausula p. 268: Absolvimus 9 Maii ante prandium, in profesto et Vigilia Pentecostes 1692. (Ergo pars e brevius est compendium earundem lectionum, quarum fusius compendium continent partes b–d.)\n\nf) Compendium Totius Logicae: p. 271–282\n\ng) Sequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum formale: p. 283–287.\n\nNeque quis haec compendia collegerit scripseritque notus neque cuius lectiones contraxerit.",
+    "latinHtml": "<p>288 pagg.; 8° min.; tegumentum folium membranaceum olim manu inscriptum, nunc vero ita attritum, ut omnino non possit legi.</p>\n<p>(Compendium Logicae)</p>\n<p>a) (Tractatus Prolegomenalis de Logica): p. 1–76, sed desunt folium titulare et p. 1–4</p>\n<p>b) Tractatus de Universalibus: p. 77–131</p>\n<p>c) Tractatus Dialecticus in libros Categoriarum Aristotelis: p. 133–186</p>\n<p>d) In Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione: p. 186–210. Clausula p. 210: Die 9 Maii 1692, quo die vigilia Sanctissimi Festi Pentecostes celebrabatur.</p>\n<p>e) Compendium Logicae Ab Universalibus cum Deo ad finem usque perducendum: p. 213–268. Clausula p. 268: Absolvimus 9 Maii ante prandium, in profesto et Vigilia Pentecostes 1692. (Ergo pars e brevius est compendium earundem lectionum, quarum fusius compendium continent partes b–d.)</p>\n<p>f) Compendium Totius Logicae: p. 271–282</p>\n<p>g) Sequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum formale: p. 283–287.</p>\n<p>Neque quis haec compendia collegerit scripseritque notus neque cuius lectiones contraxerit.</p>"
+  },
+  "source": {
+    "file": "MN III 8.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-8/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 8",
+    "titles": "Compendium Logicae \nTractatus Prolegomenalis de Logica \nTractatus de Universalibus \nTractatus Dialecticus in libros Categoriarum Aristotelis \nIn Libros Analyticos, Priores et Posteriores, De tertia Mentis Operatione \nCompendium Logicae Ab Universalibus cum Deo ad finem usque perducendum \nCompendium Totius Logicae \nSequuntur aliquae Colligenda pro illa Sententia quae asserit rectitudinem rerum cognitarum esse ens rationis atque Logicae obiectum formale",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Titelblatt und S. 1–4 fehlen; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.",
+    "physical": "Papier \n288 pagg. \nKleines Oktavformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+  }
+}

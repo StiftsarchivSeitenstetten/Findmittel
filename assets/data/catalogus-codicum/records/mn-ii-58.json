@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-58",
+  "signature": "MN II 58",
+  "aliases": [
+    "Bibl. Cod. MN II 58",
+    "Tractatus De Jure et Justitia Udalrici Freyberger"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "37–37a",
+  "heading": {
+    "title": "De Jure et Justitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653"
+  },
+  "date": {
+    "display": "1653",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1v–44r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Restitutione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 44r–150v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De Contractu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 151r–226v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "status",
+          "text": "Ende fehlt"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 229r–231v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "status",
+          "text": "Anfang fehlt"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Udalricus Freyberger OSB",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Joseph Schwaiger, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 233 Blätter; Bl. 227 und 228 fehlen",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "missing_leaves: 227; 228",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 233 Blätter; Bl. 227 und 228 fehlen; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1653.\n\n**Abhandlung über Recht und Gerechtigkeit, vorgetragen von P. Udalricus Freyberger, Benediktinermönch und Profess von St. Peter in Salzburg, ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger desselben Ordens, Profess des berühmten Klosters Seitenstetten in Niederösterreich und Student der Philosophie. 1653.**\n\nAnfang der Vorrede Bl. 1r: **Da der Mensch ein politisches Wesen ist....**\n\na) **Erster Teil. Über Recht und Gerechtigkeit:** Bl. 1v–44r.\n\nb) **Zweiter Teil. Über Restitution:** Bl. 44r–150v.\n\nc) **Dritter Teil. Über den Vertrag:** Bl. 151r–226v. (Das Ende fehlt!)\n\nd) **Register** der gesamten Abhandlung: Bl. 229r–231v. (Der Anfang fehlt!)\n\nDie Initialen auf dem Einband sind dieselben wie bei Codex MN II 55. Dieselbe Abhandlung enthalten Codex MN II 60 und Teil a von Arch. Cod. 34 P.",
+    "germanHtml": "<p>IV + 233 Blätter; Bl. 227 und 228 fehlen; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1653.</p>\n<p><strong>Abhandlung über Recht und Gerechtigkeit, vorgetragen von P. Udalricus Freyberger, Benediktinermönch und Profess von St. Peter in Salzburg, ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger desselben Ordens, Profess des berühmten Klosters Seitenstetten in Niederösterreich und Student der Philosophie. 1653.</strong></p>\n<p>Anfang der Vorrede Bl. 1r: <strong>Da der Mensch ein politisches Wesen ist....</strong></p>\n<p>a) <strong>Erster Teil. Über Recht und Gerechtigkeit:</strong> Bl. 1v–44r.</p>\n<p>b) <strong>Zweiter Teil. Über Restitution:</strong> Bl. 44r–150v.</p>\n<p>c) <strong>Dritter Teil. Über den Vertrag:</strong> Bl. 151r–226v. (Das Ende fehlt!)</p>\n<p>d) <strong>Register</strong> der gesamten Abhandlung: Bl. 229r–231v. (Der Anfang fehlt!)</p>\n<p>Die Initialen auf dem Einband sind dieselben wie bei Codex MN II 55. Dieselbe Abhandlung enthalten Codex MN II 60 und Teil a von Arch. Cod. 34 P.</p>",
+    "latin": "IV + 233 foll. (foll. 227 et 228 desunt!); teg. a2 (ut in codice MN II 55); script. 1653\n\n*Tractatus De Jure et Justitia Traditus ab....... Patre Udalrico Freyberger Monacho Benedictino ad S. Petrum Salisburgi Professo, Casuum Professore Ordinario. Exceptus â Religioso F. Josepho Schwaiger eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi Inferioris Austriae Professo Philosophiae Studioso. Anno. 1653.*\n\n*Initium* Praefationis fol. 1r: Cum homo sit animal politicum....\n\na) *Pars Prima: De Jure, et Justitia:* fol. 1v - 44r\n\nb) *Pars Secunda: De Restitutione:* fol. 44r - 150v\n\nc) *Pars Tertia: De Contractu:* fol. 151r - 226v. (Finis deest!)\n\nd) *Index* (totius tractatus): fol. 229r - 231v. (Initium deest!)\n\nLitterae initiales in tegumento ut in codice MN II 55 (supra p. 36). Eundem tractatum continent Codex MN II 60 (infra p. 38) et pars a codicis Arch. 34 P (infra p. 43/44).",
+    "latinHtml": "<p>IV + 233 foll. (foll. 227 et 228 desunt!); teg. a2 (ut in codice MN II 55); script. 1653</p>\n<p><em>Tractatus De Jure et Justitia Traditus ab....... Patre Udalrico Freyberger Monacho Benedictino ad S. Petrum Salisburgi Professo, Casuum Professore Ordinario. Exceptus â Religioso F. Josepho Schwaiger eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi Inferioris Austriae Professo Philosophiae Studioso. Anno. 1653.</em></p>\n<p><em>Initium</em> Praefationis fol. 1r: Cum homo sit animal politicum....</p>\n<p>a) <em>Pars Prima: De Jure, et Justitia:</em> fol. 1v - 44r</p>\n<p>b) <em>Pars Secunda: De Restitutione:</em> fol. 44r - 150v</p>\n<p>c) <em>Pars Tertia: De Contractu:</em> fol. 151r - 226v. (Finis deest!)</p>\n<p>d) <em>Index</em> (totius tractatus): fol. 229r - 231v. (Initium deest!)</p>\n<p>Litterae initiales in tegumento ut in codice MN II 55 (supra p. 36). Eundem tractatum continent Codex MN II 60 (infra p. 38) et pars a codicis Arch. 34 P (infra p. 43/44).</p>"
+  },
+  "source": {
+    "file": "MN II 58.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-58/",
+  "relations": [
+    {
+      "typeRaw": "same_text_as",
+      "typeLabel": "gleicher Text",
+      "targetRaw": "[[MN II 60]]",
+      "targetId": "mn-ii-60",
+      "targetSignature": "MN II 60",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_text_as",
+      "typeLabel": "gleicher Text",
+      "targetRaw": "Arch. Cod. 34 P",
+      "targetId": "arch-cod-34-p-xviii-3-m",
+      "targetSignature": "Arch. Cod. 34 P (XVIII 3 m)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 58",
+    "titles": "De Jure et Justitia \nDe Jure et Justitia \nDe Restitutione \nDe Contractu \nIndex",
+    "persons": "P. Udalricus Freyberger OSB Dozent lecturer \nFr. Joseph Schwaiger, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge. \nEnde fehlt \nAnfang fehlt",
+    "physical": "Papier \nIV + 233 Blätter; Bl. 227 und 228 fehlen \nQuartformat \nmissing_leaves: 227; 228 \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55."
+  }
+}

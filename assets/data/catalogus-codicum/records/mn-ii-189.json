@@ -1,0 +1,212 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-189",
+  "signature": "MN II 189",
+  "aliases": [
+    "Bibl. Cod. MN II 189"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "142",
+  "heading": {
+    "title": "Tractatus De Sacramentis in genere",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1693"
+  },
+  "date": {
+    "display": "1693",
+    "intervals": [
+      {
+        "from": 1693,
+        "to": 1693,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–335",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Baptismo et Confirmatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 335–454",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Venerabili (!)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 455–580",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Das Incipit bezeichnet den Gegenstand als Eucharistie; der Katalogtitel bricht nach „De Venerabili“ ab und ist mit Ausrufezeichen markiert."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Edmund Ruedorffer",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Lambach / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung wird aus MN II 185 übernommen."
+    },
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Derselbe Schreiber wie bei den drei vorhergehenden und fünf folgenden Codices."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "582 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2",
+      "description": "Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1693",
+        "intervals": [
+          {
+            "from": 1693,
+            "to": 1693,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "582 Seiten; marmorierter Pappeinband, Rücken und Kanten mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt; geschrieben 1693.\n\na) **Abhandlung über die Sakramente im Allgemeinen:** S. 1–335. Anfang der Vorrede: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss.....\n\nb) **Abhandlung über Taufe und Firmung:** S. 335–454. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....\n\nc) **Abhandlung über die ehrwürdige Eucharistie:** S. 455–580. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....\n\nDieselben Abhandlungen finden sich bereits in MN II 176, der eine Datierung unseres Codex auf 1693 wahrscheinlich macht, und in MN II 185, der als Verfasser P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg, nennt.\n\nDer Schreiber ist derselbe wie bei den drei vorhergehenden und den fünf folgenden Codices, wahrscheinlich Fr. Joannes Rigele.",
+    "germanHtml": "<p>582 Seiten; marmorierter Pappeinband, Rücken und Kanten mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt; geschrieben 1693.</p>\n<p>a) <strong>Abhandlung über die Sakramente im Allgemeinen:</strong> S. 1–335. Anfang der Vorrede: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss.....</p>\n<p>b) <strong>Abhandlung über Taufe und Firmung:</strong> S. 335–454. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....</p>\n<p>c) <strong>Abhandlung über die ehrwürdige Eucharistie:</strong> S. 455–580. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....</p>\n<p>Dieselben Abhandlungen finden sich bereits in MN II 176, der eine Datierung unseres Codex auf 1693 wahrscheinlich macht, und in MN II 185, der als Verfasser P. Edmund Ruedorffer, Profess von Lambach und Professor in Salzburg, nennt.</p>\n<p>Der Schreiber ist derselbe wie bei den drei vorhergehenden und den fünf folgenden Codices, wahrscheinlich Fr. Joannes Rigele.</p>",
+    "latin": "582 pagg.; teg. c2 cum dorso et extremis fragmentis membranaceis saeculo XIV (?) manu inscriptis munitis; scriptus 1693\n\na) Tractatus De Sacramentis in genere: p. 1–335. Initium Prooemii p. 1: Gratia quae nobis profluxit ex passione et meritis Christi.....\n\nb) Tractatus De Baptismo et Confirmatione: p. 335–454. Initium Controversiae I De Baptismo p. 335: Intra Sacramenta in specie.....\n\nc) Tractatus De Venerabili (!): p. 455–580. Initium Controversiae I De Venerabili Eucharistiam prout est Sacramentum p. 455: omissis variis nominibus quibus appellari solet Eucharistia.......\n\nEosdem tractatus iam invenimus in codice MN II 176, qui manifestat codicem nostrum veri similiter anno 1693 scriptum esse (vide supra p. 135!), et in codice MN II 185, qui nomen auctoris (dico P. Edmundi Ruedorffer Professi Lambacensis et Professoris Salisburgensis) praebet. (Vide supra p. 140!) Scripsisse autem codicem nostrum eundem, qui etiam tres codices praecedentes et quinque sequentes, nempe F. Joannem Rigele, iam supra p. 141 ad codicem MN II 186 indicavimus.",
+    "latinHtml": "<p>582 pagg.; teg. c2 cum dorso et extremis fragmentis membranaceis saeculo XIV (?) manu inscriptis munitis; scriptus 1693</p>\n<p>a) Tractatus De Sacramentis in genere: p. 1–335. Initium Prooemii p. 1: Gratia quae nobis profluxit ex passione et meritis Christi.....</p>\n<p>b) Tractatus De Baptismo et Confirmatione: p. 335–454. Initium Controversiae I De Baptismo p. 335: Intra Sacramenta in specie.....</p>\n<p>c) Tractatus De Venerabili (!): p. 455–580. Initium Controversiae I De Venerabili Eucharistiam prout est Sacramentum p. 455: omissis variis nominibus quibus appellari solet Eucharistia.......</p>\n<p>Eosdem tractatus iam invenimus in codice MN II 176, qui manifestat codicem nostrum veri similiter anno 1693 scriptum esse (vide supra p. 135!), et in codice MN II 185, qui nomen auctoris (dico P. Edmundi Ruedorffer Professi Lambacensis et Professoris Salisburgensis) praebet. (Vide supra p. 140!) Scripsisse autem codicem nostrum eundem, qui etiam tres codices praecedentes et quinque sequentes, nempe F. Joannem Rigele, iam supra p. 141 ad codicem MN II 186 indicavimus.</p>"
+  },
+  "source": {
+    "file": "MN II 189.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-189/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 176]]",
+      "targetId": "mn-ii-176",
+      "targetSignature": "MN II 176",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 185]]",
+      "targetId": "mn-ii-185",
+      "targetSignature": "MN II 185",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 189",
+    "titles": "Tractatus De Sacramentis in genere \nTractatus De Sacramentis in genere \nTractatus De Baptismo et Confirmatione \nTractatus De Venerabili (!)",
+    "persons": "P. Edmund Ruedorffer Dozent lecturer \nFr. Joannes Rigele Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Das Incipit bezeichnet den Gegenstand als Eucharistie; der Katalogtitel bricht nach „De Venerabili“ ab und ist mit Ausrufezeichen markiert.",
+    "physical": "Papier \n582 pagg. \ncode: c2; description: Marmorierter Pappeinband; Rücken und Kanten sind mit handschriftlich beschriebenen Pergamentfragmenten des 14. Jahrhunderts (?) verstärkt."
+  }
+}

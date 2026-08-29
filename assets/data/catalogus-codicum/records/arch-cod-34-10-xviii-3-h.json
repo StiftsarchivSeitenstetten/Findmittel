@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-34-10-xviii-3-h",
+  "signature": "Arch. Cod. 34–10 (XVIII 3 h)",
+  "aliases": [
+    "Arch. Cod. 34–10 (XVIII 3 h)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "71",
+  "heading": {
+    "title": "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1670/71"
+  },
+  "date": {
+    "display": "1670/71",
+    "intervals": [
+      {
+        "from": 1670,
+        "to": 1671,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–878",
+      "language": "",
+      "incipit": {
+        "text": "In Theologiae sacraria admissis magno nobis solatio sit....."
+      },
+      "explicit": {
+        "text": "29 Januarii absolvimus."
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Desiderius Schapperger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Ernst Weissenperger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "888 pagg.",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1670/71",
+        "intervals": [
+          {
+            "from": 1670,
+            "to": 1671,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; 888 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111; geschrieben 1670/71.\n\n**Abhandlung über den einen und dreieinigen Gott zum zweiten Teil der theologischen Summa des engelgleichen Lehrers hl. Thomas von Aquin**, vorgetragen von **P. Desiderius Schapperger**, Profess von Seeon und ordentlichem ersten Professor der Theologie, im Jahr 1670; aufgezeichnet von **Fr. Ernst Weissenperger** am 7. Oktober desselben Jahres.\n\nAnfang der Vorrede S. 6: „Nachdem wir in das Heiligtum der Theologie zugelassen sind, sei uns dies ein großer Trost....“\n\nSchluss S. 878: **Am 29. Januar beendeten wir [dies].**\n\nDieselbe Abhandlung, jedoch im Studienjahr 1671/72 geschrieben, findet sich auch in MN II 102.",
+    "germanHtml": "<p>Quartformat; 888 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen wie bei MN II 111; geschrieben 1670/71.</p>\n<p><strong>Abhandlung über den einen und dreieinigen Gott zum zweiten Teil der theologischen Summa des engelgleichen Lehrers hl. Thomas von Aquin</strong>, vorgetragen von <strong>P. Desiderius Schapperger</strong>, Profess von Seeon und ordentlichem ersten Professor der Theologie, im Jahr 1670; aufgezeichnet von <strong>Fr. Ernst Weissenperger</strong> am 7. Oktober desselben Jahres.</p>\n<p>Anfang der Vorrede S. 6: „Nachdem wir in das Heiligtum der Theologie zugelassen sind, sei uns dies ein großer Trost....“</p>\n<p>Schluss S. 878: <strong>Am 29. Januar beendeten wir [dies].</strong></p>\n<p>Dieselbe Abhandlung, jedoch im Studienjahr 1671/72 geschrieben, findet sich auch in MN II 102.</p>",
+    "latin": "4°; 888 pagg.; teg. a2 ut in codice MN II 111; script. 1670/71\n\nTractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre **Desiderio Schapperger** Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre **Ernesto Weissenperger** eodem anno die septima octobris.\n\n_Initium_ Praefationis p. 6: In Theologiae sacraria admissis magno nobis solatio sit..... _Clausula_ p. 878: 29 Januarii absolvimus.\n\nEundem tractatum, sed anno scholari 1671/72 scriptum, invenies etiam in codice MN II 102 (supra p. 64/65).",
+    "latinHtml": "<p>4°; 888 pagg.; teg. a2 ut in codice MN II 111; script. 1670/71</p>\n<p>Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre <strong>Desiderio Schapperger</strong> Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre <strong>Ernesto Weissenperger</strong> eodem anno die septima octobris.</p>\n<p>_Initium_ Praefationis p. 6: In Theologiae sacraria admissis magno nobis solatio sit..... _Clausula_ p. 878: 29 Januarii absolvimus.</p>\n<p>Eundem tractatum, sed anno scholari 1671/72 scriptum, invenies etiam in codice MN II 102 (supra p. 64/65).</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 34–10 (XVIII 3 h).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-10-xviii-3-h/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 34–10 (XVIII 3 h)",
+    "titles": "Tractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris. \nTractatus De Deo uno et trino In Partem secundam summae Theologicae Doctoris Angelici Divi Thomae Aquinatis Traditus Ab.....Patre Desiderio Schapperger Celeberrimi Monasterii Seeonensis Professo Sacrosanctae Theologiae Professore ordinario et Primario Anno 1670. Exceptus a Fratre Ernesto Weissenperger eodem anno die septima octobris.",
+    "persons": "P. Desiderius Schapperger Dozent lecturer \nFr. Ernst Weissenperger Schreiber scribe",
+    "incipits": "In Theologiae sacraria admissis magno nobis solatio sit.....",
+    "explicits": "29 Januarii absolvimus.",
+    "notes": "",
+    "physical": "Papier \n888 pagg. \nQuartformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

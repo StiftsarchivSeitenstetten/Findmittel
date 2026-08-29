@@ -1,0 +1,229 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-152",
+  "signature": "MN II 152",
+  "aliases": [
+    "Bibl. Cod. MN II 152"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "111",
+  "heading": {
+    "title": "Tractatus Theologici De Sacramentis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1688/89"
+  },
+  "date": {
+    "display": "1688/89",
+    "intervals": [
+      {
+        "from": 1688,
+        "to": 1689,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologici De Sacramentis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1rv–112r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1688-11-12"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Baptismo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 113r–150r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1689-06-10"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus III De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 150v–157r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1689-06-18"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus quartus De Sacramento Eucharistiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 157v–211r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1689-08-31"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Honorius Aigner",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kremsmünster / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Marcus Starnisi",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 218 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1688/89",
+        "intervals": [
+          {
+            "from": 1688,
+            "to": 1689,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "locus": "fol. 179v",
+      "date_display": "20. Juli (1689)",
+      "subject": "Promotion dreier Magister in Olmütz in Mähren",
+      "note": "Vermerkt bei der 111. Vorlesung.",
+      "certainty": "inferred"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 218 Blätter; Einband wie bei MN II 151; geschrieben 1688/89.\n\n**Theologische Abhandlungen über die Sakramente**, vorgetragen an der Universität Salzburg von P. Honorius Aigner, Benediktiner und Profess des Klosters Kremsmünster, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, 1688.\n\nAnfang der Vorrede fol. 1r: Nachdem im vergangenen Jahr vom ausgezeichneten Vorgänger das Geheimnis des fleischgewordenen Wortes erklärt worden ist..... Randnotiz: **Erste Nachmittagsvorlesung am Vorabend des Festes der heiligen Mönche des Benediktinerordens (12. November).**\n\na) **Erste Abhandlung über die Sakramente im Allgemeinen:** fol. 1rv–112r. Anfang: Fünf Dinge behandelt der heilige Lehrer über die Sakramente im Allgemeinen.....\n\nb) **Zweite Abhandlung über die Taufe:** fol. 113r–150r. Anfang: Nach Abschluss der Abhandlung über die Sakramente im Allgemeinen.... Schluss: **Beendet am 10. Juni 1689.**\n\nc) **Dritte Abhandlung über das Sakrament der Firmung zu Frage 72 des heiligen Lehrers:** fol. 150v–157r. Anfang: Da auf die Taufe unmittelbar das Sakrament der Firmung folgt.... Schluss: **Beendet am 18. Juni 1689.**\n\nd) **Vierte Abhandlung über das Sakrament der Eucharistie:** fol. 157v–211r. Anfang: Die Eucharistie als das göttlichste und ehrwürdigste Sakrament..... Schluss: **Beendet am 31. August 1689. Insgesamt 129 Vorlesungen.**\n\nVermerk fol. 179v: **111. Vorlesung am 20. Juli, an dem in Olmütz in Mähren drei Magister promoviert wurden.**\n\nFr. Marcus Starnisi schrieb auch die sieben vorhergehenden und den folgenden Codex.",
+    "germanHtml": "<p>IV + 218 Blätter; Einband wie bei MN II 151; geschrieben 1688/89.</p>\n<p><strong>Theologische Abhandlungen über die Sakramente</strong>, vorgetragen an der Universität Salzburg von P. Honorius Aigner, Benediktiner und Profess des Klosters Kremsmünster, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, 1688.</p>\n<p>Anfang der Vorrede fol. 1r: Nachdem im vergangenen Jahr vom ausgezeichneten Vorgänger das Geheimnis des fleischgewordenen Wortes erklärt worden ist..... Randnotiz: <strong>Erste Nachmittagsvorlesung am Vorabend des Festes der heiligen Mönche des Benediktinerordens (12. November).</strong></p>\n<p>a) <strong>Erste Abhandlung über die Sakramente im Allgemeinen:</strong> fol. 1rv–112r. Anfang: Fünf Dinge behandelt der heilige Lehrer über die Sakramente im Allgemeinen.....</p>\n<p>b) <strong>Zweite Abhandlung über die Taufe:</strong> fol. 113r–150r. Anfang: Nach Abschluss der Abhandlung über die Sakramente im Allgemeinen.... Schluss: <strong>Beendet am 10. Juni 1689.</strong></p>\n<p>c) <strong>Dritte Abhandlung über das Sakrament der Firmung zu Frage 72 des heiligen Lehrers:</strong> fol. 150v–157r. Anfang: Da auf die Taufe unmittelbar das Sakrament der Firmung folgt.... Schluss: <strong>Beendet am 18. Juni 1689.</strong></p>\n<p>d) <strong>Vierte Abhandlung über das Sakrament der Eucharistie:</strong> fol. 157v–211r. Anfang: Die Eucharistie als das göttlichste und ehrwürdigste Sakrament..... Schluss: <strong>Beendet am 31. August 1689. Insgesamt 129 Vorlesungen.</strong></p>\n<p>Vermerk fol. 179v: <strong>111. Vorlesung am 20. Juli, an dem in Olmütz in Mähren drei Magister promoviert wurden.</strong></p>\n<p>Fr. Marcus Starnisi schrieb auch die sieben vorhergehenden und den folgenden Codex.</p>",
+    "latin": "IV + 218 foll.; teg. a2 (ut in codice MN II 151 supra p. 110); scriptus 1688/89\n\nTractatus Theologici De Sacramentis. Traditi In Archi-Episcopali Universitate Salisburgensi A ....Patre Honorio Aigner, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio Cremifanensi Superioris Austriae Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario. Calamô excepti A Religioso F. Marco Starnisi eiusdem ordinis in Celeberrimo Divae Virginis Monasterio Seittenstettensi Inferioris Austriae Professo. Anno 1688.\n\nInitium Prooemii fol. 1r: Explicatô iam Annô priori à Clarissimo Antecessore Verbi Incarnati Mysteriô......  \nNota in margine inferiore: Lectio 1. pomeridiana in profesto Sanctorum Monachorum Ordinis S. Benedicti (12. Novembris)\n\na) Tractatus Primus De Sacramentis in genere: fol. 1rv–112r. Initium: Quinque de Sacramentis in genere expendit S. Doctor.....\n\nb) Tractatus Secundus. De Baptismo: fol. 113r–150r. Initium: Post absolutum Tractatum de Sacramentis in genere.... Clausula: Absolvimus hunc Tractatum Die 10. Junii 1689.\n\nc) Tractatus III. De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris: fol. 150v–157r. Initium: Cum baptismum immediate sequatur Sacramentum Confirmationis.... Clausula: Absolvimus hunc Tractatum die 18. Junii 1689.\n\nd) Tractatus quartus. De Sacramento Eucharistiae: fol. 157v–211r. Initium: Eucharistia tanquam divinissimum et venerabile Sacramentum.  \nClausula: Absolvimus 31. Augusti 1689. 129 Lectiones universim.  \nNota fol. 179v: Lectio 111 die 20. Julii, quo erat promotio Magistrorum 3 Olomucii in Moravia.\n\nFr. Marcus Starnisi scripsit etiam 7 codices praecedentes et codicem subsequentem.",
+    "latinHtml": "<p>IV + 218 foll.; teg. a2 (ut in codice MN II 151 supra p. 110); scriptus 1688/89</p>\n<p>Tractatus Theologici De Sacramentis. Traditi In Archi-Episcopali Universitate Salisburgensi A ....Patre Honorio Aigner, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio Cremifanensi Superioris Austriae Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario. Calamô excepti A Religioso F. Marco Starnisi eiusdem ordinis in Celeberrimo Divae Virginis Monasterio Seittenstettensi Inferioris Austriae Professo. Anno 1688.</p>\n<p>Initium Prooemii fol. 1r: Explicatô iam Annô priori à Clarissimo Antecessore Verbi Incarnati Mysteriô...... Nota in margine inferiore: Lectio 1. pomeridiana in profesto Sanctorum Monachorum Ordinis S. Benedicti (12. Novembris)</p>\n<p>a) Tractatus Primus De Sacramentis in genere: fol. 1rv–112r. Initium: Quinque de Sacramentis in genere expendit S. Doctor.....</p>\n<p>b) Tractatus Secundus. De Baptismo: fol. 113r–150r. Initium: Post absolutum Tractatum de Sacramentis in genere.... Clausula: Absolvimus hunc Tractatum Die 10. Junii 1689.</p>\n<p>c) Tractatus III. De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris: fol. 150v–157r. Initium: Cum baptismum immediate sequatur Sacramentum Confirmationis.... Clausula: Absolvimus hunc Tractatum die 18. Junii 1689.</p>\n<p>d) Tractatus quartus. De Sacramento Eucharistiae: fol. 157v–211r. Initium: Eucharistia tanquam divinissimum et venerabile Sacramentum. Clausula: Absolvimus 31. Augusti 1689. 129 Lectiones universim. Nota fol. 179v: Lectio 111 die 20. Julii, quo erat promotio Magistrorum 3 Olomucii in Moravia.</p>\n<p>Fr. Marcus Starnisi scripsit etiam 7 codices praecedentes et codicem subsequentem.</p>"
+  },
+  "source": {
+    "file": "MN II 152.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-152/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 152",
+    "titles": "Tractatus Theologici De Sacramentis \nTractatus Primus De Sacramentis in genere \nTractatus Secundus De Baptismo \nTractatus III De Sacramento Confirmationis ad Quaestionem 72dam Sancti Doctoris \nTractatus quartus De Sacramento Eucharistiae",
+    "persons": "P. Honorius Aigner Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIV + 218 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-246",
+  "signature": "MN II 246",
+  "aliases": [
+    "Bibl. Cod. MN II 246"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "190–191",
+  "heading": {
+    "title": "Theologia Recentioristica. De Beatitudine Angelis et Actibus Humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1717"
+  },
+  "date": {
+    "display": "1717",
+    "intervals": [
+      {
+        "from": 1717,
+        "to": 1717,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Theologia Recentioristica. De Beatitudine Angelis et Actibus Humanis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Prooemium totius Tractatus Theologici De Beatitudine, Angelis et Actibus Humanis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 3",
+      "language": "",
+      "incipit": {
+        "text": "Sanctus Thomas postquam in prima parte"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Titelbestandteil „Prooemium totius“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Pars Prima De Beatitudine disputatio Unica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–104",
+      "language": "",
+      "incipit": {
+        "text": "Beatitudo prout in praesenti accipitur"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda. De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 104–206",
+      "language": "",
+      "incipit": {
+        "text": "Post considerationem beatitudinis quoad eius formam et obiectum"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Pars Tertia De Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 206–324",
+      "language": "",
+      "incipit": {
+        "text": "Considerata iam beatitudine seu fine ultimo creaturae rationalis"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Joseph Gall SJ",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Universität Graz"
+    },
+    {
+      "name": "Fr. Andreas Bischoff",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "Fr. Petrus Schoiber",
+      "roleRaw": "additional_hand",
+      "roleLabel": "additional hand",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "326 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1717",
+        "intervals": [
+          {
+            "from": 1717,
+            "to": 1717,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Graz",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "326 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.\n\n**Neuere Theologie. Über Glückseligkeit, Engel und menschliche Handlungen**, von P. Joseph Gall SJ, Doktor der freien Künste und Philosophie sowie Doktor und amtierender Professor der heiligen Theologie an der Universität Graz und Dekan derselben Fakultät; 1717.\n\nAufgezeichnet vom Studenten Andreas Bischoff – zu diesem Schreiber und seinem Zeichen siehe MN II 245 – im Jahr 1717.\n\nArchivalische Dokumente zeigen, dass Fr. Andreas Bischoff zusammen mit Fr. Petrus Schoiber bis 1717 an der Universität Graz studierte. Vielleicht schrieb Fr. Petrus Schoiber die Seiten 137–139 und 141–145, die zweifellos von einer anderen Hand stammen.\n\na) **(Vorrede zur gesamten) theologischen Abhandlung über Glückseligkeit, Engel und menschliche Handlungen:** S. 3. Anfang: Nachdem der hl. Thomas im ersten Teil....\n\nb) **Erster Teil. Über die Glückseligkeit, einzige Disputation:** S. 3–104. Anfang des ersten Artikels S. 4: Glückseligkeit, wie sie hier verstanden wird......\n\nc) **Zweiter Teil. Über die Engel:** S. 104–206. Anfang: Nach der Betrachtung der Glückseligkeit hinsichtlich ihrer Form und ihres Gegenstands......\n\nd) **Dritter Teil. Über die menschlichen Handlungen:** S. 206–324. Anfang: Nachdem nun die Glückseligkeit oder das letzte Ziel der vernünftigen Kreatur betrachtet ist......",
+    "germanHtml": "<p>326 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.</p>\n<p><strong>Neuere Theologie. Über Glückseligkeit, Engel und menschliche Handlungen</strong>, von P. Joseph Gall SJ, Doktor der freien Künste und Philosophie sowie Doktor und amtierender Professor der heiligen Theologie an der Universität Graz und Dekan derselben Fakultät; 1717.</p>\n<p>Aufgezeichnet vom Studenten Andreas Bischoff – zu diesem Schreiber und seinem Zeichen siehe MN II 245 – im Jahr 1717.</p>\n<p>Archivalische Dokumente zeigen, dass Fr. Andreas Bischoff zusammen mit Fr. Petrus Schoiber bis 1717 an der Universität Graz studierte. Vielleicht schrieb Fr. Petrus Schoiber die Seiten 137–139 und 141–145, die zweifellos von einer anderen Hand stammen.</p>\n<p>a) <strong>(Vorrede zur gesamten) theologischen Abhandlung über Glückseligkeit, Engel und menschliche Handlungen:</strong> S. 3. Anfang: Nachdem der hl. Thomas im ersten Teil....</p>\n<p>b) <strong>Erster Teil. Über die Glückseligkeit, einzige Disputation:</strong> S. 3–104. Anfang des ersten Artikels S. 4: Glückseligkeit, wie sie hier verstanden wird......</p>\n<p>c) <strong>Zweiter Teil. Über die Engel:</strong> S. 104–206. Anfang: Nach der Betrachtung der Glückseligkeit hinsichtlich ihrer Form und ihres Gegenstands......</p>\n<p>d) <strong>Dritter Teil. Über die menschlichen Handlungen:</strong> S. 206–324. Anfang: Nachdem nun die Glückseligkeit oder das letzte Ziel der vernünftigen Kreatur betrachtet ist......</p>",
+    "latin": "326 pagg.; teg. a1; script. 1717\n\nTheologia Recentioristica. De Beatitudine Angelis et Actibus Humanis Ab. .....P. Josepho Gall Societatis Jesu Artium Liberalium et Philosophiae Doctore nec non Sacrosanctae Theologiae Professore actuali in alma Universitate Graecensi Venerando. filio Jesuitarum genuino. in alma Universitate Graecensi Sacrosanctae Theologiae Doctore et Professore actuali. eiusdemque Decano spectabili Jesuita sincero. nec non corde et animo Benedictino verissimo. Anno 1717.\n\nStudioso Andrea Bischoff (Ad quem scriptorem eiusque signum vide p. praecedente ad codicem MN II 245!) Anno 1717.\n\nF. Andreas Bischoff una cum F. Petro Schoiber in universitate Graecensi studiis operam dedisse usque ad annum 1717 quaedam rerum gestarum documenta, quae in archivo Monasterii Seitenstettensis asservantur, demonstrant. Forsitan frater ille Petrus Schoiber paginas 137–139 et 141–145 scripsit. Sunt enim sine dubio ab altera manu scriptae.\n\na) (Prooemium totius) Tractatus Theologici De Beatitudine, Angelis et Actibus Humanis p. 3: Sanctus Thomas postquam in prima parte...\n\nb) Pars Prima De Beatitudine disputatio Unica: p. 3–104.  \nInitium Articuli primi p. 4: Beatitudo prout in praesenti accipitur......\n\nc) Pars Secunda. De Angelis: p. 104–206.  \nInitium: Post considerationem beatitudinis quoad eius formam et obiectum......\n\nd) Pars Tertia De Actibus Humanis: p. 206–324.  \nInitium: Considerata iam beatitudine seu fine ultimo creaturae rationalis......",
+    "latinHtml": "<p>326 pagg.; teg. a1; script. 1717</p>\n<p>Theologia Recentioristica. De Beatitudine Angelis et Actibus Humanis Ab. .....P. Josepho Gall Societatis Jesu Artium Liberalium et Philosophiae Doctore nec non Sacrosanctae Theologiae Professore actuali in alma Universitate Graecensi Venerando. filio Jesuitarum genuino. in alma Universitate Graecensi Sacrosanctae Theologiae Doctore et Professore actuali. eiusdemque Decano spectabili Jesuita sincero. nec non corde et animo Benedictino verissimo. Anno 1717.</p>\n<p>Studioso Andrea Bischoff (Ad quem scriptorem eiusque signum vide p. praecedente ad codicem MN II 245!) Anno 1717.</p>\n<p>F. Andreas Bischoff una cum F. Petro Schoiber in universitate Graecensi studiis operam dedisse usque ad annum 1717 quaedam rerum gestarum documenta, quae in archivo Monasterii Seitenstettensis asservantur, demonstrant. Forsitan frater ille Petrus Schoiber paginas 137–139 et 141–145 scripsit. Sunt enim sine dubio ab altera manu scriptae.</p>\n<p>a) (Prooemium totius) Tractatus Theologici De Beatitudine, Angelis et Actibus Humanis p. 3: Sanctus Thomas postquam in prima parte...</p>\n<p>b) Pars Prima De Beatitudine disputatio Unica: p. 3–104. Initium Articuli primi p. 4: Beatitudo prout in praesenti accipitur......</p>\n<p>c) Pars Secunda. De Angelis: p. 104–206. Initium: Post considerationem beatitudinis quoad eius formam et obiectum......</p>\n<p>d) Pars Tertia De Actibus Humanis: p. 206–324. Initium: Considerata iam beatitudine seu fine ultimo creaturae rationalis......</p>"
+  },
+  "source": {
+    "file": "MN II 246.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-246/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 246",
+    "titles": "Theologia Recentioristica. De Beatitudine Angelis et Actibus Humanis \nProoemium totius Tractatus Theologici De Beatitudine, Angelis et Actibus Humanis \nPars Prima De Beatitudine disputatio Unica \nPars Secunda. De Angelis \nPars Tertia De Actibus Humanis",
+    "persons": "P. Joseph Gall SJ Dozent lecturer \nFr. Andreas Bischoff Schreiber scribe \nFr. Petrus Schoiber additional hand additional_hand",
+    "incipits": "Sanctus Thomas postquam in prima parte \nBeatitudo prout in praesenti accipitur \nPost considerationem beatitudinis quoad eius formam et obiectum \nConsiderata iam beatitudine seu fine ultimo creaturae rationalis",
+    "explicits": "",
+    "notes": "Der Titelbestandteil „Prooemium totius“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n326 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

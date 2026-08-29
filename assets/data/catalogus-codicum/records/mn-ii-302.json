@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-302",
+  "signature": "MN II 302",
+  "aliases": [
+    "Bibl. Cod. MN II 302"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "250",
+  "heading": {
+    "title": "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1771/72"
+  },
+  "date": {
+    "display": "1771/72",
+    "intervals": [
+      {
+        "from": 1771,
+        "to": 1772,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–371 (?)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "139 Kapitel mit deutschen, französischen und lateinischen Texten sowie Übersetzungen. Der Katalog erklärt „gues“ als erhaltenen Rest von „langues“; der Titel wurde nicht stillschweigend korrigiert."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-a-82",
+      "label": "a.82",
+      "type": "",
+      "title": {
+        "text": "Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 222–226",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-a-117",
+      "label": "a.117",
+      "type": "",
+      "title": {
+        "text": "Oratio in honorem S. Scholasticae a me tempore Novitiatus mei dicta. 1769",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 321–322",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Table Des Matieres",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 372–380",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Benedictus Walcher",
+      "roleRaw": "compiler_and_scribe",
+      "roleLabel": "compiler and scribe",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "certain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "4° min.",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1771/72",
+        "intervals": [
+          {
+            "from": 1771,
+            "to": 1772,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Quartformat; grauer Pappeinband; 380 Seiten; geschrieben 1771/72. Die Seiten 105–110 sind zwischen S. 102 und 103 eingeschoben.\n\n**Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit:** S. 1–371 (?); anschließend **Table Des Matieres:** S. 372–380.\n\nDieses Buch enthält in 139 Kapiteln sehr verschiedenartige Abhandlungen, Reden, Briefe und Gedichte aus sehr unterschiedlichen Autoren, teils deutsch (Hagedorn, Lessing), französisch, lateinisch oder aus einer Sprache in eine andere übersetzt – auch aus dem Lateinischen ins Französische. Zusammengestellt und geschrieben wurden sie von **Fr. Benedictus Walcher**, Seitenstettner Mönch.\n\nBesonders zu beachten ist Kapitel LXXXII, S. 222–226: **Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764** = von dem sehr ehrwürdigen P. Maurus Lindenayr, Benediktiner und Profess von Lambach, 1764.\n\nEbenso ist Kapitel CXVII, S. 321–322, bemerkenswert: **Oratio in honorem S: Scholasticae a me** – also von Fr. Benedictus Walcher selbst – **tempore Novitiatus mei dicta. 1769.** Tatsächlich legte Fr. Benedictus Walcher am 28. Oktober 1769 Profess ab und verbrachte daher besonders am Fest der hl. Scholastika, dem 10. Februar, sein Noviziat im Kloster Seitenstetten.\n\nDass unser Werk 1771 noch nicht vollendet war, zeigen die Jahreszahlen 1772 auf S. 227 und 228.\n\nDie Worte **Dans gues différentes** im Titel ergeben keinen sinnvollen Text. Offenbar ist **gues** nur der hintere Teil des Wortes **langues**, dessen Anfang spurlos ausgelöscht ist.",
+    "germanHtml": "<p>Kleines Quartformat; grauer Pappeinband; 380 Seiten; geschrieben 1771/72. Die Seiten 105–110 sind zwischen S. 102 und 103 eingeschoben.</p>\n<p><strong>Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit:</strong> S. 1–371 (?); anschließend <strong>Table Des Matieres:</strong> S. 372–380.</p>\n<p>Dieses Buch enthält in 139 Kapiteln sehr verschiedenartige Abhandlungen, Reden, Briefe und Gedichte aus sehr unterschiedlichen Autoren, teils deutsch (Hagedorn, Lessing), französisch, lateinisch oder aus einer Sprache in eine andere übersetzt – auch aus dem Lateinischen ins Französische. Zusammengestellt und geschrieben wurden sie von <strong>Fr. Benedictus Walcher</strong>, Seitenstettner Mönch.</p>\n<p>Besonders zu beachten ist Kapitel LXXXII, S. 222–226: <strong>Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764</strong> = von dem sehr ehrwürdigen P. Maurus Lindenayr, Benediktiner und Profess von Lambach, 1764.</p>\n<p>Ebenso ist Kapitel CXVII, S. 321–322, bemerkenswert: <strong>Oratio in honorem S: Scholasticae a me</strong> – also von Fr. Benedictus Walcher selbst – <strong>tempore Novitiatus mei dicta. 1769.</strong> Tatsächlich legte Fr. Benedictus Walcher am 28. Oktober 1769 Profess ab und verbrachte daher besonders am Fest der hl. Scholastika, dem 10. Februar, sein Noviziat im Kloster Seitenstetten.</p>\n<p>Dass unser Werk 1771 noch nicht vollendet war, zeigen die Jahreszahlen 1772 auf S. 227 und 228.</p>\n<p>Die Worte <strong>Dans gues différentes</strong> im Titel ergeben keinen sinnvollen Text. Offenbar ist <strong>gues</strong> nur der hintere Teil des Wortes <strong>langues</strong>, dessen Anfang spurlos ausgelöscht ist.</p>",
+    "latin": "4° min.; teg. c1; 380 pagg.; script. 1771/72; p. 105–110 inter paginas 102 et 103 insertae sunt.\n\n**Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit:** p. 1–371?; sequitur Table Des Matieres: p. 372–380\n\nContinet hic liber in CXXXIX (139) capitibus diversissimas e diversissimis auctoribus dissertationes, orationes, epistolas, carmina partim Germanica (Hagedorn, Lessing), Francogallica, Latina lingua composita aut ex alia in aliam linguam translata (etiam e lingua Latina in Francogallicam) ab ipso scriptore **F. Benedicto Walcher**, monacho Seitenstettensi.\n\nIntende praesertim in Caput LXXXII (p. 222–226): **Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764 = von Admodum Reverendo Patre Mauro Lindenayr ordinis S. Benedicti professo Lembacensi 1764.**\n\nItem ne praeterieris Caput CXVII (p. 321–322): **Oratio in honorem S: Scholasticae a me** (id est a F. Benedicto Walcher) **tempore Novitiatus mei dicta. 1769.** (Et re vera F. Benedictus Walcher, utpote anno 1769, die 28. Octobris, professus, praecipue festo S. Scholasticae, id est die 10. Februarii, in monasterio Seitenstettensi tirocinium monasticum egit.)\n\nOpus nostrum anno 1771 nondum finitum esse, demonstrat numerus anni 1772 p. 227 et 228.\n\n**Dans gues différentes** in inscriptione codicis non praebet sanum sensum. Videtur igitur vox **gues** sola pars posterior vocis **langues** esse, cuius pars prior sine ullo vestigio exstincta est.",
+    "latinHtml": "<p>4° min.; teg. c1; 380 pagg.; script. 1771/72; p. 105–110 inter paginas 102 et 103 insertae sunt.</p>\n<p><strong>Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit:</strong> p. 1–371?; sequitur Table Des Matieres: p. 372–380</p>\n<p>Continet hic liber in CXXXIX (139) capitibus diversissimas e diversissimis auctoribus dissertationes, orationes, epistolas, carmina partim Germanica (Hagedorn, Lessing), Francogallica, Latina lingua composita aut ex alia in aliam linguam translata (etiam e lingua Latina in Francogallicam) ab ipso scriptore <strong>F. Benedicto Walcher</strong>, monacho Seitenstettensi.</p>\n<p>Intende praesertim in Caput LXXXII (p. 222–226): <strong>Ein Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764 = von Admodum Reverendo Patre Mauro Lindenayr ordinis S. Benedicti professo Lembacensi 1764.</strong></p>\n<p>Item ne praeterieris Caput CXVII (p. 321–322): <strong>Oratio in honorem S: Scholasticae a me</strong> (id est a F. Benedicto Walcher) <strong>tempore Novitiatus mei dicta. 1769.</strong> (Et re vera F. Benedictus Walcher, utpote anno 1769, die 28. Octobris, professus, praecipue festo S. Scholasticae, id est die 10. Februarii, in monasterio Seitenstettensi tirocinium monasticum egit.)</p>\n<p>Opus nostrum anno 1771 nondum finitum esse, demonstrat numerus anni 1772 p. 227 et 228.</p>\n<p><strong>Dans gues différentes</strong> in inscriptione codicis non praebet sanum sensum. Videtur igitur vox <strong>gues</strong> sola pars posterior vocis <strong>langues</strong> esse, cuius pars prior sine ullo vestigio exstincta est.</p>"
+  },
+  "source": {
+    "file": "MN II 302.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-302/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 302",
+    "titles": "Récréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit \nRécréations Philologiques, ou Mélange Agréable De Diverses Piéces, Dans gues différentes Tome Prémier. à Seittenstetten. 1771. Par Frè Benoit Walcher, de l' ordre de S: Benoit \nEin Lied über die jezige Zeiten. Nach der natürlichen ob der Ennserischen Bäurischen Mund, und Denckungs Art Verfaßt von A: R: P: M: Lind: ord: S: B: prof: Lemb: 1764 \nOratio in honorem S. Scholasticae a me tempore Novitiatus mei dicta. 1769 \nTable Des Matieres",
+    "persons": "Fr. Benedictus Walcher compiler and scribe compiler_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "139 Kapitel mit deutschen, französischen und lateinischen Texten sowie Übersetzungen. Der Katalog erklärt „gues“ als erhaltenen Rest von „langues“; der Titel wurde nicht stillschweigend korrigiert.",
+    "physical": "Papier \n4° min. \ncode: c1; description: Grauer Pappeinband."
+  }
+}

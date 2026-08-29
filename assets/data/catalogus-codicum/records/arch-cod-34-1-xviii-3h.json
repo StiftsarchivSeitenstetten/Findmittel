@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-34-1-xviii-3h",
+  "signature": "Arch. Cod. 34–1 (XVIII 3h)",
+  "aliases": [
+    "Arch. Cod. 34–1 (XVIII 3h)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "250–251",
+  "heading": {
+    "title": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1772"
+  },
+  "date": {
+    "display": "1772",
+    "intervals": [
+      {
+        "from": 1772,
+        "to": 1772,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–376",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Emmeramus Kolb",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Emmeramus Kolb",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "P. Emmeramus Kolb",
+      "roleRaw": "dedicator",
+      "roleLabel": "Widmender",
+      "scope": "manuscript",
+      "date": "1772"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "376 pagg.; dorsum flosculis, margines maeandris impressis et inauratis ornata",
+    "format": "Großfolioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1772",
+        "intervals": [
+          {
+            "from": 1772,
+            "to": 1772,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großfolioformat; 376 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen, Ränder mit vergoldeten Mäandern; geschrieben 1772.\n\n**Heilige Chronik von der Erschaffung der Welt bis zur Zerstörung Jerusalems und des Tempels durch Titus**, zusammengestellt von **P. Emmeramus Kolb**, Benediktiner und Profess von Seitenstetten.\n\nP. Emmeramus Kolb scheint sowohl Verfasser als auch Schreiber dieses äußerst sorgfältig und kunstvoll ausgeführten Codex zu sein.\n\nEr widmete das Werk 1772 seinem Abt **Dominicus de Güsman**, als dieser 50 Jahre seit seiner Profess gefeiert hatte.",
+    "germanHtml": "<p>Großfolioformat; 376 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen, Ränder mit vergoldeten Mäandern; geschrieben 1772.</p>\n<p><strong>Heilige Chronik von der Erschaffung der Welt bis zur Zerstörung Jerusalems und des Tempels durch Titus</strong>, zusammengestellt von <strong>P. Emmeramus Kolb</strong>, Benediktiner und Profess von Seitenstetten.</p>\n<p>P. Emmeramus Kolb scheint sowohl Verfasser als auch Schreiber dieses äußerst sorgfältig und kunstvoll ausgeführten Codex zu sein.</p>\n<p>Er widmete das Werk 1772 seinem Abt <strong>Dominicus de Güsman</strong>, als dieser 50 Jahre seit seiner Profess gefeiert hatte.</p>",
+    "latin": "fol. mai.; 376 pagg.; teg. b1; dorsum flosculis, margines maeandris impressis et inauratis ornata; scriptus 1772\n\n**Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.**\n\nQui P. Emmeramus Kolb videtur tam auctor quam scriptor huius codicis diligentissime et ornatissime exarati esse. Dedicavit autem opus suum magnificentissimo abbati suo Dominico de Güsman anno 1772, cum abbas ille L annos a professione monastica feliciter perageret.",
+    "latinHtml": "<p>fol. mai.; 376 pagg.; teg. b1; dorsum flosculis, margines maeandris impressis et inauratis ornata; scriptus 1772</p>\n<p><strong>Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.</strong></p>\n<p>Qui P. Emmeramus Kolb videtur tam auctor quam scriptor huius codicis diligentissime et ornatissime exarati esse. Dedicavit autem opus suum magnificentissimo abbati suo Dominico de Güsman anno 1772, cum abbas ille L annos a professione monastica feliciter perageret.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 34–1 (XVIII 3h).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-1-xviii-3h/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 34–1 (XVIII 3h)",
+    "titles": "Chronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi. \nChronicon Sacrum ab Orbe Condito ad usque excisam per Titum Urbem et Templum Jerosolymitanum, concinnatum a P. Emmeramo Kolb Ordinis S. Benedicti Professo Seittenstettensi.",
+    "persons": "P. Emmeramus Kolb Autor author \nP. Emmeramus Kolb Schreiber scribe \nP. Emmeramus Kolb Widmender dedicator",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n376 pagg.; dorsum flosculis, margines maeandris impressis et inauratis ornata \nGroßfolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+  }
+}

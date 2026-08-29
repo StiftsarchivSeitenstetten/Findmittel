@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-68",
+  "signature": "MN III 68",
+  "aliases": [
+    "Bibl. Cod. MN III 68"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "275",
+  "heading": {
+    "title": "Anbetung Gottes im Geiste und in der Wahrheit",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1823"
+  },
+  "date": {
+    "display": "1823",
+    "intervals": [
+      {
+        "from": 1823,
+        "to": 1823,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Anbetung Gottes im Geiste und in der Wahrheit",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Anbetung Gottes im Geiste und in der Wahrheit",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–116",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Als Firmgeschenk der Theresia Knoll an Barbara Matuschek, 1823."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Theresia Knoll",
+      "roleRaw": "donor",
+      "roleLabel": "Schenker",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Barbara Matuschek",
+      "roleRaw": "recipient",
+      "roleLabel": "Empfänger",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Theresia Knoll",
+      "roleRaw": "scribe_or_commissioner",
+      "roleLabel": "scribe or commissioner",
+      "scope": "manuscript",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1823",
+        "intervals": [
+          {
+            "from": 1823,
+            "to": 1823,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "event": "Firmgeschenk",
+        "from": "Theresia Knoll",
+        "to": "Barbara Matuschek",
+        "date": 1823
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; schwarzer Ledereinband mit nur einer vergoldeten Randlinie; geschrieben 1823; 116 Seiten.\n\n**Anbetung Gottes im Geiste und in der Wahrheit.**\n\n**Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.**\n\nDas Titelblatt ist schön gerahmt.\n\nSiehe auch die Widmung auf der Rückseite eines Vorsatzblattes:\n**Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.**\n\nEs ist weder sicher noch ausgeschlossen, dass Theresia Knoll dieses Gebetbuch selbst zusammenstellte und schrieb; wahrscheinlich ist es aber. Das einzige Bild im Büchlein stellt die hl. Barbara dar, die Namenspatronin Barbara Matuscheks, der Theresia Knoll das Buch schenkte. Daher dürfte die Patin den Codex entweder selbst geschrieben oder seine Anfertigung veranlasst haben. Das Bild der hl. Barbara steht S. 97.",
+    "germanHtml": "<p>Oktavformat; schwarzer Ledereinband mit nur einer vergoldeten Randlinie; geschrieben 1823; 116 Seiten.</p>\n<p><strong>Anbetung Gottes im Geiste und in der Wahrheit.</strong></p>\n<p><strong>Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.</strong></p>\n<p>Das Titelblatt ist schön gerahmt.</p>\n<p>Siehe auch die Widmung auf der Rückseite eines Vorsatzblattes: <strong>Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.</strong></p>\n<p>Es ist weder sicher noch ausgeschlossen, dass Theresia Knoll dieses Gebetbuch selbst zusammenstellte und schrieb; wahrscheinlich ist es aber. Das einzige Bild im Büchlein stellt die hl. Barbara dar, die Namenspatronin Barbara Matuscheks, der Theresia Knoll das Buch schenkte. Daher dürfte die Patin den Codex entweder selbst geschrieben oder seine Anfertigung veranlasst haben. Das Bild der hl. Barbara steht S. 97.</p>",
+    "latin": "8°; teg. b2 linea tantum marginali inaurata ornatum; scr. 1823; 116 pagg.\n\n**Anbetung Gottes im Geiste und in der Wahrheit.**\n\n**Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.** (Quae pagina titularis margine pulchre ornata est.)\n\nVide etiam dedicationem in folio praeliminari verso: **Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.**\n\nNeque certum neque impossibile est ipsam Theresiam Knoll hunc libellum precatorium concinnasse et conscripsisse, sed veri simile est; nam cum unica imago huius libelli S. Barbaram utpote patronam Barbarae Matuschek, cui Theresia Knoll libellum dono dedit, repraesentet, patrina illa codicillum nostrum aut ipsa scripsit aut ipsa scribendum curavit. (Quam imaginem S. Barbarae vide p. 97!)",
+    "latinHtml": "<p>8°; teg. b2 linea tantum marginali inaurata ornatum; scr. 1823; 116 pagg.</p>\n<p><strong>Anbetung Gottes im Geiste und in der Wahrheit.</strong></p>\n<p><strong>Der Barbara Matuschekin gehörig von Theresia Knoll Zum Andenken der Firmung 1823.</strong> (Quae pagina titularis margine pulchre ornata est.)</p>\n<p>Vide etiam dedicationem in folio praeliminari verso: <strong>Nimm dieses Gebeth=Buch zum Andenken der Heiligen Firmung von deiner Firm Pathe Theresia Knoll. 1823.</strong></p>\n<p>Neque certum neque impossibile est ipsam Theresiam Knoll hunc libellum precatorium concinnasse et conscripsisse, sed veri simile est; nam cum unica imago huius libelli S. Barbaram utpote patronam Barbarae Matuschek, cui Theresia Knoll libellum dono dedit, repraesentet, patrina illa codicillum nostrum aut ipsa scripsit aut ipsa scribendum curavit. (Quam imaginem S. Barbarae vide p. 97!)</p>"
+  },
+  "source": {
+    "file": "MN III 68.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-68/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 68",
+    "titles": "Anbetung Gottes im Geiste und in der Wahrheit \nAnbetung Gottes im Geiste und in der Wahrheit",
+    "persons": "Theresia Knoll Schenker donor \nBarbara Matuschek Empfänger recipient \nTheresia Knoll scribe or commissioner scribe_or_commissioner",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Als Firmgeschenk der Theresia Knoll an Barbara Matuschek, 1823.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

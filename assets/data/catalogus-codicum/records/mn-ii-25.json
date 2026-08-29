@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-25",
+  "signature": "MN II 25",
+  "aliases": [
+    "Bibl. Cod. MN II 25",
+    "Commentarius Theologicus de Deo Uno et Trino"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "17",
+  "heading": {
+    "title": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1635"
+  },
+  "date": {
+    "display": "1635",
+    "intervals": [
+      {
+        "from": 1635,
+        "to": 1635,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–752",
+      "language": "",
+      "incipit": {
+        "text": "Sapientibus et Insipientibus debitorem se esse cognoscat...."
+      },
+      "explicit": {
+        "text": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto...."
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Thomas Ringmair OSB",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Ludwig Graff OSB",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "761 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1635",
+        "intervals": [
+          {
+            "from": 1635,
+            "to": 1635,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "761 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen und denselben Initialen wie Codex MN II 20.\n\n**Theologischer Kommentar über den einen und dreieinigen Gott aus dem ersten Teil der Summa des hl. Thomas von Aquin**, von P. Thomas Ringmair, Profess des Klosters Wessobrunn, Doktor der heiligen Theologie und ordentlichem Professor derselben an der Universität Salzburg; mitgeschrieben von Fr. Ludwig Graff, Profess desselben Ordens in Seitenstetten. 1635: S. 3–752.\n\nAnfang der Vorrede zum Stoff über den einen und dreieinigen Gott: **Er erkenne, dass er Weisen und Unweisen verpflichtet ist....** Ende S. 751/52: **...wir setzen dem gesamten theologischen Kurs ein Ende, den wir im achtundzwanzigsten Jahr Christi begonnen und zusammen mit dem fünfunddreißigsten abgeschlossen haben....**",
+    "germanHtml": "<p>761 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen und denselben Initialen wie Codex MN II 20.</p>\n<p><strong>Theologischer Kommentar über den einen und dreieinigen Gott aus dem ersten Teil der Summa des hl. Thomas von Aquin</strong>, von P. Thomas Ringmair, Profess des Klosters Wessobrunn, Doktor der heiligen Theologie und ordentlichem Professor derselben an der Universität Salzburg; mitgeschrieben von Fr. Ludwig Graff, Profess desselben Ordens in Seitenstetten. 1635: S. 3–752.</p>\n<p>Anfang der Vorrede zum Stoff über den einen und dreieinigen Gott: <strong>Er erkenne, dass er Weisen und Unweisen verpflichtet ist....</strong> Ende S. 751/52: <strong>...wir setzen dem gesamten theologischen Kurs ein Ende, den wir im achtundzwanzigsten Jahr Christi begonnen und zusammen mit dem fünfunddreißigsten abgeschlossen haben....</strong></p>",
+    "latin": "761 pagg., teg. a2 cum litteris initialibus ut in cod. MN II 20\n\n*Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635):* p. 3 - 752\n\nInitium Prooemii in Materiam de Deo uno, et Trino: Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+    "latinHtml": "<p>761 pagg., teg. a2 cum litteris initialibus ut in cod. MN II 20</p>\n<p><em>Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635):</em> p. 3 - 752</p>\n<p>Initium Prooemii in Materiam de Deo uno, et Trino: Sapientibus et Insipientibus debitorem se esse cognoscat.... Finis p. 751/52: ... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....</p>"
+  },
+  "source": {
+    "file": "MN II 25.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-25/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 25",
+    "titles": "Commentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635) \nCommentarius Theologicus in Materiam de Deo Uno et Trino ex 1a Parte Summae S. Thomae Aquinatis Ab.....P. Thoma Ringmair ...Monasterii Wessenbrunnensis ....professo, SS. Theologiae Doctore, eiusdemque in Alma Universitate Salisburgensi Professore Ordinario. Exceptus a F. Ludovico Graff eiusdem Ordinis in Seittenstetten professo. Anno M.DC.XXXV. (1635)",
+    "persons": "P. Thomas Ringmair OSB Autor author \nFr. Ludwig Graff OSB Schreiber scribe",
+    "incipits": "Sapientibus et Insipientibus debitorem se esse cognoscat....",
+    "explicits": "... universo cursui Theologico finem imponimus, quem Anno Christi Vicesimo octavo inchoatum absolvimus una cum trigesimo quinto....",
+    "notes": "",
+    "physical": "Papier \n761 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+  }
+}

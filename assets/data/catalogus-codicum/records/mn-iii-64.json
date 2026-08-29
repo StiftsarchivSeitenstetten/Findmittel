@@ -1,0 +1,167 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-64",
+  "signature": "MN III 64",
+  "aliases": [
+    "Bibl. Cod. MN III 64"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "273",
+  "heading": {
+    "title": "Lese- und Bethbuch für höhere Stände Zweyte Auflage",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1800"
+  },
+  "date": {
+    "display": "um 1800",
+    "intervals": [
+      {
+        "from": 1800,
+        "to": 1800,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Lese- und Bethbuch für höhere Stände Zweyte Auflage",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Lese- und Bethbuch für höhere Stände Zweyte Auflage",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–166",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Nachträge von anderen Händen",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 167–168",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Roter Einband; Randverzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1800",
+        "intervals": [
+          {
+            "from": 1800,
+            "to": 1800,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 172 Seiten; roter Einband, an den Kanten sparsam verziert; geschrieben um 1800.\n\n**Lese- und Bethbuch für höhere Stände Zweyte Auflage**\n\nAuch bei diesem Büchlein sind Verfasser und Schreiber unbekannt. Alle Gebete und Betrachtungen sind deutsch. Jede Seite ist mit einem mit Feder und Tinte gezogenen Rand versehen. Zahlreiche Seiten sind zusätzlich mit Federzeichnungen geschmückt; besonders die Zeichnung auf S. 164 ist nicht ohne künstlerischen Wert.\n\nS. 167 und 168 stammen von anderen Händen.\n\nBesitz- oder Benutzungsvermerke: S. 167 **Jakob G. 1858**, S. 2 **Maria Trausner (?) 1876**; außerdem steht S. 171 die Jahreszahl **1859**.\n\nEinband und Schrift weisen dennoch auf eine Entstehung des Gebetbuches ungefähr um 1800.",
+    "germanHtml": "<p>Oktavformat; 172 Seiten; roter Einband, an den Kanten sparsam verziert; geschrieben um 1800.</p>\n<p><strong>Lese- und Bethbuch für höhere Stände Zweyte Auflage</strong></p>\n<p>Auch bei diesem Büchlein sind Verfasser und Schreiber unbekannt. Alle Gebete und Betrachtungen sind deutsch. Jede Seite ist mit einem mit Feder und Tinte gezogenen Rand versehen. Zahlreiche Seiten sind zusätzlich mit Federzeichnungen geschmückt; besonders die Zeichnung auf S. 164 ist nicht ohne künstlerischen Wert.</p>\n<p>S. 167 und 168 stammen von anderen Händen.</p>\n<p>Besitz- oder Benutzungsvermerke: S. 167 <strong>Jakob G. 1858</strong>, S. 2 <strong>Maria Trausner (?) 1876</strong>; außerdem steht S. 171 die Jahreszahl <strong>1859</strong>.</p>\n<p>Einband und Schrift weisen dennoch auf eine Entstehung des Gebetbuches ungefähr um 1800.</p>",
+    "latin": "8°; 172 pagg.; teg. rufum, in margine parce ornatum; ca. 1800\n\n**Lese- und Bethbuch für höhere Stände Zweyte Auflage**\n\nEtiam huius codicilli tam auctor quam scriptor ignotus. Omnes preces et considerationes Germanica utuntur lingua. Unicuique paginae atramento calamoque margo circumscripta est. Insuper permultae paginae imaginibus calamo et atramento delineatis ornatae sunt, e quibus praesertim p. 164 arte non caret. p. 167 et 168 ab aliis manibus scriptae sunt. Notae possidentium vel utentium p. 167: **Jakob G. 1858**, et p. 2: **Maria Trausner (?) 1876**; numerus anni etiam p. 171: **1859**. Sed forma tegumenti scripturaeque indicant circa annum 1800 ortum esse nostrum librum precatorium.",
+    "latinHtml": "<p>8°; 172 pagg.; teg. rufum, in margine parce ornatum; ca. 1800</p>\n<p><strong>Lese- und Bethbuch für höhere Stände Zweyte Auflage</strong></p>\n<p>Etiam huius codicilli tam auctor quam scriptor ignotus. Omnes preces et considerationes Germanica utuntur lingua. Unicuique paginae atramento calamoque margo circumscripta est. Insuper permultae paginae imaginibus calamo et atramento delineatis ornatae sunt, e quibus praesertim p. 164 arte non caret. p. 167 et 168 ab aliis manibus scriptae sunt. Notae possidentium vel utentium p. 167: <strong>Jakob G. 1858</strong>, et p. 2: <strong>Maria Trausner (?) 1876</strong>; numerus anni etiam p. 171: <strong>1859</strong>. Sed forma tegumenti scripturaeque indicant circa annum 1800 ortum esse nostrum librum precatorium.</p>"
+  },
+  "source": {
+    "file": "MN III 64.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-64/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 64",
+    "titles": "Lese- und Bethbuch für höhere Stände Zweyte Auflage \nLese- und Bethbuch für höhere Stände Zweyte Auflage \nNachträge von anderen Händen",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung.",
+    "physical": "Papier \n8° \nOktavformat \ndescription: Roter Einband; Randverzierung siehe Katalogtext."
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-238",
+  "signature": "MN II 238",
+  "aliases": [
+    "Bibl. Cod. MN II 238"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "185–186",
+  "heading": {
+    "title": "Tractatus In Philosophiam Aristotelico Thomisticam. Pars Prima Complectens Logicam tam parvam, quam magnam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1710 (?)"
+  },
+  "date": {
+    "display": "ca. 1710 (?)",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus In Philosophiam Aristotelico Thomisticam. Pars Prima Complectens Logicam tam parvam, quam magnam",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Proemium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–9",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Logica Minor",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9–186",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "23. Dezember, Jahr nicht angegeben"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Logica Maior",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 187–900",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannter Seitenstettner Philosophieprofessor",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg",
+      "certainty": "probable",
+      "note": "Die Zuschreibung als Autograph des Professors beruht auf den zahlreichen Korrekturen derselben Hand."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "904 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1710 (?)",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "904 Seiten; grauer Pappeinband; geschrieben um 1710 (?).\n\n**Abhandlung über die aristotelisch-thomistische Philosophie. Erster Teil, umfassend die kleine und große Logik.**\n\na) **Vorrede:** S. 5–9. Anfang: Wer auf dem Schlachtfeld den Feind niederwerfen will......\n\nb) **Kleine Logik:** S. 9–186. Anfang: Die Abhandlung, deren Erklärung wir jetzt beginnen..... Schluss: **Wir beendeten [sie] am 23. Dezember vor dem Mittagessen und begannen nach dem Mittagessen mit der größeren Logik.**\n\nc) **Große Logik:** S. 187–900. Anfang des Prologs: Von den Vorgefechten zur Schlacht, vom Fundament in die Höhe, von Wörtern und Termini zur Sache selbst.....\n\nEin großer Teil der Vorrede von a und der Prolog von c stimmen wörtlich mit den Vorreden von MN II 92 überein. Die eigentlichen Fragen zeigen jedoch keinerlei Zusammenhang mit dessen Vorlesungen. Der Katalogbearbeiter nimmt daher an, dass der Verfasser bei der Ausarbeitung feierlicher Vorreden einen älteren Codex benutzte.\n\nUnser Codex scheint eine Vorbereitung des Professors selbst für seine Logikvorlesungen zu sein; daher dürfte der Verfasser zugleich der Schreiber gewesen sein. Dafür sprechen die zahlreichen Korrekturen von derselben Hand, die bei studentischen Mitschriften nach Diktat gewöhnlich nicht in dieser Dichte vorkommen.\n\nWahrscheinlich war Verfasser und Schreiber ein Seitenstettner Mönch, der in Salzburg Philosophie lehrte; seine Identität ist noch unbekannt.\n\nAufgrund von Einband und Schrift werden dieser und die beiden folgenden Codices ungefähr um 1710 datiert.",
+    "germanHtml": "<p>904 Seiten; grauer Pappeinband; geschrieben um 1710 (?).</p>\n<p><strong>Abhandlung über die aristotelisch-thomistische Philosophie. Erster Teil, umfassend die kleine und große Logik.</strong></p>\n<p>a) <strong>Vorrede:</strong> S. 5–9. Anfang: Wer auf dem Schlachtfeld den Feind niederwerfen will......</p>\n<p>b) <strong>Kleine Logik:</strong> S. 9–186. Anfang: Die Abhandlung, deren Erklärung wir jetzt beginnen..... Schluss: <strong>Wir beendeten [sie] am 23. Dezember vor dem Mittagessen und begannen nach dem Mittagessen mit der größeren Logik.</strong></p>\n<p>c) <strong>Große Logik:</strong> S. 187–900. Anfang des Prologs: Von den Vorgefechten zur Schlacht, vom Fundament in die Höhe, von Wörtern und Termini zur Sache selbst.....</p>\n<p>Ein großer Teil der Vorrede von a und der Prolog von c stimmen wörtlich mit den Vorreden von MN II 92 überein. Die eigentlichen Fragen zeigen jedoch keinerlei Zusammenhang mit dessen Vorlesungen. Der Katalogbearbeiter nimmt daher an, dass der Verfasser bei der Ausarbeitung feierlicher Vorreden einen älteren Codex benutzte.</p>\n<p>Unser Codex scheint eine Vorbereitung des Professors selbst für seine Logikvorlesungen zu sein; daher dürfte der Verfasser zugleich der Schreiber gewesen sein. Dafür sprechen die zahlreichen Korrekturen von derselben Hand, die bei studentischen Mitschriften nach Diktat gewöhnlich nicht in dieser Dichte vorkommen.</p>\n<p>Wahrscheinlich war Verfasser und Schreiber ein Seitenstettner Mönch, der in Salzburg Philosophie lehrte; seine Identität ist noch unbekannt.</p>\n<p>Aufgrund von Einband und Schrift werden dieser und die beiden folgenden Codices ungefähr um 1710 datiert.</p>",
+    "latin": "904 pagg.; teg. c1; script. ca. 1710 (?)\n\nTractatus In Philosophiam Aristotelico Thomisticam. Pars Prima Complectens Logicam tam parvam, quam magnam.\n\na) Proemium: p. 5–9. Initium: Qui in acie hostem prosternere flagrat......\n\nb) Logica Minor: p. 9–186. Initium: Tractatus, quem modò incipimus explanare,.....\n\nClausula: Absolvimus 23. Decembris ante prandium, et incepimus post prandium maiorem logicam.\n\nc) Logica Maior: p. 187–900. Initium Proloquii: A velitationibus ad pugnam, â fundamento in sublime, â vocibus et terminis ad rem ipsam\n\nMagna pars partis a) et Proloquii partis c) ad verbum consonat cum Prooemiis, quae in codice MN II 92 (supra p. 60!) invenimus. Ipsae autem quaestiones nullum omnino ostendunt connexum cum lectionibus illius codicis. Puto igitur auctorem codicis nostri ad praeparandas solemnes praefationes vetustiorem codicem adhibuisse. Porro videtur ipse codex noster praeparatio ipsius professoris ad lectiones logicales esse ideoque ipsum auctorem etiam scripsisse codicem nostrum opinor. Inveniuntur enim in codice nostro plurimi loci ab eadem manu emendatae. Nam tot tantaeque correcturae non reperiuntur in codicibus, quos studiosi iuxta professoris dictamen notabant. Itaque veri simile est auctorem et scriptorem codicis nostri monachum Seittenstettensem esse, qui Salisburgi Philosophiam docuit, at quis sit, nondum dicere possum.\n\nPropter formam tegumenti scripturaeque circa annum 1710 codicem nostrum et duos sequentes utpote ab eodem scriptos catalogo inserui.",
+    "latinHtml": "<p>904 pagg.; teg. c1; script. ca. 1710 (?)</p>\n<p>Tractatus In Philosophiam Aristotelico Thomisticam. Pars Prima Complectens Logicam tam parvam, quam magnam.</p>\n<p>a) Proemium: p. 5–9. Initium: Qui in acie hostem prosternere flagrat......</p>\n<p>b) Logica Minor: p. 9–186. Initium: Tractatus, quem modò incipimus explanare,.....</p>\n<p>Clausula: Absolvimus 23. Decembris ante prandium, et incepimus post prandium maiorem logicam.</p>\n<p>c) Logica Maior: p. 187–900. Initium Proloquii: A velitationibus ad pugnam, â fundamento in sublime, â vocibus et terminis ad rem ipsam</p>\n<p>Magna pars partis a) et Proloquii partis c) ad verbum consonat cum Prooemiis, quae in codice MN II 92 (supra p. 60!) invenimus. Ipsae autem quaestiones nullum omnino ostendunt connexum cum lectionibus illius codicis. Puto igitur auctorem codicis nostri ad praeparandas solemnes praefationes vetustiorem codicem adhibuisse. Porro videtur ipse codex noster praeparatio ipsius professoris ad lectiones logicales esse ideoque ipsum auctorem etiam scripsisse codicem nostrum opinor. Inveniuntur enim in codice nostro plurimi loci ab eadem manu emendatae. Nam tot tantaeque correcturae non reperiuntur in codicibus, quos studiosi iuxta professoris dictamen notabant. Itaque veri simile est auctorem et scriptorem codicis nostri monachum Seittenstettensem esse, qui Salisburgi Philosophiam docuit, at quis sit, nondum dicere possum.</p>\n<p>Propter formam tegumenti scripturaeque circa annum 1710 codicem nostrum et duos sequentes utpote ab eodem scriptos catalogo inserui.</p>"
+  },
+  "source": {
+    "file": "MN II 238.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-238/",
+  "relations": [
+    {
+      "typeRaw": "source_relation",
+      "typeLabel": "source relation",
+      "targetRaw": "[[MN II 92]]",
+      "targetId": "mn-ii-92",
+      "targetSignature": "MN II 92",
+      "appliesTo": [
+        "a",
+        "c"
+      ],
+      "certainty": "",
+      "note": "Große Teile der Vorreden stimmen wörtlich überein; die eigentlichen Fragen sind nicht verwandt."
+    }
+  ],
+  "search": {
+    "signature": "MN II 238",
+    "titles": "Tractatus In Philosophiam Aristotelico Thomisticam. Pars Prima Complectens Logicam tam parvam, quam magnam \nProemium \nLogica Minor \nLogica Maior",
+    "persons": "unbekannter Seitenstettner Philosophieprofessor author and scribe author_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n904 pagg. \ncode: c1; description: Grauer Pappeinband."
+  }
+}

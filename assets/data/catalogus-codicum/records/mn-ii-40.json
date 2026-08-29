@@ -1,0 +1,334 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-40",
+  "signature": "MN II 40",
+  "aliases": [
+    "Bibl. Cod. MN II 40",
+    "Compendium Casuum Conscientiae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "26",
+  "heading": {
+    "title": "*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis....",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1647/48"
+  },
+  "date": {
+    "display": "1647/48",
+    "intervals": [
+      {
+        "from": 1647,
+        "to": 1648,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Sieben Bücher eines Kompendiums der Gewissensfälle mit Register und Anhang.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "*Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "*Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "*Index Libri:* fol. 178 - 185r.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Index Libri:* fol. 178 - 185r."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "*Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 194 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1647/48",
+        "intervals": [
+          {
+            "from": 1647,
+            "to": 1648,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 194 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1647/48.\n\n**Kompendium der Gewissensfälle** (sehr blasse Rückenaufschrift).\n\n**a) Erstes Buch. Über die Regel der menschlichen Handlungen:** Bl. 1–13r. Anfang: **Das Gewissen ist ein Urteil der Vernunft....**\n\n**b) Zweites Buch. Über die Gebote der theologischen Tugenden:** Bl. 13r–27r. Anfang Bl. 13v: **Von dem, was die Gläubigen ausdrücklich zu glauben verpflichtet sind....**\n\n**c) Drittes Buch. Über die Gebote des Dekalogs und der Kirche:** Bl. 27–83. Anfang Bl. 27r: **Dieses Gebot, insofern es bejahend ist....**\n\n**d) Viertes Buch. Über die Weise, Sünden zu erkennen und zu unterscheiden:** Bl. 83–91. Anfang Bl. 83r: **Sünde ist die Übertretung des Gesetzes....**\n\n**e) Fünftes Buch. Über besondere Gebote, die einem bestimmten Stand von Menschen eigen sind:** Bl. 91–109v. Anfang Bl. 91v: **Der Ordensstand ist....**\n\n**f) Sechstes Buch. Über die Sakramente:** Bl. 109v–157v. Anfang: **Dieses Buch wird sechs Abhandlungen enthalten....**\n\n**g) Siebtes Buch. Über kirchliche Zensuren:** Bl. 157v–172v. Anfang: **Eine Zensur ist eine zeitliche und heilsame Strafe....** Schluss Bl. 172v: **26. Januar 1648.**\n\n**h) Register des Buches:** Bl. 178–185r.\n\n**i) Anhang:** Bl. 185v–188r. Bl. 187v wird **P. Carl: Grobendanc** angeführt.\n\nDieser scheint derselbe zu sein wie P. Carolus de Grobendoncque SJ, der zu jener Zeit teils in Olmütz, teils in Prag unter anderem auch Moraltheologie lehrte.\n\nIm Übrigen sind Verfasser und Schreiber unbekannt.",
+    "germanHtml": "<p>III + 194 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1647/48.</p>\n<p><strong>Kompendium der Gewissensfälle</strong> (sehr blasse Rückenaufschrift).</p>\n<p><strong>a) Erstes Buch. Über die Regel der menschlichen Handlungen:</strong> Bl. 1–13r. Anfang: <strong>Das Gewissen ist ein Urteil der Vernunft....</strong></p>\n<p><strong>b) Zweites Buch. Über die Gebote der theologischen Tugenden:</strong> Bl. 13r–27r. Anfang Bl. 13v: <strong>Von dem, was die Gläubigen ausdrücklich zu glauben verpflichtet sind....</strong></p>\n<p><strong>c) Drittes Buch. Über die Gebote des Dekalogs und der Kirche:</strong> Bl. 27–83. Anfang Bl. 27r: <strong>Dieses Gebot, insofern es bejahend ist....</strong></p>\n<p><strong>d) Viertes Buch. Über die Weise, Sünden zu erkennen und zu unterscheiden:</strong> Bl. 83–91. Anfang Bl. 83r: <strong>Sünde ist die Übertretung des Gesetzes....</strong></p>\n<p><strong>e) Fünftes Buch. Über besondere Gebote, die einem bestimmten Stand von Menschen eigen sind:</strong> Bl. 91–109v. Anfang Bl. 91v: <strong>Der Ordensstand ist....</strong></p>\n<p><strong>f) Sechstes Buch. Über die Sakramente:</strong> Bl. 109v–157v. Anfang: <strong>Dieses Buch wird sechs Abhandlungen enthalten....</strong></p>\n<p><strong>g) Siebtes Buch. Über kirchliche Zensuren:</strong> Bl. 157v–172v. Anfang: <strong>Eine Zensur ist eine zeitliche und heilsame Strafe....</strong> Schluss Bl. 172v: <strong>26. Januar 1648.</strong></p>\n<p><strong>h) Register des Buches:</strong> Bl. 178–185r.</p>\n<p><strong>i) Anhang:</strong> Bl. 185v–188r. Bl. 187v wird <strong>P. Carl: Grobendanc</strong> angeführt.</p>\n<p>Dieser scheint derselbe zu sein wie P. Carolus de Grobendoncque SJ, der zu jener Zeit teils in Olmütz, teils in Prag unter anderem auch Moraltheologie lehrte.</p>\n<p>Im Übrigen sind Verfasser und Schreiber unbekannt.</p>",
+    "latin": "III + 194 foll.; teg. a1; script. 1647/48\n\n*Compendium Casuum Conscientiae* (Inscriptio in dorso luridissima)\n\na) *Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis....\n\nb) *Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur....\n\nc) *Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum....\n\nd) *Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis....\n\ne) *Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est....\n\nf) *Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex....\n\ng) *Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648.\n\nh) *Index Libri:* fol. 178 - 185r.\n\ni) *Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.\n\nVidetur ille idem esse atque P. Carolus de Grobendoncque SJ, qui in illo tempore modo Olomucii, modo Pragae praeter alia etiam Theologiam Moralem docuit.\n\nCeterum auctor et scriptor ignoti.",
+    "latinHtml": "<p>III + 194 foll.; teg. a1; script. 1647/48</p>\n<p><em>Compendium Casuum Conscientiae</em> (Inscriptio in dorso luridissima)</p>\n<p>a) <em>Liber Primus De Regula actuum humanorum:</em> fol. 1 - 13r; <em>initium:</em> Conscientia est dictamen rationis....</p>\n<p>b) <em>Liber Secundus De Praeceptis Virtutum Theologicarum:</em> fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur....</p>\n<p>c) <em>Liber Tertius De praeceptis Decalogi et Ecclesiae:</em> fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum....</p>\n<p>d) <em>Liber Quartus De ratione cognoscendi, et discernendi peccata:</em> fol. 83 - 91; <em>initium</em> fol. 83r: (Peccatum) est transgressio legis....</p>\n<p>e) <em>Liber Quintus De Praeceptis particularibus certo hominum statui propriis:</em> fol. 91 - 109v. <em>Initium</em> fol. 91v: Status Religiosus est....</p>\n<p>f) <em>Liber Sextus: De Sacramentis:</em> fol. 109v - 157v. <em>Initium:</em> Habebit hic Liber tractatus sex....</p>\n<p>g) <em>Liber Septimus De Censuris Ecclesiasticis:</em> fol. 157v - 172v. <em>Initium:</em> Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648.</p>\n<p>h) <em>Index Libri:</em> fol. 178 - 185r.</p>\n<p>i) <em>Appendix:</em> fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.</p>\n<p>Videtur ille idem esse atque P. Carolus de Grobendoncque SJ, qui in illo tempore modo Olomucii, modo Pragae praeter alia etiam Theologiam Moralem docuit.</p>\n<p>Ceterum auctor et scriptor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 40.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-40/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 40",
+    "titles": "*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis.... \n*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis.... \n*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur.... \n*Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum.... \n*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis.... \n*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est.... \n*Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex.... \n*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648. \n*Index Libri:* fol. 178 - 185r. \n*Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Sieben Bücher eines Kompendiums der Gewissensfälle mit Register und Anhang. \n*Liber Primus De Regula actuum humanorum:* fol. 1 - 13r; *initium:* Conscientia est dictamen rationis.... \n*Liber Secundus De Praeceptis Virtutum Theologicarum:* fol. 13r - 27r. Initium fol. 13v: Ex iis, quae fideles explicitè credere tenentur.... \n*Liber Tertius De praeceptis Decalogi et Ecclesiae:* fol. 27 - 83. Initium fol. 27r: Huius praecepti, prout est affirmativum.... \n*Liber Quartus De ratione cognoscendi, et discernendi peccata:* fol. 83 - 91; *initium* fol. 83r: (Peccatum) est transgressio legis.... \n*Liber Quintus De Praeceptis particularibus certo hominum statui propriis:* fol. 91 - 109v. *Initium* fol. 91v: Status Religiosus est.... \n*Liber Sextus: De Sacramentis:* fol. 109v - 157v. *Initium:* Habebit hic Liber tractatus sex.... \n*Liber Septimus De Censuris Ecclesiasticis:* fol. 157v - 172v. *Initium:* Censura est poena temporalis et medicinalis.... Clausula fol. 172v: Die 26 Januarii Anno 1648. \n*Index Libri:* fol. 178 - 185r. \n*Appendix:* fol. 185v - 188r. Fol. 187v P. Carl: Grobendanc laudatur.",
+    "physical": "Papier \nIII + 194 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

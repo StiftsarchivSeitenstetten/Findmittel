@@ -1,0 +1,262 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-39",
+  "signature": "MN III 39",
+  "aliases": [
+    "Bibl. Cod. MN III 39"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "238",
+  "heading": {
+    "title": "Christliche Lehr in Nothwendige Fragen eingetheillet",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1753"
+  },
+  "date": {
+    "display": "1753",
+    "intervals": [
+      {
+        "from": 1753,
+        "to": 1753,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Christliche Lehr in Nothwendige Fragen eingetheillet",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 11–131",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b-1",
+      "label": "b.1",
+      "type": "",
+      "title": {
+        "text": "Andächtige Übung Vor der Christlichen Lehr",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 132–133",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b-2",
+      "label": "b.2",
+      "type": "",
+      "title": {
+        "text": "Nach der Christlichen Lehr",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 133–134",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Liebs Seuffzer des Heiligen Franc: Xaverij",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 134",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Kurtze Übung der fürnembsten Dugenden",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 135–137",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Carmen Germanicum spirituale",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 138",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; Lied mit Noten, Anfang „O Jesu Christ! Dir lebe ich, ....“."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 141",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur das Titelblatt ist ausgeführt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1753",
+        "intervals": [
+          {
+            "from": 1753,
+            "to": 1753,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 164 Seiten; schwarzer Ledereinband; geschrieben 1753.\n\na) **Christliche Lehr in Nothwendige Fragen eingetheillet:** S. 11–131.\n\nb) **Andächtige Übung Vor der Christlichen Lehr:** S. 132–133; **Nach der Christlichen Lehr:** S. 133–134.\n\nc) **Liebs Seuffzer des Heiligen Franc: Xaverij:** S. 134. Deutsche Fassung des berühmten Hymnus **O Jesu, ego amo te......**\n\nd) **Kurtze Übung der fürnembsten Dugenden:** S. 135–137.\n\ne) Geistliches deutsches Lied **O Jesu Christ! Dir lebe ich, ....** mit Musiknoten: S. 138.\n\nf) **Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann:** S. 141. Außer dem Titelblatt dieser Abhandlung ist nichts ausgeführt.\n\nWeder Kompilator noch Schreiber des Büchleins sind bekannt.\n\nDas Entstehungsjahr zeigt eine Frage-Antwort-Passage auf S. 17: **Wo ist dann Gottes Sohn als Mensch gebohren worden? Zu Bethlehem in den stall. – Wie lang ist dieses schon? so vill wür in der gemeinen Jahrs=Zall Zellen 1753.**",
+    "germanHtml": "<p>Oktavformat; 164 Seiten; schwarzer Ledereinband; geschrieben 1753.</p>\n<p>a) <strong>Christliche Lehr in Nothwendige Fragen eingetheillet:</strong> S. 11–131.</p>\n<p>b) <strong>Andächtige Übung Vor der Christlichen Lehr:</strong> S. 132–133; <strong>Nach der Christlichen Lehr:</strong> S. 133–134.</p>\n<p>c) <strong>Liebs Seuffzer des Heiligen Franc: Xaverij:</strong> S. 134. Deutsche Fassung des berühmten Hymnus <strong>O Jesu, ego amo te......</strong></p>\n<p>d) <strong>Kurtze Übung der fürnembsten Dugenden:</strong> S. 135–137.</p>\n<p>e) Geistliches deutsches Lied <strong>O Jesu Christ! Dir lebe ich, ....</strong> mit Musiknoten: S. 138.</p>\n<p>f) <strong>Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann:</strong> S. 141. Außer dem Titelblatt dieser Abhandlung ist nichts ausgeführt.</p>\n<p>Weder Kompilator noch Schreiber des Büchleins sind bekannt.</p>\n<p>Das Entstehungsjahr zeigt eine Frage-Antwort-Passage auf S. 17: <strong>Wo ist dann Gottes Sohn als Mensch gebohren worden? Zu Bethlehem in den stall. – Wie lang ist dieses schon? so vill wür in der gemeinen Jahrs=Zall Zellen 1753.</strong></p>",
+    "latin": "8°; 164 pagg.; teg. b2; script. 1753\n\na) Christliche Lehr in Nothwendige Fragen eingetheillet: p. 11–131\n\nb) Andächtige Übung Vor der Christlichen Lehr (p. 132–133), Nach der Christlichen Lehr (p. 133–134)\n\nc) Liebs Seuffzer des Heiligen Franc: Xaverij: p. 134 (Versio Germanica celeberrimi illius Rhythmi: O Jesu, ego amo te......)\n\nd) Kurtze Übung der fürnembsten Dugenden: p. 135–137\n\ne) Carmen Germanicum spirituale (O Jesu Christ! Dir lebe ich, ....) cum notis musicis: p. 138\n\nf) Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann: p. 141 (Praeter paginam titularem huius tractatus nihil est exaratum!)\n\nNeque quis compilaverit neque quis scripserit codicillum nostrum, scio. Quo autem anno scriptus (aut compositus) sit catechismus noster sequentes interrogationes responsionesque in pagina 17 indicant: **Wo ist dann Gottes Sohn als Mensch gebohren worden? Zu Bethlehem in den stall. – Wie lang ist dieses schon? so vill wür in der gemeinen Jahrs=Zall Zellen 1753.**",
+    "latinHtml": "<p>8°; 164 pagg.; teg. b2; script. 1753</p>\n<p>a) Christliche Lehr in Nothwendige Fragen eingetheillet: p. 11–131</p>\n<p>b) Andächtige Übung Vor der Christlichen Lehr (p. 132–133), Nach der Christlichen Lehr (p. 133–134)</p>\n<p>c) Liebs Seuffzer des Heiligen Franc: Xaverij: p. 134 (Versio Germanica celeberrimi illius Rhythmi: O Jesu, ego amo te......)</p>\n<p>d) Kurtze Übung der fürnembsten Dugenden: p. 135–137</p>\n<p>e) Carmen Germanicum spirituale (O Jesu Christ! Dir lebe ich, ....) cum notis musicis: p. 138</p>\n<p>f) Christliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann: p. 141 (Praeter paginam titularem huius tractatus nihil est exaratum!)</p>\n<p>Neque quis compilaverit neque quis scripserit codicillum nostrum, scio. Quo autem anno scriptus (aut compositus) sit catechismus noster sequentes interrogationes responsionesque in pagina 17 indicant: <strong>Wo ist dann Gottes Sohn als Mensch gebohren worden? Zu Bethlehem in den stall. – Wie lang ist dieses schon? so vill wür in der gemeinen Jahrs=Zall Zellen 1753.</strong></p>"
+  },
+  "source": {
+    "file": "MN III 39.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-39/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 39",
+    "titles": "Christliche Lehr in Nothwendige Fragen eingetheillet \nChristliche Lehr in Nothwendige Fragen eingetheillet \nAndächtige Übung Vor der Christlichen Lehr \nNach der Christlichen Lehr \nLiebs Seuffzer des Heiligen Franc: Xaverij \nKurtze Übung der fürnembsten Dugenden \nCarmen Germanicum spirituale \nChristliche Bauern-Reguln. das ist: Ein leichte Weiß, und schnurgeratte Jacobs Läütter zum Himmel, die ein fromes Beuern Volck ohne beschwürnuß besteigen kann",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern; Lied mit Noten, Anfang „O Jesu Christ! Dir lebe ich, ....“. \nNur das Titelblatt ist ausgeführt.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext."
+  }
+}

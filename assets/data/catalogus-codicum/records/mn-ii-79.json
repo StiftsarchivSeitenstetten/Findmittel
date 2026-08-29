@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-79",
+  "signature": "MN II 79",
+  "aliases": [
+    "Bibl. Cod. MN II 79",
+    "Institutiones Dialecticae et Commentarii in Organum Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "55",
+  "heading": {
+    "title": "Institutiones sive Summulae Dialecticae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1662/63"
+  },
+  "date": {
+    "display": "1662/63",
+    "intervals": [
+      {
+        "from": 1662,
+        "to": 1663,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Institutiones sive Summulae Dialecticae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–61v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Prolegomena Logicae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 63–126r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Introductio seu Isagoge Porphyrii Sive de Universalibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 126–209v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Commentarii in Organum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 210–337",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "337 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1662/63",
+        "intervals": [
+          {
+            "from": 1662,
+            "to": 1663,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "337 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1662/63.\n\na) **Einführung oder Summulae der Dialektik:** fol. 1–61v. Anfang der Vorrede fol. 1r: Bevor wir die Bahn des philosophischen Kurses durch die Logik (unklare Lesung) betreten.....\n\nb) **(Prolegomena zur Logik):** fol. 63–126r. Anfang fol. 63r: Während wir unseren Geist darauf richten, in die tieferen Geheimnisse der Logik einzudringen....\n\nc) **Einführung oder Isagoge des Porphyrius, oder: Über die Universalien:** fol. 126–209v. Anfang fol. 126v: Nachdem die Prolegomena der Logik dargelegt worden sind........\n\nd) **Kommentare zum Organon des Aristoteles:** fol. 210–337. Anfang fol. 210r: Wir gehen nun zur eigentlichen Lehre der Logik über.... Schluss fol. 337r: **Wir beendeten [dies] am Fest des hl. Märtyrers Georg, am 23. April 1663.**\n\nVerfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.",
+    "germanHtml": "<p>337 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite <strong>JHS</strong>, auf der Rückseite die <strong>Unbefleckte Mutter nach Apk 12,1</strong>; geschrieben 1662/63.</p>\n<p>a) <strong>Einführung oder Summulae der Dialektik:</strong> fol. 1–61v. Anfang der Vorrede fol. 1r: Bevor wir die Bahn des philosophischen Kurses durch die Logik (unklare Lesung) betreten.....</p>\n<p>b) <strong>(Prolegomena zur Logik):</strong> fol. 63–126r. Anfang fol. 63r: Während wir unseren Geist darauf richten, in die tieferen Geheimnisse der Logik einzudringen....</p>\n<p>c) <strong>Einführung oder Isagoge des Porphyrius, oder: Über die Universalien:</strong> fol. 126–209v. Anfang fol. 126v: Nachdem die Prolegomena der Logik dargelegt worden sind........</p>\n<p>d) <strong>Kommentare zum Organon des Aristoteles:</strong> fol. 210–337. Anfang fol. 210r: Wir gehen nun zur eigentlichen Lehre der Logik über.... Schluss fol. 337r: <strong>Wir beendeten [dies] am Fest des hl. Märtyrers Georg, am 23. April 1663.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt. Derselbe Schreiber schrieb jedoch auch die beiden folgenden Codices.</p>",
+    "latin": "337 foll.; teg. a2 (in parte adversa JHS, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1662/63\n\na) Institutiones sive Summulae Dialecticae: fol. 1–61v. Initium In Prooemium fol. 1r: Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....\n\nb) (Prolegomena Logicae): fol. 63–126r. Initium fol. 63r: Dum ad penitiora Logicae arcana penetranda animum appellimus....\n\nc) Introductio seu Isagoge Porphyrii Sive de Universalibus: fol. 126–209v. Initium fol. 126v: Traditis Prolegomenis Logicae........\n\nd) Commentarii in Organum Aristotelis: fol. 210–337. Initium fol. 210r: Aggredimur ad ipsam doctrinam Logicae.... Clausula fol. 337r: Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.\n\nAuctor et scriptor ignoti. Idem autem scriptor etiam duos sequentes codices conscripsit.",
+    "latinHtml": "<p>337 foll.; teg. a2 (in parte adversa JHS, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1662/63</p>\n<p>a) Institutiones sive Summulae Dialecticae: fol. 1–61v. Initium In Prooemium fol. 1r: Antequam philosophici cursus stadium per Logicam (sportum?) postum ingrediamur.....</p>\n<p>b) (Prolegomena Logicae): fol. 63–126r. Initium fol. 63r: Dum ad penitiora Logicae arcana penetranda animum appellimus....</p>\n<p>c) Introductio seu Isagoge Porphyrii Sive de Universalibus: fol. 126–209v. Initium fol. 126v: Traditis Prolegomenis Logicae........</p>\n<p>d) Commentarii in Organum Aristotelis: fol. 210–337. Initium fol. 210r: Aggredimur ad ipsam doctrinam Logicae.... Clausula fol. 337r: Absolvimus in Festo Sancti Georgii Martyris die 23 Aprilis Anno 1663.</p>\n<p>Auctor et scriptor ignoti. Idem autem scriptor etiam duos sequentes codices conscripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 79.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-79/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 81]]",
+      "targetId": "mn-ii-81",
+      "targetSignature": "MN II 81",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Der Katalog erklärt, derselbe unbekannte Schreiber habe auch die beiden folgenden Codices geschrieben."
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 82]]",
+      "targetId": "mn-ii-82",
+      "targetSignature": "MN II 82",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Der Katalog erklärt, derselbe unbekannte Schreiber habe auch die beiden folgenden Codices geschrieben."
+    }
+  ],
+  "search": {
+    "signature": "MN II 79",
+    "titles": "Institutiones sive Summulae Dialecticae \nInstitutiones sive Summulae Dialecticae \nProlegomena Logicae \nIntroductio seu Isagoge Porphyrii Sive de Universalibus \nCommentarii in Organum Aristotelis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n337 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1."
+  }
+}

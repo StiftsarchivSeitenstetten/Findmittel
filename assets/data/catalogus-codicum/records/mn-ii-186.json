@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-186",
+  "signature": "MN II 186",
+  "aliases": [
+    "Bibl. Cod. MN II 186"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "141",
+  "heading": {
+    "title": "Tractatus De Ecclesia Militante eiusque Notis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1695"
+  },
+  "date": {
+    "display": "ca. 1695",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1695,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Ecclesia Militante eiusque Notis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–180",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus controversisticus De Clericis et Monachis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 185–321",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Prolog verweist auf die Behandlung der streitenden Kirche im vorhergehenden Studienjahr; der Codex enthält damit Vorlesungen aus zwei aufeinanderfolgenden Studienjahren."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Die Zuschreibung wird im Katalog anhand der zusammengehörigen Buchreihe und des Befunds zu MN II 195 erschlossen."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "328 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1695",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1695,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "328 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1695.\n\na) **Abhandlung über die streitende Kirche und ihre Kennzeichen:** S. 1–180. Anfang S. 1: Die Häretiker stellen sich selbst das schlechteste Zeugnis aus.....\n\nb) **Kontroverstheologische Abhandlung über Kleriker und Mönche:** S. 185–321. Anfang der Vorrede: Im vergangenen Jahr wurde über Namen, Definition und Beschaffenheit der wahren streitenden Kirche auf Erden gehandelt.... Der Codex enthält somit Vorlesungen aus zwei aufeinanderfolgenden Studienjahren.\n\nDer Verfasser ist unbekannt. Der Schreiber schrieb auch die acht folgenden Codices, die – wie bei einzelnen von ihnen gezeigt wird – ungefähr um 1695 entstanden. Bei MN II 195 wird dargelegt, dass diese Buchreihe wahrscheinlich von Fr. Joannes Rigele, Seitenstettner Mönch, geschrieben wurde.",
+    "germanHtml": "<p>328 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1695.</p>\n<p>a) <strong>Abhandlung über die streitende Kirche und ihre Kennzeichen:</strong> S. 1–180. Anfang S. 1: Die Häretiker stellen sich selbst das schlechteste Zeugnis aus.....</p>\n<p>b) <strong>Kontroverstheologische Abhandlung über Kleriker und Mönche:</strong> S. 185–321. Anfang der Vorrede: Im vergangenen Jahr wurde über Namen, Definition und Beschaffenheit der wahren streitenden Kirche auf Erden gehandelt.... Der Codex enthält somit Vorlesungen aus zwei aufeinanderfolgenden Studienjahren.</p>\n<p>Der Verfasser ist unbekannt. Der Schreiber schrieb auch die acht folgenden Codices, die – wie bei einzelnen von ihnen gezeigt wird – ungefähr um 1695 entstanden. Bei MN II 195 wird dargelegt, dass diese Buchreihe wahrscheinlich von Fr. Joannes Rigele, Seitenstettner Mönch, geschrieben wurde.</p>",
+    "latin": "328 pagg.; teg. c2d; scriptus ca. 1695\n\na) Tractatus De Ecclesia Militante eiusque Notis: p. 1–180. Initium p. 1: Pessimam sibi fidem faciunt haeretici.....\n\nb) Tractatus controversisticus De Clericis et Monachis: p. 185–321. Initium Prooemii: Actum est anno superiori de nomine, definitione, et qualitate verae ecclesiae militantis in terris.... (Continet igitur codex noster lectiones duobus continuis annis scholaribus habitas!)\n\nAuctor ignotus. Scriptor vero codicis nostri etiam octo sequentes codices scripsit, eosque (uti ad unum alterumve codicem monstrabimus) circa annum 1695. Insuper ad codicem MN II 195 ostendemus, hanc seriem librorum probabiliter a F. Joanne Rigele monacho Seitenstettensi exaratam esse.",
+    "latinHtml": "<p>328 pagg.; teg. c2d; scriptus ca. 1695</p>\n<p>a) Tractatus De Ecclesia Militante eiusque Notis: p. 1–180. Initium p. 1: Pessimam sibi fidem faciunt haeretici.....</p>\n<p>b) Tractatus controversisticus De Clericis et Monachis: p. 185–321. Initium Prooemii: Actum est anno superiori de nomine, definitione, et qualitate verae ecclesiae militantis in terris.... (Continet igitur codex noster lectiones duobus continuis annis scholaribus habitas!)</p>\n<p>Auctor ignotus. Scriptor vero codicis nostri etiam octo sequentes codices scripsit, eosque (uti ad unum alterumve codicem monstrabimus) circa annum 1695. Insuper ad codicem MN II 195 ostendemus, hanc seriem librorum probabiliter a F. Joanne Rigele monacho Seitenstettensi exaratam esse.</p>"
+  },
+  "source": {
+    "file": "MN II 186.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-186/",
+  "relations": [
+    {
+      "typeRaw": "possible_same_scribe_as",
+      "typeLabel": "möglicherweise gleicher Schreiber",
+      "targetRaw": "[[MN II 195]]",
+      "targetId": "mn-ii-195",
+      "targetSignature": "MN II 195",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 186",
+    "titles": "Tractatus De Ecclesia Militante eiusque Notis \nTractatus De Ecclesia Militante eiusque Notis \nTractatus controversisticus De Clericis et Monachis",
+    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Prolog verweist auf die Behandlung der streitenden Kirche im vorhergehenden Studienjahr; der Codex enthält damit Vorlesungen aus zwei aufeinanderfolgenden Studienjahren.",
+    "physical": "Papier \n328 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

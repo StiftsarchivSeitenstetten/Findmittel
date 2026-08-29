@@ -1,0 +1,152 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-80",
+  "signature": "MN III 80",
+  "aliases": [
+    "Bibl. Cod. MN III 80",
+    "im Gesamt-MD irrtümlich: zweites Bibl. Cod. MN III 30"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "202",
+  "heading": {
+    "title": "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1720 (?)"
+  },
+  "date": {
+    "display": "um 1720 (?)",
+    "intervals": [
+      {
+        "from": 1720,
+        "to": 1720,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–738",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Klammern enthalten Unsicherheits- und Fehlermarkierungen des Katalogbearbeiters; der Titel als solcher ist überliefert."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_compiler",
+      "roleLabel": "author or compiler",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1720 (?)",
+        "intervals": [
+          {
+            "from": 1720,
+            "to": 1720,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Im Gesamt-MD ist diese Sektion irrtümlich ein zweites Mal als 'Bibl. Cod. MN III 30' überschrieben. Der Index des Catalogus weist das Gebetbuch 'BaumGürtl ...' jedoch als MN III 80 auf Katalogseite 202 nach; die Einzeldatei wird daher als MN III 80 geführt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 738 Seiten; schwarzer Ledereinband; geschrieben um 1720 (?).\n\n**BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:**\n\nDieses Gebetbuch enthält ausschließlich deutsche Gebete. Sie sind kunstvoll in schwarzer und teilweise roter Tinte geschrieben. Das Titelblatt ist farbig verziert.\n\nMehrere Kupferstiche von **Martin Engelbrecht** in Augsburg sind eingefügt.\n\nS. 58 steht der Name **Heigl Franz Xaverius**. Dieser scheint jedoch nicht der Schreiber zu sein, sondern eher der Name eines Verfassers eines vom Kompilator benutzten Buches. Daher sind sowohl Verfasser beziehungsweise Kompilator als auch Schreiber unbekannt.\n\nAuch das Entstehungsjahr ist nicht sicher. Der Katalogbearbeiter ordnete den Codex allein aufgrund von Einband und Schrift ungefähr um 1720 ein.",
+    "germanHtml": "<p>Kleines Oktavformat; 738 Seiten; schwarzer Ledereinband; geschrieben um 1720 (?).</p>\n<p><strong>BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:</strong></p>\n<p>Dieses Gebetbuch enthält ausschließlich deutsche Gebete. Sie sind kunstvoll in schwarzer und teilweise roter Tinte geschrieben. Das Titelblatt ist farbig verziert.</p>\n<p>Mehrere Kupferstiche von <strong>Martin Engelbrecht</strong> in Augsburg sind eingefügt.</p>\n<p>S. 58 steht der Name <strong>Heigl Franz Xaverius</strong>. Dieser scheint jedoch nicht der Schreiber zu sein, sondern eher der Name eines Verfassers eines vom Kompilator benutzten Buches. Daher sind sowohl Verfasser beziehungsweise Kompilator als auch Schreiber unbekannt.</p>\n<p>Auch das Entstehungsjahr ist nicht sicher. Der Katalogbearbeiter ordnete den Codex allein aufgrund von Einband und Schrift ungefähr um 1720 ein.</p>",
+    "latin": "8° min.; 738 pagg.; teg. b2; script. ca. 1720 (?)\n\n**BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:**\n\nHic liber precatorius non nisi preces Germanicas continet, easque artificiose nigro et partim rubro atramento scriptas. Pagina titularis coloribus ornata est. Insertae sunt aliquot imagines chalcographice depictae a Martino Engelbrecht Augustae Vindelicorum.\n\np. 58 invenitur nomen **Heigl Franz Xaverius**, quod vero non scribentis librum, sed ad cuiusdam libro auctoris videtur esse nomen. Ideoque non solum auctor, sed etiam scriptor ignotus. Sed et quando ortus sit liber noster precatorius, incertum est, et nil nisi formam tegumenti scripturaeque respiciens hoc loco inserui eum catalogo.",
+    "latinHtml": "<p>8° min.; 738 pagg.; teg. b2; script. ca. 1720 (?)</p>\n<p><strong>BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:</strong></p>\n<p>Hic liber precatorius non nisi preces Germanicas continet, easque artificiose nigro et partim rubro atramento scriptas. Pagina titularis coloribus ornata est. Insertae sunt aliquot imagines chalcographice depictae a Martino Engelbrecht Augustae Vindelicorum.</p>\n<p>p. 58 invenitur nomen <strong>Heigl Franz Xaverius</strong>, quod vero non scribentis librum, sed ad cuiusdam libro auctoris videtur esse nomen. Ideoque non solum auctor, sed etiam scriptor ignotus. Sed et quando ortus sit liber noster precatorius, incertum est, et nil nisi formam tegumenti scripturaeque respiciens hoc loco inserui eum catalogo.</p>"
+  },
+  "source": {
+    "file": "MN III 80.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-80/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 80",
+    "titles": "BaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter: \nBaumGürtl für (?) In Kleinem Druck darinen Morgen Abend et (?) Beicht und Communiongebet Gebetter (!) Auch Sonst Noch Andere schöne Mößgebetter: Auch Andere gar schöne gebetter:",
+    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Klammern enthalten Unsicherheits- und Fehlermarkierungen des Katalogbearbeiters; der Titel als solcher ist überliefert. \nIm Gesamt-MD ist diese Sektion irrtümlich ein zweites Mal als 'Bibl. Cod. MN III 30' überschrieben. Der Index des Catalogus weist das Gebetbuch 'BaumGürtl ...' jedoch als MN III 80 auf Katalogseite 202 nach; die Einzeldatei wird daher als MN III 80 geführt.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

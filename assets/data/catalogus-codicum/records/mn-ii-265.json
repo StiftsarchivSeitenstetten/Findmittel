@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-265",
+  "signature": "MN II 265",
+  "aliases": [
+    "Bibl. Cod. MN II 265"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "201",
+  "heading": {
+    "title": "Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1718 (?)"
+  },
+  "date": {
+    "display": "1718 (?)",
+    "intervals": [
+      {
+        "from": 1718,
+        "to": 1718,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–473",
+      "language": "",
+      "incipit": {
+        "text": "Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Enthält einen Kommentar zu den acht Büchern der Physik."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Philosophiae Naturalis Pars altera pertractans Libros de Mundo, et Caelo, de Generatione et Corruptione, de Meteoris, et Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 475–665",
+      "language": "",
+      "incipit": {
+        "text": "Physicâ Universali pro rerum dignitate"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Philosophia Transnaturalis seu Metaphysica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 666–723",
+      "language": "",
+      "incipit": {
+        "text": "Philosophiam tam rationalem quam naturalem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Quaestione de Angelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 704–723",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Diese Inhaltsbezeichnung steht im lateinischen Katalogtext innerhalb einer runden Klammer und ist als editorisch ergänzt gekennzeichnet."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Carolus Gschwandtner",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "additional_hand",
+      "roleLabel": "additional hand",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "758 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1718 (?)",
+        "intervals": [
+          {
+            "from": 1718,
+            "to": 1718,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "758 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben wahrscheinlich 1718.\n\na) **Erster Teil der Naturphilosophie, der Prinzipien, Natur, Ursachen und Eigenschaften des Naturseienden behandelt.** Vorgetragen an der erzbischöflichen Benediktineruniversität Salzburg und eigenhändig verfasst von **P. Carolus Gschwandtner**, Benediktiner von Seitenstetten: S. 3–473.\n\nAnfang des Prologs S. 5: Wohlan, meine Herren Hörer, seid nun guten Mutes und steht wie tapferste Männer....\n\nDieser erste Teil enthält einen Kommentar zu den acht Büchern der Physik.\n\nb) **Zweiter Teil der Naturphilosophie über die Bücher Über Welt und Himmel, Werden und Vergehen, Meteore und Seele:** S. 475–665. Anfang: Nachdem die allgemeine Physik ihrer Würde entsprechend behandelt ist,......\n\nc) **Übernatürliche Philosophie oder Metaphysik:** S. 666–723; darin S. 704–723 eine unvollständige Frage über die Engel. Anfang: Nachdem wir sowohl die rationale als auch die natürliche Philosophie,........\n\nAuch in diesem Codex ist P. Carolus Gschwandtner, damals Professor der Philosophie in Salzburg, zugleich Verfasser und Schreiber. Sehr zweifelhaft ist jedoch, ob auch S. 684–723 von seiner Hand stammen; denn ab S. 684 verändert sich der Schriftcharakter stark.\n\nDa der vorhergehende, die Logik enthaltende Codex 1717 geschrieben wurde, dürfte unser Codex 1718 entstanden sein, weil die Professoren nach Abschluss der Logik gewöhnlich im folgenden Jahr Naturphilosophie lehrten.",
+    "germanHtml": "<p>758 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben wahrscheinlich 1718.</p>\n<p>a) <strong>Erster Teil der Naturphilosophie, der Prinzipien, Natur, Ursachen und Eigenschaften des Naturseienden behandelt.</strong> Vorgetragen an der erzbischöflichen Benediktineruniversität Salzburg und eigenhändig verfasst von <strong>P. Carolus Gschwandtner</strong>, Benediktiner von Seitenstetten: S. 3–473.</p>\n<p>Anfang des Prologs S. 5: Wohlan, meine Herren Hörer, seid nun guten Mutes und steht wie tapferste Männer....</p>\n<p>Dieser erste Teil enthält einen Kommentar zu den acht Büchern der Physik.</p>\n<p>b) <strong>Zweiter Teil der Naturphilosophie über die Bücher Über Welt und Himmel, Werden und Vergehen, Meteore und Seele:</strong> S. 475–665. Anfang: Nachdem die allgemeine Physik ihrer Würde entsprechend behandelt ist,......</p>\n<p>c) <strong>Übernatürliche Philosophie oder Metaphysik:</strong> S. 666–723; darin S. 704–723 eine unvollständige Frage über die Engel. Anfang: Nachdem wir sowohl die rationale als auch die natürliche Philosophie,........</p>\n<p>Auch in diesem Codex ist P. Carolus Gschwandtner, damals Professor der Philosophie in Salzburg, zugleich Verfasser und Schreiber. Sehr zweifelhaft ist jedoch, ob auch S. 684–723 von seiner Hand stammen; denn ab S. 684 verändert sich der Schriftcharakter stark.</p>\n<p>Da der vorhergehende, die Logik enthaltende Codex 1717 geschrieben wurde, dürfte unser Codex 1718 entstanden sein, weil die Professoren nach Abschluss der Logik gewöhnlich im folgenden Jahr Naturphilosophie lehrten.</p>",
+    "latin": "758 pagg.; teg. a1; script. 1718 (?)\n\na) Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates. Tradita, In Alma, et Archi-Episcopali Benedictina Universitate Salisburgensi et composita â Reverendo **P. Carolo Gschwandtner** Benedictino Seitenstettensi m(anu propr)ia: p. 3–473.  \nInitium Proloquii p. 5: Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri....  \n(Haec prima pars continet commentarium in octo libros Physicorum!)\n\nb) Philosophiae Naturalis Pars altera pertractans Libros de Mundo, et Caelo, de Generatione et Corruptione, de Meteoris, et Anima: p. 475–665.  \nInitium: Physicâ Universali pro rerum dignitate, ......\n\nc) Philosophia Transnaturalis seu Metaphysica: p. 666–723 (cum incompleta Quaestione de Angelis p. 704–723)!  \nInitium: Philosophiam tam rationalem quam naturalem,........\n\nEtiam in hoc codice ut in praecedente P. Carolus Gschwandtner, tunc Salisburgi Professor Philosophiae, tam auctor est quam scriptor. Sed valde dubitandum est, num etiam pagg. 684–723 ab eodem scriptore exaratae sint; nam p. 684 character scripturae magnopere mutatur.\n\nQuod praecedens codex, qui logicam continet, anno 1717 scriptus est, probabiliter codex noster anno 1718 in lucem evenit, quia philosophiae professores logica finita statim philosophiam naturalem subsequente anno tradere solebant.",
+    "latinHtml": "<p>758 pagg.; teg. a1; script. 1718 (?)</p>\n<p>a) Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates. Tradita, In Alma, et Archi-Episcopali Benedictina Universitate Salisburgensi et composita â Reverendo <strong>P. Carolo Gschwandtner</strong> Benedictino Seitenstettensi m(anu propr)ia: p. 3–473. Initium Proloquii p. 5: Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri.... (Haec prima pars continet commentarium in octo libros Physicorum!)</p>\n<p>b) Philosophiae Naturalis Pars altera pertractans Libros de Mundo, et Caelo, de Generatione et Corruptione, de Meteoris, et Anima: p. 475–665. Initium: Physicâ Universali pro rerum dignitate, ......</p>\n<p>c) Philosophia Transnaturalis seu Metaphysica: p. 666–723 (cum incompleta Quaestione de Angelis p. 704–723)! Initium: Philosophiam tam rationalem quam naturalem,........</p>\n<p>Etiam in hoc codice ut in praecedente P. Carolus Gschwandtner, tunc Salisburgi Professor Philosophiae, tam auctor est quam scriptor. Sed valde dubitandum est, num etiam pagg. 684–723 ab eodem scriptore exaratae sint; nam p. 684 character scripturae magnopere mutatur.</p>\n<p>Quod praecedens codex, qui logicam continet, anno 1717 scriptus est, probabiliter codex noster anno 1718 in lucem evenit, quia philosophiae professores logica finita statim philosophiam naturalem subsequente anno tradere solebant.</p>"
+  },
+  "source": {
+    "file": "MN II 265.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-265/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 265",
+    "titles": "Philosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates \nPhilosophiae Naturalis Pars Prima, Quae pertractat Entis naturalis Principia, naturam, causas, et proprietates \nPhilosophiae Naturalis Pars altera pertractans Libros de Mundo, et Caelo, de Generatione et Corruptione, de Meteoris, et Anima \nPhilosophia Transnaturalis seu Metaphysica \nQuaestione de Angelis",
+    "persons": "P. Carolus Gschwandtner author and scribe author_and_scribe \nunbekannt additional hand additional_hand",
+    "incipits": "Mactè animi jam estote Domini Auditores! et tanquam fortissimi state viri \nPhysicâ Universali pro rerum dignitate \nPhilosophiam tam rationalem quam naturalem",
+    "explicits": "",
+    "notes": "Enthält einen Kommentar zu den acht Büchern der Physik. \nDiese Inhaltsbezeichnung steht im lateinischen Katalogtext innerhalb einer runden Klammer und ist als editorisch ergänzt gekennzeichnet. \nincomplete",
+    "physical": "Papier \n758 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

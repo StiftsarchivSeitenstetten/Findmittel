@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-78",
+  "signature": "MN II 78",
+  "aliases": [
+    "Bibl. Cod. MN II 78",
+    "De Sacramento Paenitentiae et De Sacrificio Missae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "55",
+  "heading": {
+    "title": "Disputatio Sexta. De Sacramento Paenitentiae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1661"
+  },
+  "date": {
+    "display": "1661",
+    "intervals": [
+      {
+        "from": 1661,
+        "to": 1661,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio Sexta. De Sacramento Paenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–50v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tres Quaestiones De Sacrificio Missae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 56–97",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Desiderius Schapenger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "affiliation": "Seeon"
+    },
+    {
+      "name": "Fr. Ignatius ab Arzt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 52 + 43 = 98 Blätter",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamentmakulatur, sorgfältig mit geistlicher Musik des 15. Jahrhunderts beschrieben.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1661",
+        "intervals": [
+          {
+            "from": 1661,
+            "to": 1661,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "chronogram",
+      "locus": "fol. 97v",
+      "text": "In saeCULUM",
+      "interpreted_date": 1661
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 52 + 43 = 98 Blätter; Pergamenteinband, sorgfältig mit geistlicher Musik des 15. Jahrhunderts beschrieben; geschrieben 1661.\n\na) **Sechste Disputation. Über das Sakrament der Buße:** fol. 1–50v. Anfang fol. 1r: Die zweite Planke nach dem Schiffbruch ist die Buße.....\n\nb) **(Drei Fragen über das Messopfer):** fol. 1–42 (=56–97). Anfang fol. 1 (=56)r: Nachdem wiederum die verschiedenen Herleitungen des Namens „Messe“ übergangen wurden...... Schluss fol. 42 (=97)v: **Unterdessen sei Gott Ehre in Ewigkeit** (*In saeCULUM*; Chronogramm, das das Jahr 1661 anzeigt). **Wir beendeten [dies] am Fest des hl. Placidus, am 4. Oktober, unter dem hochwürdigen .... P. Desiderius Schapenger, Benediktinermönch in Seeon, Doktor der heiligen Theologie und ordentlicher Professor der Gewissensfälle. Aufgeschrieben von Fr. Ignatius ab Arzt desselben Ordens, Profess im Kloster der heiligen Jungfrau zu Seitenstetten in Niederösterreich, im Jahr 1661.**",
+    "germanHtml": "<p>III + 52 + 43 = 98 Blätter; Pergamenteinband, sorgfältig mit geistlicher Musik des 15. Jahrhunderts beschrieben; geschrieben 1661.</p>\n<p>a) <strong>Sechste Disputation. Über das Sakrament der Buße:</strong> fol. 1–50v. Anfang fol. 1r: Die zweite Planke nach dem Schiffbruch ist die Buße.....</p>\n<p>b) <strong>(Drei Fragen über das Messopfer):</strong> fol. 1–42 (=56–97). Anfang fol. 1 (=56)r: Nachdem wiederum die verschiedenen Herleitungen des Namens „Messe“ übergangen wurden...... Schluss fol. 42 (=97)v: <strong>Unterdessen sei Gott Ehre in Ewigkeit</strong> (<em>In saeCULUM</em>; Chronogramm, das das Jahr 1661 anzeigt). <strong>Wir beendeten [dies] am Fest des hl. Placidus, am 4. Oktober, unter dem hochwürdigen .... P. Desiderius Schapenger, Benediktinermönch in Seeon, Doktor der heiligen Theologie und ordentlicher Professor der Gewissensfälle. Aufgeschrieben von Fr. Ignatius ab Arzt desselben Ordens, Profess im Kloster der heiligen Jungfrau zu Seitenstetten in Niederösterreich, im Jahr 1661.</strong></p>",
+    "latin": "III + 52 + 43 = 98 foll.; tegumentum modis musicae sacrae saec. XV. diligenter inscriptum (membranaceum); script. 1661\n\na) Disputatio Sexta. De Sacramento Paenitentiae: fol. 1–50v. Initium fol. 1r: Secunda post naufragium tabula est paenitentia.....\n\nb) (Tres Quaestiones De Sacrificio Missae): fol. 1–42 (=56–97). Initium fol. 1 (=56)r: Omissis iterum variis derivationibus nominis missae...... Clausula fol. 42 (=97)v: Interim sit honor Deo In saeCULUM (Chronogramma, quod indicat annum 1661). Absolvimus ipso festo S. Placidi 4 Octobris, sub Admodum .... P. **Desiderio Schapenger** Monacho Benedictino in Seon: SS: Theologiae Doctore et Casuum Conscientiae Professore ordinario. Conscripta a Fr. **Ignatio ab Arzt** eiusdem ordinis in Monasterio Divae Virginis Seittenstettensi Inferioris Austriae professo. Anno 1661.",
+    "latinHtml": "<p>III + 52 + 43 = 98 foll.; tegumentum modis musicae sacrae saec. XV. diligenter inscriptum (membranaceum); script. 1661</p>\n<p>a) Disputatio Sexta. De Sacramento Paenitentiae: fol. 1–50v. Initium fol. 1r: Secunda post naufragium tabula est paenitentia.....</p>\n<p>b) (Tres Quaestiones De Sacrificio Missae): fol. 1–42 (=56–97). Initium fol. 1 (=56)r: Omissis iterum variis derivationibus nominis missae...... Clausula fol. 42 (=97)v: Interim sit honor Deo In saeCULUM (Chronogramma, quod indicat annum 1661). Absolvimus ipso festo S. Placidi 4 Octobris, sub Admodum .... P. <strong>Desiderio Schapenger</strong> Monacho Benedictino in Seon: SS: Theologiae Doctore et Casuum Conscientiae Professore ordinario. Conscripta a Fr. <strong>Ignatio ab Arzt</strong> eiusdem ordinis in Monasterio Divae Virginis Seittenstettensi Inferioris Austriae professo. Anno 1661.</p>"
+  },
+  "source": {
+    "file": "MN II 78.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-78/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 78",
+    "titles": "Disputatio Sexta. De Sacramento Paenitentiae \nDisputatio Sexta. De Sacramento Paenitentiae \nTres Quaestiones De Sacrificio Missae",
+    "persons": "P. Desiderius Schapenger Dozent lecturer \nFr. Ignatius ab Arzt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIII + 52 + 43 = 98 Blätter \ndescription: Pergamentmakulatur, sorgfältig mit geistlicher Musik des 15. Jahrhunderts beschrieben."
+  }
+}

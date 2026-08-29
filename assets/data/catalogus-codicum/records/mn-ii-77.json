@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-77",
+  "signature": "MN II 77",
+  "aliases": [
+    "Bibl. Cod. MN II 77",
+    "Summulae et Commentarius In Organum Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "54",
+  "heading": {
+    "title": "Summulae seu Institutiones Dialecticae",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1660/61"
+  },
+  "date": {
+    "display": "1660/61",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1661,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summulae seu Institutiones Dialecticae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 2–81v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Titelblatt fehlt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Organum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 84–446",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "446 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660/61",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1661,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "446 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1660/61.\n\na) **(Summulae oder Einführung in die Dialektik):** fol. 2–81v. Fol. 1 (= Titelblatt) fehlt. Schluss fol. 81v: **Wir beendeten die Summulae am 6. Dezember, dem Fest des hl. Nikolaus, im Jahr 1660.**\n\nb) **Kommentar zum Organon des Aristoteles:** fol. 84–446. Anfang der Vorrede fol. 84r: Von den Vorübungen gehen wir zur Sache selbst über, von den Summulae zum eigentlichen Hauptgegenstand.... Schlussvermerke: fol. 206v: **Wir beendeten unsere Prolegomena am sechsundzwanzigsten Januar.... im Jahr 1661.** fol. 446v: **Wir beendeten [dies] am 20. Mai nach dem Mittagessen, in Gegenwart der hochwürdigsten Herren Äbte, bei der Bestätigung des hochgeehrten Herrn P. Rektors 1+6+6+1.**\n\nVerfasser und Schreiber sind unbekannt.",
+    "germanHtml": "<p>446 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1660/61.</p>\n<p>a) <strong>(Summulae oder Einführung in die Dialektik):</strong> fol. 2–81v. Fol. 1 (= Titelblatt) fehlt. Schluss fol. 81v: <strong>Wir beendeten die Summulae am 6. Dezember, dem Fest des hl. Nikolaus, im Jahr 1660.</strong></p>\n<p>b) <strong>Kommentar zum Organon des Aristoteles:</strong> fol. 84–446. Anfang der Vorrede fol. 84r: Von den Vorübungen gehen wir zur Sache selbst über, von den Summulae zum eigentlichen Hauptgegenstand.... Schlussvermerke: fol. 206v: <strong>Wir beendeten unsere Prolegomena am sechsundzwanzigsten Januar.... im Jahr 1661.</strong> fol. 446v: <strong>Wir beendeten [dies] am 20. Mai nach dem Mittagessen, in Gegenwart der hochwürdigsten Herren Äbte, bei der Bestätigung des hochgeehrten Herrn P. Rektors 1+6+6+1.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt.</p>",
+    "latin": "446 foll.; teg. a1; script. 1660/61\n\na) (Summulae seu Institutiones Dialecticae): fol. 2–81v. Folium 1 (= folium titulare) deest. Clausula fol. 81v: absolvimus Summulas 6 Decembris in festo Sancti Nicolai Anno 1660.\n\nb) Commentarius In Organum Aristotelis: fol. 84–446. Initium Praefationis fol. 84r: De praeludiis ad rem, de summulis ad ipsam transgredimur summam.... Clausulae: fol. 206v: Absolvimus nostra Prolegomena vigesimo sexto Januarii.... Anno 1661. fol. 446v: Absolvimus 20 Maii post prandium praesentibus Dominis Dominis Reverendissimis Abbatibus in Confirmatione Magnifici Domini Patris Rectoris 1+6+6+1.\n\nAuctor et scriptor ignoti.",
+    "latinHtml": "<p>446 foll.; teg. a1; script. 1660/61</p>\n<p>a) (Summulae seu Institutiones Dialecticae): fol. 2–81v. Folium 1 (= folium titulare) deest. Clausula fol. 81v: absolvimus Summulas 6 Decembris in festo Sancti Nicolai Anno 1660.</p>\n<p>b) Commentarius In Organum Aristotelis: fol. 84–446. Initium Praefationis fol. 84r: De praeludiis ad rem, de summulis ad ipsam transgredimur summam.... Clausulae: fol. 206v: Absolvimus nostra Prolegomena vigesimo sexto Januarii.... Anno 1661. fol. 446v: Absolvimus 20 Maii post prandium praesentibus Dominis Dominis Reverendissimis Abbatibus in Confirmatione Magnifici Domini Patris Rectoris 1+6+6+1.</p>\n<p>Auctor et scriptor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 77.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-77/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 77",
+    "titles": "Summulae seu Institutiones Dialecticae \nSummulae seu Institutiones Dialecticae \nCommentarius In Organum Aristotelis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Titelblatt fehlt.",
+    "physical": "Papier \n446 Blätter \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

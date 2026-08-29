@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-209",
+  "signature": "MN II 209",
+  "aliases": [
+    "Bibl. Cod. MN II 209"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "157",
+  "heading": {
+    "title": "Tractatus Scholasticus De Sacramentis in communi et in particulari de Baptismo, Confirmatione et Eucharistia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "nicht vor 1695, nicht nach 1700"
+  },
+  "date": {
+    "display": "nicht vor 1695, nicht nach 1700",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1700,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholasticus De Sacramentis in communi et in particulari de Baptismo, Confirmatione et Eucharistia",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": "incomplete"
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Prooemium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prima De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–597",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Disputatio Secunda De Sacramento Baptismi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 597–659",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Disputatio Tertia De Sacramento Confirmationis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 660–?",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Disputatio Quarta De Sacramento Eucharistiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "?–697",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "30. August, Jahr nicht angegeben"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Marianus Lendlmayr",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Admont / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Udiscalcus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "702 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "missing_leaves: Zwischen S. 674 und 675 fehlen zahlreiche Blätter mit den Nummern 19–42.",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nicht vor 1695, nicht nach 1700",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1700,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "Innenseite des Vorderdeckels",
+      "text": "P. V. H. 1705",
+      "note": "Die Deutung wird im Katalog bei MN II 211 erläutert."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "702 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nicht vor 1695 und nicht nach 1700.\n\n**Scholastische Abhandlung zum dritten Teil des hl. Thomas ab Frage 60 über die Sakramente im Allgemeinen und im Einzelnen über Taufe, Firmung und Eucharistie.**\n\na) Vorrede S. 3. Anfang: Nachdem der heilige Lehrer im dritten Teil seiner Theologie.....\n\nb) **Erste Disputation über die Sakramente im Allgemeinen:** S. 5–597. Anfang: Wir übergehen die Frage nach dem Namen Sakrament.....\n\nc) **Zweite Disputation über das Sakrament der Taufe:** S. 597–659. Anfang: Wir handeln hier von der Wassertaufe.....\n\nd) **Dritte Disputation über das Sakrament der Firmung:** ab S. 660. Anfang: Dieses Sakrament wurde wahrscheinlich gestiftet.....\n\ne) **Vierte Disputation über das Sakrament der Eucharistie:** bis S. 697.\n\nZwischen S. 674 und 675 fehlen zahlreiche Blätter, nämlich Nr. 19–42.\n\nSchluss S. 697: **Wir beendeten [dies] am 30. August unter P. Marianus Lendlmayr**, Profess von Admont und Professor in Salzburg.\n\nZur Notiz **P. V. H. 1705** auf der Innenseite des Vorderdeckels siehe MN II 211. Der Schriftcharakter zeigt, dass auch diesen Codex Fr. Udiscalcus Hueber schrieb. Das genaue Entstehungsjahr bleibt unsicher; er studierte von 1695 bis 1699 Theologie, womit Terminus post quem und ante quem gegeben sind.",
+    "germanHtml": "<p>702 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nicht vor 1695 und nicht nach 1700.</p>\n<p><strong>Scholastische Abhandlung zum dritten Teil des hl. Thomas ab Frage 60 über die Sakramente im Allgemeinen und im Einzelnen über Taufe, Firmung und Eucharistie.</strong></p>\n<p>a) Vorrede S. 3. Anfang: Nachdem der heilige Lehrer im dritten Teil seiner Theologie.....</p>\n<p>b) <strong>Erste Disputation über die Sakramente im Allgemeinen:</strong> S. 5–597. Anfang: Wir übergehen die Frage nach dem Namen Sakrament.....</p>\n<p>c) <strong>Zweite Disputation über das Sakrament der Taufe:</strong> S. 597–659. Anfang: Wir handeln hier von der Wassertaufe.....</p>\n<p>d) <strong>Dritte Disputation über das Sakrament der Firmung:</strong> ab S. 660. Anfang: Dieses Sakrament wurde wahrscheinlich gestiftet.....</p>\n<p>e) <strong>Vierte Disputation über das Sakrament der Eucharistie:</strong> bis S. 697.</p>\n<p>Zwischen S. 674 und 675 fehlen zahlreiche Blätter, nämlich Nr. 19–42.</p>\n<p>Schluss S. 697: <strong>Wir beendeten [dies] am 30. August unter P. Marianus Lendlmayr</strong>, Profess von Admont und Professor in Salzburg.</p>\n<p>Zur Notiz <strong>P. V. H. 1705</strong> auf der Innenseite des Vorderdeckels siehe MN II 211. Der Schriftcharakter zeigt, dass auch diesen Codex Fr. Udiscalcus Hueber schrieb. Das genaue Entstehungsjahr bleibt unsicher; er studierte von 1695 bis 1699 Theologie, womit Terminus post quem und ante quem gegeben sind.</p>",
+    "latin": "702 pagg.; teg. a1; script. non ante 1695, non post 1700\n\nTractatus Scholasticus. In tertiam partem Divi Thomae á quaestione 60. De Sacramentis in communi, et in particulari de baptismo, confirmatione et Eucharistia.\n\na) Initium Proemii p. 3: Postquam S. Doctor in 3 parte suae Theologiae.\n\nb) Disputatio prima De Sacramentis in genere: p. 5–597. Initium: Omittimus quaestionem circa nomen Sacramenti,......\n\nc) Disputatio secunda De Sacramento Baptismi: p. 597–659. Initium: Agimus in praesenti de baptismo fluminis.....\n\nd) Disputatio tertia De sacramento confirmationis: p. 660–? Initium: Hoc sacramentum probabilius est institutum.....\n\ne) (Disputatio quarta: De Sacramento Eucharistiae): ?–697.\n\nNB! Inter p. 674 et 675 desunt multa folia (n. 19–42).\n\nClausula p. 697: Absolvimus die 30 Augusti. sub Professore .....P. Mariano Lendlmayr (Professo Admontensi et Professore Salisburgensi).\n\nDe litteris initialibus in tegumento adverso ab intrinsecus P. V. H. 1705. vide supra ad codicem MN II 211 (p. 155)! Porro scriptura manifestat ipsum F. Udiscalcum Hueber professum Seittenstettensem ut tres praecedentes et codicem subsequentem ita etiam nostrum codicem scripsisse. At incertus est annus, quo ortus est codex noster; sed cum ab anno 1695 usque ad annum 1699 studiis theologicis incubuerit, terminos post quem et ante quem facile invenies.",
+    "latinHtml": "<p>702 pagg.; teg. a1; script. non ante 1695, non post 1700</p>\n<p>Tractatus Scholasticus. In tertiam partem Divi Thomae á quaestione 60. De Sacramentis in communi, et in particulari de baptismo, confirmatione et Eucharistia.</p>\n<p>a) Initium Proemii p. 3: Postquam S. Doctor in 3 parte suae Theologiae.</p>\n<p>b) Disputatio prima De Sacramentis in genere: p. 5–597. Initium: Omittimus quaestionem circa nomen Sacramenti,......</p>\n<p>c) Disputatio secunda De Sacramento Baptismi: p. 597–659. Initium: Agimus in praesenti de baptismo fluminis.....</p>\n<p>d) Disputatio tertia De sacramento confirmationis: p. 660–? Initium: Hoc sacramentum probabilius est institutum.....</p>\n<p>e) (Disputatio quarta: De Sacramento Eucharistiae): ?–697.</p>\n<p>NB! Inter p. 674 et 675 desunt multa folia (n. 19–42).</p>\n<p>Clausula p. 697: Absolvimus die 30 Augusti. sub Professore .....P. Mariano Lendlmayr (Professo Admontensi et Professore Salisburgensi).</p>\n<p>De litteris initialibus in tegumento adverso ab intrinsecus P. V. H. 1705. vide supra ad codicem MN II 211 (p. 155)! Porro scriptura manifestat ipsum F. Udiscalcum Hueber professum Seittenstettensem ut tres praecedentes et codicem subsequentem ita etiam nostrum codicem scripsisse. At incertus est annus, quo ortus est codex noster; sed cum ab anno 1695 usque ad annum 1699 studiis theologicis incubuerit, terminos post quem et ante quem facile invenies.</p>"
+  },
+  "source": {
+    "file": "MN II 209.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-209/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 209",
+    "titles": "Tractatus Scholasticus De Sacramentis in communi et in particulari de Baptismo, Confirmatione et Eucharistia \nProoemium \nDisputatio Prima De Sacramentis in genere \nDisputatio Secunda De Sacramento Baptismi \nDisputatio Tertia De Sacramento Confirmationis \nDisputatio Quarta De Sacramento Eucharistiae",
+    "persons": "P. Marianus Lendlmayr Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "incomplete",
+    "physical": "Papier \n702 pagg. \nmissing_leaves: Zwischen S. 674 und 675 fehlen zahlreiche Blätter mit den Nummern 19–42. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

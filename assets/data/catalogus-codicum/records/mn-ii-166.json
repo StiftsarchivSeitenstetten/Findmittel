@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-166",
+  "signature": "MN II 166",
+  "aliases": [
+    "Bibl. Cod. MN II 166"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "117",
+  "heading": {
+    "title": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1690"
+  },
+  "date": {
+    "display": "1690",
+    "intervals": [
+      {
+        "from": 1690,
+        "to": 1690,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–364",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1690-08-26"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "366 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1690",
+        "intervals": [
+          {
+            "from": 1690,
+            "to": 1690,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "366 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1690.\n\n**Viertes Buch der Dekretalen Papst Gregors IX.**\n\nAnfang S. 3: **Erster Titel. Über Verlöbnisse und Ehe.** Da dieses gesamte vierte Buch der Dekretalen von Verlöbnissen und Ehe handelt.....\n\nSchluss S. 364: **Wir beendeten [dies] am 26. August 1690.**\n\nSchreiber und Verfasser sind unbekannt.",
+    "germanHtml": "<p>366 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1690.</p>\n<p><strong>Viertes Buch der Dekretalen Papst Gregors IX.</strong></p>\n<p>Anfang S. 3: <strong>Erster Titel. Über Verlöbnisse und Ehe.</strong> Da dieses gesamte vierte Buch der Dekretalen von Verlöbnissen und Ehe handelt.....</p>\n<p>Schluss S. 364: <strong>Wir beendeten [dies] am 26. August 1690.</strong></p>\n<p>Schreiber und Verfasser sind unbekannt.</p>",
+    "latin": "366 pagg.; teg. a1; script. 1690\n\nLiber quartus Decretalium Gregorii IX. Pontificis Maximi.  \nInitium p. 3: Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit.....  \nClausula p. 364: Absolvimus 26. Augusti 1690.  \nScriptor et auctor ignoti.",
+    "latinHtml": "<p>366 pagg.; teg. a1; script. 1690</p>\n<p>Liber quartus Decretalium Gregorii IX. Pontificis Maximi. Initium p. 3: Titulus Primus De Sponsalibus et Matrimonii. Cum toto hoc libro 4. Decretalium de sponsalibus et Matrimonio agendum sit..... Clausula p. 364: Absolvimus 26. Augusti 1690. Scriptor et auctor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 166.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-166/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 166",
+    "titles": "Liber quartus Decretalium Gregorii IX. Pontificis Maximi \nLiber quartus Decretalium Gregorii IX. Pontificis Maximi",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n366 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

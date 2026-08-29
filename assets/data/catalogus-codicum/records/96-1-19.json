@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "96-1-19",
+  "signature": "96.1.19",
+  "aliases": [
+    "Bibl. Cod. 96.1.19"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "48a",
+  "heading": {
+    "title": "Pars Secunda Iuris Consuetudinarii",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": ""
+  },
+  "date": {
+    "display": "",
+    "intervals": [],
+    "normalization": "none",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Pars Secunda Iuris Consuetudinarii",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda Iuris Consuetudinarii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–686",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Joannes Baptista Suttinger à Turnhof",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "inferred",
+      "note": "Aus der Zugehörigkeit zum selben Ius Consuetudinarium wie 96.1.18 erschlossen."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Nach dem Katalog von einer anderen Hand als 96.1.18 geschrieben."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "686 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "",
+        "intervals": [],
+        "normalization": "none",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "former_owner": "Joannes Ignatius Albrecht",
+        "qualification": "J. V. D. (= Juris Utriusque Doctoris)"
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 686 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.\n\n**Zweiter Teil des Gewohnheitsrechts** – siehe den ersten Teil oben S. 48 bei Codex MN I 4.\n\nBesitzvermerk am oberen Rand des Titelblattes: **Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)**, also aus den Büchern des Johann Ignatius Albrecht, Doktor beider Rechte.",
+    "germanHtml": "<p>Folioformat; 686 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.</p>\n<p><strong>Zweiter Teil des Gewohnheitsrechts</strong> – siehe den ersten Teil oben S. 48 bei Codex MN I 4.</p>\n<p>Besitzvermerk am oberen Rand des Titelblattes: <strong>Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)</strong>, also aus den Büchern des Johann Ignatius Albrecht, Doktor beider Rechte.</p>",
+    "latin": "fol.; 686 pagg.; teg. a1\n\nPars Secunda Iuris Consuetudinarii (Vide partem primam supra p. 48 ad codicem MN I 4!)\n\nNota possidentis in margine superiore paginae titularis: Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)",
+    "latinHtml": "<p>fol.; 686 pagg.; teg. a1</p>\n<p>Pars Secunda Iuris Consuetudinarii (Vide partem primam supra p. 48 ad codicem MN I 4!)</p>\n<p>Nota possidentis in margine superiore paginae titularis: Ex Libris Joannis Ignatii Albrecht. J. V. D. (= Juris Utriusque Doctoris)</p>"
+  },
+  "source": {
+    "file": "96.1.19.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/96-1-19/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "96.1.18",
+      "targetId": "96-1-18",
+      "targetSignature": "96.1.18",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Der Katalog verweist auf den ersten Teil."
+    },
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "MN I 4",
+      "targetId": "mn-i-4",
+      "targetSignature": "MN I 4",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Der Katalog verweist auf den ersten Teil."
+    }
+  ],
+  "search": {
+    "signature": "96.1.19",
+    "titles": "Pars Secunda Iuris Consuetudinarii \nPars Secunda Iuris Consuetudinarii",
+    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n686 pagg. \nFolioformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

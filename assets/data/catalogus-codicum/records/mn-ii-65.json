@@ -1,0 +1,216 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-65",
+  "signature": "MN II 65",
+  "aliases": [
+    "Bibl. Cod. MN II 65",
+    "Commentarius In organum Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "42",
+  "heading": {
+    "title": "Inhaltseinheit a",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653–1655"
+  },
+  "date": {
+    "display": "1653–1655",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1655,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "verses",
+      "title": {
+        "text": "Inhaltseinheit a",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. III",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius In organum Aristotelis Philosophorum Principis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. V, 1–359",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Nomina Convictorum Anno 654. mecum commorentium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 364–367",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "affiliation": "Andechs / Salzburg"
+    },
+    {
+      "name": "Fr. Johann Merck",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "V + 371 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653–1655",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1655,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "locus": "S. 83",
+      "date": "1653-12-15",
+      "subject": "Tod Erzbischof Paris Lodron"
+    },
+    {
+      "type": "binding_initials",
+      "text": ".A.L. .C.S.F.I.M.P.S.",
+      "expansion": "Aristotelis Logica, Collegium Salisburgense, Frater Ioannes Merck Professus Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "V + 371 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1653–1655.\n\na) Folgende Hexameter: S. III:\n\nAllen gemeinsam ist der Fehler, niemandem vertrauen zu wollen.  \nVertraue den Guten, misstraue den Schlechten; wenn du einem Freund vertraust,  \nvertraue zwar, aber so, als würdest du einem künftigen Feind vertrauen.\n\nb) **Kommentar zum Organon des Aristoteles, des Fürsten der Philosophen, vorgetragen von ... P. Anselm Schlager, Benediktinermönch von Andechs und ordentlichem Professor der Philosophie in Salzburg. Aufgezeichnet von dem Ordensmann Fr. Johann Merck, Profess desselben Ordens im berühmten Kloster Seitenstetten in Niederösterreich, im Jahr 1654:** S. V und 1–359.\n\nAnfang der Vorrede zur Logik des Aristoteles S. 1: Da die Logik Weise und Werkzeug des Wissens ist.....\n\nS. 83: Vermerk: **Am 15. Dezember 1653, nachmittags gegen die sechste Stunde, verschied fromm im Herrn der hochwürdigste und durchlauchtigste Fürst und Erzbischof Paris aus dem Geschlecht der Grafen von Lodron in Salzburg.**\n\nSchlussvermerke: S. 84: **Wir beendeten [dies] am 22. Dezember (1653);** S. 244: **Wir beendeten diese Postprädikamente am Vorabend unseres heiligsten Vaters Benedikt (20. März) im Jahr 1654.** S. 359: **Wir beendeten diese Logik am 27. Mai 1654.**\n\nc) **Namen der Konviktoren, die im Jahr 654 bei mir wohnten:** S. 364–366; auf S. 366–367 folgen jene, die **im Jahr 655 zum Konvikt hinzukamen.**\n\nInitialen auf der Vorderseite des Einbandes: **.A.L. .C.S.F.I.M.P.S.** = *Aristotelis Logica, Collegium Salisburgense, Frater Ioannes Merck Professus Seittenstettensis*.\n\nTeil b dieses Codex enthält dasselbe Kolleg, das auch Codex MN II 49 (siehe oben S. 41!) und Codex MN II 69 (siehe unten S. 45!) überliefern.",
+    "germanHtml": "<p>V + 371 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1653–1655.</p>\n<p>a) Folgende Hexameter: S. III:</p>\n<p>Allen gemeinsam ist der Fehler, niemandem vertrauen zu wollen. Vertraue den Guten, misstraue den Schlechten; wenn du einem Freund vertraust, vertraue zwar, aber so, als würdest du einem künftigen Feind vertrauen.</p>\n<p>b) <strong>Kommentar zum Organon des Aristoteles, des Fürsten der Philosophen, vorgetragen von ... P. Anselm Schlager, Benediktinermönch von Andechs und ordentlichem Professor der Philosophie in Salzburg. Aufgezeichnet von dem Ordensmann Fr. Johann Merck, Profess desselben Ordens im berühmten Kloster Seitenstetten in Niederösterreich, im Jahr 1654:</strong> S. V und 1–359.</p>\n<p>Anfang der Vorrede zur Logik des Aristoteles S. 1: Da die Logik Weise und Werkzeug des Wissens ist.....</p>\n<p>S. 83: Vermerk: <strong>Am 15. Dezember 1653, nachmittags gegen die sechste Stunde, verschied fromm im Herrn der hochwürdigste und durchlauchtigste Fürst und Erzbischof Paris aus dem Geschlecht der Grafen von Lodron in Salzburg.</strong></p>\n<p>Schlussvermerke: S. 84: <strong>Wir beendeten [dies] am 22. Dezember (1653);</strong> S. 244: <strong>Wir beendeten diese Postprädikamente am Vorabend unseres heiligsten Vaters Benedikt (20. März) im Jahr 1654.</strong> S. 359: <strong>Wir beendeten diese Logik am 27. Mai 1654.</strong></p>\n<p>c) <strong>Namen der Konviktoren, die im Jahr 654 bei mir wohnten:</strong> S. 364–366; auf S. 366–367 folgen jene, die <strong>im Jahr 655 zum Konvikt hinzukamen.</strong></p>\n<p>Initialen auf der Vorderseite des Einbandes: <strong>.A.L. .C.S.F.I.M.P.S.</strong> = <em>Aristotelis Logica, Collegium Salisburgense, Frater Ioannes Merck Professus Seittenstettensis</em>.</p>\n<p>Teil b dieses Codex enthält dasselbe Kolleg, das auch Codex MN II 49 (siehe oben S. 41!) und Codex MN II 69 (siehe unten S. 45!) überliefern.</p>",
+    "latin": "V + 371 pagg.; teg. a1; script. 1653–1655\n\na) Sequentes versus heroici: p. III:\n\nPar vitium cunctis, et nulli fidere velle  \nFide bonis, diffide malis, si fidis amico,  \nFide quidem, sed tanquam inimico fide futuro.\n\nb) Commentarius In organum Aristotelis Philosophorum Principis Traditus Ab.... **P. Anselmo Schlager** Monacho Benedictino Andecensi Salisburgi Philosophiae Professore Ordinario. Exceptus A Religioso Fr. **Joanne Merck** Eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi in Inferiori Austria Professo Anno 1654: p. V et 1–359.\n\nInitium Proloquii in Logicam Aristotelis p. 1: Cum Logica modus sit et instrumentum Sciendi.....\n\np. 83: Nota. 15 Decembris anno 1653 tempore pomeridiano circa horam sextam piè in Domino obiit Reverendissimus et Illustrissimus Princeps et Archi Episcopus Paris è Comitibus Lodroni Salisburgi.\n\nClausulae: p. 84: Absolvimus 22 Decembris (1653); p. 244: Absolvimus haec postpraedicamenta in Vigilia Sanctissimi Patris nostri Benedicti (20. Martii) Anno 1654. p. 359: Absolvimus hanc Logicam 27 Maii Anno 1654.\n\nc) Nomina Convictorum Anno 654. mecum commorentium: p. 364–366, quos p. 366–367 sequuntur, qui \"Accessêre ad Convictum. Anno 655.\"\n\nLitterae initiales in parte adversa tegumenti: .A.L. .C.S.F.I.M.P.S. = Aristotelis Logica, Collegium Salisburgense, Frater Ioannes Merck Professus Seittenstettensis.\n\nPars b huius codicis idem collegium exhibet, quod cod. MN II 49 (vide supra p. 41!) et cod. MN II 69 (vide infra p. 45!).",
+    "latinHtml": "<p>V + 371 pagg.; teg. a1; script. 1653–1655</p>\n<p>a) Sequentes versus heroici: p. III:</p>\n<p>Par vitium cunctis, et nulli fidere velle Fide bonis, diffide malis, si fidis amico, Fide quidem, sed tanquam inimico fide futuro.</p>\n<p>b) Commentarius In organum Aristotelis Philosophorum Principis Traditus Ab.... <strong>P. Anselmo Schlager</strong> Monacho Benedictino Andecensi Salisburgi Philosophiae Professore Ordinario. Exceptus A Religioso Fr. <strong>Joanne Merck</strong> Eiusdem Ordinis in Celeberrimo Monasterio Seittenstettensi in Inferiori Austria Professo Anno 1654: p. V et 1–359.</p>\n<p>Initium Proloquii in Logicam Aristotelis p. 1: Cum Logica modus sit et instrumentum Sciendi.....</p>\n<p>p. 83: Nota. 15 Decembris anno 1653 tempore pomeridiano circa horam sextam piè in Domino obiit Reverendissimus et Illustrissimus Princeps et Archi Episcopus Paris è Comitibus Lodroni Salisburgi.</p>\n<p>Clausulae: p. 84: Absolvimus 22 Decembris (1653); p. 244: Absolvimus haec postpraedicamenta in Vigilia Sanctissimi Patris nostri Benedicti (20. Martii) Anno 1654. p. 359: Absolvimus hanc Logicam 27 Maii Anno 1654.</p>\n<p>c) Nomina Convictorum Anno 654. mecum commorentium: p. 364–366, quos p. 366–367 sequuntur, qui \"Accessêre ad Convictum. Anno 655.\"</p>\n<p>Litterae initiales in parte adversa tegumenti: .A.L. .C.S.F.I.M.P.S. = Aristotelis Logica, Collegium Salisburgense, Frater Ioannes Merck Professus Seittenstettensis.</p>\n<p>Pars b huius codicis idem collegium exhibet, quod cod. MN II 49 (vide supra p. 41!) et cod. MN II 69 (vide infra p. 45!).</p>"
+  },
+  "source": {
+    "file": "MN II 65.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-65/",
+  "relations": [
+    {
+      "typeRaw": "same_course_as",
+      "typeLabel": "same course as",
+      "targetRaw": "[[MN II 49]]",
+      "targetId": "mn-ii-49",
+      "targetSignature": "MN II 49",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_course_as",
+      "typeLabel": "same course as",
+      "targetRaw": "[[MN II 69]]",
+      "targetId": "mn-ii-69",
+      "targetSignature": "MN II 69",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 65",
+    "titles": "Inhaltseinheit a \nInhaltseinheit a \nCommentarius In organum Aristotelis Philosophorum Principis \nNomina Convictorum Anno 654. mecum commorentium",
+    "persons": "P. Anselm Schlager Dozent lecturer \nFr. Johann Merck Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nV + 371 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

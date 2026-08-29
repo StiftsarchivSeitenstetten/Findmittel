@@ -1,0 +1,544 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-305",
+  "signature": "MN II 305",
+  "aliases": [
+    "Bibl. Cod. MN II 305"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "257–259",
+  "heading": {
+    "title": "Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1779 (?)"
+  },
+  "date": {
+    "display": "1779 (?)",
+    "intervals": [
+      {
+        "from": 1779,
+        "to": 1779,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Innenseite des Vorderdeckels, S. 1–2",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Compendium Geographiae Praecipuarum Europae Regionum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–9",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tria epitaphia versibus ornata",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Aequationes arithmeticae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 10",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Introductio in Historiam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 23–31",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "observationes microscopiques des Sementes",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 33–42",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit weiteren Auszügen aus verschiedenen französischen Büchern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Tria excerpta Latina geographica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 42–44",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Demonstration de L' existence de Dieu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 45–46",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Weitere französische Stücke S. 46–49."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Iterum geographica et historica Latina",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 51–67",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Iterum notata Francogallica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 69–95",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Varia notata Latina",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 96–158",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vor allem Physik, Geschichte und Geographie; deutsche Stücke S. 100–102, 106–107 und 121 sind im Katalogtext bezeichnet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Numi (!) veteres Augustorum, Caesarum et Augustarum ex aere magno",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 159–166",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-m",
+      "label": "m",
+      "type": "",
+      "title": {
+        "text": "Varia notata Latina",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 167–173, 175–195, 197–212",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Physik, Chemie und medizinische Vorschriften; deutsche Stücke S. 195–197, französische S. 174–175."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-n",
+      "label": "n",
+      "type": "",
+      "title": {
+        "text": "Exercitia oratoria Latina de materiis antiquis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 213–216 und 220–242",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die einzelnen antiken Themen und Reden sind im Katalogtext vollständig aufgezählt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-o",
+      "label": "o",
+      "type": "",
+      "title": {
+        "text": "De conscientia",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 217",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-p",
+      "label": "p",
+      "type": "",
+      "title": {
+        "text": "Catecheses",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 219",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-q",
+      "label": "q",
+      "type": "",
+      "title": {
+        "text": "De affectibus in oratione",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 243–285",
+      "language": "",
+      "incipit": {
+        "text": "De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-r",
+      "label": "r",
+      "type": "",
+      "title": {
+        "text": "Duo consilia Germanica pro praxi",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 285",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-s",
+      "label": "s",
+      "type": "",
+      "title": {
+        "text": "Formulae aliquae de concionibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 309–312",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Teils deutsch, teils lateinisch, gelegentlich aus Cicero entnommen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-t",
+      "label": "t",
+      "type": "",
+      "title": {
+        "text": "Figurae Sen(tentiarum?)",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Innenseite des Rückdeckels",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Auflösung der Abkürzung steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Der Katalog lässt offen, ob eine oder mehrere Hände beteiligt waren."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "312 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3",
+      "description": "Brauner Pappeinband; Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1779 (?)",
+        "intervals": [
+          {
+            "from": 1779,
+            "to": 1779,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "312 Seiten; brauner Pappeinband, stark abgenutzt; geschrieben 1779 (?).\n\na) **Einige sehr kurze Notizen über die Erscheinungen der Kometen 1770 und 1771 und über andere Dinge:** Innenseite des Vorderdeckels, S. 1–2.\n\nb) **Kompendium der Geographie der wichtigsten Gebiete Europas:** S. 3–9.\n\nc) **Drei mit Versen geschmückte Epitaphien:** S. 9.\n\nd) **Arithmetische Gleichungen:** S. 10.\n\ne) **Einführung in die Geschichte:** S. 23–31.\n\nf) **observationes microscopiques des Sementes** und andere Auszüge aus verschiedenen französischen Büchern: S. 33–42.\n\ng) **Drei lateinische geographische Auszüge:** S. 42–44.\n\nh) **Demonstration de L' existence de Dieu:** S. 45–46, sowie weitere französische Stücke S. 46–49.\n\ni) **Weitere lateinische geographische und historische Notizen:** S. 51–67.\n\nj) **Weitere französische Notizen:** S. 69–95.\n\nk) **Verschiedene lateinische Notizen:** S. 96–158, vor allem zu Physik, Geschichte und Geographie. Deutsch sind jedoch S. 100–102, 106–107 (**Wider die Seuche des Geflügels; besonders der Hennen**) und S. 121 (**Haupt Summe Ueber die in Galizien und Lodom(er)ien befindliche Kreise, Distrikte, Städte, Markflecken, Dörfer Häuser, und Seelen, wie auch über den Viehstand, nach dem Conscriptions Abschluß mit Ende Oktobers 1776**).\n\nl) **Alte Münzen der Augusti, Caesaren und Augustae aus Großbronze:** S. 159–166, von C. Julius Caesar bis Nero Claudius Caesar.\n\nm) **Verschiedene lateinische Notizen:** S. 167–173, 175–195, 197–212, zu Physik, Chemie, medizinischen Vorschriften usw.; deutsch S. 195–197 und französisch S. 174–175.\n\nn) **Lateinische rhetorische Übungen zu antiken Themen:** S. 213–216 und 220–242: *Furor Seu orgya Maenadum. Euripidis Bacchae; Penthei laceratio*; Rede der Andromache, als ihr kleiner Sohn Astyanax aus ihren Armen gerissen und vom Turm gestürzt werden sollte; Lobrede auf Themistokles; Rede des Perikles an die Athener gegen die Lakedämonier; Rede des Perikles, als die Felder vom Feind und Athen von der Pest verwüstet wurden; Rede des Kleon an die Athener, sie sollten den Beschluss, alle abgefallenen Mytilenäer zu töten, nicht bereuen; Gemeinplatz über Aufruhr; Rede der Lakedämonier an die Athener zur Bitte um Frieden; Rede des spartanischen Feldherrn Brasidas an die Akanthier, sie sollten ihn mit seinem Heer aufnehmen und Bundesgenossen Spartas werden (Thukydides IV 85–87); Rede, in der Orestes sich vor Tyndareos dafür rechtfertigt, dessen Tochter, seine eigene Mutter, getötet zu haben; Etymologie des Wortes Tragödie.\n\no) **(Über das Gewissen):** S. 217.\n\np) **Katechesen:** S. 219.\n\nq) **(Über die Affekte in der Rede):** S. 243–285. Anfang: *De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim.* Nicht ist in Gedichten alles mit nur einem Affekt vorzutragen;.....\n\nr) **Zwei deutsche Ratschläge für die Praxis:** S. 285.\n\nZwischen S. 290 und 291 sind zahlreiche Blätter herausgeschnitten. S. 291–308 finden sich Anfänge eines alphabetischen Sachregisters des Codex.\n\ns) **Einige Formeln für Predigten:** S. 309–312, teils deutsch, teils lateinisch, gelegentlich aus Cicero entnommen.\n\nt) **Figurae Sen(tentiarum?):** Innenseite des Rückdeckels.\n\nOb der gesamte Codex von einer einzigen Hand geschrieben wurde, ist unsicher. Schreiber beziehungsweise Schreiber und die Verfasser der größeren Teile sind unbekannt.\n\nAuf der Innenseite des Rückdeckels findet sich neben anderem das Zeichen **A**, darunter das Wort **Tomus**. Einen Band B habe ich noch nicht gefunden. In der letzten Zeile derselben Seite steht die Notiz **pro 1779**.\n\nDa kaum verständlich ist, wie diese Notiz mit dem unmittelbar vorausgehenden Ratschlag über die Konservierung von Holz zusammenhängt, könnte sie vielmehr anzeigen, dass unser Codex eine Sammlung für das Jahr 1779 ist, also alles enthält, was der Kompilator in diesem Jahr beim Lesen und Schreiben gesammelt hat.",
+    "germanHtml": "<p>312 Seiten; brauner Pappeinband, stark abgenutzt; geschrieben 1779 (?).</p>\n<p>a) <strong>Einige sehr kurze Notizen über die Erscheinungen der Kometen 1770 und 1771 und über andere Dinge:</strong> Innenseite des Vorderdeckels, S. 1–2.</p>\n<p>b) <strong>Kompendium der Geographie der wichtigsten Gebiete Europas:</strong> S. 3–9.</p>\n<p>c) <strong>Drei mit Versen geschmückte Epitaphien:</strong> S. 9.</p>\n<p>d) <strong>Arithmetische Gleichungen:</strong> S. 10.</p>\n<p>e) <strong>Einführung in die Geschichte:</strong> S. 23–31.</p>\n<p>f) <strong>observationes microscopiques des Sementes</strong> und andere Auszüge aus verschiedenen französischen Büchern: S. 33–42.</p>\n<p>g) <strong>Drei lateinische geographische Auszüge:</strong> S. 42–44.</p>\n<p>h) <strong>Demonstration de L' existence de Dieu:</strong> S. 45–46, sowie weitere französische Stücke S. 46–49.</p>\n<p>i) <strong>Weitere lateinische geographische und historische Notizen:</strong> S. 51–67.</p>\n<p>j) <strong>Weitere französische Notizen:</strong> S. 69–95.</p>\n<p>k) <strong>Verschiedene lateinische Notizen:</strong> S. 96–158, vor allem zu Physik, Geschichte und Geographie. Deutsch sind jedoch S. 100–102, 106–107 (<strong>Wider die Seuche des Geflügels; besonders der Hennen</strong>) und S. 121 (<strong>Haupt Summe Ueber die in Galizien und Lodom(er)ien befindliche Kreise, Distrikte, Städte, Markflecken, Dörfer Häuser, und Seelen, wie auch über den Viehstand, nach dem Conscriptions Abschluß mit Ende Oktobers 1776</strong>).</p>\n<p>l) <strong>Alte Münzen der Augusti, Caesaren und Augustae aus Großbronze:</strong> S. 159–166, von C. Julius Caesar bis Nero Claudius Caesar.</p>\n<p>m) <strong>Verschiedene lateinische Notizen:</strong> S. 167–173, 175–195, 197–212, zu Physik, Chemie, medizinischen Vorschriften usw.; deutsch S. 195–197 und französisch S. 174–175.</p>\n<p>n) <strong>Lateinische rhetorische Übungen zu antiken Themen:</strong> S. 213–216 und 220–242: <em>Furor Seu orgya Maenadum. Euripidis Bacchae; Penthei laceratio</em>; Rede der Andromache, als ihr kleiner Sohn Astyanax aus ihren Armen gerissen und vom Turm gestürzt werden sollte; Lobrede auf Themistokles; Rede des Perikles an die Athener gegen die Lakedämonier; Rede des Perikles, als die Felder vom Feind und Athen von der Pest verwüstet wurden; Rede des Kleon an die Athener, sie sollten den Beschluss, alle abgefallenen Mytilenäer zu töten, nicht bereuen; Gemeinplatz über Aufruhr; Rede der Lakedämonier an die Athener zur Bitte um Frieden; Rede des spartanischen Feldherrn Brasidas an die Akanthier, sie sollten ihn mit seinem Heer aufnehmen und Bundesgenossen Spartas werden (Thukydides IV 85–87); Rede, in der Orestes sich vor Tyndareos dafür rechtfertigt, dessen Tochter, seine eigene Mutter, getötet zu haben; Etymologie des Wortes Tragödie.</p>\n<p>o) <strong>(Über das Gewissen):</strong> S. 217.</p>\n<p>p) <strong>Katechesen:</strong> S. 219.</p>\n<p>q) <strong>(Über die Affekte in der Rede):</strong> S. 243–285. Anfang: <em>De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim.</em> Nicht ist in Gedichten alles mit nur einem Affekt vorzutragen;.....</p>\n<p>r) <strong>Zwei deutsche Ratschläge für die Praxis:</strong> S. 285.</p>\n<p>Zwischen S. 290 und 291 sind zahlreiche Blätter herausgeschnitten. S. 291–308 finden sich Anfänge eines alphabetischen Sachregisters des Codex.</p>\n<p>s) <strong>Einige Formeln für Predigten:</strong> S. 309–312, teils deutsch, teils lateinisch, gelegentlich aus Cicero entnommen.</p>\n<p>t) <strong>Figurae Sen(tentiarum?):</strong> Innenseite des Rückdeckels.</p>\n<p>Ob der gesamte Codex von einer einzigen Hand geschrieben wurde, ist unsicher. Schreiber beziehungsweise Schreiber und die Verfasser der größeren Teile sind unbekannt.</p>\n<p>Auf der Innenseite des Rückdeckels findet sich neben anderem das Zeichen <strong>A</strong>, darunter das Wort <strong>Tomus</strong>. Einen Band B habe ich noch nicht gefunden. In der letzten Zeile derselben Seite steht die Notiz <strong>pro 1779</strong>.</p>\n<p>Da kaum verständlich ist, wie diese Notiz mit dem unmittelbar vorausgehenden Ratschlag über die Konservierung von Holz zusammenhängt, könnte sie vielmehr anzeigen, dass unser Codex eine Sammlung für das Jahr 1779 ist, also alles enthält, was der Kompilator in diesem Jahr beim Lesen und Schreiben gesammelt hat.</p>",
+    "latin": "312 pagg.; teg. c3, sed valde attritum; scriptus 1779 (?)\n\na) (Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus): pars adversa tegumenti ab intrinsecus, p. 1–2.\n\nb) Compendium Geographiae Praecipuarum Europae Regionum: p. 3–9\n\nc) Tria epitaphia versibus ornata: p. 9\n\nd) Aequationes arithmeticae: p. 10\n\ne) Introductio in Historiam: p. 23–31\n\nf) observationes microscopiques des Sementes (Francogallice) aliaque excerpta e diversis libris Francogallicis: p. 33–42\n\ng) Tria excerpta Latina geographica: p. 42–44\n\nh) Demonstration de L' existence de Dieu: p. 45–46 et alia Francogallice composita: p. 46–49.\n\ni) Iterum geographica et historica Latina: p. 51–67\n\nj) Iterum notata Francogallica: p. 69–95\n\nk) Varia notata Latina: p. 96–158 (physica, historica, geographica), sed p. 100–102, 106–107 (**Wider die Seuche des Geflügels; besonders der Hennen**), 121 (**Haupt Summe Ueber die in Galizien und Lodom(er)ien befindliche Kreise, Distrikte, Städte, Markflecken, Dörfer Häuser, und Seelen, wie auch über den Viehstand, nach dem Conscriptions Abschluß mit Ende Oktobers 1776**) Germanice scripta sunt.\n\n\n\n\nl) **Numi (!) veteres Augustorum, Caesarum et Augustarum ex aere magno:** p. 159–166 (a C. Julio Caesare usque ad Neronem Claudium Caesarem)\n\nm) **Varia notata Latina:** p. 167–173, 175–195, 197–212 (physica, chymica, praecepta medicinalia etc.), et Germanica: p. 195–197 et Francogallica: p. 174–175.\n\nn) **Exercitia oratoria Latina de materiis antiquis:** p. 213–216: *Furor Seu orgya Maenadum. Euripidis Bacchae; Penthei laceratio*; p. 220–242: oratio Andromachae, cum evulsus ex eius sinu parvus filius Astyanax ex turri praecipitandus esset; Elogium Themistoclis; oratio Periclis ad Athenienses contra Lacedaemonios; oratio Periclis, cum et ab hoste agri, et a pestilentia urbs Athenarum vastaretur; oratio Cleonis ad Athenienses: ne facti decreti eos poeniteat, ut Mytilenaeos, qui defecerant, omnes occiderent; Locus communis de seditione; oratio Lacedaemoniorum ad Athenienses de petenda pace; oratio Brasidae Spartani ducis ad Acanthios, ut se cum exercitu recipiant, et Spartanorum socii esse velint (Thuc. IV 85–87); oratio, qua Orestes se Tyndaro excusat, quod eius filiam, matrem nempe suam occiderit; (etymologia nominis Tragoedia).\n\no) **(De conscientia):** p. 217\n\np) **Catecheses:** p. 219\n\nq) **(De affectibus in oratione):** p. 243–285.  \nInitium: *De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda;.....*\n\nr) **(Duo consilia Germanica pro praxi):** p. 285\n\nInter pagg. 290 et 291 multa folia excissa sunt. pag. 291–308 quaedam initia indicis rerum codicis nostri alphabetica inveniuntur.\n\ns) **Formulae aliquae de concionibus** (partim Germanicae, partim Latinae, interdum e Cicerone depromptae): p. 309–312\n\nt) **Figurae Sen(tentiarum?):** Pars adversa tegumenti ab intrinsecus.\n\nNum totus codex noster ab una eademque manu scriptus sit, incertum est. Ceterum tam scriptor (aut: scriptores) quam auctores maiorum partium ignoti.\n\nIn parte adversa tegumenti ab intrinsecus invenitur praeter alia etiam signum A, cui subscripta est vox Tomus. Tomum vero B nondum inveni. In ultima linea eiusdem paginae invenitur nota: **pro 1779.**\n\nCum vix intelligendum sit, quo modo haec nota cum praecedente consilio de lignis conservandis cohaereat, forsitan indicet, codicem nostrum esse collectanea pro anno 1779, id est, codicem nostrum continere quidquid compilator hoc anno legendo scribendoque collegerit.",
+    "latinHtml": "<p>312 pagg.; teg. c3, sed valde attritum; scriptus 1779 (?)</p>\n<p>a) (Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus): pars adversa tegumenti ab intrinsecus, p. 1–2.</p>\n<p>b) Compendium Geographiae Praecipuarum Europae Regionum: p. 3–9</p>\n<p>c) Tria epitaphia versibus ornata: p. 9</p>\n<p>d) Aequationes arithmeticae: p. 10</p>\n<p>e) Introductio in Historiam: p. 23–31</p>\n<p>f) observationes microscopiques des Sementes (Francogallice) aliaque excerpta e diversis libris Francogallicis: p. 33–42</p>\n<p>g) Tria excerpta Latina geographica: p. 42–44</p>\n<p>h) Demonstration de L' existence de Dieu: p. 45–46 et alia Francogallice composita: p. 46–49.</p>\n<p>i) Iterum geographica et historica Latina: p. 51–67</p>\n<p>j) Iterum notata Francogallica: p. 69–95</p>\n<p>k) Varia notata Latina: p. 96–158 (physica, historica, geographica), sed p. 100–102, 106–107 (<strong>Wider die Seuche des Geflügels; besonders der Hennen</strong>), 121 (<strong>Haupt Summe Ueber die in Galizien und Lodom(er)ien befindliche Kreise, Distrikte, Städte, Markflecken, Dörfer Häuser, und Seelen, wie auch über den Viehstand, nach dem Conscriptions Abschluß mit Ende Oktobers 1776</strong>) Germanice scripta sunt.</p>\n<p>l) <strong>Numi (!) veteres Augustorum, Caesarum et Augustarum ex aere magno:</strong> p. 159–166 (a C. Julio Caesare usque ad Neronem Claudium Caesarem)</p>\n<p>m) <strong>Varia notata Latina:</strong> p. 167–173, 175–195, 197–212 (physica, chymica, praecepta medicinalia etc.), et Germanica: p. 195–197 et Francogallica: p. 174–175.</p>\n<p>n) <strong>Exercitia oratoria Latina de materiis antiquis:</strong> p. 213–216: <em>Furor Seu orgya Maenadum. Euripidis Bacchae; Penthei laceratio</em>; p. 220–242: oratio Andromachae, cum evulsus ex eius sinu parvus filius Astyanax ex turri praecipitandus esset; Elogium Themistoclis; oratio Periclis ad Athenienses contra Lacedaemonios; oratio Periclis, cum et ab hoste agri, et a pestilentia urbs Athenarum vastaretur; oratio Cleonis ad Athenienses: ne facti decreti eos poeniteat, ut Mytilenaeos, qui defecerant, omnes occiderent; Locus communis de seditione; oratio Lacedaemoniorum ad Athenienses de petenda pace; oratio Brasidae Spartani ducis ad Acanthios, ut se cum exercitu recipiant, et Spartanorum socii esse velint (Thuc. IV 85–87); oratio, qua Orestes se Tyndaro excusat, quod eius filiam, matrem nempe suam occiderit; (etymologia nominis Tragoedia).</p>\n<p>o) <strong>(De conscientia):</strong> p. 217</p>\n<p>p) <strong>Catecheses:</strong> p. 219</p>\n<p>q) <strong>(De affectibus in oratione):</strong> p. 243–285. Initium: <em>De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda;.....</em></p>\n<p>r) <strong>(Duo consilia Germanica pro praxi):</strong> p. 285</p>\n<p>Inter pagg. 290 et 291 multa folia excissa sunt. pag. 291–308 quaedam initia indicis rerum codicis nostri alphabetica inveniuntur.</p>\n<p>s) <strong>Formulae aliquae de concionibus</strong> (partim Germanicae, partim Latinae, interdum e Cicerone depromptae): p. 309–312</p>\n<p>t) <strong>Figurae Sen(tentiarum?):</strong> Pars adversa tegumenti ab intrinsecus.</p>\n<p>Num totus codex noster ab una eademque manu scriptus sit, incertum est. Ceterum tam scriptor (aut: scriptores) quam auctores maiorum partium ignoti.</p>\n<p>In parte adversa tegumenti ab intrinsecus invenitur praeter alia etiam signum A, cui subscripta est vox Tomus. Tomum vero B nondum inveni. In ultima linea eiusdem paginae invenitur nota: <strong>pro 1779.</strong></p>\n<p>Cum vix intelligendum sit, quo modo haec nota cum praecedente consilio de lignis conservandis cohaereat, forsitan indicet, codicem nostrum esse collectanea pro anno 1779, id est, codicem nostrum continere quidquid compilator hoc anno legendo scribendoque collegerit.</p>"
+  },
+  "source": {
+    "file": "MN II 305.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-305/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 305",
+    "titles": "Aliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus \nAliquot notata brevissima de apparitionibus cometarum 1770 et 1771 aliisque rebus \nCompendium Geographiae Praecipuarum Europae Regionum \nTria epitaphia versibus ornata \nAequationes arithmeticae \nIntroductio in Historiam \nobservationes microscopiques des Sementes \nTria excerpta Latina geographica \nDemonstration de L' existence de Dieu \nIterum geographica et historica Latina \nIterum notata Francogallica \nVaria notata Latina \nNumi (!) veteres Augustorum, Caesarum et Augustarum ex aere magno \nVaria notata Latina \nExercitia oratoria Latina de materiis antiquis \nDe conscientia \nCatecheses \nDe affectibus in oratione \nDuo consilia Germanica pro praxi \nFormulae aliquae de concionibus \nFigurae Sen(tentiarum?)",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "De Mixtura Affectuum. et quibusdam animadversionibus de affectibus generatim. Non sunt in poemata uno affectu omnia efferenda",
+    "explicits": "",
+    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nMit weiteren Auszügen aus verschiedenen französischen Büchern. \nWeitere französische Stücke S. 46–49. \nVor allem Physik, Geschichte und Geographie; deutsche Stücke S. 100–102, 106–107 und 121 sind im Katalogtext bezeichnet. \nPhysik, Chemie und medizinische Vorschriften; deutsche Stücke S. 195–197, französische S. 174–175. \nDie einzelnen antiken Themen und Reden sind im Katalogtext vollständig aufgezählt. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nTeils deutsch, teils lateinisch, gelegentlich aus Cicero entnommen. \nDie Auflösung der Abkürzung steht im Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n312 pagg. \ncode: c3; description: Brauner Pappeinband; Zustand siehe Katalogtext."
+  }
+}

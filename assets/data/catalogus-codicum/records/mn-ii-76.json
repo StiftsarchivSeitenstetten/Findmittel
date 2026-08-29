@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-76",
+  "signature": "MN II 76",
+  "aliases": [
+    "Bibl. Cod. MN II 76",
+    "Disputationes In octo Libros Physicos Aristotelis II"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "49",
+  "heading": {
+    "title": "Fortsetzung der Disputationes In octo Libros Physicos Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1660"
+  },
+  "date": {
+    "display": "1660",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1660,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Fortsetzung der Disputationes In octo Libros Physicos Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "fol. 360–776v",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": "Ende fehlt."
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Fortsetzung der Disputationes In octo Libros Physicos Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 360–776v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Ende fehlt."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Fr. Theophilus Janckh",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        },
+        {
+          "name": "unbekannt",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Theophilus Janckh",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Theophilus Janckh",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 416 (360–776) + II Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1660,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "2a Pars in 8. Libros Physicos M S. F. Theophil Jank Seittenstettensis."
+    },
+    {
+      "type": "binding_inscription",
+      "text": ".F.T.I.P.S. .1.6.6.0."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 416 (360–776) + II Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1660.\n\n**(Fortsetzung der Disputationen zu den acht Büchern der Physik; siehe den vorhergehenden Codex!):** fol. 360–776v. Das Ende fehlt.\n\nRückenaufschrift: **2. Teil zu den 8 Büchern der Physik, Handschrift von Fr. Theophilus Jank aus Seitenstetten.** Auf der Vorderseite des Einbandes: **.F.T.I.P.S.** (= Frater Theophilus Janckh Professus Seittenstettensis) **.1.6.6.0.**\n\nDer Verfasser ist unbekannt. Dieselben Disputationen, die in den Codices MN II 75 und 76 verstümmelt enthalten sind, findet man vollständig in Codex MN II 80 (unten S. 51).",
+    "germanHtml": "<p>II + 416 (360–776) + II Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1660.</p>\n<p><strong>(Fortsetzung der Disputationen zu den acht Büchern der Physik; siehe den vorhergehenden Codex!):</strong> fol. 360–776v. Das Ende fehlt.</p>\n<p>Rückenaufschrift: <strong>2. Teil zu den 8 Büchern der Physik, Handschrift von Fr. Theophilus Jank aus Seitenstetten.</strong> Auf der Vorderseite des Einbandes: <strong>.F.T.I.P.S.</strong> (= Frater Theophilus Janckh Professus Seittenstettensis) <strong>.1.6.6.0.</strong></p>\n<p>Der Verfasser ist unbekannt. Dieselben Disputationen, die in den Codices MN II 75 und 76 verstümmelt enthalten sind, findet man vollständig in Codex MN II 80 (unten S. 51).</p>",
+    "latin": "II + 416 (360–776) + II foll.; teg. a2; script. 1660\n\n(Continuatio disputationum in octo Libros Physicos; vide codicem praecedentem!): fol. 360–776v. Finis deest.\n\nInscriptio dorsi: 2a Pars in 8. Libros Physicos M S. F. Theophil Jank Seittenstettensis. Adverso in tegumento: .F.T.I.P.S. (= Frater Theophilus Janckh Professus Seittenstettensis) .1.6.6.0.\n\nAuctor ignotus. Easdem disputationes, quae in codicibus MN II 75 et 76 mutilae continentur, completas reperies in codice MN II 80 (infra p. 51).",
+    "latinHtml": "<p>II + 416 (360–776) + II foll.; teg. a2; script. 1660</p>\n<p>(Continuatio disputationum in octo Libros Physicos; vide codicem praecedentem!): fol. 360–776v. Finis deest.</p>\n<p>Inscriptio dorsi: 2a Pars in 8. Libros Physicos M S. F. Theophil Jank Seittenstettensis. Adverso in tegumento: .F.T.I.P.S. (= Frater Theophilus Janckh Professus Seittenstettensis) .1.6.6.0.</p>\n<p>Auctor ignotus. Easdem disputationes, quae in codicibus MN II 75 et 76 mutilae continentur, completas reperies in codice MN II 80 (infra p. 51).</p>"
+  },
+  "source": {
+    "file": "MN II 76.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-76/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 75]]",
+      "targetId": "mn-ii-75",
+      "targetSignature": "MN II 75",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "complete_parallel_in",
+      "typeLabel": "complete parallel in",
+      "targetRaw": "[[MN II 80]]",
+      "targetId": "mn-ii-80",
+      "targetSignature": "MN II 80",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 76",
+    "titles": "Fortsetzung der Disputationes In octo Libros Physicos Aristotelis \nFortsetzung der Disputationes In octo Libros Physicos Aristotelis",
+    "persons": "Fr. Theophilus Janckh Schreiber scribe \nunbekannt Autor author \nFr. Theophilus Janckh Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Ende fehlt. \nEnde fehlt.",
+    "physical": "Papier \nII + 416 (360–776) + II Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

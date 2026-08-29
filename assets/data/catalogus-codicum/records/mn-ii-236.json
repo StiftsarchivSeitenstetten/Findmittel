@@ -1,0 +1,203 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-236",
+  "signature": "MN II 236",
+  "aliases": [
+    "Bibl. Cod. MN II 236"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "184–185",
+  "heading": {
+    "title": "Tractatus Philosophiae primus De Logica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1710 (?)"
+  },
+  "date": {
+    "display": "ca. 1710 (?)",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Philosophiae primus De Logica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–306",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Viginti Theses Logicae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 307–309",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "title_note",
+          "text": "Im Katalog steht nur „Viginti“ in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index Universae Logicae, ubi perspiciendae sunt Sententiae, quae sunt admissae iuxta ordinem disputationum inscriptae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 310–314",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "318 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1710 (?)",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "illustration",
+      "locus": "S. 182–183",
+      "subject": "Arbor Porphyriana",
+      "note": "Im Katalog als besonders schön gezeichnet bezeichnet."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "318 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1710 (?).\n\na) **Erste philosophische Abhandlung über die Logik:** S. 1–306. Anfang der Vorrede: Wir beginnen die Philosophie mit der Logik.....\n\nS. 182–183 befindet sich ein sehr schön gezeichneter Porphyrianischer Baum.\n\nb) **(Zwanzig) logische Thesen:** S. 307–309.\n\nc) **Register der gesamten Logik, in dem die von uns angenommenen Lehrmeinungen nach der Reihenfolge der Disputationen verzeichnet sind:** S. 310–314.\n\nVerfasser und Schreiber sind unbekannt; derselbe Schreiber schrieb jedoch auch den folgenden Codex. Aufgrund von Einband und Schrift vermutet der Katalogbearbeiter für beide eine Entstehung um 1710, ausdrücklich mit erheblichem Vorbehalt.",
+    "germanHtml": "<p>318 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1710 (?).</p>\n<p>a) <strong>Erste philosophische Abhandlung über die Logik:</strong> S. 1–306. Anfang der Vorrede: Wir beginnen die Philosophie mit der Logik.....</p>\n<p>S. 182–183 befindet sich ein sehr schön gezeichneter Porphyrianischer Baum.</p>\n<p>b) <strong>(Zwanzig) logische Thesen:</strong> S. 307–309.</p>\n<p>c) <strong>Register der gesamten Logik, in dem die von uns angenommenen Lehrmeinungen nach der Reihenfolge der Disputationen verzeichnet sind:</strong> S. 310–314.</p>\n<p>Verfasser und Schreiber sind unbekannt; derselbe Schreiber schrieb jedoch auch den folgenden Codex. Aufgrund von Einband und Schrift vermutet der Katalogbearbeiter für beide eine Entstehung um 1710, ausdrücklich mit erheblichem Vorbehalt.</p>",
+    "latin": "318 pagg.; teg. c3d; script. ca. 1710 (?)\n\na) Tractatus Philosophiae primus De Logica: p. 1–306.\n\nInitium Proemii: Philosophiam a logica auspicamur,......\n\np. 182–183 invenitur pulcherrime delineata arbor Porphyriana.\n\nb) (Viginti) Theses Logicae: p. 307–309\n\nc) Index Universae Logicae, ubi perspiciendae sunt Sententiae, quae sunt admissae iuxta ordinem disputationum inscriptae: p. 310–314\n\nAuctor et scriptor ignoti, sed idem scriptor etiam proximum codicem exaravit. Propter formam tegumenti scripturaeque arbitror ortum esse hos duos codices circa annum 1710, sed multum haesitans.",
+    "latinHtml": "<p>318 pagg.; teg. c3d; script. ca. 1710 (?)</p>\n<p>a) Tractatus Philosophiae primus De Logica: p. 1–306.</p>\n<p>Initium Proemii: Philosophiam a logica auspicamur,......</p>\n<p>p. 182–183 invenitur pulcherrime delineata arbor Porphyriana.</p>\n<p>b) (Viginti) Theses Logicae: p. 307–309</p>\n<p>c) Index Universae Logicae, ubi perspiciendae sunt Sententiae, quae sunt admissae iuxta ordinem disputationum inscriptae: p. 310–314</p>\n<p>Auctor et scriptor ignoti, sed idem scriptor etiam proximum codicem exaravit. Propter formam tegumenti scripturaeque arbitror ortum esse hos duos codices circa annum 1710, sed multum haesitans.</p>"
+  },
+  "source": {
+    "file": "MN II 236.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-236/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 237]]",
+      "targetId": "mn-ii-237",
+      "targetSignature": "MN II 237",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 236",
+    "titles": "Tractatus Philosophiae primus De Logica \nTractatus Philosophiae primus De Logica \nViginti Theses Logicae \nIndex Universae Logicae, ubi perspiciendae sunt Sententiae, quae sunt admissae iuxta ordinem disputationum inscriptae",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Im Katalog steht nur „Viginti“ in runden Klammern.",
+    "physical": "Papier \n318 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-144",
+  "signature": "MN II 144",
+  "aliases": [
+    "Bibl. Cod. MN II 144"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "105–106",
+  "heading": {
+    "title": "Pars II In Physicam Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1686"
+  },
+  "date": {
+    "display": "1686",
+    "intervals": [
+      {
+        "from": 1686,
+        "to": 1686,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Pars II In Physicam Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in duos Libros Aristotelis De Ortu et interitu sive De Generatione et corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 440–582v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Tres Libros Aristotelis De Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 583–688",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1686-06-25"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Metheoris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 688v–733v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "10. (?) Juli 1686"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Libros Metaphysicorum Aristotelis. De Objecto Metaphysicae et de Entis attributis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 734r–774v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1686-07-20"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Bruno Schlibnig",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Paul im Lavanttal / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Adam Weissenhoffer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "339 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1686",
+        "intervals": [
+          {
+            "from": 1686,
+            "to": 1686,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "context": "Schlussvermerk des Tractatus De Metheoris",
+      "date_display": "10. (?) Juli 1686",
+      "note": "Beginn der Metaphysik; am selben Tag wurden zwei wegen Diebstahls festgenommene Studenten aus Liephering (?) in die Gefängnisse gebracht.",
+      "certainty": "uncertain"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "339 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686.\n\n**Zweiter Teil zur Physik des Aristoteles**, vorgetragen an der erzbischöflichen Universität Salzburg von P. Bruno Schlibnig, Benediktiner und Profess von St. Paul in Kärnten, Doktor der Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Adam Weissenhoffer, Benediktiner und Profess in Seitenstetten, 1686. (Den ersten Teil enthält Archivcodex 34–18.)\n\na) **Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** fol. 440–582v. Anfang der ersten Disputation fol. 440r: Wir behandeln hier die Weise, auf welche die Naturdinge.......\n\nb) **Abhandlung zu den drei Büchern des Aristoteles Über die Seele:** fol. 583–688. Anfang fol. 583r: Dies ist der schönste Teil der Philosophie..... Schluss fol. 688r: **25. Juni 1686.**\n\nc) **Abhandlung über die Meteorologie:** fol. 688v–733v. Anfang der ersten Disputation: Diese Abhandlung heißt „Über die Meteore“, weil..... Schluss: **Am 10. (?) Juli begannen wir die Metaphysik, die Physiker aber die Physik zu schreiben. Am selben Tag wurden gegen fünf Uhr zwei Studenten wegen Diebstahls aus einem Ort namens Liephering (?) in die Gefängnisse gebracht.**\n\nd) **Abhandlung zu den Büchern der Metaphysik des Aristoteles, über Gegenstand der Metaphysik und Eigenschaften des Seienden:** fol. 734r–774v. Anfang: Dies ist der letzte Teil der Philosophie.... Schluss fol. 775r: **Wir beendeten [dies] am 20. Juli 1686.**\n\nDieselben Abhandlungen enthält MN II 147. Unser Schreiber schrieb auch die beiden vorhergehenden Codices.",
+    "germanHtml": "<p>339 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686.</p>\n<p><strong>Zweiter Teil zur Physik des Aristoteles</strong>, vorgetragen an der erzbischöflichen Universität Salzburg von P. Bruno Schlibnig, Benediktiner und Profess von St. Paul in Kärnten, Doktor der Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Adam Weissenhoffer, Benediktiner und Profess in Seitenstetten, 1686. (Den ersten Teil enthält Archivcodex 34–18.)</p>\n<p>a) <strong>Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:</strong> fol. 440–582v. Anfang der ersten Disputation fol. 440r: Wir behandeln hier die Weise, auf welche die Naturdinge.......</p>\n<p>b) <strong>Abhandlung zu den drei Büchern des Aristoteles Über die Seele:</strong> fol. 583–688. Anfang fol. 583r: Dies ist der schönste Teil der Philosophie..... Schluss fol. 688r: <strong>25. Juni 1686.</strong></p>\n<p>c) <strong>Abhandlung über die Meteorologie:</strong> fol. 688v–733v. Anfang der ersten Disputation: Diese Abhandlung heißt „Über die Meteore“, weil..... Schluss: <strong>Am 10. (?) Juli begannen wir die Metaphysik, die Physiker aber die Physik zu schreiben. Am selben Tag wurden gegen fünf Uhr zwei Studenten wegen Diebstahls aus einem Ort namens Liephering (?) in die Gefängnisse gebracht.</strong></p>\n<p>d) <strong>Abhandlung zu den Büchern der Metaphysik des Aristoteles, über Gegenstand der Metaphysik und Eigenschaften des Seienden:</strong> fol. 734r–774v. Anfang: Dies ist der letzte Teil der Philosophie.... Schluss fol. 775r: <strong>Wir beendeten [dies] am 20. Juli 1686.</strong></p>\n<p>Dieselben Abhandlungen enthält MN II 147. Unser Schreiber schrieb auch die beiden vorhergehenden Codices.</p>",
+    "latin": "339 foll.; teg. a2; script. 1686\n\nPars II In Physicam Aristotelis. Tradita in Alma Et Archi-Episcopali Universitate Salisburgensi. Ab ....P. Brunone Schlibnigg: Ordinis Sancti Benedicti celeberrimi Monasterii ad S. Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Excepta A F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo. 16.86. (NB: Partem I continet codex 34–18; quem vide supra!)\n\na) Tractatus in duos Libros Aristotelis. De Ortu, et interitu. Sive De Generatione et corruptione: fol. 440–582v. (NB: fol. 1–439 continet Cod. 34–18; quem vide supra!) Initium Disputationis Primae fol. 440r: Agimus hic in praesenti de modo quo res naturales....\n\nb) Tractatus. In Tres Libros Aristotelis. De Anima: fol. 583–688. Initium Disputationis primae fol. 583r: Haec est pulcherrima philosophiae pars..... Clausula fol. 688r: 25 Junii 1686.\n\nc) Tractatus De Metheoris: fol. 688v–733v. Initium Disputationis I: Appellatur hic tractatus de Meteoris,..... Clausula: 10 (?) Julii incepimus Metaphysicam, Physicam vero Physici scribere. Eadem die circa horam quintam duo studiosi furtivi ex civitate quae vocatur Liephering (?) ad carceres fuerunt deducti.\n\nd) Tractatus In Libros Metaphysicorum Aristotelis. De Objecto Metaphysicae et de Entis attributis: fol. 734r–774v. Initium: Haec est ultima Philosophiae pars.... Clausula fol. 775r: Absolvimus 20 Julii.....1686. Eosdem tractatus continet etiam Cod. MN II 147. Scriptor noster etiam duos praecedentes codices exaravit.",
+    "latinHtml": "<p>339 foll.; teg. a2; script. 1686</p>\n<p>Pars II In Physicam Aristotelis. Tradita in Alma Et Archi-Episcopali Universitate Salisburgensi. Ab ....P. Brunone Schlibnigg: Ordinis Sancti Benedicti celeberrimi Monasterii ad S. Paulum in Carinthia professo Philosophiae Doctore et Professore ordinario. Excepta A F. Adamo Weissenhoffer eiusdem ordinis in Seittenstötten professo. 16.86. (NB: Partem I continet codex 34–18; quem vide supra!)</p>\n<p>a) Tractatus in duos Libros Aristotelis. De Ortu, et interitu. Sive De Generatione et corruptione: fol. 440–582v. (NB: fol. 1–439 continet Cod. 34–18; quem vide supra!) Initium Disputationis Primae fol. 440r: Agimus hic in praesenti de modo quo res naturales....</p>\n<p>b) Tractatus. In Tres Libros Aristotelis. De Anima: fol. 583–688. Initium Disputationis primae fol. 583r: Haec est pulcherrima philosophiae pars..... Clausula fol. 688r: 25 Junii 1686.</p>\n<p>c) Tractatus De Metheoris: fol. 688v–733v. Initium Disputationis I: Appellatur hic tractatus de Meteoris,..... Clausula: 10 (?) Julii incepimus Metaphysicam, Physicam vero Physici scribere. Eadem die circa horam quintam duo studiosi furtivi ex civitate quae vocatur Liephering (?) ad carceres fuerunt deducti.</p>\n<p>d) Tractatus In Libros Metaphysicorum Aristotelis. De Objecto Metaphysicae et de Entis attributis: fol. 734r–774v. Initium: Haec est ultima Philosophiae pars.... Clausula fol. 775r: Absolvimus 20 Julii.....1686. Eosdem tractatus continet etiam Cod. MN II 147. Scriptor noster etiam duos praecedentes codices exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 144.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-144/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 147]]",
+      "targetId": "mn-ii-147",
+      "targetSignature": "MN II 147",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "Archivcodex 34–18",
+      "targetId": "arch-cod-34-18-xviii-3-m",
+      "targetSignature": "Arch. Cod. 34–18 (XVIII 3 m)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 144",
+    "titles": "Pars II In Physicam Aristotelis \nTractatus in duos Libros Aristotelis De Ortu et interitu sive De Generatione et corruptione \nTractatus In Tres Libros Aristotelis De Anima \nTractatus De Metheoris \nTractatus In Libros Metaphysicorum Aristotelis. De Objecto Metaphysicae et de Entis attributis",
+    "persons": "P. Bruno Schlibnig Dozent lecturer \nFr. Adam Weissenhoffer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n339 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

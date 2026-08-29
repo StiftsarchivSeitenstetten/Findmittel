@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-69",
+  "signature": "MN II 69",
+  "aliases": [
+    "Bibl. Cod. MN II 69",
+    "Commentarius In Aristotelis Organum"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "45",
+  "heading": {
+    "title": "Commentarius In Aristotelis Organum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1654"
+  },
+  "date": {
+    "display": "1654",
+    "intervals": [
+      {
+        "from": 1654,
+        "to": 1654,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarius In Aristotelis Organum",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": "Am Ende fehlen viele Blätter."
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Aristotelis Organum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Am Ende fehlen viele Blätter."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Anselm Schlager",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-1"
+        },
+        {
+          "name": "Fr. Adam Piringer",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Adam Piringer",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "note": "Abt von Seitenstetten 1674–1679."
+    },
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Adam Piringer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-1"
+    },
+    {
+      "name": "Fr. Adam Piringer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "143 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1654",
+        "intervals": [
+          {
+            "from": 1654,
+            "to": 1654,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "143 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.\n\n**Kommentar zum Organon des Aristoteles, diktiert von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten niederösterreichischen Kloster Seitenstetten, im Jahr 1654:** fol. 1–143v. Am Ende fehlen viele Blätter.\n\nAnfang der Vorrede fol. 2r: Da die Logik Weise und Werkzeug des Wissens ist.......\n\nDenselben Kommentar zum Organon des Aristoteles enthalten die Codices MN II 49 (oben S. 41!) und MN II 65 (oben S. 42!) b.\n\nDerselbe Fr. **Adam Piringer** schrieb auch die beiden folgenden Codices. Von 1674 bis 1679 war dieser überaus fromme Mönch Abt von Seitenstetten.",
+    "germanHtml": "<p>143 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.</p>\n<p><strong>Kommentar zum Organon des Aristoteles, diktiert von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten niederösterreichischen Kloster Seitenstetten, im Jahr 1654:</strong> fol. 1–143v. Am Ende fehlen viele Blätter.</p>\n<p>Anfang der Vorrede fol. 2r: Da die Logik Weise und Werkzeug des Wissens ist.......</p>\n<p>Denselben Kommentar zum Organon des Aristoteles enthalten die Codices MN II 49 (oben S. 41!) und MN II 65 (oben S. 42!) b.</p>\n<p>Derselbe Fr. <strong>Adam Piringer</strong> schrieb auch die beiden folgenden Codices. Von 1674 bis 1679 war dieser überaus fromme Mönch Abt von Seitenstetten.</p>",
+    "latin": "143 foll.; teg. a1; script. 1654\n\nCommentarius In Aristotelis Organum Dictatus A .... **P. Anselmo Schlager** Monacho Benedictino Andecensi Exceptus A Religioso F. **Adamo Piringer** Eiusdem Ordinis Monacho Professo in Celeberrimo Monasterio Austriae inferioris Seittenstettensi Anno 1654: fol. 1–143v. In fine desunt multa folia.\n\nInitium Prooemii fol. 2r: Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.\n\nIdem Frater Adamus Piringer etiam duos sequentes codices scripsit. 1674–1679 monachus ille religiosissimus Abbas Seittenstettensis fuit.",
+    "latinHtml": "<p>143 foll.; teg. a1; script. 1654</p>\n<p>Commentarius In Aristotelis Organum Dictatus A .... <strong>P. Anselmo Schlager</strong> Monacho Benedictino Andecensi Exceptus A Religioso F. <strong>Adamo Piringer</strong> Eiusdem Ordinis Monacho Professo in Celeberrimo Monasterio Austriae inferioris Seittenstettensi Anno 1654: fol. 1–143v. In fine desunt multa folia.</p>\n<p>Initium Prooemii fol. 2r: Cum Logica modus sit et instrumentum sciendi....... Eundem Commentarium in Organum Aristotelis continent codd. MN II 49 (supra p. 41!) et MN II 65 (supra p. 42!)b.</p>\n<p>Idem Frater Adamus Piringer etiam duos sequentes codices scripsit. 1674–1679 monachus ille religiosissimus Abbas Seittenstettensis fuit.</p>"
+  },
+  "source": {
+    "file": "MN II 69.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-69/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 49]]",
+      "targetId": "mn-ii-49",
+      "targetSignature": "MN II 49",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 65]]",
+      "targetId": "mn-ii-65",
+      "targetSignature": "MN II 65",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 70]]",
+      "targetId": "mn-ii-70",
+      "targetSignature": "MN II 70",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 71]]",
+      "targetId": "mn-ii-71",
+      "targetSignature": "MN II 71",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 69",
+    "titles": "Commentarius In Aristotelis Organum \nCommentarius In Aristotelis Organum",
+    "persons": "Adam Piringer unspecified unspecified \nP. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe \nP. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Am Ende fehlen viele Blätter. \nAm Ende fehlen viele Blätter.",
+    "physical": "Papier \n143 Blätter \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

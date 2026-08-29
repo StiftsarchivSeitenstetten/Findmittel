@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-168",
+  "signature": "MN II 168",
+  "aliases": [
+    "Bibl. Cod. MN II 168"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "95",
+  "heading": {
+    "title": "Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1680"
+  },
+  "date": {
+    "display": "um 1680",
+    "intervals": [
+      {
+        "from": 1680,
+        "to": 1680,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_parallel",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–573",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Verfasser gibt an, bereits acht Jahre zuvor über die Buße vorgetragen zu haben."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De sacramento extremae Unctionis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 573–588",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De sacramento Ordinis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 588–622",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus De sacramento Matrimonii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 622–679",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "inferred_from_parallel",
+      "note": "Namentlich unbekannter Schreiber, der nach dem Schriftvergleich auch MN II 138 schrieb."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "696 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1680",
+        "intervals": [
+          {
+            "from": 1680,
+            "to": 1680,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_parallel",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "696 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei MN II 138; geschrieben um 1680.\n\na) **Abhandlung zum dritten Teil der Summa des hl. Thomas über das Sakrament der Buße:** S. 5–573. Anfang der Vorrede S. 5: Ich werde in den Hafen zurückgeworfen, aus dem ich vor acht Jahren ausgelaufen war und nachdem ich in langer Arbeit das tiefe Meer der Theologie durchmessen hatte..... Der Verfasser scheint also bereits acht Jahre zuvor über die Buße vorgetragen zu haben.\n\nb) **Abhandlung über das Sakrament der Letzten Ölung:** S. 573–588. Anfang S. 583: Unter Letzter Ölung versteht man jene Salbung.....\n\nc) **Abhandlung über das Sakrament der Weihe:** S. 588–622. Anfang S. 588: Wir behandeln nun jene Sakramente, durch welche der Mensch vervollkommnet wird......\n\nd) **Abhandlung über das Sakrament der Ehe:** S. 622–679; unvollständig. Anfang S. 622: Die besonderen Schwierigkeiten dieser Materie behandeln die Kanonisten ein ganzes Jahr lang....\n\nAuf dem Einband befindet sich dasselbe Wappen des Klosters Seitenstetten wie bei MN II 138; auch die Schrift ist dieselbe. Daher ist anzunehmen, dass auch unser Codex um 1680 und vom selben Schreiber wie MN II 138 geschrieben wurde. Schreiber und Verfasser bleiben jedoch namentlich unbekannt.",
+    "germanHtml": "<p>696 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei MN II 138; geschrieben um 1680.</p>\n<p>a) <strong>Abhandlung zum dritten Teil der Summa des hl. Thomas über das Sakrament der Buße:</strong> S. 5–573. Anfang der Vorrede S. 5: Ich werde in den Hafen zurückgeworfen, aus dem ich vor acht Jahren ausgelaufen war und nachdem ich in langer Arbeit das tiefe Meer der Theologie durchmessen hatte..... Der Verfasser scheint also bereits acht Jahre zuvor über die Buße vorgetragen zu haben.</p>\n<p>b) <strong>Abhandlung über das Sakrament der Letzten Ölung:</strong> S. 573–588. Anfang S. 583: Unter Letzter Ölung versteht man jene Salbung.....</p>\n<p>c) <strong>Abhandlung über das Sakrament der Weihe:</strong> S. 588–622. Anfang S. 588: Wir behandeln nun jene Sakramente, durch welche der Mensch vervollkommnet wird......</p>\n<p>d) <strong>Abhandlung über das Sakrament der Ehe:</strong> S. 622–679; unvollständig. Anfang S. 622: Die besonderen Schwierigkeiten dieser Materie behandeln die Kanonisten ein ganzes Jahr lang....</p>\n<p>Auf dem Einband befindet sich dasselbe Wappen des Klosters Seitenstetten wie bei MN II 138; auch die Schrift ist dieselbe. Daher ist anzunehmen, dass auch unser Codex um 1680 und vom selben Schreiber wie MN II 138 geschrieben wurde. Schreiber und Verfasser bleiben jedoch namentlich unbekannt.</p>",
+    "latin": "696 pagg.; teg. a2 (ut in Codice MN II 138; vide supra p. 94!); scriptus circa annum 1680\n\na) Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae: p. 5 - 573. Initium Proloquii p. 5: Reiicior in portum, unde ante octennium solveram, et diuturno labore altum Theologiae pelagus emensus fueram..... (Videtur igitur auctor iam ante octo annos tractatum de poenitentia tradidisse.)\n\nb) Tractatus De sacramento extremae Unctionis: p. 573 - 588. Initium p. 583: Nomine extremae unctionis intelligitur illa unctio.....\n\nc) Tractatus De sacramento Ordinis: p. 588 - 622. Initium p. 588: Agimus nunc de sacramentis quibus homo perficitur......\n\nd) Tractatus De sacramento Matrimonii: p. 622 - 679 (tractatus mutilus). Initium p. 622: Speciales huius materiae difficultates integro anno Tractant Canonistae....\n\nTegumento idem insigne monasterii Seitenstettensis impressum est, quod codici MN II 138. Insuper scriptura eadem est atque in codice isto. Qua de causa etiam codicem nostrum circa annum 1680 et ab eodem scriptum esse, a quo codex MN II 138 (supra p. 94), ratiocinandum est. Ceterum vero et scriptor et auctor ignoti.",
+    "latinHtml": "<p>696 pagg.; teg. a2 (ut in Codice MN II 138; vide supra p. 94!); scriptus circa annum 1680</p>\n<p>a) Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae: p. 5 - 573. Initium Proloquii p. 5: Reiicior in portum, unde ante octennium solveram, et diuturno labore altum Theologiae pelagus emensus fueram..... (Videtur igitur auctor iam ante octo annos tractatum de poenitentia tradidisse.)</p>\n<p>b) Tractatus De sacramento extremae Unctionis: p. 573 - 588. Initium p. 583: Nomine extremae unctionis intelligitur illa unctio.....</p>\n<p>c) Tractatus De sacramento Ordinis: p. 588 - 622. Initium p. 588: Agimus nunc de sacramentis quibus homo perficitur......</p>\n<p>d) Tractatus De sacramento Matrimonii: p. 622 - 679 (tractatus mutilus). Initium p. 622: Speciales huius materiae difficultates integro anno Tractant Canonistae....</p>\n<p>Tegumento idem insigne monasterii Seitenstettensis impressum est, quod codici MN II 138. Insuper scriptura eadem est atque in codice isto. Qua de causa etiam codicem nostrum circa annum 1680 et ab eodem scriptum esse, a quo codex MN II 138 (supra p. 94), ratiocinandum est. Ceterum vero et scriptor et auctor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 168.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-168/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 138]]",
+      "targetId": "mn-ii-138",
+      "targetSignature": "MN II 138",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 168",
+    "titles": "Tractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae \nTractatus In Tertiam Partem Summae Divi Thomae De Sacramento Poenitentiae \nTractatus De sacramento extremae Unctionis \nTractatus De sacramento Ordinis \nTractatus De sacramento Matrimonii",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Verfasser gibt an, bereits acht Jahre zuvor über die Buße vorgetragen zu haben. \nincomplete",
+    "physical": "Papier \n696 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

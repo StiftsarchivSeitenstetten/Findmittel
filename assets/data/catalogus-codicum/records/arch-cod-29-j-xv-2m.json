@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-29-j-xv-2m",
+  "signature": "Arch. Cod. 29 J (XV 2m)",
+  "aliases": [
+    "Arch. Cod. 29 J (XV 2m)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "263",
+  "heading": {
+    "title": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1786"
+  },
+  "date": {
+    "display": "1786",
+    "intervals": [
+      {
+        "from": 1786,
+        "to": 1786,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–424",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Rückenaufschrift: Commentarius litteralis in regulam S. Benedicti."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 424 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1786",
+        "intervals": [
+          {
+            "from": 1786,
+            "to": 1786,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; IV + 424 Seiten; sehr schöner weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1786.\n\n**Kommentar zur Regel unseres heiligen Vaters Benedikt, mit eingestreuten Unterweisungen für das Ordensleben. Verfasser: P. Bertholdus Stolz OSB, Profess von Seitenstetten, 1786.**\n\nRückenaufschrift: **Wörtlicher Kommentar zur Regel des hl. Benedikt.**\n\nDer Schriftvergleich mit Arch. Cod. 29 A, 29 B und 29 L zeigt, dass der Verfasser den Codex eigenhändig schrieb.\n\nDer Kommentar ist lateinisch verfasst.",
+    "germanHtml": "<p>Folioformat; IV + 424 Seiten; sehr schöner weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1786.</p>\n<p><strong>Kommentar zur Regel unseres heiligen Vaters Benedikt, mit eingestreuten Unterweisungen für das Ordensleben. Verfasser: P. Bertholdus Stolz OSB, Profess von Seitenstetten, 1786.</strong></p>\n<p>Rückenaufschrift: <strong>Wörtlicher Kommentar zur Regel des hl. Benedikt.</strong></p>\n<p>Der Schriftvergleich mit Arch. Cod. 29 A, 29 B und 29 L zeigt, dass der Verfasser den Codex eigenhändig schrieb.</p>\n<p>Der Kommentar ist lateinisch verfasst.</p>",
+    "latin": "fol.; IV + 424 pagg.; teg. a2 (perpulchrum); scriptus 1786\n\n**Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.**\n\nInscriptio dorsi: **Commentarius litteralis in regulam S. Benedicti.**\n\nScripturam huius codicis si comparaveris cum codicibus 29A, 29B, 29L, facile videbis auctorem codicem nostrum sua ipsius manu scripsisse. (Codices 29 A, B, L supra p. 260–261 tractavimus!)\n\nCommentarius noster in lingua Latina compositus est.",
+    "latinHtml": "<p>fol.; IV + 424 pagg.; teg. a2 (perpulchrum); scriptus 1786</p>\n<p><strong>Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.</strong></p>\n<p>Inscriptio dorsi: <strong>Commentarius litteralis in regulam S. Benedicti.</strong></p>\n<p>Scripturam huius codicis si comparaveris cum codicibus 29A, 29B, 29L, facile videbis auctorem codicem nostrum sua ipsius manu scripsisse. (Codices 29 A, B, L supra p. 260–261 tractavimus!)</p>\n<p>Commentarius noster in lingua Latina compositus est.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 29 J (XV 2m).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-29-j-xv-2m/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 29 J (XV 2m)",
+    "titles": "Commentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786. \nCommentarius in regulam Sancti Patris Nostri Benedicti cui accedunt inserta hinc inde Religiosae Vitae Documenta. Authore P. Bertholdo Stolz Ordinis Sancti Benedicti et Monasterii Seitenstettensis Professo, 1786.",
+    "persons": "P. Bertholdus Stolz Autor author \nP. Bertholdus Stolz Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Rückenaufschrift: Commentarius litteralis in regulam S. Benedicti.",
+    "physical": "Papier \nIV + 424 pagg. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

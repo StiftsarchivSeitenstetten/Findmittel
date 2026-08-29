@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-62",
+  "signature": "MN II 62",
+  "aliases": [
+    "Bibl. Cod. MN II 62",
+    "Organum Philosophiae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "39",
+  "heading": {
+    "title": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1652/53"
+  },
+  "date": {
+    "display": "1652/53",
+    "intervals": [
+      {
+        "from": 1652,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Dominicus Caesar",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-1",
+          "affiliation": "Ober-Alteich"
+        },
+        {
+          "name": "Fr. Joachim Hartung",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1",
+          "affiliation": "Seitenstetten"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Dominicus Caesar",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "affiliation": "Ober-Alteich"
+    },
+    {
+      "name": "Fr. Joachim Hartung",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "P. Dominicus Caesar",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-1",
+      "affiliation": "Ober-Alteich"
+    },
+    {
+      "name": "Fr. Joachim Hartung",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VII + 446 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1652/53",
+        "intervals": [
+          {
+            "from": 1652,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Logica P. Dominici Caesare Oberaltachsis M S â F. Joachimo Hartung Seittenstettensi 1652."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VII + 446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1652/53.\n\n**Werkzeug der Philosophie, aus der Lehre des hl. Thomas und des Aristoteles getreu erklärt von ... P. Dominicus Caesar, Benediktinermönch und Profess des Klosters Ober-Alteich, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Profess in Seitenstetten, im Jahr 1652 am 21. November.**\n\n**Anfang** der Vorrede S. VII: Wie niemand plötzlich der Größte wird....\n\nRückenaufschrift: **Logik des P. Dominicus Caesar von Oberaltaich, Handschrift von Fr. Joachim Hartung aus Seitenstetten, 1652.**",
+    "germanHtml": "<p>VII + 446 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1652/53.</p>\n<p><strong>Werkzeug der Philosophie, aus der Lehre des hl. Thomas und des Aristoteles getreu erklärt von ... P. Dominicus Caesar, Benediktinermönch und Profess des Klosters Ober-Alteich, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Profess in Seitenstetten, im Jahr 1652 am 21. November.</strong></p>\n<p><strong>Anfang</strong> der Vorrede S. VII: Wie niemand plötzlich der Größte wird....</p>\n<p>Rückenaufschrift: <strong>Logik des P. Dominicus Caesar von Oberaltaich, Handschrift von Fr. Joachim Hartung aus Seitenstetten, 1652.</strong></p>",
+    "latin": "VII + 446 pagg.; teg. a1; script. 1652/53\n\n*Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum ab .... P. Dominico Caesare Monacho Benedictino ad Monasterium Superiorem (id est Ober-Alteich) Professo Exceptum â Religioso F. Joachimo Hartung eiusdem Ordinis Professo in Seittenstetten Anno 1652 Undecimo Calendas Decembris.*\n\n*Initium* Prooemii p. VII: Ut nemo derepente fit maximus....\n\nInscriptio dorsi: Logica P. Dominici Caesare Oberaltachsis M S â F. Joachimo Hartung Seittenstettensi 1652.",
+    "latinHtml": "<p>VII + 446 pagg.; teg. a1; script. 1652/53</p>\n<p><em>Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum ab .... P. Dominico Caesare Monacho Benedictino ad Monasterium Superiorem (id est Ober-Alteich) Professo Exceptum â Religioso F. Joachimo Hartung eiusdem Ordinis Professo in Seittenstetten Anno 1652 Undecimo Calendas Decembris.</em></p>\n<p><em>Initium</em> Prooemii p. VII: Ut nemo derepente fit maximus....</p>\n<p>Inscriptio dorsi: Logica P. Dominici Caesare Oberaltachsis M S â F. Joachimo Hartung Seittenstettensi 1652.</p>"
+  },
+  "source": {
+    "file": "MN II 62.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-62/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 62",
+    "titles": "Organum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum \nOrganum Philosophiae Ex Divi Thomae Ac Aristotelis Doctrinâ fideliter explanatum",
+    "persons": "P. Dominicus Caesar Dozent lecturer \nFr. Joachim Hartung Schreiber scribe \nP. Dominicus Caesar Dozent lecturer \nFr. Joachim Hartung Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nVII + 446 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

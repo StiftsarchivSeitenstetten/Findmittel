@@ -1,0 +1,259 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-172",
+  "signature": "MN II 172",
+  "aliases": [
+    "Bibl. Cod. MN II 172"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "133–134",
+  "heading": {
+    "title": "Physica Specialis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1691"
+  },
+  "date": {
+    "display": "1691",
+    "intervals": [
+      {
+        "from": 1691,
+        "to": 1691,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Physica Specialis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–264r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1691-07-10"
+        }
+      ],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Quaestio Prima De Mundo",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "fol. 1–16v",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Quaestio Secunda De Corpore Coelesti",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "fol. 17r–47r",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Quaestio Ultima De Meteoris in quatuor libris Aristotelis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "fol. 47r–94r",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-4",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Pars Ultima De Generatione et Corruptione Sive De Ortu et Interitu",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "fol. 95r–180r",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-5",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De Corpore animato naturali sive De Anima",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "fol. 181r–264r",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Metaphisica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 265r–318v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Gabriel Sumadtinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "319 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1691",
+        "intervals": [
+          {
+            "from": 1691,
+            "to": 1691,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "319 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1691.\n\na) **Spezielle Physik.**\n- **Erste Frage über die Welt:** fol. 1–16v. Anfang des ersten Artikels über Wesen und Einheit der Welt: Die Welt heißt so nach ihrer Zierde und Schönheit.....\n- **Zweite Frage über den Himmelskörper:** ab fol. 17r. Anfang des ersten Artikels über die Substanz des Himmels: Ich sage erstens: Himmel und Sterne sind nach wahrscheinlicher Meinung aus Materie und substantieller Form zusammengesetzt..... Ende fol. 47r.\n- **Letzte Frage über die Meteore in den vier Büchern des Aristoteles:** fol. 47r–94r. Anfang: Nach der Betrachtung des Himmelskörpers.....\n- **Letzter Teil über Werden und Vergehen:** fol. 95r–180r. Anfang: Ursache von Werden und Vergehen.....\n- **Über den natürlichen beseelten Körper oder über die Seele:** fol. 181r–264r. Anfang: Die Betrachtung der Seele gebietet das Orakel..... Schluss: **Wir beendeten unsere Physik am Vorabend des Gedächtnisses unseres hl. Vaters Benedikt, also am 10. Juli 1691.**\n\nb) **Metaphysik:** fol. 265r–318v. Anfang der Vorrede: Unter Voraussetzung der vorbereitenden Fragen sowohl der Logik als auch der Physik......\n\nAuf dem Vorderdeckel stehen dieselben Initialen wie beim vorhergehenden Codex. Daher schrieb Fr. Gabriel Sumadtinger, Profess von Seitenstetten, auch diesen Codex. Der Verfasser ist noch nicht sicher bekannt.",
+    "germanHtml": "<p>319 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1691.</p>\n<p>a) <strong>Spezielle Physik.</strong></p>\n<ul><li><strong>Erste Frage über die Welt:</strong> fol. 1–16v. Anfang des ersten Artikels über Wesen und Einheit der Welt: Die Welt heißt so nach ihrer Zierde und Schönheit.....</li><li><strong>Zweite Frage über den Himmelskörper:</strong> ab fol. 17r. Anfang des ersten Artikels über die Substanz des Himmels: Ich sage erstens: Himmel und Sterne sind nach wahrscheinlicher Meinung aus Materie und substantieller Form zusammengesetzt..... Ende fol. 47r.</li><li><strong>Letzte Frage über die Meteore in den vier Büchern des Aristoteles:</strong> fol. 47r–94r. Anfang: Nach der Betrachtung des Himmelskörpers.....</li><li><strong>Letzter Teil über Werden und Vergehen:</strong> fol. 95r–180r. Anfang: Ursache von Werden und Vergehen.....</li><li><strong>Über den natürlichen beseelten Körper oder über die Seele:</strong> fol. 181r–264r. Anfang: Die Betrachtung der Seele gebietet das Orakel..... Schluss: <strong>Wir beendeten unsere Physik am Vorabend des Gedächtnisses unseres hl. Vaters Benedikt, also am 10. Juli 1691.</strong></li></ul>\n<p>b) <strong>Metaphysik:</strong> fol. 265r–318v. Anfang der Vorrede: Unter Voraussetzung der vorbereitenden Fragen sowohl der Logik als auch der Physik......</p>\n<p>Auf dem Vorderdeckel stehen dieselben Initialen wie beim vorhergehenden Codex. Daher schrieb Fr. Gabriel Sumadtinger, Profess von Seitenstetten, auch diesen Codex. Der Verfasser ist noch nicht sicher bekannt.</p>",
+    "latin": "319 foll.; teg. a2; script. 1691\n\na) Physica Specialis  \nQuaestio Prima. De Mundo: fol. 1–16v. Initium Articuli Primi De quidditate, et unitate Mundi: fol. 1r: Mundus ab ornatu et elegantia ita dictus.....  \nQuaestio Secunda. De Corpore Coelesti. Initium Articuli Primi. De Substantia Coeli. fol. 17r: Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.)  \nQuaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. Initium: Post considerationem Corporis Coelestis.....  \nPars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. Initium: Causa generationis et corruptionis.....  \n(De Corpore animato naturali sive De Anima): fol. 181r–264r. Initium: Contemplationem animae praecipit oraculum..... Clausula: Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.\n\n\n\n\nb) Metaphisica: fol. 265r–318v. Initium Prooemii: Suppositis quaestionibus prooemialibus tum Logicae tum Physicae......\n\nLitterae initiales in parte adversa tegumenti, ut in codice praecedente. Scripsit igitur codicem nostrum F. Gabriel Sumadtinger professus Seittenstettensis. Auctorem vero nondum certe novimus.",
+    "latinHtml": "<p>319 foll.; teg. a2; script. 1691</p>\n<p>a) Physica Specialis Quaestio Prima. De Mundo: fol. 1–16v. Initium Articuli Primi De quidditate, et unitate Mundi: fol. 1r: Mundus ab ornatu et elegantia ita dictus..... Quaestio Secunda. De Corpore Coelesti. Initium Articuli Primi. De Substantia Coeli. fol. 17r: Dico 1 Coelum et stellae probabilibus componuntur ex materia et forma substantiali..... (Finis fol. 47r.) Quaestio Ultima. De Meteoris in quatuor libris Aristotelis: fol. 47r–94r. Initium: Post considerationem Corporis Coelestis..... Pars Ultima. De Generatione et Corruptione Sive De Ortu et Interitu: fol. 95r–180r. Initium: Causa generationis et corruptionis..... (De Corpore animato naturali sive De Anima): fol. 181r–264r. Initium: Contemplationem animae praecipit oraculum..... Clausula: Absolvimus Physicam nostram in pervigilio Commemorationis S: P: Nostri Benedicti, id est die 10 Julii 1691.</p>\n<p>b) Metaphisica: fol. 265r–318v. Initium Prooemii: Suppositis quaestionibus prooemialibus tum Logicae tum Physicae......</p>\n<p>Litterae initiales in parte adversa tegumenti, ut in codice praecedente. Scripsit igitur codicem nostrum F. Gabriel Sumadtinger professus Seittenstettensis. Auctorem vero nondum certe novimus.</p>"
+  },
+  "source": {
+    "file": "MN II 172.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-172/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 172",
+    "titles": "Physica Specialis \nPhysica Specialis \nQuaestio Prima De Mundo \nQuaestio Secunda De Corpore Coelesti \nQuaestio Ultima De Meteoris in quatuor libris Aristotelis \nPars Ultima De Generatione et Corruptione Sive De Ortu et Interitu \nDe Corpore animato naturali sive De Anima \nMetaphisica",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n319 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

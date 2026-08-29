@@ -1,0 +1,201 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-64",
+  "signature": "MN II 64",
+  "aliases": [
+    "Bibl. Cod. MN II 64",
+    "Tractatus De Actibus Humanis et De Vitiis et Peccatis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "40",
+  "heading": {
+    "title": "Tractatus Primus De Actibus Humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653"
+  },
+  "date": {
+    "display": "1653",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus De Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–135v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 139–222v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Udalricus Freyberger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Joachim Hartung",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "138 + 89 (=227) Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Wie MN II 63: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "marginal_note",
+      "locus": "fol. 2r",
+      "date": "1675-02-01",
+      "note": "Beginn einer erneuten Lektüre und Erweiterung der Marginalien."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "138 + 89 (= 227) Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 63; geschrieben 1653.\n\na) **Erste Abhandlung über die menschlichen Handlungen. Diktiert von ... P. Udalricus Freyberger, Profess des Ordens des hl. Vaters Benedikt im berühmten Kloster St. Peter zu Salzburg, Prior, Doktor der heiligen Theologie und ordentlicher Professor der Gewissensfälle. Aufgezeichnet von ... Fr. Joachim Hartung (!), Profess desselben Ordens im Kloster Seitenstetten in Niederösterreich und Student der Philosophie:** fol. 1–135v (mit Register fol. 136r–137v).\n\n**Anfang** der Vorrede fol. 2r: Die Theologie bezeichnet nach der Etymologie....\n\nb) **Zweite Abhandlung über Laster und Sünden. Im Jahr 1653:** fol. 1–83 (= 139–222)v. **Anfang** der Vorrede fol. 1 (=139)v: Nach der Behandlung der menschlichen Handlungen im Allgemeinen.... Register fol. 84–85r (=223–224r).\n\nFol. 2r Randvermerk: **1675, am ersten Tag des Februar, begann ich diese Abhandlung erneut zu lesen und die Randbemerkungen zu vermehren.**\n\nDieselben Abhandlungen findet man in den Codices MN II 55 (oben S. 35/36) und MN II 59 (oben S. 37/38), nahezu dieselben auch in den Teilen a und b des Codex MN II 66 (siehe unten!).",
+    "germanHtml": "<p>138 + 89 (= 227) Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 63; geschrieben 1653.</p>\n<p>a) <strong>Erste Abhandlung über die menschlichen Handlungen. Diktiert von ... P. Udalricus Freyberger, Profess des Ordens des hl. Vaters Benedikt im berühmten Kloster St. Peter zu Salzburg, Prior, Doktor der heiligen Theologie und ordentlicher Professor der Gewissensfälle. Aufgezeichnet von ... Fr. Joachim Hartung (!), Profess desselben Ordens im Kloster Seitenstetten in Niederösterreich und Student der Philosophie:</strong> fol. 1–135v (mit Register fol. 136r–137v).</p>\n<p><strong>Anfang</strong> der Vorrede fol. 2r: Die Theologie bezeichnet nach der Etymologie....</p>\n<p>b) <strong>Zweite Abhandlung über Laster und Sünden. Im Jahr 1653:</strong> fol. 1–83 (= 139–222)v. <strong>Anfang</strong> der Vorrede fol. 1 (=139)v: Nach der Behandlung der menschlichen Handlungen im Allgemeinen.... Register fol. 84–85r (=223–224r).</p>\n<p>Fol. 2r Randvermerk: <strong>1675, am ersten Tag des Februar, begann ich diese Abhandlung erneut zu lesen und die Randbemerkungen zu vermehren.</strong></p>\n<p>Dieselben Abhandlungen findet man in den Codices MN II 55 (oben S. 35/36) und MN II 59 (oben S. 37/38), nahezu dieselben auch in den Teilen a und b des Codex MN II 66 (siehe unten!).</p>",
+    "latin": "138 + 89 (=227) foll.; teg. a2 (ut cod. MN II 63); script. 1653\n\na) *Tractatus Primus De Actibus Humanis. Dictatus ab.... P. Domino Udalrico Freyberger Ordinis S. P. Benedicti, Celeberrimi Monasterii ad S. Petrum Salisburgi Professo, ac Priore, SS. Theologiae Doctore, et Casuum Conscientiae Professore Ordinario. Exceptus â ... F. Joachimo Hartung (!), eiusdem Ordinis Monasterii Seittenstettensis Inferioris Austriae Professo, ac Philosophiae Studioso:* fol. 1 - 135v. (cum indice: fol. 136r - 137v)\n\n*Initium* Praefationis fol. 2r: Theologia secundum Ethemolo(g)iam....\n\nb) *Tractatus Secundus De Vitiis et Peccatis. Anno: 1653:* fol. 1 - 83 (= 139 - 222)v. *Initium* Prooemii fol. 1 (=139)v: Post Tractationem de actibus humanis in genere.... Index fol. 84 - 85r (=223 - 224r)\n\nFol. 2r nota in margine: 1675 primo die februarii incepi hunc tractatum relegere et marginalia augere.\n\nEosdem tractatus invenies in codd. MN II 55 (supra p. 35/36) et MN II 59 (supra p. 37/38) et fere eosdem in partibus a et b cod. MN II 66 (vide infra!)",
+    "latinHtml": "<p>138 + 89 (=227) foll.; teg. a2 (ut cod. MN II 63); script. 1653</p>\n<p>a) <em>Tractatus Primus De Actibus Humanis. Dictatus ab.... P. Domino Udalrico Freyberger Ordinis S. P. Benedicti, Celeberrimi Monasterii ad S. Petrum Salisburgi Professo, ac Priore, SS. Theologiae Doctore, et Casuum Conscientiae Professore Ordinario. Exceptus â ... F. Joachimo Hartung (!), eiusdem Ordinis Monasterii Seittenstettensis Inferioris Austriae Professo, ac Philosophiae Studioso:</em> fol. 1 - 135v. (cum indice: fol. 136r - 137v)</p>\n<p><em>Initium</em> Praefationis fol. 2r: Theologia secundum Ethemolo(g)iam....</p>\n<p>b) <em>Tractatus Secundus De Vitiis et Peccatis. Anno: 1653:</em> fol. 1 - 83 (= 139 - 222)v. <em>Initium</em> Prooemii fol. 1 (=139)v: Post Tractationem de actibus humanis in genere.... Index fol. 84 - 85r (=223 - 224r)</p>\n<p>Fol. 2r nota in margine: 1675 primo die februarii incepi hunc tractatum relegere et marginalia augere.</p>\n<p>Eosdem tractatus invenies in codd. MN II 55 (supra p. 35/36) et MN II 59 (supra p. 37/38) et fere eosdem in partibus a et b cod. MN II 66 (vide infra!)</p>"
+  },
+  "source": {
+    "file": "MN II 64.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-64/",
+  "relations": [
+    {
+      "typeRaw": "same_or_similar_work_as",
+      "typeLabel": "same or similar work as",
+      "targetRaw": "[[MN II 55]]",
+      "targetId": "mn-ii-55",
+      "targetSignature": "MN II 55",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_or_similar_work_as",
+      "typeLabel": "same or similar work as",
+      "targetRaw": "[[MN II 59]]",
+      "targetId": "mn-ii-59",
+      "targetSignature": "MN II 59",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_or_similar_work_as",
+      "typeLabel": "same or similar work as",
+      "targetRaw": "[[MN II 66]]",
+      "targetId": "mn-ii-66",
+      "targetSignature": "MN II 66",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 64",
+    "titles": "Tractatus Primus De Actibus Humanis \nTractatus Primus De Actibus Humanis \nTractatus Secundus De Vitiis et Peccatis",
+    "persons": "P. Udalricus Freyberger Dozent lecturer \nFr. Joachim Hartung Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n138 + 89 (=227) Blätter \ncode: a2; description: Wie MN II 63: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

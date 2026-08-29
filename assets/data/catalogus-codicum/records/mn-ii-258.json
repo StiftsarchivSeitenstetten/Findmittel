@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-258",
+  "signature": "MN II 258",
+  "aliases": [
+    "Bibl. Cod. MN II 258"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "196",
+  "heading": {
+    "title": "Tractatus. in Physicam Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1712/13 (?)"
+  },
+  "date": {
+    "display": "1712/13 (?)",
+    "intervals": [
+      {
+        "from": 1712,
+        "to": 1713,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus. in Physicam Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus. in Physicam Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–269v",
+      "language": "",
+      "incipit": {
+        "text": "Emenso itinere peripatetico, contritisque logicae vepribus"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Enthält die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Proemium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–2r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 2r–10v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Mayr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Kloster St. Ulrich und Afra, Augsburg / Universität Salzburg",
+      "note": "Die Rückenaufschrift bestimmt ihn nach dem Katalog ausdrücklich als auctor."
+    },
+    {
+      "name": "Fr. Hieronymus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "inferred_from_hand"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "271 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1712/13 (?)",
+        "intervals": [
+          {
+            "from": 1712,
+            "to": 1713,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "271 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1712/13 (?).\n\n**Abhandlung zur Physik des Aristoteles:** fol. 1r–269v.\n\nAnfang der Vorrede: Nachdem der peripatetische Weg durchmessen und das Dornengestrüpp der Logik niedergetreten ist...........\n\nDieser Band enthält außer der Vorrede fol. 1r–2r und der prolegomenalen Frage **Über Wesen und Gegenstand der Physik** fol. 2r–10v die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.\n\nDen Verfasser nennt die Rückenaufschrift: **Physica, seu Scripta. Reverendi P. Caelestini Mayr.** P. Caelestin Mayr, Profess von St. Ulrich und Afra in Augsburg und Professor in Salzburg, hatte im Studienjahr 1711/12 Logik gelehrt. Da Philosophieprofessoren gewöhnlich im folgenden Jahr nach der Logik Physik vortrugen, dürfte unser Codex wahrscheinlich im Studienjahr 1712/13 geschrieben worden sein.\n\nDass Schreiber Fr. Hieronymus Hueber, Seitenstettner Kleriker, war, zeigt der Vergleich der Schrift dieses und der neun – oder wenigstens acht – folgenden Codices mit einem von ihm in Salzburg geschriebenen Brief im Stiftsarchiv Seitenstetten, 2B Nr. 269.",
+    "germanHtml": "<p>271 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1712/13 (?).</p>\n<p><strong>Abhandlung zur Physik des Aristoteles:</strong> fol. 1r–269v.</p>\n<p>Anfang der Vorrede: Nachdem der peripatetische Weg durchmessen und das Dornengestrüpp der Logik niedergetreten ist...........</p>\n<p>Dieser Band enthält außer der Vorrede fol. 1r–2r und der prolegomenalen Frage <strong>Über Wesen und Gegenstand der Physik</strong> fol. 2r–10v die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.</p>\n<p>Den Verfasser nennt die Rückenaufschrift: <strong>Physica, seu Scripta. Reverendi P. Caelestini Mayr.</strong> P. Caelestin Mayr, Profess von St. Ulrich und Afra in Augsburg und Professor in Salzburg, hatte im Studienjahr 1711/12 Logik gelehrt. Da Philosophieprofessoren gewöhnlich im folgenden Jahr nach der Logik Physik vortrugen, dürfte unser Codex wahrscheinlich im Studienjahr 1712/13 geschrieben worden sein.</p>\n<p>Dass Schreiber Fr. Hieronymus Hueber, Seitenstettner Kleriker, war, zeigt der Vergleich der Schrift dieses und der neun – oder wenigstens acht – folgenden Codices mit einem von ihm in Salzburg geschriebenen Brief im Stiftsarchiv Seitenstetten, 2B Nr. 269.</p>",
+    "latin": "271 foll.; teg. a1; script. 1712/13 (?)\n\nTractatus. in Physicam Aristotelis: fol. 1r–269v.  \nInitium Proemii: Emenso itinere peripatetico, contritisque logicae vepribus ...........\n\nContinet hic tomus praeter Proemium (fol. 1r–2r) et Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae (fol. 2r–10v) singulas disputationes in quattuor priores libros Physicorum Aristotelis.\n\nAuctorem codicis nostri invenies in inscriptione dorsi: Physica, seu Scripta. Reverendi P. Caelestini Mayr. Quem auctorem, professum ad Sanctos Udalricum et Afram Augustae Vindelicorum et professorem Salisburgensem, anno scholari 1711/12 Logicam tradidisse, iam supra p. 189 ad codices MN II 244 et 245 ostendimus. Atqui Philosophiae Professores post logicam absolutam anno subsequente Physicam docere solebant. Itaque codex noster probabiliter anno scholari 1712/13 scriptus est.\n\nScriptorem autem esse F. Hieronymum Hueber, clericum Seitenstettensem, non negabis, si scripturam codicis nostri et novem (aut saltem octo) sequentium cum epistola ab illo monacho Seitenstettensi Salisburgi scripta comparaveris. (Quam epistolam reperies in archivo monasterii Seitenstettensis 2B Nr. 269.)",
+    "latinHtml": "<p>271 foll.; teg. a1; script. 1712/13 (?)</p>\n<p>Tractatus. in Physicam Aristotelis: fol. 1r–269v. Initium Proemii: Emenso itinere peripatetico, contritisque logicae vepribus ...........</p>\n<p>Continet hic tomus praeter Proemium (fol. 1r–2r) et Quaestionem Prolegomenam (!) De quidditate et Obiecto Physicae (fol. 2r–10v) singulas disputationes in quattuor priores libros Physicorum Aristotelis.</p>\n<p>Auctorem codicis nostri invenies in inscriptione dorsi: Physica, seu Scripta. Reverendi P. Caelestini Mayr. Quem auctorem, professum ad Sanctos Udalricum et Afram Augustae Vindelicorum et professorem Salisburgensem, anno scholari 1711/12 Logicam tradidisse, iam supra p. 189 ad codices MN II 244 et 245 ostendimus. Atqui Philosophiae Professores post logicam absolutam anno subsequente Physicam docere solebant. Itaque codex noster probabiliter anno scholari 1712/13 scriptus est.</p>\n<p>Scriptorem autem esse F. Hieronymum Hueber, clericum Seitenstettensem, non negabis, si scripturam codicis nostri et novem (aut saltem octo) sequentium cum epistola ab illo monacho Seitenstettensi Salisburgi scripta comparaveris. (Quam epistolam reperies in archivo monasterii Seitenstettensis 2B Nr. 269.)</p>"
+  },
+  "source": {
+    "file": "MN II 258.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-258/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 258",
+    "titles": "Tractatus. in Physicam Aristotelis \nTractatus. in Physicam Aristotelis \nProemium \nQuaestionem Prolegomenam (!) De quidditate et Obiecto Physicae",
+    "persons": "P. Caelestin Mayr Autor author \nFr. Hieronymus Hueber Schreiber scribe",
+    "incipits": "Emenso itinere peripatetico, contritisque logicae vepribus",
+    "explicits": "",
+    "notes": "Enthält die einzelnen Disputationen zu den ersten vier Büchern der Physik des Aristoteles.",
+    "physical": "Papier \n271 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

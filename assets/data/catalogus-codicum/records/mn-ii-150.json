@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-150",
+  "signature": "MN II 150",
+  "aliases": [
+    "Bibl. Cod. MN II 150"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "109–110",
+  "heading": {
+    "title": "Tractatus De Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1687/88"
+  },
+  "date": {
+    "display": "1687/88",
+    "intervals": [
+      {
+        "from": 1687,
+        "to": 1688,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–129v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1687-11-07"
+        },
+        {
+          "type": "end_date",
+          "display": "1688-04-09"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–104r (=132–235)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1688-08-28"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index super Tractatum de Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 106r–109r (=237–240)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Maurus Liechtenhaimb",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Lambrecht / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Marcus Starnisi",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 131 + 117 = 252 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1687/88",
+        "intervals": [
+          {
+            "from": 1687,
+            "to": 1688,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "bookbinder_instruction",
+      "locus": "fol. IIIr",
+      "text": "F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur",
+      "certainty": "uncertain",
+      "note": "Vgl. die entsprechende Anweisung in MN II 149."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 131 + 117 = 252 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687/88.\n\na) **Abhandlung über die Engel**, vorgetragen an der Universität Salzburg von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht in der Steiermark, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 7. November 1687 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten: fol. 1r–129v. Anfang der Vorrede fol. 1r: Da wir im vergangenen Jahr den Ursprung aller Dinge..... Randnotiz: **Erste Nachmittagsvorlesung am 7. November 1687.** Schluss: **Beendet am 9. April 1688, einem Freitag vor Palmsonntag und dem letzten Vorlesungstag vor Ostern.** 75 Vorlesungen.\n\nb) **Abhandlung zur Prima Secundae des hl. Thomas über Glückseligkeit und menschliche Handlungen:** fol. 1r–104r (=132–235). Anfang fol. 132r: Zu beachten ist, dass sich beim Ziel drei Dinge finden..... Schluss fol. 235r: **61 Vorlesungen. Beendet am 28. August, dem Fest des hl. Augustinus, 1688.**\n\nc) **Register zur Abhandlung über die Engel:** fol. 106r–109r (=237–240).\n\nAnweisung für den Buchbinder fol. IIIr: **F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur** (vgl. MN II 149).\n\nFr. Marcus Starnisi schrieb auch die fünf vorhergehenden und die drei folgenden Codices.",
+    "germanHtml": "<p>IV + 131 + 117 = 252 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687/88.</p>\n<p>a) <strong>Abhandlung über die Engel</strong>, vorgetragen an der Universität Salzburg von P. Maurus Liechtenhaimb, Benediktiner und Profess von St. Lambrecht in der Steiermark, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 7. November 1687 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten: fol. 1r–129v. Anfang der Vorrede fol. 1r: Da wir im vergangenen Jahr den Ursprung aller Dinge..... Randnotiz: <strong>Erste Nachmittagsvorlesung am 7. November 1687.</strong> Schluss: <strong>Beendet am 9. April 1688, einem Freitag vor Palmsonntag und dem letzten Vorlesungstag vor Ostern.</strong> 75 Vorlesungen.</p>\n<p>b) <strong>Abhandlung zur Prima Secundae des hl. Thomas über Glückseligkeit und menschliche Handlungen:</strong> fol. 1r–104r (=132–235). Anfang fol. 132r: Zu beachten ist, dass sich beim Ziel drei Dinge finden..... Schluss fol. 235r: <strong>61 Vorlesungen. Beendet am 28. August, dem Fest des hl. Augustinus, 1688.</strong></p>\n<p>c) <strong>Register zur Abhandlung über die Engel:</strong> fol. 106r–109r (=237–240).</p>\n<p>Anweisung für den Buchbinder fol. IIIr: <strong>F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur</strong> (vgl. MN II 149).</p>\n<p>Fr. Marcus Starnisi schrieb auch die fünf vorhergehenden und die drei folgenden Codices.</p>",
+    "latin": "IV + 131 + 117 = 252 foll.; teg. a2; script. 1687/88\n\na) Tractatus De Angelis. Traditus In Alma, et Archiepiscopali Universitate Salisburgensi. A Plurimum Reverendo.....Patre Mauro Liechtenhaimb, Ordinis S. Benedicti, Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo. Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamô exceptus et inceptus 7. Novembris 1687. A Religioso F. Marco Starnisi eundem Ordinem Professo in Celeberrimo Divae Virginis Monasterio Seittenstettensi: fol. 1r–129v. Initium Prooemii fol. 1r: Quoniam anno superiori rerum omnium principium..... Nota in margine inferiore: Lectio 1. pomeridiana 7 Novembris 1687. Clausula: Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)\n\n\n\n\nb) Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis: fol. 1r–104r (= 132–235).  \nInitium Partis Primae fol. 132r: Notandum est, tria reperiri ex parte finis.....  \nClausula fol. 235r: 61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).\n\nc) Index super Tractatum de Angelis: fol. 106r–109r (= 237–240)\n\nNota pro bibliopego fol. IIIr: F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur (Quam notam vide etiam in codice MN II 149, supra p. 109!)\n\nFr. Marcus Starnisi scripsit etiam quinque codices praecedentes et tres subsequentes.",
+    "latinHtml": "<p>IV + 131 + 117 = 252 foll.; teg. a2; script. 1687/88</p>\n<p>a) Tractatus De Angelis. Traditus In Alma, et Archiepiscopali Universitate Salisburgensi. A Plurimum Reverendo.....Patre Mauro Liechtenhaimb, Ordinis S. Benedicti, Liberi et Exempti Monasterii ad S. Lambertum in Styria Professo. Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamô exceptus et inceptus 7. Novembris 1687. A Religioso F. Marco Starnisi eundem Ordinem Professo in Celeberrimo Divae Virginis Monasterio Seittenstettensi: fol. 1r–129v. Initium Prooemii fol. 1r: Quoniam anno superiori rerum omnium principium..... Nota in margine inferiore: Lectio 1. pomeridiana 7 Novembris 1687. Clausula: Absolvimus 9. Aprilis, qui fuit dies Veneris ante Dominicam palmarum, et ultima lectio ante Pascha. 1688. (75 Lectiones)</p>\n<p>b) Tractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis: fol. 1r–104r (= 132–235). Initium Partis Primae fol. 132r: Notandum est, tria reperiri ex parte finis..... Clausula fol. 235r: 61 Lectiones. Absolvimus die 28. Augusti Divo Augustino sacro Anno MDCLXXXVIII (1688).</p>\n<p>c) Index super Tractatum de Angelis: fol. 106r–109r (= 237–240)</p>\n<p>Nota pro bibliopego fol. IIIr: F. Marcus Seittenstettensis schweinleder grin schnidt blawe Claustur (Quam notam vide etiam in codice MN II 149, supra p. 109!)</p>\n<p>Fr. Marcus Starnisi scripsit etiam quinque codices praecedentes et tres subsequentes.</p>"
+  },
+  "source": {
+    "file": "MN II 150.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-150/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 150",
+    "titles": "Tractatus De Angelis \nTractatus De Angelis \nTractatus In Primam Secundae Divi Thomae De Beatitudine, et Actibus Humanis \nIndex super Tractatum de Angelis",
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIV + 131 + 117 = 252 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

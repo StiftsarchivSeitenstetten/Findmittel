@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-1",
+  "signature": "MN III 1",
+  "aliases": [
+    "Bibl. Cod. MN III 1"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "4",
+  "heading": {
+    "title": "Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1570"
+  },
+  "date": {
+    "display": "1570",
+    "intervals": [
+      {
+        "from": 1570,
+        "to": 1570,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Die haubtartickl deß Christlichen glaubens....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 4–137",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Bekhanntnus des glaubens, Doctoris martini Lutteri",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 138–254",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Unterschied rechter und falscher Khirchen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 254–319",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 319–354",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Steffan Schwingenhamer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°, 356 pagg., script. anno 1570, teg. b1, magna cum arte figuris David Regis, Domini nostri Jesu Christi et Petri Apostoli decoratum)",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1570",
+        "intervals": [
+          {
+            "from": 1570,
+            "to": 1570,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 356 Seiten; geschrieben im Jahr 1570; lederner Einband von rehbrauner oder brauner Farbe, kunstvoll mit Figuren König Davids, unseres Herrn Jesus Christus und des Apostels Petrus verziert.\n\n**Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570.**\n\na) **Die haubtartickl deß Christlichen glaubens....:** S. 4–137  \nb) **Bekhanntnus des glaubens, Doctoris martini Lutteri:** S. 138–254  \nc) **Unterschied rechter und falscher Khirchen:** S. 254–319  \nd) **Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht:** S. 319–354\n\nNotiz S. 354: **Steffan Schwingenhamer mein aigene Hanndgeschrifft....**",
+    "germanHtml": "<p>Oktavformat; 356 Seiten; geschrieben im Jahr 1570; lederner Einband von rehbrauner oder brauner Farbe, kunstvoll mit Figuren König Davids, unseres Herrn Jesus Christus und des Apostels Petrus verziert.</p>\n<p><strong>Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570.</strong></p>\n<p>a) <strong>Die haubtartickl deß Christlichen glaubens....:</strong> S. 4–137 b) <strong>Bekhanntnus des glaubens, Doctoris martini Lutteri:</strong> S. 138–254 c) <strong>Unterschied rechter und falscher Khirchen:</strong> S. 254–319 d) <strong>Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht:</strong> S. 319–354</p>\n<p>Notiz S. 354: <strong>Steffan Schwingenhamer mein aigene Hanndgeschrifft....</strong></p>",
+    "latin": "8°, 356 pagg., script. anno 1570, teg. b1, magna cum arte figuris David Regis, Domini nostri Jesu Christi et Petri Apostoli decoratum)\n\nDie haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570.\n\na) Die haubtartickl deß Christlichen glaubens....: p. 4 - 137  \nb) Bekhanntnus des glaubens, Doctoris martini Lutteri: p. 138 - 254  \nc) Unterschied rechter und falscher Khirchen: p. 254 - 319  \nd) Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht: p. 319 - 354\n\np. 354 nota: Steffan Schwingenhamer mein aigene Hanndgeschrifft....",
+    "latinHtml": "<p>8°, 356 pagg., script. anno 1570, teg. b1, magna cum arte figuris David Regis, Domini nostri Jesu Christi et Petri Apostoli decoratum)</p>\n<p>Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570.</p>\n<p>a) Die haubtartickl deß Christlichen glaubens....: p. 4 - 137 b) Bekhanntnus des glaubens, Doctoris martini Lutteri: p. 138 - 254 c) Unterschied rechter und falscher Khirchen: p. 254 - 319 d) Die Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht: p. 319 - 354</p>\n<p>p. 354 nota: Steffan Schwingenhamer mein aigene Hanndgeschrifft....</p>"
+  },
+  "source": {
+    "file": "MN III 1.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-1/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 1",
+    "titles": "Die haubt=artickel deß Christlichenn Glaubens. Wider den pabst [gestrichen] unnd der hellen pfortn zuer hallten: Sambt anndern Dreyen seer nützlichenn Büchlein: Durch steffan schwingenhamer Abgeschriben Worden A° 1570 \nDie haubtartickl deß Christlichen glaubens.... \nBekhanntnus des glaubens, Doctoris martini Lutteri \nUnterschied rechter und falscher Khirchen \nDie Drey: symbola oder bekantnis des glaubens Christi, In der kirchen eintrechtiglich Gebraucht",
+    "persons": "Steffan Schwingenhamer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8°, 356 pagg., script. anno 1570, teg. b1, magna cum arte figuris David Regis, Domini nostri Jesu Christi et Petri Apostoli decoratum) \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext."
+  }
+}

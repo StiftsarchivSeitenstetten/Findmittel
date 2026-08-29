@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-270",
+  "signature": "MN II 270",
+  "aliases": [
+    "Bibl. Cod. MN II 270"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "215",
+  "heading": {
+    "title": "Tractatus De Incarnatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1736"
+  },
+  "date": {
+    "display": "1736",
+    "intervals": [
+      {
+        "from": 1736,
+        "to": 1736,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Incarnatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–196",
+      "language": "",
+      "incipit": {
+        "text": "Verbum Dei incarnatum esse fide Divina certum est"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Leonardus Glotz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Wessobrunn"
+    },
+    {
+      "name": "Fr. Romanus Gengl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "196 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1736",
+        "intervals": [
+          {
+            "from": 1736,
+            "to": 1736,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "196 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1736.\n\n**Abhandlung über die Menschwerdung**, diktiert von P. Leonardus Glotz, Benediktiner und Profess des berühmten Klosters Wessobrunn, und aufgezeichnet von Fr. Romanus Gengl, Profess desselben heiligen Ordens im Kloster Seitenstetten, im Jahr 1736.\n\nAnfang der Vorrede zur Abhandlung über die Menschwerdung S. 3: Dass das Wort Gottes Fleisch angenommen hat, ist durch den göttlichen Glauben gewiss,.....\n\nFr. Romanus Gengl schrieb auch den vorhergehenden Codex.",
+    "germanHtml": "<p>196 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1736.</p>\n<p><strong>Abhandlung über die Menschwerdung</strong>, diktiert von P. Leonardus Glotz, Benediktiner und Profess des berühmten Klosters Wessobrunn, und aufgezeichnet von Fr. Romanus Gengl, Profess desselben heiligen Ordens im Kloster Seitenstetten, im Jahr 1736.</p>\n<p>Anfang der Vorrede zur Abhandlung über die Menschwerdung S. 3: Dass das Wort Gottes Fleisch angenommen hat, ist durch den göttlichen Glauben gewiss,.....</p>\n<p>Fr. Romanus Gengl schrieb auch den vorhergehenden Codex.</p>",
+    "latin": "196 pagg.; teg. a1; script. 1736\n\n**Tractatus De Incarnatione Dictatus à Clarissimo Domino P. Leonardo Glotz ordinis Sanctissimi P. Benedicti in Celeberrimo Monasterio Wessofontano Professo, exceptus Vero à Religioso Fr. Romano Gengl eundem S. ordinem in Monasterio Seittenstettensi professo Anno à partu Virgineo 1736.**\n\nInitium Praefationis in Tractatum De Incarnatione p. 3: **Verbum Dei incarnatum esse fide Divina certum est,.....**\n\nF. Romanus Gengl etiam codicem praecedentem scripsit.",
+    "latinHtml": "<p>196 pagg.; teg. a1; script. 1736</p>\n<p><strong>Tractatus De Incarnatione Dictatus à Clarissimo Domino P. Leonardo Glotz ordinis Sanctissimi P. Benedicti in Celeberrimo Monasterio Wessofontano Professo, exceptus Vero à Religioso Fr. Romano Gengl eundem S. ordinem in Monasterio Seittenstettensi professo Anno à partu Virgineo 1736.</strong></p>\n<p>Initium Praefationis in Tractatum De Incarnatione p. 3: <strong>Verbum Dei incarnatum esse fide Divina certum est,.....</strong></p>\n<p>F. Romanus Gengl etiam codicem praecedentem scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 270.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-270/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 269]]",
+      "targetId": "mn-ii-269",
+      "targetSignature": "MN II 269",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 270",
+    "titles": "Tractatus De Incarnatione \nTractatus De Incarnatione",
+    "persons": "P. Leonardus Glotz Dozent lecturer \nFr. Romanus Gengl Schreiber scribe",
+    "incipits": "Verbum Dei incarnatum esse fide Divina certum est",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n196 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "lxviii",
+  "signature": "LXVIII",
+  "aliases": [
+    "Bibl. Cod. LXVIII"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "203",
+  "heading": {
+    "title": "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1720/21"
+  },
+  "date": {
+    "display": "1720/21",
+    "intervals": [
+      {
+        "from": 1720,
+        "to": 1721,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "10 Bände zu je etwa 200 Blättern",
+      "language": "",
+      "incipit": null,
+      "explicit": {
+        "text": "finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721."
+      },
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Schlussvermerk steht am Ende von Band V."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Henricus Zoesius",
+      "roleRaw": "source_author",
+      "roleLabel": "source author",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Wenceslaus Joannes Krigelstein",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Sigismund Kartl",
+      "roleRaw": "source_scribe",
+      "roleLabel": "source scribe",
+      "scope": "manuscript",
+      "date": "1705"
+    },
+    {
+      "name": "Joannes Antonius Schönfeld",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "4°, decem Tomi",
+    "format": "Quartformat",
+    "binding": {
+      "code": "d",
+      "description": "Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; nähere Farb- und Materialangaben siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1720/21",
+        "intervals": [
+          {
+            "from": 1720,
+            "to": 1721,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; zehn Bände; rehbraune Halblederbände; geschrieben 1720/21.\n\n**Kommentar des Heinrich Zoesius aus Amersfoort, Rechtsgelehrten und ordentlichen Professors der Rechte an der Universität Löwen, zu den Pandekten oder Digesten des Zivilrechts; neu interpretiert in den Privatkollegien des hochgelehrten Wenzel Johann Krigelstein, Doktor beider Rechte und öffentlichen Professors der Pandekten an der berühmten Universität Prag; 1705 von dem ehrwürdigen Herrn Sigismund Kartl aufgezeichnet, später aber von mir, Johann Anton Schönfeld, damals Hörer der Pandekten, im Jahr 1720.**\n\nSchlussvermerk am Ende von Band V: **Wir beendeten ... das große Werk der Digesten am 30. Juli 1721.**\n\nJeder Band enthält etwa 200 Blätter. Verfasser dieses Kommentars zum Zivilrecht ist **Wenceslaus Joannes Krigelstein**, der den Kommentar des Heinrich Zoesius benutzte; Schreiber ist **Joannes Antonius Schönfeld**, der offenbar die Aufzeichnungen Sigismund Kartls benutzte.\n\nSiehe auch den alten *Catalogus Codicum Manuscriptorum*, Bd. I, S. 146–147, der das Werk ausführlicher behandelt.",
+    "germanHtml": "<p>Quartformat; zehn Bände; rehbraune Halblederbände; geschrieben 1720/21.</p>\n<p><strong>Kommentar des Heinrich Zoesius aus Amersfoort, Rechtsgelehrten und ordentlichen Professors der Rechte an der Universität Löwen, zu den Pandekten oder Digesten des Zivilrechts; neu interpretiert in den Privatkollegien des hochgelehrten Wenzel Johann Krigelstein, Doktor beider Rechte und öffentlichen Professors der Pandekten an der berühmten Universität Prag; 1705 von dem ehrwürdigen Herrn Sigismund Kartl aufgezeichnet, später aber von mir, Johann Anton Schönfeld, damals Hörer der Pandekten, im Jahr 1720.</strong></p>\n<p>Schlussvermerk am Ende von Band V: <strong>Wir beendeten ... das große Werk der Digesten am 30. Juli 1721.</strong></p>\n<p>Jeder Band enthält etwa 200 Blätter. Verfasser dieses Kommentars zum Zivilrecht ist <strong>Wenceslaus Joannes Krigelstein</strong>, der den Kommentar des Heinrich Zoesius benutzte; Schreiber ist <strong>Joannes Antonius Schönfeld</strong>, der offenbar die Aufzeichnungen Sigismund Kartls benutzte.</p>\n<p>Siehe auch den alten <em>Catalogus Codicum Manuscriptorum</em>, Bd. I, S. 146–147, der das Werk ausführlicher behandelt.</p>",
+    "latin": "4°, decem Tomi; teg. d cervini coloris; script. 1720/21\n\n**Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.**\n\nClausula in fine tomi V.: finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721.\n\nSinguli tomi continent ca. 200 foll.; auctor huius commentarii in ius civile est **Wenceslaus Joannes Krigelstein**, qui usus est Commentario Henericii Zoesii, scriptor vero **Joannes Antonius Schönfeld**, qui usus esse videtur scriptis Sigismundi Kartl.\n\nVide etiam veterem Catalogum Codicum Manuscriptorum, qui in Tomo I p. 146–147 hoc opus fusius tractat!",
+    "latinHtml": "<p>4°, decem Tomi; teg. d cervini coloris; script. 1720/21</p>\n<p><strong>Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.</strong></p>\n<p>Clausula in fine tomi V.: finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721.</p>\n<p>Singuli tomi continent ca. 200 foll.; auctor huius commentarii in ius civile est <strong>Wenceslaus Joannes Krigelstein</strong>, qui usus est Commentario Henericii Zoesii, scriptor vero <strong>Joannes Antonius Schönfeld</strong>, qui usus esse videtur scriptis Sigismundi Kartl.</p>\n<p>Vide etiam veterem Catalogum Codicum Manuscriptorum, qui in Tomo I p. 146–147 hoc opus fusius tractat!</p>"
+  },
+  "source": {
+    "file": "LXVIII.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/lxviii/",
+  "relations": [],
+  "search": {
+    "signature": "LXVIII",
+    "titles": "Henericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore. \nHenericii Zoesii Amsterfortii Juris Consulti In Academia Lovaniensi Legum Professoris Ordinarii Commendarius ad Pandectas Seu Digesta Juris Civilis Novissime interpretatus in Collegiis privatis Clarissimi Viri Wenceslai Joannis Krigelstein Juris Utriusque Doctoris et in Celeberrima Universitate Pragensi...... Pandectarum Professoris Publici..... Conscripta anno 1705 a Reverendo Domino Sigismundo Kartl, postea verò à Me anno 1720 Joanne Antonio Schönfeld tunc temporis pandectarum Auditore.",
+    "persons": "Henricus Zoesius source author source_author \nWenceslaus Joannes Krigelstein Autor author \nSigismund Kartl source scribe source_scribe \nJoannes Antonius Schönfeld Schreiber scribe",
+    "incipits": "",
+    "explicits": "finivimus ....opus magnum Digestorum Die 30 Julii Annô 1721.",
+    "notes": "Der Schlussvermerk steht am Ende von Band V.",
+    "physical": "Papier \n4°, decem Tomi \nQuartformat \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; nähere Farb- und Materialangaben siehe Katalogtext."
+  }
+}

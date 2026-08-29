@@ -1,0 +1,192 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-155",
+  "signature": "MN II 155",
+  "aliases": [
+    "Bibl. Cod. MN II 155"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "113",
+  "heading": {
+    "title": "Tractatus de Vitiis et peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1688/89"
+  },
+  "date": {
+    "display": "1688/89",
+    "intervals": [
+      {
+        "from": 1688,
+        "to": 1689,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Vitiis et peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 4r–288r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 288v–315r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Maurus Liechtenhaimb",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Lambrecht / Salzburg",
+      "certainty": "inferred_from_parallel"
+    },
+    {
+      "name": "Fr. Maximilian Steger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "certain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "315 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1688/89",
+        "intervals": [
+          {
+            "from": 1688,
+            "to": 1689,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "315 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1688/89.\n\na) **Abhandlung über Laster und Sünden:** fol. 4r–288r. Anfang der Vorrede fol. 4r: Was und wie groß für ein Übel die Sünde sei......\n\nb) **Abhandlung über die Gesetze:** fol. 288v–315r. Anfang der ersten Disputation **Über die Gesetze im Allgemeinen:** Das Wort Gesetz wird nach dem hl. Thomas.....\n\nRückenaufschrift: **E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis.** Daraus kennen wir den Schreiber des Codex. Den Verfasser zeigen die oben angeführten Anfänge: dieselben Abhandlungen wurden im Studienjahr 1688/89 in Salzburg von P. Maurus Liechtenhaimb, Profess von St. Lambrecht, vorgetragen und finden sich in MN II 151.\n\nFr. Maximilian Steger schrieb auch den vorhergehenden Codex.",
+    "germanHtml": "<p>315 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1688/89.</p>\n<p>a) <strong>Abhandlung über Laster und Sünden:</strong> fol. 4r–288r. Anfang der Vorrede fol. 4r: Was und wie groß für ein Übel die Sünde sei......</p>\n<p>b) <strong>Abhandlung über die Gesetze:</strong> fol. 288v–315r. Anfang der ersten Disputation <strong>Über die Gesetze im Allgemeinen:</strong> Das Wort Gesetz wird nach dem hl. Thomas.....</p>\n<p>Rückenaufschrift: <strong>E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis.</strong> Daraus kennen wir den Schreiber des Codex. Den Verfasser zeigen die oben angeführten Anfänge: dieselben Abhandlungen wurden im Studienjahr 1688/89 in Salzburg von P. Maurus Liechtenhaimb, Profess von St. Lambrecht, vorgetragen und finden sich in MN II 151.</p>\n<p>Fr. Maximilian Steger schrieb auch den vorhergehenden Codex.</p>",
+    "latin": "315 foll.; teg. a1; script. 1688/89\n\na) Tractatus de Vitiis, et peccatis: fol. 4r–288r. Initium Prooemii fol. 4r: Quid et quantum malum sit peccatum......\n\nb) Tractatus De Legibus: fol. 288v–315r. Initium Disputationis Primae De legibus in communi: Nomen legis iuxta Divum Thomam.....\n\nInscriptio dorsi: E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis. Inde novimus scriptorem codicis nostri; Auctorem vero indicant initia tractatuum, quae supra posuimus. Eadem enim initia ideoque eosdem tractatus a P. Mauro Liechtenhaimb ad S. Lambertum in Styria professo anno scholari 1688/89 Salisburgi dictatos reperies in codice MN II 151 (supra p. 110!) F. Maximilianus Steger scripsit etiam codicem praecedentem.",
+    "latinHtml": "<p>315 foll.; teg. a1; script. 1688/89</p>\n<p>a) Tractatus de Vitiis, et peccatis: fol. 4r–288r. Initium Prooemii fol. 4r: Quid et quantum malum sit peccatum......</p>\n<p>b) Tractatus De Legibus: fol. 288v–315r. Initium Disputationis Primae De legibus in communi: Nomen legis iuxta Divum Thomam.....</p>\n<p>Inscriptio dorsi: E. S. De Vitiis et peccatis ac Legibus F. Maximiliani Steger Seittenstettensis. Inde novimus scriptorem codicis nostri; Auctorem vero indicant initia tractatuum, quae supra posuimus. Eadem enim initia ideoque eosdem tractatus a P. Mauro Liechtenhaimb ad S. Lambertum in Styria professo anno scholari 1688/89 Salisburgi dictatos reperies in codice MN II 151 (supra p. 110!) F. Maximilianus Steger scripsit etiam codicem praecedentem.</p>"
+  },
+  "source": {
+    "file": "MN II 155.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-155/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 151]]",
+      "targetId": "mn-ii-151",
+      "targetSignature": "MN II 151",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 154]]",
+      "targetId": "mn-ii-154",
+      "targetSignature": "MN II 154",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 155",
+    "titles": "Tractatus de Vitiis et peccatis \nTractatus de Vitiis et peccatis \nTractatus De Legibus",
+    "persons": "P. Maurus Liechtenhaimb Dozent lecturer \nFr. Maximilian Steger Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n315 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

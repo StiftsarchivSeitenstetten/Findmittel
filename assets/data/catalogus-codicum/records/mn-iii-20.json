@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-20",
+  "signature": "MN III 20",
+  "aliases": [
+    "Bibl. Cod. MN III 20"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "171",
+  "heading": {
+    "title": "Liber 3. Decretalium",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1703"
+  },
+  "date": {
+    "display": "um 1703",
+    "intervals": [
+      {
+        "from": 1703,
+        "to": 1703,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liber 3. Decretalium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–252",
+      "language": "",
+      "incipit": {
+        "text": "Vocantur clerici vel quia de sorte Domini sunt...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Liber 4. Decretalium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 257–406",
+      "language": "",
+      "incipit": {
+        "text": "Sponsi et sponsae propriè intelliguntur ii...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Liber 5. Decretalium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 411–662",
+      "language": "",
+      "incipit": {
+        "text": "Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 664 pagg.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1703",
+        "intervals": [
+          {
+            "from": 1703,
+            "to": 1703,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 664 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\na) **Drittes Buch der Dekretalen:** S. 1–252. Anfang des ersten Titels **Über Leben und ehrbaren Wandel der Kleriker:** Kleriker heißen entweder so, weil sie Anteil am Los des Herrn haben....\n\nb) **Viertes Buch der Dekretalen:** S. 257–406. Anfang des ersten Titels **Über Verlöbnisse und Ehe:** Bräutigam und Braut heißen im eigentlichen Sinn diejenigen....\n\nc) **Fünftes Buch der Dekretalen:** S. 411–662. Anfang des ersten Titels **Über Anklagen, Untersuchungen und Anzeigen:** Anklage ist die förmliche Anzeige eines Verbrechens vor dem zuständigen Richter zum Zweck öffentlicher Ahndung......\n\nZweifellos setzt und vollendet dieser Codex MN III 19. Daher gilt das dort über den unbekannten Verfasser und den möglicherweise mit P. Joannes Rigele zu identifizierenden Schreiber Gesagte entsprechend auch hier.\n\nTeil c endet S. 662 mit den Buchstaben **A. M.**; es ist jedoch sehr zweifelhaft, ob es sich um Initialen eines Eigennamens handelt. Im Seitenstettner Konvent des 17. und 18. Jahrhunderts findet sich kein Mönch, zu dem sowohl die Schrift als auch diese Initialen passen.",
+    "germanHtml": "<p>Kleines Oktavformat; 664 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.</p>\n<p>a) <strong>Drittes Buch der Dekretalen:</strong> S. 1–252. Anfang des ersten Titels <strong>Über Leben und ehrbaren Wandel der Kleriker:</strong> Kleriker heißen entweder so, weil sie Anteil am Los des Herrn haben....</p>\n<p>b) <strong>Viertes Buch der Dekretalen:</strong> S. 257–406. Anfang des ersten Titels <strong>Über Verlöbnisse und Ehe:</strong> Bräutigam und Braut heißen im eigentlichen Sinn diejenigen....</p>\n<p>c) <strong>Fünftes Buch der Dekretalen:</strong> S. 411–662. Anfang des ersten Titels <strong>Über Anklagen, Untersuchungen und Anzeigen:</strong> Anklage ist die förmliche Anzeige eines Verbrechens vor dem zuständigen Richter zum Zweck öffentlicher Ahndung......</p>\n<p>Zweifellos setzt und vollendet dieser Codex MN III 19. Daher gilt das dort über den unbekannten Verfasser und den möglicherweise mit P. Joannes Rigele zu identifizierenden Schreiber Gesagte entsprechend auch hier.</p>\n<p>Teil c endet S. 662 mit den Buchstaben <strong>A. M.</strong>; es ist jedoch sehr zweifelhaft, ob es sich um Initialen eines Eigennamens handelt. Im Seitenstettner Konvent des 17. und 18. Jahrhunderts findet sich kein Mönch, zu dem sowohl die Schrift als auch diese Initialen passen.</p>",
+    "latin": "8° min., 664 pagg.; teg. a2; script. ca. 1703\n\na) Liber 3. Decretalium: p. 1–252. Initium Tituli 1. De Vita et honestate Clericorum: Vocantur clerici vel quia de sorte Domini sunt....\n\nb) Liber 4. Decretalium: p. 257–406. Initium Tituli 1. De Sponsalibus et matrimonio: Sponsi et sponsae propriè intelliguntur ii....\n\nc) Liber 5. Decretalium: p. 411–662. Initium Tituli 1. De accusationibus, inquisitionibus et denunciationibus: Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......\n\nSine dubio codex noster codicem MN III 19 continuat et complet. Ergo vide quae supra p. 170 de codice praecedente eiusque ignoto auctore nec non de scriptore (qui fortasse P. Joannes Rigele) dixerim. Etiamsi pars c p. 662 cum litteris A. M. concluditur, tamen valde dubitandum est, num nominis cuiusdam proprii sint initiales. Nam in conventu Seitenstettensi saeculo XVII. et XVIII. non invenitur monachus, cui et scriptura codicis nostri et litterae initiales conveniant.",
+    "latinHtml": "<p>8° min., 664 pagg.; teg. a2; script. ca. 1703</p>\n<p>a) Liber 3. Decretalium: p. 1–252. Initium Tituli 1. De Vita et honestate Clericorum: Vocantur clerici vel quia de sorte Domini sunt....</p>\n<p>b) Liber 4. Decretalium: p. 257–406. Initium Tituli 1. De Sponsalibus et matrimonio: Sponsi et sponsae propriè intelliguntur ii....</p>\n<p>c) Liber 5. Decretalium: p. 411–662. Initium Tituli 1. De accusationibus, inquisitionibus et denunciationibus: Accusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......</p>\n<p>Sine dubio codex noster codicem MN III 19 continuat et complet. Ergo vide quae supra p. 170 de codice praecedente eiusque ignoto auctore nec non de scriptore (qui fortasse P. Joannes Rigele) dixerim. Etiamsi pars c p. 662 cum litteris A. M. concluditur, tamen valde dubitandum est, num nominis cuiusdam proprii sint initiales. Nam in conventu Seitenstettensi saeculo XVII. et XVIII. non invenitur monachus, cui et scriptura codicis nostri et litterae initiales conveniant.</p>"
+  },
+  "source": {
+    "file": "MN III 20.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-20/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN III 19]]",
+      "targetId": "mn-iii-19",
+      "targetSignature": "MN III 19",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 20",
+    "titles": "Liber 3. Decretalium \nLiber 3. Decretalium \nLiber 4. Decretalium \nLiber 5. Decretalium",
+    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "Vocantur clerici vel quia de sorte Domini sunt.... \nSponsi et sponsae propriè intelliguntur ii.... \nAccusatio est criminis apud competentem iudicem publicae vindictae causa solennis delatio......",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min., 664 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

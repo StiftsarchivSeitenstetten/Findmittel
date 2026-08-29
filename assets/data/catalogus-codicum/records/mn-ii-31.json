@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-31",
+  "signature": "MN II 31",
+  "aliases": [
+    "Bibl. Cod. MN II 31",
+    "Commentarii in Organum Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "21",
+  "heading": {
+    "title": "Commentarii in Organum Aristotelis Anno 1637.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1637"
+  },
+  "date": {
+    "display": "1637",
+    "intervals": [
+      {
+        "from": 1637,
+        "to": 1637,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarii in Organum Aristotelis Anno 1637.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarii in Organum Aristotelis Anno 1637.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–558",
+      "language": "",
+      "incipit": {
+        "text": "Magna pars mortalium conqueritur de naturae malignitate (?)....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Michael Truseter OSB",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "558 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1637",
+        "intervals": [
+          {
+            "from": 1637,
+            "to": 1637,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "owner": "Fr. Aemilianus Menzinger OSB",
+        "evidence": "Einbandinitialen F A M P S"
+      }
+    ],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_initials",
+      "text": "F A M P S",
+      "expansion": "Frater Aemilianus Menzinger professus monasterii Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "558 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1637.\n\n**Kommentare zum Organon des Aristoteles, 1637.**\n\nAnfang der Vorrede S. 1: **Ein großer Teil der Sterblichen beklagt sich über die Bosheit (?) der Natur.....**\n\nAm Rand S. 1: **Diktiert von dem ehrwürdigen P. Fr. Michael Truseter, Mönch von Michaelbeuern**, der im folgenden Jahr Abt dieses Klosters wurde. **1637, 27. März.**\n\nVergoldete Initialen auf der Vorderseite des Einbandes: **F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis.**",
+    "germanHtml": "<p>558 Seiten; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1637.</p>\n<p><strong>Kommentare zum Organon des Aristoteles, 1637.</strong></p>\n<p>Anfang der Vorrede S. 1: <strong>Ein großer Teil der Sterblichen beklagt sich über die Bosheit (?) der Natur.....</strong></p>\n<p>Am Rand S. 1: <strong>Diktiert von dem ehrwürdigen P. Fr. Michael Truseter, Mönch von Michaelbeuern</strong>, der im folgenden Jahr Abt dieses Klosters wurde. <strong>1637, 27. März.</strong></p>\n<p>Vergoldete Initialen auf der Vorderseite des Einbandes: <strong>F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis.</strong></p>",
+    "latin": "558 pagg.; teg. a2; script. 1637\n\nCommentarii in Organum Aristotelis Anno 1637.\n\nInitium Prooemii p. 1: Magna pars mortalium conqueritur de naturae malignitate (?).....\n\nIn margine p. 1: Dictante R. P. F. Michaele Truseter Monacho Burensi (= Michaelburano, cuius monasterii anno post abbas factus est). 1637. 27 Martii.\n\nLitterae initiales (inauratae) in parte adversa tegumenti: F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis",
+    "latinHtml": "<p>558 pagg.; teg. a2; script. 1637</p>\n<p>Commentarii in Organum Aristotelis Anno 1637.</p>\n<p>Initium Prooemii p. 1: Magna pars mortalium conqueritur de naturae malignitate (?).....</p>\n<p>In margine p. 1: Dictante R. P. F. Michaele Truseter Monacho Burensi (= Michaelburano, cuius monasterii anno post abbas factus est). 1637. 27 Martii.</p>\n<p>Litterae initiales (inauratae) in parte adversa tegumenti: F A M P S = Frater Aemilianus Menzinger professus monasterii Seittenstettensis</p>"
+  },
+  "source": {
+    "file": "MN II 31.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-31/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 31",
+    "titles": "Commentarii in Organum Aristotelis Anno 1637. \nCommentarii in Organum Aristotelis Anno 1637.",
+    "persons": "P. Michael Truseter OSB Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Magna pars mortalium conqueritur de naturae malignitate (?).....",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n558 Seiten \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+  }
+}

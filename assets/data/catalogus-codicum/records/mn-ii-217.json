@@ -1,0 +1,244 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-217",
+  "signature": "MN II 217",
+  "aliases": [
+    "Bibl. Cod. MN II 217"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "169–170",
+  "heading": {
+    "title": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1703"
+  },
+  "date": {
+    "display": "1703",
+    "intervals": [
+      {
+        "from": 1703,
+        "to": 1703,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–716",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1703-07-20"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Dr. Joseph Bonaventura Franz",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "Universität Salzburg",
+      "certainty": "certain"
+    },
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "certain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "(Jus Civile sive In 50 Libros Digestorum) 716 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1703",
+        "intervals": [
+          {
+            "from": 1703,
+            "to": 1703,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "716 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1703.\n\n**Zivilrecht oder Kommentar zu den 50 Büchern der Digesten:** S. 1–716.\n\nAnfang der Vorrede S. 5: Aus dem kanonischen Recht sind (?) authentisch.....\n\nSchluss S. 712: **Unter dem berühmten Herrn Doktor Franz als Verfasser und P. Joannes aus Seitenstetten als Schreiber beendeten wir [dies] am 20. Juli 1703.**\n\nVerfasser ist somit Dr. Joseph Bonaventura Franz, Professor des Zivilrechts in Salzburg; Schreiber ist P. Joannes Rigele, 1697 zum Priester geweiht und 1744 gestorben. Wahrscheinlich schrieb derselbe auch die Codices MN II 186–194.",
+    "germanHtml": "<p>716 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1703.</p>\n<p><strong>Zivilrecht oder Kommentar zu den 50 Büchern der Digesten:</strong> S. 1–716.</p>\n<p>Anfang der Vorrede S. 5: Aus dem kanonischen Recht sind (?) authentisch.....</p>\n<p>Schluss S. 712: <strong>Unter dem berühmten Herrn Doktor Franz als Verfasser und P. Joannes aus Seitenstetten als Schreiber beendeten wir [dies] am 20. Juli 1703.</strong></p>\n<p>Verfasser ist somit Dr. Joseph Bonaventura Franz, Professor des Zivilrechts in Salzburg; Schreiber ist P. Joannes Rigele, 1697 zum Priester geweiht und 1744 gestorben. Wahrscheinlich schrieb derselbe auch die Codices MN II 186–194.</p>",
+    "latin": "(Jus Civile sive In 50 Libros Digestorum) 716 pagg.; teg. a2; 1703\n\nInitium Proaemii p. 5: Ex Jure Canonico sunt (?) authentici ....\n\nClausula p. 712: Authore Clarissimo Domino Doctore Franz. Scriptore P. Joanne Seittenstettensi absolvimus autem 20. Julii 1703.\n\nAuctor est igitur Dr. Joseph Bonaventura Franz, Professor Juris Civilis Salisburgensis, scriptor vero P. Joannes Rigele (sacerdotio initiatus anno 1697, mortuus 1744). Quem probabiliter etiam codices MN II 186–194 scripsisse supra p. 141–145 ostendimus.",
+    "latinHtml": "<p>(Jus Civile sive In 50 Libros Digestorum) 716 pagg.; teg. a2; 1703</p>\n<p>Initium Proaemii p. 5: Ex Jure Canonico sunt (?) authentici ....</p>\n<p>Clausula p. 712: Authore Clarissimo Domino Doctore Franz. Scriptore P. Joanne Seittenstettensi absolvimus autem 20. Julii 1703.</p>\n<p>Auctor est igitur Dr. Joseph Bonaventura Franz, Professor Juris Civilis Salisburgensis, scriptor vero P. Joannes Rigele (sacerdotio initiatus anno 1697, mortuus 1744). Quem probabiliter etiam codices MN II 186–194 scripsisse supra p. 141–145 ostendimus.</p>"
+  },
+  "source": {
+    "file": "MN II 217.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-217/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 186",
+      "targetId": "mn-ii-186",
+      "targetSignature": "MN II 186",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 187",
+      "targetId": "mn-ii-187",
+      "targetSignature": "MN II 187",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 188",
+      "targetId": "mn-ii-188",
+      "targetSignature": "MN II 188",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 189",
+      "targetId": "mn-ii-189",
+      "targetSignature": "MN II 189",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 190",
+      "targetId": "mn-ii-190",
+      "targetSignature": "MN II 190",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 191",
+      "targetId": "mn-ii-191",
+      "targetSignature": "MN II 191",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 192",
+      "targetId": "mn-ii-192",
+      "targetSignature": "MN II 192",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 193",
+      "targetId": "mn-ii-193",
+      "targetSignature": "MN II 193",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_probably_as",
+      "typeLabel": "same scribe probably as",
+      "targetRaw": "MN II 194",
+      "targetId": "mn-ii-194",
+      "targetSignature": "MN II 194",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 217",
+    "titles": "Jus Civile sive Commentarius In quinquaginta Libros Digestorum \nJus Civile sive Commentarius In quinquaginta Libros Digestorum",
+    "persons": "Dr. Joseph Bonaventura Franz author or lecturer author_or_lecturer \nP. Joannes Rigele Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n(Jus Civile sive In 50 Libros Digestorum) 716 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,307 @@
+.catalogus-intro-note {
+    background: #f7f2e8;
+    border-left: 4px solid var(--color-gold);
+    margin: 18px 0 24px 0;
+    padding: 12px 15px;
+}
+
+.catalogus-search {
+    margin-top: 24px;
+}
+
+.catalogus-search-panel,
+.catalogus-record-card,
+.catalogus-section,
+.catalogus-result-card,
+.catalogus-search-empty {
+    background: var(--color-paper);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(58, 42, 28, 0.04);
+}
+
+.catalogus-search-panel {
+    border-top: 4px solid var(--color-gold);
+    padding: 20px;
+}
+
+.catalogus-search-controls {
+    align-items: end;
+    display: grid;
+    gap: 12px;
+    grid-template-columns: minmax(250px, 2fr) minmax(170px, 1fr) minmax(115px, 0.7fr) minmax(115px, 0.7fr) minmax(180px, 1fr) auto;
+}
+
+.catalogus-search-results {
+    display: grid;
+    gap: 14px;
+    margin-top: 22px;
+}
+
+.catalogus-result-card,
+.catalogus-search-empty {
+    padding: 18px 20px;
+}
+
+.catalogus-result-card h3 {
+    color: var(--color-red-dark);
+    font-size: 15pt;
+    margin: 0 0 5px 0;
+}
+
+.catalogus-result-card h3 a {
+    color: inherit;
+}
+
+.catalogus-result-source {
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 7px;
+    margin: 0 0 7px 0;
+}
+
+.catalogus-badge {
+    background: #f2f3ef;
+    border: 1px solid var(--color-border);
+    border-radius: 999px;
+    color: var(--color-muted);
+    display: inline-block;
+    font-size: 8.5pt;
+    line-height: 1.2;
+    padding: 3px 8px;
+}
+
+.catalogus-badge-supplied,
+.catalogus-badge-uncertain {
+    background: #f7f2e8;
+    border-color: var(--color-gold);
+}
+
+.catalogus-result-meta,
+.catalogus-result-context,
+.catalogus-record-kicker,
+.catalogus-record-status {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+}
+
+.catalogus-result-meta,
+.catalogus-result-context {
+    margin: 6px 0;
+}
+
+.catalogus-result-snippet {
+    margin: 10px 0 14px 0;
+}
+
+.catalogus-result-card mark,
+.catalogus-record-shell mark {
+    background: #f7e8a8;
+    color: inherit;
+    padding: 0 2px;
+}
+
+.catalogus-record-card {
+    border-top: 4px solid var(--color-red);
+    padding: 22px;
+}
+
+.catalogus-record-title {
+    color: var(--color-red-dark);
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: clamp(21pt, 5vw, 30pt);
+    font-weight: normal;
+    line-height: 1.18;
+    margin: 5px 0 10px 0;
+}
+
+.catalogus-record-signature {
+    color: var(--color-green);
+    font-size: 12pt;
+    font-weight: bold;
+    margin: 0;
+}
+
+.catalogus-record-date {
+    color: var(--color-ink);
+    font-size: 13pt;
+    margin: 8px 0 0 0;
+}
+
+.catalogus-overview-grid,
+.catalogus-detail-grid {
+    display: grid;
+    gap: 8px 16px;
+    grid-template-columns: minmax(140px, 195px) minmax(0, 1fr);
+    margin: 16px 0 0 0;
+}
+
+.catalogus-overview-grid dt,
+.catalogus-detail-grid dt {
+    color: var(--color-muted);
+    font-weight: bold;
+}
+
+.catalogus-overview-grid dd,
+.catalogus-detail-grid dd {
+    margin: 0;
+    overflow-wrap: anywhere;
+}
+
+.catalogus-section {
+    border-top: 4px solid var(--color-gold);
+    margin-top: 24px;
+    padding: 20px 22px;
+}
+
+.catalogus-section > h3,
+.catalogus-item > h4 {
+    color: var(--color-red-dark);
+    font-family: Georgia, "Times New Roman", serif;
+    font-weight: normal;
+}
+
+.catalogus-section > h3 {
+    font-size: 18pt;
+    margin: 0 0 14px 0;
+}
+
+.catalogus-item {
+    border-top: 1px solid var(--color-border);
+    padding: 16px 0 4px 0;
+    scroll-margin-top: 18px;
+}
+
+.catalogus-item:first-of-type {
+    border-top: 0;
+    padding-top: 0;
+}
+
+.catalogus-item > h4 {
+    font-size: 14pt;
+    margin: 0 0 8px 0;
+}
+
+.catalogus-item-label {
+    color: var(--color-muted);
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.catalogus-item-meta {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+    margin: 5px 0;
+}
+
+.catalogus-inc-exp {
+    background: #f7f8f5;
+    border-left: 3px solid var(--color-border);
+    margin: 10px 0;
+    padding: 8px 12px;
+}
+
+.catalogus-inc-exp strong {
+    color: var(--color-green);
+}
+
+.catalogus-person-list,
+.catalogus-relation-list,
+.catalogus-note-list {
+    list-style: none;
+    margin: 8px 0 0 0;
+    padding: 0;
+}
+
+.catalogus-person-list li,
+.catalogus-relation-list li,
+.catalogus-note-list li {
+    border-top: 1px solid var(--color-border);
+    padding: 8px 0;
+}
+
+.catalogus-person-list li:first-child,
+.catalogus-relation-list li:first-child,
+.catalogus-note-list li:first-child {
+    border-top: 0;
+}
+
+.catalogus-person-role {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+}
+
+.catalogus-catalogue-text {
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 11.5pt;
+    line-height: 1.7;
+}
+
+.catalogus-catalogue-text p:first-child {
+    margin-top: 0;
+}
+
+.catalogus-catalogue-text blockquote {
+    border-left: 3px solid var(--color-border);
+    color: var(--color-muted);
+    margin-left: 0;
+    padding-left: 14px;
+}
+
+.catalogus-catalogue-text code {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+    font-size: 0.92em;
+}
+
+.catalogus-source-actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin-top: 14px;
+}
+
+.catalogus-pagination-note {
+    color: var(--color-muted);
+    font-size: 9.5pt;
+    margin-top: 16px;
+}
+
+.catalogus-loading-error {
+    background: #fff5f5;
+    border-left: 4px solid var(--color-red);
+    padding: 12px 15px;
+}
+
+.catalogus-no-data {
+    color: var(--color-muted);
+    font-style: italic;
+}
+
+@media (max-width: 900px) {
+    .catalogus-search-controls {
+        grid-template-columns: 1fr 1fr;
+    }
+
+    .catalogus-search-controls .catalogus-query-field {
+        grid-column: 1 / -1;
+    }
+}
+
+@media (max-width: 620px) {
+    .catalogus-search-controls,
+    .catalogus-overview-grid,
+    .catalogus-detail-grid {
+        grid-template-columns: 1fr;
+    }
+
+    .catalogus-overview-grid dt,
+    .catalogus-detail-grid dt {
+        margin-top: 7px;
+    }
+
+    .catalogus-section,
+    .catalogus-record-card {
+        padding: 17px;
+    }
+}

@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-34",
+  "signature": "MN III 34",
+  "aliases": [
+    "Bibl. Cod. MN III 34"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "211",
+  "heading": {
+    "title": "Additiones ad quosdam tractatus theologicos",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "kurz nach 1725"
+  },
+  "date": {
+    "display": "kurz nach 1725",
+    "intervals": [
+      {
+        "from": 1725,
+        "to": 1725,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Additiones ad quosdam tractatus theologicos",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Ad Tractatum Decimum: De Praeceptis Ecclesiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–23",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Ad Tractatum Undecimum: De beneficiis Ecclesiasticis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 23–32",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 32–67",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 67–111",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Ad Tractatum Decimum quartum: De Sacramentis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 111–321",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Index continens novas Additiones",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 323–406",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nach Sachen alphabetisch geordnet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "kurz nach 1725",
+        "intervals": [
+          {
+            "from": 1725,
+            "to": 1725,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 408 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben kurz nach 1725.\n\n**Ergänzungen zu einigen theologischen Abhandlungen.**\n\na) **Zum zehnten Traktat: Über die Gebote der Kirche:** S. 1–23.\n\nb) **Zum elften Traktat: Über kirchliche Benefizien:** S. 23–32.\n\nc) **Zum zwölften Traktat: Über kirchliche Immunität und Ablässe:** S. 32–67.\n\nd) **Zum dreizehnten Traktat: Über Zensuren, Irregularität und kanonische Strafen:** S. 67–111.\n\ne) **Zum vierzehnten Traktat: Über die Sakramente:** S. 111–321.\n\nf) **Register mit den neuen Ergänzungen:** S. 323–406; alphabetisch nach Sachen geordnet.\n\nDer Schreiber ist unbekannt; ebenso weiß der Katalogbearbeiter nicht, ob der Schreiber selbst oder jemand anderer diese Ergänzungen und das Register gesammelt hat.\n\nFür die Datierung ist eine Stelle S. 22 wichtig: **Du wirst sagen nach der neuesten Bulle Benedikts XIII. *Ex quo Divina* usw., veröffentlicht in Rom am 15. Juni 1725....** Daher wurde die Sammlung wahrscheinlich nicht lange nach 1725 zusammengestellt.",
+    "germanHtml": "<p>Kleines Oktavformat; 408 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben kurz nach 1725.</p>\n<p><strong>Ergänzungen zu einigen theologischen Abhandlungen.</strong></p>\n<p>a) <strong>Zum zehnten Traktat: Über die Gebote der Kirche:</strong> S. 1–23.</p>\n<p>b) <strong>Zum elften Traktat: Über kirchliche Benefizien:</strong> S. 23–32.</p>\n<p>c) <strong>Zum zwölften Traktat: Über kirchliche Immunität und Ablässe:</strong> S. 32–67.</p>\n<p>d) <strong>Zum dreizehnten Traktat: Über Zensuren, Irregularität und kanonische Strafen:</strong> S. 67–111.</p>\n<p>e) <strong>Zum vierzehnten Traktat: Über die Sakramente:</strong> S. 111–321.</p>\n<p>f) <strong>Register mit den neuen Ergänzungen:</strong> S. 323–406; alphabetisch nach Sachen geordnet.</p>\n<p>Der Schreiber ist unbekannt; ebenso weiß der Katalogbearbeiter nicht, ob der Schreiber selbst oder jemand anderer diese Ergänzungen und das Register gesammelt hat.</p>\n<p>Für die Datierung ist eine Stelle S. 22 wichtig: <strong>Du wirst sagen nach der neuesten Bulle Benedikts XIII. <em>Ex quo Divina</em> usw., veröffentlicht in Rom am 15. Juni 1725....</strong> Daher wurde die Sammlung wahrscheinlich nicht lange nach 1725 zusammengestellt.</p>",
+    "latin": "8° min.; 408 pagg.; teg. b1; script. paulo post 1725\n\n(Additiones ad quosdam tractatus theologicos)\n\na) Ad Tractatum Decimum: De Praeceptis Ecclesiae: p. 1–23\n\nb) Ad Tractatum Undecimum: De beneficiis Ecclesiasticis: p. 23–32\n\nc) Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis: p. 32–67\n\nd) Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis: p. 67–111\n\ne) Ad Tractatum Decimum quartum: De Sacramentis: p. 111–321\n\nf) Index continens novas Additiones: p. 323–406 (Qui index iuxta ordinem rerum alphabetice dispositus est.)\n\nScriptor ignotus; sed et utrum ipse scriptor an alius has additiones indicemque collegerit, nescio. Quo tempore collectio nostra composita sit, sequens locus p. 22 videtur indicare: „Dices juxta novissimam bullam Benedicti XIII. Ex quo Divina etc. Romae 15 Junii anno 1725 publicatam....“. Qua de causa codicillus noster probabiliter non multum post annum 1725 congestus est.",
+    "latinHtml": "<p>8° min.; 408 pagg.; teg. b1; script. paulo post 1725</p>\n<p>(Additiones ad quosdam tractatus theologicos)</p>\n<p>a) Ad Tractatum Decimum: De Praeceptis Ecclesiae: p. 1–23</p>\n<p>b) Ad Tractatum Undecimum: De beneficiis Ecclesiasticis: p. 23–32</p>\n<p>c) Ad Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis: p. 32–67</p>\n<p>d) Ad Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis: p. 67–111</p>\n<p>e) Ad Tractatum Decimum quartum: De Sacramentis: p. 111–321</p>\n<p>f) Index continens novas Additiones: p. 323–406 (Qui index iuxta ordinem rerum alphabetice dispositus est.)</p>\n<p>Scriptor ignotus; sed et utrum ipse scriptor an alius has additiones indicemque collegerit, nescio. Quo tempore collectio nostra composita sit, sequens locus p. 22 videtur indicare: „Dices juxta novissimam bullam Benedicti XIII. Ex quo Divina etc. Romae 15 Junii anno 1725 publicatam....“. Qua de causa codicillus noster probabiliter non multum post annum 1725 congestus est.</p>"
+  },
+  "source": {
+    "file": "MN III 34.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-34/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 34",
+    "titles": "Additiones ad quosdam tractatus theologicos \nAd Tractatum Decimum: De Praeceptis Ecclesiae \nAd Tractatum Undecimum: De beneficiis Ecclesiasticis \nAd Tractatum Duodecimum: De immunitate Ecclesiastica et indulgentiis \nAd Tractatum Decimum tertium: De Censuris, irregularitate et poenis Canonicis \nAd Tractatum Decimum quartum: De Sacramentis \nIndex continens novas Additiones",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nach Sachen alphabetisch geordnet.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+  }
+}

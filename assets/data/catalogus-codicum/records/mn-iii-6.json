@@ -1,0 +1,372 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-6",
+  "signature": "MN III 6",
+  "aliases": [
+    "Bibl. Cod. MN III 6",
+    "im Gesamt-MD irrtümlich: Bibl. Cod. MN II 6"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "119–120",
+  "heading": {
+    "title": "Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1690"
+  },
+  "date": {
+    "display": "um 1690",
+    "intervals": [
+      {
+        "from": 1690,
+        "to": 1690,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Verba consonantiora et magis propria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–52v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit Exzerpten aus Pontanus, Cicero, Curtius und weiteren poetischen und prosaischen Wendungen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Notata et proverbia ex variis libris collecta",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 53r–64v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Proverbia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 64v–71r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nach Eigennamen und Sachen alphabetisch geordnet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Varia alia proverbia et dicta exemplaria",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 71r–82v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Notata Ex Spiritualibus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 82v–94v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Das Wort „Notata“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Alia excerpta brevissima tam poetice quam soluta oratione scripta",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 109r–212v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Collectio nominum propriorum, quibus homines litterati veteres usi sunt",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 232r–235v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Collectio altera ad illustranda nomina propria usitatissima",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 236r–256v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Index alphabeticus rerum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 257r–268v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Synopsis Rhetorices",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 271r–281v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Nomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Innenseite des Rückdeckels",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 284 foll.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1690",
+        "intervals": [
+          {
+            "from": 1690,
+            "to": 1690,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Im korrigierten Gesamt-MD ist diese Signatur irrtümlich als 'Bibl. Cod. MN II 6' überschrieben. Der Katalogindex verweist jedoch ausdrücklich auf MN III 6; die Datei wird daher als MN III 6 geführt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 284 Blätter; Einband aus einem stark verschmutzten Pergamentfragment des 15. Jahrhunderts mit geistlicher Musik.\n\n**Philologische Exzerpte: grammatische, poetische, rhetorische, lexikographische und andere; sämtlich lateinisch, einige mit deutscher Übersetzung.**\n\na) **Klangvollere und passendere Wörter:** fol. 1r–52v; darunter Wörter berühmter Griechen, Exzerpte aus Jakob Pontanus SJ, *Progymnasmata Latinitatis*, aus Cicero sowie aus Quintus Curtius Rufus, *Historiae Alexandri Magni Macedonis*, Bücher X–III, ferner poetische und prosaische Wendungen.\n\nb) **Notizen und Sprichwörter aus verschiedenen Büchern gesammelt:** fol. 53r–64v, etwa aus einer „dritten Geschichte“, leichtere Notizen aus Cicero und Sprichwörter.\n\nc) **Sprichwörter**, alphabetisch nach Eigennamen und Sachen geordnet: fol. 64v–71r.\n\nd) **Verschiedene weitere Sprichwörter und beispielhafte Aussprüche**, etwa aus Cicero: fol. 71r–82v.\n\ne) **Notizen aus geistlichen Autoren:** fol. 82v–94v, darunter aus Nicetas, aus Marcus ... (?) und rhetorische Übungen.\n\nf) **Weitere sehr kurze poetische und prosaische Exzerpte:** fol. 109r–212v, unter anderem aus Balde, Ovids *Metamorphosen*, Bauhusius und Martial.\n\ng) **Sammlung von Eigennamen, die gelehrte Männer der Antike gebrauchten:** fol. 232r–235v.\n\nh) **Weitere Sammlung zur Erläuterung besonders gebräuchlicher Eigennamen**, etwa tapferer Männer, Historiker, Künstler, Schmeichler usw.: fol. 236r–256v.\n\ni) **Alphabetisches Sachregister:** fol. 257r–268v.\n\nj) **Synopsis der Rhetorik:** fol. 271r–281v.\n\nk) Auf der Innenseite des Rückdeckels stehen die Namen von Dichtern, die der Kompilator offenbar benutzte: Jarbivius (?), Claudian, Horaz, Vergil, P. Jakob Balde SJ († 1668), P. Hermann Hugo SJ († 1629), Ovid, P. Johannes Bissel SJ († 1662), Bernardus Bauhusius SJ († 1619), Jakob Bidermann SJ († 1639), Maximilianus (?).\n\nMit Ausnahme sehr weniger Blätter wurde der ganze Codex von derselben Hand geschrieben. Aus der Schrift erschließt der Katalogbearbeiter, nicht ohne Vorbehalt, eine Entstehung um 1690.",
+    "germanHtml": "<p>Kleines Oktavformat; 284 Blätter; Einband aus einem stark verschmutzten Pergamentfragment des 15. Jahrhunderts mit geistlicher Musik.</p>\n<p><strong>Philologische Exzerpte: grammatische, poetische, rhetorische, lexikographische und andere; sämtlich lateinisch, einige mit deutscher Übersetzung.</strong></p>\n<p>a) <strong>Klangvollere und passendere Wörter:</strong> fol. 1r–52v; darunter Wörter berühmter Griechen, Exzerpte aus Jakob Pontanus SJ, <em>Progymnasmata Latinitatis</em>, aus Cicero sowie aus Quintus Curtius Rufus, <em>Historiae Alexandri Magni Macedonis</em>, Bücher X–III, ferner poetische und prosaische Wendungen.</p>\n<p>b) <strong>Notizen und Sprichwörter aus verschiedenen Büchern gesammelt:</strong> fol. 53r–64v, etwa aus einer „dritten Geschichte“, leichtere Notizen aus Cicero und Sprichwörter.</p>\n<p>c) <strong>Sprichwörter</strong>, alphabetisch nach Eigennamen und Sachen geordnet: fol. 64v–71r.</p>\n<p>d) <strong>Verschiedene weitere Sprichwörter und beispielhafte Aussprüche</strong>, etwa aus Cicero: fol. 71r–82v.</p>\n<p>e) <strong>Notizen aus geistlichen Autoren:</strong> fol. 82v–94v, darunter aus Nicetas, aus Marcus ... (?) und rhetorische Übungen.</p>\n<p>f) <strong>Weitere sehr kurze poetische und prosaische Exzerpte:</strong> fol. 109r–212v, unter anderem aus Balde, Ovids <em>Metamorphosen</em>, Bauhusius und Martial.</p>\n<p>g) <strong>Sammlung von Eigennamen, die gelehrte Männer der Antike gebrauchten:</strong> fol. 232r–235v.</p>\n<p>h) <strong>Weitere Sammlung zur Erläuterung besonders gebräuchlicher Eigennamen</strong>, etwa tapferer Männer, Historiker, Künstler, Schmeichler usw.: fol. 236r–256v.</p>\n<p>i) <strong>Alphabetisches Sachregister:</strong> fol. 257r–268v.</p>\n<p>j) <strong>Synopsis der Rhetorik:</strong> fol. 271r–281v.</p>\n<p>k) Auf der Innenseite des Rückdeckels stehen die Namen von Dichtern, die der Kompilator offenbar benutzte: Jarbivius (?), Claudian, Horaz, Vergil, P. Jakob Balde SJ († 1668), P. Hermann Hugo SJ († 1629), Ovid, P. Johannes Bissel SJ († 1662), Bernardus Bauhusius SJ († 1619), Jakob Bidermann SJ († 1639), Maximilianus (?).</p>\n<p>Mit Ausnahme sehr weniger Blätter wurde der ganze Codex von derselben Hand geschrieben. Aus der Schrift erschließt der Katalogbearbeiter, nicht ohne Vorbehalt, eine Entstehung um 1690.</p>",
+    "latin": "8° min., 284 foll.; tegumentum: fragmentum folii membranacei saec. XV modis musicae sacrae inscripti sordidissimum\n\n(Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque), omnia Latina, nonnulla cum translatione Germanica)\n\na) Verba consonantiora et magis propria (virorum clarorum Graecorum: fol. 1 sequu.; Ex Pontano (= Pontanus Jacobus SJ, Progymnasmata Latinitatis, 4 Tomi, Ingolstadii 1589 sequu.) progymnasma tricesimum quartum: fol. 5v sequu.; Ex Cicerone: fol. 10v sequu.; Ex Curtio (= Quintus Curtius Rufus, Historiae Alexandri Magni Macedonis) Libro X–III fol. 14r–34r; dicta poetica et prosaica): fol. 1r–52v.\n\nb) Notata et proverbia ex variis libris collecta (ex. gr. Ex tertia Historia: fol. 55v sequu., Notata faciliora ex Cicerone: fol. 58r sequu.; Proverbia fol. 60r sequu.): fol. 53r–64v.\n\nc) Proverbia (iuxta nominum propriorum rerumque ordinem alphabeticum disposita): fol. 64v–71r.\n\nd) (Varia alia proverbia et dicta exemplaria, ex. gr. ex Cicerone: fol. 81v sequ.): fol. 71r–82v.\n\ne) (Notata) Ex Spiritualibus (Ex Niceta fol. 82v sequu.; Ex Marco....(?) fol. 85r sequ.; exercitia oratoria): fol. 82v–94v.\n\nf) (Alia excerpta brevissima tam poetice quam soluta oratione scripta, ex. gr. ex Balde: fol. 138v sequu.; Libro primo Fabulae ex Ovidio Metam., id est nomina deorum heroumque, de quibus tractant fabulae Metamorphoseon Ovidii poetae: fol. 170v; Ex Ovidio Metamorphosi: fol. 189 sequ.; Bauchusius fol. 195r sequ.; Ex Nono Martialis libro fol. 212v sequu.): fol. 109r–212v.\n\ng) (Collectio nominum propriorum, quibus homines litterati veteres usi sunt): fol. 232r–235v.\n\nh) (Collectio altera ad illustranda nomina propria usitatissima, ex. gr. hominum fortium, Historicorum, Artificum, Adulatorum...): fol. 236r–256v.\n\ni) (Index alphabeticus rerum): fol. 257r–268v.\n\nj) Synopsis Rhetorices: fol. 271r–281v.\n\nk) (Nomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus, scilicet): Jarbivius (?), Claudianus, Horatius, Virgilius, P. Balde (Jacobus SJ, + 1668), P. Hugo (Hermannus SJ, + 1629), Ovid: Metamorph: De Tristibus etc., P. Bissl (Bissel Johannes SJ, + 1662), Bauchusius (Bernardus Bauhusius SJ, + 1619), Bidermannus (Jacobus SJ, + 1639), Maximilianus (?). Perpaucis foliis exceptis totum codicem una eademque manus conscripsit. Non sine haesitatione e scriptura coniicio codicem nostrum circa annum 1690 ortum esse.",
+    "latinHtml": "<p>8° min., 284 foll.; tegumentum: fragmentum folii membranacei saec. XV modis musicae sacrae inscripti sordidissimum</p>\n<p>(Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque), omnia Latina, nonnulla cum translatione Germanica)</p>\n<p>a) Verba consonantiora et magis propria (virorum clarorum Graecorum: fol. 1 sequu.; Ex Pontano (= Pontanus Jacobus SJ, Progymnasmata Latinitatis, 4 Tomi, Ingolstadii 1589 sequu.) progymnasma tricesimum quartum: fol. 5v sequu.; Ex Cicerone: fol. 10v sequu.; Ex Curtio (= Quintus Curtius Rufus, Historiae Alexandri Magni Macedonis) Libro X–III fol. 14r–34r; dicta poetica et prosaica): fol. 1r–52v.</p>\n<p>b) Notata et proverbia ex variis libris collecta (ex. gr. Ex tertia Historia: fol. 55v sequu., Notata faciliora ex Cicerone: fol. 58r sequu.; Proverbia fol. 60r sequu.): fol. 53r–64v.</p>\n<p>c) Proverbia (iuxta nominum propriorum rerumque ordinem alphabeticum disposita): fol. 64v–71r.</p>\n<p>d) (Varia alia proverbia et dicta exemplaria, ex. gr. ex Cicerone: fol. 81v sequ.): fol. 71r–82v.</p>\n<p>e) (Notata) Ex Spiritualibus (Ex Niceta fol. 82v sequu.; Ex Marco....(?) fol. 85r sequ.; exercitia oratoria): fol. 82v–94v.</p>\n<p>f) (Alia excerpta brevissima tam poetice quam soluta oratione scripta, ex. gr. ex Balde: fol. 138v sequu.; Libro primo Fabulae ex Ovidio Metam., id est nomina deorum heroumque, de quibus tractant fabulae Metamorphoseon Ovidii poetae: fol. 170v; Ex Ovidio Metamorphosi: fol. 189 sequ.; Bauchusius fol. 195r sequ.; Ex Nono Martialis libro fol. 212v sequu.): fol. 109r–212v.</p>\n<p>g) (Collectio nominum propriorum, quibus homines litterati veteres usi sunt): fol. 232r–235v.</p>\n<p>h) (Collectio altera ad illustranda nomina propria usitatissima, ex. gr. hominum fortium, Historicorum, Artificum, Adulatorum...): fol. 236r–256v.</p>\n<p>i) (Index alphabeticus rerum): fol. 257r–268v.</p>\n<p>j) Synopsis Rhetorices: fol. 271r–281v.</p>\n<p>k) (Nomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus, scilicet): Jarbivius (?), Claudianus, Horatius, Virgilius, P. Balde (Jacobus SJ, + 1668), P. Hugo (Hermannus SJ, + 1629), Ovid: Metamorph: De Tristibus etc., P. Bissl (Bissel Johannes SJ, + 1662), Bauchusius (Bernardus Bauhusius SJ, + 1619), Bidermannus (Jacobus SJ, + 1639), Maximilianus (?). Perpaucis foliis exceptis totum codicem una eademque manus conscripsit. Non sine haesitatione e scriptura coniicio codicem nostrum circa annum 1690 ortum esse.</p>"
+  },
+  "source": {
+    "file": "MN III 6.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-6/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 6",
+    "titles": "Excerpta philologica: grammatica, poetica, rhetorica, lexicographica aliaque \nVerba consonantiora et magis propria \nNotata et proverbia ex variis libris collecta \nProverbia \nVaria alia proverbia et dicta exemplaria \nNotata Ex Spiritualibus \nAlia excerpta brevissima tam poetice quam soluta oratione scripta \nCollectio nominum propriorum, quibus homines litterati veteres usi sunt \nCollectio altera ad illustranda nomina propria usitatissima \nIndex alphabeticus rerum \nSynopsis Rhetorices \nNomina Poetarum, quibus usus esse videtur compilator codicis nostri in parte aversa tegumenti ab intrinsecus",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Mit Exzerpten aus Pontanus, Cicero, Curtius und weiteren poetischen und prosaischen Wendungen. \nNach Eigennamen und Sachen alphabetisch geordnet. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDas Wort „Notata“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nIm korrigierten Gesamt-MD ist diese Signatur irrtümlich als 'Bibl. Cod. MN II 6' überschrieben. Der Katalogindex verweist jedoch ausdrücklich auf MN III 6; die Datei wird daher als MN III 6 geführt.",
+    "physical": "Papier \n8° min., 284 foll. \nKleines Oktavformat \ndescription: Pergament- bzw. Makulatureinband; genaue Beschreibung siehe Katalogtext."
+  }
+}

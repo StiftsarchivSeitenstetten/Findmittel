@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-306",
+  "signature": "MN II 306",
+  "aliases": [
+    "Bibl. Cod. MN II 306"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "266",
+  "heading": {
+    "title": "Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "zwischen 1784 und 1795"
+  },
+  "date": {
+    "display": "zwischen 1784 und 1795",
+    "intervals": [
+      {
+        "from": 1784,
+        "to": 1795,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–104",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Beschreibt 94 bis 1500 gedruckte und bis 1784 in Ardagger aufbewahrte Bücher."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Wolfgang Mitter",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "104 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "zwischen 1784 und 1795",
+        "intervals": [
+          {
+            "from": 1784,
+            "to": 1795,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "104 Seiten; dünner Papierumschlag mit farbig gedruckten Verzierungen.\n\n**Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden.**\n\nWahrscheinlich stellte auch diesen Codex **P. Wolfgang Mitter** zusammen. Obwohl er deutsch geschrieben ist, behandelt der Verfasser ebenso genau und ausführlich jene 94 Bücher, die bis zum Jahr 1500 gedruckt und bis 1784 im Chorherrenstift Ardagger aufbewahrt worden waren, wie derselbe Seitenstettner Mönch in den drei vorausgehenden Codices.\n\nDaher scheint auch MN II 306 zwischen 1784 und 1795 entstanden zu sein. Da unser Codex jedoch außerordentlich sorgfältig geschrieben ist, kann P. Wolfgang Mitter kaum der Schreiber gewesen sein, denn seine Schrift ist wesentlich weniger geordnet.\n\nEin weiteres Exemplar dieses Codex wird im Schrank **L II 2** der Seitenstettner Bibliothek aufbewahrt. Es ist nicht von derselben Hand geschrieben, vielleicht aber von P. Wolfgang Mitter selbst, sodass MN II 306 die korrigierte Fassung jenes im Schrank L II 2 verwahrten Codex sein könnte.\n\n> **Anmerkung zum Seitenbild:** Bei 1500 und 1784 sind handschriftliche Korrekturzeichen vorhanden; die Grundlesung des Maschinentextes ist beibehalten.",
+    "germanHtml": "<p>104 Seiten; dünner Papierumschlag mit farbig gedruckten Verzierungen.</p>\n<p><strong>Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden.</strong></p>\n<p>Wahrscheinlich stellte auch diesen Codex <strong>P. Wolfgang Mitter</strong> zusammen. Obwohl er deutsch geschrieben ist, behandelt der Verfasser ebenso genau und ausführlich jene 94 Bücher, die bis zum Jahr 1500 gedruckt und bis 1784 im Chorherrenstift Ardagger aufbewahrt worden waren, wie derselbe Seitenstettner Mönch in den drei vorausgehenden Codices.</p>\n<p>Daher scheint auch MN II 306 zwischen 1784 und 1795 entstanden zu sein. Da unser Codex jedoch außerordentlich sorgfältig geschrieben ist, kann P. Wolfgang Mitter kaum der Schreiber gewesen sein, denn seine Schrift ist wesentlich weniger geordnet.</p>\n<p>Ein weiteres Exemplar dieses Codex wird im Schrank <strong>L II 2</strong> der Seitenstettner Bibliothek aufbewahrt. Es ist nicht von derselben Hand geschrieben, vielleicht aber von P. Wolfgang Mitter selbst, sodass MN II 306 die korrigierte Fassung jenes im Schrank L II 2 verwahrten Codex sein könnte.</p>\n<blockquote><p><strong>Anmerkung zum Seitenbild:</strong> Bei 1500 und 1784 sind handschriftliche Korrekturzeichen vorhanden; die Grundlesung des Maschinentextes ist beibehalten.</p></blockquote>",
+    "latin": "104 pagg.; teg. tenue folium ornamentis coloratis impressum\n\n**Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden.**\n\nProbabiliter hunc quoque codicem **P. Wolfgangus Mitter** composuit, nam etsi in lingua Germanica, tamen non minus accurate et copiose illos XCIV (94) libros usque ad annum 1500 prelo impressos et usque ad annum 1784 in canonia Ardagger adservatos pertractat auctor codicis nostri quam ille monachus Seitenstettensis in tribus codicibus praecedentibus. Qua de causa etiam codex MN II 306 inter annos 1784 et 1795 videtur ortus esse. Sed cum codex noster quam diligentissime scriptus sit, ille P. Wolfgangus Mitter vix potest esse scriptor, quippe qui multo minus ordinate scripserit.\n\nAlterum exemplar huius codicis adservatur in scrinio **L II 2** bibliothecae Seitenstettensis, sed non ab eodem scriptum, sed forsitan ab ipso P. Wolfgango Mitter, ita ut codex noster MN II 306 correctum sit illius codicis, qui in scrinio L II 2 adservatur.\n\n> **Anmerkung zum Seitenbild:** Bei 1500 und 1784 sind handschriftliche Korrekturzeichen vorhanden; die Grundlesung des Maschinentextes ist beibehalten.",
+    "latinHtml": "<p>104 pagg.; teg. tenue folium ornamentis coloratis impressum</p>\n<p><strong>Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden.</strong></p>\n<p>Probabiliter hunc quoque codicem <strong>P. Wolfgangus Mitter</strong> composuit, nam etsi in lingua Germanica, tamen non minus accurate et copiose illos XCIV (94) libros usque ad annum 1500 prelo impressos et usque ad annum 1784 in canonia Ardagger adservatos pertractat auctor codicis nostri quam ille monachus Seitenstettensis in tribus codicibus praecedentibus. Qua de causa etiam codex MN II 306 inter annos 1784 et 1795 videtur ortus esse. Sed cum codex noster quam diligentissime scriptus sit, ille P. Wolfgangus Mitter vix potest esse scriptor, quippe qui multo minus ordinate scripserit.</p>\n<p>Alterum exemplar huius codicis adservatur in scrinio <strong>L II 2</strong> bibliothecae Seitenstettensis, sed non ab eodem scriptum, sed forsitan ab ipso P. Wolfgango Mitter, ita ut codex noster MN II 306 correctum sit illius codicis, qui in scrinio L II 2 adservatur.</p>\n<blockquote><p><strong>Anmerkung zum Seitenbild:</strong> Bei 1500 und 1784 sind handschriftliche Korrekturzeichen vorhanden; die Grundlesung des Maschinentextes ist beibehalten.</p></blockquote>"
+  },
+  "source": {
+    "file": "MN II 306.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-306/",
+  "relations": [
+    {
+      "typeRaw": "other_copy",
+      "typeLabel": "other copy",
+      "targetRaw": "L II 2",
+      "targetId": null,
+      "targetSignature": "L II 2",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "MN II 306 könnte die korrigierte Fassung des Exemplars L II 2 sein."
+    }
+  ],
+  "search": {
+    "signature": "MN II 306",
+    "titles": "Uiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden \nUiberreste typographischer Alterthümer die sich in dem vormaligen Kollegiatstifte Ardacker erhalten, itzt aber von Ambrosio III. Abte zu Seitenstetten dem Büchersaale seines Stiftes einverleibet wurden",
+    "persons": "P. Wolfgang Mitter Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Beschreibt 94 bis 1500 gedruckte und bis 1784 in Ardagger aufbewahrte Bücher.",
+    "physical": "Papier \n104 pagg. \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

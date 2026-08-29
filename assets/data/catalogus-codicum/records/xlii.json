@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "xlii",
+  "signature": "XLII",
+  "aliases": [
+    "Bibl. Cod. XLII"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "247",
+  "heading": {
+    "title": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1768"
+  },
+  "date": {
+    "display": "1768",
+    "intervals": [
+      {
+        "from": 1768,
+        "to": 1768,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Joannes Wilhelmus Liber Baro de Knorr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Konvent von Seitenstetten",
+      "roleRaw": "donor",
+      "roleLabel": "Schenker",
+      "scope": "manuscript",
+      "date": "1768"
+    },
+    {
+      "name": "Konvent von Seitenstetten",
+      "roleRaw": "dedicator",
+      "roleLabel": "Widmender",
+      "scope": "manuscript",
+      "date": "1768"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "7 tomi circiter 100–200 foliorum",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1768",
+        "intervals": [
+          {
+            "from": 1768,
+            "to": 1768,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; sieben Bände zu jeweils ungefähr 100–200 Blättern; lederner Einband von rehbrauner oder brauner Farbe, der Rücken mit eingeprägten und vergoldeten Blümchen verziert; geschrieben 1768.\n\n**Anmerkungen des hochberühmten Herrn Johann Wilhelm Freiherrn von Knorr, Hofrat Kaiser Karls VI., in denen die giftigen Lehrsätze und Verleumdungen Samuel Pufendorfs, des berühmten lutherischen Schriftstellers, gegen Kirche und Reich getadelt und berichtigt werden. Werk in sieben Bände geteilt.**\n\nDie Seitenstettner Konventualen schenkten und widmeten dieses Werk 1768 ihrem Abt Dominicus Gusman zum Namenstag.\n\nWer das Werk abschrieb, ist unbekannt.\n\nWeitere Angaben im alten Handschriftenkatalog, Bd. I, S. 75–76.",
+    "germanHtml": "<p>Folioformat; sieben Bände zu jeweils ungefähr 100–200 Blättern; lederner Einband von rehbrauner oder brauner Farbe, der Rücken mit eingeprägten und vergoldeten Blümchen verziert; geschrieben 1768.</p>\n<p><strong>Anmerkungen des hochberühmten Herrn Johann Wilhelm Freiherrn von Knorr, Hofrat Kaiser Karls VI., in denen die giftigen Lehrsätze und Verleumdungen Samuel Pufendorfs, des berühmten lutherischen Schriftstellers, gegen Kirche und Reich getadelt und berichtigt werden. Werk in sieben Bände geteilt.</strong></p>\n<p>Die Seitenstettner Konventualen schenkten und widmeten dieses Werk 1768 ihrem Abt Dominicus Gusman zum Namenstag.</p>\n<p>Wer das Werk abschrieb, ist unbekannt.</p>\n<p>Weitere Angaben im alten Handschriftenkatalog, Bd. I, S. 75–76.</p>",
+    "latin": "fol.; 7 tomi circiter 100–200 foliorum; teg. b1 (dorsum flosculis impressis et inauratis decoratum); script. 1768\n\n**Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.**\n\nHoc opus Conventuales Seitenstettenses anno 1768 abbati suo Dominico Gusman ad diem onomasticum dono dederunt dedicaveruntque.\n\nNescimus autem, a quo opus illud scriptum sit.\n\nCetera de hoc opere vide in vetere Catalogo Manuscriptorum, Tom. I, p. 75–76!",
+    "latinHtml": "<p>fol.; 7 tomi circiter 100–200 foliorum; teg. b1 (dorsum flosculis impressis et inauratis decoratum); script. 1768</p>\n<p><strong>Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.</strong></p>\n<p>Hoc opus Conventuales Seitenstettenses anno 1768 abbati suo Dominico Gusman ad diem onomasticum dono dederunt dedicaveruntque.</p>\n<p>Nescimus autem, a quo opus illud scriptum sit.</p>\n<p>Cetera de hoc opere vide in vetere Catalogo Manuscriptorum, Tom. I, p. 75–76!</p>"
+  },
+  "source": {
+    "file": "XLII.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/xlii/",
+  "relations": [],
+  "search": {
+    "signature": "XLII",
+    "titles": "Annotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum. \nAnnotationes Perillustris Domini Domini Joannis Wilhelmi Liberi Baronis De Knorr. Augustissimo Carolo VI Imperatori a Consiliis Aulicis. Quibus Samuelis Puffendorfii Famosi Scriptoris Lutherani in Ecclesiam et Imperium venenata dogmata, et Calumniae Castigantur, Emendantur. Opus in Volumina VII Distributum.",
+    "persons": "Joannes Wilhelmus Liber Baro de Knorr Autor author \nunbekannt Schreiber scribe \nKonvent von Seitenstetten Schenker donor \nKonvent von Seitenstetten Widmender dedicator",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n7 tomi circiter 100–200 foliorum \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+  }
+}

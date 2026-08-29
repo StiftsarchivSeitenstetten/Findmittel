@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-26",
+  "signature": "MN III 26",
+  "aliases": [
+    "Bibl. Cod. MN III 26"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "187",
+  "heading": {
+    "title": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1711"
+  },
+  "date": {
+    "display": "1711",
+    "intervals": [
+      {
+        "from": 1711,
+        "to": 1711,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–123",
+      "language": "",
+      "incipit": {
+        "text": "Si turpè est Patritio, et Nobili, et causas oranti..."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Syllabus Quaestionum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 124–125",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Sebastian Hochenperger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1711",
+        "intervals": [
+          {
+            "from": 1711,
+            "to": 1711,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 128 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1711.\n\n**Büchlein über die Profess oder Erklärung der benediktinischen Professformel, abgeschrieben von Fr. Sebastian Hochenperger, Novize von Garsten, im Jahr 1711:** S. 3–123; anschließend **Verzeichnis der Fragen:** S. 124–125.\n\nAnfang der kleinen Vorrede zur Erklärung der benediktinischen Professformel S. 4: Wenn es für einen Patrizier und Adeligen, der Rechtssachen vertritt, schimpflich ist......\n\nKaum zu glauben ist, dass Fr. Sebastian Hochenperger als Schreiber auch selbst die Fragen dieses asketischen Codex erfunden und zusammengestellt hat. Der Verfasser scheint daher unbekannt zu sein.\n\nS. 6–7 fügte der Schreiber seine eigene Professformel ein. Darin bezeichnet er sich als Österreicher aus Lorch bei Enns und erklärt, im Kloster Garsten am 5. Oktober 1711 seine Gelübde ablegen zu wollen.\n\nSchluss S. 125: **Geschrieben von Fr. Sebastian Hochenperger, derzeit Novize in Garsten, im Jahr 1711.**",
+    "germanHtml": "<p>Kleines Oktavformat; 128 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1711.</p>\n<p><strong>Büchlein über die Profess oder Erklärung der benediktinischen Professformel, abgeschrieben von Fr. Sebastian Hochenperger, Novize von Garsten, im Jahr 1711:</strong> S. 3–123; anschließend <strong>Verzeichnis der Fragen:</strong> S. 124–125.</p>\n<p>Anfang der kleinen Vorrede zur Erklärung der benediktinischen Professformel S. 4: Wenn es für einen Patrizier und Adeligen, der Rechtssachen vertritt, schimpflich ist......</p>\n<p>Kaum zu glauben ist, dass Fr. Sebastian Hochenperger als Schreiber auch selbst die Fragen dieses asketischen Codex erfunden und zusammengestellt hat. Der Verfasser scheint daher unbekannt zu sein.</p>\n<p>S. 6–7 fügte der Schreiber seine eigene Professformel ein. Darin bezeichnet er sich als Österreicher aus Lorch bei Enns und erklärt, im Kloster Garsten am 5. Oktober 1711 seine Gelübde ablegen zu wollen.</p>\n<p>Schluss S. 125: <strong>Geschrieben von Fr. Sebastian Hochenperger, derzeit Novize in Garsten, im Jahr 1711.</strong></p>",
+    "latin": "8° min.; 128 pagg.; teg. a1; script. 1711\n\nLibellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711: p. 3–123 et Syllabus Quaestionum: p. 124–125\n\nInitium Praefatiunculae in explicationem formulae Professionis Benedictinae p. 4: Si turpè est Patritio, et Nobili, et causas oranti...\n\nVix credendum est scriptorem F. Sebastianum Hochenperger etiam invenisse et composuisse quaestiones codicis nostri ascetici. Qua de re auctor videtur ignotus esse.\n\np. 6–7 suam ipsius formulam professionis scriptor inseruit. qua in formula Laureacensem Austriacum (id est e vico Lorch prope oppidum Enns) se esse confitetur et in monasterio Garstensi anno 1711 Die 5 Octobris vota se emissurum esse.\n\nClausula p. 125: Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).",
+    "latinHtml": "<p>8° min.; 128 pagg.; teg. a1; script. 1711</p>\n<p>Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711: p. 3–123 et Syllabus Quaestionum: p. 124–125</p>\n<p>Initium Praefatiunculae in explicationem formulae Professionis Benedictinae p. 4: Si turpè est Patritio, et Nobili, et causas oranti...</p>\n<p>Vix credendum est scriptorem F. Sebastianum Hochenperger etiam invenisse et composuisse quaestiones codicis nostri ascetici. Qua de re auctor videtur ignotus esse.</p>\n<p>p. 6–7 suam ipsius formulam professionis scriptor inseruit. qua in formula Laureacensem Austriacum (id est e vico Lorch prope oppidum Enns) se esse confitetur et in monasterio Garstensi anno 1711 Die 5 Octobris vota se emissurum esse.</p>\n<p>Clausula p. 125: Scripsit F Sebastianus Hochenperger pro tempore Novitius Garstensis Anno MDCCXI (1711).</p>"
+  },
+  "source": {
+    "file": "MN III 26.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-26/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 26",
+    "titles": "Libellus Professionis sive Explicatio formulae Professionis Benedictinae Descriptus a F. Sebastiano Hochenperger Novitio Gerstensi Anno 1711 \nLibellus Professionis sive Explicatio formulae Professionis Benedictinae \nSyllabus Quaestionum",
+    "persons": "Fr. Sebastian Hochenperger Schreiber scribe \nunbekannt Autor author",
+    "incipits": "Si turpè est Patritio, et Nobili, et causas oranti...",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

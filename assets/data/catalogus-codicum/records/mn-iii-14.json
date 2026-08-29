@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-14",
+  "signature": "MN III 14",
+  "aliases": [
+    "Bibl. Cod. MN III 14"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "165",
+  "heading": {
+    "title": "Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1699"
+  },
+  "date": {
+    "display": "1699",
+    "intervals": [
+      {
+        "from": 1699,
+        "to": 1699,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–250",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "27./29. Mai 1699"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Nota Aliquae Distinctiones",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 251–256",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Coelestinus Romoser de Romoseck",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., teg. a1",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1699",
+        "intervals": [
+          {
+            "from": 1699,
+            "to": 1699,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1699; 262 Seiten.\n\na) **Kompendium aus der Logik des hochwürdigen und hochgelehrten P. Coelestin:** S. 3–250. Zwischen S. 4 und 5 scheint ein Blatt mit dem Anfang zu fehlen.\n\nSchluss S. 250: **Diese Logik wurde vom hochgelehrten P. Coelestin am 27. Mai 1699 nach dem Mittagessen, am Vorabend von Christi Himmelfahrt, vollendet und von mir am 29. Mai.**\n\nDer Schreiber zog also die Vorlesungen zusammen, die P. Coelestinus Romoser von Romoseck, Profess von Admont, im Studienjahr 1698/99 in Salzburg hielt. Der Schreiber selbst ist unbekannt.\n\nb) **Notiz: Einige Unterscheidungen:** S. 251–256.\n\nDerselbe Schreiber schrieb auch den folgenden Codex.",
+    "germanHtml": "<p>Kleines Oktavformat; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1699; 262 Seiten.</p>\n<p>a) <strong>Kompendium aus der Logik des hochwürdigen und hochgelehrten P. Coelestin:</strong> S. 3–250. Zwischen S. 4 und 5 scheint ein Blatt mit dem Anfang zu fehlen.</p>\n<p>Schluss S. 250: <strong>Diese Logik wurde vom hochgelehrten P. Coelestin am 27. Mai 1699 nach dem Mittagessen, am Vorabend von Christi Himmelfahrt, vollendet und von mir am 29. Mai.</strong></p>\n<p>Der Schreiber zog also die Vorlesungen zusammen, die P. Coelestinus Romoser von Romoseck, Profess von Admont, im Studienjahr 1698/99 in Salzburg hielt. Der Schreiber selbst ist unbekannt.</p>\n<p>b) <strong>Notiz: Einige Unterscheidungen:</strong> S. 251–256.</p>\n<p>Derselbe Schreiber schrieb auch den folgenden Codex.</p>",
+    "latin": "8° min., teg. a1; script. 1699; 262 pagg.\n\na) Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini: p. 3–250. Inter p. 4 et 5 videtur folium cum initio deesse. Clausula p. 250: Absoluta est haec Logica a Clarissimo P. Coelestino 1699 27 Maii postprandium in vigilia Ascensionis et a me 29 Maii. Contraxit igitur scriptor noster lectiones, quas in anno scholari 1698/99 P. Coelestinus Romoser de Romoseck professus Admontensis Salisburgi habuit. Ipsum autem scriptorem nescimus.\n\nb) Nota Aliquae Distinctiones: p. 251–256.  \nIdem scriptor codicem sequentem exaravit.",
+    "latinHtml": "<p>8° min., teg. a1; script. 1699; 262 pagg.</p>\n<p>a) Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini: p. 3–250. Inter p. 4 et 5 videtur folium cum initio deesse. Clausula p. 250: Absoluta est haec Logica a Clarissimo P. Coelestino 1699 27 Maii postprandium in vigilia Ascensionis et a me 29 Maii. Contraxit igitur scriptor noster lectiones, quas in anno scholari 1698/99 P. Coelestinus Romoser de Romoseck professus Admontensis Salisburgi habuit. Ipsum autem scriptorem nescimus.</p>\n<p>b) Nota Aliquae Distinctiones: p. 251–256. Idem scriptor codicem sequentem exaravit.</p>"
+  },
+  "source": {
+    "file": "MN III 14.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-14/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "[[MN III 15]]",
+      "targetId": "mn-iii-15",
+      "targetSignature": "MN III 15",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 14",
+    "titles": "Compendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini \nCompendium ex Logica Plurimum Reverendi ac Clarissimi P. Coelestini \nNota Aliquae Distinctiones",
+    "persons": "P. Coelestinus Romoser de Romoseck Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min., teg. a1 \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

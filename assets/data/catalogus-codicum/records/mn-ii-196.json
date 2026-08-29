@@ -1,0 +1,183 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-196",
+  "signature": "MN II 196",
+  "aliases": [
+    "Bibl. Cod. MN II 196"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "146",
+  "heading": {
+    "title": "Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1695–1696"
+  },
+  "date": {
+    "display": "1695–1696",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1696,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–172",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Gegenüber MN II 197 ist nach der dortigen Schlussformel auf S. 169–172 ein Zusatz enthalten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Logica Aristotelico Thomistica per usitatas hoc tempore Quaestiones exposita",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–504 (=173–676)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "dated_clausulae",
+          "display": "Schluss der ersten Disputation; Samstag am verlegten Fest des hl. Paulus Eremita."
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "172 + 506 = 678 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1695–1696",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1696,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "172 + 506 = 678 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1695–1696.\n\na) **Summulae oder Einführung in die aristotelische Logik nach der Lehre des hl. Thomas von Aquin:** S. 1–172. Anfang S. 1: Unter dem Schutz Gottes, des dreifach Besten und Größten, und mit Hilfe der unbefleckten Jungfrau Maria.....\n\nb) **Aristotelisch-thomistische Logik, dargestellt nach den heute üblichen Fragen:** S. 1–504 (=173–676). Anfang der Vorrede S. 173: Was bisher gesagt wurde, kann nicht unpassend genannt werden..... Schluss S. 313: **Wir beendeten [dies] am 28. Januar, einem Samstag vor der Non, am verlegten Fest des Einsiedlers.**\n\nDenselben Schluss findet man in MN II 197, der am Ende der größeren Logik auch das Jahr 1696 nennt. Tatsächlich fiel der 28. Januar 1696 auf einen Samstag. MN II 197 enthält nicht nur dieselbe größere, sondern auch dieselbe kleinere Logik, lediglich etwa drei Seiten kürzer.\n\nEs besteht daher kein vernünftiger Zweifel, dass beide Codices dieselben Vorlesungen wiedergeben. Verfasser und Schreiber unseres Codex sind unbekannt.",
+    "germanHtml": "<p>172 + 506 = 678 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1695–1696.</p>\n<p>a) <strong>Summulae oder Einführung in die aristotelische Logik nach der Lehre des hl. Thomas von Aquin:</strong> S. 1–172. Anfang S. 1: Unter dem Schutz Gottes, des dreifach Besten und Größten, und mit Hilfe der unbefleckten Jungfrau Maria.....</p>\n<p>b) <strong>Aristotelisch-thomistische Logik, dargestellt nach den heute üblichen Fragen:</strong> S. 1–504 (=173–676). Anfang der Vorrede S. 173: Was bisher gesagt wurde, kann nicht unpassend genannt werden..... Schluss S. 313: <strong>Wir beendeten [dies] am 28. Januar, einem Samstag vor der Non, am verlegten Fest des Einsiedlers.</strong></p>\n<p>Denselben Schluss findet man in MN II 197, der am Ende der größeren Logik auch das Jahr 1696 nennt. Tatsächlich fiel der 28. Januar 1696 auf einen Samstag. MN II 197 enthält nicht nur dieselbe größere, sondern auch dieselbe kleinere Logik, lediglich etwa drei Seiten kürzer.</p>\n<p>Es besteht daher kein vernünftiger Zweifel, dass beide Codices dieselben Vorlesungen wiedergeben. Verfasser und Schreiber unseres Codex sind unbekannt.</p>",
+    "latin": "172 + 506 = 678 pagg.; teg. a1; script. 1695–1696\n\na) Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis: p. 1–172. Initium p. 1: Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata.....\n\nb) Logica Aristotelico Thomistica per usitatas hoc tempore Quaestiones exposita: p. 1–504 (= 173–676). Initium Proemii p. 1 (= 173): Quae hucusque dicta sunt non incongrue appellari possunt..... Clausula p. 141 (= 313): Finivimus 28 Januarii die Sabbathi ante nonam in festo translato Eremitae. Eandem clausulam reperies in proximo codice MN II 197, qui in fine logicae maioris etiam numerum anni 1696 perhibet. Et re vera 28. Januarii anno 1696 erat dies Sabbati. Codex MN II 197 non solum eandem logicam maiorem, sed etiam eandem minorem praebet, quam codex noster, sed tribus circiter paginis breviorem. Addidit enim codex noster ad clausulam „....dicta sufficiant“ supplementum quoddam: p. 169–172. Nihilominus non est rationabile dubium, quin codex MN II 197 easdem lectiones contineat atque codex noster. Attamen auctor ignotus. Immo codicis nostri neque scriptorem novimus.",
+    "latinHtml": "<p>172 + 506 = 678 pagg.; teg. a1; script. 1695–1696</p>\n<p>a) Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis: p. 1–172. Initium p. 1: Auspice Deo ter optimo Maximo adiuvantibus Virgine Maria Immaculata.....</p>\n<p>b) Logica Aristotelico Thomistica per usitatas hoc tempore Quaestiones exposita: p. 1–504 (= 173–676). Initium Proemii p. 1 (= 173): Quae hucusque dicta sunt non incongrue appellari possunt..... Clausula p. 141 (= 313): Finivimus 28 Januarii die Sabbathi ante nonam in festo translato Eremitae. Eandem clausulam reperies in proximo codice MN II 197, qui in fine logicae maioris etiam numerum anni 1696 perhibet. Et re vera 28. Januarii anno 1696 erat dies Sabbati. Codex MN II 197 non solum eandem logicam maiorem, sed etiam eandem minorem praebet, quam codex noster, sed tribus circiter paginis breviorem. Addidit enim codex noster ad clausulam „....dicta sufficiant“ supplementum quoddam: p. 169–172. Nihilominus non est rationabile dubium, quin codex MN II 197 easdem lectiones contineat atque codex noster. Attamen auctor ignotus. Immo codicis nostri neque scriptorem novimus.</p>"
+  },
+  "source": {
+    "file": "MN II 196.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-196/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 197]]",
+      "targetId": "mn-ii-197",
+      "targetSignature": "MN II 197",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 196",
+    "titles": "Summulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis \nSummulae sive introductio ad Logicam Aristotelicam iuxta mentem S. Thomae Aquinatis \nLogica Aristotelico Thomistica per usitatas hoc tempore Quaestiones exposita",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Gegenüber MN II 197 ist nach der dortigen Schlussformel auf S. 169–172 ein Zusatz enthalten.",
+    "physical": "Papier \n172 + 506 = 678 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-21",
+  "signature": "MN III 21",
+  "aliases": [
+    "Bibl. Cod. MN III 21"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "171–172",
+  "heading": {
+    "title": "Institutionum Imperialium Libri 4",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1703"
+  },
+  "date": {
+    "display": "um 1703",
+    "intervals": [
+      {
+        "from": 1703,
+        "to": 1703,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Institutionum Imperialium Libri 4",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 3–202",
+      "language": "",
+      "incipit": {
+        "text": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Liber 2. Decretalium Gregorii 9",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 207–301",
+      "language": "",
+      "incipit": {
+        "text": "Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 304 pagg.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1703",
+        "intervals": [
+          {
+            "from": 1703,
+            "to": 1703,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 304 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.\n\na) **Die vier Bücher der kaiserlichen Institutionen:** S. 3–202. Anfang des ersten Titels des ersten Buches: Rechtswissenschaft ist die wissenschaftliche Kenntnis der göttlichen und menschlichen Dinge, des Gerechten und Ungerechten......\n\nb) **Zweites Buch der Dekretalen Gregors IX.:** S. 207–301. Anfang des ersten Titels **Über die Gerichte:** Ein Gericht ist die rechtmäßige Erörterung einer Streitsache zwischen Kläger und Beklagtem vor dem zuständigen Richter....\n\nKaum zu bezweifeln ist, dass auch dieser Codex von derselben Hand wie die beiden vorausgehenden geschrieben wurde. Wahrscheinlich ist daher P. Joannes Rigele der Schreiber.\n\nUnbekannt bleibt jedoch, wessen Vorlesungen er hier zusammenzog. Möglicherweise ist Teil a ein Kompendium von MN II 218 und Teil b ein Kompendium des zweiten Buches von MN III 19; sicher ist dies nicht. Die Verfasser jener Vorlagen sind ebenfalls unbekannt.\n\nWegen Schrift und Einband, die dem vorausgehenden Codex sehr ähnlich sind, datiert der Katalogbearbeiter auch diesen Codex um 1703.",
+    "germanHtml": "<p>Kleines Oktavformat; 304 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1703.</p>\n<p>a) <strong>Die vier Bücher der kaiserlichen Institutionen:</strong> S. 3–202. Anfang des ersten Titels des ersten Buches: Rechtswissenschaft ist die wissenschaftliche Kenntnis der göttlichen und menschlichen Dinge, des Gerechten und Ungerechten......</p>\n<p>b) <strong>Zweites Buch der Dekretalen Gregors IX.:</strong> S. 207–301. Anfang des ersten Titels <strong>Über die Gerichte:</strong> Ein Gericht ist die rechtmäßige Erörterung einer Streitsache zwischen Kläger und Beklagtem vor dem zuständigen Richter....</p>\n<p>Kaum zu bezweifeln ist, dass auch dieser Codex von derselben Hand wie die beiden vorausgehenden geschrieben wurde. Wahrscheinlich ist daher P. Joannes Rigele der Schreiber.</p>\n<p>Unbekannt bleibt jedoch, wessen Vorlesungen er hier zusammenzog. Möglicherweise ist Teil a ein Kompendium von MN II 218 und Teil b ein Kompendium des zweiten Buches von MN III 19; sicher ist dies nicht. Die Verfasser jener Vorlagen sind ebenfalls unbekannt.</p>\n<p>Wegen Schrift und Einband, die dem vorausgehenden Codex sehr ähnlich sind, datiert der Katalogbearbeiter auch diesen Codex um 1703.</p>",
+    "latin": "8° min., 304 pagg.; teg. a2; script. ca. 1703\n\na) (Institutionum Imperialium Libri 4): p. 3–202. Initium Tituli 1. Libri 1: Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......\n\nb) Liber 2. Decretalium Gregorii 9: p. 207–301. Initium Tituli 1. De Judiciis: Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....\n\nVix dubitare poteris, quin etiam codex noster ab eodem scriptus sit atque duo praecedentes. Igitur probabiliter scriptor est P. Joannes Rigele. Sed quorum professorum lectiones in hoc codice contraxerit, nescio, nam etsi forsitan pars a codicis nostri compendium sit codicis MN II 218 (supra p. 170!) et pars b compendium libri alterius codicis MN III 19 (ibidem!), quod omnino non est certum, iam in pagina praecedente utriusque codicis auctorem nescire nos confessi sumus.\n\nPropter scripturam et tegumentum utpote codici praecedenti simillima hunc quoque codicem circa annum 1703 scriptum esse puto.",
+    "latinHtml": "<p>8° min., 304 pagg.; teg. a2; script. ca. 1703</p>\n<p>a) (Institutionum Imperialium Libri 4): p. 3–202. Initium Tituli 1. Libri 1: Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica......</p>\n<p>b) Liber 2. Decretalium Gregorii 9: p. 207–301. Initium Tituli 1. De Judiciis: Judicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....</p>\n<p>Vix dubitare poteris, quin etiam codex noster ab eodem scriptus sit atque duo praecedentes. Igitur probabiliter scriptor est P. Joannes Rigele. Sed quorum professorum lectiones in hoc codice contraxerit, nescio, nam etsi forsitan pars a codicis nostri compendium sit codicis MN II 218 (supra p. 170!) et pars b compendium libri alterius codicis MN III 19 (ibidem!), quod omnino non est certum, iam in pagina praecedente utriusque codicis auctorem nescire nos confessi sumus.</p>\n<p>Propter scripturam et tegumentum utpote codici praecedenti simillima hunc quoque codicem circa annum 1703 scriptum esse puto.</p>"
+  },
+  "source": {
+    "file": "MN III 21.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-21/",
+  "relations": [
+    {
+      "typeRaw": "possible_parallel",
+      "typeLabel": "possible parallel",
+      "targetRaw": "[[MN II 218]]",
+      "targetId": "mn-ii-218",
+      "targetSignature": "MN II 218",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "possible_parallel",
+      "typeLabel": "possible parallel",
+      "targetRaw": "[[MN III 19]]",
+      "targetId": "mn-iii-19",
+      "targetSignature": "MN III 19",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 21",
+    "titles": "Institutionum Imperialium Libri 4 \nInstitutionum Imperialium Libri 4 \nLiber 2. Decretalium Gregorii 9",
+    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "Jurisprudentia est divinarum ac humanarum rerum notitia iusti ac iniusti scientifica...... \nJudicium est legitime controversiae inter actorem et reum apud iudicem competentem disceptatio....",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.",
+    "physical": "Papier \n8° min., 304 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

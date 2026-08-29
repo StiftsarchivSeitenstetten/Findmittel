@@ -1,0 +1,171 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-69",
+  "signature": "MN III 69",
+  "aliases": [
+    "Bibl. Cod. MN III 69"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "278",
+  "heading": {
+    "title": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1825"
+  },
+  "date": {
+    "display": "1825",
+    "intervals": [
+      {
+        "from": 1825,
+        "to": 1825,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–108",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Bittgesang bey der Procession nach Enzersdorf nächst Brunn",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 79–81",
+      "language": "",
+      "incipit": {
+        "text": "Gnadenquelle! sey gegrüßt,....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_compiler",
+      "roleLabel": "author or compiler",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Franz Puhm",
+      "roleRaw": "later_annotator",
+      "roleLabel": "later annotator",
+      "scope": "manuscript",
+      "date": "1852"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1825",
+        "intervals": [
+          {
+            "from": 1825,
+            "to": 1825,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; schwarzer Ledereinband, durch den Zahn der Zeit stark beschädigt; 110 Seiten; geschrieben 1825.\n\n**Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.**\n\nVerfasser und Schreiber des Gebetbuches sind unbekannt. **Franz Puhm**, der am **3ten April 1852** auf S. 109–110 einige abergläubisch anmutende Zusätze eintrug, schrieb deutlich anders.\n\nS. 79–81: **Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....**",
+    "germanHtml": "<p>Oktavformat; schwarzer Ledereinband, durch den Zahn der Zeit stark beschädigt; 110 Seiten; geschrieben 1825.</p>\n<p><strong>Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.</strong></p>\n<p>Verfasser und Schreiber des Gebetbuches sind unbekannt. <strong>Franz Puhm</strong>, der am <strong>3ten April 1852</strong> auf S. 109–110 einige abergläubisch anmutende Zusätze eintrug, schrieb deutlich anders.</p>\n<p>S. 79–81: <strong>Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....</strong></p>",
+    "latin": "8°; teg. b2 iniquitate temporum valde laesum; 110 pagg.; 1825\n\n**Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.**\n\nAuctor et scriptor huius libelli precatorii ignotus; nam Franz Puhm, qui **„am 3ten April 1852“** p. 109–110 quaedam superstitiosa addidit, longe aliter scripsit. p. 79–81: **Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....**",
+    "latinHtml": "<p>8°; teg. b2 iniquitate temporum valde laesum; 110 pagg.; 1825</p>\n<p><strong>Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres.</strong></p>\n<p>Auctor et scriptor huius libelli precatorii ignotus; nam Franz Puhm, qui <strong>„am 3ten April 1852“</strong> p. 109–110 quaedam superstitiosa addidit, longe aliter scripsit. p. 79–81: <strong>Bittgesang bey der Procession nach Enzersdorf nächst Brunn: Gnadenquelle! sey gegrüßt,.....</strong></p>"
+  },
+  "source": {
+    "file": "MN III 69.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-69/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 69",
+    "titles": "Christkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres \nChristkatholisches Lese= und Gebethbuch zum Gebrauche für alle Stände. eingerichtet, und aus verschiedenen geistreichen Büchern zusammengetragen. Geschrieben im Jahr Jesu Christi des Eintausend Achthundert zwanzig fünften Jahres \nBittgesang bey der Procession nach Enzersdorf nächst Brunn",
+    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe \nFranz Puhm later annotator later_annotator",
+    "incipits": "Gnadenquelle! sey gegrüßt,.....",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

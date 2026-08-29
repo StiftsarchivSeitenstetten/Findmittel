@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-i-xviii-2m",
+  "signature": "Arch. Cod. 3 I (XVIII 2m)",
+  "aliases": [
+    "Arch. Cod. 3 I (XVIII 2m)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "266",
+  "heading": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1787"
+  },
+  "date": {
+    "display": "1787",
+    "intervals": [
+      {
+        "from": 1787,
+        "to": 1787,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–526",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Tomus I; die Bandbezeichnung ergibt sich aus der Fortsetzung in Arch. Cod. 3 D."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "526 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1787",
+        "intervals": [
+          {
+            "from": 1787,
+            "to": 1787,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 526 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen; geschrieben 1787.\n\n**Historisch-diplomatisch-genealogische Untersuchungen des P. Joseph Schaukegl OSB aus Seitenstetten über Noricum und die alten Familien dieses Reiches, besonders über die Grafen von Stille und Hefte, Gründer des Klosters Seitenstetten in Niederösterreich, und die Erben der berühmten Grafenfamilie von Sempta und Ebersberg.**\n\nP. **Josephus Schaukegl** begann dieses sehr arbeitsaufwendige Werk 1787 eigenhändig niederzuschreiben und setzte es in den folgenden Jahren in den nachfolgenden Codices fort.",
+    "germanHtml": "<p>Folioformat; 526 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit eingeprägten und vergoldeten Blümchen; geschrieben 1787.</p>\n<p><strong>Historisch-diplomatisch-genealogische Untersuchungen des P. Joseph Schaukegl OSB aus Seitenstetten über Noricum und die alten Familien dieses Reiches, besonders über die Grafen von Stille und Hefte, Gründer des Klosters Seitenstetten in Niederösterreich, und die Erben der berühmten Grafenfamilie von Sempta und Ebersberg.</strong></p>\n<p>P. <strong>Josephus Schaukegl</strong> begann dieses sehr arbeitsaufwendige Werk 1787 eigenhändig niederzuschreiben und setzte es in den folgenden Jahren in den nachfolgenden Codices fort.</p>",
+    "latin": "fol.; 526 pagg.; teg. b1, dorsum flosculis impressis et inauratis ornatum; scriptus 1787\n\n**Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.**\n\nOpus hoc laboriosissimum ille P. Josephus Schaukegl anno 1787 conscribere (sua ipsius manu!) coepit, et annis sequentibus in subsequentibus codicibus prosecutus est.",
+    "latinHtml": "<p>fol.; 526 pagg.; teg. b1, dorsum flosculis impressis et inauratis ornatum; scriptus 1787</p>\n<p><strong>Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.</strong></p>\n<p>Opus hoc laboriosissimum ille P. Josephus Schaukegl anno 1787 conscribere (sua ipsius manu!) coepit, et annis sequentibus in subsequentibus codicibus prosecutus est.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 I (XVIII 2m).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-i-xviii-2m/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 3 I (XVIII 2m)",
+    "titles": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. \nJosephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg.",
+    "persons": "P. Josephus Schaukegl Autor author \nP. Josephus Schaukegl Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Tomus I; die Bandbezeichnung ergibt sich aus der Fortsetzung in Arch. Cod. 3 D.",
+    "physical": "Papier \n526 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Rücken mit eingeprägten und vergoldeten Blümchen."
+  }
+}

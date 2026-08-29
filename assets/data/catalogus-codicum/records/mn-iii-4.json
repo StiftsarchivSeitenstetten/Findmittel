@@ -1,0 +1,461 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-4",
+  "signature": "MN III 4",
+  "aliases": [
+    "Bibl. Cod. MN III 4"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "50–51",
+  "heading": {
+    "title": "Articulus Primus De Ad statum Religiosum pertinentibus",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1660–1710"
+  },
+  "date": {
+    "display": "1660–1710",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Articulus Primus De Ad statum Religiosum pertinentibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–80",
+      "language": "",
+      "incipit": {
+        "text": "Considera, si Religiosus sis...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De varia piarum Meditationum materia cuivis hominum statui apta",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 81–128",
+      "language": "",
+      "incipit": {
+        "text": "Inter omnia pietatis verae Exercitia...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Articulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 129–240",
+      "language": "",
+      "incipit": {
+        "text": "Considera igitur ô anima mea....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Articulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 241–269",
+      "language": "",
+      "incipit": {
+        "text": "Considerabis....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Articulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 270–288",
+      "language": "",
+      "incipit": {
+        "text": "Olim nihil fuisse....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Articulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 289–375",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Articulus 7. De Beneficiis Dei",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 376–394",
+      "language": "",
+      "incipit": {
+        "text": "1° Considera: Ab aeterno...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Articulus 8. De Dignitate status Sacerdotalis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 395–442",
+      "language": "",
+      "incipit": {
+        "text": "Caput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Articulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 442–494",
+      "language": "",
+      "incipit": {
+        "text": "Si in Sacerdotio....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 497–515",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Adiumenta generalia ad vitae emendationem conducentia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 517–519",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Annotationes de Morte ex Sanctis Patribus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 520–523",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-m",
+      "label": "m",
+      "type": "",
+      "title": {
+        "text": "Quo fine litteris incumbendum ex S. Bernardo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 527–528",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-n",
+      "label": "n",
+      "type": "",
+      "title": {
+        "text": "De vitiis quae maximè declinari debeant",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 529–542",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-o",
+      "label": "o",
+      "type": "",
+      "title": {
+        "text": "De Virtutibus, quae homines Christianos potissimum decent",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 543–584",
+      "language": "",
+      "incipit": {
+        "text": "1. Timor Dei. Ante omnia se offert Dei Timor...."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-p",
+      "label": "p",
+      "type": "",
+      "title": {
+        "text": "Meditatio de Scopo et fine religiosi hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 631–696",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit weiteren Meditationen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-q",
+      "label": "q",
+      "type": "",
+      "title": {
+        "text": "Communia Omnibus Meditationibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 696–702",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_compiler",
+      "roleLabel": "author or compiler",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "16°, teg. b1 ornamentis decoratum, sed valde laesum",
+    "format": "Sedezformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660–1710",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "drawing",
+      "location": "nach S. 222",
+      "subject": "Arma Christi / Leidenswerkzeuge Christi"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Sedezformat; lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen, jedoch stark beschädigt; 720 Seiten; nach dem Schriftcharakter zwischen 1660 und 1710 geschrieben.\n\na) **Erster Artikel: Über das, was zum Ordensstand gehört:** S. 1–80. Anfang S. 1: Betrachte, wenn du Ordensmann bist....\n\nb) **Über verschiedene Stoffe frommer Betrachtungen, passend für jeden Stand:** S. 81–128. Anfang der Vorrede S. 81: Unter allen Übungen wahrer Frömmigkeit....\n\nc) **Dritter Artikel: Weitere Betrachtungen über Leiden, Tod und Auferstehung Christi:** S. 129–240. Anfang des ersten Kapitels **Über die Fußwaschung**, S. 129: Betrachte also, meine Seele.....\n\nd) **Vierter Artikel: Betrachtungspunkte über die selige Jungfrau Maria, an ihren wichtigsten Festen und am Samstag zu erwägen:** S. 241–269. Anfang des ersten Kapitels **Über die Empfängnis der seligen Jungfrau**, S. 241: Du wirst betrachten.....\n\ne) **Fünfter Artikel: Sehr kurze Betrachtungen, höchst nützlich zur Selbsterkenntnis, zum Hass gegen die Sünde und zur Einprägung der Gottesfurcht:** S. 270–288. Anfang des ersten Kapitels **Über das Elend des Menschen hinsichtlich des Leibes**, S. 270: Einst nichts gewesen zu sein.....\n\nf) **Sechster Artikel: Über verschiedene Nöte des menschlichen Lebens und dessen vier letzte Dinge:** S. 289–375. Anfang der ersten Betrachtung **Über die Menge der Sünden**, S. 289.\n\ng) **Siebter Artikel: Über die Wohltaten Gottes:** S. 376–394. Anfang des ersten Kapitels **Über die Wohltat der Schöpfung**, S. 376: Betrachte: Von Ewigkeit her....\n\nh) **Achter Artikel: Über die Würde des Priesterstandes:** S. 395–442. Anfang S. 395: Erstes Kapitel. Über die Würde der Priester im Allgemeinen. Betrachte, welch herrliche Namen....\n\ni) **Neunter Artikel: Eine Ernte verschiedener Güter, die ein im Priesterstand befindlicher Kleriker zum Heil seiner selbst und der Nächsten hervorbringen könnte, um sich ewige Schätze im Himmel zu sammeln:** S. 442–494. Anfang: Wenn du im Priestertum.....\n\nj) **Register:** S. 497–515.\n\nk) **Allgemeine Hilfsmittel zur Besserung des Lebens:** S. 517–519.\n\nl) **Anmerkungen über den Tod aus den Kirchenvätern:** S. 520–523.\n\nm) **Zu welchem Zweck man sich nach dem hl. Bernhard den Studien widmen soll:** S. 527–528.\n\nn) **Über die Laster, die besonders zu meiden sind:** S. 529–542.\n\no) **Über die Tugenden, die Christen besonders zieren:** S. 543–584. Anfang S. 543: 1. Gottesfurcht. Vor allem bietet sich die Gottesfurcht dar....\n\np) **Betrachtung über Ziel und Zweck des Ordensmenschen:** S. 631–696, mit weiteren Betrachtungen.\n\nq) **Allgemeines für alle Betrachtungen:** S. 696–702.\n\nVerfasser beziehungsweise Kompilator dieser Betrachtungen und der Schreiber sind unbekannt. Nach S. 222 sind die Leidenswerkzeuge Christi gezeichnet.",
+    "germanHtml": "<p>Sedezformat; lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen, jedoch stark beschädigt; 720 Seiten; nach dem Schriftcharakter zwischen 1660 und 1710 geschrieben.</p>\n<p>a) <strong>Erster Artikel: Über das, was zum Ordensstand gehört:</strong> S. 1–80. Anfang S. 1: Betrachte, wenn du Ordensmann bist....</p>\n<p>b) <strong>Über verschiedene Stoffe frommer Betrachtungen, passend für jeden Stand:</strong> S. 81–128. Anfang der Vorrede S. 81: Unter allen Übungen wahrer Frömmigkeit....</p>\n<p>c) <strong>Dritter Artikel: Weitere Betrachtungen über Leiden, Tod und Auferstehung Christi:</strong> S. 129–240. Anfang des ersten Kapitels <strong>Über die Fußwaschung</strong>, S. 129: Betrachte also, meine Seele.....</p>\n<p>d) <strong>Vierter Artikel: Betrachtungspunkte über die selige Jungfrau Maria, an ihren wichtigsten Festen und am Samstag zu erwägen:</strong> S. 241–269. Anfang des ersten Kapitels <strong>Über die Empfängnis der seligen Jungfrau</strong>, S. 241: Du wirst betrachten.....</p>\n<p>e) <strong>Fünfter Artikel: Sehr kurze Betrachtungen, höchst nützlich zur Selbsterkenntnis, zum Hass gegen die Sünde und zur Einprägung der Gottesfurcht:</strong> S. 270–288. Anfang des ersten Kapitels <strong>Über das Elend des Menschen hinsichtlich des Leibes</strong>, S. 270: Einst nichts gewesen zu sein.....</p>\n<p>f) <strong>Sechster Artikel: Über verschiedene Nöte des menschlichen Lebens und dessen vier letzte Dinge:</strong> S. 289–375. Anfang der ersten Betrachtung <strong>Über die Menge der Sünden</strong>, S. 289.</p>\n<p>g) <strong>Siebter Artikel: Über die Wohltaten Gottes:</strong> S. 376–394. Anfang des ersten Kapitels <strong>Über die Wohltat der Schöpfung</strong>, S. 376: Betrachte: Von Ewigkeit her....</p>\n<p>h) <strong>Achter Artikel: Über die Würde des Priesterstandes:</strong> S. 395–442. Anfang S. 395: Erstes Kapitel. Über die Würde der Priester im Allgemeinen. Betrachte, welch herrliche Namen....</p>\n<p>i) <strong>Neunter Artikel: Eine Ernte verschiedener Güter, die ein im Priesterstand befindlicher Kleriker zum Heil seiner selbst und der Nächsten hervorbringen könnte, um sich ewige Schätze im Himmel zu sammeln:</strong> S. 442–494. Anfang: Wenn du im Priestertum.....</p>\n<p>j) <strong>Register:</strong> S. 497–515.</p>\n<p>k) <strong>Allgemeine Hilfsmittel zur Besserung des Lebens:</strong> S. 517–519.</p>\n<p>l) <strong>Anmerkungen über den Tod aus den Kirchenvätern:</strong> S. 520–523.</p>\n<p>m) <strong>Zu welchem Zweck man sich nach dem hl. Bernhard den Studien widmen soll:</strong> S. 527–528.</p>\n<p>n) <strong>Über die Laster, die besonders zu meiden sind:</strong> S. 529–542.</p>\n<p>o) <strong>Über die Tugenden, die Christen besonders zieren:</strong> S. 543–584. Anfang S. 543: 1. Gottesfurcht. Vor allem bietet sich die Gottesfurcht dar....</p>\n<p>p) <strong>Betrachtung über Ziel und Zweck des Ordensmenschen:</strong> S. 631–696, mit weiteren Betrachtungen.</p>\n<p>q) <strong>Allgemeines für alle Betrachtungen:</strong> S. 696–702.</p>\n<p>Verfasser beziehungsweise Kompilator dieser Betrachtungen und der Schreiber sind unbekannt. Nach S. 222 sind die Leidenswerkzeuge Christi gezeichnet.</p>",
+    "latin": "16°, teg. b1 ornamentis decoratum, sed valde laesum; 720 pagg.; script. iuxta modum scribendi inter annos 1660 et 1710\n\na) Articulus Primus De Ad statum Religiosum pertinentibus: p. 1–80. Initium p. 1: Considera, si Religiosus sis....\n\nb) De varia piarum Meditationum materia cuivis hominum statui apta: p. 81–128. Initium Praefationis p. 81: Inter omnia pietatis verae Exercitia....\n\nc) Articulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi: p. 129–240. Initium Capitis I De Pedum lotione p. 129: Considera igitur ô anima mea.....\n\nd) Articulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda: p. 241–269. Initium Capitis I De Conceptione Beatae Virginis p. 241: Considerabis.....\n\ne) Articulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae: p. 270–288. Initium Capitis I De miseria hominis ex parte Corporis p. 270: Olim nihil fuisse.....\n\nf) Articulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem: p. 289–375. Initium Considerationis I De Peccatorum multitudine p. 289: 1° Igitur peccatorum vitae praeterritae.(1)....\n\ng) Articulus 7. De Beneficiis Dei: p. 376–394. Initium Capitis I De Creationis beneficio p. 376: 1° Considera: Ab aeterno....\n\nh) Articulus 8. De Dignitate status Sacerdotalis: p. 395–442. Initium p. 395: Caput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina....\n\n\n<!-- PDF-Seite 56 -->\n\n\ni) Articulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis: p. 442–494. Initium p. 442: Si in Sacerdotio.....\n\nj) Index p. 497–515.\n\nk) Adiumenta generalia ad vitae emendationem conducentia: p. 517–519.\n\nl) Annotationes de Morte ex Sanctis Patribus: p. 520–523.\n\nm) Quo fine litteris incumbendum ex S. Bernardo: p. 527–528.\n\nn) De vitiis quae maximè declinari debeant: p. 529–542.\n\no) De Virtutibus, quae homines Christianos potissimum decent: p. 543–584. Initium p. 543: 1. Timor Dei. Ante omnia se offert Dei Timor....\n\np) Meditatio de Scopo et fine religiosi hominis: p. 631–696 (cum aliis Meditationibus).\n\nq) Communia Omnibus Meditationibus: p. 696–702.\n\nAuctor vel Compilator harum meditationum nec non scriptor ignoti. Post pag. 222 instrumenta passionis Christi delineata sunt.",
+    "latinHtml": "<p>16°, teg. b1 ornamentis decoratum, sed valde laesum; 720 pagg.; script. iuxta modum scribendi inter annos 1660 et 1710</p>\n<p>a) Articulus Primus De Ad statum Religiosum pertinentibus: p. 1–80. Initium p. 1: Considera, si Religiosus sis....</p>\n<p>b) De varia piarum Meditationum materia cuivis hominum statui apta: p. 81–128. Initium Praefationis p. 81: Inter omnia pietatis verae Exercitia....</p>\n<p>c) Articulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi: p. 129–240. Initium Capitis I De Pedum lotione p. 129: Considera igitur ô anima mea.....</p>\n<p>d) Articulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda: p. 241–269. Initium Capitis I De Conceptione Beatae Virginis p. 241: Considerabis.....</p>\n<p>e) Articulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae: p. 270–288. Initium Capitis I De miseria hominis ex parte Corporis p. 270: Olim nihil fuisse.....</p>\n<p>f) Articulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem: p. 289–375. Initium Considerationis I De Peccatorum multitudine p. 289: 1° Igitur peccatorum vitae praeterritae.(1)....</p>\n<p>g) Articulus 7. De Beneficiis Dei: p. 376–394. Initium Capitis I De Creationis beneficio p. 376: 1° Considera: Ab aeterno....</p>\n<p>h) Articulus 8. De Dignitate status Sacerdotalis: p. 395–442. Initium p. 395: Caput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina....</p>\n<p>&lt;!-- PDF-Seite 56 --&gt;</p>\n<p>i) Articulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis: p. 442–494. Initium p. 442: Si in Sacerdotio.....</p>\n<p>j) Index p. 497–515.</p>\n<p>k) Adiumenta generalia ad vitae emendationem conducentia: p. 517–519.</p>\n<p>l) Annotationes de Morte ex Sanctis Patribus: p. 520–523.</p>\n<p>m) Quo fine litteris incumbendum ex S. Bernardo: p. 527–528.</p>\n<p>n) De vitiis quae maximè declinari debeant: p. 529–542.</p>\n<p>o) De Virtutibus, quae homines Christianos potissimum decent: p. 543–584. Initium p. 543: 1. Timor Dei. Ante omnia se offert Dei Timor....</p>\n<p>p) Meditatio de Scopo et fine religiosi hominis: p. 631–696 (cum aliis Meditationibus).</p>\n<p>q) Communia Omnibus Meditationibus: p. 696–702.</p>\n<p>Auctor vel Compilator harum meditationum nec non scriptor ignoti. Post pag. 222 instrumenta passionis Christi delineata sunt.</p>"
+  },
+  "source": {
+    "file": "MN III 4.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-4/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 4",
+    "titles": "Articulus Primus De Ad statum Religiosum pertinentibus \nArticulus Primus De Ad statum Religiosum pertinentibus \nDe varia piarum Meditationum materia cuivis hominum statui apta \nArticulus tertius. Aliae Considerationes de passione Morte et resurrectione Christi \nArticulus 4. Puncta meditationum de Beata Virgine Maria in eius praecipua festa ac diem Sabbathi expendenda \nArticulus 5. Considerationes perbreves ad Sui cognitionem, peccati odium, Deique ingenerandum timorem utilissimae \nArticulus 6. De variis Miseriis vitae humanae et quatuor Novissimis eiusdem \nArticulus 7. De Beneficiis Dei \nArticulus 8. De Dignitate status Sacerdotalis \nArticulus 9. Variorum bonorum seges, quam ferre homo Ecclesiasticus in ordine Sacerdotali constitutus posset, pro Salute tam Sua quam proximorum etc. ad thesauros Sibi aeternos cumulandos in caelis \nIndex \nAdiumenta generalia ad vitae emendationem conducentia \nAnnotationes de Morte ex Sanctis Patribus \nQuo fine litteris incumbendum ex S. Bernardo \nDe vitiis quae maximè declinari debeant \nDe Virtutibus, quae homines Christianos potissimum decent \nMeditatio de Scopo et fine religiosi hominis \nCommunia Omnibus Meditationibus",
+    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe",
+    "incipits": "Considera, si Religiosus sis.... \nInter omnia pietatis verae Exercitia.... \nConsidera igitur ô anima mea..... \nConsiderabis..... \nOlim nihil fuisse..... \n1° Considera: Ab aeterno.... \nCaput I. De dignitate Sacerdotum generatim. 1° Considera, quam praeclara nomina.... \nSi in Sacerdotio..... \n1. Timor Dei. Ante omnia se offert Dei Timor....",
+    "explicits": "",
+    "notes": "Mit weiteren Meditationen.",
+    "physical": "Papier \n16°, teg. b1 ornamentis decoratum, sed valde laesum \nSedezformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext."
+  }
+}

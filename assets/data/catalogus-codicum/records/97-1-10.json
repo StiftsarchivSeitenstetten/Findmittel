@@ -1,0 +1,177 @@
+{
+  "schemaVersion": 1,
+  "id": "97-1-10",
+  "signature": "97.1.10",
+  "aliases": [
+    "Bibl. Cod. 97.1.10"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "47–48",
+  "heading": {
+    "title": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1656 (laut Titel)"
+  },
+  "date": {
+    "display": "1656 (laut Titel)",
+    "intervals": [
+      {
+        "from": 1656,
+        "to": 1656,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–439v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied. Die Materien sind alphabetisch geordnet."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "24 Blätter",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Joannes Baptista Suttinger",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "439 foll. et 24 foll. Index; numerus annalis, linea obsoleta restituitur: 1774",
+    "format": "Folioformat",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1656 (laut Titel)",
+        "intervals": [
+          {
+            "from": 1656,
+            "to": 1656,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "former_owner": "Ferdinand Ignatius von Albrechtsberg",
+        "date": 1709
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 439 Blätter sowie 24 Blätter Register; Einband wie beim vorhergehenden Codex 97.1.11. Die Jahreszahl ist wegen einer verblassten Linie zu 1774 zu ergänzen.\n\n**Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.**\n\nAuf dem Titelblatt der Besitzvermerk: **ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709**, mit anderer Tinte als der Haupttext.\n\nDie Materien sind alphabetisch geordnet.",
+    "germanHtml": "<p>Folioformat; 439 Blätter sowie 24 Blätter Register; Einband wie beim vorhergehenden Codex 97.1.11. Die Jahreszahl ist wegen einer verblassten Linie zu 1774 zu ergänzen.</p>\n<p><strong>Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.</strong></p>\n<p>Auf dem Titelblatt der Besitzvermerk: <strong>ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709</strong>, mit anderer Tinte als der Haupttext.</p>\n<p>Die Materien sind alphabetisch geordnet.</p>",
+    "latin": "fol.; 439 foll. et 24 foll. Index; teg. ut supra in cod. 97.1.11; numerus annalis, linea obsoleta restituitur: 1774\n\nCodex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch **Joannem Baptistam Suttinger** der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.\n\nNota in pagina titulari: ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709 (alio atramento, quam quo ipse codex scriptus est).\n\nRes gerendae in hoc codice ordine alphabetico dispositae sunt.\n\n\n<!-- PDF-Seite 52 -->",
+    "latinHtml": "<p>fol.; 439 foll. et 24 foll. Index; teg. ut supra in cod. 97.1.11; numerus annalis, linea obsoleta restituitur: 1774</p>\n<p>Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch <strong>Joannem Baptistam Suttinger</strong> der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656.</p>\n<p>Nota in pagina titulari: ex libris Ferdinandi Ignatii ob Albrechtsberg Anno 1709 (alio atramento, quam quo ipse codex scriptus est).</p>\n<p>Res gerendae in hoc codice ordine alphabetico dispositae sunt.</p>\n<p>&lt;!-- PDF-Seite 52 --&gt;</p>"
+  },
+  "source": {
+    "file": "97.1.10.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/97-1-10/",
+  "relations": [],
+  "search": {
+    "signature": "97.1.10",
+    "titles": "Codex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656. \nCodex Ferdinandeus oder Kurtzer Begriff aller Landesfürstlichen General Mandaten sovil deren biß auff diese Zeit, bey allen Registraturen zu finden seind. Alles Vleißes zusamen gebracht Durch Joannem Baptistam Suttinger der R: D: (= Regiae Domus) Röm: Kay: May: N: Ö: Regierungs Kantzlern Anno 1656. \nIndex",
+    "persons": "Joannes Baptista Suttinger Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die parenthetische Initialenauflösung erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied. Die Materien sind alphabetisch geordnet. \nVom Katalog verwendete strukturelle Inhaltsbezeichnung.",
+    "physical": "Papier \n439 foll. et 24 foll. Index; numerus annalis, linea obsoleta restituitur: 1774 \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

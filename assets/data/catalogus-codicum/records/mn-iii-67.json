@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-67",
+  "signature": "MN III 67",
+  "aliases": [
+    "Bibl. Cod. MN III 67"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "275",
+  "heading": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1803"
+  },
+  "date": {
+    "display": "1803",
+    "intervals": [
+      {
+        "from": 1803,
+        "to": 1803,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_index",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liber precatorius",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–226",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Titel ist mit dem Vorderdeckel und 46 Seiten verloren; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 227–240",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "1803"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Till",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "Till",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1803",
+        "intervals": [
+          {
+            "from": 1803,
+            "to": 1803,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_index",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; ursprünglich 240 Seiten; der Vorderdeckel und 46 Seiten (= 23 Blätter) fehlen; der erhaltene Rest besitzt einen schwarzen Ledereinband mit ansprechenden Verzierungen.\n\n**(Gebetbuch)**\n\nDas Register steht S. 227–240; an seinem Ende ist notiert: **Anno 1803. Till (manu propria).**\n\nOb dieser **Till** das Buch lediglich schrieb oder auch selbst zusammenstellte, ist ungewiss.\n\nMehrere Kupferstiche von Johann Bal(t)zer in Prag und Lissa sind eingefügt; sie sind nicht ohne künstlerischen Wert.",
+    "germanHtml": "<p>Oktavformat; ursprünglich 240 Seiten; der Vorderdeckel und 46 Seiten (= 23 Blätter) fehlen; der erhaltene Rest besitzt einen schwarzen Ledereinband mit ansprechenden Verzierungen.</p>\n<p><strong>(Gebetbuch)</strong></p>\n<p>Das Register steht S. 227–240; an seinem Ende ist notiert: <strong>Anno 1803. Till (manu propria).</strong></p>\n<p>Ob dieser <strong>Till</strong> das Buch lediglich schrieb oder auch selbst zusammenstellte, ist ungewiss.</p>\n<p>Mehrere Kupferstiche von Johann Bal(t)zer in Prag und Lissa sind eingefügt; sie sind nicht ohne künstlerischen Wert.</p>",
+    "latin": "8°; olim 240 pagg., sed nunc pars adversa tegumenti cum 46 paginis (23 foliis) deest; reliquum teg. b2 decenter ornatum\n\n**(Liber precatorius)**\n\nIndex p. 227–240, in cuius fine notatum est: **Anno 1803. Till (manu propria).** Utrum iste Till librum nostrum scripserit tantum an etiam composuerit, incertum est.\n\nInsertae sunt aliquot imagines chalcographicae a Joanne Bal(t)zer Pragae (et Lissae) non sine arte sculptae et excusae.",
+    "latinHtml": "<p>8°; olim 240 pagg., sed nunc pars adversa tegumenti cum 46 paginis (23 foliis) deest; reliquum teg. b2 decenter ornatum</p>\n<p><strong>(Liber precatorius)</strong></p>\n<p>Index p. 227–240, in cuius fine notatum est: <strong>Anno 1803. Till (manu propria).</strong> Utrum iste Till librum nostrum scripserit tantum an etiam composuerit, incertum est.</p>\n<p>Insertae sunt aliquot imagines chalcographicae a Joanne Bal(t)zer Pragae (et Lissae) non sine arte sculptae et excusae.</p>"
+  },
+  "source": {
+    "file": "MN III 67.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-67/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 67",
+    "titles": "Liber precatorius \nLiber precatorius \nIndex",
+    "persons": "Till Schreiber scribe \nTill Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Titel ist mit dem Vorderdeckel und 46 Seiten verloren; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

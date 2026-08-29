@@ -1,0 +1,272 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-300",
+  "signature": "MN II 300",
+  "aliases": [
+    "Bibl. Cod. MN II 300"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "248–249",
+  "heading": {
+    "title": "Philosophia Peripatetica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1768"
+  },
+  "date": {
+    "display": "1768",
+    "intervals": [
+      {
+        "from": 1768,
+        "to": 1768,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Philosophia Peripatetica",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus. in quo agitur De Logica minori Seu Dialectica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–63",
+      "language": "",
+      "incipit": {
+        "text": "Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Logica Majori",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 65–162",
+      "language": "",
+      "incipit": {
+        "text": "Caput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius De Metaphysica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 163–256",
+      "language": "",
+      "incipit": {
+        "text": "Metaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "50 Parerga ex Dialectica, Prolegomenis logicae, logica Majori, Metaphysica",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 256–260",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur die Zahl „50“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus quartus De Physica generali et Particulari",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 261–344",
+      "language": "",
+      "incipit": {
+        "text": "Physica, quae a graeco vocabulo Physis derivata"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "16. Mai 1768"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Parerga ex Physica Generali et Particulari",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 345–346",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog ergänzt in runden Klammern die Nummern 51–83; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Michael Rothmayr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „Congesta A“ bezeichnet."
+    },
+    {
+      "name": "Fr. Odilo Hammer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „descripta“ bezeichnet."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "364 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1768",
+        "intervals": [
+          {
+            "from": 1768,
+            "to": 1768,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "364 Seiten; blaugrauer Pappeinband; geschrieben 1768.\n\n**Peripatetische Philosophie, zusammengestellt von P. Michael Rothmayr, Benediktiner und Profess des Klosters Seitenstetten, und abgeschrieben von Fr. Odilo desselben Klosters. Im Jahr 1768.**\n\nVerfasser unseres Codex ist somit **P. Michael Rothmayr**, Seitenstettner Mönch; Schreiber ist **Fr. Odilo Hammer**, ebenfalls Seitenstettner Mönch. Vielleicht hielt P. Michael Rothmayr im Kloster Seitenstetten selbst philosophische Vorlesungen, die Fr. Odilo Hammer mitschrieb.\n\na) **Erste Abhandlung über die kleine Logik oder Dialektik:** S. 3–63. Anfang S. 5: Erste Abhandlung. Über Wörter als Zeichen der Tätigkeiten des Geistes. Logik wird vom griechischen Wort *Logos* hergeleitet,.....\n\nb) **Zweite Abhandlung über die größere Logik:** S. 65–162. Anfang S. 67: Erstes Kapitel. Über die Prolegomena der Logik. Logik bezeichnet ihrem Namen nach eine rationale Disziplin,......\n\nc) **Dritte Abhandlung über die Metaphysik:** S. 163–256. Anfang S. 165: Metaphysik oder Wissenschaft vom Seienden im Allgemeinen. Unter Metaphysik verstehen wir jene Wissenschaft,......\n\nd) **50 Parerga aus Dialektik, Prolegomena der Logik, größerer Logik und Metaphysik:** S. 256–260.\n\ne) **Vierte Abhandlung über allgemeine und besondere Physik:** S. 261–344. Anfang S. 263: Physik, die vom griechischen Wort *Physis* hergeleitet ist,..... Schluss: **Beendet am 16. Mai 1768.**\n\nf) **Parerga aus allgemeiner und besonderer Physik, Nr. 51–83:** S. 345/346.\n\nDie Reihenfolge der Abhandlungen unseres Codex stimmt mit der Reihenfolge jenes philosophischen Werkes von **P. Gallus Cartier**, Benediktiner von Ettenheimmünster im Breisgau, überein, dessen Titel der Katalog auf der vorhergehenden Seite beschrieben hat; zudem wird P. Gallus Cartier am Ende des Teils b des vorhergehenden Codex ausdrücklich genannt.\n\nDa unser Codex vier Abhandlungen enthält, Teil b des Codex 34 M aber den Titel **Fünfte Abhandlung: Moralphilosophie oder Ethik** trägt, ist wahrscheinlich, dass einerseits beinahe alles in unserem Codex aus P. Gallus Cartier übernommen wurde, andererseits auch Teil b des vorhergehenden Codex 34 M von P. Michael Rothmayr zusammengestellt wurde.",
+    "germanHtml": "<p>364 Seiten; blaugrauer Pappeinband; geschrieben 1768.</p>\n<p><strong>Peripatetische Philosophie, zusammengestellt von P. Michael Rothmayr, Benediktiner und Profess des Klosters Seitenstetten, und abgeschrieben von Fr. Odilo desselben Klosters. Im Jahr 1768.</strong></p>\n<p>Verfasser unseres Codex ist somit <strong>P. Michael Rothmayr</strong>, Seitenstettner Mönch; Schreiber ist <strong>Fr. Odilo Hammer</strong>, ebenfalls Seitenstettner Mönch. Vielleicht hielt P. Michael Rothmayr im Kloster Seitenstetten selbst philosophische Vorlesungen, die Fr. Odilo Hammer mitschrieb.</p>\n<p>a) <strong>Erste Abhandlung über die kleine Logik oder Dialektik:</strong> S. 3–63. Anfang S. 5: Erste Abhandlung. Über Wörter als Zeichen der Tätigkeiten des Geistes. Logik wird vom griechischen Wort <em>Logos</em> hergeleitet,.....</p>\n<p>b) <strong>Zweite Abhandlung über die größere Logik:</strong> S. 65–162. Anfang S. 67: Erstes Kapitel. Über die Prolegomena der Logik. Logik bezeichnet ihrem Namen nach eine rationale Disziplin,......</p>\n<p>c) <strong>Dritte Abhandlung über die Metaphysik:</strong> S. 163–256. Anfang S. 165: Metaphysik oder Wissenschaft vom Seienden im Allgemeinen. Unter Metaphysik verstehen wir jene Wissenschaft,......</p>\n<p>d) <strong>50 Parerga aus Dialektik, Prolegomena der Logik, größerer Logik und Metaphysik:</strong> S. 256–260.</p>\n<p>e) <strong>Vierte Abhandlung über allgemeine und besondere Physik:</strong> S. 261–344. Anfang S. 263: Physik, die vom griechischen Wort <em>Physis</em> hergeleitet ist,..... Schluss: <strong>Beendet am 16. Mai 1768.</strong></p>\n<p>f) <strong>Parerga aus allgemeiner und besonderer Physik, Nr. 51–83:</strong> S. 345/346.</p>\n<p>Die Reihenfolge der Abhandlungen unseres Codex stimmt mit der Reihenfolge jenes philosophischen Werkes von <strong>P. Gallus Cartier</strong>, Benediktiner von Ettenheimmünster im Breisgau, überein, dessen Titel der Katalog auf der vorhergehenden Seite beschrieben hat; zudem wird P. Gallus Cartier am Ende des Teils b des vorhergehenden Codex ausdrücklich genannt.</p>\n<p>Da unser Codex vier Abhandlungen enthält, Teil b des Codex 34 M aber den Titel <strong>Fünfte Abhandlung: Moralphilosophie oder Ethik</strong> trägt, ist wahrscheinlich, dass einerseits beinahe alles in unserem Codex aus P. Gallus Cartier übernommen wurde, andererseits auch Teil b des vorhergehenden Codex 34 M von P. Michael Rothmayr zusammengestellt wurde.</p>",
+    "latin": "364 pagg.; teg. chartaceum caesium (blaugrau); script. 1768\n\n**Philosophia Peripatetica Congesta A Plurimum Reverendo, Religiosissimo ac Eximio Domino P. Michaele Rothmayr. ordinis Sanctissimi Patris Nostri Benedicti Monasterii Seitenstettensis Professo. a F. Odilone Ejusdem Asceterii monacho descripta. Anno 17.68.**\n\nAuctor igitur codicis nostri est **P. Michael Rothmayr**, monachus Seitenstettensis, scriptor autem **F. Odilo Hammer**, item monachus Seitenstettensis. Forsitan P. Michael Rothmayr in ipso monasterio Seitenstettensi lectiones philosophicas tradidit, quas F. Odilo Hammer calamo excepit.\n\na) Tractatus Primus. in quo agitur De Logica minori Seu Dialectica: p. 3–63.  \nInitium: Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos, ..... (p. 5)\n\nb) Tractatus Secundus De Logica Majori: p. 65–162.  \nInitium p. 67: Caput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat,......\n\nc) Tractatus Tertius De Metaphysica: p. 163–256.  \nInitium p. 165: Metaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus, ......\n\nd) (50) Parerga ex Dialectica, Prolegomenis logicae, logica Majori, Metaphysica: p. 256–260\n\ne) Tractatus quartus De Physica generali et Particulari: p. 261–344  \nInitium p. 263: Physica, quae a graeco vocabulo Physis derivata.....  \nClausula: Absolvi 16 Maii 1768.\n\nf) Parerga ex Physica Generali et Particulari (Nr. 51–83): p. 345/46\n\nOrdo tractatuum codicis nostri congruit cum ordine tractatuum operis illius philosophici a **P. Gallo Cartier**, monacho coenobii Brisgoviensis Ettenheimmünster, cuius inscriptionem in pagina praecedente descripsimus, quia in parte b codicis praecedentis exeunte ille P. Gallus Cartier laudetur. Cum insuper codex noster tractatus quattuor contineat, pars autem b codicis 34 M inscripta sit: *Tractatus Quintus Philosophia Moralis, Seu Ethica*, veri simile est, una ex parte etiam codicis nostri paene omnia ex P. Gallo Cartier deprompta esse, altera ex parte etiam partem b codicis praecedentis 34 M a P. Michaele Rothmayr compositam esse.",
+    "latinHtml": "<p>364 pagg.; teg. chartaceum caesium (blaugrau); script. 1768</p>\n<p><strong>Philosophia Peripatetica Congesta A Plurimum Reverendo, Religiosissimo ac Eximio Domino P. Michaele Rothmayr. ordinis Sanctissimi Patris Nostri Benedicti Monasterii Seitenstettensis Professo. a F. Odilone Ejusdem Asceterii monacho descripta. Anno 17.68.</strong></p>\n<p>Auctor igitur codicis nostri est <strong>P. Michael Rothmayr</strong>, monachus Seitenstettensis, scriptor autem <strong>F. Odilo Hammer</strong>, item monachus Seitenstettensis. Forsitan P. Michael Rothmayr in ipso monasterio Seitenstettensi lectiones philosophicas tradidit, quas F. Odilo Hammer calamo excepit.</p>\n<p>a) Tractatus Primus. in quo agitur De Logica minori Seu Dialectica: p. 3–63. Initium: Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos, ..... (p. 5)</p>\n<p>b) Tractatus Secundus De Logica Majori: p. 65–162. Initium p. 67: Caput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat,......</p>\n<p>c) Tractatus Tertius De Metaphysica: p. 163–256. Initium p. 165: Metaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus, ......</p>\n<p>d) (50) Parerga ex Dialectica, Prolegomenis logicae, logica Majori, Metaphysica: p. 256–260</p>\n<p>e) Tractatus quartus De Physica generali et Particulari: p. 261–344 Initium p. 263: Physica, quae a graeco vocabulo Physis derivata..... Clausula: Absolvi 16 Maii 1768.</p>\n<p>f) Parerga ex Physica Generali et Particulari (Nr. 51–83): p. 345/46</p>\n<p>Ordo tractatuum codicis nostri congruit cum ordine tractatuum operis illius philosophici a <strong>P. Gallo Cartier</strong>, monacho coenobii Brisgoviensis Ettenheimmünster, cuius inscriptionem in pagina praecedente descripsimus, quia in parte b codicis praecedentis exeunte ille P. Gallus Cartier laudetur. Cum insuper codex noster tractatus quattuor contineat, pars autem b codicis 34 M inscripta sit: <em>Tractatus Quintus Philosophia Moralis, Seu Ethica</em>, veri simile est, una ex parte etiam codicis nostri paene omnia ex P. Gallo Cartier deprompta esse, altera ex parte etiam partem b codicis praecedentis 34 M a P. Michaele Rothmayr compositam esse.</p>"
+  },
+  "source": {
+    "file": "MN II 300.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-300/",
+  "relations": [
+    {
+      "typeRaw": "source_relation",
+      "typeLabel": "source relation",
+      "targetRaw": "P. Gallus Cartier, Ettenheimmünster",
+      "targetId": null,
+      "targetSignature": "P. Gallus Cartier, Ettenheimmünster",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": "Der Katalog nimmt an, dass nahezu alles aus dessen philosophischem Werk übernommen wurde."
+    }
+  ],
+  "search": {
+    "signature": "MN II 300",
+    "titles": "Philosophia Peripatetica \nTractatus Primus. in quo agitur De Logica minori Seu Dialectica \nTractatus Secundus De Logica Majori \nTractatus Tertius De Metaphysica \n50 Parerga ex Dialectica, Prolegomenis logicae, logica Majori, Metaphysica \nTractatus quartus De Physica generali et Particulari \nParerga ex Physica Generali et Particulari",
+    "persons": "P. Michael Rothmayr Autor author \nFr. Odilo Hammer Schreiber scribe",
+    "incipits": "Tractatus Primus. De vocibus prout signis operationum Mentis. Logica a graeco vocabulo Lógos \nCaput Primum. De Prolegomenis Logicae. Logica vi nominis Sui disciplinam rationalem significat \nMetaphysica Seu Scientia Entis in Communi. Metaphysicam illam Scientiam intelligimus \nPhysica, quae a graeco vocabulo Physis derivata",
+    "explicits": "",
+    "notes": "Nur die Zahl „50“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt. \nDer Katalog ergänzt in runden Klammern die Nummern 51–83; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt.",
+    "physical": "Papier \n364 pagg. \ndescription: Blaugrauer Pappeinband."
+  }
+}

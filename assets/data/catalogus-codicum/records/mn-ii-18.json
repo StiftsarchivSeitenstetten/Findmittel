@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-18",
+  "signature": "MN II 18",
+  "aliases": [
+    "Bibl. Cod. MN II 18",
+    "De Generatione / De Anima / Metaphysica"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "13",
+  "heading": {
+    "title": "(In libros de Generatione et Corruptione): fol. 1 - 96",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1632"
+  },
+  "date": {
+    "display": "1632",
+    "intervals": [
+      {
+        "from": 1632,
+        "to": 1632,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Philosophischer Kurs zu Werden, Seele und Metaphysik, abgeschlossen an der Universität Graz.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "(In libros de Generatione et Corruptione): fol. 1 - 96",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(In libros de Generatione et Corruptione): fol. 1 - 96"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "In Libros de Anima: fol. 96r. - 205r.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "In Libros de Anima: fol. 96r. - 205r."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "(Metaphysica): fol. 1 - 30v. (=208 - 238)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Metaphysica): fol. 1 - 30v. (=208 - 238)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "239 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Wie MN II 17: Einband aus einem mit Musiknoten beschriebenen Pergamentblatt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1632",
+        "intervals": [
+          {
+            "from": 1632,
+            "to": 1632,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 205 + 32 = 239 Blätter; Einband wie bei Codex MN II 17, also aus einem mit Musiknoten beschriebenen Pergamentblatt.\n\n**a) Zu den Büchern Über Werden und Vergehen:** Bl. 1–96.\n\nAnfang der Vorrede: **Nachdem Aristoteles in acht Büchern der Physik gehandelt hatte....**\n\n**b) Zu den Büchern Über die Seele:** Bl. 96r–205r.\n\nAnfang der Vorrede Bl. 96v: **Nach den anderen Dingen gehen wir an jenen Teil der Philosophie heran....** Schlussvermerk Bl. 205r: **8. Mai.**\n\n**c) Metaphysik:** Bl. 1–30v (= 208–238).\n\nAnfang der Vorrede: **Die Metaphysik ist die vornehmste aller Wissenschaften....** (Bl. 208).\n\nSchlussvermerk der dreijährigen philosophischen Arbeit Bl. 238v: **Geschehen zu Graz an der erzherzoglichen Universität am 14. Juni 1632.**\n\nZu demselben philosophischen Kurs scheint auch Codex MN II 17 zu gehören.\n\nVerfasser und Schreiber sind unbekannt.",
+    "germanHtml": "<p>II + 205 + 32 = 239 Blätter; Einband wie bei Codex MN II 17, also aus einem mit Musiknoten beschriebenen Pergamentblatt.</p>\n<p><strong>a) Zu den Büchern Über Werden und Vergehen:</strong> Bl. 1–96.</p>\n<p>Anfang der Vorrede: <strong>Nachdem Aristoteles in acht Büchern der Physik gehandelt hatte....</strong></p>\n<p><strong>b) Zu den Büchern Über die Seele:</strong> Bl. 96r–205r.</p>\n<p>Anfang der Vorrede Bl. 96v: <strong>Nach den anderen Dingen gehen wir an jenen Teil der Philosophie heran....</strong> Schlussvermerk Bl. 205r: <strong>8. Mai.</strong></p>\n<p><strong>c) Metaphysik:</strong> Bl. 1–30v (= 208–238).</p>\n<p>Anfang der Vorrede: <strong>Die Metaphysik ist die vornehmste aller Wissenschaften....</strong> (Bl. 208).</p>\n<p>Schlussvermerk der dreijährigen philosophischen Arbeit Bl. 238v: <strong>Geschehen zu Graz an der erzherzoglichen Universität am 14. Juni 1632.</strong></p>\n<p>Zu demselben philosophischen Kurs scheint auch Codex MN II 17 zu gehören.</p>\n<p>Verfasser und Schreiber sind unbekannt.</p>",
+    "latin": "II + 205 + 32 = 239 foll., tegumentum ut in codice MN II 17\n\na) (In libros de Generatione et Corruptione): fol. 1 - 96\n\nInitium Prooemii: Postquam Aristoteles 8 libris physicorum egisset....\n\nb) In Libros de Anima: fol. 96r. - 205r.\n\nInitium Prooemii fol. 96v.: Aggredimur post alia illam philosophiae partem.... Clausula fol. 205r: 8. Maii\n\nc) (Metaphysica): fol. 1 - 30v. (=208 - 238)\n\nInitium Prooemii: Metaphysica scientiarum omnium nobilissima.... (fol. 208)\n\nClausula triennalis philosophiae laboris fol. 238v: Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.\n\nAd eundem cursum philosophicum etiam Cod. MN II 17 videtur pertinere.\n\nAuctor et scriptor ignoti.",
+    "latinHtml": "<p>II + 205 + 32 = 239 foll., tegumentum ut in codice MN II 17</p>\n<p>a) (In libros de Generatione et Corruptione): fol. 1 - 96</p>\n<p>Initium Prooemii: Postquam Aristoteles 8 libris physicorum egisset....</p>\n<p>b) In Libros de Anima: fol. 96r. - 205r.</p>\n<p>Initium Prooemii fol. 96v.: Aggredimur post alia illam philosophiae partem.... Clausula fol. 205r: 8. Maii</p>\n<p>c) (Metaphysica): fol. 1 - 30v. (=208 - 238)</p>\n<p>Initium Prooemii: Metaphysica scientiarum omnium nobilissima.... (fol. 208)</p>\n<p>Clausula triennalis philosophiae laboris fol. 238v: Actum Graecii in Archiducali Universitate 14 Junii. Anno 1632.</p>\n<p>Ad eundem cursum philosophicum etiam Cod. MN II 17 videtur pertinere.</p>\n<p>Auctor et scriptor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 18.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-18/",
+  "relations": [
+    {
+      "typeRaw": "same_course_as",
+      "typeLabel": "same course as",
+      "targetRaw": "[[MN II 17]]",
+      "targetId": "mn-ii-17",
+      "targetSignature": "MN II 17",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 18",
+    "titles": "(In libros de Generatione et Corruptione): fol. 1 - 96 \n(In libros de Generatione et Corruptione): fol. 1 - 96 \nIn Libros de Anima: fol. 96r. - 205r. \n(Metaphysica): fol. 1 - 30v. (=208 - 238)",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Philosophischer Kurs zu Werden, Seele und Metaphysik, abgeschlossen an der Universität Graz. \n(In libros de Generatione et Corruptione): fol. 1 - 96 \nIn Libros de Anima: fol. 96r. - 205r. \n(Metaphysica): fol. 1 - 30v. (=208 - 238)",
+    "physical": "Papier \n239 Blätter \nQuartformat \ndescription: Wie MN II 17: Einband aus einem mit Musiknoten beschriebenen Pergamentblatt."
+  }
+}

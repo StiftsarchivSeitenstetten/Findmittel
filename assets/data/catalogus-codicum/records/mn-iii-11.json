@@ -1,0 +1,388 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-11",
+  "signature": "MN III 11",
+  "aliases": [
+    "Bibl. Cod. MN III 11"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "148–149",
+  "heading": {
+    "title": "Compendium Ex Libris De Generatione Corruptione et Coelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1697"
+  },
+  "date": {
+    "display": "1697",
+    "intervals": [
+      {
+        "from": 1697,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Compendium Ex Libris De Generatione Corruptione et Coelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio in Librum 3. Physicorum De Infinito et Motu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–47",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Liber quartus Physicorum. De loco vacuo et tempore",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 47–93",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Liber quintus Physicorum. De Contrarietate Motuum et Quietis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 93–96",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Liber sextus Physicorum De Continuo, Inceptione et Desitione rerum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 97–138",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Liber 7. et 8 De quibusdam conditionibus et effectibus motus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 138–142",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Tractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 143–193",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Metheoris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 193",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Tractatus in Libros De Coelis et Mundo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 193–211",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "15. Juni 1697"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Notata De Penetratione et Continuo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 212–213",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Solvuntur obiectiones ex F: J: (?) ex Variis Variae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 227–312",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Ex Repetitione in Refectorio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 323–348",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Repetitiones extraordinariae P. L.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 355–366",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-m",
+      "label": "m",
+      "type": "",
+      "title": {
+        "text": "Explicatio Reverendi P. F.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 379–381",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Columbanus Leopolder",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Columbanus Leopolder",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Nach dem Katalog zog er Vorlesungen zusammen und benutzte zusätzlich gedruckte Werke."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1697",
+        "intervals": [
+          {
+            "from": 1697,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 508 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1697.\n\n**Kompendium aus den Büchern Über Werden und Vergehen und Über den Himmel** – eine Überschrift, die allerdings nur unvollkommen zu den tatsächlich enthaltenen Teilen passt.\n\na) **Disputation zum dritten Buch der Physik über Unendlichkeit und Bewegung:** S. 1–47.\n\nb) **Viertes Buch der Physik über Ort, Leere und Zeit:** S. 47–93.\n\nc) **Fünftes Buch der Physik über Gegensätzlichkeit von Bewegung und Ruhe:** S. 93–96.\n\nd) **Sechstes Buch der Physik über das Kontinuum, den Beginn und das Ende der Dinge:** S. 97–138.\n\ne) **Siebtes und achtes Buch über gewisse Bedingungen und Wirkungen der Bewegung:** S. 138–144.\n\nf) **Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** S. 143–193.\n\ng) **Abhandlung über die Meteore:** S. 193.\n\nh) **Abhandlung zu den Büchern Über Himmel und Welt:** S. 193–211. Schluss S. 211: **1697. Samstag, um fünf Uhr, 15. Juni.**\n\ni) **Notizen über Durchdringung und Kontinuum:** S. 212–213.\n\nj) **Lösung verschiedener Einwände aus Fr. J. (?) und anderen Quellen:** S. 227–312.\n\nk) **Aus der Wiederholung im Refektorium:** S. 323–348.\n\nl) **Außerordentliche Wiederholungen des P. Ludovicus Babenstuber**, Profess von Ettal und Professor in Salzburg: S. 355–366.\n\nm) **Erklärung des ehrwürdigen P. F.**, entweder P. Placidus Mayrhauser oder des Professors: S. 379–381.\n\nDie Randnotiz S. 1 **Columban von Seitten** zeigt, dass Fr. Columbanus Leopolder den Codex schrieb. Schon im vorhergehenden Codex hatte er den Fragen zu den Büchern der Physik zahlreiche Einwände beigefügt, besonders aus P. Ludovicus Babenstuber. Hier zog er außerdem aus mehreren anderen Autoren Einwände und Notizen heran: P. Marianus Wiser, P. Maurus Liechtenhaimb, Lierth (?), P. Sympert Reiter, P. Carolus Schrenk, P. Benedictus Widl und besonders wiederum P. Ludovicus Babenstuber.\n\nDer Schreiber scheint daher nicht nur die Vorlesungen eines Professors zusammengezogen, sondern auch gedruckte Werke für dieses Kompendium benutzt zu haben.",
+    "germanHtml": "<p>Kleines Oktavformat; 508 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1697.</p>\n<p><strong>Kompendium aus den Büchern Über Werden und Vergehen und Über den Himmel</strong> – eine Überschrift, die allerdings nur unvollkommen zu den tatsächlich enthaltenen Teilen passt.</p>\n<p>a) <strong>Disputation zum dritten Buch der Physik über Unendlichkeit und Bewegung:</strong> S. 1–47.</p>\n<p>b) <strong>Viertes Buch der Physik über Ort, Leere und Zeit:</strong> S. 47–93.</p>\n<p>c) <strong>Fünftes Buch der Physik über Gegensätzlichkeit von Bewegung und Ruhe:</strong> S. 93–96.</p>\n<p>d) <strong>Sechstes Buch der Physik über das Kontinuum, den Beginn und das Ende der Dinge:</strong> S. 97–138.</p>\n<p>e) <strong>Siebtes und achtes Buch über gewisse Bedingungen und Wirkungen der Bewegung:</strong> S. 138–144.</p>\n<p>f) <strong>Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:</strong> S. 143–193.</p>\n<p>g) <strong>Abhandlung über die Meteore:</strong> S. 193.</p>\n<p>h) <strong>Abhandlung zu den Büchern Über Himmel und Welt:</strong> S. 193–211. Schluss S. 211: <strong>1697. Samstag, um fünf Uhr, 15. Juni.</strong></p>\n<p>i) <strong>Notizen über Durchdringung und Kontinuum:</strong> S. 212–213.</p>\n<p>j) <strong>Lösung verschiedener Einwände aus Fr. J. (?) und anderen Quellen:</strong> S. 227–312.</p>\n<p>k) <strong>Aus der Wiederholung im Refektorium:</strong> S. 323–348.</p>\n<p>l) <strong>Außerordentliche Wiederholungen des P. Ludovicus Babenstuber</strong>, Profess von Ettal und Professor in Salzburg: S. 355–366.</p>\n<p>m) <strong>Erklärung des ehrwürdigen P. F.</strong>, entweder P. Placidus Mayrhauser oder des Professors: S. 379–381.</p>\n<p>Die Randnotiz S. 1 <strong>Columban von Seitten</strong> zeigt, dass Fr. Columbanus Leopolder den Codex schrieb. Schon im vorhergehenden Codex hatte er den Fragen zu den Büchern der Physik zahlreiche Einwände beigefügt, besonders aus P. Ludovicus Babenstuber. Hier zog er außerdem aus mehreren anderen Autoren Einwände und Notizen heran: P. Marianus Wiser, P. Maurus Liechtenhaimb, Lierth (?), P. Sympert Reiter, P. Carolus Schrenk, P. Benedictus Widl und besonders wiederum P. Ludovicus Babenstuber.</p>\n<p>Der Schreiber scheint daher nicht nur die Vorlesungen eines Professors zusammengezogen, sondern auch gedruckte Werke für dieses Kompendium benutzt zu haben.</p>",
+    "latin": "8° min.; 508 pagg.; teg. a1; script. 1697\n\nCompendium Ex Libris De Generatione Corruptione et Coelis (Quae tamen inscriptio minus convenit cum partibus, quas codex continet!).\n\na) Disputatio in Librum 3. Physicorum De Infinito et Motu: p. 1–47\n\nb) Liber quartus Physicorum. De loco vacuo et tempore: p. 47–93\n\nc) Liber quintus Physicorum. De Contrarietate Motuum et Quietis: 93/96\n\nd) Liber sextus Physicorum De Continuo, Inceptione et Desitione rerum: p. 97–138\n\ne) Liber 7. et 8 De quibusdam conditionibus et effectibus motus: 138/4\n\nf) Tractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione: p. 143–193\n\ng) Tractatus De Metheoris: p. 193\n\nh) Tractatus in Libros De Coelis et Mundo: p. 193–211. Clausula p. 211: 1697. Die Sabbati hora quinta Die 15 Junii.\n\ni) Notata De Penetratione et Continuo: p. 212–213\n\nj) Solvuntur obiectiones ex F: J: (?) ex Variis Variae: p. 227–312\n\n\n\n\nk) Ex Repetitione in Refectorio: p. 323–348\n\nl) Repetitiones extraordinariae P. L. (= P. Ludovici Babenstuber professi Ettalensis, professoris Salisburgensis): p. 355–366\n\nm) Explicatio Reverendi P. F. (= aut „Placidi“ Mayrhauser ad S. Petrum Salisburgi professi et ibidem professoris Philosophiae aut „Professoris“): p. 379–381\n\nNota in margine p. 1: Columban von Seitten indicat F. Columbanum Leopolder scripsisse codicem nostrum. Qui iam in codice praecedente singulis quaestionibus in libros Physicorum obiectiones plerumque ex P. L. (= ex opere P. Ludovici Babenstuber) apposuerat. In nostro autem codice etiam ex operibus complurium aliorum auctorum obiectiones notasque apposuit, ex. gr. p. 8 ex Wiser (= ex opere P. Mariani Wiser, professi ad S. Vitum cis Rottam et Philosophiae Professoris Salisburgi ca. 1687), ex Liechtenhaimb (= ex opere P. Mauri Liechtenhaimb, professi ad S. Lambertum in Styria et Philosophiae Professoris Salisburgi ca. 1678), p. 36; p. 71 ex Lierth (?), p. 132 ex Symperto Reiter (professo Andecensi et professore Salisburgensi ca. 1675), p. 133 ex Clarissimo P. Carolo Schrenck (de Notzing, professo ad S. Petrum Salisburgi et Philosophiae ibidem Professore ca. 1690), p. 155 ex Widl (= P. Benedicto Widl professo ad S. Emmeramum Ratisbonae et Philosophiae Salisburgi professore ca. 1683), plurimae autem obiectiones notaeque etiam in hoc codice ex P. L. (= P. Ludovico Babenstuber) depromptae sunt. Videtur igitur scriptor noster non solum lectiones unius professoris contraxisse, sed etiam libros typis impressos ad colligendum hoc compendium adhibuisse.",
+    "latinHtml": "<p>8° min.; 508 pagg.; teg. a1; script. 1697</p>\n<p>Compendium Ex Libris De Generatione Corruptione et Coelis (Quae tamen inscriptio minus convenit cum partibus, quas codex continet!).</p>\n<p>a) Disputatio in Librum 3. Physicorum De Infinito et Motu: p. 1–47</p>\n<p>b) Liber quartus Physicorum. De loco vacuo et tempore: p. 47–93</p>\n<p>c) Liber quintus Physicorum. De Contrarietate Motuum et Quietis: 93/96</p>\n<p>d) Liber sextus Physicorum De Continuo, Inceptione et Desitione rerum: p. 97–138</p>\n<p>e) Liber 7. et 8 De quibusdam conditionibus et effectibus motus: 138/4</p>\n<p>f) Tractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione: p. 143–193</p>\n<p>g) Tractatus De Metheoris: p. 193</p>\n<p>h) Tractatus in Libros De Coelis et Mundo: p. 193–211. Clausula p. 211: 1697. Die Sabbati hora quinta Die 15 Junii.</p>\n<p>i) Notata De Penetratione et Continuo: p. 212–213</p>\n<p>j) Solvuntur obiectiones ex F: J: (?) ex Variis Variae: p. 227–312</p>\n<p>k) Ex Repetitione in Refectorio: p. 323–348</p>\n<p>l) Repetitiones extraordinariae P. L. (= P. Ludovici Babenstuber professi Ettalensis, professoris Salisburgensis): p. 355–366</p>\n<p>m) Explicatio Reverendi P. F. (= aut „Placidi“ Mayrhauser ad S. Petrum Salisburgi professi et ibidem professoris Philosophiae aut „Professoris“): p. 379–381</p>\n<p>Nota in margine p. 1: Columban von Seitten indicat F. Columbanum Leopolder scripsisse codicem nostrum. Qui iam in codice praecedente singulis quaestionibus in libros Physicorum obiectiones plerumque ex P. L. (= ex opere P. Ludovici Babenstuber) apposuerat. In nostro autem codice etiam ex operibus complurium aliorum auctorum obiectiones notasque apposuit, ex. gr. p. 8 ex Wiser (= ex opere P. Mariani Wiser, professi ad S. Vitum cis Rottam et Philosophiae Professoris Salisburgi ca. 1687), ex Liechtenhaimb (= ex opere P. Mauri Liechtenhaimb, professi ad S. Lambertum in Styria et Philosophiae Professoris Salisburgi ca. 1678), p. 36; p. 71 ex Lierth (?), p. 132 ex Symperto Reiter (professo Andecensi et professore Salisburgensi ca. 1675), p. 133 ex Clarissimo P. Carolo Schrenck (de Notzing, professo ad S. Petrum Salisburgi et Philosophiae ibidem Professore ca. 1690), p. 155 ex Widl (= P. Benedicto Widl professo ad S. Emmeramum Ratisbonae et Philosophiae Salisburgi professore ca. 1683), plurimae autem obiectiones notaeque etiam in hoc codice ex P. L. (= P. Ludovico Babenstuber) depromptae sunt. Videtur igitur scriptor noster non solum lectiones unius professoris contraxisse, sed etiam libros typis impressos ad colligendum hoc compendium adhibuisse.</p>"
+  },
+  "source": {
+    "file": "MN III 11.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-11/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN III 10]]",
+      "targetId": "mn-iii-10",
+      "targetSignature": "MN III 10",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN III 9]]",
+      "targetId": "mn-iii-9",
+      "targetSignature": "MN III 9",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN III 11",
+    "titles": "Compendium Ex Libris De Generatione Corruptione et Coelis \nDisputatio in Librum 3. Physicorum De Infinito et Motu \nLiber quartus Physicorum. De loco vacuo et tempore \nLiber quintus Physicorum. De Contrarietate Motuum et Quietis \nLiber sextus Physicorum De Continuo, Inceptione et Desitione rerum \nLiber 7. et 8 De quibusdam conditionibus et effectibus motus \nTractatus in duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione \nTractatus De Metheoris \nTractatus in Libros De Coelis et Mundo \nNotata De Penetratione et Continuo \nSolvuntur obiectiones ex F: J: (?) ex Variis Variae \nEx Repetitione in Refectorio \nRepetitiones extraordinariae P. L. \nExplicatio Reverendi P. F.",
+    "persons": "Fr. Columbanus Leopolder Schreiber scribe \nFr. Columbanus Leopolder Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

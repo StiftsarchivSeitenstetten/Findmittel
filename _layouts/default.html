@@ -6,12 +6,16 @@
     <title>Digitale Findmittel – Stiftsarchiv & Stiftsbibliothek Seitenstetten</title>
     <!-- Hier greifen alle Seiten, egal wie tief im Ordner, auf das Haupt-CSS zu -->
     <link rel="stylesheet" href="{{ site.baseurl }}/style.css">
+    {% if page.extra_css %}
+        {% for stylesheet in page.extra_css %}
+    <link rel="stylesheet" href="{{ site.baseurl }}{{ stylesheet }}">
+        {% endfor %}
+    {% endif %}
     {% if page.datatables %}
     <link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
     {% endif %}
 </head>
 <body>
-
     <header>
         {% include header.html %}
     </header>
@@ -24,5 +28,10 @@
         {% include footer.html %}
     </footer>
 
+    {% if page.extra_js %}
+        {% for script in page.extra_js %}
+    <script src="{{ site.baseurl }}{{ script }}" defer></script>
+        {% endfor %}
+    {% endif %}
 </body>
 </html>

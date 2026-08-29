@@ -1,0 +1,174 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-237",
+  "signature": "MN II 237",
+  "aliases": [
+    "Bibl. Cod. MN II 237"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "185",
+  "heading": {
+    "title": "Philosophiae Tractatus Secundus in Octo libros phisicorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1710 (?)"
+  },
+  "date": {
+    "display": "ca. 1710 (?)",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Philosophiae Tractatus Secundus in Octo libros phisicorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–293",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 294–297",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Student wie bei MN II 236."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "300 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1710 (?)",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "300 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1710 (?).\n\na) **Zweite philosophische Abhandlung zu den acht Büchern der Physik:** S. 3–293. Anfang: Nachdem die Schwierigkeiten der Logik überwunden sind, schreiten wir zur Erklärung der Naturphilosophie fort......\n\nb) **Allgemeines Register der gesamten Physik, in dem die von uns angenommenen Lehrmeinungen nach der Reihenfolge der Disputationen verzeichnet sind:** S. 294–297.\n\nVerfasser und Schreiber sind unbekannt. Derselbe Student schrieb bereits den vorhergehenden Codex. Obwohl das genaue Entstehungsjahr unsicher ist, vermutet der Katalogbearbeiter aufgrund von Einbandform und Schrift auch hier ungefähr das Jahr 1710.",
+    "germanHtml": "<p>300 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1710 (?).</p>\n<p>a) <strong>Zweite philosophische Abhandlung zu den acht Büchern der Physik:</strong> S. 3–293. Anfang: Nachdem die Schwierigkeiten der Logik überwunden sind, schreiten wir zur Erklärung der Naturphilosophie fort......</p>\n<p>b) <strong>Allgemeines Register der gesamten Physik, in dem die von uns angenommenen Lehrmeinungen nach der Reihenfolge der Disputationen verzeichnet sind:</strong> S. 294–297.</p>\n<p>Verfasser und Schreiber sind unbekannt. Derselbe Student schrieb bereits den vorhergehenden Codex. Obwohl das genaue Entstehungsjahr unsicher ist, vermutet der Katalogbearbeiter aufgrund von Einbandform und Schrift auch hier ungefähr das Jahr 1710.</p>",
+    "latin": "300 pagg.; teg. c3d; script. ca. 1710 (?)\n\na) Philosophiae Tractatus Secundus in Octo libros phisicorum: p. 3–293.\n\nInitium: Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......\n\nb) Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae: p. 294–297.\n\nAuctor et scriptor ignoti. At vidimus iam p. 184 eundem studiosum etiam codicem praecedentem scripsisse, et licet incertum sit, quo tempore duos istos codices scripserit, tamen e forma tegumenti scripturaeque coniicio annum 1710 a vero ortus tempore non multum abesse.",
+    "latinHtml": "<p>300 pagg.; teg. c3d; script. ca. 1710 (?)</p>\n<p>a) Philosophiae Tractatus Secundus in Octo libros phisicorum: p. 3–293.</p>\n<p>Initium: Superatis logicae difficultatibus ad philosophiae naturalis explanationem progredimur, ......</p>\n<p>b) Index Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae: p. 294–297.</p>\n<p>Auctor et scriptor ignoti. At vidimus iam p. 184 eundem studiosum etiam codicem praecedentem scripsisse, et licet incertum sit, quo tempore duos istos codices scripserit, tamen e forma tegumenti scripturaeque coniicio annum 1710 a vero ortus tempore non multum abesse.</p>"
+  },
+  "source": {
+    "file": "MN II 237.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-237/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 236]]",
+      "targetId": "mn-ii-236",
+      "targetSignature": "MN II 236",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 237",
+    "titles": "Philosophiae Tractatus Secundus in Octo libros phisicorum \nPhilosophiae Tractatus Secundus in Octo libros phisicorum \nIndex Universae Physicae generalis, ubi perspiciendae sunt admissae â nobis Sententiae, iuxta ordinem disputationum inscriptae",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n300 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

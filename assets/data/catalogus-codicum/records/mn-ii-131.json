@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-131",
+  "signature": "MN II 131",
+  "aliases": [
+    "Bibl. Cod. MN II 131"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "82–84",
+  "heading": {
+    "title": "Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1675, 1678"
+  },
+  "date": {
+    "display": "1675, 1678",
+    "intervals": [
+      {
+        "from": 1675,
+        "to": 1675,
+        "source": "display_derived"
+      },
+      {
+        "from": 1678,
+        "to": 1678,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Katalogbeschreibung von Bibl. Cod. MN II 131.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. V",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Sequuntur pro Supplemento reliquorum foliorum, Notata quaedam ex Collegio Juris Canonici",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 308",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma et Archiepiscopali Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis inchoavit, Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus. Anno 1678. manu propria",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 168",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Adam Ferdinand Franz Xaver Wimmer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Leopold Wimmer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VI + 308 + 169 + 408 = 891 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1675, 1678",
+        "intervals": [
+          {
+            "from": 1675,
+            "to": 1675,
+            "source": "display_derived"
+          },
+          {
+            "from": 1678,
+            "to": 1678,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VI + 308 + 169 + 408 = 891 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1675 und 1678.\n\na) **Kommentar zum vierten Buch der Dekretalen über Verlöbnisse und Ehen**, im Linzer Gymnasium des kaiserlichen Jesuitenkollegs unter P. Marcellinus Coroninus SJ, Doktor der freien Künste und Philosophie, damaliger Dekan und ordentlicher Professor des kanonischen Rechts; aufgezeichnet von Adam Ferdinand Franz Xaver Wimmer, Student der Philosophie und des kanonischen Rechts, 1675: S. V, VI, 1–308.\n\nVermerk S. VI: Das vierte Buch der Dekretalen Gregors enthält 21 Titel. Nur 14 diktierte P. Marcellinus Coroninus in Linz; die übrigen sieben ergänzte Wimmer 1678 in Salzburg aus den Diktaten P. Rupert Kympflers, Benediktiner von Kremsmünster, Doktor beider Rechte und damals Abt von Gleink. Hinzu kamen verschiedene Tabellen zur Blutsverwandtschaft und Schwägerschaft sowie weitere für das Ehegericht nützliche Materialien und private Kollegien, die P. Rupert Kympfler im letzten Jahr vor seiner Erhebung zum Abt in Salzburg gehalten hatte.\n\nAnfang S. 1: Bevor ich an die Erklärung dieses vierten Buches der Dekretalen gehe, will ich kurz die Methode darlegen.....\n\nVermerk S. 211: Bis hierher diktierte P. Marcellinus Coroninus; durch die Herbstferien gehindert, konnte er den Kurs nicht vollenden. Daher ergänzte Wimmer in Salzburg die restlichen sieben Titel aus den Diktaten des nunmehrigen Abtes Rupert Kympfler.\n\nS. 293–308: Sehr schöne Tabellen zur Erklärung der verschiedenen Arten und Grade von Ehehindernissen.\n\nb) **Zur Ergänzung der übrigen Blätter folgen einige Notizen aus dem Kolleg des kanonischen Rechts:** S. 308, 1–166 (=308–474), insgesamt 42 Kollegien. Dass diese Notizen aus den von P. Rupert Kympfler 1677 gehaltenen Privatkollegien stammen, zeigt der erwähnte Vermerk S. VI. Schluss: Ende dieser Materie 1678.\n\nc) **Kommentar zum fünften Buch der Dekretalen über Anklagen, Untersuchungen und Anzeigen.** Begonnen an der Universität Salzburg unter P. Rupert Kympfler, Doktor beider Rechte und Benediktiner von Kremsmünster, vollendet unter P. Joseph Mezger, Doktor beider Rechte; eigenhändig aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678: S. 168,169,1–407 (=476–884).\n\nVermerk S. 169 (=477): P. Rupert Kympfler diktierte bis zum zehnten Titel **Über jene, die ihre Kinder getötet haben**. Nach seinem Weggang blieb der Lehrstuhl während der ganzen Fastenzeit unbesetzt. Danach übernahm P. Joseph Mezger, Benediktiner von St. Peter in Salzburg, Prior, Doktor beider Rechte und Prokanzler der Salzburger Benediktineruniversität, und führte das fünfte Buch 1678 bis zum Ende fort.\n\nAnfang S. 1 (=478): Nachdem in den vorhergehenden Büchern....\n\nVermerk S. 175 (=653): Nach dem Weggang P. Rupert Kympflers, jetzt Abt von Gleink, der bis zum zehnten Titel diktierte, folgte P. Joseph Mezger, Prior von St. Peter, der ab 18. April 1678 den weiteren Stoff diktierte.\n\nSchluss S. 407 (=884): Wir beendeten diese Abhandlung am 8. Oktober 1678.\n\nAufschrift auf der Vorderseite des Einbandes: **F L W P S** = Frater Leopoldus Wimmer Professus Seittenstettensis, 1678.",
+    "germanHtml": "<p>VI + 308 + 169 + 408 = 891 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1675 und 1678.</p>\n<p>a) <strong>Kommentar zum vierten Buch der Dekretalen über Verlöbnisse und Ehen</strong>, im Linzer Gymnasium des kaiserlichen Jesuitenkollegs unter P. Marcellinus Coroninus SJ, Doktor der freien Künste und Philosophie, damaliger Dekan und ordentlicher Professor des kanonischen Rechts; aufgezeichnet von Adam Ferdinand Franz Xaver Wimmer, Student der Philosophie und des kanonischen Rechts, 1675: S. V, VI, 1–308.</p>\n<p>Vermerk S. VI: Das vierte Buch der Dekretalen Gregors enthält 21 Titel. Nur 14 diktierte P. Marcellinus Coroninus in Linz; die übrigen sieben ergänzte Wimmer 1678 in Salzburg aus den Diktaten P. Rupert Kympflers, Benediktiner von Kremsmünster, Doktor beider Rechte und damals Abt von Gleink. Hinzu kamen verschiedene Tabellen zur Blutsverwandtschaft und Schwägerschaft sowie weitere für das Ehegericht nützliche Materialien und private Kollegien, die P. Rupert Kympfler im letzten Jahr vor seiner Erhebung zum Abt in Salzburg gehalten hatte.</p>\n<p>Anfang S. 1: Bevor ich an die Erklärung dieses vierten Buches der Dekretalen gehe, will ich kurz die Methode darlegen.....</p>\n<p>Vermerk S. 211: Bis hierher diktierte P. Marcellinus Coroninus; durch die Herbstferien gehindert, konnte er den Kurs nicht vollenden. Daher ergänzte Wimmer in Salzburg die restlichen sieben Titel aus den Diktaten des nunmehrigen Abtes Rupert Kympfler.</p>\n<p>S. 293–308: Sehr schöne Tabellen zur Erklärung der verschiedenen Arten und Grade von Ehehindernissen.</p>\n<p>b) <strong>Zur Ergänzung der übrigen Blätter folgen einige Notizen aus dem Kolleg des kanonischen Rechts:</strong> S. 308, 1–166 (=308–474), insgesamt 42 Kollegien. Dass diese Notizen aus den von P. Rupert Kympfler 1677 gehaltenen Privatkollegien stammen, zeigt der erwähnte Vermerk S. VI. Schluss: Ende dieser Materie 1678.</p>\n<p>c) <strong>Kommentar zum fünften Buch der Dekretalen über Anklagen, Untersuchungen und Anzeigen.</strong> Begonnen an der Universität Salzburg unter P. Rupert Kympfler, Doktor beider Rechte und Benediktiner von Kremsmünster, vollendet unter P. Joseph Mezger, Doktor beider Rechte; eigenhändig aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678: S. 168,169,1–407 (=476–884).</p>\n<p>Vermerk S. 169 (=477): P. Rupert Kympfler diktierte bis zum zehnten Titel <strong>Über jene, die ihre Kinder getötet haben</strong>. Nach seinem Weggang blieb der Lehrstuhl während der ganzen Fastenzeit unbesetzt. Danach übernahm P. Joseph Mezger, Benediktiner von St. Peter in Salzburg, Prior, Doktor beider Rechte und Prokanzler der Salzburger Benediktineruniversität, und führte das fünfte Buch 1678 bis zum Ende fort.</p>\n<p>Anfang S. 1 (=478): Nachdem in den vorhergehenden Büchern....</p>\n<p>Vermerk S. 175 (=653): Nach dem Weggang P. Rupert Kympflers, jetzt Abt von Gleink, der bis zum zehnten Titel diktierte, folgte P. Joseph Mezger, Prior von St. Peter, der ab 18. April 1678 den weiteren Stoff diktierte.</p>\n<p>Schluss S. 407 (=884): Wir beendeten diese Abhandlung am 8. Oktober 1678.</p>\n<p>Aufschrift auf der Vorderseite des Einbandes: <strong>F L W P S</strong> = Frater Leopoldus Wimmer Professus Seittenstettensis, 1678.</p>",
+    "latin": "VI + 308 + 169 + 408 = 891 pagg.; teg. a2; script. 1675, 1678\n\na) Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675: p. V, VI, 1 - 308.\n\nNota p. VI: Continet hic Liber 4 Decretalium Epistolarum Gregorii, Viginti et unum titulum, quorum 14 tantùm dictavit Lincii, R. P. Marcellinus Coroninus è Societate Jesu. Reliquos verò 7, - ne mancum relinquerem opus - Salisburgi ex dictatis ....P. Ruperti\n\n\n\nKympfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis, defactò Domini Domini Abbatis in Gleinckh, collegi. Quibus etiam, praeter diversas Consanguinitatis, et affinitatis tabulas, aliaque ad forum matrimoniale perutilia, accesserunt Collegia privata, ab eodem Clarissimo Domino Patre Ruperto Kimpfler Salisburgi ultimo anno, antequam ad Abbatialem dignitatem eveheretur, doctissimè elaborata, atque huc pro meliori Repetentis progressu reducta. Anno 1678.\n\nInitium in quartum Decretalium librum p. 1: Priusquam huius libri expositionem aggredior, paucis exponam methodum.....\n\nNota p. 211: Huc usque R. P. Marcellinus Coronino è Societate Jesu, in Caesareo Societatis Jesu Collegii Lincensis Gymnasio Philosophiae Decanus, et Sacrorum Canonum Professor Ordinarius dictavit, praeventus vero (?) ab Autumnalibus feriis coronidem imponere non potuit, quare Salisburgi reliquos 7 titulos ex dictatis ....P. Ruperti Kympfler, defacto Abbatis Gluniacensis, collegi, et ita tunc librum quartum Decretalium adiuvante Dei gratia absolvi.\n\nPerpulchrae tabulae ad varia genera, variosque gradus impedimentorum matrimonialium explicandum: p. 293 - 308.\n\nb) Sequuntur pro Supplemento reliquorum foliorum, Notata quaedam ex Collegio Juris Canonici: p. 308, 1 - 166 (= 308 - 474) (42 Collegia).\n\nHaec notata excerpta esse e collegiis privatis [gestrichenes Wort] a P. Ruperto Kympfler anno 1677 habitis Nota paginae VI, quam supra deprompsimus, demonstrat. Conclusio p. 166 (= 474): Finis huius materiae 1678.\n\nc) Commentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma et Archiepiscopali Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis inchoavit, Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus. Anno 1678. manu propria: p. 168, 169, 1 - 407 (= 476 - 884).\n\nNota p. 169 (= 477): Dictavit P. Rudpertus Kimpfler, defactò Reverendissimus in Gleinckh, praesentis libri materiam, usque ad titulum 10, De his, qui filios Occiderunt. Cuius vices - Vacante tamen per totam Quadragesimam Lectionis huius Cathedrâ - Subivit ...Pater Josephus Mezger, Ordinis Divi Benedicti, ad S. Petrum Salisburgi Professus, ibidemque Prior meritissimus, Juris Utriusque Doctor et Almae Benedictinae Universitatis Salisburgensis Procancellarius dignissimus, totumque quintum tunc Decretalium Librum ad finem usque feliciter continuavit. Anno 1678.\n\n\n\nInitium Commentarii in quintum Librum Decretalium Gregorii 9, Summi Pontificis: p. 1 (= 478): Postquam in libris praecedentibus....\n\nNB: p. 175 (= 653): Post discessum Clarissimi Domini Patris Rudperti, defacto Abbatis in Gleinckh, qui usque ad Decimum hunc titulum dictavit: Secutus est Clarissimus Dominus P. Josephus Mezger, Prior ad S. Petrum; qui dictavit sequentem, â praesenti incipiendo titulo, materiam; die 18 Aprilis anno 1678.\n\nClausula p. 407 (= 884): Absolvimus hunc tractatum 8 Octobris 1678.\n\nInscriptio partis adversae tegumenti: .F L W PS. (= Frater Leopoldus Wimmer Professus Seittenstettensis) .1 6. 78.",
+    "latinHtml": "<p>VI + 308 + 169 + 408 = 891 pagg.; teg. a2; script. 1675, 1678</p>\n<p>a) Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675: p. V, VI, 1 - 308.</p>\n<p>Nota p. VI: Continet hic Liber 4 Decretalium Epistolarum Gregorii, Viginti et unum titulum, quorum 14 tantùm dictavit Lincii, R. P. Marcellinus Coroninus è Societate Jesu. Reliquos verò 7, - ne mancum relinquerem opus - Salisburgi ex dictatis ....P. Ruperti</p>\n<p>Kympfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis, defactò Domini Domini Abbatis in Gleinckh, collegi. Quibus etiam, praeter diversas Consanguinitatis, et affinitatis tabulas, aliaque ad forum matrimoniale perutilia, accesserunt Collegia privata, ab eodem Clarissimo Domino Patre Ruperto Kimpfler Salisburgi ultimo anno, antequam ad Abbatialem dignitatem eveheretur, doctissimè elaborata, atque huc pro meliori Repetentis progressu reducta. Anno 1678.</p>\n<p>Initium in quartum Decretalium librum p. 1: Priusquam huius libri expositionem aggredior, paucis exponam methodum.....</p>\n<p>Nota p. 211: Huc usque R. P. Marcellinus Coronino è Societate Jesu, in Caesareo Societatis Jesu Collegii Lincensis Gymnasio Philosophiae Decanus, et Sacrorum Canonum Professor Ordinarius dictavit, praeventus vero (?) ab Autumnalibus feriis coronidem imponere non potuit, quare Salisburgi reliquos 7 titulos ex dictatis ....P. Ruperti Kympfler, defacto Abbatis Gluniacensis, collegi, et ita tunc librum quartum Decretalium adiuvante Dei gratia absolvi.</p>\n<p>Perpulchrae tabulae ad varia genera, variosque gradus impedimentorum matrimonialium explicandum: p. 293 - 308.</p>\n<p>b) Sequuntur pro Supplemento reliquorum foliorum, Notata quaedam ex Collegio Juris Canonici: p. 308, 1 - 166 (= 308 - 474) (42 Collegia).</p>\n<p>Haec notata excerpta esse e collegiis privatis [gestrichenes Wort] a P. Ruperto Kympfler anno 1677 habitis Nota paginae VI, quam supra deprompsimus, demonstrat. Conclusio p. 166 (= 474): Finis huius materiae 1678.</p>\n<p>c) Commentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma et Archiepiscopali Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis inchoavit, Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus. Anno 1678. manu propria: p. 168, 169, 1 - 407 (= 476 - 884).</p>\n<p>Nota p. 169 (= 477): Dictavit P. Rudpertus Kimpfler, defactò Reverendissimus in Gleinckh, praesentis libri materiam, usque ad titulum 10, De his, qui filios Occiderunt. Cuius vices - Vacante tamen per totam Quadragesimam Lectionis huius Cathedrâ - Subivit ...Pater Josephus Mezger, Ordinis Divi Benedicti, ad S. Petrum Salisburgi Professus, ibidemque Prior meritissimus, Juris Utriusque Doctor et Almae Benedictinae Universitatis Salisburgensis Procancellarius dignissimus, totumque quintum tunc Decretalium Librum ad finem usque feliciter continuavit. Anno 1678.</p>\n<p>Initium Commentarii in quintum Librum Decretalium Gregorii 9, Summi Pontificis: p. 1 (= 478): Postquam in libris praecedentibus....</p>\n<p>NB: p. 175 (= 653): Post discessum Clarissimi Domini Patris Rudperti, defacto Abbatis in Gleinckh, qui usque ad Decimum hunc titulum dictavit: Secutus est Clarissimus Dominus P. Josephus Mezger, Prior ad S. Petrum; qui dictavit sequentem, â praesenti incipiendo titulo, materiam; die 18 Aprilis anno 1678.</p>\n<p>Clausula p. 407 (= 884): Absolvimus hunc tractatum 8 Octobris 1678.</p>\n<p>Inscriptio partis adversae tegumenti: .F L W PS. (= Frater Leopoldus Wimmer Professus Seittenstettensis) .1 6. 78.</p>"
+  },
+  "source": {
+    "file": "MN II 131.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-131/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 131",
+    "titles": "Commentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675 \nCommentarius in Librum Quartum Decretalium. De Sponsalibus, et Matrimoniis. Quem in Lincensi Caesarei Collegii Societatis Jesu Gymnasio, Praeside Reverendo P. Marcellino Coronino, eiusdem Societatis Jesu, Artium Liberalium et Philosophiae Doctore, eiusdemque Facultatis pro tempore Decano Spectabili, nec non Sacrorum Canonum Professore ordinario, Scriptis excepit Adamus Ferdinandus Franciscus Xaverius Wimmer, Philosophiae et Sacrorum Canonum Studiosus, Anno 1675 \nSequuntur pro Supplemento reliquorum foliorum, Notata quaedam ex Collegio Juris Canonici \nCommentarius in Librum Quintum Decretalium. De Accusationibus, Inquisitionibus, et Denunciationibus. Quem In Alma et Archiepiscopali Universitate Salisburgensi. Sub Praesidio .....P. Rudperti Kimpfler, Juris Utriusque Doctoris, Professi Benedictini Cremifanensis inchoavit, Sub Tutamine ....P. Josephi Mezger, Juris Utriusque Doctoris finivit, Fr. Leopoldus Wimmer Ordinis Divi Benedicti, in Seittenstetten Professus. Anno 1678. manu propria",
+    "persons": "Adam Ferdinand Franz Xaver Wimmer Schreiber scribe \nFr. Leopold Wimmer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Katalogbeschreibung von Bibl. Cod. MN II 131.",
+    "physical": "Papier \nVI + 308 + 169 + 408 = 891 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

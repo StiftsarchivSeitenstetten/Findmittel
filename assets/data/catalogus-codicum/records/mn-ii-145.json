@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-145",
+  "signature": "MN II 145",
+  "aliases": [
+    "Bibl. Cod. MN II 145"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "106",
+  "heading": {
+    "title": "Commentaria in 8 Libros Physicorum Aristotelis",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "ca. 1685 (?)"
+  },
+  "date": {
+    "display": "ca. 1685 (?)",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": "Unvollständig; der erste Teil der Kommentare zur Physik und das Titelblatt des zweiten Teils fehlen."
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentaria in 8 Libros Physicorum Aristotelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 3–37",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Nur Ende des Kommentars zum 6. sowie Kommentare zum 7. und 8. Buch erhalten; der übrige Teil war in einem anderen Band gebunden und fehlt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentaria in libros Aristotelis De generatione et corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 37–174",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus in Meteora",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 175–200",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Commentaria in libros de animâ",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 200–332",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Commentaria in Libros de caelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 333–361",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Commentaria in 14 Libros Metaphysicorum Aristotelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 367–429",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "438 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1685 (?)",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "438 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1685 (?).\n\na) **(Kommentare zu den acht Büchern der Physik des Aristoteles):** S. 3–37. Erhalten sind nur das Ende des Kommentars zum sechsten sowie die Kommentare zum siebten und achten Buch. Der übrige Teil war in einem anderen Band gebunden und ist nicht mehr vorhanden.\n\nb) **Kommentare zu den Büchern des Aristoteles Über Werden und Vergehen:** S. 37–174. Anfang: Wo Aristoteles die physikalischen Lehrvorträge abgeschlossen hat.....\n\nc) **Abhandlung über die Meteorologie:** S. 175–200. Anfang der einzigen Frage **Über Natur und Wirkungen der Meteore:** Meteore sind nichts anderes als.....\n\nd) **Kommentare zu den Büchern Über die Seele:** S. 200–332. Anfang S. 200: Die Bücher Über die Seele sind von allen Teilen der Physik die vornehmsten.....\n\ne) **Kommentare zu den Büchern Über den Himmel:** S. 333–361. Anfang: Der beste Gott gab nach Ovid dem Menschen ein erhabenes Antlitz und befahl ihm, den Himmel zu betrachten.....\n\nf) **(Kommentare zu den 14 Büchern der Metaphysik des Aristoteles):** S. 367–429. Anfang: Die Metaphysik, Königin aller Naturwissenschaften,....\n\nDa sowohl der erste Teil der Kommentare zu den acht Büchern der Physik als auch das Titelblatt des zweiten Teiles fehlen, sind weder Schreiber noch Verfasser oder Jahr der Niederschrift bekannt. Nach Einband und Schrift dürfte der Codex um 1685 entstanden sein.",
+    "germanHtml": "<p>438 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1685 (?).</p>\n<p>a) <strong>(Kommentare zu den acht Büchern der Physik des Aristoteles):</strong> S. 3–37. Erhalten sind nur das Ende des Kommentars zum sechsten sowie die Kommentare zum siebten und achten Buch. Der übrige Teil war in einem anderen Band gebunden und ist nicht mehr vorhanden.</p>\n<p>b) <strong>Kommentare zu den Büchern des Aristoteles Über Werden und Vergehen:</strong> S. 37–174. Anfang: Wo Aristoteles die physikalischen Lehrvorträge abgeschlossen hat.....</p>\n<p>c) <strong>Abhandlung über die Meteorologie:</strong> S. 175–200. Anfang der einzigen Frage <strong>Über Natur und Wirkungen der Meteore:</strong> Meteore sind nichts anderes als.....</p>\n<p>d) <strong>Kommentare zu den Büchern Über die Seele:</strong> S. 200–332. Anfang S. 200: Die Bücher Über die Seele sind von allen Teilen der Physik die vornehmsten.....</p>\n<p>e) <strong>Kommentare zu den Büchern Über den Himmel:</strong> S. 333–361. Anfang: Der beste Gott gab nach Ovid dem Menschen ein erhabenes Antlitz und befahl ihm, den Himmel zu betrachten.....</p>\n<p>f) <strong>(Kommentare zu den 14 Büchern der Metaphysik des Aristoteles):</strong> S. 367–429. Anfang: Die Metaphysik, Königin aller Naturwissenschaften,....</p>\n<p>Da sowohl der erste Teil der Kommentare zu den acht Büchern der Physik als auch das Titelblatt des zweiten Teiles fehlen, sind weder Schreiber noch Verfasser oder Jahr der Niederschrift bekannt. Nach Einband und Schrift dürfte der Codex um 1685 entstanden sein.</p>",
+    "latin": "438 pagg.; teg. a2; script. ca. 1685 (?)\n\na) (Commentaria in 8 Libros Physicorum Aristotelis): p. 3–37. Superest non nisi finis Commentariorum in librum sextum Physicorum et Commentarii in librum septimum et octavum. Caetera utpote alio volumine colligata iam non inveniuntur.\n\nb) Commentaria in libros Aristotelis De generatione et corruptione: p. 37–174. Initium: Ubi Aristoteles absolvit Agroasmata (!) Physica.....\n\nc) Tractatus in Meteora: p. 175–200. Initium Quaestionis Unicae De natura et effectibus Meteorum: Meteora nihil aliud sunt, quam.....\n\nd) Commentaria in libros de animâ p. 200–332. Initium p. 200: Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....\n\ne) Commentaria in Libros de caelis: p. 333–361. Initium: Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....\n\nf) (Commentaria in 14 Libros Metaphysicorum Aristotelis): p. 367–429. Initium: Metaphysica omnium scientiarum Naturalium Regina,....\n\nQuia et pars prior commentariorum in 8 libros Physicorum et folium titulare partis alterius deest, neque scriptor notus est neque auctor, neque quo anno codex noster scriptus sit. Dixeris autem propter formam tegumenti scripturaeque circa annum 1685 ortum esse eum.",
+    "latinHtml": "<p>438 pagg.; teg. a2; script. ca. 1685 (?)</p>\n<p>a) (Commentaria in 8 Libros Physicorum Aristotelis): p. 3–37. Superest non nisi finis Commentariorum in librum sextum Physicorum et Commentarii in librum septimum et octavum. Caetera utpote alio volumine colligata iam non inveniuntur.</p>\n<p>b) Commentaria in libros Aristotelis De generatione et corruptione: p. 37–174. Initium: Ubi Aristoteles absolvit Agroasmata (!) Physica.....</p>\n<p>c) Tractatus in Meteora: p. 175–200. Initium Quaestionis Unicae De natura et effectibus Meteorum: Meteora nihil aliud sunt, quam.....</p>\n<p>d) Commentaria in libros de animâ p. 200–332. Initium p. 200: Libri de animâ sunt ex omnibus Physicae partibus nobilissimi.....</p>\n<p>e) Commentaria in Libros de caelis: p. 333–361. Initium: Optimus Deus Teste ovidio os homini sublime dedit caelumque tueri,.....</p>\n<p>f) (Commentaria in 14 Libros Metaphysicorum Aristotelis): p. 367–429. Initium: Metaphysica omnium scientiarum Naturalium Regina,....</p>\n<p>Quia et pars prior commentariorum in 8 libros Physicorum et folium titulare partis alterius deest, neque scriptor notus est neque auctor, neque quo anno codex noster scriptus sit. Dixeris autem propter formam tegumenti scripturaeque circa annum 1685 ortum esse eum.</p>"
+  },
+  "source": {
+    "file": "MN II 145.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-145/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 145",
+    "titles": "Commentaria in 8 Libros Physicorum Aristotelis \nCommentaria in 8 Libros Physicorum Aristotelis \nCommentaria in libros Aristotelis De generatione et corruptione \nTractatus in Meteora \nCommentaria in libros de animâ \nCommentaria in Libros de caelis \nCommentaria in 14 Libros Metaphysicorum Aristotelis",
+    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Unvollständig; der erste Teil der Kommentare zur Physik und das Titelblatt des zweiten Teils fehlen. \nNur Ende des Kommentars zum 6. sowie Kommentare zum 7. und 8. Buch erhalten; der übrige Teil war in einem anderen Band gebunden und fehlt.",
+    "physical": "Papier \n438 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-226",
+  "signature": "MN II 226",
+  "aliases": [
+    "Bibl. Cod. MN II 226"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "175–176",
+  "heading": {
+    "title": "Tractatus De Deo Uno",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1706/08"
+  },
+  "date": {
+    "display": "1706/08",
+    "intervals": [
+      {
+        "from": 1706,
+        "to": 1708,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo Uno",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–304",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1706"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo Trino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 313–342",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1707"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "TraCtatVs De BonIs, et MaLIs AngeLIs",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 345–508",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "title_note",
+          "text": "Der Titel enthält ein Chronogramm auf 1708."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1708-04-30"
+        },
+        {
+          "type": "date",
+          "display": "1708"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Beatitudine Seu Ultimo Fine Hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 511–601",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Conscientia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 601–621",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg",
+      "note": "Für d und e wird die Vortragstätigkeit aus der Parallelüberlieferung MN II 230 erschlossen."
+    },
+    {
+      "name": "Fr. Benedictus Calles",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "624 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1706/08",
+        "intervals": [
+          {
+            "from": 1706,
+            "to": 1708,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "624 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706/08.\n\na) **Abhandlung über den einen Gott**, vorgetragen von P. Caelestin Pley, Profess von Seitenstetten, ordentlicher Professor der Theologie und Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Benedictus Calles, Profess desselben Klosters und Theologiestudent: S. 3–304.\n\nAnfang S. 5: **An den Hörer der Theologie. Nach so vielen Lehrern der Theologie, von deren Schriften die gelehrte Welt überreich ist....**\n\nb) **Abhandlung über den dreieinigen Gott**, vorgetragen von P. Caelestin Pley und aufgezeichnet von Fr. Benedictus Calles, 1707: S. 313–342.\n\nAnfang der Vorrede S. 315: Beginnen wir mit dem unaussprechlichen Geheimnis des dreieinigen Gottes.....\n\nc) **Abhandlung über die guten und bösen Engel** – der Titel enthält ein Chronogramm auf 1708 –, vorgetragen von P. Caelestin Pley und aufgezeichnet von Fr. Benedictus Calles, damals unwürdiger Konviktor: S. 345–508.\n\nAnfang S. 347: An den Hörer der Theologie. Im vergangenen Jahr betrachtete der Theologe Gott in sich selbst.... Schluss: **Wir beendeten [dies] am 30. April 1708.**\n\nd) **Abhandlung über die Glückseligkeit oder das letzte Ziel des Menschen:** S. 511–601. Anfang der Vorrede S. 513: Unter der Hülle dieses Titels verbirgt sich alles Gute.....\n\ne) **Abhandlung über das Gewissen:** S. 601–621. Anfang der vorbereitenden Frage: Was ist das Gewissen und wie vielfach ist es? Ich sage erstens, dass das Gewissen die rechte Vernunft sei....\n\nDie Teile c und d enthält auch MN II 230 bis S. 450. Daraus ist ersichtlich, dass P. Caelestin Pley auch Teil d und damit wohl ebenso Teil e verfasst beziehungsweise vorgetragen hat.\n\nDie Teile a und b finden sich auch in MN I 28.",
+    "germanHtml": "<p>624 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706/08.</p>\n<p>a) <strong>Abhandlung über den einen Gott</strong>, vorgetragen von P. Caelestin Pley, Profess von Seitenstetten, ordentlicher Professor der Theologie und Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Benedictus Calles, Profess desselben Klosters und Theologiestudent: S. 3–304.</p>\n<p>Anfang S. 5: <strong>An den Hörer der Theologie. Nach so vielen Lehrern der Theologie, von deren Schriften die gelehrte Welt überreich ist....</strong></p>\n<p>b) <strong>Abhandlung über den dreieinigen Gott</strong>, vorgetragen von P. Caelestin Pley und aufgezeichnet von Fr. Benedictus Calles, 1707: S. 313–342.</p>\n<p>Anfang der Vorrede S. 315: Beginnen wir mit dem unaussprechlichen Geheimnis des dreieinigen Gottes.....</p>\n<p>c) <strong>Abhandlung über die guten und bösen Engel</strong> – der Titel enthält ein Chronogramm auf 1708 –, vorgetragen von P. Caelestin Pley und aufgezeichnet von Fr. Benedictus Calles, damals unwürdiger Konviktor: S. 345–508.</p>\n<p>Anfang S. 347: An den Hörer der Theologie. Im vergangenen Jahr betrachtete der Theologe Gott in sich selbst.... Schluss: <strong>Wir beendeten [dies] am 30. April 1708.</strong></p>\n<p>d) <strong>Abhandlung über die Glückseligkeit oder das letzte Ziel des Menschen:</strong> S. 511–601. Anfang der Vorrede S. 513: Unter der Hülle dieses Titels verbirgt sich alles Gute.....</p>\n<p>e) <strong>Abhandlung über das Gewissen:</strong> S. 601–621. Anfang der vorbereitenden Frage: Was ist das Gewissen und wie vielfach ist es? Ich sage erstens, dass das Gewissen die rechte Vernunft sei....</p>\n<p>Die Teile c und d enthält auch MN II 230 bis S. 450. Daraus ist ersichtlich, dass P. Caelestin Pley auch Teil d und damit wohl ebenso Teil e verfasst beziehungsweise vorgetragen hat.</p>\n<p>Die Teile a und b finden sich auch in MN I 28.</p>",
+    "latin": "624 pagg.; teg. a1; script. 1706/08\n\na) Tractatus De Deo Uno Traditus â.....(ut supra!)..P. Caelestino Pley, Ordinis Sanctissimi P. Benedicti....(ut supra ad MN II 225!)... Professore Ordinario, Celsissimi.....(ut supra!)..Consiliario Ecclesiastico, nec non eiusdem Universitatis Vice-Rector Magnifico. calamo exceptus â F. Benedicto Calles eundem Ordinem in eodem Monasterio Professo, Sacrosanctae Theologiae Studioso: p. 3–304.\n\nInitium p. 5: Auditori Theologo. Post totidem Theologiae Magistros quorum scitis abundat litterarius orbis....\n\nb) Tractatus De Deo Trino Traditus â.....(ut supra!)..P. Caelestino Pley ....(ut supra!)..Seittenstettensis Professo....Archi-Episcopali Universitate Salisburgensi Professore Ordinario. Celsissimi....Ecclesiastico, Universitatis ibidem Vice-Rector Magnifico, calamo exceptus: â F. Benedicto Calles eundem ordinem in eodem Monasterio Professo. Anno reparatae Salutis MDCCVII (1707): p. 313–342.\n\nInitium Praefationis p. 315: Auspicamur ineffabile Dei Trini mysterium.....\n\n\n\n\nc) TraCtatVs De BonIs, et MaLIs AngeLIs. (Chronogramma ad annum 1708) Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P: Caelestino Pley, Ordinis S. P. Benedicti Celeberrimi Divae Virginis Monasterii Seittenstettensis in inferiori Austria Professo. Sacro-Sanctae Theologiae Doctore, eiusdemque in Alma ac Archi-Episcopali Universitate Salisburgensi Professore Ordinario, et Sacrae huius Facultatis Decano Spectabili: Celsissimi et Reverendissimi Principis, ac Archi-Episcopi Salisburgensis Consiliario Ecclesiastico, et Celeberrimae huius Universitatis Vice-Rector Dignissimo calamo exceptus â F Benedicto Calles eiusdem ordinis et loci Professo Sacrosanctae Theologiae Studioso. Pro teMpore ConVICtore InDIgno. (Chronogramma ad annum 1708): p. 345–508.\n\nInitium Tractatus De Angelis: p. 347: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in se ipso....\n\nClausula: Absolvimus die 30 Aprilis 1708.\n\nd) Tractatus De Beatitudine Seu Ultimo Fine Hominis: p. 511–601.  \nInitium Anteloquii p. 513: Sub tituli huius cortice latet omne bonum\n\ne) Tractatus De Conscientia: p. 601–621. Initium Quaestionis Praeambulae: Quid et Quotuplex sit Conscientia? Dico Primo. quod conscientia sit recta ratio....\n\nPartes c et d continet etiam Codex MN II 230 (usque ad p. 450; quem codicem vide infra!). Quo codice monemur P. Caelestinum Pley etiam partis d (ideoque etiam partis e) auctorem esse.\n\nPartes a et b codicis nostri invenies etiam infra in codice MN I 28.",
+    "latinHtml": "<p>624 pagg.; teg. a1; script. 1706/08</p>\n<p>a) Tractatus De Deo Uno Traditus â.....(ut supra!)..P. Caelestino Pley, Ordinis Sanctissimi P. Benedicti....(ut supra ad MN II 225!)... Professore Ordinario, Celsissimi.....(ut supra!)..Consiliario Ecclesiastico, nec non eiusdem Universitatis Vice-Rector Magnifico. calamo exceptus â F. Benedicto Calles eundem Ordinem in eodem Monasterio Professo, Sacrosanctae Theologiae Studioso: p. 3–304.</p>\n<p>Initium p. 5: Auditori Theologo. Post totidem Theologiae Magistros quorum scitis abundat litterarius orbis....</p>\n<p>b) Tractatus De Deo Trino Traditus â.....(ut supra!)..P. Caelestino Pley ....(ut supra!)..Seittenstettensis Professo....Archi-Episcopali Universitate Salisburgensi Professore Ordinario. Celsissimi....Ecclesiastico, Universitatis ibidem Vice-Rector Magnifico, calamo exceptus: â F. Benedicto Calles eundem ordinem in eodem Monasterio Professo. Anno reparatae Salutis MDCCVII (1707): p. 313–342.</p>\n<p>Initium Praefationis p. 315: Auspicamur ineffabile Dei Trini mysterium.....</p>\n<p>c) TraCtatVs De BonIs, et MaLIs AngeLIs. (Chronogramma ad annum 1708) Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P: Caelestino Pley, Ordinis S. P. Benedicti Celeberrimi Divae Virginis Monasterii Seittenstettensis in inferiori Austria Professo. Sacro-Sanctae Theologiae Doctore, eiusdemque in Alma ac Archi-Episcopali Universitate Salisburgensi Professore Ordinario, et Sacrae huius Facultatis Decano Spectabili: Celsissimi et Reverendissimi Principis, ac Archi-Episcopi Salisburgensis Consiliario Ecclesiastico, et Celeberrimae huius Universitatis Vice-Rector Dignissimo calamo exceptus â F Benedicto Calles eiusdem ordinis et loci Professo Sacrosanctae Theologiae Studioso. Pro teMpore ConVICtore InDIgno. (Chronogramma ad annum 1708): p. 345–508.</p>\n<p>Initium Tractatus De Angelis: p. 347: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in se ipso....</p>\n<p>Clausula: Absolvimus die 30 Aprilis 1708.</p>\n<p>d) Tractatus De Beatitudine Seu Ultimo Fine Hominis: p. 511–601. Initium Anteloquii p. 513: Sub tituli huius cortice latet omne bonum</p>\n<p>e) Tractatus De Conscientia: p. 601–621. Initium Quaestionis Praeambulae: Quid et Quotuplex sit Conscientia? Dico Primo. quod conscientia sit recta ratio....</p>\n<p>Partes c et d continet etiam Codex MN II 230 (usque ad p. 450; quem codicem vide infra!). Quo codice monemur P. Caelestinum Pley etiam partis d (ideoque etiam partis e) auctorem esse.</p>\n<p>Partes a et b codicis nostri invenies etiam infra in codice MN I 28.</p>"
+  },
+  "source": {
+    "file": "MN II 226.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-226/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN I 28]]",
+      "targetId": "mn-i-28",
+      "targetSignature": "MN I 28",
+      "appliesTo": [
+        "parts a–b"
+      ],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 230]]",
+      "targetId": "mn-ii-230",
+      "targetSignature": "MN II 230",
+      "appliesTo": [
+        "parts c–d"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 226",
+    "titles": "Tractatus De Deo Uno \nTractatus De Deo Uno \nTractatus De Deo Trino \nTraCtatVs De BonIs, et MaLIs AngeLIs \nTractatus De Beatitudine Seu Ultimo Fine Hominis \nTractatus De Conscientia",
+    "persons": "P. Caelestin Pley Dozent lecturer \nFr. Benedictus Calles Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Titel enthält ein Chronogramm auf 1708.",
+    "physical": "Papier \n624 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-33-m-i-l-u",
+  "signature": "Arch. Cod. 33 M (I l. u.)",
+  "aliases": [
+    "Arch. Cod. 33 M (I l. u.)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "245",
+  "heading": {
+    "title": "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1765"
+  },
+  "date": {
+    "display": "ca. 1765",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–78",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist nicht supplied."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "78 pagg.",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Blauer Seideneinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1765",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; 78 Seiten; blauer Seideneinband; geschrieben um 1765.\n\n**Paternae Poena Indulgentiae Seu Ochus Regnans.** Lateinische Tragödie.\n\nWeder Verfasser noch Schreiber noch das genaue Entstehungsjahr sind bekannt. Wegen des identischen, sehr seltenen Einbandes, der auch beim folgenden Codex vorkommt, ist eine Entstehung um 1765 wahrscheinlich.\n\n> **Handschriftliche Nachträge:** mehrere spätere, blasse Notizen, auf dem Scan nicht sicher lesbar.",
+    "germanHtml": "<p>Quartformat; 78 Seiten; blauer Seideneinband; geschrieben um 1765.</p>\n<p><strong>Paternae Poena Indulgentiae Seu Ochus Regnans.</strong> Lateinische Tragödie.</p>\n<p>Weder Verfasser noch Schreiber noch das genaue Entstehungsjahr sind bekannt. Wegen des identischen, sehr seltenen Einbandes, der auch beim folgenden Codex vorkommt, ist eine Entstehung um 1765 wahrscheinlich.</p>\n<blockquote><p><strong>Handschriftliche Nachträge:</strong> mehrere spätere, blasse Notizen, auf dem Scan nicht sicher lesbar.</p></blockquote>",
+    "latin": "4°; 78 pagg.; teg. caeruleum sericatum; script. ca. 1765\n\n**Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)**\n\nNeque auctor huius dramatis notus neque scriptor neque certe, quo anno ortus sit codicillus noster. Sed propter idem tegumentum, quod quamvis rarissimum sit, tamen etiam in codice proximo reperitur, veri simile est, hunc quoque codicillum circa annum 1765 ortum esse.\n\n> **Handschriftliche Nachträge auf der Seite:** mehrere spätere Notizen in blasser Handschrift; auf dem vorliegenden Scan nicht sicher genug lesbar, daher nicht spekulativ transkribiert.",
+    "latinHtml": "<p>4°; 78 pagg.; teg. caeruleum sericatum; script. ca. 1765</p>\n<p><strong>Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)</strong></p>\n<p>Neque auctor huius dramatis notus neque scriptor neque certe, quo anno ortus sit codicillus noster. Sed propter idem tegumentum, quod quamvis rarissimum sit, tamen etiam in codice proximo reperitur, veri simile est, hunc quoque codicillum circa annum 1765 ortum esse.</p>\n<blockquote><p><strong>Handschriftliche Nachträge auf der Seite:</strong> mehrere spätere Notizen in blasser Handschrift; auf dem vorliegenden Scan nicht sicher genug lesbar, daher nicht spekulativ transkribiert.</p></blockquote>"
+  },
+  "source": {
+    "file": "Arch. Cod. 33 M (I l. u.).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-33-m-i-l-u/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 33 M (I l. u.)",
+    "titles": "Paternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina) \nPaternae Poena Indulgentiae Seu Ochus Regnans. Tragoedia (Latina)",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die parenthetische Sprachangabe „Latina“ ist eine Erläuterung innerhalb des ansonsten überlieferten Titels; der Titel als solcher ist nicht supplied.",
+    "physical": "Papier \n78 pagg. \nQuartformat \ndescription: Blauer Seideneinband."
+  }
+}

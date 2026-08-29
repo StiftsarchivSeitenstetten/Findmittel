@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "96-1-18",
+  "signature": "96.1.18",
+  "aliases": [
+    "Bibl. Cod. 96.1.18"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "48",
+  "heading": {
+    "title": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "anno 1661"
+  },
+  "date": {
+    "display": "anno 1661",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–371v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Alphabetisch geordnete Materien A–L; deutsch. Die parenthetischen Auflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Joannes Baptista Suttinger à Turnhof",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "371 foll.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "anno 1661",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 371 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1661.\n\n**Gewohnheitsrecht, gesammelt von Herrn Johann Baptist Suttinger von Thurnhof, Doktor beider Rechte, Wiener Österreicher und Kanzler der erlauchten niederösterreichischen Regierung, 1661.**\n\nDer Schreiber ist unbekannt.\n\nAlphabetische Ordnung der Materien: Buchstaben A–L einschließlich; deutsch.\n\nDasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der folgende Codex.",
+    "germanHtml": "<p>Folioformat; 371 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1661.</p>\n<p><strong>Gewohnheitsrecht, gesammelt von Herrn Johann Baptist Suttinger von Thurnhof, Doktor beider Rechte, Wiener Österreicher und Kanzler der erlauchten niederösterreichischen Regierung, 1661.</strong></p>\n<p>Der Schreiber ist unbekannt.</p>\n<p>Alphabetische Ordnung der Materien: Buchstaben A–L einschließlich; deutsch.</p>\n<p>Dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der folgende Codex.</p>",
+    "latin": "fol.; 371 foll.; tegumentum a2; scriptus anno 1661\n\nIus Consuetudinarium Collectum à Domino **Ioanne Baptista Suttinger à Turnhof**, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661). Scriptor ignotus.\n\nOrdo rerum alphabeticus: Litterae A–L inclusive (Germanice).\n\nIdem ius consuetudinarium, sed ab alia manu scriptum, continet codex sequens:",
+    "latinHtml": "<p>fol.; 371 foll.; tegumentum a2; scriptus anno 1661</p>\n<p>Ius Consuetudinarium Collectum à Domino <strong>Ioanne Baptista Suttinger à Turnhof</strong>, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661). Scriptor ignotus.</p>\n<p>Ordo rerum alphabeticus: Litterae A–L inclusive (Germanice).</p>\n<p>Idem ius consuetudinarium, sed ab alia manu scriptum, continet codex sequens:</p>"
+  },
+  "source": {
+    "file": "96.1.18.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/96-1-18/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "96.1.19",
+      "targetId": "96-1-19",
+      "targetSignature": "96.1.19",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "96.1.18",
+    "titles": "Ius Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661). \nIus Consuetudinarium Collectum à Domino Ioanne Baptista Suttinger à Turnhof, I: V: D: (= Iuris Utriusque Doctor[is]) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario Anno M:D:C:LXI (1661).",
+    "persons": "Joannes Baptista Suttinger à Turnhof Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Alphabetisch geordnete Materien A–L; deutsch. Die parenthetischen Auflösungen erläutern den überlieferten Titel; der Titel als solcher ist nicht supplied.",
+    "physical": "Papier \n371 foll. \nFolioformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

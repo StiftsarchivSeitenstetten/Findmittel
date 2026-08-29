@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "lxxiv",
+  "signature": "LXXIV",
+  "aliases": [
+    "Bibl. Cod. LXXIV"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "3",
+  "heading": {
+    "title": "Breve Fundamentum Cantus Choralis",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "16. Jahrhundert"
+  },
+  "date": {
+    "display": "16. Jahrhundert",
+    "intervals": [
+      {
+        "from": 1501,
+        "to": 1600,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Breve Fundamentum Cantus Choralis",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Breve Fundamentum Cantus Choralis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Bl. 1r–25v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern; das Werk ist verstümmelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "4° min., 25 foll., script. saec. XVI., teg. c1",
+    "format": "Kleines Quartformat",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "16. Jahrhundert",
+        "intervals": [
+          {
+            "from": 1501,
+            "to": 1600,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Quartformat; 25 Blätter; geschrieben im 16. Jahrhundert; grauer Pappeinband.\n\n**(Kurze Grundlage des Choralgesangs)**\n\nDas Büchlein ist verstümmelt; Verfasser und Schreiber sind unbekannt. Mehr über diesen Codex im alten *Catalogus Codicum Manuscriptorum*, Bd. I, S. 159, wo er dem 17. Jahrhundert zugeschrieben wird.",
+    "germanHtml": "<p>Kleines Quartformat; 25 Blätter; geschrieben im 16. Jahrhundert; grauer Pappeinband.</p>\n<p><strong>(Kurze Grundlage des Choralgesangs)</strong></p>\n<p>Das Büchlein ist verstümmelt; Verfasser und Schreiber sind unbekannt. Mehr über diesen Codex im alten <em>Catalogus Codicum Manuscriptorum</em>, Bd. I, S. 159, wo er dem 17. Jahrhundert zugeschrieben wird.</p>",
+    "latin": "4° min., 25 foll., script. saec. XVI., teg. c1\n\n(Breve Fundamentum Cantus Choralis)\n\nOpusculum mutilum; auctor et scriptor ignoti; plura de hoc codice in vetere Cat. Cod. Manuscriptorum, Tom. I, p. 159, ubi hic codex saec. XVII. adscribitur.",
+    "latinHtml": "<p>4° min., 25 foll., script. saec. XVI., teg. c1</p>\n<p>(Breve Fundamentum Cantus Choralis)</p>\n<p>Opusculum mutilum; auctor et scriptor ignoti; plura de hoc codice in vetere Cat. Cod. Manuscriptorum, Tom. I, p. 159, ubi hic codex saec. XVII. adscribitur.</p>"
+  },
+  "source": {
+    "file": "LXXIV.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/lxxiv/",
+  "relations": [],
+  "search": {
+    "signature": "LXXIV",
+    "titles": "Breve Fundamentum Cantus Choralis \nBreve Fundamentum Cantus Choralis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext als editorische Ergänzung in runden Klammern; das Werk ist verstümmelt.",
+    "physical": "Papier \n4° min., 25 foll., script. saec. XVI., teg. c1 \nKleines Quartformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+  }
+}

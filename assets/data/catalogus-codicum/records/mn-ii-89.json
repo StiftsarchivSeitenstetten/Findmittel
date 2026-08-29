@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-89",
+  "signature": "MN II 89",
+  "aliases": [
+    "Bibl. Cod. MN II 89",
+    "Logica Graecensis MS. 1665"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "57",
+  "heading": {
+    "title": "Logica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1665"
+  },
+  "date": {
+    "display": "1665",
+    "intervals": [
+      {
+        "from": 1665,
+        "to": 1665,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Logica",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Logica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Stephanus Sevioviz (Senoviz?)",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-1",
+          "certainty": "uncertain"
+        },
+        {
+          "name": "Dionysius Kerner",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Dionysius Kerner",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "note": "Der Katalog nennt Gegenargumente: anderer Schriftcharakter in späteren Archivcodices und Logikstudium in Salzburg 1669."
+    },
+    {
+      "name": "P. Stephanus Sevioviz (Senoviz?)",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Dionysius Kerner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Stephanus Sevioviz (Senoviz?)",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-1",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Dionysius Kerner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "434 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1665",
+        "intervals": [
+          {
+            "from": 1665,
+            "to": 1665,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Graz",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Logica Graecensis MS. 1665."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "434 Seiten; Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1665.\n\n**(Logik).** Anfang der **Einführung der Summulae in die Logik des Aristoteles** S. 7: **Gewöhnlich werden den Anfängern gleich zu Beginn die Summulae vorgelegt....**\n\nSchluss S. 430: **Wir beendeten [dies] im Jahr 1665 am 28. Juli unter dem hochwürdigen Pater Stephanus Sevioviz (Senoviz?), Doktor der freien Künste und der Philosophie sowie ordentlichem Professor derselben, in Graz...... Dionysius Kerner aus Griesbach.**\n\nEs ist zu prüfen, ob dieser Schreiber mit P. **Amandus Kerner**, einem Österreicher aus Griesbach, identisch ist, der am 1. November 1667 im Kloster Seitenstetten die Gelübde ablegte. Wer diese Frage vorschnell bejaht, möge nicht übersehen, dass jener P. Amandus Kerner in den Seitenstettner Archivcodices 29 F, 34 R, 34 T und 34 V – siehe unten – eine andere Schrift verwendete; außerdem studierte er 1669 in Salzburg Logik.\n\nRückenaufschrift: **Logica Graecensis MS. 1665.**",
+    "germanHtml": "<p>434 Seiten; Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1665.</p>\n<p><strong>(Logik).</strong> Anfang der <strong>Einführung der Summulae in die Logik des Aristoteles</strong> S. 7: <strong>Gewöhnlich werden den Anfängern gleich zu Beginn die Summulae vorgelegt....</strong></p>\n<p>Schluss S. 430: <strong>Wir beendeten [dies] im Jahr 1665 am 28. Juli unter dem hochwürdigen Pater Stephanus Sevioviz (Senoviz?), Doktor der freien Künste und der Philosophie sowie ordentlichem Professor derselben, in Graz...... Dionysius Kerner aus Griesbach.</strong></p>\n<p>Es ist zu prüfen, ob dieser Schreiber mit P. <strong>Amandus Kerner</strong>, einem Österreicher aus Griesbach, identisch ist, der am 1. November 1667 im Kloster Seitenstetten die Gelübde ablegte. Wer diese Frage vorschnell bejaht, möge nicht übersehen, dass jener P. Amandus Kerner in den Seitenstettner Archivcodices 29 F, 34 R, 34 T und 34 V – siehe unten – eine andere Schrift verwendete; außerdem studierte er 1669 in Salzburg Logik.</p>\n<p>Rückenaufschrift: <strong>Logica Graecensis MS. 1665.</strong></p>",
+    "latin": "434 pagg.; tegumentum membranaceum saeculo XV. ornate modis musicae sacrae inscriptum; script. 1665\n\n(Logica). Initium Sumulariae in Aristotelis logicam introductionis pag. 7: Solent ad initium statim proponi tironibus Sumulae.... Clausula p. 430: finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre **Stephano Sevioviz (Senoviz?)** Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... **Dionysius Kerner** Grispachensis. (Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.)\n\nInscriptio dorsi: Logica Graecensis MS. 1665.",
+    "latinHtml": "<p>434 pagg.; tegumentum membranaceum saeculo XV. ornate modis musicae sacrae inscriptum; script. 1665</p>\n<p>(Logica). Initium Sumulariae in Aristotelis logicam introductionis pag. 7: Solent ad initium statim proponi tironibus Sumulae.... Clausula p. 430: finivimus Anno 1665 die 28 Julii. Sub Admodum Reverendo Patre <strong>Stephano Sevioviz (Senoviz?)</strong> Artium liberalium et Philosophiae Doctore nec non eiusdemque professore ordinario. Graecii...... <strong>Dionysius Kerner</strong> Grispachensis. (Quaerendum est, num hic scriptor idem sit atque P. Amandus Kerner Austriacus Griesbacensis, qui primo die Novembris 1667 in monasterio Seittenstettensi vota emisit. Qui hanc quaestionem facilius affirmat, ne negligat Patrem illum Amandum Kerner in archivi Seittenstettensis codicibus 29 F, 34 R, 34 T, 34 V – quos vide inferius! – alium adhibuisse scribendi characterem; immo anno 1669 Salisburgi Logicae studuisse.)</p>\n<p>Inscriptio dorsi: Logica Graecensis MS. 1665.</p>"
+  },
+  "source": {
+    "file": "MN II 89.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-89/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 89",
+    "titles": "Logica \nLogica",
+    "persons": "Dionysius Kerner unspecified unspecified \nP. Stephanus Sevioviz (Senoviz?) Dozent lecturer \nDionysius Kerner Schreiber scribe \nP. Stephanus Sevioviz (Senoviz?) Dozent lecturer \nDionysius Kerner Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n434 Seiten \ndescription: Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+  }
+}

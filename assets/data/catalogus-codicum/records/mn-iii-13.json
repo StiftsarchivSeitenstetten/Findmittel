@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-13",
+  "signature": "MN III 13",
+  "aliases": [
+    "Bibl. Cod. MN III 13"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "166–167",
+  "heading": {
+    "title": "Exercitia ad bene scribendas epistulas",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1700"
+  },
+  "date": {
+    "display": "um 1700",
+    "intervals": [
+      {
+        "from": 1700,
+        "to": 1700,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Exercitia ad bene scribendas epistulas",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de epistolis scribendis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–4",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern; der Anfang fehlt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Exempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae et similes",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 5–251",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 252 pagg.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1700",
+        "intervals": [
+          {
+            "from": 1700,
+            "to": 1700,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 252 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1700.\n\n**Übungen zum guten Briefschreiben.**\n\na) **Abhandlung über das Briefschreiben:** S. 1–4. Einige Seiten mit dem Anfang dieses Traktats oder der Einführung fehlen.\n\nb) **Kurze Musterbriefe für verschiedene Gelegenheiten, wie sie gelehrte Menschen zu schreiben pflegen**, etwa Neujahrswünsche, Trostbriefe und Ähnliches: S. 5–251.\n\nVielen Musterbriefen ist der Name des jeweiligen Adressaten vorangestellt. Der Katalogbearbeiter bezweifelt, dass diese Briefe tatsächlich an die genannten Personen abgesandt wurden; zur Datierung sind die Namen dennoch nützlich.\n\nSo ist ein Brief S. 8–9 an Franz Joseph Graf von Lamberg gerichtet, oberster Hauptmann von Oberösterreich und Ritter des Goldenen Vlieses. Diese Bezeichnung setzt die Verleihung des Vlieses 1694 voraus, liegt aber vor seiner Erhebung zum Fürsten 1711. Rudolf Graf von Thun, S. 14, war 1687–1702 Bischof von Seckau; Georg von Stubenberg, S. 18, war 1687–1703 Landeshauptmann der Steiermark.\n\nDaher wurde das Büchlein von unbekannter Hand ungefähr um 1700 geschrieben.",
+    "germanHtml": "<p>Kleines Oktavformat; 252 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1700.</p>\n<p><strong>Übungen zum guten Briefschreiben.</strong></p>\n<p>a) <strong>Abhandlung über das Briefschreiben:</strong> S. 1–4. Einige Seiten mit dem Anfang dieses Traktats oder der Einführung fehlen.</p>\n<p>b) <strong>Kurze Musterbriefe für verschiedene Gelegenheiten, wie sie gelehrte Menschen zu schreiben pflegen</strong>, etwa Neujahrswünsche, Trostbriefe und Ähnliches: S. 5–251.</p>\n<p>Vielen Musterbriefen ist der Name des jeweiligen Adressaten vorangestellt. Der Katalogbearbeiter bezweifelt, dass diese Briefe tatsächlich an die genannten Personen abgesandt wurden; zur Datierung sind die Namen dennoch nützlich.</p>\n<p>So ist ein Brief S. 8–9 an Franz Joseph Graf von Lamberg gerichtet, oberster Hauptmann von Oberösterreich und Ritter des Goldenen Vlieses. Diese Bezeichnung setzt die Verleihung des Vlieses 1694 voraus, liegt aber vor seiner Erhebung zum Fürsten 1711. Rudolf Graf von Thun, S. 14, war 1687–1702 Bischof von Seckau; Georg von Stubenberg, S. 18, war 1687–1703 Landeshauptmann der Steiermark.</p>\n<p>Daher wurde das Büchlein von unbekannter Hand ungefähr um 1700 geschrieben.</p>",
+    "latin": "8° min., 252 pagg.; teg. a1; script. ca. 1700\n\n(Exercitia ad bene scribendas epistulas)\n\na) (Tractatus de epistolis scribendis): p. 1–4. Adverte tamen aliquot paginas cum initio huius tractatus aut introductionis deesse!\n\nb) (Exempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae et similes.): p. 5–251.\n\nMultis epistolis exemplaribus praescribitur nomen eius, ad quem diriguntur. Dubito autem, num tales epistolae re vera ad eos missae sint, quorum nomina prae se ferunt. Nihilominus talia nomina ad investigandum, quando scriptus sit libellus noster, usui esse possunt. Ex. gr. p. 8–9 epistola inscribitur Ad Excellentissimum Dominum Franciscum Josephum, Comitem de Lamberg, Supremum Austriae Superioris Capitaneum: Aurei velleris equitem. Quod scriptum est, postquam vir ille anno 1694 eques aurei velleris et antequam anno 1711 princeps factus est. Rudolfus ex Comitibus de Thun (p. 14) fuit 1687–1702 episcopus Seccoviensis, Georgius de Stubenberg (p. 18) 1687–1703 Supremus Capitaneus Styriae. Ergo codex noster (nescio a quo) circa annum 1700 **scriptus** est.",
+    "latinHtml": "<p>8° min., 252 pagg.; teg. a1; script. ca. 1700</p>\n<p>(Exercitia ad bene scribendas epistulas)</p>\n<p>a) (Tractatus de epistolis scribendis): p. 1–4. Adverte tamen aliquot paginas cum initio huius tractatus aut introductionis deesse!</p>\n<p>b) (Exempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae et similes.): p. 5–251.</p>\n<p>Multis epistolis exemplaribus praescribitur nomen eius, ad quem diriguntur. Dubito autem, num tales epistolae re vera ad eos missae sint, quorum nomina prae se ferunt. Nihilominus talia nomina ad investigandum, quando scriptus sit libellus noster, usui esse possunt. Ex. gr. p. 8–9 epistola inscribitur Ad Excellentissimum Dominum Franciscum Josephum, Comitem de Lamberg, Supremum Austriae Superioris Capitaneum: Aurei velleris equitem. Quod scriptum est, postquam vir ille anno 1694 eques aurei velleris et antequam anno 1711 princeps factus est. Rudolfus ex Comitibus de Thun (p. 14) fuit 1687–1702 episcopus Seccoviensis, Georgius de Stubenberg (p. 18) 1687–1703 Supremus Capitaneus Styriae. Ergo codex noster (nescio a quo) circa annum 1700 <strong>scriptus</strong> est.</p>"
+  },
+  "source": {
+    "file": "MN III 13.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-13/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 13",
+    "titles": "Exercitia ad bene scribendas epistulas \nTractatus de epistolis scribendis \nExempla brevia epistolarum, quas homines eruditi ad quasdam occasiones scribere solent, ex. gr. Apprecationes Novi Anni, Litterae consolatoriae et similes",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung steht im Katalogtext in runden Klammern; der Anfang fehlt. \nDie gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern.",
+    "physical": "Papier \n8° min., 252 pagg. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

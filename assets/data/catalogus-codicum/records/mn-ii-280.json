@@ -1,0 +1,260 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-280",
+  "signature": "MN II 280",
+  "aliases": [
+    "Bibl. Cod. MN II 280"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "228–229",
+  "heading": {
+    "title": "Tractatus Scholastico-Positivus De Deo Uno et Trino",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1751"
+  },
+  "date": {
+    "display": "1751",
+    "intervals": [
+      {
+        "from": 1751,
+        "to": 1751,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholastico-Positivus De Deo Uno et Trino",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Positivus De Deo Uno, ac Divinis Attributis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–172",
+      "language": "",
+      "incipit": {
+        "text": "Evehimur tandem in ipsum doctrinae Sacrae principium et finem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "27. Mai 1751"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo Trino. Anno. 1.7.51. 28. Mensis Maii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 179–226",
+      "language": "",
+      "incipit": {
+        "text": "Summum religionis nostrae mysterium"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "14. Juni 1751"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Veit",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictatus“ bezeichnet; die Tagesangabe des Beginns fehlt im Titel."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "234 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1751",
+        "intervals": [
+          {
+            "from": 1751,
+            "to": 1751,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "234 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751.\n\n**Scholastisch-positive Abhandlung über den einen und dreieinigen Gott**, diktiert von P. Benedictus Veit im Jahr 1751; die Tagesangabe im Titel fehlt.\n\na) **Scholastisch-positive Abhandlung über den einen Gott und die göttlichen Eigenschaften:** S. 5–172. Anfang: Endlich erheben wir uns zum Ursprung und Ziel der heiligen Lehre selbst,...... Schluss: **27. Mai**, unter dem Professor P. Benedictus Veit.\n\nb) **Abhandlung über den dreieinigen Gott. 1751, am 28. Mai:** S. 179–226. Anfang S. 181: Das höchste Geheimnis unserer Religion,..... Schluss: **14. Juni 1751.**\n\nUnser Codex ist Band III des theologischen Kurses, der im Kloster Seitenstetten selbst gehalten wurde. Der Schreiber ist unbekannt.",
+    "germanHtml": "<p>234 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751.</p>\n<p><strong>Scholastisch-positive Abhandlung über den einen und dreieinigen Gott</strong>, diktiert von P. Benedictus Veit im Jahr 1751; die Tagesangabe im Titel fehlt.</p>\n<p>a) <strong>Scholastisch-positive Abhandlung über den einen Gott und die göttlichen Eigenschaften:</strong> S. 5–172. Anfang: Endlich erheben wir uns zum Ursprung und Ziel der heiligen Lehre selbst,...... Schluss: <strong>27. Mai</strong>, unter dem Professor P. Benedictus Veit.</p>\n<p>b) <strong>Abhandlung über den dreieinigen Gott. 1751, am 28. Mai:</strong> S. 179–226. Anfang S. 181: Das höchste Geheimnis unserer Religion,..... Schluss: <strong>14. Juni 1751.</strong></p>\n<p>Unser Codex ist Band III des theologischen Kurses, der im Kloster Seitenstetten selbst gehalten wurde. Der Schreiber ist unbekannt.</p>",
+    "latin": "234 pagg.; teg. c3d; script. 1751\n\n**Tractatus Scholastico-Positivus De Deo Uno et Trino Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751 à die (cuius diei numerus deest!)**\n\na) Tractatus Scholastico-Positivus De Deo Uno, ac Divinis Attributis: p. 5–172.  \nInitium: Evehimur tandem in ipsum doctrinae Sacrae principium et finem,......  \nClausula: 27 Maii Professore A: R: RR: ac Docts: D: P: Benedicto Veith (quam clausulam p. 227 explicavimus in parte b codicis MN II 278!)\n\nb) Tractatus De Deo Trino. Anno. 1.7.51. 28. Mensis Maii: p. 179–226.  \nInitium p. 181: Summum religionis nostrae mysterium,.....  \nClausula: Die 14 Junii Anno 1751. (cetera ut in parte a!).\n\nCodex noster tomus III cursus theologici in ipso monasterio Seitenstettensi traditi est. Scriptor ignotus.",
+    "latinHtml": "<p>234 pagg.; teg. c3d; script. 1751</p>\n<p><strong>Tractatus Scholastico-Positivus De Deo Uno et Trino Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1751 à die (cuius diei numerus deest!)</strong></p>\n<p>a) Tractatus Scholastico-Positivus De Deo Uno, ac Divinis Attributis: p. 5–172. Initium: Evehimur tandem in ipsum doctrinae Sacrae principium et finem,...... Clausula: 27 Maii Professore A: R: RR: ac Docts: D: P: Benedicto Veith (quam clausulam p. 227 explicavimus in parte b codicis MN II 278!)</p>\n<p>b) Tractatus De Deo Trino. Anno. 1.7.51. 28. Mensis Maii: p. 179–226. Initium p. 181: Summum religionis nostrae mysterium,..... Clausula: Die 14 Junii Anno 1751. (cetera ut in parte a!).</p>\n<p>Codex noster tomus III cursus theologici in ipso monasterio Seitenstettensi traditi est. Scriptor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 280.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-280/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 280",
+    "titles": "Tractatus Scholastico-Positivus De Deo Uno et Trino \nTractatus Scholastico-Positivus De Deo Uno, ac Divinis Attributis \nTractatus De Deo Trino. Anno. 1.7.51. 28. Mensis Maii",
+    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Evehimur tandem in ipsum doctrinae Sacrae principium et finem \nSummum religionis nostrae mysterium",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n234 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

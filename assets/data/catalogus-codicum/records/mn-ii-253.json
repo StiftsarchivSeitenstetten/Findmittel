@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-253",
+  "signature": "MN II 253",
+  "aliases": [
+    "Bibl. Cod. MN II 253"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "194",
+  "heading": {
+    "title": "Tractatus De Virtute et Sacramento Paenitentiae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1714"
+  },
+  "date": {
+    "display": "1714",
+    "intervals": [
+      {
+        "from": 1714,
+        "to": 1714,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Virtute et Sacramento Paenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. II, 1–156v",
+      "language": "",
+      "incipit": {
+        "text": "Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Tribus ultimis Sacramentis Seu De Extrema unctione, Ordine, et Matrimonio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–33v (= fol. 158r–190v)",
+      "language": "",
+      "incipit": {
+        "text": "Absolutâ de Sacramento Paenitentiae consideratione"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "31. August 1714"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Alanus Pfeiffer",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Stift Admont / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Der Katalog bestimmt ihn aufgrund der Rückenaufschrift von MN II 262 ausdrücklich als auctor."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 252 und MN II 254–257."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "I, II, 157 + 43 = 200 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1714",
+        "intervals": [
+          {
+            "from": 1714,
+            "to": 1714,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "I, II, 157 + 43 = 200 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1714.\n\na) **Abhandlung über Tugend und Sakrament der Buße:** fol. II, 1–156v. Anfang fol. IIr: Den vierten Platz in der Lehrordnung unter den heiligsten Sakramenten der Kirche nimmt die Buße ein......\n\nb) **Abhandlung über die drei letzten Sakramente, nämlich Letzte Ölung, Weihe und Ehe:** fol. 1r–33v (= fol. 158r–190v). Anfang der Vorrede: Nach Abschluss der Betrachtung über das Sakrament der Buße....... Schluss: **1714, 31. August.**\n\nDer Schreiber, der auch den vorhergehenden und die vier folgenden Codices verfasste, ist unbekannt.\n\nObwohl der Verfasser in unserem Codex nicht genannt ist, wissen wir aus der Rückenaufschrift von MN II 262, der dieselben Vorlesungen enthält, dass es P. Alanus Pfeiffer, Profess von Admont und Professor in Salzburg, war.",
+    "germanHtml": "<p>I, II, 157 + 43 = 200 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1714.</p>\n<p>a) <strong>Abhandlung über Tugend und Sakrament der Buße:</strong> fol. II, 1–156v. Anfang fol. IIr: Den vierten Platz in der Lehrordnung unter den heiligsten Sakramenten der Kirche nimmt die Buße ein......</p>\n<p>b) <strong>Abhandlung über die drei letzten Sakramente, nämlich Letzte Ölung, Weihe und Ehe:</strong> fol. 1r–33v (= fol. 158r–190v). Anfang der Vorrede: Nach Abschluss der Betrachtung über das Sakrament der Buße....... Schluss: <strong>1714, 31. August.</strong></p>\n<p>Der Schreiber, der auch den vorhergehenden und die vier folgenden Codices verfasste, ist unbekannt.</p>\n<p>Obwohl der Verfasser in unserem Codex nicht genannt ist, wissen wir aus der Rückenaufschrift von MN II 262, der dieselben Vorlesungen enthält, dass es P. Alanus Pfeiffer, Profess von Admont und Professor in Salzburg, war.</p>",
+    "latin": "I, II, 157 + 43 = 200 foll.; teg. a1; script. 1714\n\na) Tractatus De Virtute et Sacramento Paenitentiae: fol. II, 1–156v  \nInitium fol. IIr: Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia,......\n\nb) Tractatus De Tribus ultimis Sacramentis Seu De Extrema unctione, Ordine, et Matrimonio: fol. 1r–33v (= 158r–190v).  \nInitium Proemii: Absolutâ de Sacramento Paenitentiae consideratione .......  \nClausula: 1714. 31. August\n\nScriptor noster, qui etiam codicem praecedentem et quattuor sequentes confecit, ignotus. Auctorem vero, quamquam in codice nostro non notatur, tamen P. Alanum Pfeiffer, Professum Admontensem et Professorem Salisburgensem, esse scimus; exhibetur enim in dorso codicis MN II 262 easdem lectiones continente.",
+    "latinHtml": "<p>I, II, 157 + 43 = 200 foll.; teg. a1; script. 1714</p>\n<p>a) Tractatus De Virtute et Sacramento Paenitentiae: fol. II, 1–156v Initium fol. IIr: Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia,......</p>\n<p>b) Tractatus De Tribus ultimis Sacramentis Seu De Extrema unctione, Ordine, et Matrimonio: fol. 1r–33v (= 158r–190v). Initium Proemii: Absolutâ de Sacramento Paenitentiae consideratione ....... Clausula: 1714. 31. August</p>\n<p>Scriptor noster, qui etiam codicem praecedentem et quattuor sequentes confecit, ignotus. Auctorem vero, quamquam in codice nostro non notatur, tamen P. Alanum Pfeiffer, Professum Admontensem et Professorem Salisburgensem, esse scimus; exhibetur enim in dorso codicis MN II 262 easdem lectiones continente.</p>"
+  },
+  "source": {
+    "file": "MN II 253.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-253/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 262]]",
+      "targetId": "mn-ii-262",
+      "targetSignature": "MN II 262",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 253",
+    "titles": "Tractatus De Virtute et Sacramento Paenitentiae \nTractatus De Virtute et Sacramento Paenitentiae \nTractatus De Tribus ultimis Sacramentis Seu De Extrema unctione, Ordine, et Matrimonio",
+    "persons": "P. Alanus Pfeiffer Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Quartum ordine doctrinae inter Sacrosancta Sacramenta Ecclesiae locum obtinet Paenitentia \nAbsolutâ de Sacramento Paenitentiae consideratione",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nI, II, 157 + 43 = 200 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

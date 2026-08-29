@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-256",
+  "signature": "MN II 256",
+  "aliases": [
+    "Bibl. Cod. MN II 256"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "195",
+  "heading": {
+    "title": "Tractatus De Jure, et Justitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1715"
+  },
+  "date": {
+    "display": "ca. 1715",
+    "intervals": [
+      {
+        "from": 1715,
+        "to": 1715,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_context",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Jure, et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–103r",
+      "language": "",
+      "incipit": {
+        "text": "In amplissimum pulcherrimarum virtutum collegium"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus. De Restitutione et Contractibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 103v–168v",
+      "language": "",
+      "incipit": {
+        "text": "Explicatâ priori Tractatu naturâ, et divisione iustitiae"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 252–255 und MN II 257."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "170 foll.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1715",
+        "intervals": [
+          {
+            "from": 1715,
+            "to": 1715,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_context",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "170 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1715.\n\na) **Abhandlung über Recht und Gerechtigkeit:** fol. 1r–103r. Anfang der Vorrede: In die überaus große Gemeinschaft der schönsten Tugenden......\n\nb) **Zweite Abhandlung über Restitution und Verträge:** fol. 103v–168v. Anfang der ersten Disputation: Nachdem in der vorhergehenden Abhandlung Natur und Einteilung der Gerechtigkeit erklärt wurden.......\n\nDerselbe Schreiber, der unseren Codex schrieb, führte auch die vier vorhergehenden und den folgenden Codex aus. Daher dürfte auch unser Codex um 1715 geschrieben worden sein.\n\nVerfasser und Name des Schreibers konnten nicht ermittelt werden. Dieselben Vorlesungen finden sich in MN II 261.",
+    "germanHtml": "<p>170 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1715.</p>\n<p>a) <strong>Abhandlung über Recht und Gerechtigkeit:</strong> fol. 1r–103r. Anfang der Vorrede: In die überaus große Gemeinschaft der schönsten Tugenden......</p>\n<p>b) <strong>Zweite Abhandlung über Restitution und Verträge:</strong> fol. 103v–168v. Anfang der ersten Disputation: Nachdem in der vorhergehenden Abhandlung Natur und Einteilung der Gerechtigkeit erklärt wurden.......</p>\n<p>Derselbe Schreiber, der unseren Codex schrieb, führte auch die vier vorhergehenden und den folgenden Codex aus. Daher dürfte auch unser Codex um 1715 geschrieben worden sein.</p>\n<p>Verfasser und Name des Schreibers konnten nicht ermittelt werden. Dieselben Vorlesungen finden sich in MN II 261.</p>",
+    "latin": "170 foll.; teg. c3d; script. ca. 1715\n\na) Tractatus De Jure, et Justitia: fol. 1r–103r.  \nInitium Proemii: In amplissimum pulcherrimarum virtutum collegium, .......\n\nb) Tractatus Secundus. De Restitutione et Contractibus: fol. 103v–168v.  \nInitium Disputationis primae: Explicatâ priori Tractatu naturâ, et divisione iustitiae .......\n\nIdem, qui codicem nostrum etiam quattuor praecedentes et subsequentem scripsit, ideoque hic quoque codex circa annum 1715 scriptus est. Auctor vero et nomen scriptoris nusquam inveniuntur. Reperiuntur autem eadem lectiones in codice MN II 261 (Vide inferius!)",
+    "latinHtml": "<p>170 foll.; teg. c3d; script. ca. 1715</p>\n<p>a) Tractatus De Jure, et Justitia: fol. 1r–103r. Initium Proemii: In amplissimum pulcherrimarum virtutum collegium, .......</p>\n<p>b) Tractatus Secundus. De Restitutione et Contractibus: fol. 103v–168v. Initium Disputationis primae: Explicatâ priori Tractatu naturâ, et divisione iustitiae .......</p>\n<p>Idem, qui codicem nostrum etiam quattuor praecedentes et subsequentem scripsit, ideoque hic quoque codex circa annum 1715 scriptus est. Auctor vero et nomen scriptoris nusquam inveniuntur. Reperiuntur autem eadem lectiones in codice MN II 261 (Vide inferius!)</p>"
+  },
+  "source": {
+    "file": "MN II 256.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-256/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 261]]",
+      "targetId": "mn-ii-261",
+      "targetSignature": "MN II 261",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 256",
+    "titles": "Tractatus De Jure, et Justitia \nTractatus De Jure, et Justitia \nTractatus Secundus. De Restitutione et Contractibus",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "In amplissimum pulcherrimarum virtutum collegium \nExplicatâ priori Tractatu naturâ, et divisione iustitiae",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n170 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

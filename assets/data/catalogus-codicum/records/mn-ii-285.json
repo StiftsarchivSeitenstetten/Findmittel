@@ -1,0 +1,273 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-285",
+  "signature": "MN II 285",
+  "aliases": [
+    "Bibl. Cod. MN II 285"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "231",
+  "heading": {
+    "title": "Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1752/53"
+  },
+  "date": {
+    "display": "1752/53",
+    "intervals": [
+      {
+        "from": 1752,
+        "to": 1753,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9–81",
+      "language": "",
+      "incipit": {
+        "text": "Pertractata Verbi Divini Incarnatione Doctor Angelicus"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Behandelt die Sakramente im Allgemeinen."
+        }
+      ],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "6. November 1752"
+        },
+        {
+          "type": "end_date_display",
+          "display": "17. Februar 1753, Nachmittagsvorlesung"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologico-Dogmatici. De Sanctissimis Ecclesiae Sacramentis in Specie. id est De Baptismo, Confirmatione, et Eucharistia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 89–195",
+      "language": "",
+      "incipit": {
+        "text": "Ad Sacramenta in particulari pertractanda"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "17. Februar 1753"
+        },
+        {
+          "type": "end_date_display",
+          "display": "30. Mai 1753"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Norbertus Pampichler",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "In beiden Titeln ausdrücklich mit „dictatus“ bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "198 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1752/53",
+        "intervals": [
+          {
+            "from": 1752,
+            "to": 1753,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "198 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1752/53.\n\na) **Theologisch-dogmatische Abhandlung über die heiligsten Sakramente der Kirche**, diktiert von P. Norbertus Pambichler im Jahr 1752, beginnend am 6. November.\n\nAnfang der Abhandlung S. 9: Nachdem die Menschwerdung des göttlichen Wortes behandelt ist,...... Schluss S. 81: **Wir beendeten [dies] am 17. Februar 1753 in der Nachmittagsvorlesung.** Diese Abhandlung behandelt die Sakramente im Allgemeinen.\n\nb) **Theologisch-dogmatische Abhandlung über die heiligsten Sakramente der Kirche im Einzelnen, nämlich Taufe, Firmung und Eucharistie**, diktiert von P. Norbertus Pambichler im Jahr 1753, beginnend am 17. Februar.\n\nAnfang der ersten Abhandlung über die Taufe S. 89: Um die Sakramente im Einzelnen zu behandeln,...... Schluss S. 195: **Wir beendeten am 30. Mai 1753 diese letzte Abhandlung unseres theologischen Kurses.**\n\nDieser letzte Codex ist Band VIII des scholastisch-theologischen Kurses, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde. Alle acht Bände wurden von derselben unbekannten Hand geschrieben und gleichartig eingebunden.",
+    "germanHtml": "<p>198 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1752/53.</p>\n<p>a) <strong>Theologisch-dogmatische Abhandlung über die heiligsten Sakramente der Kirche</strong>, diktiert von P. Norbertus Pambichler im Jahr 1752, beginnend am 6. November.</p>\n<p>Anfang der Abhandlung S. 9: Nachdem die Menschwerdung des göttlichen Wortes behandelt ist,...... Schluss S. 81: <strong>Wir beendeten [dies] am 17. Februar 1753 in der Nachmittagsvorlesung.</strong> Diese Abhandlung behandelt die Sakramente im Allgemeinen.</p>\n<p>b) <strong>Theologisch-dogmatische Abhandlung über die heiligsten Sakramente der Kirche im Einzelnen, nämlich Taufe, Firmung und Eucharistie</strong>, diktiert von P. Norbertus Pambichler im Jahr 1753, beginnend am 17. Februar.</p>\n<p>Anfang der ersten Abhandlung über die Taufe S. 89: Um die Sakramente im Einzelnen zu behandeln,...... Schluss S. 195: <strong>Wir beendeten am 30. Mai 1753 diese letzte Abhandlung unseres theologischen Kurses.</strong></p>\n<p>Dieser letzte Codex ist Band VIII des scholastisch-theologischen Kurses, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde. Alle acht Bände wurden von derselben unbekannten Hand geschrieben und gleichartig eingebunden.</p>",
+    "latin": "198 pagg.; teg. c3d; script. 1752/53\n\na) **Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino Patre Norberto Pambichler dictatus Anno 1752. à die sexta Novembris.**  \nInitium Tractatus Theologico-Dogmatici De Sanctissimis Ecclesiae Sacramentis p. 9: Pertractata Verbi Divini Incarnatione Doctor Angelicus......  \nClausula p. 81: Absolvimus 17 Februarii. 1753. in pomeridiana lectione (NB. Hic tractatus continet doctrinam de Sacramentis in genere!)\n\nb) **Tractatus Theologico-Dogmatici. De Sanctissimis Ecclesiae Sacramentis in Specie. id est De Baptismo, Confirmatione, et Eucharistia Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Norberto Pambichler dictati Anno 1753 à die decima septima Februarii.**  \nInitium Tractatus Primi De Baptismo: p. 89: Ad Sacramenta in particulari pertractanda......  \nClausula p. 195: Absolvimus 30 Maii Ultimum hunc cursus nostri theologici tractatum. Anno 1753.\n\nUltimus hic codex theologiae Scholasticae in monasterio Seitenstettensi ab anno 1750 usque ad annum 1753 traditae octavus est in serie nostra ab eodem scripta eodemque tegumento munita.",
+    "latinHtml": "<p>198 pagg.; teg. c3d; script. 1752/53</p>\n<p>a) <strong>Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino Patre Norberto Pambichler dictatus Anno 1752. à die sexta Novembris.</strong> Initium Tractatus Theologico-Dogmatici De Sanctissimis Ecclesiae Sacramentis p. 9: Pertractata Verbi Divini Incarnatione Doctor Angelicus...... Clausula p. 81: Absolvimus 17 Februarii. 1753. in pomeridiana lectione (NB. Hic tractatus continet doctrinam de Sacramentis in genere!)</p>\n<p>b) <strong>Tractatus Theologico-Dogmatici. De Sanctissimis Ecclesiae Sacramentis in Specie. id est De Baptismo, Confirmatione, et Eucharistia Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Norberto Pambichler dictati Anno 1753 à die decima septima Februarii.</strong> Initium Tractatus Primi De Baptismo: p. 89: Ad Sacramenta in particulari pertractanda...... Clausula p. 195: Absolvimus 30 Maii Ultimum hunc cursus nostri theologici tractatum. Anno 1753.</p>\n<p>Ultimus hic codex theologiae Scholasticae in monasterio Seitenstettensi ab anno 1750 usque ad annum 1753 traditae octavus est in serie nostra ab eodem scripta eodemque tegumento munita.</p>"
+  },
+  "source": {
+    "file": "MN II 285.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-285/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 285",
+    "titles": "Tractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis \nTractatus Theologico-Dogmaticus De Sanctissimis Ecclesiae Sacramentis \nTractatus Theologico-Dogmatici. De Sanctissimis Ecclesiae Sacramentis in Specie. id est De Baptismo, Confirmatione, et Eucharistia",
+    "persons": "P. Norbertus Pampichler Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Pertractata Verbi Divini Incarnatione Doctor Angelicus \nAd Sacramenta in particulari pertractanda",
+    "explicits": "",
+    "notes": "Behandelt die Sakramente im Allgemeinen.",
+    "physical": "Papier \n198 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

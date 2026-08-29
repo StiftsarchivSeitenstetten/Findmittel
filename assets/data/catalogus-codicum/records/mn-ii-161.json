@@ -1,0 +1,306 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-161",
+  "signature": "MN II 161",
+  "aliases": [
+    "Bibl. Cod. MN II 161"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "115–116",
+  "heading": {
+    "title": "Tractatus de Sacramentis in genere et specie",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1687"
+  },
+  "date": {
+    "display": "1687",
+    "intervals": [
+      {
+        "from": 1687,
+        "to": 1687,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus de Sacramentis in genere et specie",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–62v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Baptismo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 63–111r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius De Sacramento Confirmationis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 111v–119r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus quartus De Sacramento Eucharistiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 119v–155r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-05-07"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus quintus De Sacramento Poenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 155v–226v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-07-19"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Tractatus sextus De Sacramento Extremae unctionis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 227r–231v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Tractatus septimus De Sacramento Ordinis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 231v–238v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-08-01"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Tractatus octavus et ultimus De Sacramento Matrimonii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 239r–282v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Honorius Aigner",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kremsmünster",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung wird durch den Vergleich mit MN II 152 erschlossen."
+    },
+    {
+      "name": "Fr. Placidus Feigler",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Die Zuschreibung beruht auf dem Schriftvergleich mit den beiden vorhergehenden Codices."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "285 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1687",
+        "intervals": [
+          {
+            "from": 1687,
+            "to": 1687,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Theologiae Moralis (!) Tractatus (de) Sacramentis in genere et Specie. MS."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "285 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687.\n\na) **Erste Abhandlung über die Sakramente im Allgemeinen:** fol. 1–62v. Anfang der Vorrede: Über die Sakramente im Allgemeinen und im Einzelnen......\n\nb) **Zweite Abhandlung über die Taufe:** fol. 63–111r. Anfang: Nach Abschluss der Abhandlung über die Sakramente im Allgemeinen.....\n\nc) **Dritte Abhandlung über das Sakrament der Firmung:** fol. 111v–119r. Anfang: Da auf die Taufe unmittelbar das Sakrament der Firmung folgt.....\n\nd) **Vierte Abhandlung über das Sakrament der Eucharistie:** fol. 119v–155r. Anfang: Die Eucharistie als das göttlichste und ehrwürdigste Sakrament.... Schluss: **Wir schlossen diese Abhandlung am 7. Mai, am Vorabend von Christi Himmelfahrt, ab** – also 1687, als Christi Himmelfahrt am 8. Mai gefeiert wurde.\n\ne) **Fünfte Abhandlung über das Sakrament der Buße:** fol. 155v–226v. Anfang: Nicht so sehr von den Sakramenten im Allgemeinen..... Schluss: **Beendet am 19. Juli.**\n\nf) **Sechste Abhandlung über das Sakrament der Letzten Ölung:** fol. 227r–231v. Anfang: Erster Artikel. Ob die Letzte Ölung ein wahres Sakrament des Neuen Bundes sei.....\n\ng) **Siebte Abhandlung über das Sakrament der Weihe:** fol. 231v–238v. Anfang: Erster Artikel. Was ist Weihe oder wie vielfach ist sie? Schluss: **Am 1. August beendeten wir diese Abhandlung.**\n\nh) **Achte und letzte Abhandlung über das Sakrament der Ehe:** fol. 239r–282v. Anfang: Da die Ehe zweifach betrachtet werden kann.....\n\nDie Schrift weist wahrscheinlich darauf hin, dass Fr. Placidus Feigler, der die beiden vorhergehenden Codices schrieb, auch diesen Codex ausführte. Als Verfasser ist P. Honorius Aigner, Profess von Kremsmünster, anzunehmen, wenn man MN II 152 vergleicht: Nicht nur die Anfänge der Abhandlungen II und III, sondern auch große Teile von MN II 152 finden sich in den Abhandlungen I–IV unseres Codex.\n\nRückenaufschrift: **Theologiae Moralis (!) Tractatus (de) Sacramentis in genere et Specie. MS.**",
+    "germanHtml": "<p>285 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687.</p>\n<p>a) <strong>Erste Abhandlung über die Sakramente im Allgemeinen:</strong> fol. 1–62v. Anfang der Vorrede: Über die Sakramente im Allgemeinen und im Einzelnen......</p>\n<p>b) <strong>Zweite Abhandlung über die Taufe:</strong> fol. 63–111r. Anfang: Nach Abschluss der Abhandlung über die Sakramente im Allgemeinen.....</p>\n<p>c) <strong>Dritte Abhandlung über das Sakrament der Firmung:</strong> fol. 111v–119r. Anfang: Da auf die Taufe unmittelbar das Sakrament der Firmung folgt.....</p>\n<p>d) <strong>Vierte Abhandlung über das Sakrament der Eucharistie:</strong> fol. 119v–155r. Anfang: Die Eucharistie als das göttlichste und ehrwürdigste Sakrament.... Schluss: <strong>Wir schlossen diese Abhandlung am 7. Mai, am Vorabend von Christi Himmelfahrt, ab</strong> – also 1687, als Christi Himmelfahrt am 8. Mai gefeiert wurde.</p>\n<p>e) <strong>Fünfte Abhandlung über das Sakrament der Buße:</strong> fol. 155v–226v. Anfang: Nicht so sehr von den Sakramenten im Allgemeinen..... Schluss: <strong>Beendet am 19. Juli.</strong></p>\n<p>f) <strong>Sechste Abhandlung über das Sakrament der Letzten Ölung:</strong> fol. 227r–231v. Anfang: Erster Artikel. Ob die Letzte Ölung ein wahres Sakrament des Neuen Bundes sei.....</p>\n<p>g) <strong>Siebte Abhandlung über das Sakrament der Weihe:</strong> fol. 231v–238v. Anfang: Erster Artikel. Was ist Weihe oder wie vielfach ist sie? Schluss: <strong>Am 1. August beendeten wir diese Abhandlung.</strong></p>\n<p>h) <strong>Achte und letzte Abhandlung über das Sakrament der Ehe:</strong> fol. 239r–282v. Anfang: Da die Ehe zweifach betrachtet werden kann.....</p>\n<p>Die Schrift weist wahrscheinlich darauf hin, dass Fr. Placidus Feigler, der die beiden vorhergehenden Codices schrieb, auch diesen Codex ausführte. Als Verfasser ist P. Honorius Aigner, Profess von Kremsmünster, anzunehmen, wenn man MN II 152 vergleicht: Nicht nur die Anfänge der Abhandlungen II und III, sondern auch große Teile von MN II 152 finden sich in den Abhandlungen I–IV unseres Codex.</p>\n<p>Rückenaufschrift: <strong>Theologiae Moralis (!) Tractatus (de) Sacramentis in genere et Specie. MS.</strong></p>",
+    "latin": "285 foll.; teg. a2; script. 1687\n\na) Tractatus Primus De Sacramentis in genere: fol. 1–62v. Initium Prooemii fol. 1r: De Sacramentis in genere ac in specie......\n\nb) Tractatus Secundus. De Baptismo: fol. 63–111r. Initium fol. 63r: Post absolutum tractatum de Sacramentis in genere.....\n\nc) Tractatus Tertius De Sacramento Confirmationis: fol. 111v–119r. Initium: Cum baptismum immediate sequatur Sacramentum Confirmationis,....\n\nd) Tractatus quartus De Sacramento Eucharistiae: fol. 119v–155r. Initium: Eucharistia tanquam Divinissimum et venerabile Sacramentum.... Clausula: Coronidem imposuimus huic tractatui die 7. Maii in vigilia Ascensionis Domini (id est anno 1687, quo anno Ascensio Domini die 8. Maii celebrata est.)\n\ne) Tractatus quintus De Sacramento Poenitentiae: fol. 155v–226v. Initium: Non tam de Sacramentis in genere..... Clausula: NB: absolvimus hunc Tractatum die 19 Julii.\n\nf) Tractatus sextus De Sacramento Extremae unctionis: fol. 227r–231v. Initium: Articulus Primus. An extrema unctio sit verum Sacramentum novae legis,.....\n\ng) Tractatus septimus. De Sacramento Ordinis: fol. 231v–238v. Initium: Articulus Primus Quid sit ordo vel quotuplex? Clausula: die 1. Augusti absolvimus hunc tractatum.\n\nh) Tractatus octavus et ultimus De Sacramento Matrimonii: fol. 239r–282v. Initium: quandoquidem matrimonium dupliciter considerari potest.....\n\nScriptura indicat probabiliter F. Placidum Feigler, qui duos codices praecedentes, etiam codicem nostrum exarasse. Auctorem autem P. Honorium Aigner professum monasterii Cremifanensis esse arbitraberis, si codicem nostrum cum codice MN II 152 (supra p. 111!) comparaveris. Etenim non solum initia tractatuum II et III, sed etiam magnae partes codicis MN II 152 etiam in tractatibus I–IV codicis nostri inveniuntur.\n\nInscriptio dorsi: Theologiae Moralis (!) Tractatus (de) Sacramentis in genere et Specie. MS.",
+    "latinHtml": "<p>285 foll.; teg. a2; script. 1687</p>\n<p>a) Tractatus Primus De Sacramentis in genere: fol. 1–62v. Initium Prooemii fol. 1r: De Sacramentis in genere ac in specie......</p>\n<p>b) Tractatus Secundus. De Baptismo: fol. 63–111r. Initium fol. 63r: Post absolutum tractatum de Sacramentis in genere.....</p>\n<p>c) Tractatus Tertius De Sacramento Confirmationis: fol. 111v–119r. Initium: Cum baptismum immediate sequatur Sacramentum Confirmationis,....</p>\n<p>d) Tractatus quartus De Sacramento Eucharistiae: fol. 119v–155r. Initium: Eucharistia tanquam Divinissimum et venerabile Sacramentum.... Clausula: Coronidem imposuimus huic tractatui die 7. Maii in vigilia Ascensionis Domini (id est anno 1687, quo anno Ascensio Domini die 8. Maii celebrata est.)</p>\n<p>e) Tractatus quintus De Sacramento Poenitentiae: fol. 155v–226v. Initium: Non tam de Sacramentis in genere..... Clausula: NB: absolvimus hunc Tractatum die 19 Julii.</p>\n<p>f) Tractatus sextus De Sacramento Extremae unctionis: fol. 227r–231v. Initium: Articulus Primus. An extrema unctio sit verum Sacramentum novae legis,.....</p>\n<p>g) Tractatus septimus. De Sacramento Ordinis: fol. 231v–238v. Initium: Articulus Primus Quid sit ordo vel quotuplex? Clausula: die 1. Augusti absolvimus hunc tractatum.</p>\n<p>h) Tractatus octavus et ultimus De Sacramento Matrimonii: fol. 239r–282v. Initium: quandoquidem matrimonium dupliciter considerari potest.....</p>\n<p>Scriptura indicat probabiliter F. Placidum Feigler, qui duos codices praecedentes, etiam codicem nostrum exarasse. Auctorem autem P. Honorium Aigner professum monasterii Cremifanensis esse arbitraberis, si codicem nostrum cum codice MN II 152 (supra p. 111!) comparaveris. Etenim non solum initia tractatuum II et III, sed etiam magnae partes codicis MN II 152 etiam in tractatibus I–IV codicis nostri inveniuntur.</p>\n<p>Inscriptio dorsi: Theologiae Moralis (!) Tractatus (de) Sacramentis in genere et Specie. MS.</p>"
+  },
+  "source": {
+    "file": "MN II 161.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-161/",
+  "relations": [
+    {
+      "typeRaw": "parallel_to",
+      "typeLabel": "Parallelüberlieferung",
+      "targetRaw": "[[MN II 152]]",
+      "targetId": "mn-ii-152",
+      "targetSignature": "MN II 152",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 161",
+    "titles": "Tractatus de Sacramentis in genere et specie \nTractatus Primus De Sacramentis in genere \nTractatus Secundus De Baptismo \nTractatus Tertius De Sacramento Confirmationis \nTractatus quartus De Sacramento Eucharistiae \nTractatus quintus De Sacramento Poenitentiae \nTractatus sextus De Sacramento Extremae unctionis \nTractatus septimus De Sacramento Ordinis \nTractatus octavus et ultimus De Sacramento Matrimonii",
+    "persons": "P. Honorius Aigner Dozent lecturer \nFr. Placidus Feigler Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n285 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

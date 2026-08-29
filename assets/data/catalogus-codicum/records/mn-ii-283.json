@@ -1,0 +1,315 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-283",
+  "signature": "MN II 283",
+  "aliases": [
+    "Bibl. Cod. MN II 283"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "230",
+  "heading": {
+    "title": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1751/52"
+  },
+  "date": {
+    "display": "1751/52",
+    "intervals": [
+      {
+        "from": 1751,
+        "to": 1752,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Dogmaticus De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–49",
+      "language": "",
+      "incipit": {
+        "text": "Explicata Dei unius et Trini essentia, attributisque"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "29. Januar 1752"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Creatura Corporali",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 51–88",
+      "language": "",
+      "incipit": {
+        "text": "Post considerationem Spiritualis creaturae"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur „Secundus“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "15. April 1752"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Beatitudine Hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 91–134",
+      "language": "",
+      "incipit": {
+        "text": "Amor Divinus circulum efficit admirabilem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "5. Juni 1752"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 135–209",
+      "language": "",
+      "incipit": {
+        "text": "Progredimur cum Angelico duce nostro ad explicandos actus humanos"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "11. August 1752, Nachmittagsvorlesung"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Norbertus Pampichler",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictati“ bezeichnet; der Beginn am 23. Dezember wurde vom Katalogbearbeiter aus einer Randnotiz ergänzt."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "212 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1751/52",
+        "intervals": [
+          {
+            "from": 1751,
+            "to": 1752,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "212 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.\n\n**Scholastisch-dogmatische Abhandlungen über die Engel, die körperliche Schöpfung, die Glückseligkeit und die menschlichen Handlungen**, diktiert von P. Norbertus Pambichler im Jahr 1751, beginnend am 23. Dezember. Die Tageszahl wurde nach einer Randnotiz auf S. 5 ergänzt: **Wir begannen am 23. Dezember 1751 nach dem Mittagessen.**\n\na) **Scholastisch-dogmatische Abhandlung über die Engel:** S. 5–49. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind,...... Schluss: **Wir beendeten [dies] am 29. Januar 1752.**\n\nb) **Zweite Abhandlung über die körperliche Schöpfung:** S. 51–88. Anfang S. 53: Nach der Betrachtung der geistigen Schöpfung,...... Schluss: **Wir beendeten [dies] am 15. April 1752.**\n\nc) **Abhandlung über die Glückseligkeit des Menschen:** S. 91–134. Anfang der ersten Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen S. 93: Die göttliche Liebe bildet einen wunderbaren Kreis,...... Schluss: **Wir beendeten [dies] am 5. Juni 1752.**\n\nd) **Abhandlung über die menschlichen Handlungen:** S. 135–209. Anfang der zweiten Abhandlung über die menschlichen Handlungen S. 137: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: **Wir beendeten [dies] am 11. August 1752 in der Nachmittagsvorlesung.**\n\nDieser Codex ist Band VI des scholastisch-theologischen Kurses, der von 1750 bis 1753 in Seitenstetten gehalten wurde. Der Schreiber des gesamten Kurses ist unbekannt.",
+    "germanHtml": "<p>212 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1751/52.</p>\n<p><strong>Scholastisch-dogmatische Abhandlungen über die Engel, die körperliche Schöpfung, die Glückseligkeit und die menschlichen Handlungen</strong>, diktiert von P. Norbertus Pambichler im Jahr 1751, beginnend am 23. Dezember. Die Tageszahl wurde nach einer Randnotiz auf S. 5 ergänzt: <strong>Wir begannen am 23. Dezember 1751 nach dem Mittagessen.</strong></p>\n<p>a) <strong>Scholastisch-dogmatische Abhandlung über die Engel:</strong> S. 5–49. Anfang: Nachdem Wesen und Eigenschaften des einen und dreieinigen Gottes erklärt sind,...... Schluss: <strong>Wir beendeten [dies] am 29. Januar 1752.</strong></p>\n<p>b) <strong>Zweite Abhandlung über die körperliche Schöpfung:</strong> S. 51–88. Anfang S. 53: Nach der Betrachtung der geistigen Schöpfung,...... Schluss: <strong>Wir beendeten [dies] am 15. April 1752.</strong></p>\n<p>c) <strong>Abhandlung über die Glückseligkeit des Menschen:</strong> S. 91–134. Anfang der ersten Abhandlung zur Prima Secundae des hl. Thomas über das letzte Ziel oder die Glückseligkeit des Menschen S. 93: Die göttliche Liebe bildet einen wunderbaren Kreis,...... Schluss: <strong>Wir beendeten [dies] am 5. Juni 1752.</strong></p>\n<p>d) <strong>Abhandlung über die menschlichen Handlungen:</strong> S. 135–209. Anfang der zweiten Abhandlung über die menschlichen Handlungen S. 137: Mit unserem engelgleichen Führer schreiten wir zur Erklärung der menschlichen Handlungen fort,..... Schluss: <strong>Wir beendeten [dies] am 11. August 1752 in der Nachmittagsvorlesung.</strong></p>\n<p>Dieser Codex ist Band VI des scholastisch-theologischen Kurses, der von 1750 bis 1753 in Seitenstetten gehalten wurde. Der Schreiber des gesamten Kurses ist unbekannt.</p>",
+    "latin": "212 pagg.; teg. c3d; script. 1751/52\n\n**Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Norberto Pambichler dictati Anno 1751 à die (23. Decembris).** (Numerum diei apposui e nota in margine p. 5: Incepimus 23. Decembris Anno 1751. à meridie)\n\na) Tractatus Scholastico-Dogmaticus De Angelis: p. 5–49.  \nInitium: Explicata Dei unius et Trini essentia, attributisque......  \nClausula: Absolvimus 29. Januarii 1752.\n\nb) Tractatus (Secundus) De Creatura Corporali: p. 51–88.  \nInitium p. 53: Post considerationem Spiritualis creaturae,......  \nClausula: Finivimus 15. Aprilis 1752.\n\nc) Tractatus De Beatitudine Hominis: p. 91–134.  \nInitium Tractatus Primi In primam Secundae S: Thomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,......  \nClausula: Finivimus quinta Junii 1752.\n\nd) Tractatus De Actibus Humanis: p. 135–209.  \nInitium Tractatus Secundi De Actibus Humanis: p. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos.....  \nClausula: Finivimus 11 Augusti in Pomeridiana lectione 1752.\n\nHic codex tomus VI est illius cursus theologiae Scholasticae, qui ab anno 1750 usque ad annum 1753 in monasterio Seitenstettensi traditus est. Scriptorem totius cursus illius nescimus.",
+    "latinHtml": "<p>212 pagg.; teg. c3d; script. 1751/52</p>\n<p><strong>Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Norberto Pambichler dictati Anno 1751 à die (23. Decembris).</strong> (Numerum diei apposui e nota in margine p. 5: Incepimus 23. Decembris Anno 1751. à meridie)</p>\n<p>a) Tractatus Scholastico-Dogmaticus De Angelis: p. 5–49. Initium: Explicata Dei unius et Trini essentia, attributisque...... Clausula: Absolvimus 29. Januarii 1752.</p>\n<p>b) Tractatus (Secundus) De Creatura Corporali: p. 51–88. Initium p. 53: Post considerationem Spiritualis creaturae,...... Clausula: Finivimus 15. Aprilis 1752.</p>\n<p>c) Tractatus De Beatitudine Hominis: p. 91–134. Initium Tractatus Primi In primam Secundae S: Thomae Aquinatis De Ultimo fine seu Beatitudine hominis: p. 93: Amor Divinus circulum efficit admirabilem,...... Clausula: Finivimus quinta Junii 1752.</p>\n<p>d) Tractatus De Actibus Humanis: p. 135–209. Initium Tractatus Secundi De Actibus Humanis: p. 137: Progredimur cum Angelico duce nostro ad explicandos actus humanos..... Clausula: Finivimus 11 Augusti in Pomeridiana lectione 1752.</p>\n<p>Hic codex tomus VI est illius cursus theologiae Scholasticae, qui ab anno 1750 usque ad annum 1753 in monasterio Seitenstettensi traditus est. Scriptorem totius cursus illius nescimus.</p>"
+  },
+  "source": {
+    "file": "MN II 283.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-283/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 283",
+    "titles": "Tractatus Scholastico-Dogmatici De Angelis, Creatura Beatitudine, Actibusque humanis \nTractatus Scholastico-Dogmaticus De Angelis \nTractatus Secundus De Creatura Corporali \nTractatus De Beatitudine Hominis \nTractatus De Actibus Humanis",
+    "persons": "P. Norbertus Pampichler Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Explicata Dei unius et Trini essentia, attributisque \nPost considerationem Spiritualis creaturae \nAmor Divinus circulum efficit admirabilem \nProgredimur cum Angelico duce nostro ad explicandos actus humanos",
+    "explicits": "",
+    "notes": "Nur „Secundus“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n212 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-34-z-xviii-3v",
+  "signature": "Arch. Cod. 34 Z (XVIII 3v)",
+  "aliases": [
+    "Arch. Cod. 34 Z (XVIII 3v)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "249",
+  "heading": {
+    "title": "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1771"
+  },
+  "date": {
+    "display": "1771",
+    "intervals": [
+      {
+        "from": 1771,
+        "to": 1771,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–352",
+      "language": "",
+      "incipit": {
+        "text": "A virtutibus Theologicis, bene ad Cardinales fit progressio......"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die parenthetische Namensauflösung „Hammer“ erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Michael Lory",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Odilo Hammer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "352 pagg.",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1771",
+        "intervals": [
+          {
+            "from": 1771,
+            "to": 1771,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; 352 Seiten; blaugrauer Pappeinband; geschrieben 1771.\n\n**Abhandlung über Recht und Gerechtigkeit**, diktiert von **P. Michael Lory**, Benediktiner von Tegernsee und damaligem Nachmittagsprofessor der spekulativ-dogmatischen Theologie; 1771 aufgezeichnet von **Fr. Odilo Hammer**, Benediktiner von Seitenstetten, an der erzbischöflichen Benediktineruniversität Salzburg.\n\nAnfang der Vorrede S. 5: „Von den theologischen Tugenden führt der Weg passend zu den Kardinaltugenden....“",
+    "germanHtml": "<p>Quartformat; 352 Seiten; blaugrauer Pappeinband; geschrieben 1771.</p>\n<p><strong>Abhandlung über Recht und Gerechtigkeit</strong>, diktiert von <strong>P. Michael Lory</strong>, Benediktiner von Tegernsee und damaligem Nachmittagsprofessor der spekulativ-dogmatischen Theologie; 1771 aufgezeichnet von <strong>Fr. Odilo Hammer</strong>, Benediktiner von Seitenstetten, an der erzbischöflichen Benediktineruniversität Salzburg.</p>\n<p>Anfang der Vorrede S. 5: „Von den theologischen Tugenden führt der Weg passend zu den Kardinaltugenden....“</p>",
+    "latin": "4°; 352 pagg.; teg. chartaceum caesium (blaugrau); script. 1771\n\n**Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.**\n\nInitium Proemii p. 5: A virtutibus Theologicis, bene ad Cardinales fit progressio......",
+    "latinHtml": "<p>4°; 352 pagg.; teg. chartaceum caesium (blaugrau); script. 1771</p>\n<p><strong>Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.</strong></p>\n<p>Initium Proemii p. 5: A virtutibus Theologicis, bene ad Cardinales fit progressio......</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 34 Z (XVIII 3v).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-z-xviii-3v/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 34 Z (XVIII 3v)",
+    "titles": "Tractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi. \nTractatus De Jure et Justitia Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Michaele Lory. Benedictino Tegernseensi. pro tempore Sacrosanctae Theologiae in Speculativa Dogmatica Professore Pomeridiano Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer) Monacho Benedictino Seitenstettensi. In Alma Archiepiscopali Universitate Benedictina Salisburgensi.",
+    "persons": "P. Michael Lory Dozent lecturer \nFr. Odilo Hammer Schreiber scribe",
+    "incipits": "A virtutibus Theologicis, bene ad Cardinales fit progressio......",
+    "explicits": "",
+    "notes": "Die parenthetische Namensauflösung „Hammer“ erläutert den überlieferten Titel; der Titel als solcher ist nicht supplied.",
+    "physical": "Papier \n352 pagg. \nQuartformat \ndescription: Blaugrauer Pappeinband."
+  }
+}

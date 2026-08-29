@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-156",
+  "signature": "MN II 156",
+  "aliases": [
+    "Bibl. Cod. MN II 156"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "113",
+  "heading": {
+    "title": "Conclusiones Logicae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1686"
+  },
+  "date": {
+    "display": "1686",
+    "intervals": [
+      {
+        "from": 1686,
+        "to": 1686,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Conclusiones Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. I–III",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaestiones Logicales Honori Praesentationis Virginis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. VI, 1–601",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1686-11-21"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Kraus",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "unbekannt",
+      "note": "Lehrte nicht in Salzburg; Universität bzw. Lyzeum und Ordenszugehörigkeit sind unbekannt."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "note": "Möglicherweise zwei Schreiber."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VI + 602 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamenteinband aus einem im 15. Jahrhundert geschriebenen Missalfragment.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "number_of_hands": 2,
+      "certainty": "probable",
+      "note": "Der Katalog unterscheidet zwei verschiedene, jeweils sehr kunstvoll ausgeführte Schriften."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1686",
+        "intervals": [
+          {
+            "from": 1686,
+            "to": 1686,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "note",
+      "locus": "S. 602",
+      "note": "Kurze kursiv geschriebene Notiz."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VI + 602 Seiten; Pergamenteinband aus einem im 15. Jahrhundert geschriebenen Missalfragment; geschrieben 1686.\n\na) **Logische Schlussfolgerungen:** S. I–III. 53 Schlussfolgerungen.\n\nb) **Logische Fragen, zu Ehren des Festes Mariä Darstellung vorgetragen und diktiert am 21. November 1686 unter dem ehrwürdigen P. Kraus:** S. VI, 1–601; dazu eine kurze kursiv geschriebene Notiz S. 602.\n\nDieser P. Kraus lehrte nicht in Salzburg. Weder Universität oder Lyzeum noch Ordenszugehörigkeit sind bekannt. Auch der Schreiber – oder vielmehr die Schreiber, denn zwei verschiedene, beide sehr kunstvolle Schriften sind zu unterscheiden – ist unbekannt.\n\nAnfang der ersten Frage **Über die logischen Prolegomena**, S. 1: Vergeblich würden Mittel für irgendein Ziel gesetzt,......",
+    "germanHtml": "<p>VI + 602 Seiten; Pergamenteinband aus einem im 15. Jahrhundert geschriebenen Missalfragment; geschrieben 1686.</p>\n<p>a) <strong>Logische Schlussfolgerungen:</strong> S. I–III. 53 Schlussfolgerungen.</p>\n<p>b) <strong>Logische Fragen, zu Ehren des Festes Mariä Darstellung vorgetragen und diktiert am 21. November 1686 unter dem ehrwürdigen P. Kraus:</strong> S. VI, 1–601; dazu eine kurze kursiv geschriebene Notiz S. 602.</p>\n<p>Dieser P. Kraus lehrte nicht in Salzburg. Weder Universität oder Lyzeum noch Ordenszugehörigkeit sind bekannt. Auch der Schreiber – oder vielmehr die Schreiber, denn zwei verschiedene, beide sehr kunstvolle Schriften sind zu unterscheiden – ist unbekannt.</p>\n<p>Anfang der ersten Frage <strong>Über die logischen Prolegomena</strong>, S. 1: Vergeblich würden Mittel für irgendein Ziel gesetzt,......</p>",
+    "latin": "VI + 602 pagg.; tegumentum membranaceum (fragmentum libri missalis saeculo XV. scripti); scriptus 1686\n\na) Conclusiones Logicae: p. I–III. (53 Conclusiones)\n\nb) Quaestiones Logicales Honori Praesentationis Virginis (= ad festum Praesentationis Beatae Mariae Virginis) Traditae et Dictatae Anno 1686. 21 Novembris Sub Admodum Reverendo Patre Kraus: p. VI, 1–601 (cum brevi nota p. 602 litteris cursivis apposita). Qui P. Kraus non Salisburgi docuit; at neque cuius universitatis aut lycaei professor fuerit, scio, neque cuius ordinis professus. Sed et scriptor (vel potius scriptores? duae enim distinguendae sunt scripturae, utraque ornatissime picta!) ignotus.  \nInitium Quaestionis Primae De Prolegomenis Logicalibus p. 1: Frustra ponerentur media ad aliquem finem,......",
+    "latinHtml": "<p>VI + 602 pagg.; tegumentum membranaceum (fragmentum libri missalis saeculo XV. scripti); scriptus 1686</p>\n<p>a) Conclusiones Logicae: p. I–III. (53 Conclusiones)</p>\n<p>b) Quaestiones Logicales Honori Praesentationis Virginis (= ad festum Praesentationis Beatae Mariae Virginis) Traditae et Dictatae Anno 1686. 21 Novembris Sub Admodum Reverendo Patre Kraus: p. VI, 1–601 (cum brevi nota p. 602 litteris cursivis apposita). Qui P. Kraus non Salisburgi docuit; at neque cuius universitatis aut lycaei professor fuerit, scio, neque cuius ordinis professus. Sed et scriptor (vel potius scriptores? duae enim distinguendae sunt scripturae, utraque ornatissime picta!) ignotus. Initium Quaestionis Primae De Prolegomenis Logicalibus p. 1: Frustra ponerentur media ad aliquem finem,......</p>"
+  },
+  "source": {
+    "file": "MN II 156.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-156/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 156",
+    "titles": "Conclusiones Logicae \nConclusiones Logicae \nQuaestiones Logicales Honori Praesentationis Virginis",
+    "persons": "P. Kraus Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nVI + 602 pagg. \ndescription: Pergamenteinband aus einem im 15. Jahrhundert geschriebenen Missalfragment."
+  }
+}

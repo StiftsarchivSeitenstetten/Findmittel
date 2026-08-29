@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-272",
+  "signature": "MN II 272",
+  "aliases": [
+    "Bibl. Cod. MN II 272"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "216–217",
+  "heading": {
+    "title": "Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1738"
+  },
+  "date": {
+    "display": "1738",
+    "intervals": [
+      {
+        "from": 1738,
+        "to": 1738,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 11–256",
+      "language": "",
+      "incipit": {
+        "text": "Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii absolvunt integram Theologiam"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Leonardus Kloz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Wessobrunn / Universität Salzburg",
+      "note": "Im Titel ausdrücklich mit „Datus“ bezeichnet."
+    },
+    {
+      "name": "Fr. Norbertus Pampichler",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „Exceptus“ bezeichnet; schrieb auch MN II 273–275."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "256 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1738",
+        "intervals": [
+          {
+            "from": 1738,
+            "to": 1738,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Universität Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "256 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1738.\n\n**Theologisch-scholastische Abhandlung über die vier letzten Sakramente**, vorgetragen von P. Leonardus Kloz, Benediktiner und Profess von Wessobrunn, Doktor der heiligen Theologie, geistlicher Rat des Salzburger Fürsterzbischofs und des Bischofs von Freising sowie damals ordentlicher Professor der Scholastik an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und damals Theologiestudent im ersten Jahr, 1738.\n\nAnfang der Vorrede zur Abhandlung über das Sakrament der Buße und die übrigen Sakramente, S. 11: **In der scholastischen Theologie, die wir lehren, werden in den Schulen insgesamt acht Abhandlungen erklärt; die Studenten hören jedes Jahr zwei und vollenden so innerhalb eines vierjährigen Kurses die gesamte Theologie,....**\n\nFr. Norbertus Pampichler schrieb auch die drei folgenden Codices.",
+    "germanHtml": "<p>256 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1738.</p>\n<p><strong>Theologisch-scholastische Abhandlung über die vier letzten Sakramente</strong>, vorgetragen von P. Leonardus Kloz, Benediktiner und Profess von Wessobrunn, Doktor der heiligen Theologie, geistlicher Rat des Salzburger Fürsterzbischofs und des Bischofs von Freising sowie damals ordentlicher Professor der Scholastik an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und damals Theologiestudent im ersten Jahr, 1738.</p>\n<p>Anfang der Vorrede zur Abhandlung über das Sakrament der Buße und die übrigen Sakramente, S. 11: <strong>In der scholastischen Theologie, die wir lehren, werden in den Schulen insgesamt acht Abhandlungen erklärt; die Studenten hören jedes Jahr zwei und vollenden so innerhalb eines vierjährigen Kurses die gesamte Theologie,....</strong></p>\n<p>Fr. Norbertus Pampichler schrieb auch die drei folgenden Codices.</p>",
+    "latin": "256 pagg.; teg. c2d; script. 1738\n\n**Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis. Datus à ......P. Leonardo Kloz Ordinis S. Benedicti Professo Wessofontano Sacrosanctae Theologiae Doctore Reverendissimorum Sacri Romani Imperii Principum Celsissimi Archiepiscopi Salisburgensis et Serenissimi Episcopi Frisingensis Consiliario Ecclesiastico. pro tempore in Scholasticis Professore Ordinario in alma Benedictina universitate Salisburgensi Exceptus à F. Norberto Pampichler. Ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo, pro tempore Sacrosanctae Theologiae in primum annum Auditore Anno MDCCXXXVIII (1738)**\n\nInitium Praefationis In Tractatum de Sacramento Paenitentiae, et reliquis. **Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii (lege: quadriennii!) absolvunt integram Theologiam,....** (p. 11)\n\nF. Norbertus Pampichler scripsit etiam tres sequentes codices.",
+    "latinHtml": "<p>256 pagg.; teg. c2d; script. 1738</p>\n<p><strong>Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis. Datus à ......P. Leonardo Kloz Ordinis S. Benedicti Professo Wessofontano Sacrosanctae Theologiae Doctore Reverendissimorum Sacri Romani Imperii Principum Celsissimi Archiepiscopi Salisburgensis et Serenissimi Episcopi Frisingensis Consiliario Ecclesiastico. pro tempore in Scholasticis Professore Ordinario in alma Benedictina universitate Salisburgensi Exceptus à F. Norberto Pampichler. Ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo, pro tempore Sacrosanctae Theologiae in primum annum Auditore Anno MDCCXXXVIII (1738)</strong></p>\n<p>Initium Praefationis In Tractatum de Sacramento Paenitentiae, et reliquis. <strong>Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii (lege: quadriennii!) absolvunt integram Theologiam,....</strong> (p. 11)</p>\n<p>F. Norbertus Pampichler scripsit etiam tres sequentes codices.</p>"
+  },
+  "source": {
+    "file": "MN II 272.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-272/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 273]]",
+      "targetId": "mn-ii-273",
+      "targetSignature": "MN II 273",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 274]]",
+      "targetId": "mn-ii-274",
+      "targetSignature": "MN II 274",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 275]]",
+      "targetId": "mn-ii-275",
+      "targetSignature": "MN II 275",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 272",
+    "titles": "Tractatus Theologico-Scholasticus De IV. ultimis Sacramentis \nTractatus Theologico-Scholasticus De IV. ultimis Sacramentis",
+    "persons": "P. Leonardus Kloz Dozent lecturer \nFr. Norbertus Pampichler Schreiber scribe",
+    "incipits": "Tractatus in Theologia Scholastica, quam profitemur, explicantur in Scholis omnino 8: discentes excipiunt singulis annis 2. et sic intra curriculum quadriennii absolvunt integram Theologiam",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n256 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

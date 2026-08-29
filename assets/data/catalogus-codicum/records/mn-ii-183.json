@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-183",
+  "signature": "MN II 183",
+  "aliases": [
+    "Bibl. Cod. MN II 183"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "138–139",
+  "heading": {
+    "title": "Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1692"
+  },
+  "date": {
+    "display": "ca. 1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_parallel",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–573",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Ludovicus Babenstuber",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "Kloster Ettal / Universität Salzburg",
+      "certainty": "inferred_from_parallel",
+      "note": "Die Zuschreibung beruht auf der Rückenaufschrift und der beinahe wörtlichen Übereinstimmung mit der gedruckten Philosophia Thomistica Salisburgensis."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "576 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "number_of_hands": "1 oder 2",
+      "note": "Möglicherweise wurden S. 569–573 von einer zweiten Hand geschrieben."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_parallel",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Pars I Physices De Principiis Et Causis R. P. L. B."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "576 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1692.\n\n**Abhandlung über die thomistisch-aristotelische beziehungsweise aristotelisch-thomistische Physik:** S. 7–573. Anfang der Vorrede: Uns widerfährt dasselbe wie den Kaufleuten.....\n\nRückenaufschrift: **Pars I Physices De Principiis Et Causis R. P. L. B.** Diese Initialen gehören keinem damaligen Seitenstettner Konventualen; sie scheinen daher die Anfangsbuchstaben eines Salzburger Professors zu sein. Tatsächlich stimmen sehr viele Teile unseres Codex beinahe wörtlich mit der von P. Ludovicus Babenstuber gedruckten *Philosophia Thomistica Salisburgensis* überein.\n\nDa P. Ludovicus Babenstuber, Mönch von Ettal, um 1692 in Salzburg Philosophie lehrte, muss auch unser Codex ungefähr zu dieser Zeit geschrieben worden sein. Der Schreiber ist unbekannt; möglicherweise stammen S. 569–573 von einer zweiten Hand.",
+    "germanHtml": "<p>576 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1692.</p>\n<p><strong>Abhandlung über die thomistisch-aristotelische beziehungsweise aristotelisch-thomistische Physik:</strong> S. 7–573. Anfang der Vorrede: Uns widerfährt dasselbe wie den Kaufleuten.....</p>\n<p>Rückenaufschrift: <strong>Pars I Physices De Principiis Et Causis R. P. L. B.</strong> Diese Initialen gehören keinem damaligen Seitenstettner Konventualen; sie scheinen daher die Anfangsbuchstaben eines Salzburger Professors zu sein. Tatsächlich stimmen sehr viele Teile unseres Codex beinahe wörtlich mit der von P. Ludovicus Babenstuber gedruckten <em>Philosophia Thomistica Salisburgensis</em> überein.</p>\n<p>Da P. Ludovicus Babenstuber, Mönch von Ettal, um 1692 in Salzburg Philosophie lehrte, muss auch unser Codex ungefähr zu dieser Zeit geschrieben worden sein. Der Schreiber ist unbekannt; möglicherweise stammen S. 569–573 von einer zweiten Hand.</p>",
+    "latin": "576 pagg.; teg. a1; script. ca. 1692\n\nTractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam: p. 7–573. Initium Prooemii: Idem nobis usu venit, quod mercatoribus,......\n\nInscriptio dorsi: Pars I Physices De Principiis Et Causis R. P. L. B. Quae litterae initiales non sunt cuiusdam conventualis Seitenstettensis; nam in eo tempore, quo scriptura codicis nostri indicat, nullus omnino conventualis huius monasterii talibus initiis gaudebat. Videntur igitur esse initia Professoris Salisburgensis. Et re vera permultae partes codicis nostri cum Philosophia Thomistica Salisburgensi à P. Ludovico Babenstuber typis edita paene ad verbum consonant. Quia P. Ludovicus Babenstuber, monachus Ettalensis, circa annum 1692 Salisburgi philosophiam docuit, in illo tempore etiam codicem nostrum scriptum esse necesse est. Scriptor autem codicis nostri ignotus. (Fortasse p. 569–573 ab altera manu scripta sunt.)",
+    "latinHtml": "<p>576 pagg.; teg. a1; script. ca. 1692</p>\n<p>Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam: p. 7–573. Initium Prooemii: Idem nobis usu venit, quod mercatoribus,......</p>\n<p>Inscriptio dorsi: Pars I Physices De Principiis Et Causis R. P. L. B. Quae litterae initiales non sunt cuiusdam conventualis Seitenstettensis; nam in eo tempore, quo scriptura codicis nostri indicat, nullus omnino conventualis huius monasterii talibus initiis gaudebat. Videntur igitur esse initia Professoris Salisburgensis. Et re vera permultae partes codicis nostri cum Philosophia Thomistica Salisburgensi à P. Ludovico Babenstuber typis edita paene ad verbum consonant. Quia P. Ludovicus Babenstuber, monachus Ettalensis, circa annum 1692 Salisburgi philosophiam docuit, in illo tempore etiam codicem nostrum scriptum esse necesse est. Scriptor autem codicis nostri ignotus. (Fortasse p. 569–573 ab altera manu scripta sunt.)</p>"
+  },
+  "source": {
+    "file": "MN II 183.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-183/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 183",
+    "titles": "Tractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam \nTractatus in Physicam Thomistico Aristotelicam, Aristotelico Thomisticam",
+    "persons": "P. Ludovicus Babenstuber author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n576 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

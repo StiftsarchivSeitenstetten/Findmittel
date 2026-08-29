@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-247",
+  "signature": "MN II 247",
+  "aliases": [
+    "Bibl. Cod. MN II 247"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "191",
+  "heading": {
+    "title": "Theologia Recentioristica. De Incarnatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1717"
+  },
+  "date": {
+    "display": "1717",
+    "intervals": [
+      {
+        "from": 1717,
+        "to": 1717,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Theologia Recentioristica. De Incarnatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Mysterio Incarnationis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–298",
+      "language": "",
+      "incipit": {
+        "text": "Admirandum verbi incarnati verbi mysterium"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaedam notata circa Incarnationem",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 299–302",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Sigismund Busch SJ",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Universität Graz"
+    },
+    {
+      "name": "Fr. Andreas Bischoff",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "304 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1717",
+        "intervals": [
+          {
+            "from": 1717,
+            "to": 1717,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Graz",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "304 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.\n\n**Neuere Theologie. Über die Menschwerdung**, von P. Sigismund Busch SJ, Doktor der freien Künste und Philosophie sowie Doktor und amtierender Professor der heiligen Theologie an der Universität Graz und Dekan derselben Fakultät, 1717.\n\nDas beigefügte Zeichen zeigt sicher, dass Schreiber Fr. Andreas Bischoff der Jüngere aus Seitenstetten war – oder damals noch Student; siehe dazu MN II 245 und 246.\n\nAnfang der Abhandlung über das Geheimnis der Menschwerdung S. 7: Das wunderbare Geheimnis des fleischgewordenen Wortes......\n\nAm Ende der Abhandlung folgen S. 299–302 **Einige Notizen zur Menschwerdung**.",
+    "germanHtml": "<p>304 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1717.</p>\n<p><strong>Neuere Theologie. Über die Menschwerdung</strong>, von P. Sigismund Busch SJ, Doktor der freien Künste und Philosophie sowie Doktor und amtierender Professor der heiligen Theologie an der Universität Graz und Dekan derselben Fakultät, 1717.</p>\n<p>Das beigefügte Zeichen zeigt sicher, dass Schreiber Fr. Andreas Bischoff der Jüngere aus Seitenstetten war – oder damals noch Student; siehe dazu MN II 245 und 246.</p>\n<p>Anfang der Abhandlung über das Geheimnis der Menschwerdung S. 7: Das wunderbare Geheimnis des fleischgewordenen Wortes......</p>\n<p>Am Ende der Abhandlung folgen S. 299–302 <strong>Einige Notizen zur Menschwerdung</strong>.</p>",
+    "latin": "304 pagg.; teg. a1; script. 1717\n\nTheologia Recentioristica. De Incarnatione. Ab .....Patre Sigismundo Busch. Societatis Jesu Artium Liberalium et Philosophiae Doctore in alma universitate Graecensi Sacrosanctae Theologiae Doctore et Professore actuali. eiusdemque Decano spectabili Jesuita sincero. nec non corde et animo Benedictino verissimo. Anno 1717.\n\nHoc signum certe scriptorem esse F. Andream Bischoff Juniorem Seitenstettensem (aut Studiosum? vide supra p. 189/90 ad codices MN II 245 et 246!) indicat.\n\nInitium Tractatus De Mysterio Incarnationis: p. 7: Admirandum verbi incarnati verbi mysterium......\n\nIn fine tractatus adduntur p. 299–302 Quaedam notata circa Incarnationem.",
+    "latinHtml": "<p>304 pagg.; teg. a1; script. 1717</p>\n<p>Theologia Recentioristica. De Incarnatione. Ab .....Patre Sigismundo Busch. Societatis Jesu Artium Liberalium et Philosophiae Doctore in alma universitate Graecensi Sacrosanctae Theologiae Doctore et Professore actuali. eiusdemque Decano spectabili Jesuita sincero. nec non corde et animo Benedictino verissimo. Anno 1717.</p>\n<p>Hoc signum certe scriptorem esse F. Andream Bischoff Juniorem Seitenstettensem (aut Studiosum? vide supra p. 189/90 ad codices MN II 245 et 246!) indicat.</p>\n<p>Initium Tractatus De Mysterio Incarnationis: p. 7: Admirandum verbi incarnati verbi mysterium......</p>\n<p>In fine tractatus adduntur p. 299–302 Quaedam notata circa Incarnationem.</p>"
+  },
+  "source": {
+    "file": "MN II 247.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-247/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 247",
+    "titles": "Theologia Recentioristica. De Incarnatione \nTractatus De Mysterio Incarnationis \nQuaedam notata circa Incarnationem",
+    "persons": "P. Sigismund Busch SJ Dozent lecturer \nFr. Andreas Bischoff Schreiber scribe",
+    "incipits": "Admirandum verbi incarnati verbi mysterium",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n304 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

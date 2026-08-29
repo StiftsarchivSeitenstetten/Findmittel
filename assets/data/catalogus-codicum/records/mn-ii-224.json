@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-224",
+  "signature": "MN II 224",
+  "aliases": [
+    "Bibl. Cod. MN II 224"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "174–175",
+  "heading": {
+    "title": "Tractatus De Vitiis et Peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1705"
+  },
+  "date": {
+    "display": "1705",
+    "intervals": [
+      {
+        "from": 1705,
+        "to": 1705,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 2r–141v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1705-06-08"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 143r–168v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Schulen wurden aus bestimmten Gründen früher beendet."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1705-07-28"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Ludovicus Babenstuber",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Ettal / Universität Salzburg",
+      "note": "Für Teil b wird die Vortragstätigkeit im Katalog ausdrücklich als zweifelsfrei erschlossen."
+    },
+    {
+      "name": "Fr. Benedictus Calles",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "171 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1705",
+        "intervals": [
+          {
+            "from": 1705,
+            "to": 1705,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "171 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.\n\na) **Abhandlung über Laster und Sünden**, diktiert von P. Ludovicus Babenstuber, Benediktiner und Profess des berühmten Klosters Ettal, Doktor der heiligen Theologie, erster Professor derselben an der erzbischöflichen Universität Salzburg sowie geistlicher Rat des Erzbischofs von Salzburg und des Bischofs von Freising; aufgezeichnet von Fr. Benedictus Calles, Benediktiner von Seitenstetten, 1705.\n\nAnfang fol. 2r: Die vorliegende Abhandlung umfasst jene Dinge......\n\nSchluss fol. 141v: **Wir beendeten diese Abhandlung am 8. Juni 1705.**\n\nb) **Abhandlung über die Gesetze:** fol. 143r–168v. Anfang: Gesetz wird in weiter und übertragener Bedeutung...... Schluss: **Wir beendeten diese Abhandlung am 28. Juli, als die Schulen aus bestimmten Gründen früher beendet wurden.**\n\nOhne Zweifel diktierte P. Ludovicus Babenstuber auch die Vorlesungen von Teil b.",
+    "germanHtml": "<p>171 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.</p>\n<p>a) <strong>Abhandlung über Laster und Sünden</strong>, diktiert von P. Ludovicus Babenstuber, Benediktiner und Profess des berühmten Klosters Ettal, Doktor der heiligen Theologie, erster Professor derselben an der erzbischöflichen Universität Salzburg sowie geistlicher Rat des Erzbischofs von Salzburg und des Bischofs von Freising; aufgezeichnet von Fr. Benedictus Calles, Benediktiner von Seitenstetten, 1705.</p>\n<p>Anfang fol. 2r: Die vorliegende Abhandlung umfasst jene Dinge......</p>\n<p>Schluss fol. 141v: <strong>Wir beendeten diese Abhandlung am 8. Juni 1705.</strong></p>\n<p>b) <strong>Abhandlung über die Gesetze:</strong> fol. 143r–168v. Anfang: Gesetz wird in weiter und übertragener Bedeutung...... Schluss: <strong>Wir beendeten diese Abhandlung am 28. Juli, als die Schulen aus bestimmten Gründen früher beendet wurden.</strong></p>\n<p>Ohne Zweifel diktierte P. Ludovicus Babenstuber auch die Vorlesungen von Teil b.</p>",
+    "latin": "171 foll.; teg. a1; script. 1705\n\na) Tractatus De Vitiis et Peccatis Dictatus â ......P. Ludovico Babenstuber Ordinis S: P. Benedicti, Celeberrimi Monasterii ad Beatissimam Virginem Ettalensem Professo: Sacrosanctae Theologiae Doctore, Eiusdemque in Alma ac Archi-Episcopali Universitate Professore Primario, Celsissimorum ac Reverendissimorum Sacri Romani Imperii Principum Archi-Episcopi Salisburgensis, et Episcopi Frisingensis Consiliario Ecclesiastico. et calamô exceptus â F. Benedicto Calles Benedictino ad Beatissimam Virginem in Seittenstetten. Anno 1705.\n\nInitium fol. 2r: Praesens Tractatus illa complectitur,......\n\nClausula fol. 141v: Absolvimus praesentem tractatum die 8 Junii Anno 1705.\n\nb) Tractatus De Legibus: fol. 143r–168v.  \nInitium: Lex in ampla et metaphora significatione......  \nClausula: Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.\n\nSine dubio P. Ludovicus Babenstuber etiam lectiones partis b dictavit.",
+    "latinHtml": "<p>171 foll.; teg. a1; script. 1705</p>\n<p>a) Tractatus De Vitiis et Peccatis Dictatus â ......P. Ludovico Babenstuber Ordinis S: P. Benedicti, Celeberrimi Monasterii ad Beatissimam Virginem Ettalensem Professo: Sacrosanctae Theologiae Doctore, Eiusdemque in Alma ac Archi-Episcopali Universitate Professore Primario, Celsissimorum ac Reverendissimorum Sacri Romani Imperii Principum Archi-Episcopi Salisburgensis, et Episcopi Frisingensis Consiliario Ecclesiastico. et calamô exceptus â F. Benedicto Calles Benedictino ad Beatissimam Virginem in Seittenstetten. Anno 1705.</p>\n<p>Initium fol. 2r: Praesens Tractatus illa complectitur,......</p>\n<p>Clausula fol. 141v: Absolvimus praesentem tractatum die 8 Junii Anno 1705.</p>\n<p>b) Tractatus De Legibus: fol. 143r–168v. Initium: Lex in ampla et metaphora significatione...... Clausula: Absolvimus hunc Tractatum die 28 Julii: ubi certis de causis Scholae citius finiebantur.</p>\n<p>Sine dubio P. Ludovicus Babenstuber etiam lectiones partis b dictavit.</p>"
+  },
+  "source": {
+    "file": "MN II 224.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-224/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 224",
+    "titles": "Tractatus De Vitiis et Peccatis \nTractatus De Vitiis et Peccatis \nTractatus De Legibus",
+    "persons": "P. Ludovicus Babenstuber Dozent lecturer \nFr. Benedictus Calles Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Schulen wurden aus bestimmten Gründen früher beendet.",
+    "physical": "Papier \n171 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

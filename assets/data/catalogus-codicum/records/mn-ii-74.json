@@ -1,0 +1,198 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-74",
+  "signature": "MN II 74",
+  "aliases": [
+    "Bibl. Cod. MN II 74",
+    "Universae Philosophiae Peripateticae Aristotelis Commentarius Logicalis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "49",
+  "heading": {
+    "title": "Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1658/59"
+  },
+  "date": {
+    "display": "1658/59",
+    "intervals": [
+      {
+        "from": 1658,
+        "to": 1659,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–796",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Conclusiones ex Universa Logica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 801–819",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Theophilus Janckh",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "824 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1658/59",
+        "intervals": [
+          {
+            "from": 1658,
+            "to": 1659,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Logica MS. F. Theophilmi Jenck Seittenstettensis."
+    },
+    {
+      "type": "binding_initials",
+      "text": ".F:T:I:P:S:",
+      "expansion": "Frater Theophilus Janckh Professus Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "824 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1658/59.\n\na) **Logischer Kommentar zur gesamten peripatetischen Philosophie des Aristoteles:** S. 5–796. Anfang der Vorrede S. 5: Im Begriff, die klippenreiche Meerenge der Logik zu betreten...... Schluss S. 796: **...in diesem Jahr 1659 beendeten wir [dies] am 17. Mai....**\n\nb) **Schlussfolgerungen aus der gesamten Logik:** S. 801–819 (19 Schlussfolgerungen).\n\nAuf dem Rücken: **Logica MS. (= manu scripta) F. Theophilmi Jenck Seittenstettensis.** Denselben Bruder **Theophilus Janckh**, Profess von Seitenstetten, bezeichnen die Initialen auf der Vorderseite des Einbandes: **.F:T:I:P:S:** Der Verfasser ist unbekannt.\n\nTeil a, und zwar verstümmelt, enthält auch der vorhergehende Codex MN II 73. Teil b findet man auch in Codex MN II 82, S. 559/72 (unten S. 52).",
+    "germanHtml": "<p>824 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1658/59.</p>\n<p>a) <strong>Logischer Kommentar zur gesamten peripatetischen Philosophie des Aristoteles:</strong> S. 5–796. Anfang der Vorrede S. 5: Im Begriff, die klippenreiche Meerenge der Logik zu betreten...... Schluss S. 796: <strong>...in diesem Jahr 1659 beendeten wir [dies] am 17. Mai....</strong></p>\n<p>b) <strong>Schlussfolgerungen aus der gesamten Logik:</strong> S. 801–819 (19 Schlussfolgerungen).</p>\n<p>Auf dem Rücken: <strong>Logica MS. (= manu scripta) F. Theophilmi Jenck Seittenstettensis.</strong> Denselben Bruder <strong>Theophilus Janckh</strong>, Profess von Seitenstetten, bezeichnen die Initialen auf der Vorderseite des Einbandes: <strong>.F:T:I:P:S:</strong> Der Verfasser ist unbekannt.</p>\n<p>Teil a, und zwar verstümmelt, enthält auch der vorhergehende Codex MN II 73. Teil b findet man auch in Codex MN II 82, S. 559/72 (unten S. 52).</p>",
+    "latin": "824 pagg.; teg. a2; script. 1658/59\n\na) Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis: p. 5–796. Initium Prooemii p. 5: Ingressuri scopulosum Logicae fretum...... Clausula p. 796: ...hoc anno 1659 17 Maii absolvimus....\n\nb) Conclusiones ex Universa Logica: p. 801–819 (19 Conclusiones).\n\nIn dorso: Logica MS. (= manu scripta) F. Theophilmi Jenck Seittenstettensis. Eundem fratrem **Theophilum Janckh** Professum Seittenstettensem indicant litterae initiales adverso in tegumento: .F:T:I:P:S: Auctor ignotus.\n\nPartem a (eamque mutilam) continet etiam praecedens Codex MN II 73. Partem b invenies etiam in codice MN II 82, p. 559/72 (infra p. 52).",
+    "latinHtml": "<p>824 pagg.; teg. a2; script. 1658/59</p>\n<p>a) Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis: p. 5–796. Initium Prooemii p. 5: Ingressuri scopulosum Logicae fretum...... Clausula p. 796: ...hoc anno 1659 17 Maii absolvimus....</p>\n<p>b) Conclusiones ex Universa Logica: p. 801–819 (19 Conclusiones).</p>\n<p>In dorso: Logica MS. (= manu scripta) F. Theophilmi Jenck Seittenstettensis. Eundem fratrem <strong>Theophilum Janckh</strong> Professum Seittenstettensem indicant litterae initiales adverso in tegumento: .F:T:I:P:S: Auctor ignotus.</p>\n<p>Partem a (eamque mutilam) continet etiam praecedens Codex MN II 73. Partem b invenies etiam in codice MN II 82, p. 559/72 (infra p. 52).</p>"
+  },
+  "source": {
+    "file": "MN II 74.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-74/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 73]]",
+      "targetId": "mn-ii-73",
+      "targetSignature": "MN II 73",
+      "appliesTo": [
+        "Teil a"
+      ],
+      "certainty": "",
+      "note": "In MN II 73 verstümmelt."
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 82]]",
+      "targetId": "mn-ii-82",
+      "targetSignature": "MN II 82",
+      "appliesTo": [
+        "Teil b"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 74",
+    "titles": "Universae Philosophiae Peripateticae Aristotelis Comendarius Logicalis \nUniversae Philosophiae Peripateticae Aristotelis Comendarius Logicalis \nConclusiones ex Universa Logica",
+    "persons": "Fr. Theophilus Janckh Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n824 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

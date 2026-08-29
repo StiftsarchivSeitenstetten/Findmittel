@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-44",
+  "signature": "MN III 44",
+  "aliases": [
+    "Bibl. Cod. MN III 44"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "241",
+  "heading": {
+    "title": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1780 (?)"
+  },
+  "date": {
+    "display": "um 1780 (?)",
+    "intervals": [
+      {
+        "from": 1780,
+        "to": 1780,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Sincerus",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "pseudonym"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1780 (?)",
+        "intervals": [
+          {
+            "from": 1780,
+            "to": 1780,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 110 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1780 (?).\n\n**Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.**\n\nDer Katalogbearbeiter hält **Sincerus** nicht für den wirklichen Namen des Verfassers, sondern für ein Pseudonym, unter dem dieser seine Person verbarg. Der Name des Schreibers ist völlig unbekannt. Aufgrund des Schriftcharakters ist eine Entstehung um 1780 wahrscheinlich.",
+    "germanHtml": "<p>Oktavformat; 110 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1780 (?).</p>\n<p><strong>Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.</strong></p>\n<p>Der Katalogbearbeiter hält <strong>Sincerus</strong> nicht für den wirklichen Namen des Verfassers, sondern für ein Pseudonym, unter dem dieser seine Person verbarg. Der Name des Schreibers ist völlig unbekannt. Aufgrund des Schriftcharakters ist eine Entstehung um 1780 wahrscheinlich.</p>",
+    "latin": "8°; 110 pagg.; teg. b1; scriptus circa annum 1780 (?)\n\n**Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.**\n\nPuto tamen vocem Sincerus non esse verum nomen auctoris, sed fictum, quo personam suam tegat. Scriptoris vero nomen omnino ignotum est. Sed circa annum 1780 scriptum esse codicem nostrum veri simile est propter characterem scripturae.",
+    "latinHtml": "<p>8°; 110 pagg.; teg. b1; scriptus circa annum 1780 (?)</p>\n<p><strong>Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus.</strong></p>\n<p>Puto tamen vocem Sincerus non esse verum nomen auctoris, sed fictum, quo personam suam tegat. Scriptoris vero nomen omnino ignotum est. Sed circa annum 1780 scriptum esse codicem nostrum veri simile est propter characterem scripturae.</p>"
+  },
+  "source": {
+    "file": "MN III 44.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-44/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 44",
+    "titles": "Die Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus \nDie Endeckten (!) Requisita Realia wodurch Zum wahren Fundament der Hermetischen Wissenschafft vollkommen zu gelangen Denen Liebhabern zum Dienst eröffnet, so den Nahmen führet, Sincerus",
+    "persons": "Sincerus Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° \nOktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe; Verzierung siehe Katalogtext."
+  }
+}

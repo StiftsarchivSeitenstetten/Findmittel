@@ -1,0 +1,268 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-284",
+  "signature": "MN II 284",
+  "aliases": [
+    "Bibl. Cod. MN II 284"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "230–231",
+  "heading": {
+    "title": "Tractatus Scholastico-Positivus De Vitiis et Peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1752/53"
+  },
+  "date": {
+    "display": "1752/53",
+    "intervals": [
+      {
+        "from": 1752,
+        "to": 1753,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Positivus De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–135",
+      "language": "",
+      "incipit": {
+        "text": "Postquam S. Doctor de actibus humanis"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "6. November 1752"
+        },
+        {
+          "type": "end_date_display",
+          "display": "28. Februar 1753"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholastico-Positivus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 143–253",
+      "language": "",
+      "incipit": {
+        "text": "Tandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "9. März 1753"
+        },
+        {
+          "type": "end_date_display",
+          "display": "25. März 1753"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Veit",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "In beiden Titeln ausdrücklich mit „dictatus“ bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "264 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1752/53",
+        "intervals": [
+          {
+            "from": 1752,
+            "to": 1753,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "264 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1752/53.\n\na) **Scholastisch-positive Abhandlung über Laster und Sünden**, diktiert von P. Benedictus Veit im Jahr 1752, beginnend am 6. November: S. 7–135. Anfang S. 9: Nachdem der hl. Lehrer über die menschlichen Handlungen gehandelt hat,...... Schluss: **Wir beendeten [dies] am 28. Februar 1753.**\n\nb) **Scholastisch-positive Abhandlung über die Gesetze**, diktiert von P. Benedictus Veit im Jahr 1753, beginnend am 9. März: S. 143–253. Anfang: Endlich aus der Finsternis ins Licht, aus den Verstecken der Sünden auf die heitere Ebene...... Schluss: **Wir beendeten [dies] am 25. März 1753.**\n\nUnser Codex ist Band VII des Seitenstettner Kurses der scholastischen Theologie, der von 1750 bis 1753 gehalten wurde. Zum Schreiber siehe die vorhergehenden Codices.",
+    "germanHtml": "<p>264 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1752/53.</p>\n<p>a) <strong>Scholastisch-positive Abhandlung über Laster und Sünden</strong>, diktiert von P. Benedictus Veit im Jahr 1752, beginnend am 6. November: S. 7–135. Anfang S. 9: Nachdem der hl. Lehrer über die menschlichen Handlungen gehandelt hat,...... Schluss: <strong>Wir beendeten [dies] am 28. Februar 1753.</strong></p>\n<p>b) <strong>Scholastisch-positive Abhandlung über die Gesetze</strong>, diktiert von P. Benedictus Veit im Jahr 1753, beginnend am 9. März: S. 143–253. Anfang: Endlich aus der Finsternis ins Licht, aus den Verstecken der Sünden auf die heitere Ebene...... Schluss: <strong>Wir beendeten [dies] am 25. März 1753.</strong></p>\n<p>Unser Codex ist Band VII des Seitenstettner Kurses der scholastischen Theologie, der von 1750 bis 1753 gehalten wurde. Zum Schreiber siehe die vorhergehenden Codices.</p>",
+    "latin": "264 pagg.; teg. c3d; script. 1752/53\n\na) **Tractatus Scholastico-Positivus De Vitiis et Peccatis. Ab Admodum Reverendo, Religiosissimo ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1752 à Die sexta Novembris:** p. 7–135.  \nInitium p. 9: Postquam S: Doctor de actibus humanis,......  \nClausula: Absolvimus 28. Februarii. 1753.\n\nb) **Tractatus Scholastico-Positivus De Legibus Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1753, à die nona Martii:** p. 143–253.  \nInitium: Tandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem......  \nClausula: Absolvimus vicesima quinta Martii. 1753.\n\nCodex noster tomus VII. est cursus Seitenstettensis in Theologia Scholastica ab anno 1750 usque ad annum 1753 tradita. De scriptore vide codices praecedentes!",
+    "latinHtml": "<p>264 pagg.; teg. c3d; script. 1752/53</p>\n<p>a) <strong>Tractatus Scholastico-Positivus De Vitiis et Peccatis. Ab Admodum Reverendo, Religiosissimo ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1752 à Die sexta Novembris:</strong> p. 7–135. Initium p. 9: Postquam S: Doctor de actibus humanis,...... Clausula: Absolvimus 28. Februarii. 1753.</p>\n<p>b) <strong>Tractatus Scholastico-Positivus De Legibus Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1753, à die nona Martii:</strong> p. 143–253. Initium: Tandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem...... Clausula: Absolvimus vicesima quinta Martii. 1753.</p>\n<p>Codex noster tomus VII. est cursus Seitenstettensis in Theologia Scholastica ab anno 1750 usque ad annum 1753 tradita. De scriptore vide codices praecedentes!</p>"
+  },
+  "source": {
+    "file": "MN II 284.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-284/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 284",
+    "titles": "Tractatus Scholastico-Positivus De Vitiis et Peccatis \nTractatus Scholastico-Positivus De Vitiis et Peccatis \nTractatus Scholastico-Positivus De Legibus",
+    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Postquam S. Doctor de actibus humanis \nTandem è tenebris in lucem, ex latebris peccatorum in laetam planitiem",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n264 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

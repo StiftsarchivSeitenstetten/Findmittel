@@ -1,0 +1,309 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-154",
+  "signature": "MN II 154",
+  "aliases": [
+    "Bibl. Cod. MN II 154"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "112–113",
+  "heading": {
+    "title": "Philosophia Reverendi P. Maximiliani Steger Seittenstettensis",
+    "titleTypeRaw": "later_use_inscription",
+    "titleTypeLabel": "later use inscription",
+    "date": "circa 1685"
+  },
+  "date": {
+    "display": "circa 1685",
+    "intervals": [
+      {
+        "from": 1685,
+        "to": 1685,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Philosophia Reverendi P. Maximiliani Steger Seittenstettensis",
+    "titleTypeRaw": "later_use_inscription",
+    "titleTypeLabel": "later use inscription",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio unica De distinctionibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–17",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Logica Compendiosa",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 19–166",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Physica Compendiosa",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 175–475",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Physica generalis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 175–247",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio de Mundo",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 248–255",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De Caelis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 255–272",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-4",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De generatione, corruptione, motu aliisque ad haec spectantibus",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 272–426",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-5",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "De anima",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 436–475",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Maximilian Steger",
+      "roleRaw": "associated_person",
+      "roleLabel": "associated person",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Carolus",
+      "roleRaw": "later_user",
+      "roleLabel": "later user",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Maximilian Steger",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "P. Maximilian Steger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "Fr. Carolus Stang",
+      "roleRaw": "possible_identity_of_Fr_Carolus",
+      "roleLabel": "possible identity of Fr Carolus",
+      "scope": "manuscript",
+      "certainty": "possible",
+      "note": "Profess 1685; Priester etwa 1692."
+    },
+    {
+      "name": "Fr. Carolus Gschwandtner",
+      "roleRaw": "possible_identity_of_Fr_Carolus_and_inscription_writer",
+      "roleLabel": "possible identity of Fr Carolus and inscription writer",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Profess 1705; Priester 1711; nach Schriftcharakter eher Schreiber der Aufschrift."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "478 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken scheint mit einem umgedrehten Pergamentfragment überzogen zu sein.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "circa 1685",
+        "intervals": [
+          {
+            "from": 1685,
+            "to": 1685,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "use_inscription",
+      "text": "Philosophia Reverendi P. Maximiliani Steger Seittenstettensis. Jam in Usum F. Caroli Seittenstettensis pro tempore Salisburgi Theologiae Studiosi.",
+      "date_display": "nach 1690",
+      "note": "Die Aufschrift stammt nicht von Maximilian Steger. Als Fr. Carolus kommen Carolus Stang und, nach dem Schriftcharakter eher, Carolus Gschwandtner in Betracht.",
+      "certainty": "uncertain"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "478 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken scheint mit einem umgedrehten Pergamentfragment überzogen zu sein; geschrieben um 1685.\n\n**Philosophie des ehrwürdigen P. Maximilian Steger aus Seitenstetten. Nun zum Gebrauch des Fr. Carolus aus Seitenstetten, derzeit Theologiestudent in Salzburg.**\n\nDiese Aufschrift stammt nicht von P. Maximilian Steger selbst, sondern von jenem Fr. Carolus, der den Codex benutzte, und zwar erst nachdem Maximilian Steger als Pater bezeichnet wurde, also nach seiner Priesterweihe 1690. Zu dieser Zeit studierte Fr. Carolus Stang (Profess 1685, Priester etwa 1692) die heiligen Wissenschaften. Der Schriftcharakter der Aufschrift deutet jedoch eher darauf hin, dass Fr. Carolus Gschwandtner (Profess 1705, Priester 1711) den Titel schrieb.\n\na) **Einzige Disputation über die Unterscheidungen:** S. 3–17. Anfang S. 3: Bevor wir zur eigentlichen Natur der Unterscheidung kommen....\n\nb) **Kurze Logik:** S. 19–166. Anfang der ersten Frage **Über das Gedankending**, S. 19: Ein Gedankending wird definiert als dasjenige, das......\n\nc) **Kurze Physik:** S. 175–475. Anfang der ersten Frage **Über die Prinzipien des Naturkörpers**, S. 175: Da Gegenstand der Physik der Naturkörper ist.....\n\nDiese Kurzphysik enthält sowohl allgemeine Physik (S. 175–247) als auch spezielle Physik: Disputation über die Welt S. 248–255, über die Himmel S. 255–272, über Werden, Vergehen, Bewegung und Verwandtes S. 272–426, über die Seele S. 436–475.\n\nOb Maximilian Steger dieses Kompendium selbst zusammengestellt hat, ist ungewiss; ebenso, wann er diesen Codex schrieb – um 1685, als er selbst philosophische Vorlesungen hörte, oder später. P. Maximilian Steger starb bereits 1698.",
+    "germanHtml": "<p>478 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken scheint mit einem umgedrehten Pergamentfragment überzogen zu sein; geschrieben um 1685.</p>\n<p><strong>Philosophie des ehrwürdigen P. Maximilian Steger aus Seitenstetten. Nun zum Gebrauch des Fr. Carolus aus Seitenstetten, derzeit Theologiestudent in Salzburg.</strong></p>\n<p>Diese Aufschrift stammt nicht von P. Maximilian Steger selbst, sondern von jenem Fr. Carolus, der den Codex benutzte, und zwar erst nachdem Maximilian Steger als Pater bezeichnet wurde, also nach seiner Priesterweihe 1690. Zu dieser Zeit studierte Fr. Carolus Stang (Profess 1685, Priester etwa 1692) die heiligen Wissenschaften. Der Schriftcharakter der Aufschrift deutet jedoch eher darauf hin, dass Fr. Carolus Gschwandtner (Profess 1705, Priester 1711) den Titel schrieb.</p>\n<p>a) <strong>Einzige Disputation über die Unterscheidungen:</strong> S. 3–17. Anfang S. 3: Bevor wir zur eigentlichen Natur der Unterscheidung kommen....</p>\n<p>b) <strong>Kurze Logik:</strong> S. 19–166. Anfang der ersten Frage <strong>Über das Gedankending</strong>, S. 19: Ein Gedankending wird definiert als dasjenige, das......</p>\n<p>c) <strong>Kurze Physik:</strong> S. 175–475. Anfang der ersten Frage <strong>Über die Prinzipien des Naturkörpers</strong>, S. 175: Da Gegenstand der Physik der Naturkörper ist.....</p>\n<p>Diese Kurzphysik enthält sowohl allgemeine Physik (S. 175–247) als auch spezielle Physik: Disputation über die Welt S. 248–255, über die Himmel S. 255–272, über Werden, Vergehen, Bewegung und Verwandtes S. 272–426, über die Seele S. 436–475.</p>\n<p>Ob Maximilian Steger dieses Kompendium selbst zusammengestellt hat, ist ungewiss; ebenso, wann er diesen Codex schrieb – um 1685, als er selbst philosophische Vorlesungen hörte, oder später. P. Maximilian Steger starb bereits 1698.</p>",
+    "latin": "478 pagg.; teg. c2d (dorsum codicis verso fragmento membranaceo videtur tectum esse); script. circa 1685\n\nPhilosophia Reverendi P. Maximiliani Steger Seittenstettensis. Jam in Usum F. Caroli Seittenstettensis pro tempore Salisburgi Theologiae Studiosi.\n\n(NB: Haec inscriptio non ab ipso P. Maximiliano Steger scripta est, sed ab illo F. Carolo, qui codice nostro utebatur, eoque postquam Maximilianus Steger Pater appellabatur, nimirum postquam anno 1690 sacerdotio initiatus est. Quo tempore F. Carolus Stang (professus 1685, sacerdos circiter 1692) sacrae disciplinae studuit. Attamen scriptura huius inscriptionis indicat potius F. Carolum Gschwandtner (professus 1705, sacerdos 1711) hunc titulum scripsisse.)\n\na) Disputatio unica De distinctionibus: p. 3–17. Initium p. 3: Antequam ad ipsam naturam distinctionis veniamus....\n\nb) Logica Compendiosa: p. 19–166. Initium Quaestionis I. De Ente Rationis p. 19: Definitur ens rationis quod sit id......\n\nc) Physica Compendiosa: p. 175–475. Initium Quaestionis Primae. De Principiis Corporis naturalis. p. 175: Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem, dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426, De anima: p. 436–475.\n\nNum ipse Maximilianus Steger hoc compendium compilaverit, incertum est; item, quo tempore hunc codicem scripserit, utrum circa annum 1685, quo ipse lectiones philosophicas audiret, an serius; at anno 1698 iam obiit P. Maximilianus Steger.",
+    "latinHtml": "<p>478 pagg.; teg. c2d (dorsum codicis verso fragmento membranaceo videtur tectum esse); script. circa 1685</p>\n<p>Philosophia Reverendi P. Maximiliani Steger Seittenstettensis. Jam in Usum F. Caroli Seittenstettensis pro tempore Salisburgi Theologiae Studiosi.</p>\n<p>(NB: Haec inscriptio non ab ipso P. Maximiliano Steger scripta est, sed ab illo F. Carolo, qui codice nostro utebatur, eoque postquam Maximilianus Steger Pater appellabatur, nimirum postquam anno 1690 sacerdotio initiatus est. Quo tempore F. Carolus Stang (professus 1685, sacerdos circiter 1692) sacrae disciplinae studuit. Attamen scriptura huius inscriptionis indicat potius F. Carolum Gschwandtner (professus 1705, sacerdos 1711) hunc titulum scripsisse.)</p>\n<p>a) Disputatio unica De distinctionibus: p. 3–17. Initium p. 3: Antequam ad ipsam naturam distinctionis veniamus....</p>\n<p>b) Logica Compendiosa: p. 19–166. Initium Quaestionis I. De Ente Rationis p. 19: Definitur ens rationis quod sit id......</p>\n<p>c) Physica Compendiosa: p. 175–475. Initium Quaestionis Primae. De Principiis Corporis naturalis. p. 175: Cum obiectum physicae sit corpus naturale..... (Continet haec compendiosa Physica tam Physicam generalem p. 175–247 quam specialem, dico Disputationem de Mundo p. 248–255, De Caelis p. 255–272, de generatione Corruptione motu aliisque ad haec spectantibus p. 272–426, De anima: p. 436–475.</p>\n<p>Num ipse Maximilianus Steger hoc compendium compilaverit, incertum est; item, quo tempore hunc codicem scripserit, utrum circa annum 1685, quo ipse lectiones philosophicas audiret, an serius; at anno 1698 iam obiit P. Maximilianus Steger.</p>"
+  },
+  "source": {
+    "file": "MN II 154.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-154/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 154",
+    "titles": "Philosophia Reverendi P. Maximiliani Steger Seittenstettensis \nDisputatio unica De distinctionibus \nLogica Compendiosa \nPhysica Compendiosa \nPhysica generalis \nDisputatio de Mundo \nDe Caelis \nDe generatione, corruptione, motu aliisque ad haec spectantibus \nDe anima",
+    "persons": "P. Maximilian Steger associated person associated_person \nFr. Carolus later user later_user \nP. Maximilian Steger Bearbeiter compiler \nP. Maximilian Steger Schreiber scribe \nFr. Carolus Stang possible identity of Fr Carolus possible_identity_of_Fr_Carolus \nFr. Carolus Gschwandtner possible identity of Fr Carolus and inscription writer possible_identity_of_Fr_Carolus_and_inscription_writer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n478 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken scheint mit einem umgedrehten Pergamentfragment überzogen zu sein."
+  }
+}

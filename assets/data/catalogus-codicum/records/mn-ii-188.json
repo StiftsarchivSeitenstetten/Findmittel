@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-188",
+  "signature": "MN II 188",
+  "aliases": [
+    "Bibl. Cod. MN II 188"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "141–142",
+  "heading": {
+    "title": "Tractatus De Incarnatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1695"
+  },
+  "date": {
+    "display": "ca. 1695",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1695,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Incarnatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–268",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Die Zuschreibung ergibt sich aus der zusammengehörigen Codexreihe und der Buchbinderanweisung."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "272 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1695",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1695,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "bookbinder_instruction",
+      "locus": "S. 3",
+      "text": "Rukh et ökh her Jonnis Seittenstettensis",
+      "note": "Nach Auflösung des Katalogbearbeiters sollten Rücken und Kanten des Codex des Herrn Johannes aus Seitenstetten mit Leder versehen werden."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "272 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1695.\n\n**Abhandlung über die Menschwerdung:** S. 5–268.\n\nAnfang der ersten Frage über Möglichkeit, Erkennbarkeit und Angemessenheit der Menschwerdung. Erster Artikel: Ob die Menschwerdung möglich gewesen sei? Schlussfolgerung. Menschwerdung bezeichnet.....\n\nDer Verfasser ist unbekannt. Der Codex dürfte um 1695 entstanden sein, weil derselbe Schreiber auch die beiden vorhergehenden Codices aus dieser Zeit schrieb, wahrscheinlich Fr. Joannes Rigele.\n\nEine Anweisung für den Buchbinder auf S. 3 lautet: **Rukh et ökh her Jonnis Seittenstettensis** – bei diesem Codex des Herrn Johannes aus Seitenstetten sind Rücken und Kanten mit Leder zu versehen.",
+    "germanHtml": "<p>272 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1695.</p>\n<p><strong>Abhandlung über die Menschwerdung:</strong> S. 5–268.</p>\n<p>Anfang der ersten Frage über Möglichkeit, Erkennbarkeit und Angemessenheit der Menschwerdung. Erster Artikel: Ob die Menschwerdung möglich gewesen sei? Schlussfolgerung. Menschwerdung bezeichnet.....</p>\n<p>Der Verfasser ist unbekannt. Der Codex dürfte um 1695 entstanden sein, weil derselbe Schreiber auch die beiden vorhergehenden Codices aus dieser Zeit schrieb, wahrscheinlich Fr. Joannes Rigele.</p>\n<p>Eine Anweisung für den Buchbinder auf S. 3 lautet: <strong>Rukh et ökh her Jonnis Seittenstettensis</strong> – bei diesem Codex des Herrn Johannes aus Seitenstetten sind Rücken und Kanten mit Leder zu versehen.</p>",
+    "latin": "272 pagg.; teg. c2d; scriptus ca. 1695\n\nTractatus De Incarnatione: p. 5–268.\n\nInitium Quaestionis I. De Possibilitate Cognoscibilitate et convenientia incarnationis. Articulus I. utrum incarnatio fuerit possibilis? Conclusio. incarnatio (cuius nomine significetur....)\n\nAuctor ignotus. Ortum autem esse codicem nostrum circa annum 1695 suspicandum est, quia idem, qui duos codices praecedentes hoc tempore scripsit, etiam codicem nostrum exaravit, nimirum probabiliter F. Joannes Rigele, ut ad codicem MN II 195 declarabimus et nota pro bibliopego p. 3 codicis nostri indicat: Rukh et ökh her Jonnis Seittenstettensis (= in hoc codice domini Joannis Seitenstettensis dorsum et extremitates corio tegenda sunt.)",
+    "latinHtml": "<p>272 pagg.; teg. c2d; scriptus ca. 1695</p>\n<p>Tractatus De Incarnatione: p. 5–268.</p>\n<p>Initium Quaestionis I. De Possibilitate Cognoscibilitate et convenientia incarnationis. Articulus I. utrum incarnatio fuerit possibilis? Conclusio. incarnatio (cuius nomine significetur....)</p>\n<p>Auctor ignotus. Ortum autem esse codicem nostrum circa annum 1695 suspicandum est, quia idem, qui duos codices praecedentes hoc tempore scripsit, etiam codicem nostrum exaravit, nimirum probabiliter F. Joannes Rigele, ut ad codicem MN II 195 declarabimus et nota pro bibliopego p. 3 codicis nostri indicat: Rukh et ökh her Jonnis Seittenstettensis (= in hoc codice domini Joannis Seitenstettensis dorsum et extremitates corio tegenda sunt.)</p>"
+  },
+  "source": {
+    "file": "MN II 188.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-188/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 186]]",
+      "targetId": "mn-ii-186",
+      "targetSignature": "MN II 186",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 187]]",
+      "targetId": "mn-ii-187",
+      "targetSignature": "MN II 187",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 188",
+    "titles": "Tractatus De Incarnatione \nTractatus De Incarnatione",
+    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n272 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

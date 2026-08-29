@@ -1,0 +1,213 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-14",
+  "signature": "MN I 14",
+  "aliases": [
+    "Bibl. Cod. MN I 14",
+    "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "237",
+  "heading": {
+    "title": "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "zwischen 25. Februar 1753 und 1774"
+  },
+  "date": {
+    "display": "zwischen 25. Februar 1753 und 1774",
+    "intervals": [
+      {
+        "from": 1753,
+        "to": 1774,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "Protokoll einer Kommission zur Revision und Erläuterung des Tractatus de Juribus incorporalibus; nach Einschätzung des Katalogbearbeiters betrifft der Codex die erneuerten Gesetze Niederösterreichs.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 7–688",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "bis 25. Februar 1753"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Graf von Traun",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "locus": "S. 7"
+    },
+    {
+      "name": "Prälat von Herzogenburg",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "locus": "S. 7"
+    },
+    {
+      "name": "Prälat von Altenburg",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "locus": "S. 7"
+    },
+    {
+      "name": "Graf Wen(zeslaus?) von Preuner",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "locus": "S. 7"
+    },
+    {
+      "name": "von Moser L. U (A?). M (?)x",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "locus": "S. 7"
+    },
+    {
+      "name": "von Lindegg",
+      "roleRaw": "Deputierter der Stände",
+      "roleLabel": "Deputierter der Stände",
+      "scope": "manuscript",
+      "locus": "S. 7"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "690 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "b1 mit weißem Rücken",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt",
+      "note": "Der auf S. 688 genannte Name bezeichnet nach Aussage des Katalogbearbeiters nicht den Schreiber, sondern den Rat, der das letzte Gutachten ausgefertigt hat."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "zwischen 25. Februar 1753 und 1774",
+        "intervals": [
+          {
+            "from": 1753,
+            "to": 1774,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "subscription",
+      "locus": "S. 688",
+      "text_status": "Name vorhanden",
+      "interpretation": "Name des Rates, der das letzte Gutachten ausgefertigt hat, nicht des Schreibers.",
+      "note": "Der Name selbst wird im Katalogtext nicht wiedergegeben."
+    },
+    {
+      "type": "binding_inscription",
+      "locus": "Vorderseite des Einbandes",
+      "text": "D.A.S. 1774",
+      "expansion": "Dominicus Abbas Seitenstettensis",
+      "date": {
+        "display": "1774",
+        "when": 1774
+      }
+    }
+  ],
+  "editorialNotes": [
+    "Die Zuordnung des Inhalts zu den erneuerten Gesetzen Niederösterreichs ist eine Schlussfolgerung des Katalogbearbeiters aus den auf S. 7 genannten Deputierten der Stände.",
+    "Die Datierung 1753–1774 ist erschlossen und beruht auf dem mutmaßlichen Ende der Kommissionsarbeit am 25. Februar 1753 sowie der Einbandaufschrift von 1774.",
+    "Der auf S. 688 stehende Name darf ausdrücklich nicht als Schreibername angesetzt werden."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 690 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1753/74.\n\n**Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission:** S. 7–688.\n\nDa auf S. 7 als Deputierte der Stände Graf von Traun, der Prälat von Herzogenburg, der Prälat von Altenburg, Graf Wen(zeslaus?) von Preuner, von Moser L. U (A?). M (?)x und von Lindegg genannt werden, enthält unser Codex ohne Zweifel die erneuerten Gesetze Niederösterreichs. Diese Kommission scheint am 25. Februar 1753 ihre Beratungen und Sitzungen beendet zu haben. (Siehe S. 688!) Der Name hingegen, der sich dort (S. 688) findet, bezeichnet nicht den Schreiber des Codex, sondern den Rat, der dieses letzte Gutachten ausgefertigt hat.\n\nDer Schreiber unseres Codex ist also unbekannt. Dass dieser den Codex zwischen dem 25. Februar 1753 und dem Jahr 1774 geschrieben hat, wird man nicht bestreiten, wenn man die Unterschrift auf S. 688 und die Aufschrift auf der Vorderseite des Einbandes berücksichtigt: **D.A.S. 1774**, das heißt: Dominicus, Abt von Seitenstetten, ließ diesen Codex im Jahr 1774 mit einem Einband versehen.",
+    "germanHtml": "<p>Folioformat; 690 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1753/74.</p>\n<p><strong>Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission:</strong> S. 7–688.</p>\n<p>Da auf S. 7 als Deputierte der Stände Graf von Traun, der Prälat von Herzogenburg, der Prälat von Altenburg, Graf Wen(zeslaus?) von Preuner, von Moser L. U (A?). M (?)x und von Lindegg genannt werden, enthält unser Codex ohne Zweifel die erneuerten Gesetze Niederösterreichs. Diese Kommission scheint am 25. Februar 1753 ihre Beratungen und Sitzungen beendet zu haben. (Siehe S. 688!) Der Name hingegen, der sich dort (S. 688) findet, bezeichnet nicht den Schreiber des Codex, sondern den Rat, der dieses letzte Gutachten ausgefertigt hat.</p>\n<p>Der Schreiber unseres Codex ist also unbekannt. Dass dieser den Codex zwischen dem 25. Februar 1753 und dem Jahr 1774 geschrieben hat, wird man nicht bestreiten, wenn man die Unterschrift auf S. 688 und die Aufschrift auf der Vorderseite des Einbandes berücksichtigt: <strong>D.A.S. 1774</strong>, das heißt: Dominicus, Abt von Seitenstetten, ließ diesen Codex im Jahr 1774 mit einem Einband versehen.</p>",
+    "latin": "fol.; 690 pagg.; teg. b1 cum dorso albo; script. 1753/74\n\n**Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission:** p. 7–688.\n\nQuod p. 7 ut Deputati Statuum Comes à Traun, Praelatus ab Herzoghburg, Praelatus ab Altenburg, Comes Wen(zeslaus?) à Preuner, à Moser L. U (A?). M (?)x, à Lindegg nominantur, Codex noster sine dubio leges renovatas inferioris Austriae continet. Quae commissio 25. Februarii 1753 videtur finivisse consilia sessionesque suas. (Vide p. 688!) Nomen vero, qui ibi invenitur (p. 688), non indicat scriptorem codicis, sed consiliarium, qui hoc ultimum consultum exaravit.\n\nScriptor igitur codicis nostri ignotus est. Quem conscripsisse codicem inter diem 25. Februarii 1753 et annum 1774 non negabis, si consideraveris subscriptionem p. 688 et inscriptionem partis adversae tegumenti: **D.A.S. 1774**, id est: Dominicus Abbas Seitenstettensis anno 1774 tegumento munivit hunc codicem.",
+    "latinHtml": "<p>fol.; 690 pagg.; teg. b1 cum dorso albo; script. 1753/74</p>\n<p><strong>Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission:</strong> p. 7–688.</p>\n<p>Quod p. 7 ut Deputati Statuum Comes à Traun, Praelatus ab Herzoghburg, Praelatus ab Altenburg, Comes Wen(zeslaus?) à Preuner, à Moser L. U (A?). M (?)x, à Lindegg nominantur, Codex noster sine dubio leges renovatas inferioris Austriae continet. Quae commissio 25. Februarii 1753 videtur finivisse consilia sessionesque suas. (Vide p. 688!) Nomen vero, qui ibi invenitur (p. 688), non indicat scriptorem codicis, sed consiliarium, qui hoc ultimum consultum exaravit.</p>\n<p>Scriptor igitur codicis nostri ignotus est. Quem conscripsisse codicem inter diem 25. Februarii 1753 et annum 1774 non negabis, si consideraveris subscriptionem p. 688 et inscriptionem partis adversae tegumenti: <strong>D.A.S. 1774</strong>, id est: Dominicus Abbas Seitenstettensis anno 1774 tegumento munivit hunc codicem.</p>"
+  },
+  "source": {
+    "file": "MN I 14.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-14/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 14",
+    "titles": "Prothocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission \nProthocollum Von der zu Revidir- und Erläuterung des Tractatus de Juribus incorporalibus aufgestelte Commission",
+    "persons": "unbekannt Schreiber scribe \nGraf von Traun Deputierter der Stände Deputierter der Stände \nPrälat von Herzogenburg Deputierter der Stände Deputierter der Stände \nPrälat von Altenburg Deputierter der Stände Deputierter der Stände \nGraf Wen(zeslaus?) von Preuner Deputierter der Stände Deputierter der Stände \nvon Moser L. U (A?). M (?)x Deputierter der Stände Deputierter der Stände \nvon Lindegg Deputierter der Stände Deputierter der Stände",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Protokoll einer Kommission zur Revision und Erläuterung des Tractatus de Juribus incorporalibus; nach Einschätzung des Katalogbearbeiters betrifft der Codex die erneuerten Gesetze Niederösterreichs. \nDie Zuordnung des Inhalts zu den erneuerten Gesetzen Niederösterreichs ist eine Schlussfolgerung des Katalogbearbeiters aus den auf S. 7 genannten Deputierten der Stände. \nDie Datierung 1753–1774 ist erschlossen und beruht auf dem mutmaßlichen Ende der Kommissionsarbeit am 25. Februar 1753 sowie der Einbandaufschrift von 1774. \nDer auf S. 688 stehende Name darf ausdrücklich nicht als Schreibername angesetzt werden.",
+    "physical": "Papier \n690 Seiten \nFolio \ncode: b1 mit weißem Rücken; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

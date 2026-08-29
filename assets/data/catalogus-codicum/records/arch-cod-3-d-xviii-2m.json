@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-d-xviii-2m",
+  "signature": "Arch. Cod. 3 D (XVIII 2m)",
+  "aliases": [
+    "Arch. Cod. 3 D (XVIII 2m)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "266–267",
+  "heading": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "zwischen 1787 und 1791"
+  },
+  "date": {
+    "display": "zwischen 1787 und 1791",
+    "intervals": [
+      {
+        "from": 1787,
+        "to": 1791,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tomus II",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 527–876",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog bezeichnet den Inhalt durch Rückverweis als zweiten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Aus der eigenhändigen Niederschrift des Gesamtwerks erschlossen."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "350 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "zwischen 1787 und 1791",
+        "intervals": [
+          {
+            "from": 1787,
+            "to": 1791,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 350 Seiten; moderner Pappeinband, Vorder- und Rückdeckel schwarz-braun gesprenkelt, schwarzer Lederrücken.\n\nDieser Codex enthält S. 527–876 desselben Werkes von **P. Josephus Schaukegl**, also Band II.\n\nEr wurde zwischen 1787, dem Jahr des vorausgehenden Bandes, und 1791, dem Jahr des folgenden Codex, geschrieben.",
+    "germanHtml": "<p>Folioformat; 350 Seiten; moderner Pappeinband, Vorder- und Rückdeckel schwarz-braun gesprenkelt, schwarzer Lederrücken.</p>\n<p>Dieser Codex enthält S. 527–876 desselben Werkes von <strong>P. Josephus Schaukegl</strong>, also Band II.</p>\n<p>Er wurde zwischen 1787, dem Jahr des vorausgehenden Bandes, und 1791, dem Jahr des folgenden Codex, geschrieben.</p>",
+    "latin": "fol.; 350 pagg.; teg. modernum (pars adversa et aversa nigro fulvoque colore sparsa) chartaceum cum dorso scorteo nigro\n\nContinet hic codex eiusdem operis **P. Josephi Schaukegl** monachi Seitenstettensis pagg. 527–876, id est Tomum II, scriptum inter annum 1787, quo praecedens, et annum 1791, quo proximus codex scriptus est.",
+    "latinHtml": "<p>fol.; 350 pagg.; teg. modernum (pars adversa et aversa nigro fulvoque colore sparsa) chartaceum cum dorso scorteo nigro</p>\n<p>Continet hic codex eiusdem operis <strong>P. Josephi Schaukegl</strong> monachi Seitenstettensis pagg. 527–876, id est Tomum II, scriptum inter annum 1787, quo praecedens, et annum 1791, quo proximus codex scriptus est.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 D (XVIII 2m).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-d-xviii-2m/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "Arch. Cod. 3 I (XVIII 2m)",
+      "targetId": "arch-cod-3-i-xviii-2m",
+      "targetSignature": "Arch. Cod. 3 I (XVIII 2m)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "Arch. Cod. 3 D (XVIII 2m)",
+    "titles": "Josephi Schaukegl Presbyteri Abbatiae Seitenstettensis Ordinis S. Benedicti Exercitationes Historico-Diplomatico-Genealogicae de Norico huiusque Regni antiquis Familiis, praecipue Comitibus de Stille et Hefte, Fundatoribus Abbatiae Seitenstetten in Austria Inferiore et heredibus celeberrimae Familiae Comitum de Sempta et Ebersperg. Tomus II \nTomus II",
+    "persons": "P. Josephus Schaukegl Autor author \nP. Josephus Schaukegl Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Katalog bezeichnet den Inhalt durch Rückverweis als zweiten Band desselben Werkes wie Arch. Cod. 3 I; der strukturierte Werktitel ist daraus ergänzt.",
+    "physical": "Papier \n350 pagg. \nFolioformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

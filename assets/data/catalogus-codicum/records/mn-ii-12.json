@@ -1,0 +1,221 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-12",
+  "signature": "MN II 12",
+  "aliases": [
+    "Bibl. Cod. MN II 12",
+    "Commentarius in Logicam Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "10",
+  "heading": {
+    "title": "Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1624"
+  },
+  "date": {
+    "display": "1624",
+    "intervals": [
+      {
+        "from": 1624,
+        "to": 1624,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Mehrteiliger Kommentar zur aristotelischen Logik mit Dialektik-Epitome.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Prima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Prima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "144 + 285 + 62 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Stark abgenutzter Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1624",
+        "intervals": [
+          {
+            "from": 1624,
+            "to": 1624,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Am Ende von Teil c und d fehlen Blätter."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "144 + 285 + 62 Blätter; stark abgenutzter Pappeinband; geschrieben 1624.\n\n**a) Vorrede zum Kommentar über die Logik des Aristoteles:** Bl. 1–22v.\n\nAnfang: **Eine zweifelhafte und beinahe in unendlich viele Schwierigkeiten verwickelte Wissenschaft....**\n\n**b) Erster Teil des Kommentars. Über die Natur der Logik, über das Gedankending:** Bl. 2v–144v.\n\nAnfang: **Die Natur der Logik, an deren Betrachtung wir herangehen....**\n\n**c) Zweiter Teil des Kommentars zur Logik des Aristoteles. Über die Universalien:** Bl. 1–284v (= 145–429v). Anfang: **In diesem zweiten Teil des Kommentars....**\n\n**d) Epitome der gesamten Dialektik und deren Vorrede, begonnen am Vortag der Nonen des November im Jahr des Heils 1624:** Bl. 1–62v (= 430–492).\n\nAnfang: **Wie das Hauptziel der Rhetorik....**\n\nAm Ende dieser Abhandlung fehlen ein oder zwei Blätter, ebenso am Ende von Teil c).\n\nVerfasser und Schreiber sind unbekannt.",
+    "germanHtml": "<p>144 + 285 + 62 Blätter; stark abgenutzter Pappeinband; geschrieben 1624.</p>\n<p><strong>a) Vorrede zum Kommentar über die Logik des Aristoteles:</strong> Bl. 1–22v.</p>\n<p>Anfang: <strong>Eine zweifelhafte und beinahe in unendlich viele Schwierigkeiten verwickelte Wissenschaft....</strong></p>\n<p><strong>b) Erster Teil des Kommentars. Über die Natur der Logik, über das Gedankending:</strong> Bl. 2v–144v.</p>\n<p>Anfang: <strong>Die Natur der Logik, an deren Betrachtung wir herangehen....</strong></p>\n<p><strong>c) Zweiter Teil des Kommentars zur Logik des Aristoteles. Über die Universalien:</strong> Bl. 1–284v (= 145–429v). Anfang: <strong>In diesem zweiten Teil des Kommentars....</strong></p>\n<p><strong>d) Epitome der gesamten Dialektik und deren Vorrede, begonnen am Vortag der Nonen des November im Jahr des Heils 1624:</strong> Bl. 1–62v (= 430–492).</p>\n<p>Anfang: <strong>Wie das Hauptziel der Rhetorik....</strong></p>\n<p>Am Ende dieser Abhandlung fehlen ein oder zwei Blätter, ebenso am Ende von Teil c).</p>\n<p>Verfasser und Schreiber sind unbekannt.</p>",
+    "latin": "144 + 285 + 62 foll.; teg. chartaceum valde attritum; script. 1624\n\na) Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.\n\nInitium: Dubiam et pene infinitis difficultatibus implicatam scientiam....\n\nb) Prima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v\n\nInitium: Natura logicae ad cuius contemplationem accedimus....\n\nc) Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte....\n\nd) Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)\n\nInitium: Quemadmodum Rhetoricae praecipuus scopus.....\n\nIn fine huius tractatus unum alterumve folium deest, item in fine part. [c].\n\nAuctor et scriptor ignoti.",
+    "latinHtml": "<p>144 + 285 + 62 foll.; teg. chartaceum valde attritum; script. 1624</p>\n<p>a) Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v.</p>\n<p>Initium: Dubiam et pene infinitis difficultatibus implicatam scientiam....</p>\n<p>b) Prima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v</p>\n<p>Initium: Natura logicae ad cuius contemplationem accedimus....</p>\n<p>c) Pars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte....</p>\n<p>d) Epitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)</p>\n<p>Initium: Quemadmodum Rhetoricae praecipuus scopus.....</p>\n<p>In fine huius tractatus unum alterumve folium deest, item in fine part. [c].</p>\n<p>Auctor et scriptor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 12.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-12/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 12",
+    "titles": "Commentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v. \nCommentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v. \nPrima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v \nPars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte.... \nEpitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492)",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Mehrteiliger Kommentar zur aristotelischen Logik mit Dialektik-Epitome. \nCommentarius in Logicam Aristotelis Prooemium: fol. 1 - 22v. \nPrima Pars Commentarii De Natura Logicae De Ente Rationis: fol. 2v - 144v \nPars Secunda Commentarii in Aristotelis Logicam De Universalibus: fol. 1 - 284v (=145 - 429v); initium: Hac secunda Commentarii parte.... \nEpitome, totius Dialecticae eiusque Prooemium, incaepta pridie nonas Novembris, Anno Salutis nostrae MDCXXIV (1624): fol. 1 - 62v (=430 - 492) \nAm Ende von Teil c und d fehlen Blätter.",
+    "physical": "Papier \n144 + 285 + 62 Blätter \nQuartformat \ndescription: Stark abgenutzter Pappeinband."
+  }
+}

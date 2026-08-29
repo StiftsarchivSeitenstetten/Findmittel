@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-2",
+  "signature": "MN II 2",
+  "aliases": [
+    "Bibl. Cod. MN II 2",
+    "Tractatus in octo libros Physicorum"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "7",
+  "heading": {
+    "title": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1615"
+  },
+  "date": {
+    "display": "1615",
+    "intervals": [
+      {
+        "from": 1615,
+        "to": 1615,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Physikvorlesungen Caspar Lechners, mitgeschrieben von Georg Reitter.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caspar Lechner",
+      "roleRaw": "author_lecturer",
+      "roleLabel": "author lecturer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Georg Reitter",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "448 Seiten + 5 Seiten + 81 Blätter (= 615 Seiten)",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1615",
+        "intervals": [
+          {
+            "from": 1615,
+            "to": 1615,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "448 Seiten + 5 Seiten + 81 Blätter = 615 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1615.\n\n**a) Abhandlung zu den acht Büchern der Physik**, diktiert von dem ehrwürdigen P. Caspar Lechner, Professor der Philosophie, mitgeschrieben von Georg Reitter, Student derselben Fakultät. MDXV (Fehler! richtig: 1615, wie auf der Vorderseite des Einbandes): S. 1–448. (Siehe den Schlussvermerk S. 443!)\n\nAnfang der Vorrede S. 1: **Wenn man die Philosophie nach der Bedeutung des Namens betrachtet....**\n\n**b) Zwei Bücher Über Werden und Entstehen:** Bl. 1–79 (= S. 454–612).\n\nAnfang der Vorrede S. (454): **Was der Gegenstand der beiden Bücher über das Werden sei....**",
+    "germanHtml": "<p>448 Seiten + 5 Seiten + 81 Blätter = 615 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1615.</p>\n<p><strong>a) Abhandlung zu den acht Büchern der Physik</strong>, diktiert von dem ehrwürdigen P. Caspar Lechner, Professor der Philosophie, mitgeschrieben von Georg Reitter, Student derselben Fakultät. MDXV (Fehler! richtig: 1615, wie auf der Vorderseite des Einbandes): S. 1–448. (Siehe den Schlussvermerk S. 443!)</p>\n<p>Anfang der Vorrede S. 1: <strong>Wenn man die Philosophie nach der Bedeutung des Namens betrachtet....</strong></p>\n<p><strong>b) Zwei Bücher Über Werden und Entstehen:</strong> Bl. 1–79 (= S. 454–612).</p>\n<p>Anfang der Vorrede S. (454): <strong>Was der Gegenstand der beiden Bücher über das Werden sei....</strong></p>",
+    "latin": "448 pagg. + 5 pagg. + 81 foll. = 615 pagg.; teg. a1; scr. 1615\n\na) Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)\n\nInitium Prooemii p. 1: Philosophia vi nominis considerata....\n\nb) Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)\n\nInitium Prooemii p. (454): Quodnam sit duorum de generatione librorum subiectum....",
+    "latinHtml": "<p>448 pagg. + 5 pagg. + 81 foll. = 615 pagg.; teg. a1; scr. 1615</p>\n<p>a) Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!)</p>\n<p>Initium Prooemii p. 1: Philosophia vi nominis considerata....</p>\n<p>b) Libri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)</p>\n<p>Initium Prooemii p. (454): Quodnam sit duorum de generatione librorum subiectum....</p>"
+  },
+  "source": {
+    "file": "MN II 2.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-2/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 2",
+    "titles": "Tractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nTractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nLibri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
+    "persons": "P. Caspar Lechner author lecturer author_lecturer \nGeorg Reitter Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Physikvorlesungen Caspar Lechners, mitgeschrieben von Georg Reitter. \nTractatus in octo libros Physicorum dictatus a R. P. Gaspare Lechner philosophiae professore, exceptus a Georgio Reitter eiusdem facultatis studioso MDXV (mendum! recte: 1615) ut in tegumenti parte adversa): p. 1 - 448. (Vide clausulam p. 443!) \nLibri II. De Generatione: fol. 1 - 79 (= p. 454 - 612)",
+    "physical": "Papier \n448 Seiten + 5 Seiten + 81 Blätter (= 615 Seiten) \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

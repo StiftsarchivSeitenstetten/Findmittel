@@ -1,0 +1,185 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-198",
+  "signature": "MN II 198",
+  "aliases": [
+    "Bibl. Cod. MN II 198"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "149–150",
+  "heading": {
+    "title": "Conciones quadragesimales",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1697"
+  },
+  "date": {
+    "display": "1697",
+    "intervals": [
+      {
+        "from": 1697,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "Deutsch",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Conciones quadragesimales",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–277",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "context",
+          "text": "Öffentlich im Salzburger Dom gehalten."
+        }
+      ],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1697"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Concio coram Venerabili",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 278–300",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Aloysius Dilatsch (?)",
+      "roleRaw": "preacher",
+      "roleLabel": "preacher",
+      "scope": "manuscript",
+      "affiliation": "Theatinerorden",
+      "certainty": "uncertain",
+      "note": "Der Name scheint nach dem Gehör geschrieben; der Katalog erwägt als Namensform Delagetio."
+    },
+    {
+      "name": "P. (?) Joseph Nydermayr",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "P. Felix Fossa",
+      "roleRaw": "preacher",
+      "roleLabel": "preacher",
+      "scope": "manuscript",
+      "affiliation": "Theatinerorden"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "302 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1697",
+        "intervals": [
+          {
+            "from": 1697,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Die Namensform des Predigers von Teil a ist unsicher; als mögliche Form nennt der Katalog Delagetio."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "302 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1697.\n\na) **Fastenpredigten**, öffentlich im Salzburger Dom gehalten vom hochwürdigen P. Aloysius Dilatsch aus dem Theatinerorden und 1697 von P. (?) Joseph Nydermayr aufgezeichnet: S. 1–277.\n\nb) **Predigt vor dem Allerheiligsten**, gehalten vom ehrwürdigen P. Felix Fossa, Theatiner: S. 278–300.\n\nDer Name des Predigers in Teil a scheint nach dem Gehör geschrieben zu sein; möglicherweise lautete er Delagetio. Sämtliche Predigten wurden in deutscher Sprache gehalten und niedergeschrieben.",
+    "germanHtml": "<p>302 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1697.</p>\n<p>a) <strong>Fastenpredigten</strong>, öffentlich im Salzburger Dom gehalten vom hochwürdigen P. Aloysius Dilatsch aus dem Theatinerorden und 1697 von P. (?) Joseph Nydermayr aufgezeichnet: S. 1–277.</p>\n<p>b) <strong>Predigt vor dem Allerheiligsten</strong>, gehalten vom ehrwürdigen P. Felix Fossa, Theatiner: S. 278–300.</p>\n<p>Der Name des Predigers in Teil a scheint nach dem Gehör geschrieben zu sein; möglicherweise lautete er Delagetio. Sämtliche Predigten wurden in deutscher Sprache gehalten und niedergeschrieben.</p>",
+    "latin": "302 pagg.; teg. a2; scriptus anno 1697\n\na) Conciones quadragesimales á Plurimum Reverendo Patre Aloysio Dilatscho ex ordine Theatinorum in Ecclesia Cathedrali Salisburgensi publice peroratae et â Patre (?) Josepho Nydermayr conscriptae anno 1697?: p. 1–277\n\nb) Concio coram Venerabili Habita â Reverendo Patre Felice Fossa Caietano (= ex ordine Theatinorum): p. 278–300\n\nNomen concionatoris in parte a videtur secundum sonum vocis scriptum esse; fortasse nomen erat ei Delagetio. Omnes conciones lingua Germanica habitae scriptaeque sunt.",
+    "latinHtml": "<p>302 pagg.; teg. a2; scriptus anno 1697</p>\n<p>a) Conciones quadragesimales á Plurimum Reverendo Patre Aloysio Dilatscho ex ordine Theatinorum in Ecclesia Cathedrali Salisburgensi publice peroratae et â Patre (?) Josepho Nydermayr conscriptae anno 1697?: p. 1–277</p>\n<p>b) Concio coram Venerabili Habita â Reverendo Patre Felice Fossa Caietano (= ex ordine Theatinorum): p. 278–300</p>\n<p>Nomen concionatoris in parte a videtur secundum sonum vocis scriptum esse; fortasse nomen erat ei Delagetio. Omnes conciones lingua Germanica habitae scriptaeque sunt.</p>"
+  },
+  "source": {
+    "file": "MN II 198.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-198/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 198",
+    "titles": "Conciones quadragesimales \nConciones quadragesimales \nConcio coram Venerabili",
+    "persons": "P. Aloysius Dilatsch (?) preacher preacher \nP. (?) Joseph Nydermayr Schreiber scribe \nP. Felix Fossa preacher preacher",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Deutsch \nÖffentlich im Salzburger Dom gehalten. \nDie Namensform des Predigers von Teil a ist unsicher; als mögliche Form nennt der Katalog Delagetio.",
+    "physical": "Papier \n302 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

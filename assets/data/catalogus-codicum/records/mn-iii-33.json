@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-33",
+  "signature": "MN III 33",
+  "aliases": [
+    "Bibl. Cod. MN III 33"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "210–211",
+  "heading": {
+    "title": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1724 oder kurz danach"
+  },
+  "date": {
+    "display": "1724 oder kurz danach",
+    "intervals": [
+      {
+        "from": 1724,
+        "to": 1724,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–186",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Wahrscheinlich Abschrift einer 1724 in Paris gedruckten Vorlage."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1724 oder kurz danach",
+        "intervals": [
+          {
+            "from": 1724,
+            "to": 1724,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 186 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1724 oder kurz danach.\n\n**Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.**\n\nDiese Sammlung sehr kurzer Lebensbeschreibungen Jesu Christi und der Heiligen mit ihren berühmtesten Aussprüchen scheint 1724 in Paris gedruckt und später von unbekannter Hand abgeschrieben worden zu sein.\n\nAuch der Verfasser ist unbekannt.",
+    "germanHtml": "<p>Kleines Oktavformat; 186 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1724 oder kurz danach.</p>\n<p><strong>Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.</strong></p>\n<p>Diese Sammlung sehr kurzer Lebensbeschreibungen Jesu Christi und der Heiligen mit ihren berühmtesten Aussprüchen scheint 1724 in Paris gedruckt und später von unbekannter Hand abgeschrieben worden zu sein.</p>\n<p>Auch der Verfasser ist unbekannt.</p>",
+    "latin": "8° min.; 186 pagg.; teg. b1; script. 1724 aut paulo post\n\n**Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.**\n\nVidetur haec collectio brevissimarum vitarum Jesu Christi et Sanctorum cum celeberrimis dictis eorum Parisii 1724 typis edita et postea a nescio quo manu exscripta esse. Sed et auctor ignotus.",
+    "latinHtml": "<p>8° min.; 186 pagg.; teg. b1; script. 1724 aut paulo post</p>\n<p><strong>Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724.</strong></p>\n<p>Videtur haec collectio brevissimarum vitarum Jesu Christi et Sanctorum cum celeberrimis dictis eorum Parisii 1724 typis edita et postea a nescio quo manu exscripta esse. Sed et auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN III 33.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-33/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 33",
+    "titles": "Abregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724 \nAbregé des Maximes des Saints que doivent imiter les bons Chrétiens. De Paris. 1724",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+  }
+}

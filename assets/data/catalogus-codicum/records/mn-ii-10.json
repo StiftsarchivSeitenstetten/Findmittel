@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-10",
+  "signature": "MN II 10",
+  "aliases": [
+    "Bibl. Cod. MN II 10",
+    "Tractatus de Virtutibus Fide Spe et Charitate"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "10",
+  "heading": {
+    "title": "Tractatus de Virtutibus Fide, Spe, et Charitate",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1620"
+  },
+  "date": {
+    "display": "um 1620",
+    "intervals": [
+      {
+        "from": 1620,
+        "to": 1620,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus de Virtutibus Fide, Spe, et Charitate",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Virtutibus Fide, Spe, et Charitate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–196v",
+      "language": "",
+      "incipit": {
+        "text": "Disputant scolastici Theologi De fide....."
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vermerk Bl. 200v: in ista materia sunt octo in universum [lectiones]."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Dieselben Hände wie bei MN II 9."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 202 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1620",
+        "intervals": [
+          {
+            "from": 1620,
+            "to": 1620,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 202 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; um 1620 (wie MN II 9).\n\n**Abhandlung über die Tugenden Glaube, Hoffnung und Liebe:** Bl. 1r–196v.\n\nAnfang Bl. 1r: **Die scholastischen Theologen disputieren über den Glauben.....**\n\nVermerk Bl. 200v: **In diesem Stoff gibt es insgesamt acht [Vorlesungen].**\n\nDer Verfasser ist unbekannt. Es ist erkennbar, dass mehrere Hände diesen Codex geschrieben haben, und zwar dieselben wie Codex MN II 9 (siehe oben S. 9!).",
+    "germanHtml": "<p>II + 202 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; um 1620 (wie MN II 9).</p>\n<p><strong>Abhandlung über die Tugenden Glaube, Hoffnung und Liebe:</strong> Bl. 1r–196v.</p>\n<p>Anfang Bl. 1r: <strong>Die scholastischen Theologen disputieren über den Glauben.....</strong></p>\n<p>Vermerk Bl. 200v: <strong>In diesem Stoff gibt es insgesamt acht [Vorlesungen].</strong></p>\n<p>Der Verfasser ist unbekannt. Es ist erkennbar, dass mehrere Hände diesen Codex geschrieben haben, und zwar dieselben wie Codex MN II 9 (siehe oben S. 9!).</p>",
+    "latin": "II + 202 foll.; teg. a1; ca annum 1620 (ut MN II 9)\n\nTractatus de Virtutibus Fide, Spe, et Charitate: fol. 1r - 196v.\n\nInitium fol. 1r: Disputant scolastici Theologi De fide.....\n\nNota fol. 200v: in ista materia sunt octo in universum [lectiones].\n\nAuctor ignotus; apparet plures manus hunc codicem conscripsisse atque easdem ut codicem MN II 9 (vide supra p. 9!).",
+    "latinHtml": "<p>II + 202 foll.; teg. a1; ca annum 1620 (ut MN II 9)</p>\n<p>Tractatus de Virtutibus Fide, Spe, et Charitate: fol. 1r - 196v.</p>\n<p>Initium fol. 1r: Disputant scolastici Theologi De fide.....</p>\n<p>Nota fol. 200v: in ista materia sunt octo in universum [lectiones].</p>\n<p>Auctor ignotus; apparet plures manus hunc codicem conscripsisse atque easdem ut codicem MN II 9 (vide supra p. 9!).</p>"
+  },
+  "source": {
+    "file": "MN II 10.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-10/",
+  "relations": [
+    {
+      "typeRaw": "same_hands_as",
+      "typeLabel": "same hands as",
+      "targetRaw": "[[MN II 9]]",
+      "targetId": "mn-ii-9",
+      "targetSignature": "MN II 9",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 10",
+    "titles": "Tractatus de Virtutibus Fide, Spe, et Charitate \nTractatus de Virtutibus Fide, Spe, et Charitate",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Disputant scolastici Theologi De fide.....",
+    "explicits": "",
+    "notes": "Vermerk Bl. 200v: in ista materia sunt octo in universum [lectiones].",
+    "physical": "Papier \nII + 202 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

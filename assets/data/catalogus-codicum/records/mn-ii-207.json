@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-207",
+  "signature": "MN II 207",
+  "aliases": [
+    "Bibl. Cod. MN II 207"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "155–156",
+  "heading": {
+    "title": "Tractatus quintus In Primam Secundae Summae Divi Thomae Aquinatis De Vitiis et Peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1696/97 (?)"
+  },
+  "date": {
+    "display": "1696/97 (?)",
+    "intervals": [
+      {
+        "from": 1696,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus quintus In Primam Secundae Summae Divi Thomae Aquinatis De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–452",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus sextus In Primam Secundae Summae Divi Thomae Aquinatis De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 453–577",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "23. August, Jahr nicht angegeben"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Carolus Schrenk",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Peter in Salzburg / Universität Salzburg",
+      "certainty": "probable",
+      "note": "Die Zuschreibung ergibt sich aus der Nummerierung innerhalb seines theologischen Kurses."
+    },
+    {
+      "name": "Fr. Udiscalcus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "580 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1696/97 (?)",
+        "intervals": [
+          {
+            "from": 1696,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "Innenseite des Vorderdeckels",
+      "text": "P. V. H. 1705",
+      "note": "Die Deutung wird im Katalog bei MN II 211 erläutert."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "580 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben wahrscheinlich 1696/97.\n\na) **Abhandlung zur Prima Secundae der Summa des hl. Thomas von Aquin über Laster und Sünden:** S. 3–452. Anfang der Vorrede: Nachdem Natur und Eigenschaften der menschlichen Handlungen erklärt sind, geht der heilige Lehrer weiter.....\n\nb) **Sechste Abhandlung zur Prima Secundae der Summa des hl. Thomas über die Gesetze:** S. 453–577. Anfang der Vorrede: Nach Abschluss der Abhandlung über die menschlichen Handlungen..... Schluss: **Wir beendeten [dies] am 23. August.**\n\nWas die Notiz **P. V. H. 1705** auf der Innenseite des Vorderdeckels bedeutet, wird bei MN II 211 erläutert. Die Schrift zeigt, dass Fr. Udiscalcus Hueber auch diesen Codex schrieb.\n\nDie Nummerierung von Teil b zeigt, dass der Codex den theologischen Kurs fortsetzt, den P. Carolus Schrenk, Profess von St. Peter in Salzburg, vortrug.",
+    "germanHtml": "<p>580 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben wahrscheinlich 1696/97.</p>\n<p>a) <strong>Abhandlung zur Prima Secundae der Summa des hl. Thomas von Aquin über Laster und Sünden:</strong> S. 3–452. Anfang der Vorrede: Nachdem Natur und Eigenschaften der menschlichen Handlungen erklärt sind, geht der heilige Lehrer weiter.....</p>\n<p>b) <strong>Sechste Abhandlung zur Prima Secundae der Summa des hl. Thomas über die Gesetze:</strong> S. 453–577. Anfang der Vorrede: Nach Abschluss der Abhandlung über die menschlichen Handlungen..... Schluss: <strong>Wir beendeten [dies] am 23. August.</strong></p>\n<p>Was die Notiz <strong>P. V. H. 1705</strong> auf der Innenseite des Vorderdeckels bedeutet, wird bei MN II 211 erläutert. Die Schrift zeigt, dass Fr. Udiscalcus Hueber auch diesen Codex schrieb.</p>\n<p>Die Nummerierung von Teil b zeigt, dass der Codex den theologischen Kurs fortsetzt, den P. Carolus Schrenk, Profess von St. Peter in Salzburg, vortrug.</p>",
+    "latin": "580 pagg.; teg. a1; script. 1696/97 (?)\n\na) Tractatus In Primam Secundae Summae Doctoris Angelici Divi Thomae Aquinatis de vitiis et peccatis: p. 3–452. Initium Proloquii: Explicata natura et affectionibus actuum humanorum procedit S. Doctor\n\nb) Tractatus sextus In Primam Secundae Summae Doctoris Angelici Divi Thomae Aquinatis de Legibus: p. 453–577. Initium Proloquii: Absoluto Tractatu de actibus humanis...... Clausula: Absolvimus die 23 Augusti. Quid sibi velit nota adverso in tegumento ab intrinsecus P. V. H. 1705 vide supra ad codicem MN II 211! Scriptura docet,\n\nF. Udiscalcum Hueber etiam nostrum codicem scripsisse. Numerus partis b indicat codicem nostrum continuare cursum theologicum a P. Carolo Schrenk, professo ad S. Petrum Salisburgi dictatum.",
+    "latinHtml": "<p>580 pagg.; teg. a1; script. 1696/97 (?)</p>\n<p>a) Tractatus In Primam Secundae Summae Doctoris Angelici Divi Thomae Aquinatis de vitiis et peccatis: p. 3–452. Initium Proloquii: Explicata natura et affectionibus actuum humanorum procedit S. Doctor</p>\n<p>b) Tractatus sextus In Primam Secundae Summae Doctoris Angelici Divi Thomae Aquinatis de Legibus: p. 453–577. Initium Proloquii: Absoluto Tractatu de actibus humanis...... Clausula: Absolvimus die 23 Augusti. Quid sibi velit nota adverso in tegumento ab intrinsecus P. V. H. 1705 vide supra ad codicem MN II 211! Scriptura docet,</p>\n<p>F. Udiscalcum Hueber etiam nostrum codicem scripsisse. Numerus partis b indicat codicem nostrum continuare cursum theologicum a P. Carolo Schrenk, professo ad S. Petrum Salisburgi dictatum.</p>"
+  },
+  "source": {
+    "file": "MN II 207.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-207/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "[[MN II 211]]",
+      "targetId": "mn-ii-211",
+      "targetSignature": "MN II 211",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 207",
+    "titles": "Tractatus quintus In Primam Secundae Summae Divi Thomae Aquinatis De Vitiis et Peccatis \nTractatus quintus In Primam Secundae Summae Divi Thomae Aquinatis De Vitiis et Peccatis \nTractatus sextus In Primam Secundae Summae Divi Thomae Aquinatis De Legibus",
+    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n580 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

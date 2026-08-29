@@ -1,0 +1,266 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-87",
+  "signature": "MN II 87",
+  "aliases": [
+    "Bibl. Cod. MN II 87",
+    "Casus Conscientiae, Sacrae Scripturae leges et Decretales"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "56",
+  "heading": {
+    "title": "Undecim Theses in Casus Conscientiae",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1665"
+  },
+  "date": {
+    "display": "um 1665",
+    "intervals": [
+      {
+        "from": 1665,
+        "to": 1665,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Undecim Theses in Casus Conscientiae",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 3–28",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Libri aliquot De variis et Selectioribus Sacrae scripturae legibus",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 31–46",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Benedictus Abelzhauser",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-b"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De praeceptis Decalogi",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 47–354",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Nur die ersten fünf Gebote erhalten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "In Librum Quartum Decretalium",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 357–489",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "In Librum Quintum Decretalium",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 495–550",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Nur die ersten 18 Titel erhalten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-b"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "550 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Papierumschlag mit Pergamentrücken aus einem handschriftlichen Fragment des 15. Jahrhunderts; Vorder- und Rückseite mit Fragmenten eines 1712 in Linz gedruckten Hauskalenders beklebt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1665",
+        "intervals": [
+          {
+            "from": 1665,
+            "to": 1665,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": [
+      {
+        "type": "component_date",
+        "value": {
+          "part": "b",
+          "display": "1666–1672",
+          "from": 1666,
+          "to": 1672,
+          "certainty": "inferred"
+        }
+      }
+    ]
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "550 Seiten; Papierumschlag mit einem handschriftlich beschriebenen Pergamentrücken des 15. Jahrhunderts; auf Vorder- und Rückseite des Umschlags befinden sich Fragmente des Büchleins **Neuer Hauß-Calender, Auf das Jahr nach Jesu Christi Geburt, M.DCC.XII. (1712).... gestellet Durch Ernestum Wecker, Med. Doct. Gedruckt in Lintz, bey Johann Caspar Leidenmayr.** Dennoch glaube ich aufgrund des Schriftcharakters, der sich von jenem der Codices MN II 85 und 86 kaum unterscheidet, dass der Codex bereits um 1665 geschrieben wurde.\n\na) **(Elf Thesen zu den Gewissensfällen):** S. 3–28. Anfang der Mahnung an den Leser: **Die meisten praktischen Materien haben wir in diesen Thesen zusammengefasst....**\n\nb) **(Einige Bücher über verschiedene und ausgewähltere Gesetze der Heiligen Schrift):** S. 31–46. Anfang der Vorrede und Erklärung der Absicht des Werkes: **Ich hielt es stets für der Mühe wert und erachtete es für höchst bedeutsam.....** Denselben Anfang findet man S. 173 des Codex MN II 123. Tatsächlich ist Teil b unseres Codex nichts anderes als ein Fragment des Anfangs jenes Werkes, das in Codex MN II 123, S. 171–349, vollständig enthalten ist und – wie dort zu zeigen sein wird – vom ehrwürdigen P. **Benedictus Abelzhauser** verfasst wurde. Da P. Benedictus Abelzhauser im Jahr 1666 den theologischen Doktorgrad erlangte und das genannte Werk, wie beim selben Codex zu bemerken sein wird, im Jahr 1672 bereits bestand, nehme ich an, dass dieses Fragment weder vor 1666 noch nach 1672 entstanden ist.\n\nc) **(Über die Gebote des Dekalogs):** S. 47–354. In unserem Codex sind nur die ersten fünf Gebote erhalten. Anfang S. 47: **Der Dekalog ist der Inbegriff aller übrigen Gesetze....**\n\nd) **(Zum vierten Buch der Dekretalen):** S. 357–489. Anfang: **In diesem gesamten vierten Buch werden Ehesachen und Ehefragen behandelt....**\n\ne) **(Zum fünften Buch der Dekretalen):** S. 495–550. Anfang: **In diesem fünften Buch der Dekretalen wird behandelt.....** Auch von diesem Teil sind nur die ersten 18 Titel erhalten.\n\nZum Schreiber siehe die Codices MN II 79 und 86. Nur der Verfasser von Teil b ist bekannt.",
+    "germanHtml": "<p>550 Seiten; Papierumschlag mit einem handschriftlich beschriebenen Pergamentrücken des 15. Jahrhunderts; auf Vorder- und Rückseite des Umschlags befinden sich Fragmente des Büchleins <strong>Neuer Hauß-Calender, Auf das Jahr nach Jesu Christi Geburt, M.DCC.XII. (1712).... gestellet Durch Ernestum Wecker, Med. Doct. Gedruckt in Lintz, bey Johann Caspar Leidenmayr.</strong> Dennoch glaube ich aufgrund des Schriftcharakters, der sich von jenem der Codices MN II 85 und 86 kaum unterscheidet, dass der Codex bereits um 1665 geschrieben wurde.</p>\n<p>a) <strong>(Elf Thesen zu den Gewissensfällen):</strong> S. 3–28. Anfang der Mahnung an den Leser: <strong>Die meisten praktischen Materien haben wir in diesen Thesen zusammengefasst....</strong></p>\n<p>b) <strong>(Einige Bücher über verschiedene und ausgewähltere Gesetze der Heiligen Schrift):</strong> S. 31–46. Anfang der Vorrede und Erklärung der Absicht des Werkes: <strong>Ich hielt es stets für der Mühe wert und erachtete es für höchst bedeutsam.....</strong> Denselben Anfang findet man S. 173 des Codex MN II 123. Tatsächlich ist Teil b unseres Codex nichts anderes als ein Fragment des Anfangs jenes Werkes, das in Codex MN II 123, S. 171–349, vollständig enthalten ist und – wie dort zu zeigen sein wird – vom ehrwürdigen P. <strong>Benedictus Abelzhauser</strong> verfasst wurde. Da P. Benedictus Abelzhauser im Jahr 1666 den theologischen Doktorgrad erlangte und das genannte Werk, wie beim selben Codex zu bemerken sein wird, im Jahr 1672 bereits bestand, nehme ich an, dass dieses Fragment weder vor 1666 noch nach 1672 entstanden ist.</p>\n<p>c) <strong>(Über die Gebote des Dekalogs):</strong> S. 47–354. In unserem Codex sind nur die ersten fünf Gebote erhalten. Anfang S. 47: <strong>Der Dekalog ist der Inbegriff aller übrigen Gesetze....</strong></p>\n<p>d) <strong>(Zum vierten Buch der Dekretalen):</strong> S. 357–489. Anfang: <strong>In diesem gesamten vierten Buch werden Ehesachen und Ehefragen behandelt....</strong></p>\n<p>e) <strong>(Zum fünften Buch der Dekretalen):</strong> S. 495–550. Anfang: <strong>In diesem fünften Buch der Dekretalen wird behandelt.....</strong> Auch von diesem Teil sind nur die ersten 18 Titel erhalten.</p>\n<p>Zum Schreiber siehe die Codices MN II 79 und 86. Nur der Verfasser von Teil b ist bekannt.</p>",
+    "latin": "550 pagg.; tegumentum chartaceum cum dorso membranaceo saec. XV. manu scripto; in parte adversa et aversa tegumenti fragmenta libelli Neuer Hauß-Calender, Auf das Jahr nach Jesu Christi Geburt, M.DCC.XII. (1712).... gestellet Durch Ernestum Wecker, Med. Doct. Gedruckt in Lintz, bey Johann Caspar Leidenmayr. Nihilominus codicem iam circa annum 1665 scriptum esse puto propter characterem scripturae, qui ab illo codicum MN II 85 et 86 vix distingui potest.\n\na) (Undecim Theses in Casus Conscientiae): p. 3–28. Initium Monitionis ad Lectorem: Plerasque materias practicas hisce thesibus complexi sumus....\n\nb) (Libri aliquot De variis et Selectioribus Sacrae scripturae legibus): p. 31–46. Initium Praefationis et Intentionis Operis: Nunquam non operae pretium duxi et summi momenti esse iudicavi..... Idem initium invenies p. 173 codicis MN II 123, et re vera pars b codicis nostri nil est nisi fragmentum initii operis, quod in codice MN II 123, p. 171–349, totum continetur, et (uti ad codicem MN II 123 demonstrandum erit) a R. P. **Benedicto Abelzhauser** compositum est. Cum P. Benedictus Abelzhauser anno 1666 doctoris theologici lauream adeptus sit, opus vero laudatum (ut ad eundem codicem memorandum erit) anno 1672 iam exstiterit, hoc fragmentum neque ante annum 1666 neque post annum 1672 ortum esse puto.\n\nc) (De praeceptis Decalogi): p. 47–354. (Non nisi quinque priora praecepta in codice nostro exstant.) Initium p. 47: Decalogus omnium aliarum legum Epitome est....\n\nd) (In Librum Quartum Decretalium): p. 357–489; initium: In toto hoc libro quarto causae et quaestiones matrimoniales....\n\ne) (In Librum Quintum Decretalium): p. 495–550. Initium: In hoc quinto Decretalium libro agit..... (Etiam huius partis iam non exstant nisi XVIII tituli priores.) De scriptore vide codices MN II 79 et 86. Auctor solius partis b notus.",
+    "latinHtml": "<p>550 pagg.; tegumentum chartaceum cum dorso membranaceo saec. XV. manu scripto; in parte adversa et aversa tegumenti fragmenta libelli Neuer Hauß-Calender, Auf das Jahr nach Jesu Christi Geburt, M.DCC.XII. (1712).... gestellet Durch Ernestum Wecker, Med. Doct. Gedruckt in Lintz, bey Johann Caspar Leidenmayr. Nihilominus codicem iam circa annum 1665 scriptum esse puto propter characterem scripturae, qui ab illo codicum MN II 85 et 86 vix distingui potest.</p>\n<p>a) (Undecim Theses in Casus Conscientiae): p. 3–28. Initium Monitionis ad Lectorem: Plerasque materias practicas hisce thesibus complexi sumus....</p>\n<p>b) (Libri aliquot De variis et Selectioribus Sacrae scripturae legibus): p. 31–46. Initium Praefationis et Intentionis Operis: Nunquam non operae pretium duxi et summi momenti esse iudicavi..... Idem initium invenies p. 173 codicis MN II 123, et re vera pars b codicis nostri nil est nisi fragmentum initii operis, quod in codice MN II 123, p. 171–349, totum continetur, et (uti ad codicem MN II 123 demonstrandum erit) a R. P. <strong>Benedicto Abelzhauser</strong> compositum est. Cum P. Benedictus Abelzhauser anno 1666 doctoris theologici lauream adeptus sit, opus vero laudatum (ut ad eundem codicem memorandum erit) anno 1672 iam exstiterit, hoc fragmentum neque ante annum 1666 neque post annum 1672 ortum esse puto.</p>\n<p>c) (De praeceptis Decalogi): p. 47–354. (Non nisi quinque priora praecepta in codice nostro exstant.) Initium p. 47: Decalogus omnium aliarum legum Epitome est....</p>\n<p>d) (In Librum Quartum Decretalium): p. 357–489; initium: In toto hoc libro quarto causae et quaestiones matrimoniales....</p>\n<p>e) (In Librum Quintum Decretalium): p. 495–550. Initium: In hoc quinto Decretalium libro agit..... (Etiam huius partis iam non exstant nisi XVIII tituli priores.) De scriptore vide codices MN II 79 et 86. Auctor solius partis b notus.</p>"
+  },
+  "source": {
+    "file": "MN II 87.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-87/",
+  "relations": [
+    {
+      "typeRaw": "fragment_of_same_work_as",
+      "typeLabel": "fragment of same work as",
+      "targetRaw": "[[MN II 123]]",
+      "targetId": "mn-ii-123",
+      "targetSignature": "MN II 123",
+      "appliesTo": [
+        "Teil b"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 87",
+    "titles": "Undecim Theses in Casus Conscientiae \nUndecim Theses in Casus Conscientiae \nLibri aliquot De variis et Selectioribus Sacrae scripturae legibus \nDe praeceptis Decalogi \nIn Librum Quartum Decretalium \nIn Librum Quintum Decretalium",
+    "persons": "unbekannt Schreiber scribe \nBenedictus Abelzhauser Autor author \nBenedictus Abelzhauser Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nur die ersten fünf Gebote erhalten. \nNur die ersten 18 Titel erhalten.",
+    "physical": "Papier \n550 Seiten \ndescription: Papierumschlag mit Pergamentrücken aus einem handschriftlichen Fragment des 15. Jahrhunderts; Vorder- und Rückseite mit Fragmenten eines 1712 in Linz gedruckten Hauskalenders beklebt."
+  }
+}

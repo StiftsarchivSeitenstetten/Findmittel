@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-203",
+  "signature": "MN II 203",
+  "aliases": [
+    "Bibl. Cod. MN II 203"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "152–153",
+  "heading": {
+    "title": "Tractatus Scholasticus In Primam Secundae Divi Thomae de Vitiis et Peccatis et de Legibus",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1700/1701"
+  },
+  "date": {
+    "display": "1700/1701",
+    "intervals": [
+      {
+        "from": 1700,
+        "to": 1701,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholasticus In Primam Secundae Divi Thomae de Vitiis et Peccatis et de Legibus",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prima De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 6–336",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1700-11-09"
+        },
+        {
+          "type": "end_date",
+          "display": "1701-08-01"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Disputatio Secunda De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 337–392",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1701-08-03"
+        },
+        {
+          "type": "end_date",
+          "display": "1701-09-03"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Marianus Lendlmayr",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Admont / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Engelbertus Veser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "certain",
+      "note": "Die Zuschreibung beruht auf der Besitznotiz und dem Schriftvergleich mit den vier vorhergehenden und zwei folgenden Codices."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "394 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1700/1701",
+        "intervals": [
+          {
+            "from": 1700,
+            "to": 1701,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "S. 3, unterer Rand",
+      "text": "Engl(b",
+      "note": "Vom Katalog als Hinweis auf Fr. Engelbertus Veser gedeutet."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "394 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1700/1701.\n\n**Scholastische Abhandlung zur Prima Secundae des hl. Thomas, von Frage 71 über Laster und Sünden und von Frage 90 über die Gesetze**, vorgetragen im Jahr 1700 von P. Marianus Lendlmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor, begonnen am 9. November 1700.\n\nAnfang der Vorrede S. 5: Im vergangenen Jahr betrachteten wir die menschlichen Handlungen im Allgemeinen.....\n\na) **Erste Disputation über Laster und Sünden:** S. 6–336. Anfang: Obwohl Laster und Sünde gewöhnlich im selben Sinn gebraucht werden..... Schluss: **Wir beendeten [dies] am 1. August 1701.**\n\nb) **Zweite Disputation über die Gesetze:** S. 337–392. Notiz S. 337: **3. August 1701.** Anfang S. 339: Über die Gesetze handeln auch die Juristen, die deshalb Legisten genannt werden..... Schluss: **3. September 1701.**\n\nDie Notiz **Engl(b** am unteren Rand von S. 3 verweist auf Fr. Engelbertus Veser. Der Schriftvergleich mit den vier vorhergehenden und zwei folgenden Codices zeigt, dass er den Codex eigenhändig schrieb.",
+    "germanHtml": "<p>394 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1700/1701.</p>\n<p><strong>Scholastische Abhandlung zur Prima Secundae des hl. Thomas, von Frage 71 über Laster und Sünden und von Frage 90 über die Gesetze</strong>, vorgetragen im Jahr 1700 von P. Marianus Lendlmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor, begonnen am 9. November 1700.</p>\n<p>Anfang der Vorrede S. 5: Im vergangenen Jahr betrachteten wir die menschlichen Handlungen im Allgemeinen.....</p>\n<p>a) <strong>Erste Disputation über Laster und Sünden:</strong> S. 6–336. Anfang: Obwohl Laster und Sünde gewöhnlich im selben Sinn gebraucht werden..... Schluss: <strong>Wir beendeten [dies] am 1. August 1701.</strong></p>\n<p>b) <strong>Zweite Disputation über die Gesetze:</strong> S. 337–392. Notiz S. 337: <strong>3. August 1701.</strong> Anfang S. 339: Über die Gesetze handeln auch die Juristen, die deshalb Legisten genannt werden..... Schluss: <strong>3. September 1701.</strong></p>\n<p>Die Notiz <strong>Engl(b</strong> am unteren Rand von S. 3 verweist auf Fr. Engelbertus Veser. Der Schriftvergleich mit den vier vorhergehenden und zwei folgenden Codices zeigt, dass er den Codex eigenhändig schrieb.</p>",
+    "latin": "394 pagg.; teg. c2d; scriptus 1700/1701\n\nTractatus Scholasticus In Primam Secundae Divi Thomae á quaestione 71. de Vitiis et Peccatis. Et á quaestione 90. de Legibus. Traditus Anno Salutis 1700 â .....P. Mariano Lendlmayr. ordinis S. P. Benedicti, in Celeberrimo Asceterio Admontensi Professo. Sacrosanctae Theologiae Doctore et Professore Ordinario. 9. Novembris (1700).\n\nInitium Proloquii p. 5: Consideravimus anno praecedenti actus humanos in communi,.......\n\na) Disputatio I. de Vitiis et Peccatis: p. 6–336. Initium: Etsi amsi communiter pro eodem usurpetur vitium et peccatum...... Clausula: Absolvimus 1 Augusti. 1701.\n\nb) Disputatio II. de Legibus: p. 337–392. Nota p. 337: 3 Augusti 1701  \nInitium p. 339: Agunt de legibus et Juristae qui etiam Legistae dicuntur...... Clausula: 3 Septembris 1701.\n\nNota p. 3 in margine inferiore: Engl(b = Engelbert) indicat, codicem nostrum F. Engelberti Veser Monasterii Seittenstettensis monachi fuisse, et si scripturam codicis nostri cum 4 praecedentibus et duobus codicibus sequentibus comparaveris, invenies F. illum Engelbertum codicem nostrum sua manu scripsisse.",
+    "latinHtml": "<p>394 pagg.; teg. c2d; scriptus 1700/1701</p>\n<p>Tractatus Scholasticus In Primam Secundae Divi Thomae á quaestione 71. de Vitiis et Peccatis. Et á quaestione 90. de Legibus. Traditus Anno Salutis 1700 â .....P. Mariano Lendlmayr. ordinis S. P. Benedicti, in Celeberrimo Asceterio Admontensi Professo. Sacrosanctae Theologiae Doctore et Professore Ordinario. 9. Novembris (1700).</p>\n<p>Initium Proloquii p. 5: Consideravimus anno praecedenti actus humanos in communi,.......</p>\n<p>a) Disputatio I. de Vitiis et Peccatis: p. 6–336. Initium: Etsi amsi communiter pro eodem usurpetur vitium et peccatum...... Clausula: Absolvimus 1 Augusti. 1701.</p>\n<p>b) Disputatio II. de Legibus: p. 337–392. Nota p. 337: 3 Augusti 1701 Initium p. 339: Agunt de legibus et Juristae qui etiam Legistae dicuntur...... Clausula: 3 Septembris 1701.</p>\n<p>Nota p. 3 in margine inferiore: Engl(b = Engelbert) indicat, codicem nostrum F. Engelberti Veser Monasterii Seittenstettensis monachi fuisse, et si scripturam codicis nostri cum 4 praecedentibus et duobus codicibus sequentibus comparaveris, invenies F. illum Engelbertum codicem nostrum sua manu scripsisse.</p>"
+  },
+  "source": {
+    "file": "MN II 203.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-203/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 203",
+    "titles": "Tractatus Scholasticus In Primam Secundae Divi Thomae de Vitiis et Peccatis et de Legibus \nDisputatio Prima De Vitiis et Peccatis \nDisputatio Secunda De Legibus",
+    "persons": "P. Marianus Lendlmayr Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n394 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-81",
+  "signature": "MN II 81",
+  "aliases": [
+    "Bibl. Cod. MN II 81",
+    "Physica de Caelis, generatione et corruptione"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "52",
+  "heading": {
+    "title": "Disputationes in IV. Libros Aristotelis De Caelis",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1660"
+  },
+  "date": {
+    "display": "1660",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1660,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputationes in IV. Libros Aristotelis De Caelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. 3r–133r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Titelblatt und Anfang fehlen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. Joannis Stoz Societatis Jesu Ingolstadii habita Anno 1655",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 133v–137v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Disputationes in 2 Libros Aristotelis De Ortu, et interitu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 144r–241v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "243 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1660,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "MS. Physica de Caelis, generatione et corruptione Reverendissimi Abelzhauser Seittenstettensis."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "243 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1660.\n\na) **(Disputationen zu den vier Büchern des Aristoteles Über den Himmel):** fol. 3r–133r. Titelblatt und Anfang fehlen. Schluss fol. 133r: **....die Bücher Über den Himmel beendeten wir am 15. März.**\n\nb) **Einige zu den Büchern Über den Himmel gehörige Auszüge aus der Philosophie des ehrwürdigen P. Joannes Stoz SJ, gehalten zu Ingolstadt im Jahr 1655:** fol. 133v–137v.\n\nc) **Disputationen zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** fol. 144r–241v. Anfang: **Dem, dem wir bisher gefolgt sind....** Schluss: **Wir beendeten die Bücher Über Werden und Vergehen am 22. Mai, zur Ehre dessen, dessen Vorfest wir feierten, der Allerheiligsten Dreifaltigkeit....**\n\nDieser Schlussvermerk zeigt, dass der Codex im Jahr 1660 geschrieben wurde, da in diesem Jahr das Vorfest der Allerheiligsten Dreifaltigkeit auf den 22. Mai fiel.\n\nDen Schreiber erfahren wir aus der Rückenaufschrift: **Handschriftliche Physik über den Himmel, Werden und Vergehen des hochwürdigsten Abelzhauser aus Seitenstetten.** Zu ihm siehe oben S. 51 bei Codex MN II 80. Der Verfasser ist unbekannt.",
+    "germanHtml": "<p>243 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1660.</p>\n<p>a) <strong>(Disputationen zu den vier Büchern des Aristoteles Über den Himmel):</strong> fol. 3r–133r. Titelblatt und Anfang fehlen. Schluss fol. 133r: <strong>....die Bücher Über den Himmel beendeten wir am 15. März.</strong></p>\n<p>b) <strong>Einige zu den Büchern Über den Himmel gehörige Auszüge aus der Philosophie des ehrwürdigen P. Joannes Stoz SJ, gehalten zu Ingolstadt im Jahr 1655:</strong> fol. 133v–137v.</p>\n<p>c) <strong>Disputationen zu den zwei Büchern des Aristoteles Über Werden und Vergehen:</strong> fol. 144r–241v. Anfang: <strong>Dem, dem wir bisher gefolgt sind....</strong> Schluss: <strong>Wir beendeten die Bücher Über Werden und Vergehen am 22. Mai, zur Ehre dessen, dessen Vorfest wir feierten, der Allerheiligsten Dreifaltigkeit....</strong></p>\n<p>Dieser Schlussvermerk zeigt, dass der Codex im Jahr 1660 geschrieben wurde, da in diesem Jahr das Vorfest der Allerheiligsten Dreifaltigkeit auf den 22. Mai fiel.</p>\n<p>Den Schreiber erfahren wir aus der Rückenaufschrift: <strong>Handschriftliche Physik über den Himmel, Werden und Vergehen des hochwürdigsten Abelzhauser aus Seitenstetten.</strong> Zu ihm siehe oben S. 51 bei Codex MN II 80. Der Verfasser ist unbekannt.</p>",
+    "latin": "243 foll.; teg. a2 (ut in cod. MN II 80); script. 1660\n\na) (Disputationes in IV. Libros Aristotelis De Caelis): fol. 3r–133r. Folium titulare et initium desunt. Clausula fol. 133r: ....Libros de caelis 15. Martii absolvimus.\n\nb) Quaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. **Joannis Stoz** Societatis Jesu Ingolstadii habita Anno 1655: fol. 133v–137v.\n\nc) Disputationes in 2 Libros Aristotelis De Ortu, et interitu: fol. 144r–241v. Initium: Quem hactenus secuti sumus.... Clausula: Absolvimus Libros de Ortu et interitu 22 Maii ad eius honorem, cuius profestum celebravimus, Sanctissimae Triadis....\n\nQuae clausula demonstrat hunc codicem anno 1660 scriptum esse, quod in illo anno profestum Sanctissimae Trinitatis die 22 Maii celebrabatur. Scriptorem comperimus ex inscriptione dorsi: MS. Physica de Caelis, generatione et corruptione Reverendissimi Abelzhauser Seittenstettensis. Quem vide supra p. 51 ad codicem MN II 80! Auctor ignotus.",
+    "latinHtml": "<p>243 foll.; teg. a2 (ut in cod. MN II 80); script. 1660</p>\n<p>a) (Disputationes in IV. Libros Aristotelis De Caelis): fol. 3r–133r. Folium titulare et initium desunt. Clausula fol. 133r: ....Libros de caelis 15. Martii absolvimus.</p>\n<p>b) Quaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. <strong>Joannis Stoz</strong> Societatis Jesu Ingolstadii habita Anno 1655: fol. 133v–137v.</p>\n<p>c) Disputationes in 2 Libros Aristotelis De Ortu, et interitu: fol. 144r–241v. Initium: Quem hactenus secuti sumus.... Clausula: Absolvimus Libros de Ortu et interitu 22 Maii ad eius honorem, cuius profestum celebravimus, Sanctissimae Triadis....</p>\n<p>Quae clausula demonstrat hunc codicem anno 1660 scriptum esse, quod in illo anno profestum Sanctissimae Trinitatis die 22 Maii celebrabatur. Scriptorem comperimus ex inscriptione dorsi: MS. Physica de Caelis, generatione et corruptione Reverendissimi Abelzhauser Seittenstettensis. Quem vide supra p. 51 ad codicem MN II 80! Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 81.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-81/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 80]]",
+      "targetId": "mn-ii-80",
+      "targetSignature": "MN II 80",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 81",
+    "titles": "Disputationes in IV. Libros Aristotelis De Caelis \nDisputationes in IV. Libros Aristotelis De Caelis \nQuaedam ad Libros de caelis pertinentia excerpta ex Philosophia R. P. Joannis Stoz Societatis Jesu Ingolstadii habita Anno 1655 \nDisputationes in 2 Libros Aristotelis De Ortu, et interitu",
+    "persons": "Benedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Titelblatt und Anfang fehlen.",
+    "physical": "Papier \n243 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80."
+  }
+}

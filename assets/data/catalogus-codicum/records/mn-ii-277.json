@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-277",
+  "signature": "MN II 277",
+  "aliases": [
+    "Bibl. Cod. MN II 277"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "223–224",
+  "heading": {
+    "title": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1750 (?) oder eher 1760–1780"
+  },
+  "date": {
+    "display": "um 1750 (?) oder eher 1760–1780",
+    "intervals": [
+      {
+        "from": 1750,
+        "to": 1780,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 4–57",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 58–142",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "146 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1750 (?) oder eher 1760–1780",
+        "intervals": [
+          {
+            "from": 1750,
+            "to": 1780,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "Kloster St. Lambrecht, Steiermark",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "146 Seiten; grauer Pappeinband mit rotem Papierrücken; geschrieben ungefähr 1750 (oder eher zwischen 1760 und 1780?).\n\n**Asketische Aufzeichnungen oder geistliche Unterweisungen, wie sie von den Novizen des Klosters St. Lambrecht in der Steiermark gewöhnlich mitgeschrieben wurden.**\n\na) **Erste Abhandlung über jene Dinge, die teils Kandidaten, teils Novizen, die eben erst mit dem heiligen Habit bekleidet wurden, vorher wissen müssen:** S. 4–57.\n\nb) **Zweite Abhandlung. Bisher wurde von jenen Dingen gehandelt, die teils Kandidaten, teils Anfängern des Ordens gleich beim Eintritt in das Noviziat bekannt sein müssen, nämlich von verschiedenen Regeln und anderen unseren Novizen vorgeschriebenen Weisungen. Nun schreiten wir zu solideren Grundsätzen der Askese fort, die weniger für das Noviziatsjahr als vielmehr für den ganzen Verlauf des Ordenslebens, wenn nicht notwendig, so doch gewiss sehr nützlich sind:** S. 58–142.\n\nWeder Verfasser noch Schreiber dieses Büchleins sind bekannt.\n\nDer jetzige Einband entstand im 19. Jahrhundert, vielleicht sogar erst im 20. Jahrhundert; denn noch in diesem Jahrhundert wurde das Buch zur Unterweisung der Novizen verwendet. Die Schrift zeigt dagegen den Charakter des 18. Jahrhunderts, ungefähr um 1750 – oder eher zwischen 1760 und 1780.",
+    "germanHtml": "<p>146 Seiten; grauer Pappeinband mit rotem Papierrücken; geschrieben ungefähr 1750 (oder eher zwischen 1760 und 1780?).</p>\n<p><strong>Asketische Aufzeichnungen oder geistliche Unterweisungen, wie sie von den Novizen des Klosters St. Lambrecht in der Steiermark gewöhnlich mitgeschrieben wurden.</strong></p>\n<p>a) <strong>Erste Abhandlung über jene Dinge, die teils Kandidaten, teils Novizen, die eben erst mit dem heiligen Habit bekleidet wurden, vorher wissen müssen:</strong> S. 4–57.</p>\n<p>b) <strong>Zweite Abhandlung. Bisher wurde von jenen Dingen gehandelt, die teils Kandidaten, teils Anfängern des Ordens gleich beim Eintritt in das Noviziat bekannt sein müssen, nämlich von verschiedenen Regeln und anderen unseren Novizen vorgeschriebenen Weisungen. Nun schreiten wir zu solideren Grundsätzen der Askese fort, die weniger für das Noviziatsjahr als vielmehr für den ganzen Verlauf des Ordenslebens, wenn nicht notwendig, so doch gewiss sehr nützlich sind:</strong> S. 58–142.</p>\n<p>Weder Verfasser noch Schreiber dieses Büchleins sind bekannt.</p>\n<p>Der jetzige Einband entstand im 19. Jahrhundert, vielleicht sogar erst im 20. Jahrhundert; denn noch in diesem Jahrhundert wurde das Buch zur Unterweisung der Novizen verwendet. Die Schrift zeigt dagegen den Charakter des 18. Jahrhunderts, ungefähr um 1750 – oder eher zwischen 1760 und 1780.</p>",
+    "latin": "146 pagg.; teg. c1 cum dorso chartaceo rubro; script. ca. 1750?\n\n**Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae.**\n\na) **Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur:** p. 4–57\n\nb) **Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur:** p. 58–142\n\nNeque auctor huius libelli notus neque scriptor.\n\nTegumentum, quo nunc codex noster tectum est, saeculo XIX, immo fortasse saeculo nostro confectum est. Etenim nostro quoque saeculo in usu erat liber noster ad instruendos novitios. Scriptura autem characterem saeculi XVIII. manifestat, eumque ca. 1750 (aut potius inter 1760 et 1780?) usitatum.",
+    "latinHtml": "<p>146 pagg.; teg. c1 cum dorso chartaceo rubro; script. ca. 1750?</p>\n<p><strong>Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae.</strong></p>\n<p>a) <strong>Tractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur:</strong> p. 4–57</p>\n<p>b) <strong>Tractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur:</strong> p. 58–142</p>\n<p>Neque auctor huius libelli notus neque scriptor.</p>\n<p>Tegumentum, quo nunc codex noster tectum est, saeculo XIX, immo fortasse saeculo nostro confectum est. Etenim nostro quoque saeculo in usu erat liber noster ad instruendos novitios. Scriptura autem characterem saeculi XVIII. manifestat, eumque ca. 1750 (aut potius inter 1760 et 1780?) usitatum.</p>"
+  },
+  "source": {
+    "file": "MN II 277.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-277/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 277",
+    "titles": "Scripta Ascetica seu Instructiones Spirituales, Calamo Fratrum Novitiorum Monasterii Sanct-Lambertini in Styria excipi solitae \nTractatus Primus De iis, quae partim Candidatis, partim Novitiis Sacro Habitu recens indutis praevie Scitu necessaria esse videntur \nTractatus II. Hactenus de illis actum est, quae partim Candidatis, partim Sanctae Religionis Tyronibus illico in aditu Novitiatûs Scitu sunt necessaria, videlicet: variae Regulae, aliáque Documenta Novitiis nostris praescripta. Nunc ad solidiora Asceseos Principia non tam Novitiatûs annô, quàm toti Religiosae vitae decursui, si non necessaria, certò perquàm utilia progredimur",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n146 pagg. \ncode: c1; description: Grauer Pappeinband; weitere Besonderheiten siehe Katalogtext."
+  }
+}

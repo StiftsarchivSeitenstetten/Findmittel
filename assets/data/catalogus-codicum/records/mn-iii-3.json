@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-3",
+  "signature": "MN III 3",
+  "aliases": [
+    "Bibl. Cod. MN III 3"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "50",
+  "heading": {
+    "title": "Sententiae ex Seneca",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1660"
+  },
+  "date": {
+    "display": "1660",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1660,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Sententiae ex Seneca",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–234",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "24. April 1660"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Juvenalis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 237–269",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung „Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Ovidius",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 271–279",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung „item Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Claudianus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 281",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Martialis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 301–302",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "16°, teg. a2, sed valde obfuscatum",
+    "format": "Sedezformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1660,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Sedezformat; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, jedoch stark nachgedunkelt; geschrieben 1660; 348 Seiten.\n\na) **Sentenzen aus Seneca:** S. 5–234. Schluss S. 234: **Beendet am 24. April 1660.**\n\nb) **Juvenal (Sentenzen):** S. 237–269.\n\nc) **Ovid (ebenfalls Sentenzen):** S. 271–279.\n\nd) **Claudian:** S. 281.\n\ne) **Martial:** S. 301–302.\n\nWeder derjenige, der diese Sentenzen exzerpierte, noch der Schreiber dieses Büchleins ist bekannt.",
+    "germanHtml": "<p>Sedezformat; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, jedoch stark nachgedunkelt; geschrieben 1660; 348 Seiten.</p>\n<p>a) <strong>Sentenzen aus Seneca:</strong> S. 5–234. Schluss S. 234: <strong>Beendet am 24. April 1660.</strong></p>\n<p>b) <strong>Juvenal (Sentenzen):</strong> S. 237–269.</p>\n<p>c) <strong>Ovid (ebenfalls Sentenzen):</strong> S. 271–279.</p>\n<p>d) <strong>Claudian:</strong> S. 281.</p>\n<p>e) <strong>Martial:</strong> S. 301–302.</p>\n<p>Weder derjenige, der diese Sentenzen exzerpierte, noch der Schreiber dieses Büchleins ist bekannt.</p>",
+    "latin": "16°, teg. a2, sed valde obfuscatum; script. 1660; 348 pagg.\n\na) Sententiae ex Seneca: p. 5–234. Clausula p. 234: Finitum 24. Aprilis Anno 1660.\n\nb) Juvenalis (Sententiae): p. 237–269.\n\nc) Ovidius (item Sententiae): p. 271–279.\n\nd) Claudianus: p. 281.\n\ne) Martialis: p. 301–302.\n\nNeque qui has sententias excerpserit neque qui hunc codicillum conscripserit, notus est.",
+    "latinHtml": "<p>16°, teg. a2, sed valde obfuscatum; script. 1660; 348 pagg.</p>\n<p>a) Sententiae ex Seneca: p. 5–234. Clausula p. 234: Finitum 24. Aprilis Anno 1660.</p>\n<p>b) Juvenalis (Sententiae): p. 237–269.</p>\n<p>c) Ovidius (item Sententiae): p. 271–279.</p>\n<p>d) Claudianus: p. 281.</p>\n<p>e) Martialis: p. 301–302.</p>\n<p>Neque qui has sententias excerpserit neque qui hunc codicillum conscripserit, notus est.</p>"
+  },
+  "source": {
+    "file": "MN III 3.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-3/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 3",
+    "titles": "Sententiae ex Seneca \nSententiae ex Seneca \nJuvenalis \nOvidius \nClaudianus \nMartialis",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung „Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen. \nDie Inhaltsbezeichnung „item Sententiae“ steht im lateinischen Katalogtext in runden Klammern und wurde nicht als überlieferter Titel übernommen.",
+    "physical": "Papier \n16°, teg. a2, sed valde obfuscatum \nSedezformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-30",
+  "signature": "MN III 30",
+  "aliases": [
+    "Bibl. Cod. MN III 30"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "199",
+  "heading": {
+    "title": "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1717"
+  },
+  "date": {
+    "display": "um 1717",
+    "intervals": [
+      {
+        "from": 1717,
+        "to": 1717,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Hieronymus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1717",
+        "intervals": [
+          {
+            "from": 1717,
+            "to": 1717,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 370 Seiten; schwarzer Ledereinband, verziert wie der vorausgehende Codex.\n\n**Eucharistisches Büchlein oder Gebete vor und nach dem unblutigen Opfer.**\n\nAuch diesem Büchlein sind die Initialen **H. H.** eingeprägt. Zusammen mit dem Schriftcharakter weist dies **Hieronymus Hueber** als Schreiber aus.\n\nDie Quellen dieses Büchleins sind noch nicht untersucht. Zur Entstehungszeit gilt das bereits beim vorausgehenden Codex Gesagte. Da die Schrift keinerlei greisenhafte Züge zeigt, hält der Katalogbearbeiter eine Entstehung näher bei 1717, dem Jahr der Priesterweihe des Schreibers, für wahrscheinlicher als bei 1754, seinem Todesjahr.",
+    "germanHtml": "<p>Kleines Oktavformat; 370 Seiten; schwarzer Ledereinband, verziert wie der vorausgehende Codex.</p>\n<p><strong>Eucharistisches Büchlein oder Gebete vor und nach dem unblutigen Opfer.</strong></p>\n<p>Auch diesem Büchlein sind die Initialen <strong>H. H.</strong> eingeprägt. Zusammen mit dem Schriftcharakter weist dies <strong>Hieronymus Hueber</strong> als Schreiber aus.</p>\n<p>Die Quellen dieses Büchleins sind noch nicht untersucht. Zur Entstehungszeit gilt das bereits beim vorausgehenden Codex Gesagte. Da die Schrift keinerlei greisenhafte Züge zeigt, hält der Katalogbearbeiter eine Entstehung näher bei 1717, dem Jahr der Priesterweihe des Schreibers, für wahrscheinlicher als bei 1754, seinem Todesjahr.</p>",
+    "latin": "8° min.; 370 pagg.; teg. b2 ornatum ut in codice praecedente\n\n**Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae.**\n\nHuic quoque codicillo impressae sunt litterae initiales H.H. Qua de re, quod etiam scriptura manifestet, **Hieronymus Hueber** scriptor est. Fontes vero nostri quoque codicilli nondum explorati sunt. Quo tempore scriptus sit libellus noster, iam ad codicem praecedentem disseruimus neque quidquam adiicimus, nisi quod, cum scriptura ab omni charactere senili longe aliena sit, ortum codicilli nostri (et ideo etiam praecedentis) puto propiorem esse anno 1717, quo sacerdotio initiatus est scriptor, quam anno 1754, quo mortuus est.",
+    "latinHtml": "<p>8° min.; 370 pagg.; teg. b2 ornatum ut in codice praecedente</p>\n<p><strong>Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae.</strong></p>\n<p>Huic quoque codicillo impressae sunt litterae initiales H.H. Qua de re, quod etiam scriptura manifestet, <strong>Hieronymus Hueber</strong> scriptor est. Fontes vero nostri quoque codicilli nondum explorati sunt. Quo tempore scriptus sit libellus noster, iam ad codicem praecedentem disseruimus neque quidquam adiicimus, nisi quod, cum scriptura ab omni charactere senili longe aliena sit, ortum codicilli nostri (et ideo etiam praecedentis) puto propiorem esse anno 1717, quo sacerdotio initiatus est scriptor, quam anno 1754, quo mortuus est.</p>"
+  },
+  "source": {
+    "file": "MN III 30.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-30/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 30",
+    "titles": "Libellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae \nLibellus Eucharisticus. Seu Orationes ante, et post incruentum Sacrificium dicendae",
+    "persons": "Fr. Hieronymus Hueber Schreiber scribe \nunbekannt Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierungen gegebenenfalls siehe Katalogtext."
+  }
+}

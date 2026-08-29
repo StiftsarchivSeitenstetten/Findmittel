@@ -1,0 +1,215 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-169",
+  "signature": "MN II 169",
+  "aliases": [
+    "Bibl. Cod. MN II 169"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "131–132",
+  "heading": {
+    "title": "Logica Aristotelico-Thomistica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1689/90"
+  },
+  "date": {
+    "display": "1689/90",
+    "intervals": [
+      {
+        "from": 1689,
+        "to": 1690,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Logica Aristotelico-Thomistica",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Logica minor sive Summulae Dialecticae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–43v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1689-12-07"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Logica Maior",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 45–276v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "Vorabend von Pfingsten 1690"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Pontianus Schüz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Ottobeuren / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Ambrosius Prevenhueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "Aegidius Stadler",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Ambrosius Prevenhueber",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "Modestus Meyr de Biberg",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "278 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1689/90",
+        "intervals": [
+          {
+            "from": 1689,
+            "to": 1690,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "title_page_note",
+      "locus": "unterer Rand des Titelblatts",
+      "date": "1691-05-27",
+      "text": "AE. &. A. &. M. (??) / In Convictu 27. Maii. 1691.",
+      "certainty": "uncertain",
+      "note": "Der Katalog erwägt eine Auflösung der Initialen als Aegidius Stadler, Ambrosius Prevenhueber und Modestus Meyr de Biberg, die vermutlich 1691 im Salzburger Ordenskonvikt lebten."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "278 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf Vorder- und Rückdeckel die Initialen des Namens Christi **IHS**; geschrieben 1689/90.\n\n**Aristotelisch-thomistische Logik**, vorgetragen von P. Pontianus Schüz, Benediktiner und Profess des freien, exemten und kaiserlichen Klosters Ottobeuren, Doktor der freien Künste und Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Ambrosius Prevenhueber, Benediktiner und Profess von Seitenstetten, 1690.\n\nNotiz am unteren Rand des Titelblattes: **AE. &. A. &. M. (??) / In Convictu 27. Maii. 1691.**\n\na) **Kleine Logik oder Summulae der Dialektik:** fol. 1–43. Anfang der Vorrede: Die Summulae, das heißt eine Zusammenfassung der größeren Logik..... Schluss fol. 43v: **Wir beendeten unsere kleine Logik oder die Summulae der Dialektik am 7. Dezember 1689.**\n\nb) **(Größere Logik):** fol. 45–276. Anfang der Vorrede fol. 45r: Dass wir die Logik zuerst sehen, bevor wir sie hören, ist höchst notwendig..... Schluss fol. 276v: **Wir beendeten [sie] am Vorabend von Pfingsten 1690.**\n\nDieselben Logikvorlesungen enthält Archivcodex 34 Y. Vielleicht sind die Buchstaben **AE. &. A. &. M.** die Anfangsbuchstaben der Namen der Seitenstettner Mitbrüder Aegidius Stadler (Profess 1689), Ambrosius Prevenhueber (Profess 1688) und Modestus Meyr de Biberg (Profess 1690), die wahrscheinlich 1691 im Salzburger Ordenskonvikt lebten.",
+    "germanHtml": "<p>278 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf Vorder- und Rückdeckel die Initialen des Namens Christi <strong>IHS</strong>; geschrieben 1689/90.</p>\n<p><strong>Aristotelisch-thomistische Logik</strong>, vorgetragen von P. Pontianus Schüz, Benediktiner und Profess des freien, exemten und kaiserlichen Klosters Ottobeuren, Doktor der freien Künste und Philosophie und ordentlicher Professor; aufgezeichnet von Fr. Ambrosius Prevenhueber, Benediktiner und Profess von Seitenstetten, 1690.</p>\n<p>Notiz am unteren Rand des Titelblattes: <strong>AE. &amp;. A. &amp;. M. (??) / In Convictu 27. Maii. 1691.</strong></p>\n<p>a) <strong>Kleine Logik oder Summulae der Dialektik:</strong> fol. 1–43. Anfang der Vorrede: Die Summulae, das heißt eine Zusammenfassung der größeren Logik..... Schluss fol. 43v: <strong>Wir beendeten unsere kleine Logik oder die Summulae der Dialektik am 7. Dezember 1689.</strong></p>\n<p>b) <strong>(Größere Logik):</strong> fol. 45–276. Anfang der Vorrede fol. 45r: Dass wir die Logik zuerst sehen, bevor wir sie hören, ist höchst notwendig..... Schluss fol. 276v: <strong>Wir beendeten [sie] am Vorabend von Pfingsten 1690.</strong></p>\n<p>Dieselben Logikvorlesungen enthält Archivcodex 34 Y. Vielleicht sind die Buchstaben <strong>AE. &amp;. A. &amp;. M.</strong> die Anfangsbuchstaben der Namen der Seitenstettner Mitbrüder Aegidius Stadler (Profess 1689), Ambrosius Prevenhueber (Profess 1688) und Modestus Meyr de Biberg (Profess 1690), die wahrscheinlich 1691 im Salzburger Ordenskonvikt lebten.</p>",
+    "latin": "278 foll.; teg. a2, in parte adversa et aversa tegumenti litterae initiales nominis Christi: I H S; script. 1689/90\n\nLogica Aristotelico-Thomistica. Ab ..... P. Pontiano Schüz, Ordinis S. P. Benedicti Liberi et Exempti ac Imperialis Monasterii Ottoburani Professo, Artium Liberalium, et Philosophiae Doctore, et Professore ordinario. Tradita, hincque excepta à Religioso F. Ambrosio\n\n\n\n\nPrevenhueber, Eundem Ordinem Professo in Seittenstetten. Anno 1690\n\nNota in margine inferiore folii titularis: AE. &. A. &. M. (??)  \nIn Convictu 27. Maii. 1691.\n\na) Logica minor sive Summulae Dialecticae: fol. 1–43. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris Synopsin.....  \nClausula fol. 43v: Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).\n\nb) (Logica Maior): fol. 45–276. Initium Praefationis In Logicam Maiorem: fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est..... Clausula fol. 276v: Absolvimus autem in pervigilio Pentecostes ..... (1690)\n\nEasdem lectiones Logices continet codex Archivi 34 Y (vide infra!) Forsitan litterae AE. &. A. &. M. initia sint nominum Confratrum Seitenstettensium Aegidii Stadler (prof. 1689), Ambrosii Prevenhueber (prof. 1688), Modesti Meyr de Biberg (prof. 1690), probabiliter in convictu regularium Salisburgi degentium anno 1691.",
+    "latinHtml": "<p>278 foll.; teg. a2, in parte adversa et aversa tegumenti litterae initiales nominis Christi: I H S; script. 1689/90</p>\n<p>Logica Aristotelico-Thomistica. Ab ..... P. Pontiano Schüz, Ordinis S. P. Benedicti Liberi et Exempti ac Imperialis Monasterii Ottoburani Professo, Artium Liberalium, et Philosophiae Doctore, et Professore ordinario. Tradita, hincque excepta à Religioso F. Ambrosio</p>\n<p>Prevenhueber, Eundem Ordinem Professo in Seittenstetten. Anno 1690</p>\n<p>Nota in margine inferiore folii titularis: AE. &amp;. A. &amp;. M. (??) In Convictu 27. Maii. 1691.</p>\n<p>a) Logica minor sive Summulae Dialecticae: fol. 1–43. Initium Antiloquii fol. 1r: Summulas hoc est Logices maioris Synopsin..... Clausula fol. 43v: Absolvimus hanc nostram minorem Logicam sive Summulas Dialectices 7 Decembris Anno.....millesimo, sexcentesimo, octuagesimo Nono (1689).</p>\n<p>b) (Logica Maior): fol. 45–276. Initium Praefationis In Logicam Maiorem: fol. 45r: Ut prius Logicam videamus quam audiamus plurimum necesse est..... Clausula fol. 276v: Absolvimus autem in pervigilio Pentecostes ..... (1690)</p>\n<p>Easdem lectiones Logices continet codex Archivi 34 Y (vide infra!) Forsitan litterae AE. &amp;. A. &amp;. M. initia sint nominum Confratrum Seitenstettensium Aegidii Stadler (prof. 1689), Ambrosii Prevenhueber (prof. 1688), Modesti Meyr de Biberg (prof. 1690), probabiliter in convictu regularium Salisburgi degentium anno 1691.</p>"
+  },
+  "source": {
+    "file": "MN II 169.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-169/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[Arch. Cod. 34 Y (XVIII 3 v)]]",
+      "targetId": "arch-cod-34-y-xviii-3-v",
+      "targetSignature": "Arch. Cod. 34 Y (XVIII 3 v)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 169",
+    "titles": "Logica Aristotelico-Thomistica \nLogica minor sive Summulae Dialecticae \nLogica Maior",
+    "persons": "P. Pontianus Schüz Dozent lecturer \nFr. Ambrosius Prevenhueber Schreiber scribe \nAegidius Stadler unspecified unspecified \nAmbrosius Prevenhueber unspecified unspecified \nModestus Meyr de Biberg unspecified unspecified",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n278 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

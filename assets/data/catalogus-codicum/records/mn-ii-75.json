@@ -1,0 +1,184 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-75",
+  "signature": "MN II 75",
+  "aliases": [
+    "Bibl. Cod. MN II 75",
+    "Disputationes In octo Libros Physicos Aristotelis I"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "49",
+  "heading": {
+    "title": "Disputationes In octo Libros Physicos Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1659"
+  },
+  "date": {
+    "display": "1659",
+    "intervals": [
+      {
+        "from": 1659,
+        "to": 1659,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Disputationes In octo Libros Physicos Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "fol. 1–359",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Disputationes In octo Libros Physicos Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–359",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Fr. Theophilus Janckh",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Theophilus Janckh",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Theophilus Janckh",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 359 + II Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1659",
+        "intervals": [
+          {
+            "from": 1659,
+            "to": 1659,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "I. et II. Liber Physicus M S. a F. Theophilo Jank Seittenstettensi."
+    },
+    {
+      "type": "binding_initials",
+      "text": ".F:T:I:P:S:"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 359 + II Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1659.\n\n**Disputationen zu den acht Büchern der Physik des Aristoteles:** fol. 1–359. Anfang der Vorrede fol. 1r: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir zu den glücklichen Inseln der Natur....\n\nDiese Disputationen setzt der folgende Codex MN II 76 fort.\n\nRückenaufschrift: **I. und II. Buch der Physik, Handschrift von Fr. Theophilus Jank aus Seitenstetten.** Denselben Fr. **Theophilus Janckh** als Schreiber dieses Buches bezeichnen die Initialen auf der Vorderseite des Einbandes: **.F:T:I:P:S:**\n\nSchluss zum ersten Buch der Physik fol. 151v: **Wir beendeten das Buch am 2. September 1659.**",
+    "germanHtml": "<p>II + 359 + II Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1659.</p>\n<p><strong>Disputationen zu den acht Büchern der Physik des Aristoteles:</strong> fol. 1–359. Anfang der Vorrede fol. 1r: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir zu den glücklichen Inseln der Natur....</p>\n<p>Diese Disputationen setzt der folgende Codex MN II 76 fort.</p>\n<p>Rückenaufschrift: <strong>I. und II. Buch der Physik, Handschrift von Fr. Theophilus Jank aus Seitenstetten.</strong> Denselben Fr. <strong>Theophilus Janckh</strong> als Schreiber dieses Buches bezeichnen die Initialen auf der Vorderseite des Einbandes: <strong>.F:T:I:P:S:</strong></p>\n<p>Schluss zum ersten Buch der Physik fol. 151v: <strong>Wir beendeten das Buch am 2. September 1659.</strong></p>",
+    "latin": "II + 359 + II foll.; teg. a2; script. 1659\n\nDisputationes In octo Libros Physicos Aristotelis: fol. 1–359. Initium Prooemii fol. 1r: Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....\n\nHas disputationes continuat sequens Codex MN II 76.\n\nInscriptio dorsi: I. et II. Liber Physicus M S. a F. Theophilo Jank Seittenstettensi. Eundem F. **Theophilum Janckh**, quippe qui scripserit hunc librum, nuntiant litterae initiales adverso in tegumento: .F:T:I:P:S:\n\nClausula ad librum I Physicorum fol. 151v: Absolvimus librum 2 Septembris 1659.",
+    "latinHtml": "<p>II + 359 + II foll.; teg. a2; script. 1659</p>\n<p>Disputationes In octo Libros Physicos Aristotelis: fol. 1–359. Initium Prooemii fol. 1r: Peragrato scopuloso Logicae freto ad fortunatas naturae Insulas pervenimus....</p>\n<p>Has disputationes continuat sequens Codex MN II 76.</p>\n<p>Inscriptio dorsi: I. et II. Liber Physicus M S. a F. Theophilo Jank Seittenstettensi. Eundem F. <strong>Theophilum Janckh</strong>, quippe qui scripserit hunc librum, nuntiant litterae initiales adverso in tegumento: .F:T:I:P:S:</p>\n<p>Clausula ad librum I Physicorum fol. 151v: Absolvimus librum 2 Septembris 1659.</p>"
+  },
+  "source": {
+    "file": "MN II 75.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-75/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "[[MN II 76]]",
+      "targetId": "mn-ii-76",
+      "targetSignature": "MN II 76",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "complete_parallel_in",
+      "typeLabel": "complete parallel in",
+      "targetRaw": "[[MN II 80]]",
+      "targetId": "mn-ii-80",
+      "targetSignature": "MN II 80",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 75",
+    "titles": "Disputationes In octo Libros Physicos Aristotelis \nDisputationes In octo Libros Physicos Aristotelis",
+    "persons": "Fr. Theophilus Janckh Schreiber scribe \nFr. Theophilus Janckh Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nII + 359 + II Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

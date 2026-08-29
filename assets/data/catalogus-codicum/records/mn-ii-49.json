@@ -1,0 +1,161 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-49",
+  "signature": "MN II 49",
+  "aliases": [
+    "Bibl. Cod. MN II 49",
+    "Commentarius in Aristotelis Organum Anselmi Schlager"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "41",
+  "heading": {
+    "title": "Commentarius in Aristotelis Organum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1654"
+  },
+  "date": {
+    "display": "1654",
+    "intervals": [
+      {
+        "from": 1654,
+        "to": 1654,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Kommentar zum Organon des Aristoteles in 189 Lektionen.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Aristotelis Organum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–402",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "189 Lektionen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Anselm Schlager, Benediktiner von Andechs",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Wolfgang Duernegger, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VI + 414 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1654",
+        "intervals": [
+          {
+            "from": 1654,
+            "to": 1654,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VI + 414 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.\n\n**Kommentar zum Organon des Aristoteles, vorgetragen von P. Anselm Schlager, Benediktinermönch von Andechs, ordentlichem Professor der Philosophie in Salzburg; aufgezeichnet von Fr. Wolfgang Duernegger desselben Ordens, Profess des berühmten Klosters Seitenstetten zur seligen Jungfrau in Niederösterreich, im Jahr 1654:** S. 1–402.\n\nAnfang der Vorrede zur Logik: **Da die Logik ein Werkzeug des Wissens ist....** Schluss S. 402: **Wir beendeten das Organon der Logik am 27. Mai im Jahr 1651.**\n\nDer gesamte Kurs ist in 189 Lektionen gegliedert. Aus mehreren Gründen halte ich die Jahreszahl 1651 für einen Schreibfehler: Fr. Wolfgang Duernegger legte nämlich 1652 die Gelübde ab und führte daher 1651 noch nicht den Ordensnamen Wolfgang, den er jedoch auf S. 175 am Stamm des Porphyrianischen Baumes eintrug. Außerdem ist es wahrscheinlich, dass P. Anselm Schlager 1651 noch nicht Logik lehrte. Das sicherste Argument ist jedoch der Schlussvermerk derselben Vorlesungen, die P. Anselm Schlager hielt, in Codex MN II 65: **Wir beendeten diese Logik am 27. Mai im Jahr 1654.**\n\nAufschrift auf der Vorderseite des Einbandes: **F W D P S = Frater Wolfgangus Duernegger Professus Seittenstettensis**, also Fr. Wolfgang Duernegger, Profess von Seitenstetten.",
+    "germanHtml": "<p>VI + 414 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1654.</p>\n<p><strong>Kommentar zum Organon des Aristoteles, vorgetragen von P. Anselm Schlager, Benediktinermönch von Andechs, ordentlichem Professor der Philosophie in Salzburg; aufgezeichnet von Fr. Wolfgang Duernegger desselben Ordens, Profess des berühmten Klosters Seitenstetten zur seligen Jungfrau in Niederösterreich, im Jahr 1654:</strong> S. 1–402.</p>\n<p>Anfang der Vorrede zur Logik: <strong>Da die Logik ein Werkzeug des Wissens ist....</strong> Schluss S. 402: <strong>Wir beendeten das Organon der Logik am 27. Mai im Jahr 1651.</strong></p>\n<p>Der gesamte Kurs ist in 189 Lektionen gegliedert. Aus mehreren Gründen halte ich die Jahreszahl 1651 für einen Schreibfehler: Fr. Wolfgang Duernegger legte nämlich 1652 die Gelübde ab und führte daher 1651 noch nicht den Ordensnamen Wolfgang, den er jedoch auf S. 175 am Stamm des Porphyrianischen Baumes eintrug. Außerdem ist es wahrscheinlich, dass P. Anselm Schlager 1651 noch nicht Logik lehrte. Das sicherste Argument ist jedoch der Schlussvermerk derselben Vorlesungen, die P. Anselm Schlager hielt, in Codex MN II 65: <strong>Wir beendeten diese Logik am 27. Mai im Jahr 1654.</strong></p>\n<p>Aufschrift auf der Vorderseite des Einbandes: <strong>F W D P S = Frater Wolfgangus Duernegger Professus Seittenstettensis</strong>, also Fr. Wolfgang Duernegger, Profess von Seitenstetten.</p>",
+    "latin": "VI + 414 pagg.; teg. a1; script. 1654\n\n*Commentarius in Aristotelis Organum Traditus ab.... P. Anselmo Schlager Monacho Benedictino Andecensi (= e monasterio Andechs), Salisburgi Philosophiae Ordinario Professore, Exceptus a Religioso Fratre Wolfgango Duernegger eiusdem Ordinis in Celeberrimo Monasterio Seittenstöttensi ad Beatam Virginem in Austria inferiori professo Anno Virgineo â partu 1654:* p. 1 - 402\n\n*Initium* Proloquii Logicae: Cum Logica sit instrumentum Sciendi.... *Clausula* p. 402: Absolvimus Logicae Organum 27 die Maii Anno 1651.\n\nDistributus totus cursus in 189 lectiones. (Pluribus de causis numerum anni 1651 lapsum calami esse arbitror: Etenim F. Wolfgangus Duernegger 1652 vota emisit, ideoque 1651 nondum nomen religionis Wolfgangum gerebat, quod tamen p. 175 stipiti arboris Porphyrii inscripsit. Insuper veri simile est P. Anselmum Schlager anno 1651 nondum Logicam docuisse. Certissimum autem argumentum est clausula earundem lectionum, quas P. Anselmus Schlager tradidit, in codice MN II 65, quem mox tractabimus; Absolvimus hanc Logicam 27 Maii Anno 1654.)\n\nInscriptio in parte adversa tegumenti: F W D P S = Frater Wolfgangus Duernegger Professus Seittenstettensis.",
+    "latinHtml": "<p>VI + 414 pagg.; teg. a1; script. 1654</p>\n<p><em>Commentarius in Aristotelis Organum Traditus ab.... P. Anselmo Schlager Monacho Benedictino Andecensi (= e monasterio Andechs), Salisburgi Philosophiae Ordinario Professore, Exceptus a Religioso Fratre Wolfgango Duernegger eiusdem Ordinis in Celeberrimo Monasterio Seittenstöttensi ad Beatam Virginem in Austria inferiori professo Anno Virgineo â partu 1654:</em> p. 1 - 402</p>\n<p><em>Initium</em> Proloquii Logicae: Cum Logica sit instrumentum Sciendi.... <em>Clausula</em> p. 402: Absolvimus Logicae Organum 27 die Maii Anno 1651.</p>\n<p>Distributus totus cursus in 189 lectiones. (Pluribus de causis numerum anni 1651 lapsum calami esse arbitror: Etenim F. Wolfgangus Duernegger 1652 vota emisit, ideoque 1651 nondum nomen religionis Wolfgangum gerebat, quod tamen p. 175 stipiti arboris Porphyrii inscripsit. Insuper veri simile est P. Anselmum Schlager anno 1651 nondum Logicam docuisse. Certissimum autem argumentum est clausula earundem lectionum, quas P. Anselmus Schlager tradidit, in codice MN II 65, quem mox tractabimus; Absolvimus hanc Logicam 27 Maii Anno 1654.)</p>\n<p>Inscriptio in parte adversa tegumenti: F W D P S = Frater Wolfgangus Duernegger Professus Seittenstettensis.</p>"
+  },
+  "source": {
+    "file": "MN II 49.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-49/",
+  "relations": [
+    {
+      "typeRaw": "same_lectures_as",
+      "typeLabel": "same lectures as",
+      "targetRaw": "[[MN II 65]]",
+      "targetId": "mn-ii-65",
+      "targetSignature": "MN II 65",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 49",
+    "titles": "Commentarius in Aristotelis Organum \nCommentarius in Aristotelis Organum",
+    "persons": "P. Anselm Schlager, Benediktiner von Andechs Dozent lecturer \nFr. Wolfgang Duernegger, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Kommentar zum Organon des Aristoteles in 189 Lektionen. \n189 Lektionen.",
+    "physical": "Papier \nVI + 414 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

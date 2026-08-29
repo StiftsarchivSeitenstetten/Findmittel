@@ -1,0 +1,191 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-93",
+  "signature": "MN II 93",
+  "aliases": [
+    "Bibl. Cod. MN II 93",
+    "Sumulae seu brevis Introductio In universam logicam"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "59",
+  "heading": {
+    "title": "Sumulae seu brevis Introductio In universam logicam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1667"
+  },
+  "date": {
+    "display": "1667",
+    "intervals": [
+      {
+        "from": 1667,
+        "to": 1667,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Sumulae seu brevis Introductio In universam logicam",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Sumulae seu brevis Introductio In universam logicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Fr. Bernardus Leittner",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        },
+        {
+          "name": "unbekannt",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Bernardus Leittner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "96 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband aus zwei beschriebenen Pergamentblättern des 15. Jahrhunderts, stark abgenutzt und verschmutzt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1667",
+        "intervals": [
+          {
+            "from": 1667,
+            "to": 1667,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "scribe_note",
+      "locus": "S. 92",
+      "text": "F. Bernardus Leittner Admontensis. 1667."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "96 Seiten; Einband aus zwei zusammengeklebten, beschriebenen Pergamentblättern des 15. Jahrhunderts, die stark abgenutzt und verschmutzt sind; geschrieben 1667.\n\n**Summulae oder kurze Einführung in die gesamte Logik.** Anfang S. 1: **Die Aufgabe der Logik ist es, den menschlichen Verstand durch Regeln zu leiten....**\n\nVermerk S. 92: **F. Bernardus Leittner Admontensis. 1667.** Dass dies ein Vermerk des Schreibers selbst ist, zeigt derselbe Schriftcharakter, den auch Codex MN II 94 (siehe unten) aufweist.\n\nJener Bruder Bernardus Leittner widmete sich, bevor er 1665 in das Kloster Seitenstetten eintrat, im Kloster Admont den humanistischen Studien. (Siehe im Stiftsarchiv Seitenstetten Faszikel 2A Nr. 2061.) Warum der in Graz in der Steiermark Geborene sich in unserem Codex **Admontensis** nennt, ist unbekannt. Hat er etwa, nachdem er 1666 im Kloster Seitenstetten die Gelübde abgelegt hatte, erneut im Kloster Admont studiert?\n\nDer Verfasser ist unbekannt.",
+    "germanHtml": "<p>96 Seiten; Einband aus zwei zusammengeklebten, beschriebenen Pergamentblättern des 15. Jahrhunderts, die stark abgenutzt und verschmutzt sind; geschrieben 1667.</p>\n<p><strong>Summulae oder kurze Einführung in die gesamte Logik.</strong> Anfang S. 1: <strong>Die Aufgabe der Logik ist es, den menschlichen Verstand durch Regeln zu leiten....</strong></p>\n<p>Vermerk S. 92: <strong>F. Bernardus Leittner Admontensis. 1667.</strong> Dass dies ein Vermerk des Schreibers selbst ist, zeigt derselbe Schriftcharakter, den auch Codex MN II 94 (siehe unten) aufweist.</p>\n<p>Jener Bruder Bernardus Leittner widmete sich, bevor er 1665 in das Kloster Seitenstetten eintrat, im Kloster Admont den humanistischen Studien. (Siehe im Stiftsarchiv Seitenstetten Faszikel 2A Nr. 2061.) Warum der in Graz in der Steiermark Geborene sich in unserem Codex <strong>Admontensis</strong> nennt, ist unbekannt. Hat er etwa, nachdem er 1666 im Kloster Seitenstetten die Gelübde abgelegt hatte, erneut im Kloster Admont studiert?</p>\n<p>Der Verfasser ist unbekannt.</p>",
+    "latin": "96 pagg.; tegumentum e duobus foliis membranaceis saec. XV. inscriptis, sed maxime attritis sordidisque conglutinatum; 1667\n\nSumulae seu brevis Introductio In universam logicam. Initium p. 1: Logicae officium est Intellectum hominis per praecepta dirigere.... Nota p. 92: **F. Bernardus Leittner** Admontensis. 1667. Hanc ipsius scribentis notam esse ostendit idem character scribendi, quem etiam\n\n\n\n\nCodex MN II 94 (quem vide infra!) exhibet. Frater ille Bernardus Leittner, antequam anno 1665 monasterium Seitenstettense ingressus est, in monasterio Admontensi studiis humanioribus operam dedit. (Vide in archivo monasterii Seitenstettensis fasciculum 2A Nr. 2061). Cur is, qui Graecii in Styria natus sit, semetipsum in codice nostro Admontensem nominet, ignotum est. Numquid, postquam anno 1666 in monasterio Seitenstettensi vota nuncupavit, iterum in monasterio Admontensi studiis incubuit?\n\nAuctor ignotus.",
+    "latinHtml": "<p>96 pagg.; tegumentum e duobus foliis membranaceis saec. XV. inscriptis, sed maxime attritis sordidisque conglutinatum; 1667</p>\n<p>Sumulae seu brevis Introductio In universam logicam. Initium p. 1: Logicae officium est Intellectum hominis per praecepta dirigere.... Nota p. 92: <strong>F. Bernardus Leittner</strong> Admontensis. 1667. Hanc ipsius scribentis notam esse ostendit idem character scribendi, quem etiam</p>\n<p>Codex MN II 94 (quem vide infra!) exhibet. Frater ille Bernardus Leittner, antequam anno 1665 monasterium Seitenstettense ingressus est, in monasterio Admontensi studiis humanioribus operam dedit. (Vide in archivo monasterii Seitenstettensis fasciculum 2A Nr. 2061). Cur is, qui Graecii in Styria natus sit, semetipsum in codice nostro Admontensem nominet, ignotum est. Numquid, postquam anno 1666 in monasterio Seitenstettensi vota nuncupavit, iterum in monasterio Admontensi studiis incubuit?</p>\n<p>Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 93.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-93/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 94]]",
+      "targetId": "mn-ii-94",
+      "targetSignature": "MN II 94",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 93",
+    "titles": "Sumulae seu brevis Introductio In universam logicam \nSumulae seu brevis Introductio In universam logicam",
+    "persons": "Fr. Bernardus Leittner Schreiber scribe \nunbekannt Autor author \nFr. Bernardus Leittner Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n96 Seiten \ndescription: Einband aus zwei beschriebenen Pergamentblättern des 15. Jahrhunderts, stark abgenutzt und verschmutzt."
+  }
+}

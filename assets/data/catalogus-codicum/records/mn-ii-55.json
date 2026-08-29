@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-55",
+  "signature": "MN II 55",
+  "aliases": [
+    "Bibl. Cod. MN II 55",
+    "Tractatus De Actibus Humanis Udalrici Freyberger"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "35–36",
+  "heading": {
+    "title": "Tractatus De Actibus Humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1652"
+  },
+  "date": {
+    "display": "1652",
+    "intervals": [
+      {
+        "from": 1652,
+        "to": 1652,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Kasuistische Vorlesungen über menschliche Handlungen sowie Laster und Sünden.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. II–IV und 1–144",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus II De Vitiis et Peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 145–233v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 234r–236r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Udalricus Freyberger OSB",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Joseph Schwaiger, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 237 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Darstellung der Immaculata nach Offb 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1652",
+        "intervals": [
+          {
+            "from": 1652,
+            "to": 1652,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 237 Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite ein Bild der Unbefleckten Mutter nach Offb 12,1; geschrieben 1652.\n\na) **Abhandlung über die menschlichen Handlungen, vorgetragen vom ehrwürdigen P. Udalricus Freyberger aus dem Orden des hl. Vaters Benedikt, Mönch und hochwürdigem Prior, Doktor der heiligen Theologie, Profess von St. Peter in Salzburg und ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger aus dem Orden des hl. Vaters Benedikt, Profess des berühmten Klosters Seitenstetten, Salzburg 1652:** Bl. II–IV und 1–144. Anfang der Vorrede zu den Gewissensfällen: **Theologie bedeutet gemäß der Etymologie des Namens....**\n\nb) **Zweite Abhandlung. Über Laster und Sünden, vorgetragen von P. Udalricus Freyberger, Prior im Kloster St. Peter in Salzburg und ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger, Profess des Klosters Seitenstetten, im Jahr 1652:** Bl. 145–233v. Anfang der Vorrede Bl. 146r: **Nach der Behandlung der menschlichen Handlungen im Allgemeinen....**\n\nc) **Register** zu beiden Teilen a und b: Bl. 234r–236r.\n\nAuf der Vorderseite des Einbandes stehen die Initialen **F.I.S.P.S. = Frater Josephus Schwaiger Professus Seittenstettensis**.\n\nDieselben Abhandlungen enthält Codex MN II 59; nahezu dieselben enthalten die Teile a und b von Codex MN II 66.",
+    "germanHtml": "<p>IV + 237 Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen; auf der Vorderseite <strong>JHS</strong>, auf der Rückseite ein Bild der Unbefleckten Mutter nach Offb 12,1; geschrieben 1652.</p>\n<p>a) <strong>Abhandlung über die menschlichen Handlungen, vorgetragen vom ehrwürdigen P. Udalricus Freyberger aus dem Orden des hl. Vaters Benedikt, Mönch und hochwürdigem Prior, Doktor der heiligen Theologie, Profess von St. Peter in Salzburg und ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger aus dem Orden des hl. Vaters Benedikt, Profess des berühmten Klosters Seitenstetten, Salzburg 1652:</strong> Bl. II–IV und 1–144. Anfang der Vorrede zu den Gewissensfällen: <strong>Theologie bedeutet gemäß der Etymologie des Namens....</strong></p>\n<p>b) <strong>Zweite Abhandlung. Über Laster und Sünden, vorgetragen von P. Udalricus Freyberger, Prior im Kloster St. Peter in Salzburg und ordentlichem Professor der Gewissensfälle; aufgezeichnet von Fr. Joseph Schwaiger, Profess des Klosters Seitenstetten, im Jahr 1652:</strong> Bl. 145–233v. Anfang der Vorrede Bl. 146r: <strong>Nach der Behandlung der menschlichen Handlungen im Allgemeinen....</strong></p>\n<p>c) <strong>Register</strong> zu beiden Teilen a und b: Bl. 234r–236r.</p>\n<p>Auf der Vorderseite des Einbandes stehen die Initialen <strong>F.I.S.P.S. = Frater Josephus Schwaiger Professus Seittenstettensis</strong>.</p>\n<p>Dieselben Abhandlungen enthält Codex MN II 59; nahezu dieselben enthalten die Teile a und b von Codex MN II 66.</p>",
+    "latin": "IV + 237 foll.; teg. a2 (in parte adversa JHS, in parte aversa imago Matris Immaculatae iuxta Apoc. XII, 1); script. 1652\n\na) *Tractatus De Actibus Humanis Traditus ab.... P. Udalrico Freyberger Ordinis S. P. Benedicti Monacho et Priore dignissimo, SS. Theologiae Doctore, S. Petri Salisburgi Professo, Casuum Conscientiae Professore Ordinario Exceptus à .... F. Josepho Schwaiger Ordinis S. P. Benedicti Celeberrimi Monasterii Seittenstettensis Professo Salisburgi Anno 1652:* fol. II - IV et 1 - 144; *initium* Praefationis In Casus Conscientiae: Theologia secundum Etymologiam nominis....\n\nb) *Tractatus IIdus. De Vitiis et Peccatis. Traditus ab.... P. Udalrico Freyberger Ordinis S. P. N. Benedicti Priore in Celeberrimo Monasterio Ad S. Petrum Salisburgi Professore Casuum Ordinario. Exceptus â religioso F. Josepho Schwaiger eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi. Anno 1652:* fol. 145 - 233v. *Initium* Prooemii fol. 146r: Post tractationem de actibus humanis in genere....\n\nc) *Index* (ad utramque partem a et b): fol. 234r - 236r.\n\nIn adversa tegumenti parte litterae initiales: F.I.S.P.S. = Frater Josephus Schwaiger Professus Seittenstettensis.\n\nEosdem tractatus exhibet Cod. MN II 59 et fere eosdem pars a et b Codicis MN II 66 (vide inferius!)",
+    "latinHtml": "<p>IV + 237 foll.; teg. a2 (in parte adversa JHS, in parte aversa imago Matris Immaculatae iuxta Apoc. XII, 1); script. 1652</p>\n<p>a) <em>Tractatus De Actibus Humanis Traditus ab.... P. Udalrico Freyberger Ordinis S. P. Benedicti Monacho et Priore dignissimo, SS. Theologiae Doctore, S. Petri Salisburgi Professo, Casuum Conscientiae Professore Ordinario Exceptus à .... F. Josepho Schwaiger Ordinis S. P. Benedicti Celeberrimi Monasterii Seittenstettensis Professo Salisburgi Anno 1652:</em> fol. II - IV et 1 - 144; <em>initium</em> Praefationis In Casus Conscientiae: Theologia secundum Etymologiam nominis....</p>\n<p>b) <em>Tractatus IIdus. De Vitiis et Peccatis. Traditus ab.... P. Udalrico Freyberger Ordinis S. P. N. Benedicti Priore in Celeberrimo Monasterio Ad S. Petrum Salisburgi Professore Casuum Ordinario. Exceptus â religioso F. Josepho Schwaiger eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi. Anno 1652:</em> fol. 145 - 233v. <em>Initium</em> Prooemii fol. 146r: Post tractationem de actibus humanis in genere....</p>\n<p>c) <em>Index</em> (ad utramque partem a et b): fol. 234r - 236r.</p>\n<p>In adversa tegumenti parte litterae initiales: F.I.S.P.S. = Frater Josephus Schwaiger Professus Seittenstettensis.</p>\n<p>Eosdem tractatus exhibet Cod. MN II 59 et fere eosdem pars a et b Codicis MN II 66 (vide inferius!)</p>"
+  },
+  "source": {
+    "file": "MN II 55.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-55/",
+  "relations": [
+    {
+      "typeRaw": "same_text_as",
+      "typeLabel": "gleicher Text",
+      "targetRaw": "[[MN II 59]]",
+      "targetId": "mn-ii-59",
+      "targetSignature": "MN II 59",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "similar_text_as",
+      "typeLabel": "similar text as",
+      "targetRaw": "[[MN II 66]]",
+      "targetId": "mn-ii-66",
+      "targetSignature": "MN II 66",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 55",
+    "titles": "Tractatus De Actibus Humanis \nTractatus De Actibus Humanis \nTractatus II De Vitiis et Peccatis \nIndex",
+    "persons": "P. Udalricus Freyberger OSB Dozent lecturer \nFr. Joseph Schwaiger, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Kasuistische Vorlesungen über menschliche Handlungen sowie Laster und Sünden.",
+    "physical": "Papier \nIV + 237 Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Darstellung der Immaculata nach Offb 12,1."
+  }
+}

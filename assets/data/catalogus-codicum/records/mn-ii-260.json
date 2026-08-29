@@ -1,0 +1,168 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-260",
+  "signature": "MN II 260",
+  "aliases": [
+    "Bibl. Cod. MN II 260"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "197",
+  "heading": {
+    "title": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1716"
+  },
+  "date": {
+    "display": "1716",
+    "intervals": [
+      {
+        "from": 1716,
+        "to": 1716,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 5–335",
+      "language": "",
+      "incipit": {
+        "text": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; der Schluss und mehrere Vorlesungen fehlen."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Hieronymus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "inferred_from_hand"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "340 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1716",
+        "intervals": [
+          {
+            "from": 1716,
+            "to": 1716,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "340 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1716.\n\n**(Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung).**\n\nAnfang der Vorrede S. 5: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,....\n\nDer Schluss am Ende S. 335 fehlt. Beim Vergleich mit MN II 255, der dieselben Vorlesungen enthält, zeigt sich sogar, dass mehrere Vorlesungen fehlen: MN II 255 bietet zusätzlich einen zweiten Paragraphen zum zweiten Artikel der vorletzten Frage und die gesamte letzte Frage dieser Abhandlung.\n\nDa MN II 255 am 29. August 1716 beendet wurde, ist wahrscheinlich, dass auch unser Codex 1716 entstand.\n\nDer Verfasser ist unbekannt. Dass Fr. Hieronymus Hueber, Seitenstettner Mönch, der Schreiber war, zeigt derselbe Schriftcharakter wie in den beiden vorhergehenden Codices.",
+    "germanHtml": "<p>340 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1716.</p>\n<p><strong>(Theologische Abhandlung über das allerheiligste Geheimnis der Menschwerdung).</strong></p>\n<p>Anfang der Vorrede S. 5: Von allen Geheimnissen, die der katholische Glaube nach dem erhabensten Geheimnis der Dreifaltigkeit zu glauben vorlegt,....</p>\n<p>Der Schluss am Ende S. 335 fehlt. Beim Vergleich mit MN II 255, der dieselben Vorlesungen enthält, zeigt sich sogar, dass mehrere Vorlesungen fehlen: MN II 255 bietet zusätzlich einen zweiten Paragraphen zum zweiten Artikel der vorletzten Frage und die gesamte letzte Frage dieser Abhandlung.</p>\n<p>Da MN II 255 am 29. August 1716 beendet wurde, ist wahrscheinlich, dass auch unser Codex 1716 entstand.</p>\n<p>Der Verfasser ist unbekannt. Dass Fr. Hieronymus Hueber, Seitenstettner Mönch, der Schreiber war, zeigt derselbe Schriftcharakter wie in den beiden vorhergehenden Codices.</p>",
+    "latin": "340 pagg.; teg. a1; scriptus 1716\n\n(Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio).  \nInitium Proemii p. 5: Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,....  \nClausula in fine (p. 335) deest, immo etiam aliquot lectiones deesse arbitraberis comparato codice MN II 255 (supra p. 195), qui ut easdem lectiones quas codex noster continet, ita etiam alteram paragraphum ad articulum secundum quaestionis paenultimae et totam quaestionem ultimam huius tractatus addit. Cum codex MN II 255 die 29. Augusti Anno 1716 finitus sit, etiam hunc codicem anno 1716 ortum esse veri simile est. Auctor vero ignotus. Scriptorem autem esse F. Hieronymum Hueber monachum Seitenstettensem eadem scriptura docet, quam invenimus in duobus codicibus praecedentibus ab eodem scriptis.",
+    "latinHtml": "<p>340 pagg.; teg. a1; scriptus 1716</p>\n<p>(Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio). Initium Proemii p. 5: Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit,.... Clausula in fine (p. 335) deest, immo etiam aliquot lectiones deesse arbitraberis comparato codice MN II 255 (supra p. 195), qui ut easdem lectiones quas codex noster continet, ita etiam alteram paragraphum ad articulum secundum quaestionis paenultimae et totam quaestionem ultimam huius tractatus addit. Cum codex MN II 255 die 29. Augusti Anno 1716 finitus sit, etiam hunc codicem anno 1716 ortum esse veri simile est. Auctor vero ignotus. Scriptorem autem esse F. Hieronymum Hueber monachum Seitenstettensem eadem scriptura docet, quam invenimus in duobus codicibus praecedentibus ab eodem scriptis.</p>"
+  },
+  "source": {
+    "file": "MN II 260.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-260/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 255]]",
+      "targetId": "mn-ii-255",
+      "targetSignature": "MN II 255",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 260",
+    "titles": "Tractatus Theologicus De Sacro-Sancto Incarnationis Mysterio \nTractatus Theologicus De Sacro-Sancto Incarnationis Mysterio",
+    "persons": "unbekannt Autor author \nFr. Hieronymus Hueber Schreiber scribe",
+    "incipits": "Omnium arcanorum, quae Fides catholica post Augustissimum Triados misterium credenda proponit",
+    "explicits": "",
+    "notes": "Die gesamte Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern und ist als editorisch ergänzt gekennzeichnet; der Schluss und mehrere Vorlesungen fehlen. \nincomplete",
+    "physical": "Papier \n340 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

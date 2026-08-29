@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-225",
+  "signature": "MN II 225",
+  "aliases": [
+    "Bibl. Cod. MN II 225"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "175",
+  "heading": {
+    "title": "Tractatus De Sacramentis in genere, et de Tribus in Specie nimirum Baptismo, Confirmatione, et Eucharistiâ",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1705"
+  },
+  "date": {
+    "display": "1705",
+    "intervals": [
+      {
+        "from": 1705,
+        "to": 1705,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Sacramentis in genere, et de Tribus in Specie nimirum Baptismo, Confirmatione, et Eucharistiâ",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 8–181",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Varii De Sacramentis in Specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Tractatus Primus De Baptismo",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 181–237",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Tractatus Secundus De Confirmatione",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 237–262",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Tractatus Tertius De Venerabili Eucharistiae Sacramento",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 263–332",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Benedictus Calles",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "336 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1705",
+        "intervals": [
+          {
+            "from": 1705,
+            "to": 1705,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "336 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.\n\n**Abhandlung über die Sakramente im Allgemeinen und über drei Sakramente im Einzelnen, nämlich Taufe, Firmung und Eucharistie**, vorgetragen von P. Caelestin Pley, Benediktiner und Profess des Klosters Seitenstetten in Niederösterreich, Doktor der heiligen Theologie, ordentlicher Professor an der erzbischöflichen Benediktineruniversität Salzburg, Dekan der theologischen Fakultät und geistlicher Rat des Salzburger Fürsterzbischofs; aufgezeichnet von Fr. Benedictus Calles, Benediktinermönch desselben Klosters, im Jahr 1705.\n\nAnfang S. 7: **Quellen des Erlösers, das heißt verschiedene Abhandlungen über die Sakramente im Allgemeinen und im Einzelnen. Vorrede:** Heute biete ich euch die reinsten Quellen dar......\n\na) **Abhandlung über die Sakramente im Allgemeinen:** S. 8–181.\n\nb) **Verschiedene Abhandlungen über die Sakramente im Einzelnen:**\n- **Erste Abhandlung über die Taufe:** S. 181–237.\n- **Zweite Abhandlung über die Firmung:** S. 237–262.\n- **Dritte Abhandlung über das ehrwürdige Sakrament der Eucharistie:** S. 263–332.\n\nSchluss: **Wir beendeten alles am 29. Juli 1705.**\n\nDieselben Abhandlungen findet man auch in MN I 27.",
+    "germanHtml": "<p>336 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.</p>\n<p><strong>Abhandlung über die Sakramente im Allgemeinen und über drei Sakramente im Einzelnen, nämlich Taufe, Firmung und Eucharistie</strong>, vorgetragen von P. Caelestin Pley, Benediktiner und Profess des Klosters Seitenstetten in Niederösterreich, Doktor der heiligen Theologie, ordentlicher Professor an der erzbischöflichen Benediktineruniversität Salzburg, Dekan der theologischen Fakultät und geistlicher Rat des Salzburger Fürsterzbischofs; aufgezeichnet von Fr. Benedictus Calles, Benediktinermönch desselben Klosters, im Jahr 1705.</p>\n<p>Anfang S. 7: <strong>Quellen des Erlösers, das heißt verschiedene Abhandlungen über die Sakramente im Allgemeinen und im Einzelnen. Vorrede:</strong> Heute biete ich euch die reinsten Quellen dar......</p>\n<p>a) <strong>Abhandlung über die Sakramente im Allgemeinen:</strong> S. 8–181.</p>\n<p>b) <strong>Verschiedene Abhandlungen über die Sakramente im Einzelnen:</strong></p>\n<ul><li><strong>Erste Abhandlung über die Taufe:</strong> S. 181–237.</li><li><strong>Zweite Abhandlung über die Firmung:</strong> S. 237–262.</li><li><strong>Dritte Abhandlung über das ehrwürdige Sakrament der Eucharistie:</strong> S. 263–332.</li></ul>\n<p>Schluss: <strong>Wir beendeten alles am 29. Juli 1705.</strong></p>\n<p>Dieselben Abhandlungen findet man auch in MN I 27.</p>",
+    "latin": "336 pagg.; teg. a1; script. 1705\n\nTractatus De Sacramentis in genere, et de Tribus in Specie nimirum Baptismo, Confirmatione, et Eucharistiâ Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P: Caelestino Pley. Ordinis S: P: Benedicti Celeberrimi Divae Virginis Monasterii Seittenstettensis in inferiori Austria Professo Sacrosanctae Theologiae Doctore, eiusdemque in Alma ac Archi-Episcopali Benedictina Universitate Salisburgensi Professore Ordinario, Sacrae Facultatis Decano Spectabili Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico. exceptus: â F. Benedicto Calles Monacho Benedictino in eodem Monasterio Anno Domini 1705.\n\nInitium p. 7: Fontes Salvatoris id est Varii Tractatus de Sacramentis tum in genere, tum in Specie Anteloquium Purissimos vobis hodiè fontes propino......\n\na) Tractatus de Sacramentis in genere: p. 8–181.\n\nb) Tractatus Varii De Sacramentis in Specie:  \nTractatus Primus. De Baptismo: p. 181–237  \nTractatus Secundus De Confirmatione: p. 237–262  \nTractatus Tertius. De Venerabili Eucharistiae Sacramento: p. 263–332.  \nClausula: Absolvimus universim die 29 Julii 1705.\n\nEosdem tractatus invenies etiam in codice MN I 27 (vide infra!)",
+    "latinHtml": "<p>336 pagg.; teg. a1; script. 1705</p>\n<p>Tractatus De Sacramentis in genere, et de Tribus in Specie nimirum Baptismo, Confirmatione, et Eucharistiâ Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P: Caelestino Pley. Ordinis S: P: Benedicti Celeberrimi Divae Virginis Monasterii Seittenstettensis in inferiori Austria Professo Sacrosanctae Theologiae Doctore, eiusdemque in Alma ac Archi-Episcopali Benedictina Universitate Salisburgensi Professore Ordinario, Sacrae Facultatis Decano Spectabili Celsissimi ac Reverendissimi Sacri Romani Imperii Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico. exceptus: â F. Benedicto Calles Monacho Benedictino in eodem Monasterio Anno Domini 1705.</p>\n<p>Initium p. 7: Fontes Salvatoris id est Varii Tractatus de Sacramentis tum in genere, tum in Specie Anteloquium Purissimos vobis hodiè fontes propino......</p>\n<p>a) Tractatus de Sacramentis in genere: p. 8–181.</p>\n<p>b) Tractatus Varii De Sacramentis in Specie: Tractatus Primus. De Baptismo: p. 181–237 Tractatus Secundus De Confirmatione: p. 237–262 Tractatus Tertius. De Venerabili Eucharistiae Sacramento: p. 263–332. Clausula: Absolvimus universim die 29 Julii 1705.</p>\n<p>Eosdem tractatus invenies etiam in codice MN I 27 (vide infra!)</p>"
+  },
+  "source": {
+    "file": "MN II 225.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-225/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN I 27]]",
+      "targetId": "mn-i-27",
+      "targetSignature": "MN I 27",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 225",
+    "titles": "Tractatus De Sacramentis in genere, et de Tribus in Specie nimirum Baptismo, Confirmatione, et Eucharistiâ \nTractatus de Sacramentis in genere \nTractatus Varii De Sacramentis in Specie \nTractatus Primus De Baptismo \nTractatus Secundus De Confirmatione \nTractatus Tertius De Venerabili Eucharistiae Sacramento",
+    "persons": "P. Caelestin Pley Dozent lecturer \nFr. Benedictus Calles Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n336 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

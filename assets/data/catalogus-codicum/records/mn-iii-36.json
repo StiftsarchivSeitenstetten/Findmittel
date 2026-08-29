@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-36",
+  "signature": "MN III 36",
+  "aliases": [
+    "Bibl. Cod. MN III 36"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "212–213",
+  "heading": {
+    "title": "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1729"
+  },
+  "date": {
+    "display": "1729",
+    "intervals": [
+      {
+        "from": 1729,
+        "to": 1729,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur die arabische Auflösung „1729“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1729",
+        "intervals": [
+          {
+            "from": 1729,
+            "to": 1729,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "prints",
+      "description": "Mehrere eingefügte Kupferstiche von Martin Engelbrecht und I. A. Pfeffel, Augsburg."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 658 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit vergoldeten Verzierungen; mit einer kunstvoll gearbeiteten silbernen Schließe zu verschließen; geschrieben 1729.\n\n**Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729).**\n\nMehrere Kupferstiche sind eingefügt; sie wurden teils von Martin Engelbrecht, teils von I. A. Pfeffel in Augsburg gestochen beziehungsweise gedruckt.\n\nSchreiber und Kompilator dieses Gebetbuchs sind unbekannt. Die Initialen **I A P**, die auf der Innenseite der Schließe eingeschnitten sind, könnten den Besitzer bezeichnen.",
+    "germanHtml": "<p>Kleines Oktavformat; 658 Seiten; lederner Einband von rehbrauner oder brauner Farbe, Rücken mit vergoldeten Verzierungen; mit einer kunstvoll gearbeiteten silbernen Schließe zu verschließen; geschrieben 1729.</p>\n<p><strong>Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729).</strong></p>\n<p>Mehrere Kupferstiche sind eingefügt; sie wurden teils von Martin Engelbrecht, teils von I. A. Pfeffel in Augsburg gestochen beziehungsweise gedruckt.</p>\n<p>Schreiber und Kompilator dieses Gebetbuchs sind unbekannt. Die Initialen <strong>I A P</strong>, die auf der Innenseite der Schließe eingeschnitten sind, könnten den Besitzer bezeichnen.</p>",
+    "latin": "8° min.; 658 pagg.; teg. b1, sed dorso ornamentis inauratis decorato, claustura argentea artificiose sculpta claudendum; script. 1729\n\n**Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729).**\n\nInsertae sunt aliquot imagines chalcographice depictae, quas partim Martinus Engelbrecht, partim I. A. Pfeffel excuderunt Augustae Vindelicorum.\n\nScriptor et compilator huius libelli precatorii ignoti; litterae initiales **I A P** clausturae ab intrinsecus incisae fortasse possessorem libelli indicant.",
+    "latinHtml": "<p>8° min.; 658 pagg.; teg. b1, sed dorso ornamentis inauratis decorato, claustura argentea artificiose sculpta claudendum; script. 1729</p>\n<p><strong>Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729).</strong></p>\n<p>Insertae sunt aliquot imagines chalcographice depictae, quas partim Martinus Engelbrecht, partim I. A. Pfeffel excuderunt Augustae Vindelicorum.</p>\n<p>Scriptor et compilator huius libelli precatorii ignoti; litterae initiales <strong>I A P</strong> clausturae ab intrinsecus incisae fortasse possessorem libelli indicant.</p>"
+  },
+  "source": {
+    "file": "MN III 36.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-36/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 36",
+    "titles": "Geistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729) \nGeistliches Hand-Büchlein bestehend In allerhand schönen und Durchgehends Trostreichen Gebettern, Officien und Lytaneyen Anno MDCCXXIX (1729)",
+    "persons": "unbekannt Bearbeiter compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nur die arabische Auflösung „1729“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe. Mit eingeprägten bzw. sonstigen Verzierungen; Einzelheiten siehe Katalogtext."
+  }
+}

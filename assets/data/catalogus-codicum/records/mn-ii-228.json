@@ -1,0 +1,230 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-228",
+  "signature": "MN II 228",
+  "aliases": [
+    "Bibl. Cod. MN II 228"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "178",
+  "heading": {
+    "title": "Philosophia, seu Logica Thomistica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1706"
+  },
+  "date": {
+    "display": "1706",
+    "intervals": [
+      {
+        "from": 1706,
+        "to": 1706,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Philosophia, seu Logica Thomistica",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Philosophia, seu Logica Thomistica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–573",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1706-05-29"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "argumenta seu inscriptiones disputationum et articulorum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 574–580",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Stoker",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Paul im Lavanttal / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Carolus Gschwantner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "580 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1706",
+        "intervals": [
+          {
+            "from": 1706,
+            "to": 1706,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "580 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706.\n\n**Philosophie oder thomistische Logik**, vorgetragen von P. Paulus Stoker, Benediktiner und Profess des Klosters St. Paul in Kärnten, Doktor der freien Künste und Philosophie sowie ordentlicher Professor an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Profess von Seitenstetten und Logikstudent, im Jahr 1706.\n\nAnfang des Prologs zur aristotelisch-thomistischen Logik S. 5: Die Feinde der freien Künste pflegen die Logik überall mit Schmähungen zu überhäufen......\n\nSchluss S. 573: **Wir beendeten [dies] am 29. Mai 1706.**\n\nS. 574–580 folgen die Argumente beziehungsweise Überschriften der Disputationen und Artikel.\n\nDerselbe Schreiber schrieb auch die sechs folgenden Codices.",
+    "germanHtml": "<p>580 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1706.</p>\n<p><strong>Philosophie oder thomistische Logik</strong>, vorgetragen von P. Paulus Stoker, Benediktiner und Profess des Klosters St. Paul in Kärnten, Doktor der freien Künste und Philosophie sowie ordentlicher Professor an der Benediktineruniversität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Profess von Seitenstetten und Logikstudent, im Jahr 1706.</p>\n<p>Anfang des Prologs zur aristotelisch-thomistischen Logik S. 5: Die Feinde der freien Künste pflegen die Logik überall mit Schmähungen zu überhäufen......</p>\n<p>Schluss S. 573: <strong>Wir beendeten [dies] am 29. Mai 1706.</strong></p>\n<p>S. 574–580 folgen die Argumente beziehungsweise Überschriften der Disputationen und Artikel.</p>\n<p>Derselbe Schreiber schrieb auch die sechs folgenden Codices.</p>",
+    "latin": "580 pagg.; teg. a1; script. 1706\n\nPhilosophia, seu Logica Thomistica, tradita ab .....P. D Paulo Stoker (!), Ordinis S. P. Nostri Benedicti in Celeberrimo Monasterio ad S. Paulum in Carinthia, Artium Liberalium et Philosophiae Doctore nec non eiusdem in Alma et Archi-Episcopali Benedictina Universitate Salisburgensi Professore Ordinario Excepta â F. Carolo Gschwantner, ordinis Sanctissimi P. Benedicti in Monasterio Seittenstettensi Professo Logices studioso Anno Domini 1706.\n\nInitium Proloquii In logicam Aristotelico-Thomisticam p. 5: Solent liberalium artium inimici passim logicam onerare convitiis ......\n\nClausula p. 573: Absolvimus 29 Maii 1706.\n\nPostea sequuntur p. 574–580 argumenta seu inscriptiones disputationum et articulorum.\n\nIdem scriptor etiam sex codices sequentes exaravit.",
+    "latinHtml": "<p>580 pagg.; teg. a1; script. 1706</p>\n<p>Philosophia, seu Logica Thomistica, tradita ab .....P. D Paulo Stoker (!), Ordinis S. P. Nostri Benedicti in Celeberrimo Monasterio ad S. Paulum in Carinthia, Artium Liberalium et Philosophiae Doctore nec non eiusdem in Alma et Archi-Episcopali Benedictina Universitate Salisburgensi Professore Ordinario Excepta â F. Carolo Gschwantner, ordinis Sanctissimi P. Benedicti in Monasterio Seittenstettensi Professo Logices studioso Anno Domini 1706.</p>\n<p>Initium Proloquii In logicam Aristotelico-Thomisticam p. 5: Solent liberalium artium inimici passim logicam onerare convitiis ......</p>\n<p>Clausula p. 573: Absolvimus 29 Maii 1706.</p>\n<p>Postea sequuntur p. 574–580 argumenta seu inscriptiones disputationum et articulorum.</p>\n<p>Idem scriptor etiam sex codices sequentes exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 228.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-228/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 229",
+      "targetId": "mn-ii-229",
+      "targetSignature": "MN II 229",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 230",
+      "targetId": "mn-ii-230",
+      "targetSignature": "MN II 230",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 231",
+      "targetId": "mn-ii-231",
+      "targetSignature": "MN II 231",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 232",
+      "targetId": "mn-ii-232",
+      "targetSignature": "MN II 232",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 233",
+      "targetId": "mn-ii-233",
+      "targetSignature": "MN II 233",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_series",
+      "typeLabel": "same scribe series",
+      "targetRaw": "MN II 234",
+      "targetId": "mn-ii-234",
+      "targetSignature": "MN II 234",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 228",
+    "titles": "Philosophia, seu Logica Thomistica \nPhilosophia, seu Logica Thomistica \nargumenta seu inscriptiones disputationum et articulorum",
+    "persons": "P. Paulus Stoker Dozent lecturer \nFr. Carolus Gschwantner Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n580 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

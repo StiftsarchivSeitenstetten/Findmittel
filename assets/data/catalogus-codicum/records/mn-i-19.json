@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-19",
+  "signature": "MN I 19",
+  "aliases": [
+    "Bibl. Cod. MN I 19",
+    "Katholisches Ritual über die Ausspendung der heiligen Sakramente"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "275",
+  "heading": {
+    "title": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "1807"
+  },
+  "date": {
+    "display": "1807",
+    "intervals": [
+      {
+        "from": 1807,
+        "to": 1807,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt.",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "summary",
+          "text": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Philipp V.",
+          "roleRaw": "translator_or_copyist",
+          "roleLabel": "translator or copyist",
+          "scope": "item",
+          "itemId": "item-1",
+          "certainty": "uncertain",
+          "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Philipp V.",
+      "roleRaw": "translator_or_copyist",
+      "roleLabel": "translator or copyist",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    },
+    {
+      "name": "P. Clemens Lietz",
+      "roleRaw": "provenance annotator",
+      "roleLabel": "provenance annotator",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten"
+    },
+    {
+      "name": "Johann Hönigschmid",
+      "roleRaw": "donor",
+      "roleLabel": "Schenker",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Philipp V.",
+      "roleRaw": "translator_or_copyist",
+      "roleLabel": "translator or copyist",
+      "scope": "contents",
+      "certainty": "uncertain",
+      "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
+    },
+    {
+      "name": "Philipp V.",
+      "roleRaw": "translator_or_copyist",
+      "roleLabel": "translator or copyist",
+      "scope": "item",
+      "itemId": "item-1",
+      "certainty": "uncertain",
+      "note": "Nach S. 11 entweder Übersetzer des Salzburger Rituals ins Deutsche oder lediglich Abschreiber einer bereits vorhandenen Übersetzung; der volle Name ist unbekannt."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "384 Seiten",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1807",
+        "intervals": [
+          {
+            "from": 1807,
+            "to": 1807,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "type": "gift",
+        "donor": {
+          "name": "Johann Hönigschmid",
+          "description": "Oberstabsarzt"
+        },
+        "recipient": {
+          "name": "P. Clemens Lietz"
+        },
+        "evidence": "Besitz- bzw. Schenkungsvermerk auf der Innenseite des Vorderdeckels."
+      }
+    ],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "provenance_note",
+      "location": "Innenseite des Vorderdeckels",
+      "text": "Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.",
+      "language": "de",
+      "author": {
+        "name": "P. Clemens Lietz"
+      }
+    }
+  ],
+  "editorialNotes": [
+    "Der volle Name des als 'Philipp V.' bezeichneten Übersetzers oder Abschreibers konnte vom Katalogbearbeiter nicht ermittelt werden.",
+    "Philipp V. war nach der Feststellung des Katalogbearbeiters kein Seitenstettner Mönch."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 384 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben im Jahr 1807.\n\n**Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.**\n\nDen vollständigen Namen jenes **Philipp V.**, der laut S. 11 entweder selbst das Salzburger Ritual ins Deutsche übersetzte oder lediglich die Übersetzung abschrieb, habe ich nirgends gefunden. Sicherlich war er kein Seitenstettner Mönch; denn P. Clemens (Lietz, Seitenstettner Mönch, geb. 1853, Profess 1873, Priesterweihe 1877, gest. 1922) vermerkte auf der Innenseite des Vorderdeckels: **Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.**\n\nWas nur für den Priester bestimmt ist, ist größtenteils nicht übersetzt.",
+    "germanHtml": "<p>Großquartformat; 384 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben im Jahr 1807.</p>\n<p><strong>Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.</strong></p>\n<p>Den vollständigen Namen jenes <strong>Philipp V.</strong>, der laut S. 11 entweder selbst das Salzburger Ritual ins Deutsche übersetzte oder lediglich die Übersetzung abschrieb, habe ich nirgends gefunden. Sicherlich war er kein Seitenstettner Mönch; denn P. Clemens (Lietz, Seitenstettner Mönch, geb. 1853, Profess 1873, Priesterweihe 1877, gest. 1922) vermerkte auf der Innenseite des Vorderdeckels: <strong>Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.</strong></p>\n<p>Was nur für den Priester bestimmt ist, ist größtenteils nicht übersetzt.</p>",
+    "latin": "4° mai.; 384 pagg.; teg. c2d; scriptus anno 1807\n\n**Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.**\n\nPlenum nomen illius **Philippi V.**, qui iuxta p. 11 librum ritualem Salisburgensem aut ipse in linguam Germanicam transtulit aut translationem descripsit tantum, nusquam repperi. Certe non est monachus Seitenstettensis; notavit enim P. Clemens (Lietz, monachus Seitenstettensis, n. 1853, p. 1873, s. 1877, m. 1922) in parte adversa tegumenti ab intrinsecus: **Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.**\n\nQuae pro solo sacerdote sunt, plerumque non sunt translata.",
+    "latinHtml": "<p>4° mai.; 384 pagg.; teg. c2d; scriptus anno 1807</p>\n<p><strong>Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.</strong></p>\n<p>Plenum nomen illius <strong>Philippi V.</strong>, qui iuxta p. 11 librum ritualem Salisburgensem aut ipse in linguam Germanicam transtulit aut translationem descripsit tantum, nusquam repperi. Certe non est monachus Seitenstettensis; notavit enim P. Clemens (Lietz, monachus Seitenstettensis, n. 1853, p. 1873, s. 1877, m. 1922) in parte adversa tegumenti ab intrinsecus: <strong>Von P. T. Herrn Oberstabsarzt Johann Hönigschmid als Geschenk erhalten.</strong></p>\n<p>Quae pro solo sacerdote sunt, plerumque non sunt translata.</p>"
+  },
+  "source": {
+    "file": "MN I 19.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-19/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 19",
+    "titles": "Katholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807. \nKatholisches Ritual über die Ausspendung der heiligen Sakramente, Andachten und Uebungen zu verschiedenen Zeiten des Kirchen=Jahrs. Ph. V. 1807.",
+    "persons": "Philipp V. translator or copyist translator_or_copyist \nP. Clemens Lietz provenance annotator provenance annotator \nJohann Hönigschmid Schenker donor \nPhilipp V. translator or copyist translator_or_copyist \nPhilipp V. translator or copyist translator_or_copyist",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Deutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt. \nde \nDeutsche Fassung eines Salzburger Ritualbuchs; die nur für den Priester bestimmten Teile sind größtenteils nicht übersetzt. \nDer volle Name des als 'Philipp V.' bezeichneten Übersetzers oder Abschreibers konnte vom Katalogbearbeiter nicht ermittelt werden. \nPhilipp V. war nach der Feststellung des Katalogbearbeiters kein Seitenstettner Mönch.",
+    "physical": "Papier \n384 Seiten \nGroßquart \ndescription: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-233",
+  "signature": "MN II 233",
+  "aliases": [
+    "Bibl. Cod. MN II 233"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "182–183",
+  "heading": {
+    "title": "Summulae seu brevis Manuductio ad Logicam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1708/09"
+  },
+  "date": {
+    "display": "1708/09",
+    "intervals": [
+      {
+        "from": 1708,
+        "to": 1709,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Summulae seu brevis Manuductio ad Logicam",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summulae seu brevis Manuductio ad Logicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. I, III, 1–196",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1708/09"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Hieronymus Pesneker",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Zisterzienserkloster Ossegg / Erzbischöfliches Seminar Prag",
+      "note": "Die von ihm und P. Joseph Malletz diktierten Abschnitte lassen sich nicht trennen."
+    },
+    {
+      "name": "P. Joseph Malletz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Zisterzienserkloster Ossegg / Erzbischöfliches Seminar Prag",
+      "note": "Die von ihm und P. Hieronymus Pesneker diktierten Abschnitte lassen sich nicht trennen."
+    },
+    {
+      "name": "Georg Wenceslaus Wiedon",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Erzbischöfliches Seminar Prag"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 210 pagg.",
+    "format": "",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1708/09",
+        "intervals": [
+          {
+            "from": 1708,
+            "to": 1709,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Erzbischöfliches Seminar Prag",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_inscription",
+      "locus": "Innenseite des Einbandes",
+      "text": "G. Wiedon"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 210 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1708/09.\n\n**Summulae oder kurze Einführung in die Logik**, die im erzbischöflichen Seminar in Prag von den ehrwürdigen und gelehrten Professoren P. Hieronymus Pesneker und P. Joseph Malletz, Zisterziensern und Professen des Klosters Ossegg, vorgetragen und von ihrem Schüler und Hörer Georg Wenceslaus Wiedon am 6. Dezember 1708 und 1709 aufgezeichnet wurden: S. I, III, 1–196.\n\nAnfang der Vorrede S. III: Philosophie, was nichts anderes ist als Liebe und Streben nach Weisheit,......\n\nWelche Teile dieser Abhandlung P. Hieronymus Pesneker und welche P. Joseph Malletz diktierten, konnte der Katalogbearbeiter nicht unterscheiden. Beide waren Mönche des Klosters Ossegg, heute Osek in Böhmen.\n\nDer Name des Schreibers **G. Wiedon** ist auch auf der Innenseite des Einbandes eingeprägt.",
+    "germanHtml": "<p>III + 210 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben 1708/09.</p>\n<p><strong>Summulae oder kurze Einführung in die Logik</strong>, die im erzbischöflichen Seminar in Prag von den ehrwürdigen und gelehrten Professoren P. Hieronymus Pesneker und P. Joseph Malletz, Zisterziensern und Professen des Klosters Ossegg, vorgetragen und von ihrem Schüler und Hörer Georg Wenceslaus Wiedon am 6. Dezember 1708 und 1709 aufgezeichnet wurden: S. I, III, 1–196.</p>\n<p>Anfang der Vorrede S. III: Philosophie, was nichts anderes ist als Liebe und Streben nach Weisheit,......</p>\n<p>Welche Teile dieser Abhandlung P. Hieronymus Pesneker und welche P. Joseph Malletz diktierten, konnte der Katalogbearbeiter nicht unterscheiden. Beide waren Mönche des Klosters Ossegg, heute Osek in Böhmen.</p>\n<p>Der Name des Schreibers <strong>G. Wiedon</strong> ist auch auf der Innenseite des Einbandes eingeprägt.</p>",
+    "latin": "III + 210 pagg.; teg. b1; script. 1708/09\n\nSummulae seu brevis Manuductio ad Logicam Quas In Celeberrimo Archi-Episcopali Seminario Pragensi â Reverendis ac doctissimis Patribus Professoribus Hieronymo Pesneker: Et Josepho Malletz: Sacri ordinis Cisterciensis Ossecii Professis, Excepit eiusdem studii indignus discipulus et Auditor Dominus Georgius Wenceslaus Wiedon. Die 6 Decembris Annô 1708: et 1709: p. I et III, 1–196\n\nInitium Prooemii p. III: Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......\n\nQuae pars huius tractatus a P. Hieronymo Pesneker, quae a P. Josepho Malletz dictata sit, discernere non potui. Uterque est monachus monasterii Ossegg (hodie Osek) in Bohemia.\n\nNomen scriptoris G: Wiedon etiam parti adversae tegumenti impressum est.",
+    "latinHtml": "<p>III + 210 pagg.; teg. b1; script. 1708/09</p>\n<p>Summulae seu brevis Manuductio ad Logicam Quas In Celeberrimo Archi-Episcopali Seminario Pragensi â Reverendis ac doctissimis Patribus Professoribus Hieronymo Pesneker: Et Josepho Malletz: Sacri ordinis Cisterciensis Ossecii Professis, Excepit eiusdem studii indignus discipulus et Auditor Dominus Georgius Wenceslaus Wiedon. Die 6 Decembris Annô 1708: et 1709: p. I et III, 1–196</p>\n<p>Initium Prooemii p. III: Philosophiam, quod nihil aliud est, quam amor et studium sapientiae,......</p>\n<p>Quae pars huius tractatus a P. Hieronymo Pesneker, quae a P. Josepho Malletz dictata sit, discernere non potui. Uterque est monachus monasterii Ossegg (hodie Osek) in Bohemia.</p>\n<p>Nomen scriptoris G: Wiedon etiam parti adversae tegumenti impressum est.</p>"
+  },
+  "source": {
+    "file": "MN II 233.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-233/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 233",
+    "titles": "Summulae seu brevis Manuductio ad Logicam \nSummulae seu brevis Manuductio ad Logicam",
+    "persons": "P. Hieronymus Pesneker Dozent lecturer \nP. Joseph Malletz Dozent lecturer \nGeorg Wenceslaus Wiedon Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIII + 210 pagg. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+  }
+}

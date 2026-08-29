@@ -1,0 +1,104 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-3",
+  "signature": "MN I 3",
+  "aliases": [
+    "Bibl. Cod. MN I 3"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "41",
+  "heading": {
+    "title": "Fortsetzung des vorhergehenden Codex",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": ""
+  },
+  "date": {},
+  "contentsOverview": {},
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Fortsetzung des vorhergehenden Codex",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "de",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "contents_note",
+          "text": "Fortsetzung von MN I 2: alphabetisch geordnete Einträge der Buchstaben M–Z sowie Register."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "S. 753–1419 + 52 Seiten Register (= 718 Seiten)",
+    "format": "Folio",
+    "binding": {},
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {},
+  "additions": [],
+  "editorialNotes": [
+    "Die Umfangsangabe des Katalogs wird unverändert übernommen. Die Seiten 753–1419 ergeben bei inklusiver Zählung 667 Seiten; zusammen mit 52 Seiten Register wären dies 719 Seiten, während der Katalog ausdrücklich 718 Seiten angibt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": [
+      {
+        "type": "metadata_reference",
+        "target": "[[MN I 2]]",
+        "note": "Der Katalog verweist für die übrigen Angaben auf den vorhergehenden Codex: 'Cetera vide supra!'"
+      }
+    ],
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; S. 753–1419 + 52 Seiten Register (= 718 Seiten).\n\n(Fortsetzung des vorhergehenden Codex: Buchstaben M–Z und Register.)\n\nDas Übrige siehe oben!",
+    "germanHtml": "<p>Folioformat; S. 753–1419 + 52 Seiten Register (= 718 Seiten).</p>\n<p>(Fortsetzung des vorhergehenden Codex: Buchstaben M–Z und Register.)</p>\n<p>Das Übrige siehe oben!</p>",
+    "latin": "fol.; pag. 753–1419 + 52 pagg. Index (=718 pagg.)\n\n(Continuatio codicis praecedentis: Litterae M–Z et Index.)\n\nCetera vide supra!",
+    "latinHtml": "<p>fol.; pag. 753–1419 + 52 pagg. Index (=718 pagg.)</p>\n<p>(Continuatio codicis praecedentis: Litterae M–Z et Index.)</p>\n<p>Cetera vide supra!</p>"
+  },
+  "source": {
+    "file": "MN I 3.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-3/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN I 2]]",
+      "targetId": "mn-i-2",
+      "targetSignature": "MN I 2",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Fortsetzung der alphabetischen Ordnung des vorhergehenden Codex."
+    }
+  ],
+  "search": {
+    "signature": "MN I 3",
+    "titles": "Fortsetzung des vorhergehenden Codex \nFortsetzung des vorhergehenden Codex",
+    "persons": "",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Fortsetzung von MN I 2: alphabetisch geordnete Einträge der Buchstaben M–Z sowie Register. \nDie Umfangsangabe des Katalogs wird unverändert übernommen. Die Seiten 753–1419 ergeben bei inklusiver Zählung 667 Seiten; zusammen mit 52 Seiten Register wären dies 719 Seiten, während der Katalog ausdrücklich 718 Seiten angibt.",
+    "physical": "Papier \nS. 753–1419 + 52 Seiten Register (= 718 Seiten) \nFolio"
+  }
+}

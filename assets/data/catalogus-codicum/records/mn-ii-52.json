@@ -1,0 +1,210 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-52",
+  "signature": "MN II 52",
+  "aliases": [
+    "Bibl. Cod. MN II 52"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "33–34",
+  "heading": {
+    "title": "De Augustissimo Incarnati Verbi Mysterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1652/53"
+  },
+  "date": {
+    "display": "1652/53",
+    "intervals": [
+      {
+        "from": 1652,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Theologische Vorlesungen über Inkarnation, Engel und das letzte Ziel des Menschen.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De Augustissimo Incarnati Verbi Mysterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–318",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 321–394",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De Ultimo Fine hominis et eius Actibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 395–583",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Index rerum alphabeticus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 584–588",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Hoffer",
+      "roleRaw": "lecturers",
+      "roleLabel": "lecturers",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Philipp Miller",
+      "roleRaw": "lecturers",
+      "roleLabel": "lecturers",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Nicolaus Avancinus",
+      "roleRaw": "lecturers",
+      "roleLabel": "lecturers",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "588 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Pergamentumschlag aus einem handschriftlich beschriebenen Blatt des 15. Jahrhunderts mit Speisesegnungen.",
+      "certainty": "",
+      "note": "Der Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1652/53",
+        "intervals": [
+          {
+            "from": 1652,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "588 Seiten; bedeckt von einem im 15. Jahrhundert beschriebenen Pergamentblatt mit Speisesegnungen; geschrieben 1652/53.\n\na) **Abhandlung über das erhabenste Geheimnis des fleischgewordenen Wortes, unter dem ehrwürdigen P. Paulus Hoffer, Doktor der heiligen Theologie und ordentlichem Primariusprofessor, am 5. November 1652:** S. 3–318. Anfang: **Darüber handelt der hl. Thomas im dritten Teil, Frage 1, Artikel 1....** Schluss: **1653, Ende. Unter dem ehrwürdigen P. Philipp Miller, Doktor der heiligen Theologie und Sekundariusprofessor an der Universität Wien sowie Beichtvater des durchlauchtigsten Erzherzogs Leopold Ignatius [gestrichen], des jüngeren Sohnes Kaiser Ferdinands III. [korrigiert: II.].** Darauf folgt ein Nachtrag: **Nun im Tod schlafend; Nachfolger des unbesiegtesten Vaters ist der unbesiegteste Sohn Leopold I., 1659.** 208 Lektionen.\n\nb) **Abhandlung über die Engel:** S. 321–394. Anfang: **Was der hl. Thomas von Frage 44 bis 49....** Schluss: **Wir beendeten am 13. Januar 1653 unter dem ehrwürdigen P. Nicolaus Avancinus, Doktor der heiligen Theologie und ordentlichem Sekundariusprofessor, in der Oktav der Erscheinung des Herrn....**\n\nc) **Zur Prima Secundae des hl. Thomas von Aquin: Über das letzte Ziel des Menschen und seine Handlungen:** S. 395–583. Anfang: **Sehr vieles, was das letzte Ziel des Menschen betrifft....** Schluss: **P. Nicolaus Avancinus, Doktor der heiligen Theologie, ordentlicher Primariusprofessor an der Universität Wien und Generalpräfekt der Studien an derselben Universität. 6. September 1653.**\n\nd) **Alphabetisches Sachregister:** S. 584–588.",
+    "germanHtml": "<p>588 Seiten; bedeckt von einem im 15. Jahrhundert beschriebenen Pergamentblatt mit Speisesegnungen; geschrieben 1652/53.</p>\n<p>a) <strong>Abhandlung über das erhabenste Geheimnis des fleischgewordenen Wortes, unter dem ehrwürdigen P. Paulus Hoffer, Doktor der heiligen Theologie und ordentlichem Primariusprofessor, am 5. November 1652:</strong> S. 3–318. Anfang: <strong>Darüber handelt der hl. Thomas im dritten Teil, Frage 1, Artikel 1....</strong> Schluss: <strong>1653, Ende. Unter dem ehrwürdigen P. Philipp Miller, Doktor der heiligen Theologie und Sekundariusprofessor an der Universität Wien sowie Beichtvater des durchlauchtigsten Erzherzogs Leopold Ignatius [gestrichen], des jüngeren Sohnes Kaiser Ferdinands III. [korrigiert: II.].</strong> Darauf folgt ein Nachtrag: <strong>Nun im Tod schlafend; Nachfolger des unbesiegtesten Vaters ist der unbesiegteste Sohn Leopold I., 1659.</strong> 208 Lektionen.</p>\n<p>b) <strong>Abhandlung über die Engel:</strong> S. 321–394. Anfang: <strong>Was der hl. Thomas von Frage 44 bis 49....</strong> Schluss: <strong>Wir beendeten am 13. Januar 1653 unter dem ehrwürdigen P. Nicolaus Avancinus, Doktor der heiligen Theologie und ordentlichem Sekundariusprofessor, in der Oktav der Erscheinung des Herrn....</strong></p>\n<p>c) <strong>Zur Prima Secundae des hl. Thomas von Aquin: Über das letzte Ziel des Menschen und seine Handlungen:</strong> S. 395–583. Anfang: <strong>Sehr vieles, was das letzte Ziel des Menschen betrifft....</strong> Schluss: <strong>P. Nicolaus Avancinus, Doktor der heiligen Theologie, ordentlicher Primariusprofessor an der Universität Wien und Generalpräfekt der Studien an derselben Universität. 6. September 1653.</strong></p>\n<p>d) <strong>Alphabetisches Sachregister:</strong> S. 584–588.</p>",
+    "latin": "588 pagg.; tectae folio membranaceo saec. XV (benedictionibus esculentorum) inscripto; script. 1652/53\n\na) *Tractatus De Augustissimo Incarnati Verbi Mysterio .... Sub R. P. Paulo Hoffer S.S. Theologiae Doctore Professore Ordinario primario. die 5. Novembris Anno 1652:* p. 3 - 318. *Initium:* De hoc agit S. Thomas 3a parte quaestione 1 articulo 1.... *Clausula:* 1653, Finis. In R. P. Philippi Miller SS. Theologiae Doctoris eiusdemque in ... Universitate Viennensi Professoris secundarii, nec non Archiducis Serenissimi Leopoldi Confessarii Ignatij Leopoldi [deletum] Junioris Filii Imperatoris Ferdinandi Tertii [correctum:] Secundi. (Sequitur postscriptum: Nunc Dormientis in Morte Invictissimi Patris successor Filius Invictissimus Leopoldus Primus 1659). 208 lectiones.\n\nb) *Tractatus De Angelis:* p. 321 - 394; *initium:* quae Divus Thomas à quaestione 44 usque ad 49.... *Clausula:* Finivimus 13 Januarii Anno 1653 Sub Reverendo P. Nicolao Avancino SS. Theologiae Doctore et Professore Ordinario Secundario in Octava Epiphaniae Domini....\n\nc) *In Primam Secundae Divi Thomae Aquinatis De Ultimo Fine hominis et eius Actibus:* p. 395 - 583. *Initium:* Plurima, quae ad ultimum finem hominis spectant.... *Clausula:* R. P. Nicolai Avancini SS. Theologiae Doctoris, eiusdemque in .... Universitate Viennensi ordinarii primarii Professoris nec non in praefata Universitate Generalis studiorum Praefecti. 1.6.5.3. 6. Septembris.\n\nd) (Index rerum alphabeticus): p. 584 - 588",
+    "latinHtml": "<p>588 pagg.; tectae folio membranaceo saec. XV (benedictionibus esculentorum) inscripto; script. 1652/53</p>\n<p>a) <em>Tractatus De Augustissimo Incarnati Verbi Mysterio .... Sub R. P. Paulo Hoffer S.S. Theologiae Doctore Professore Ordinario primario. die 5. Novembris Anno 1652:</em> p. 3 - 318. <em>Initium:</em> De hoc agit S. Thomas 3a parte quaestione 1 articulo 1.... <em>Clausula:</em> 1653, Finis. In R. P. Philippi Miller SS. Theologiae Doctoris eiusdemque in ... Universitate Viennensi Professoris secundarii, nec non Archiducis Serenissimi Leopoldi Confessarii Ignatij Leopoldi [deletum] Junioris Filii Imperatoris Ferdinandi Tertii [correctum:] Secundi. (Sequitur postscriptum: Nunc Dormientis in Morte Invictissimi Patris successor Filius Invictissimus Leopoldus Primus 1659). 208 lectiones.</p>\n<p>b) <em>Tractatus De Angelis:</em> p. 321 - 394; <em>initium:</em> quae Divus Thomas à quaestione 44 usque ad 49.... <em>Clausula:</em> Finivimus 13 Januarii Anno 1653 Sub Reverendo P. Nicolao Avancino SS. Theologiae Doctore et Professore Ordinario Secundario in Octava Epiphaniae Domini....</p>\n<p>c) <em>In Primam Secundae Divi Thomae Aquinatis De Ultimo Fine hominis et eius Actibus:</em> p. 395 - 583. <em>Initium:</em> Plurima, quae ad ultimum finem hominis spectant.... <em>Clausula:</em> R. P. Nicolai Avancini SS. Theologiae Doctoris, eiusdemque in .... Universitate Viennensi ordinarii primarii Professoris nec non in praefata Universitate Generalis studiorum Praefecti. 1.6.5.3. 6. Septembris.</p>\n<p>d) (Index rerum alphabeticus): p. 584 - 588</p>"
+  },
+  "source": {
+    "file": "MN II 52.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-52/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 52",
+    "titles": "De Augustissimo Incarnati Verbi Mysterio \nDe Augustissimo Incarnati Verbi Mysterio \nDe Angelis \nDe Ultimo Fine hominis et eius Actibus \nIndex rerum alphabeticus",
+    "persons": "P. Paulus Hoffer lecturers lecturers \nP. Philipp Miller lecturers lecturers \nP. Nicolaus Avancinus lecturers lecturers \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Theologische Vorlesungen über Inkarnation, Engel und das letzte Ziel des Menschen.",
+    "physical": "Papier \n588 Seiten \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-3",
+  "signature": "MN II 3",
+  "aliases": [
+    "Bibl. Cod. MN II 3",
+    "Synopsis doctrinae Dialecticae Petri Fonsecae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "7",
+  "heading": {
+    "title": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est....",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1616 (Rückenaufschrift; offenbar nur Teil a)"
+  },
+  "date": {
+    "display": "1616 (Rückenaufschrift; offenbar nur Teil a)",
+    "intervals": [
+      {
+        "from": 1616,
+        "to": 1616,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Sammelhandschrift zur Logik: Fonseca-Synopsis, Fragen zum Organon und logische Thesen.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Quaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "(Theses ex universa Logica): 12 pagg. (= p. 417 - 429)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Theses ex universa Logica): 12 pagg. (= p. 417 - 429)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "mindestens zwei, unbekannt",
+      "roleRaw": "scribes",
+      "roleLabel": "scribes",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "435 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1616 (Rückenaufschrift; offenbar nur Teil a)",
+        "intervals": [
+          {
+            "from": 1616,
+            "to": 1616,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "64 + 371 = 435 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen. Rückenaufschrift: **Logica MS. ex Fonseca Anno 1616**; diese Aufschrift scheint jedoch nur zu Teil a) zu gehören.\n\n**a) Synopsis, in der die dialektische Lehre des Petrus Fonseca in die Ordnung des Aristoteles gebracht wird:** S. 5–58. (Pedro da Fonseca SJ, † 1599, veröffentlichte 1564 in Lissabon sein berühmtes Werk *Institutiones dialecticae*.) Anfang: **Erörtern ist nichts anderes als....**\n\n**b) Fragen zum Organon des Aristoteles:** 342 Seiten (= S. 65–407).\n\nAnfang der Vorrede S. (65): **Da es viele gegeben hat, die die Logik des Aristoteles....**\n\n**c) Thesen aus der gesamten Logik:** 12 Seiten (= S. 417–429).\n\nIch möchte annehmen, dass wenigstens Teil b) eine an der Universität Graz gehaltene Vorlesung ist (siehe den folgenden Codex MN II 4!); doch kenne ich weder den Verfasser noch den Schreiber – oder vielmehr die Schreiber, denn mindestens zwei Hände wird man wohl unterscheiden müssen.",
+    "germanHtml": "<p>64 + 371 = 435 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen. Rückenaufschrift: <strong>Logica MS. ex Fonseca Anno 1616</strong>; diese Aufschrift scheint jedoch nur zu Teil a) zu gehören.</p>\n<p><strong>a) Synopsis, in der die dialektische Lehre des Petrus Fonseca in die Ordnung des Aristoteles gebracht wird:</strong> S. 5–58. (Pedro da Fonseca SJ, † 1599, veröffentlichte 1564 in Lissabon sein berühmtes Werk <em>Institutiones dialecticae</em>.) Anfang: <strong>Erörtern ist nichts anderes als....</strong></p>\n<p><strong>b) Fragen zum Organon des Aristoteles:</strong> 342 Seiten (= S. 65–407).</p>\n<p>Anfang der Vorrede S. (65): <strong>Da es viele gegeben hat, die die Logik des Aristoteles....</strong></p>\n<p><strong>c) Thesen aus der gesamten Logik:</strong> 12 Seiten (= S. 417–429).</p>\n<p>Ich möchte annehmen, dass wenigstens Teil b) eine an der Universität Graz gehaltene Vorlesung ist (siehe den folgenden Codex MN II 4!); doch kenne ich weder den Verfasser noch den Schreiber – oder vielmehr die Schreiber, denn mindestens zwei Hände wird man wohl unterscheiden müssen.</p>",
+    "latin": "64 + 371 = 435 pagg.; teg. a1, a dorso: Logica MS. ex Fonseca Anno 1616; quae tamen inscriptio ad solam partem a) videtur pertinere\n\na) Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est....\n\nb) Quaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407)\n\nInitium Prooemii p. (65): Cum plures fuerint qui Logicam Aristotelis....\n\nc) (Theses ex universa Logica): 12 pagg. (= p. 417 - 429)\n\nCrediderim saltem partem b) lectionem in Universitate Gracensi traditam esse (Vide proximum codicem MN II 4!), sed neque auctorem scio neque scriptorem (vel potius scriptores, nam saltem duas manus vix non distinguas).",
+    "latinHtml": "<p>64 + 371 = 435 pagg.; teg. a1, a dorso: Logica MS. ex Fonseca Anno 1616; quae tamen inscriptio ad solam partem a) videtur pertinere</p>\n<p>a) Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est....</p>\n<p>b) Quaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407)</p>\n<p>Initium Prooemii p. (65): Cum plures fuerint qui Logicam Aristotelis....</p>\n<p>c) (Theses ex universa Logica): 12 pagg. (= p. 417 - 429)</p>\n<p>Crediderim saltem partem b) lectionem in Universitate Gracensi traditam esse (Vide proximum codicem MN II 4!), sed neque auctorem scio neque scriptorem (vel potius scriptores, nam saltem duas manus vix non distinguas).</p>"
+  },
+  "source": {
+    "file": "MN II 3.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-3/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 3",
+    "titles": "Synopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est.... \nSynopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est.... \nQuaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407) \n(Theses ex universa Logica): 12 pagg. (= p. 417 - 429)",
+    "persons": "unbekannt Autor author \nmindestens zwei, unbekannt scribes scribes",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Sammelhandschrift zur Logik: Fonseca-Synopsis, Fragen zum Organon und logische Thesen. \nSynopsis in qua doctrina Dialectica Petri Fonsecae ad ordinem Aristotelicum revocatur: p. 5 - 58. (Pedro da Fonseca SJ, + 1599, anno 1564 Ulissipone celeberrimum opus: \"Institutiones dialecticae\" edidit). Initium: Disserere nihil aliud est.... \nQuaestiones in Organum Aristotelis: 342 pagg. (= p. 65 - 407) \n(Theses ex universa Logica): 12 pagg. (= p. 417 - 429)",
+    "physical": "Papier \n435 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

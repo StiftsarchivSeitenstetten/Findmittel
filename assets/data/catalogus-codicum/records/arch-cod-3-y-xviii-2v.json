@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-y-xviii-2v",
+  "signature": "Arch. Cod. 3 Y (XVIII 2v)",
+  "aliases": [
+    "Arch. Cod. 3 Y (XVIII 2v)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "270–271",
+  "heading": {
+    "title": "Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1794/7"
+  },
+  "date": {
+    "display": "1794/7",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tomus I",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "352 Seiten",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit einem zusätzlich eingebundenen, nicht mit dem Band verbundenen Werkchen desselben Verfassers."
+        }
+      ],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1794"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tomus II",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "366 Seiten",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1795"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tomus III",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "446 Seiten",
+      "language": "",
+      "incipit": null,
+      "explicit": {
+        "text": "Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten."
+      },
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit genealogischen Tabellen."
+        }
+      ],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1797"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tomus IV",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "192 Seiten",
+      "language": "",
+      "incipit": null,
+      "explicit": {
+        "text": "P. Joseph Schaukegl 3 Decembris 1797."
+      },
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1797"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Josephus Schaukegl",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "4°",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Einbandbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1794/7",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; moderner Einband, Vorder- und Rückdeckel braun, Rücken weiß; geschrieben 1794–1797.\n\n**Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797.**\n\nVier Bände:\n\n- **Band I:** 1794, 352 Seiten; darin zusätzlich ein anderes kleines Werk desselben Verfassers.\n- **Band II:** 1795, 366 Seiten.\n- **Band III:** 1797, 446 Seiten, mit genealogischen Tabellen.\n- **Band IV:** 192 Seiten.\n\nSchluss Band III S. 444: **Den 14ten Junii 1797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten.**\n\nSchluss Band IV: **P. Joseph Schaukegl, 3. Dezember 1797.**",
+    "germanHtml": "<p>Quartformat; moderner Einband, Vorder- und Rückdeckel braun, Rücken weiß; geschrieben 1794–1797.</p>\n<p><strong>Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797.</strong></p>\n<p>Vier Bände:</p>\n<ul><li><strong>Band I:</strong> 1794, 352 Seiten; darin zusätzlich ein anderes kleines Werk desselben Verfassers.</li><li><strong>Band II:</strong> 1795, 366 Seiten.</li><li><strong>Band III:</strong> 1797, 446 Seiten, mit genealogischen Tabellen.</li><li><strong>Band IV:</strong> 192 Seiten.</li></ul>\n<p>Schluss Band III S. 444: <strong>Den 14ten Junii 1797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten.</strong></p>\n<p>Schluss Band IV: <strong>P. Joseph Schaukegl, 3. Dezember 1797.</strong></p>",
+    "latin": "4°; tegumentum modernum, cuius partes adversa et aversa fusci coloris, cuius dorsum albi coloris est (c2d); script. 1794/7\n\n**Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797. Quattuor Tomi:**\n\n**Tomus I:** 1794, 352 pagg. (insuper insertum est huic tomo aliud opusculum eiusdem auctoris, non tamen cum ipso tomo conclusum)\n\n**Tomus II:** 1795, 366 pagg.\n\n**Tomus III:** 1797, 446 pagg.; quibus tabulae genealogicae accedunt.\n\n**Clausula p. 444:** Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten.\n\n**Tomus IV:** 192 pagg.; **Clausula:** P. Joseph Schaukegl 3 Decembris 1797.",
+    "latinHtml": "<p>4°; tegumentum modernum, cuius partes adversa et aversa fusci coloris, cuius dorsum albi coloris est (c2d); script. 1794/7</p>\n<p><strong>Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797. Quattuor Tomi:</strong></p>\n<p><strong>Tomus I:</strong> 1794, 352 pagg. (insuper insertum est huic tomo aliud opusculum eiusdem auctoris, non tamen cum ipso tomo conclusum)</p>\n<p><strong>Tomus II:</strong> 1795, 366 pagg.</p>\n<p><strong>Tomus III:</strong> 1797, 446 pagg.; quibus tabulae genealogicae accedunt.</p>\n<p><strong>Clausula p. 444:</strong> Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten.</p>\n<p><strong>Tomus IV:</strong> 192 pagg.; <strong>Clausula:</strong> P. Joseph Schaukegl 3 Decembris 1797.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 Y (XVIII 2v).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-y-xviii-2v/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 3 Y (XVIII 2v)",
+    "titles": "Historisch-Critisches Liechtlein zu klarerer Kenntniss der Geschichte des uralten Königreichs Noricum und der an selben einst ost- und westwarts gelegenen Provinzen Pannonien und Vindelicien, oder der heutigen Länder Österreich, Steyrmark, Kärnten, Krain und Tyrol und selbe ost- und westwärts angrenzende Länder Baierns und Hungarns. Mit vieler Mühe zubereitet und angezunden Von P. Joseph Schaukegl, Benedictiner der Abbtey Seitenstetten 1797. \nTomus I \nTomus II \nTomus III \nTomus IV",
+    "persons": "P. Josephus Schaukegl Autor author \nP. Josephus Schaukegl Schreiber scribe",
+    "incipits": "",
+    "explicits": "Den 14ten Junii (1)797 habe diese fünfte Abtheilung eigenhändig vollendet und geschrieben in meinen 76ten Jahr des Alters P. Joseph Schaukegl Benedictiner von Seitenstetten. \nP. Joseph Schaukegl 3 Decembris 1797.",
+    "notes": "Mit einem zusätzlich eingebundenen, nicht mit dem Band verbundenen Werkchen desselben Verfassers. \nMit genealogischen Tabellen.",
+    "physical": "Papier \n4° \nQuartformat \ndescription: Einbandbeschreibung siehe Katalogtext."
+  }
+}

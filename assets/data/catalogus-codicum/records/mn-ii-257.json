@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-257",
+  "signature": "MN II 257",
+  "aliases": [
+    "Bibl. Cod. MN II 257"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "195–196",
+  "heading": {
+    "title": "Tractatus De Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1716"
+  },
+  "date": {
+    "display": "1716",
+    "intervals": [
+      {
+        "from": 1716,
+        "to": 1716,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–73v",
+      "language": "",
+      "incipit": {
+        "text": "Postquam Deum unum Trinum et eius ad intra processiones"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "21. Februar 1716"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–81r (= fol. 75r–155r)",
+      "language": "",
+      "incipit": {
+        "text": "Consideravimus hactenus cum S. Doctore Deum"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "25. (?) Juli 1716"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus. De Conscientia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–17r (= fol. 156r–172r)",
+      "language": "",
+      "incipit": {
+        "text": "Post explicatos Actus humanos tam in genere, quam in specie"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "29. August 1716"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 252–256."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "74 + 81 + 18 = 173 foll.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1716",
+        "intervals": [
+          {
+            "from": 1716,
+            "to": 1716,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_note",
+      "description": "Zettel mit Gebetsformel für die Aufnahme in einen Ritterorden; vom Katalogbearbeiter vor der Abhandlung über das Gewissen befestigt."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "74 + 81 + 18 = 173 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1716.\n\na) **Abhandlung über die Engel:** fol. 1r–73v. Anfang der Vorrede: Nachdem wir den einen und dreieinigen Gott und seine inneren Hervorgänge..... Schluss: **Im Jahr 1716, am 21. Februar.**\n\nb) **Abhandlung über die menschlichen Handlungen:** fol. 1r–81r (= fol. 75r–155r). Anfang der Vorrede: Bisher haben wir mit dem heiligen Lehrer Gott betrachtet,....... Schluss: **Am 25. (?) Juli 1716.**\n\nc) **Abhandlung über das Gewissen:** fol. 1r–17r (= fol. 156r–172r). Anfang des Prologs: Nachdem die menschlichen Handlungen sowohl im Allgemeinen als auch im Einzelnen erklärt worden sind,....... Schluss: **Im Jahr 1716, am 29. August.**\n\nDer Schreiber ist trotz der Tatsache, dass er auch die fünf vorhergehenden Codices schrieb, unbekannt; ebenso der Verfasser.\n\nIm Codex fand sich ein Zettel mit einer Gebetsformel, die bei der Aufnahme in einen Ritterorden gesprochen werden sollte. Der Katalogbearbeiter befestigte diesen Zettel vor der Abhandlung über das Gewissen.",
+    "germanHtml": "<p>74 + 81 + 18 = 173 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1716.</p>\n<p>a) <strong>Abhandlung über die Engel:</strong> fol. 1r–73v. Anfang der Vorrede: Nachdem wir den einen und dreieinigen Gott und seine inneren Hervorgänge..... Schluss: <strong>Im Jahr 1716, am 21. Februar.</strong></p>\n<p>b) <strong>Abhandlung über die menschlichen Handlungen:</strong> fol. 1r–81r (= fol. 75r–155r). Anfang der Vorrede: Bisher haben wir mit dem heiligen Lehrer Gott betrachtet,....... Schluss: <strong>Am 25. (?) Juli 1716.</strong></p>\n<p>c) <strong>Abhandlung über das Gewissen:</strong> fol. 1r–17r (= fol. 156r–172r). Anfang des Prologs: Nachdem die menschlichen Handlungen sowohl im Allgemeinen als auch im Einzelnen erklärt worden sind,....... Schluss: <strong>Im Jahr 1716, am 29. August.</strong></p>\n<p>Der Schreiber ist trotz der Tatsache, dass er auch die fünf vorhergehenden Codices schrieb, unbekannt; ebenso der Verfasser.</p>\n<p>Im Codex fand sich ein Zettel mit einer Gebetsformel, die bei der Aufnahme in einen Ritterorden gesprochen werden sollte. Der Katalogbearbeiter befestigte diesen Zettel vor der Abhandlung über das Gewissen.</p>",
+    "latin": "74 + 81 + 18 = 173 foll.; teg. c3d; script. 1716\n\na) Tractatus De Angelis: fol. 1r–73v.  \nInitium Proemii: Postquam Deum unum Trinum et eius ad intra processiones......  \nClausula: Anno 1716. Die 21. Februarii\n\nb) Tractatus De Actibus humanis: fol. 1r–81r (= 75r–155r).  \nInitium Proemii: Consideravimus hactenus cum S. Doctore Deum, .......  \nClausula: Die 25 (?) Julii: Anno 1716.\n\nc) Tractatus. De Conscientia: fol. 1r–17r (= 156r–172r).  \nInitium Proloquii: Post explicatos Actus humanos tam in genere, quam in specie,.......  \nClausula: Anno 1716. Die 29. Augusti:\n\nScriptor noster, etsi quinque codices praecedentes exaravit, tamen ignotus est; item auctor noster.\n\nIn codice nostro inventa est schedula, in qua notata est formula orationis dicendae, cum quis in quendam ordinem equitum suscipiebatur. quam schedulam affixi ante tractatum de conscientia.",
+    "latinHtml": "<p>74 + 81 + 18 = 173 foll.; teg. c3d; script. 1716</p>\n<p>a) Tractatus De Angelis: fol. 1r–73v. Initium Proemii: Postquam Deum unum Trinum et eius ad intra processiones...... Clausula: Anno 1716. Die 21. Februarii</p>\n<p>b) Tractatus De Actibus humanis: fol. 1r–81r (= 75r–155r). Initium Proemii: Consideravimus hactenus cum S. Doctore Deum, ....... Clausula: Die 25 (?) Julii: Anno 1716.</p>\n<p>c) Tractatus. De Conscientia: fol. 1r–17r (= 156r–172r). Initium Proloquii: Post explicatos Actus humanos tam in genere, quam in specie,....... Clausula: Anno 1716. Die 29. Augusti:</p>\n<p>Scriptor noster, etsi quinque codices praecedentes exaravit, tamen ignotus est; item auctor noster.</p>\n<p>In codice nostro inventa est schedula, in qua notata est formula orationis dicendae, cum quis in quendam ordinem equitum suscipiebatur. quam schedulam affixi ante tractatum de conscientia.</p>"
+  },
+  "source": {
+    "file": "MN II 257.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-257/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 257",
+    "titles": "Tractatus De Angelis \nTractatus De Angelis \nTractatus De Actibus humanis \nTractatus. De Conscientia",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Postquam Deum unum Trinum et eius ad intra processiones \nConsideravimus hactenus cum S. Doctore Deum \nPost explicatos Actus humanos tam in genere, quam in specie",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n74 + 81 + 18 = 173 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

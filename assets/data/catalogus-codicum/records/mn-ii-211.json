@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-211",
+  "signature": "MN II 211",
+  "aliases": [
+    "Bibl. Cod. MN II 211"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "155",
+  "heading": {
+    "title": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1695/96 (?)"
+  },
+  "date": {
+    "display": "1695/96 (?)",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–220",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Behandelt werden die Fragen 50–64 und 106–115."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Quartus In primam secundae Summae Angelicae De Actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 220–504",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Carolus Schrenk",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Peter in Salzburg / Universität Salzburg",
+      "certainty": "probable",
+      "note": "Die Zuschreibung beruht auf der Kursnummerierung und auf wörtlichen Übereinstimmungen mit einem 1697 unter seinem Vorsitz gedruckten Thesenwerk."
+    },
+    {
+      "name": "Fr. Udiscalcus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Er studierte in diesen Jahren Theologie in Salzburg und dürfte die Vorlesungen selbst mitgeschrieben haben."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "510 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1695/96 (?)",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_note",
+      "locus": "Innenseite des Vorderdeckels, unterer Rand",
+      "date": "1705",
+      "text": "P. V. H. 1705",
+      "expansion": "P. Udiscalcus Hueber",
+      "note": "Nach Deutung des Katalogbearbeiters ließ P. Udiscalcus Hueber den Codex 1705 einbinden."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "510 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; wahrscheinlich 1695/96 geschrieben.\n\na) **Dritte Abhandlung zum ersten Teil der Summa des hl. Thomas über Substanz, Eigenschaften, Wirkungen und Ursachen der Engel, von Frage 50–64 und 106–115:** S. 7–220. Anfang der Vorrede S. 7: Nachdem der hl. Thomas die Natur Gottes.....\n\nb) **Vierte Abhandlung zur Prima Secundae der engelgleichen Summa über die menschlichen Handlungen:** S. 220–504. Anfang der Vorrede S. 221: Nachdem der hl. Thomas im ersten Teil der theologischen Summa gehandelt hat.....\n\nNotiz am unteren Rand der Innenseite des Vorderdeckels: **P. V. H. 1705** = P. Udiscalcus Hueber ließ diesen Codex 1705 einbinden.\n\nAus der Nummerierung des theologischen Kurses von P. Carolus Schrenk, Profess von St. Peter in Salzburg, ergibt sich, dass diese Vorlesungen wahrscheinlich im Studienjahr 1695/96, jedenfalls spätestens 1696/97, gehalten wurden. Ein 1697 in Salzburg gedrucktes theologisches Thesenwerk unter dem Vorsitz P. Carolus Schrenks stimmt an zahlreichen Stellen wörtlich mit unserem Codex überein. Daher ist P. Carolus Schrenk sehr wahrscheinlich der Verfasser.\n\nFr. Udiscalcus Hueber hat die Vorlesungen wahrscheinlich selbst mitgeschrieben, da er zu dieser Zeit in Salzburg Theologie studierte.",
+    "germanHtml": "<p>510 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; wahrscheinlich 1695/96 geschrieben.</p>\n<p>a) <strong>Dritte Abhandlung zum ersten Teil der Summa des hl. Thomas über Substanz, Eigenschaften, Wirkungen und Ursachen der Engel, von Frage 50–64 und 106–115:</strong> S. 7–220. Anfang der Vorrede S. 7: Nachdem der hl. Thomas die Natur Gottes.....</p>\n<p>b) <strong>Vierte Abhandlung zur Prima Secundae der engelgleichen Summa über die menschlichen Handlungen:</strong> S. 220–504. Anfang der Vorrede S. 221: Nachdem der hl. Thomas im ersten Teil der theologischen Summa gehandelt hat.....</p>\n<p>Notiz am unteren Rand der Innenseite des Vorderdeckels: <strong>P. V. H. 1705</strong> = P. Udiscalcus Hueber ließ diesen Codex 1705 einbinden.</p>\n<p>Aus der Nummerierung des theologischen Kurses von P. Carolus Schrenk, Profess von St. Peter in Salzburg, ergibt sich, dass diese Vorlesungen wahrscheinlich im Studienjahr 1695/96, jedenfalls spätestens 1696/97, gehalten wurden. Ein 1697 in Salzburg gedrucktes theologisches Thesenwerk unter dem Vorsitz P. Carolus Schrenks stimmt an zahlreichen Stellen wörtlich mit unserem Codex überein. Daher ist P. Carolus Schrenk sehr wahrscheinlich der Verfasser.</p>\n<p>Fr. Udiscalcus Hueber hat die Vorlesungen wahrscheinlich selbst mitgeschrieben, da er zu dieser Zeit in Salzburg Theologie studierte.</p>",
+    "latin": "510 pagg.; teg. a1; script. 1695/96 (?)\n\na) Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum á Quaestione 50 usque 64. et á 106 usque 115: p. 7–220.  \nInitium Proemii p. 7: Postquam Divus Thomas Dei naturam......\n\nb) Tractatus Quartus In primam secundae summae angelicae de actibus humanis: p. 220–504.  \nInitium Proemii p. 221: Postquam Divus Thomas in I. parte Summae Theologicae egit......\n\nNota in margine inferiore tegumenti adversi ab intrinsecus: P. V. H. 1705 (= P. Udiscalcus Hueber anno 1705 hunc codicem tegumento muniendum curavit.) Iam in codicibus MN II 201 (supra p. 151), 34–7 (supra p. 152), MN II 204 (supra p. 153) vidimus Carolum Schrenk Professum ad S. Petrum Salisburgi ibidemque Professorem Theologiae numeravisse, quos tradidit, tractatus theologicos. Qua in serie tractatuum lectiones codicis nostri probabiliter anno scholari 1695/1696 dictatae sunt (si non hoc anno, at certe anno scholari 1696/97, uti ad codicem MN II 194, qui easdem lectiones continet, supra p. 144–145 monstravimus.) P. Carolum Schrenk auctorem codicis nostri esse vix negabis, si librum, cui inscriptio: Tractatus Theologicus De Creatura Angelica.... quem Praeside P. Carolo Schrenckii .... propugnabit F. Ambrosius Peyhl.... Gottwicensis, Salisburgi typis Joannis Baptistae Mayr editum anno 1697, comparaveris. Nam permulti huius libri loci cum codice nostro ad verbum congruunt.\n\nF. Udiscalcum Hueber vero ipsum scripsisse has lectiones etiam vix negabis, quia his annis Salisburgi studiis theologicis operam dedit.",
+    "latinHtml": "<p>510 pagg.; teg. a1; script. 1695/96 (?)</p>\n<p>a) Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum á Quaestione 50 usque 64. et á 106 usque 115: p. 7–220. Initium Proemii p. 7: Postquam Divus Thomas Dei naturam......</p>\n<p>b) Tractatus Quartus In primam secundae summae angelicae de actibus humanis: p. 220–504. Initium Proemii p. 221: Postquam Divus Thomas in I. parte Summae Theologicae egit......</p>\n<p>Nota in margine inferiore tegumenti adversi ab intrinsecus: P. V. H. 1705 (= P. Udiscalcus Hueber anno 1705 hunc codicem tegumento muniendum curavit.) Iam in codicibus MN II 201 (supra p. 151), 34–7 (supra p. 152), MN II 204 (supra p. 153) vidimus Carolum Schrenk Professum ad S. Petrum Salisburgi ibidemque Professorem Theologiae numeravisse, quos tradidit, tractatus theologicos. Qua in serie tractatuum lectiones codicis nostri probabiliter anno scholari 1695/1696 dictatae sunt (si non hoc anno, at certe anno scholari 1696/97, uti ad codicem MN II 194, qui easdem lectiones continet, supra p. 144–145 monstravimus.) P. Carolum Schrenk auctorem codicis nostri esse vix negabis, si librum, cui inscriptio: Tractatus Theologicus De Creatura Angelica.... quem Praeside P. Carolo Schrenckii .... propugnabit F. Ambrosius Peyhl.... Gottwicensis, Salisburgi typis Joannis Baptistae Mayr editum anno 1697, comparaveris. Nam permulti huius libri loci cum codice nostro ad verbum congruunt.</p>\n<p>F. Udiscalcum Hueber vero ipsum scripsisse has lectiones etiam vix negabis, quia his annis Salisburgi studiis theologicis operam dedit.</p>"
+  },
+  "source": {
+    "file": "MN II 211.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-211/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 194]]",
+      "targetId": "mn-ii-194",
+      "targetSignature": "MN II 194",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "[[MN II 207]]",
+      "targetId": "mn-ii-207",
+      "targetSignature": "MN II 207",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "[[MN II 208]]",
+      "targetId": "mn-ii-208",
+      "targetSignature": "MN II 208",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "[[MN II 201]]",
+      "targetId": "mn-ii-201",
+      "targetSignature": "MN II 201",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "[[MN II 204]]",
+      "targetId": "mn-ii-204",
+      "targetSignature": "MN II 204",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 211",
+    "titles": "Tractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nTractatus Tertius in primam partem Summae Divi Thomae de substantia, affectionibus, effectibus et causis Angelorum \nTractatus Quartus In primam secundae Summae Angelicae De Actibus humanis",
+    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Behandelt werden die Fragen 50–64 und 106–115.",
+    "physical": "Papier \n510 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

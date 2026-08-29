@@ -1,0 +1,245 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-82",
+  "signature": "MN II 82",
+  "aliases": [
+    "Bibl. Cod. MN II 82",
+    "MS. de anima et Metaphysica Reverendissimi Abelzhauser"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "52",
+  "heading": {
+    "title": "Disputationes in 3 Libros Aristotelis de anima",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1660"
+  },
+  "date": {
+    "display": "1660",
+    "intervals": [
+      {
+        "from": 1660,
+        "to": 1660,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputationes in 3 Libros Aristotelis de anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–406",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "In Metaphisicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 409–476",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Disputationes in quatuor Libros Meteorologicorum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 477–555",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Conclusiones Ex Universa Logica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 559–572",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Theses Physicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 575–654",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "658 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1660",
+        "intervals": [
+          {
+            "from": 1660,
+            "to": 1660,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "MS. de anima et Metaphysica Reverendissimi Abelzhauser Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "658 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1660.\n\na) **Disputationen zu den drei Büchern des Aristoteles Über die Seele:** S. 5–406. Anfang S. 5: **Nun liegt der würdigste Teil der Philosophie vor uns......** Schluss S. 406: **Wir beendeten unsere Naturphilosophie am 21. August....**\n\nb) **Über die Metaphysik:** S. 409–476. Anfang der Vorrede S. 409: **Endlich nehmen wir die Krönung der Philosophie ...(?)... in Angriff....**\n\nc) **Disputationen zu den vier Büchern der Meteorologie des Aristoteles:** S. 477–555. Anfang S. 477: **Diese Bücher tragen den Titel „Meteorologica“....**\n\nd) **Schlussfolgerungen aus der gesamten Logik:** S. 559–572. Dieselben 19 Schlussfolgerungen fanden wir bereits in Teil b des Codex MN II 74 (oben S. 49).\n\ne) **Physikalische Thesen:** S. 575–654 (62 Propositionen).\n\nAuf dem Rücken sind Titel und Schreiber vermerkt: **Handschrift Über die Seele und Metaphysik des hochwürdigsten Abelzhauser aus Seitenstetten** (zu ihm oben S. 51 bei Codex MN II 80). In welchem Jahr unser Codex geschrieben wurde, habe ich nirgends gefunden; da er jedoch sicher Codex MN II 81 fortsetzt, wurde er ohne Zweifel im Jahr 1660 geschrieben. Der Verfasser ist unbekannt.",
+    "germanHtml": "<p>658 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 80; geschrieben 1660.</p>\n<p>a) <strong>Disputationen zu den drei Büchern des Aristoteles Über die Seele:</strong> S. 5–406. Anfang S. 5: <strong>Nun liegt der würdigste Teil der Philosophie vor uns......</strong> Schluss S. 406: <strong>Wir beendeten unsere Naturphilosophie am 21. August....</strong></p>\n<p>b) <strong>Über die Metaphysik:</strong> S. 409–476. Anfang der Vorrede S. 409: <strong>Endlich nehmen wir die Krönung der Philosophie ...(?)... in Angriff....</strong></p>\n<p>c) <strong>Disputationen zu den vier Büchern der Meteorologie des Aristoteles:</strong> S. 477–555. Anfang S. 477: <strong>Diese Bücher tragen den Titel „Meteorologica“....</strong></p>\n<p>d) <strong>Schlussfolgerungen aus der gesamten Logik:</strong> S. 559–572. Dieselben 19 Schlussfolgerungen fanden wir bereits in Teil b des Codex MN II 74 (oben S. 49).</p>\n<p>e) <strong>Physikalische Thesen:</strong> S. 575–654 (62 Propositionen).</p>\n<p>Auf dem Rücken sind Titel und Schreiber vermerkt: <strong>Handschrift Über die Seele und Metaphysik des hochwürdigsten Abelzhauser aus Seitenstetten</strong> (zu ihm oben S. 51 bei Codex MN II 80). In welchem Jahr unser Codex geschrieben wurde, habe ich nirgends gefunden; da er jedoch sicher Codex MN II 81 fortsetzt, wurde er ohne Zweifel im Jahr 1660 geschrieben. Der Verfasser ist unbekannt.</p>",
+    "latin": "658 pagg.; teg. a2 (ut in cod. MN II 80); script. 1660\n\na) Disputationes in 3 Libros Aristotelis de anima: p. 5–406. Initium p. 5: Dignissima iam nobis Philosophiae pars...... Clausula p. 406: Absolvimus naturalem Philosophiam nostram 21. Augusti....\n\nb) In Metaphisicam: p. 409–476. Initium Prooemii p. 409: Coronidem tandem philosophiae ...(?)... aggredimur....\n\nc) Disputationes in quatuor Libros Meteorologicorum Aristotelis: p. 477–555. Initium p. 477: Inscribuntur hi Libri Meteorologici....\n\nd) Conclusiones Ex Universa Logica: p. 559–572. Easdem 19 conclusiones iam invenimus in parte b codicis MN II 74 (supra p. 49).\n\ne) Theses Physicae: p. 575–654 (62 Propositiones).\n\nIn dorso notantur titulus et scriptor: MS. de anima et Metaphysica Reverendissimi Abelzhauser Seittenstettensis (de quo supra p. 51 ad codicem MN II 80!). Quo anno codex noster exaratus sit, nusquam inveni, sed quia profecto codicem MN II 81 continuat, sine dubio anno 1660 scriptus est. Auctor ignotus.",
+    "latinHtml": "<p>658 pagg.; teg. a2 (ut in cod. MN II 80); script. 1660</p>\n<p>a) Disputationes in 3 Libros Aristotelis de anima: p. 5–406. Initium p. 5: Dignissima iam nobis Philosophiae pars...... Clausula p. 406: Absolvimus naturalem Philosophiam nostram 21. Augusti....</p>\n<p>b) In Metaphisicam: p. 409–476. Initium Prooemii p. 409: Coronidem tandem philosophiae ...(?)... aggredimur....</p>\n<p>c) Disputationes in quatuor Libros Meteorologicorum Aristotelis: p. 477–555. Initium p. 477: Inscribuntur hi Libri Meteorologici....</p>\n<p>d) Conclusiones Ex Universa Logica: p. 559–572. Easdem 19 conclusiones iam invenimus in parte b codicis MN II 74 (supra p. 49).</p>\n<p>e) Theses Physicae: p. 575–654 (62 Propositiones).</p>\n<p>In dorso notantur titulus et scriptor: MS. de anima et Metaphysica Reverendissimi Abelzhauser Seittenstettensis (de quo supra p. 51 ad codicem MN II 80!). Quo anno codex noster exaratus sit, nusquam inveni, sed quia profecto codicem MN II 81 continuat, sine dubio anno 1660 scriptus est. Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 82.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-82/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 81]]",
+      "targetId": "mn-ii-81",
+      "targetSignature": "MN II 81",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 74]]",
+      "targetId": "mn-ii-74",
+      "targetSignature": "MN II 74",
+      "appliesTo": [
+        "Conclusiones Ex Universa Logica"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 82",
+    "titles": "Disputationes in 3 Libros Aristotelis de anima \nDisputationes in 3 Libros Aristotelis de anima \nIn Metaphisicam \nDisputationes in quatuor Libros Meteorologicorum Aristotelis \nConclusiones Ex Universa Logica \nTheses Physicae",
+    "persons": "Benedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n658 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 80."
+  }
+}

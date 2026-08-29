@@ -1,0 +1,144 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-227",
+  "signature": "MN II 227",
+  "aliases": [
+    "Bibl. Cod. MN II 227"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "176–177",
+  "heading": {
+    "title": "Tractatus de Angelis et De actibus humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1705 (?)"
+  },
+  "date": {
+    "display": "ca. 1705 (?)",
+    "intervals": [
+      {
+        "from": 1700,
+        "to": 1705,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus de Angelis et De actibus humanis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "Die im überlieferten Titel angekündigte Abhandlung über die menschlichen Handlungen ist nicht enthalten und war offenbar nie Bestandteil des Codex.",
+    "completeness": "incomplete"
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Angelis et De actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–336",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "338 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1705 (?)",
+        "intervals": [
+          {
+            "from": 1700,
+            "to": 1705,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "338 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1705 (?).\n\n**Abhandlung über die Engel und über die menschlichen Handlungen:** S. 3–336.\n\nAnfang: Im vergangenen Jahr handelten wir von Gott in sich selbst und seinen inneren Handlungen.\n\nZu beachten ist, dass die im Titel angekündigte Abhandlung über die menschlichen Handlungen in unserem Codex nicht enthalten ist und offenbar auch nie enthalten war.\n\nVerfasser und Schreiber sind unbekannt. Aufgrund von Einbandform und Schriftcharakter vermutet der Katalogbearbeiter eine Entstehung um 1700 oder 1705.",
+    "germanHtml": "<p>338 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben um 1705 (?).</p>\n<p><strong>Abhandlung über die Engel und über die menschlichen Handlungen:</strong> S. 3–336.</p>\n<p>Anfang: Im vergangenen Jahr handelten wir von Gott in sich selbst und seinen inneren Handlungen.</p>\n<p>Zu beachten ist, dass die im Titel angekündigte Abhandlung über die menschlichen Handlungen in unserem Codex nicht enthalten ist und offenbar auch nie enthalten war.</p>\n<p>Verfasser und Schreiber sind unbekannt. Aufgrund von Einbandform und Schriftcharakter vermutet der Katalogbearbeiter eine Entstehung um 1700 oder 1705.</p>",
+    "latin": "338 pagg.; teg. a1; script. ca. 1705 (?)\n\nTractatus de Angelis et De actibus humanis: p. 3–336\n\nInitium: Egimus ante annum de Deo in se et actionibus eius ad intra.\n\nNota bene tractatum de actibus humanis in codice nostro, ut ab inscriptione indicatur, ita non inveniri neque umquam inventum esse.\n\nAuctorem et scriptorem me nescire concedo.\n\nPropter formam tegumenti et characterem scribendi opinor hunc codicem circa annum 1700 aut 1705 scriptum esse.",
+    "latinHtml": "<p>338 pagg.; teg. a1; script. ca. 1705 (?)</p>\n<p>Tractatus de Angelis et De actibus humanis: p. 3–336</p>\n<p>Initium: Egimus ante annum de Deo in se et actionibus eius ad intra.</p>\n<p>Nota bene tractatum de actibus humanis in codice nostro, ut ab inscriptione indicatur, ita non inveniri neque umquam inventum esse.</p>\n<p>Auctorem et scriptorem me nescire concedo.</p>\n<p>Propter formam tegumenti et characterem scribendi opinor hunc codicem circa annum 1700 aut 1705 scriptum esse.</p>"
+  },
+  "source": {
+    "file": "MN II 227.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-227/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 227",
+    "titles": "Tractatus de Angelis et De actibus humanis \nTractatus de Angelis et De actibus humanis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die im überlieferten Titel angekündigte Abhandlung über die menschlichen Handlungen ist nicht enthalten und war offenbar nie Bestandteil des Codex. \nincomplete",
+    "physical": "Papier \n338 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

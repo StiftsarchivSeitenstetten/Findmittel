@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-82",
+  "signature": "MN III 82",
+  "aliases": [
+    "Bibl. Cod. MN III 82"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "264",
+  "heading": {
+    "title": "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1790"
+  },
+  "date": {
+    "display": "um 1790",
+    "intervals": [
+      {
+        "from": 1790,
+        "to": 1790,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–186, 193–228",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die parenthetischen Buchstabenauflösungen stammen vom Katalogbearbeiter; der Titel als solcher ist überliefert."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 187–192",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter verwendete strukturelle Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Pappeinband mit Randverzierungen und rotem Lederrücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1790",
+        "intervals": [
+          {
+            "from": 1790,
+            "to": 1790,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "owner": "Leopold Rechberger",
+        "certainty": "possible"
+      },
+      {
+        "owner": "Kaj(e)tan Kock",
+        "certainty": "possible"
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 228 Seiten; Pappeinband mit Randverzierungen und rotem Lederrücken; geschrieben um 1790.\n\n**Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)**\n\nDas Register des deutschen Gebetbuches ist S. 187–192 zwischen Gebeten und geistlichen Liedern eingefügt.\n\nWeder Verfasser noch Schreiber sind bekannt. Aufgrund der Schrift dürfte das Büchlein kaum wesentlich vor 1790 entstanden sein.\n\nDie Überschriften der einzelnen Teile sind in mehreren Farben verziert.\n\nVor dem Titelblatt ist ein Bild des Samuel eingefügt, den Gott zum Propheten beruft.\n\nAuf einem Vorsatzblatt stehen die Namen **Leopold Rechberger** – zweimal – und **Kaj(e)tan Kock**. Vielleicht handelt es sich um Besitzvermerke.",
+    "germanHtml": "<p>Oktavformat; 228 Seiten; Pappeinband mit Randverzierungen und rotem Lederrücken; geschrieben um 1790.</p>\n<p><strong>Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)</strong></p>\n<p>Das Register des deutschen Gebetbuches ist S. 187–192 zwischen Gebeten und geistlichen Liedern eingefügt.</p>\n<p>Weder Verfasser noch Schreiber sind bekannt. Aufgrund der Schrift dürfte das Büchlein kaum wesentlich vor 1790 entstanden sein.</p>\n<p>Die Überschriften der einzelnen Teile sind in mehreren Farben verziert.</p>\n<p>Vor dem Titelblatt ist ein Bild des Samuel eingefügt, den Gott zum Propheten beruft.</p>\n<p>Auf einem Vorsatzblatt stehen die Namen <strong>Leopold Rechberger</strong> – zweimal – und <strong>Kaj(e)tan Kock</strong>. Vielleicht handelt es sich um Besitzvermerke.</p>",
+    "latin": "8°; 228 pagg.; teg. chartaceum, in margine ornamentis decoratum, cum dorso scorteo et rubro colore fucato; script. ca. 1790\n\n**Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)**\n\nIndex huius Germanici libelli precatorii insertus est p. 187–192 inter preces et carmina spiritualia.\n\nNeque auctorem huius codicilli scimus neque scriptorem. Sed propter rationem scribendi vix multum ante annum 1790 ortus esse potest. Inscriptiones singularum partium multis coloribus ornatae sunt.\n\nAnte folium titulare insertum est imago Samuelis, quem Deus ad prophetiam vocat.\n\nFolio praeliminari inscripta sunt nomina **Leopold Rechberger** (bis) et **Kaj(e)tan Kock**, qui forsitan ita se possidere hunc codicillum confirmaverint.",
+    "latinHtml": "<p>8°; 228 pagg.; teg. chartaceum, in margine ornamentis decoratum, cum dorso scorteo et rubro colore fucato; script. ca. 1790</p>\n<p><strong>Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg)</strong></p>\n<p>Index huius Germanici libelli precatorii insertus est p. 187–192 inter preces et carmina spiritualia.</p>\n<p>Neque auctorem huius codicilli scimus neque scriptorem. Sed propter rationem scribendi vix multum ante annum 1790 ortus esse potest. Inscriptiones singularum partium multis coloribus ornatae sunt.</p>\n<p>Ante folium titulare insertum est imago Samuelis, quem Deus ad prophetiam vocat.</p>\n<p>Folio praeliminari inscripta sunt nomina <strong>Leopold Rechberger</strong> (bis) et <strong>Kaj(e)tan Kock</strong>, qui forsitan ita se possidere hunc codicillum confirmaverint.</p>"
+  },
+  "source": {
+    "file": "MN III 82.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-82/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 82",
+    "titles": "Katholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg) \nKatholisches Gebeth Buch bestehend in Morgen Abend Mes Beicht und Communion Gebethe Litaneyen: Kirchen-Gesan(g) u(nd) Kreuz(weg) \nIndex",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die parenthetischen Buchstabenauflösungen stammen vom Katalogbearbeiter; der Titel als solcher ist überliefert. \nVom Katalogbearbeiter verwendete strukturelle Inhaltsbezeichnung.",
+    "physical": "Papier \n8° \nOktavformat \ndescription: Pappeinband mit Randverzierungen und rotem Lederrücken."
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-173",
+  "signature": "MN II 173",
+  "aliases": [
+    "Bibl. Cod. MN II 173"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "134",
+  "heading": {
+    "title": "Tractatus Scripturisticus Commentarius In Historiam Sanctorum Jacobi et Josephi Patriarcharum a Capite 27 usque ad finem Genesis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1692"
+  },
+  "date": {
+    "display": "1692",
+    "intervals": [
+      {
+        "from": 1692,
+        "to": 1692,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scripturisticus Commentarius In Historiam Sanctorum Jacobi et Josephi Patriarcharum a Capite 27 usque ad finem Genesis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–91r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Vita Moysis in sensu litterali et Mystico exposita Cum Doctrinis et annotationibus moralibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–94v (=101r–194v)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De vera et Falsa Religione Judaeorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–98r (=197r–294r)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "affiliation": "St. Peter in Salzburg / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Gabriel Sumadtinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "note": "Der Katalog vermerkt, dass derselbe Schreiber auch die drei vorhergehenden und die acht folgenden Codices schrieb."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 96 + 96 + 102 = 298 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1692",
+        "intervals": [
+          {
+            "from": 1692,
+            "to": 1692,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Tractatus Scripturistici de Iacob, Ioseph, Moyse, Religione Iudaeorum. cum annotationibus moralibus M S. à F. Gabriele Sometting, Seittenstettensi, Autore P. Paulo Mezger"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 96 + 96 + 102 = 298 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.\n\na) **Schrifttheologische Abhandlung: Kommentar zur Geschichte der Patriarchen Jakob und Joseph von Gen 27 bis zum Ende der Genesis:** fol. 1r–91r. Anfang: Überblick über die gesamte Geschichte Jakobs und Josephs. Jakob im Jahr seines Lebens.....\n\nb) **Das Leben des Mose, im wörtlichen und mystischen Sinn ausgelegt, mit Lehren und moralischen Anmerkungen:** fol. 1r–94v (=101r–194v). Anfang: Das Leben Josephs haben wir zusammen mit der Genesis abgeschlossen.....\n\nc) **Über die wahre und falsche Religion der Juden:** fol. 1r–98r (=197r–294r). Anfang der Vorrede: Nachdem die Ägypter besiegt worden waren.....\n\nAufschrift des Vorderdeckels: **F G S P S** = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1692.\n\nRückenaufschrift: **Tractatus Scripturistici de Iacob, Ioseph, Moyse, Religione Iudaeorum. cum annotationibus moralibus M S. à F. Gabriele Sometting, Seittenstettensi, Autore P. Paulo Mezger** – Verfasser ist also P. Paulus Mezger, Profess von St. Peter in Salzburg und dort Theologieprofessor.\n\nFr. Gabriel Sumadtinger schrieb auch die drei vorhergehenden und die acht folgenden Codices.",
+    "germanHtml": "<p>IV + 96 + 96 + 102 = 298 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1692.</p>\n<p>a) <strong>Schrifttheologische Abhandlung: Kommentar zur Geschichte der Patriarchen Jakob und Joseph von Gen 27 bis zum Ende der Genesis:</strong> fol. 1r–91r. Anfang: Überblick über die gesamte Geschichte Jakobs und Josephs. Jakob im Jahr seines Lebens.....</p>\n<p>b) <strong>Das Leben des Mose, im wörtlichen und mystischen Sinn ausgelegt, mit Lehren und moralischen Anmerkungen:</strong> fol. 1r–94v (=101r–194v). Anfang: Das Leben Josephs haben wir zusammen mit der Genesis abgeschlossen.....</p>\n<p>c) <strong>Über die wahre und falsche Religion der Juden:</strong> fol. 1r–98r (=197r–294r). Anfang der Vorrede: Nachdem die Ägypter besiegt worden waren.....</p>\n<p>Aufschrift des Vorderdeckels: <strong>F G S P S</strong> = Fr. Gabriel Sumadtinger, Profess von Seitenstetten, 1692.</p>\n<p>Rückenaufschrift: <strong>Tractatus Scripturistici de Iacob, Ioseph, Moyse, Religione Iudaeorum. cum annotationibus moralibus M S. à F. Gabriele Sometting, Seittenstettensi, Autore P. Paulo Mezger</strong> – Verfasser ist also P. Paulus Mezger, Profess von St. Peter in Salzburg und dort Theologieprofessor.</p>\n<p>Fr. Gabriel Sumadtinger schrieb auch die drei vorhergehenden und die acht folgenden Codices.</p>",
+    "latin": "IV + 96 + 96 + 102 = 298 foll.; teg. a2; script. 1692\n\na) Tractatus Scripturisticus Commentarius In Historiâm Sanctorum Jacobi, et Josephi Patriarcharum à Capite 27. usque ad finem Genesis: fol. 1r–91r. Initium: Synopsis Totius Historiae Jacobi, et Josephi. Jacobus anno aetatis.....\n\nb) Vita Moysis in sensu litterali, et Mystico exposita Cum Doctrinis, et annotationibus moralibus: fol. 1r–94v (= 101r–194v). Initium: Vitam Josephi unacum Genesi clausimus.....\n\nc) De vera et Falsa Religione Judaeorum: fol. 1r–98r (= 197r–294r). Initium Proloquii: Post debellatos Aegyptios,.....\n\nInscriptio partis adversae tegumenti: F G S P S (= F. Gabriel Sumadtinger professus Seittenstettensis) 1 6 9 2\n\nInscriptio dorsi: Tractatus Scripturistici de Iacob, Ioseph, Moyse, Religione Iudaeorum. cum annotationibus moralibus M S. à F. Gabriele Sometting, Seittenstettensi, Autore P. Paulo Mezger (ad S. Petrum Salisburgi professo, et ibidem Theologiae professore)\n\nIdem F. Gabriel Sumadtinger etiam tres codices praecedentes et octo sequentes scripsit.",
+    "latinHtml": "<p>IV + 96 + 96 + 102 = 298 foll.; teg. a2; script. 1692</p>\n<p>a) Tractatus Scripturisticus Commentarius In Historiâm Sanctorum Jacobi, et Josephi Patriarcharum à Capite 27. usque ad finem Genesis: fol. 1r–91r. Initium: Synopsis Totius Historiae Jacobi, et Josephi. Jacobus anno aetatis.....</p>\n<p>b) Vita Moysis in sensu litterali, et Mystico exposita Cum Doctrinis, et annotationibus moralibus: fol. 1r–94v (= 101r–194v). Initium: Vitam Josephi unacum Genesi clausimus.....</p>\n<p>c) De vera et Falsa Religione Judaeorum: fol. 1r–98r (= 197r–294r). Initium Proloquii: Post debellatos Aegyptios,.....</p>\n<p>Inscriptio partis adversae tegumenti: F G S P S (= F. Gabriel Sumadtinger professus Seittenstettensis) 1 6 9 2</p>\n<p>Inscriptio dorsi: Tractatus Scripturistici de Iacob, Ioseph, Moyse, Religione Iudaeorum. cum annotationibus moralibus M S. à F. Gabriele Sometting, Seittenstettensi, Autore P. Paulo Mezger (ad S. Petrum Salisburgi professo, et ibidem Theologiae professore)</p>\n<p>Idem F. Gabriel Sumadtinger etiam tres codices praecedentes et octo sequentes scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 173.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-173/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 173",
+    "titles": "Tractatus Scripturisticus Commentarius In Historiam Sanctorum Jacobi et Josephi Patriarcharum a Capite 27 usque ad finem Genesis \nTractatus Scripturisticus Commentarius In Historiam Sanctorum Jacobi et Josephi Patriarcharum a Capite 27 usque ad finem Genesis \nVita Moysis in sensu litterali et Mystico exposita Cum Doctrinis et annotationibus moralibus \nDe vera et Falsa Religione Judaeorum",
+    "persons": "P. Paulus Mezger author or lecturer author_or_lecturer \nFr. Gabriel Sumadtinger Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIV + 96 + 96 + 102 = 298 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-309",
+  "signature": "MN II 309",
+  "aliases": [
+    "Bibl. Cod. MN II 309"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "269",
+  "heading": {
+    "title": "Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1792"
+  },
+  "date": {
+    "display": "1792",
+    "intervals": [
+      {
+        "from": 1792,
+        "to": 1792,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–224",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "Ende 1792"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Adam Perner",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "certainty": "certain",
+      "note": "Im Titel als Verfasser genannt; „Wischkowitz“ ist laut Katalog eigenhändig geschrieben."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "226 pagg.",
+    "format": "",
+    "binding": {
+      "code": "d",
+      "description": "Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Materialbeschreibung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1792",
+        "intervals": [
+          {
+            "from": 1792,
+            "to": 1792,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": "Wahrscheinlicher Entstehungsort: Wischkowitz bei Tepl."
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "226 Seiten; Halblederband: Vorder- und Rückdeckel mit bedrucktem Papier, Rücken mit handschriftlich beschriebenem Papier überzogen; geschrieben 1792.\n\n**Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)**\n\n**Wischkowitz** (eigenhändig)\n\n**Schluss S. 224:** Ende 1792.\n\nMehrere Dörfer in Böhmen und Mähren hießen früher Wischkowitz, später Vyskovice, heute Vizovice. Eines davon lag nahe der Stadt Tepl. Da auf dem Papierfragment, mit dem der Rücken überzogen ist, noch Reste der Worte **Herrschaft T(ep)l** erhalten sind, scheint unser Buch im Dorf Wischkowitz bei Tepl entstanden zu sein.",
+    "germanHtml": "<p>226 Seiten; Halblederband: Vorder- und Rückdeckel mit bedrucktem Papier, Rücken mit handschriftlich beschriebenem Papier überzogen; geschrieben 1792.</p>\n<p><strong>Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)</strong></p>\n<p><strong>Wischkowitz</strong> (eigenhändig)</p>\n<p><strong>Schluss S. 224:</strong> Ende 1792.</p>\n<p>Mehrere Dörfer in Böhmen und Mähren hießen früher Wischkowitz, später Vyskovice, heute Vizovice. Eines davon lag nahe der Stadt Tepl. Da auf dem Papierfragment, mit dem der Rücken überzogen ist, noch Reste der Worte <strong>Herrschaft T(ep)l</strong> erhalten sind, scheint unser Buch im Dorf Wischkowitz bei Tepl entstanden zu sein.</p>",
+    "latin": "226 pagg.; teg. d, in parte adversa aversaque charta typis impressa, in dorso charta manu scripta inductum; script. 1792\n\n**Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)**\n\n**Wischkowitz** (manu propria)\n\n**Clausula p. 224:** Ende 1792\n\nWischkowitz olim nominati sunt complures vici in Bohemia et Moravia (postea Vyskovice, hodie Vizovice). E quibus unus prope oppidum Tepl situs est. Cum igitur in fragmento chartae, quod dorso inductum est, quaedam reliquiae vocum **Herrschaft T(ep)l** supersint, liber noster in vico Wischkowitz prope Tepl videtur ortus esse.",
+    "latinHtml": "<p>226 pagg.; teg. d, in parte adversa aversaque charta typis impressa, in dorso charta manu scripta inductum; script. 1792</p>\n<p><strong>Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)</strong></p>\n<p><strong>Wischkowitz</strong> (manu propria)</p>\n<p><strong>Clausula p. 224:</strong> Ende 1792</p>\n<p>Wischkowitz olim nominati sunt complures vici in Bohemia et Moravia (postea Vyskovice, hodie Vizovice). E quibus unus prope oppidum Tepl situs est. Cum igitur in fragmento chartae, quod dorso inductum est, quaedam reliquiae vocum <strong>Herrschaft T(ep)l</strong> supersint, liber noster in vico Wischkowitz prope Tepl videtur ortus esse.</p>"
+  },
+  "source": {
+    "file": "MN II 309.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-309/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 309",
+    "titles": "Anleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?) \nAnleitung zur Rechenkunst zum Gebrauche der deutschen Trivialschulen in den kaiserlich königlichen Staaten. Verfaßt von Johann Adam Perner in Wischkowitz im Jahre 1792 am 10ten Jänner agus. (?)",
+    "persons": "Johann Adam Perner author and scribe author_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n226 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Materialbeschreibung siehe Katalogtext."
+  }
+}

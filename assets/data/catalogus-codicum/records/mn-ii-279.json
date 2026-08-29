@@ -1,0 +1,295 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-279",
+  "signature": "MN II 279",
+  "aliases": [
+    "Bibl. Cod. MN II 279"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "228",
+  "heading": {
+    "title": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1750/51"
+  },
+  "date": {
+    "display": "1750/51",
+    "intervals": [
+      {
+        "from": 1750,
+        "to": 1751,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Poenitentia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–166",
+      "language": "",
+      "incipit": {
+        "text": "Sanctissimus Legislator noster Benedictus"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 167–251",
+      "language": "",
+      "incipit": {
+        "text": "Poenitentiae quoad effectum simillima"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Ein zweiter Vermerk anderer Hand nennt die Kollegien am 26. Mai 1752."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "31. März 1751"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Parerga ex Tractatu De Poenitentia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 252–258",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "In einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "1. Februar 1751"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Bernardus Brevenhueber",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictatus“ bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "additional_hand",
+      "roleLabel": "additional hand",
+      "scope": "manuscript",
+      "note": "Vermerk über die Verwendung in den Kollegien am 26. Mai 1752."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "264 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1750/51",
+        "intervals": [
+          {
+            "from": 1750,
+            "to": 1751,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "264 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1750/51.\n\n**Theologische Abhandlung über die Buße und die drei letzten Sakramente**, diktiert von P. Bernardus Brevenhueber ab 6. Juli 1750.\n\na) **Theologische Abhandlung über die Buße:** S. 5–166. Anfang der Vorrede: Unser heiligster Gesetzgeber Benedikt......\n\nb) **Über die drei letzten Sakramente, nämlich Letzte Ölung, Weihe und Ehe:** S. 167–251. Anfang der zwölften Disputation über das Sakrament der Letzten Ölung S. 169: Die Letzte Ölung ist der Buße hinsichtlich ihrer Wirkung sehr ähnlich,.... Schluss: **Wir beendeten [dies] am 31. März 1751.** Ein zweiter, von anderer Hand auf derselben S. 251 eingetragener Vermerk lautet: **In den Kollegien am 26. Mai 1752.**\n\nOffenbar wurde unsere Abhandlung also auch 1752 im theologischen Studium Seitenstettens verwendet.\n\nc) **Parerga aus der Abhandlung über die Buße:** S. 252–258. Schluss S. 258: **In öffentlicher Prüfung erörtert am 1. Februar 1751 unter dem Professor P. Bernardus Brevenhueber.** Zu den einzelnen Parerga sind jene Kandidaten vermerkt, denen sie in der Prüfung gestellt wurden: Nr. 11 Fr. Anselmus Wisgrill, 12 Fr. Udalricus Digl, 15 Fr. Paulus Schober, 20 Fr. Michael Rothmayr, 24 Fr. Leander Lieb, 25 Fr. Emmeramus Kolb. Alle diese Kleriker legten 1749 in Seitenstetten Profess ab.\n\nDer Schreiber, obwohl er auch den vorhergehenden und die sechs folgenden Codices schrieb, ist unbekannt. Dass unser Codex zum Seitenstettner theologischen Kurs gehört, wurde bereits oben bei MN II 278 gezeigt.",
+    "germanHtml": "<p>264 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1750/51.</p>\n<p><strong>Theologische Abhandlung über die Buße und die drei letzten Sakramente</strong>, diktiert von P. Bernardus Brevenhueber ab 6. Juli 1750.</p>\n<p>a) <strong>Theologische Abhandlung über die Buße:</strong> S. 5–166. Anfang der Vorrede: Unser heiligster Gesetzgeber Benedikt......</p>\n<p>b) <strong>Über die drei letzten Sakramente, nämlich Letzte Ölung, Weihe und Ehe:</strong> S. 167–251. Anfang der zwölften Disputation über das Sakrament der Letzten Ölung S. 169: Die Letzte Ölung ist der Buße hinsichtlich ihrer Wirkung sehr ähnlich,.... Schluss: <strong>Wir beendeten [dies] am 31. März 1751.</strong> Ein zweiter, von anderer Hand auf derselben S. 251 eingetragener Vermerk lautet: <strong>In den Kollegien am 26. Mai 1752.</strong></p>\n<p>Offenbar wurde unsere Abhandlung also auch 1752 im theologischen Studium Seitenstettens verwendet.</p>\n<p>c) <strong>Parerga aus der Abhandlung über die Buße:</strong> S. 252–258. Schluss S. 258: <strong>In öffentlicher Prüfung erörtert am 1. Februar 1751 unter dem Professor P. Bernardus Brevenhueber.</strong> Zu den einzelnen Parerga sind jene Kandidaten vermerkt, denen sie in der Prüfung gestellt wurden: Nr. 11 Fr. Anselmus Wisgrill, 12 Fr. Udalricus Digl, 15 Fr. Paulus Schober, 20 Fr. Michael Rothmayr, 24 Fr. Leander Lieb, 25 Fr. Emmeramus Kolb. Alle diese Kleriker legten 1749 in Seitenstetten Profess ab.</p>\n<p>Der Schreiber, obwohl er auch den vorhergehenden und die sechs folgenden Codices schrieb, ist unbekannt. Dass unser Codex zum Seitenstettner theologischen Kurs gehört, wurde bereits oben bei MN II 278 gezeigt.</p>",
+    "latin": "264 pagg.; teg. c3d; script. 1750/51\n\n**Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Bernardo Brevenhueber dictatus Anno 1750 à die sexta Julii.**\n\na) Tractatus Theologicus De Poenitentia: p. 5–166.  \nInitium Praefationis: Sanctissimus Legislator noster Benedictus......\n\nb) De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio: p. 167–251.  \nInitium Disputationis XII De Sacramento extremae Unctionis: p. 169: Poenitentiae quoad effectum simillima,...  \nClausula: Finivimus 31 Martii Anno 1.7.51. Altera clausula in eadem pagina 251 ab alia manu scripta: **In collegiis 26. Maii 1752.**\n\nVidetur ergo tractatus noster etiam anno 1752 studio theologiae Seitenstettensis usui fuisse.\n\nc) Parerga ex Tractatu De Poenitentia: p. 252–258.  \nClausula p. 258: **Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.** Ad singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15 F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio Seitenstettensi vota emiserant.\n\nScriptor, etsi praecedentem et sex sequentes codices exaravit, ignotus est. Codicem nostrum ad cursum Theologiae Seitenstettensis pertinere, iam supra p. 227 monstravimus.",
+    "latinHtml": "<p>264 pagg.; teg. c3d; script. 1750/51</p>\n<p><strong>Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P: Bernardo Brevenhueber dictatus Anno 1750 à die sexta Julii.</strong></p>\n<p>a) Tractatus Theologicus De Poenitentia: p. 5–166. Initium Praefationis: Sanctissimus Legislator noster Benedictus......</p>\n<p>b) De Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio: p. 167–251. Initium Disputationis XII De Sacramento extremae Unctionis: p. 169: Poenitentiae quoad effectum simillima,... Clausula: Finivimus 31 Martii Anno 1.7.51. Altera clausula in eadem pagina 251 ab alia manu scripta: <strong>In collegiis 26. Maii 1752.</strong></p>\n<p>Videtur ergo tractatus noster etiam anno 1752 studio theologiae Seitenstettensis usui fuisse.</p>\n<p>c) Parerga ex Tractatu De Poenitentia: p. 252–258. Clausula p. 258: <strong>Examine publico discussa. 1 Februarii Anno 1751. Professore Plurimum Reverendo Religiosissimo Eximio et Doctissimo Domino P. Bernardo à Brevenhueber.</strong> Ad singula parerga notati sunt Candidati, quibus in examine proposita sunt: ad 11 F. Anselmus Wisgrill, ad 12 F. Udalricus Digl, ad 15 F. Paulus Schober, ad 20 F. Michael Rothmayr, ad 24 F. Leander Lieb, ad 25 F. Emmeramus Kolb. Omnes isti clerici anno 1749 in monasterio Seitenstettensi vota emiserant.</p>\n<p>Scriptor, etsi praecedentem et sex sequentes codices exaravit, ignotus est. Codicem nostrum ad cursum Theologiae Seitenstettensis pertinere, iam supra p. 227 monstravimus.</p>"
+  },
+  "source": {
+    "file": "MN II 279.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-279/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 279",
+    "titles": "Tractatus Theologicus de Poenitentia et Ultimis tribus Sacramentis \nTractatus Theologicus De Poenitentia \nDe Tribus Ultimis Sacramentis, Scilicet: Extrema Unctione, Ordine, et Matrimonio \nParerga ex Tractatu De Poenitentia",
+    "persons": "P. Bernardus Brevenhueber Dozent lecturer \nunbekannt Schreiber scribe \nunbekannt additional hand additional_hand",
+    "incipits": "Sanctissimus Legislator noster Benedictus \nPoenitentiae quoad effectum simillima",
+    "explicits": "",
+    "notes": "Ein zweiter Vermerk anderer Hand nennt die Kollegien am 26. Mai 1752. \nIn einer öffentlichen Prüfung unter P. Bernardus Brevenhueber erörtert; die Kandidaten sind im Katalogtext einzeln genannt.",
+    "physical": "Papier \n264 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

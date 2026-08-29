@@ -1,0 +1,162 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-132",
+  "signature": "MN II 132",
+  "aliases": [
+    "Bibl. Cod. MN II 132"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "84",
+  "heading": {
+    "title": "Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1678"
+  },
+  "date": {
+    "display": "1678",
+    "intervals": [
+      {
+        "from": 1678,
+        "to": 1678,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Katalogbeschreibung von Bibl. Cod. MN II 132.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. IV",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus III. (De Virtutibus Theologicis Fide, Spe, et Charitate)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "p. 355 - 449.",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Leopold Wimmer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "IV + 454 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1678",
+        "intervals": [
+          {
+            "from": 1678,
+            "to": 1678,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "IV + 454 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1678.\n\na) **Abhandlung über die Gnade**, vorgetragen von P. Paulus Metzger und aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678; diese Überschrift steht mit Bleistift auf S. IV: S. 1–354.\n\nAnfang S. 1: **Zweite Abhandlung. Über die Gnade.** Nachdem der heilige Lehrer in der Prima Secundae über die Gesetze gehandelt hat,......\n\nSchluss S. 354: Wir beendeten diese Abhandlung am 8. Juli 1678.\n\nb) **Dritte Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 355–449.\n\nAnfang S. 355: **Über den Glauben.** Wir gehen zur Secunda Secundae des hl. Thomas über, wo die Tugenden und die ihnen entgegengesetzten Laster im Einzelnen behandelt werden....\n\nSchluss S. 449: Wir beendeten diese Abhandlung am 8. Oktober 1678. Ende dieser Materie 1678.\n\nDie Einbandaufschrift ist dieselbe wie bei MN II 131.",
+    "germanHtml": "<p>IV + 454 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1678.</p>\n<p>a) <strong>Abhandlung über die Gnade</strong>, vorgetragen von P. Paulus Metzger und aufgezeichnet von Fr. Leopold Wimmer, Profess von Seitenstetten, 1678; diese Überschrift steht mit Bleistift auf S. IV: S. 1–354.</p>\n<p>Anfang S. 1: <strong>Zweite Abhandlung. Über die Gnade.</strong> Nachdem der heilige Lehrer in der Prima Secundae über die Gesetze gehandelt hat,......</p>\n<p>Schluss S. 354: Wir beendeten diese Abhandlung am 8. Juli 1678.</p>\n<p>b) <strong>Dritte Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:</strong> S. 355–449.</p>\n<p>Anfang S. 355: <strong>Über den Glauben.</strong> Wir gehen zur Secunda Secundae des hl. Thomas über, wo die Tugenden und die ihnen entgegengesetzten Laster im Einzelnen behandelt werden....</p>\n<p>Schluss S. 449: Wir beendeten diese Abhandlung am 8. Oktober 1678. Ende dieser Materie 1678.</p>\n<p>Die Einbandaufschrift ist dieselbe wie bei MN II 131.</p>",
+    "latin": "IV + 454 pagg.; teg. a2; script. 1678\n\na) Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta): p. 1 - 354.\n\nInitium p. 1: Tractatus Secundus. De gratia. Postquam S. Doctor, in prima secundae tractavit de legibus,......\n\nClausula p. 354: Absolvimus hunc tractatum 8 Julii, 1678.\n\nb) Tractatus III. (De Virtutibus Theologicis Fide, Spe, et Charitate): p. 355 - 449.\n\nInitium p. 355: De Fide. Pergimus ad secundam secundae Divi Thomae, ubi tractatur de virtutibus et vitiis oppositis in particulari....\n\nClausula p. 449: Absolvimus hunc tractatum 8 Octobris 1678. Finis huius materiae Anno 1678. Inscriptio tegumenti ut in codice MN II 131 (vide supra!)",
+    "latinHtml": "<p>IV + 454 pagg.; teg. a2; script. 1678</p>\n<p>a) Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta): p. 1 - 354.</p>\n<p>Initium p. 1: Tractatus Secundus. De gratia. Postquam S. Doctor, in prima secundae tractavit de legibus,......</p>\n<p>Clausula p. 354: Absolvimus hunc tractatum 8 Julii, 1678.</p>\n<p>b) Tractatus III. (De Virtutibus Theologicis Fide, Spe, et Charitate): p. 355 - 449.</p>\n<p>Initium p. 355: De Fide. Pergimus ad secundam secundae Divi Thomae, ubi tractatur de virtutibus et vitiis oppositis in particulari....</p>\n<p>Clausula p. 449: Absolvimus hunc tractatum 8 Octobris 1678. Finis huius materiae Anno 1678. Inscriptio tegumenti ut in codice MN II 131 (vide supra!)</p>"
+  },
+  "source": {
+    "file": "MN II 132.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-132/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 132",
+    "titles": "Tractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta) \nTractatus de Gratia Traditus ab....P. Paulo Metzger exceptus a Fr. Leopoldo Wimmer Seitenstettensi professo anno 1678 (Inscriptio p. IV graphitide scripta) \nTractatus III. (De Virtutibus Theologicis Fide, Spe, et Charitate)",
+    "persons": "P. Paulus Mezger Dozent lecturer \nFr. Leopold Wimmer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Katalogbeschreibung von Bibl. Cod. MN II 132.",
+    "physical": "Papier \nIV + 454 pagg. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

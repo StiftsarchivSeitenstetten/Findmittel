@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-239",
+  "signature": "MN II 239",
+  "aliases": [
+    "Bibl. Cod. MN II 239"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "186",
+  "heading": {
+    "title": "Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1710 (?)"
+  },
+  "date": {
+    "display": "ca. 1710 (?)",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–677",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "20. Februar, Jahr nicht angegeben"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "derselbe unbekannte Seitenstettner Philosophieprofessor wie MN II 238",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "682 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1710 (?)",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "682 Seiten; grauer Pappeinband; geschrieben um 1710 (?).\n\n**Abhandlung über die aristotelisch-thomistische Physik oder zu den Büchern über die Physikvorlesung.**\n\nAnfang der Vorrede S. 5: Nachdem wir auf dem peripatetischen Weg die verschlungenen Pfade der Logik glücklich durchmessen haben.....\n\nSchluss S. 677: **Wir beendeten [dies] am 20. Februar.**\n\nOhne Zweifel schrieb denselben Codex derselbe Mann wie MN II 238, und zwar offenbar als Vorbereitung seiner Physikvorlesungen. Schrift und zahlreiche Korrekturen stimmen überein. Daher ist sehr zu bedauern, dass der Verfasser, der wahrscheinlich den Codex eigenhändig schrieb, noch nicht identifiziert werden konnte.\n\nDie Datierung um 1710 folgt denselben Argumenten wie beim vorhergehenden Codex.\n\nAuch für die Ausarbeitung dieses Codex scheint der Verfasser einen älteren Codex benutzt zu haben, nämlich MN II 98.",
+    "germanHtml": "<p>682 Seiten; grauer Pappeinband; geschrieben um 1710 (?).</p>\n<p><strong>Abhandlung über die aristotelisch-thomistische Physik oder zu den Büchern über die Physikvorlesung.</strong></p>\n<p>Anfang der Vorrede S. 5: Nachdem wir auf dem peripatetischen Weg die verschlungenen Pfade der Logik glücklich durchmessen haben.....</p>\n<p>Schluss S. 677: <strong>Wir beendeten [dies] am 20. Februar.</strong></p>\n<p>Ohne Zweifel schrieb denselben Codex derselbe Mann wie MN II 238, und zwar offenbar als Vorbereitung seiner Physikvorlesungen. Schrift und zahlreiche Korrekturen stimmen überein. Daher ist sehr zu bedauern, dass der Verfasser, der wahrscheinlich den Codex eigenhändig schrieb, noch nicht identifiziert werden konnte.</p>\n<p>Die Datierung um 1710 folgt denselben Argumenten wie beim vorhergehenden Codex.</p>\n<p>Auch für die Ausarbeitung dieses Codex scheint der Verfasser einen älteren Codex benutzt zu haben, nämlich MN II 98.</p>",
+    "latin": "682 pagg.; teg. c1; script. ca. 1710 (?)\n\nTractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione.\n\nInitium Prooemii p. 5: Postquam in itinere peripatetico implexos Logicae calles feliciter emensi sumus,.....\n\nClausula p. 677: absolvimus 20 februarii.\n\nSine dubium codicem nostrum idem qui praecedentem scripsit, eumque ad praeparandas lectiones physicae. Nam scriptura eadem est, nec desunt emendationes ut in codice MN II 238. Itaque quod auctorem (qui probabiliter sua manu codicem nostrum scripsit) nondum investigavimus, valde dolemus. Tempus, circa quod ortus est codex noster, iisdem argumentis freti statuimus, quibus in codice praecedente.\n\nEtiam ad hunc codicem exarandum auctor noster vetustiore codice videtur usus esse, dico codice MN II 98 (quem vide supra p. 62!)",
+    "latinHtml": "<p>682 pagg.; teg. c1; script. ca. 1710 (?)</p>\n<p>Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione.</p>\n<p>Initium Prooemii p. 5: Postquam in itinere peripatetico implexos Logicae calles feliciter emensi sumus,.....</p>\n<p>Clausula p. 677: absolvimus 20 februarii.</p>\n<p>Sine dubium codicem nostrum idem qui praecedentem scripsit, eumque ad praeparandas lectiones physicae. Nam scriptura eadem est, nec desunt emendationes ut in codice MN II 238. Itaque quod auctorem (qui probabiliter sua manu codicem nostrum scripsit) nondum investigavimus, valde dolemus. Tempus, circa quod ortus est codex noster, iisdem argumentis freti statuimus, quibus in codice praecedente.</p>\n<p>Etiam ad hunc codicem exarandum auctor noster vetustiore codice videtur usus esse, dico codice MN II 98 (quem vide supra p. 62!)</p>"
+  },
+  "source": {
+    "file": "MN II 239.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-239/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 238]]",
+      "targetId": "mn-ii-238",
+      "targetSignature": "MN II 238",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "source_relation",
+      "typeLabel": "source relation",
+      "targetRaw": "[[MN II 98]]",
+      "targetId": "mn-ii-98",
+      "targetSignature": "MN II 98",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 239",
+    "titles": "Tractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione \nTractatus in Physicam Aristotelico-Thomisticam, seu In Libros de physica auscultatione",
+    "persons": "derselbe unbekannte Seitenstettner Philosophieprofessor wie MN II 238 author and scribe author_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n682 pagg. \ncode: c1; description: Grauer Pappeinband."
+  }
+}

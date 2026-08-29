@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-215",
+  "signature": "MN II 215",
+  "aliases": [
+    "Bibl. Cod. MN II 215"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "168–169",
+  "heading": {
+    "title": "Commentarius In Organum sive Logicam Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1702"
+  },
+  "date": {
+    "display": "1702",
+    "intervals": [
+      {
+        "from": 1702,
+        "to": 1702,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarius In Organum sive Logicam Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Organum sive Logicam Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–499",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1702-06-03"
+        },
+        {
+          "type": "end_date_display",
+          "display": "Vorabend von Pfingsten 1702"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber wie bei MN II 214 und MN II 216; Fr. Ignatius ist trotz des Besitzvermerks nicht als Schreiber anzusehen."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "506 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1702",
+        "intervals": [
+          {
+            "from": 1702,
+            "to": 1702,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "S. 3",
+      "text": "ex libris F: Ignatii"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "506 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1702.\n\n**Kommentar zum Organon oder zur Logik des Aristoteles.**\n\nAnfang S. 3: Vorrede. Ich weiß, dass es sehr viele gibt.....\n\nSchluss S. 499: **Am Vorabend von Pfingsten, dem 3. Juni 1702.**\n\nWeder Verfasser noch Schreiber sind bekannt. Zwar findet sich auf S. 3 der Besitzvermerk **ex libris F: Ignatii**, doch zeigt der folgende Codex, dass Fr. Ignatius aus Seitenstetten nicht der Schreiber sein kann.\n\nDerselbe unbekannte Schreiber schrieb auch den vorhergehenden und den folgenden Codex.",
+    "germanHtml": "<p>506 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1702.</p>\n<p><strong>Kommentar zum Organon oder zur Logik des Aristoteles.</strong></p>\n<p>Anfang S. 3: Vorrede. Ich weiß, dass es sehr viele gibt.....</p>\n<p>Schluss S. 499: <strong>Am Vorabend von Pfingsten, dem 3. Juni 1702.</strong></p>\n<p>Weder Verfasser noch Schreiber sind bekannt. Zwar findet sich auf S. 3 der Besitzvermerk <strong>ex libris F: Ignatii</strong>, doch zeigt der folgende Codex, dass Fr. Ignatius aus Seitenstetten nicht der Schreiber sein kann.</p>\n<p>Derselbe unbekannte Schreiber schrieb auch den vorhergehenden und den folgenden Codex.</p>",
+    "latin": "506 pagg.; teg. a1; script. 1702\n\nCommentarius In Organum sive Logicam Aristotelis.\n\nInitium p. 3: Proloquium Permultos esse intelligo,.....\n\nClausula p. 499: In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.\n\nNeque auctorem scimus neque scriptorem, etsi p. 3 signum possessoris „ex libris F: Ignatii“ invenitur; nam ad codicem proximum ostendemus non scriptum esse codicem nostrum a F. Ignatio Seitenstettensi.\n\nIdem scriptor etiam praecedentem et subsequentem codicem scripsit.",
+    "latinHtml": "<p>506 pagg.; teg. a1; script. 1702</p>\n<p>Commentarius In Organum sive Logicam Aristotelis.</p>\n<p>Initium p. 3: Proloquium Permultos esse intelligo,.....</p>\n<p>Clausula p. 499: In Vigiliâ Pentecostes Die. 3. Junii Anno 1702.</p>\n<p>Neque auctorem scimus neque scriptorem, etsi p. 3 signum possessoris „ex libris F: Ignatii“ invenitur; nam ad codicem proximum ostendemus non scriptum esse codicem nostrum a F. Ignatio Seitenstettensi.</p>\n<p>Idem scriptor etiam praecedentem et subsequentem codicem scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 215.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-215/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 214]]",
+      "targetId": "mn-ii-214",
+      "targetSignature": "MN II 214",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 216]]",
+      "targetId": "mn-ii-216",
+      "targetSignature": "MN II 216",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 215",
+    "titles": "Commentarius In Organum sive Logicam Aristotelis \nCommentarius In Organum sive Logicam Aristotelis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n506 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

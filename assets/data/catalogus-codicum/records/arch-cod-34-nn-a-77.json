@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-34-nn-a-77",
+  "signature": "Arch. Cod. 34 NN (A 77)",
+  "aliases": [
+    "Arch. Cod. 34 NN (A 77)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "263",
+  "heading": {
+    "title": "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1782"
+  },
+  "date": {
+    "display": "1782",
+    "intervals": [
+      {
+        "from": 1782,
+        "to": 1782,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–370",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die parenthetische Buchstabenauflösung in „Inst(r)uctio“ betrifft nur eine Stelle des überlieferten Titels; der Titel als solcher ist nicht supplied."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Walcher",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Benedictus Walcher",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "370 pagg.",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1782",
+        "intervals": [
+          {
+            "from": 1782,
+            "to": 1782,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 370 Seiten; blaugrauer Pappeinband; geschrieben 1782.\n\n**Unterweisung und andere Frömmigkeitsübungen für Kranke und Sterbende, zum Gebrauch der Seelsorger oder anderer, die Kranken beistehen; aus Traktaten der Kirchenväter, Asketen und frommen Männer gesammelt. P. B. W. 1782.**\n\nDie Initialen bezeichnen **P. Benedictus Walcher**, Seitenstettner Mönch, als Sammler und Schreiber des Werkes.\n\nAbgesehen vom lateinischen Titel ist das Werk deutsch geschrieben.",
+    "germanHtml": "<p>Oktavformat; 370 Seiten; blaugrauer Pappeinband; geschrieben 1782.</p>\n<p><strong>Unterweisung und andere Frömmigkeitsübungen für Kranke und Sterbende, zum Gebrauch der Seelsorger oder anderer, die Kranken beistehen; aus Traktaten der Kirchenväter, Asketen und frommen Männer gesammelt. P. B. W. 1782.</strong></p>\n<p>Die Initialen bezeichnen <strong>P. Benedictus Walcher</strong>, Seitenstettner Mönch, als Sammler und Schreiber des Werkes.</p>\n<p>Abgesehen vom lateinischen Titel ist das Werk deutsch geschrieben.</p>",
+    "latin": "8°; 370 pagg.; teg. chartaceum caesium; scriptus 1782\n\n**Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.**\n\nLitterae illae initiales indicant, **P. Benedictum Walcher**, monachum Seitenstettensem collectorem scriptoremque esse huius operis, quod praeter inscriptionem lingua Germanica utitur.",
+    "latinHtml": "<p>8°; 370 pagg.; teg. chartaceum caesium; scriptus 1782</p>\n<p><strong>Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.</strong></p>\n<p>Litterae illae initiales indicant, <strong>P. Benedictum Walcher</strong>, monachum Seitenstettensem collectorem scriptoremque esse huius operis, quod praeter inscriptionem lingua Germanica utitur.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 34 NN (A 77).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-34-nn-a-77/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 34 NN (A 77)",
+    "titles": "Inst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782. \nInst(r)uctio, Aliaque Pietatis Exercitia Pro Infirmis et Moribundis In Usum Pastorum; Sive aliorum aegrotis assistentium. Ex Patrum, Ascetarum, Piorumque Virorum Tractatibus Collecta. P. B. W. 1782.",
+    "persons": "P. Benedictus Walcher Bearbeiter compiler \nP. Benedictus Walcher Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die parenthetische Buchstabenauflösung in „Inst(r)uctio“ betrifft nur eine Stelle des überlieferten Titels; der Titel als solcher ist nicht supplied.",
+    "physical": "Papier \n370 pagg. \nOktavformat \ndescription: Blaugrauer Pappeinband."
+  }
+}

@@ -1,0 +1,131 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-102",
+  "signature": "MN II 102",
+  "aliases": [
+    "Bibl. Cod. MN II 102"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "64–65",
+  "heading": {
+    "title": "Codex MN II 102",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1671/72"
+  },
+  "date": {
+    "display": "1671/72",
+    "intervals": [
+      {
+        "from": 1671,
+        "to": 1672,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Codex MN II 102",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Codex MN II 102",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "430 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1671/72",
+        "intervals": [
+          {
+            "from": 1671,
+            "to": 1672,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "430 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1671/72.\n\na) **Abhandlung über den einen Gott**, vorgetragen von P. Desiderius Schapperger, Profess des berühmten Klosters Seeon, Doktor der heiligen Theologie und erster Professor derselben; aufgezeichnet von Fr. Ambrosius Marholt, Profess des Klosters Seitenstetten und Student der heiligen Theologie an der Universität Salzburg. Vollendet am 14. Oktober 1671: fol. 2–339r.\n\nAnfang der Vorrede fol. 3r: Wenn wir zu den Heiligtümern der Theologie zugelassen sind, sei es uns ein großer Trost....\n\nb) **Abhandlung über den dreieinigen Gott**, vorgetragen von demselben P. Desiderius Schapperger und aufgezeichnet von Fr. Ambrosius Marholt, 1672: fol. 340r–427r.\n\nAnfang der Vorrede fol. 340v: Nachdem unser engelgleicher Lehrer Gott als den Einen behandelt hat.... Schluss: Wir beendeten diese Abhandlung am 30. Januar 1672.\n\nDieselben Abhandlungen finden sich im Archivcodex 34–10.",
+    "germanHtml": "<p>430 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1671/72.</p>\n<p>a) <strong>Abhandlung über den einen Gott</strong>, vorgetragen von P. Desiderius Schapperger, Profess des berühmten Klosters Seeon, Doktor der heiligen Theologie und erster Professor derselben; aufgezeichnet von Fr. Ambrosius Marholt, Profess des Klosters Seitenstetten und Student der heiligen Theologie an der Universität Salzburg. Vollendet am 14. Oktober 1671: fol. 2–339r.</p>\n<p>Anfang der Vorrede fol. 3r: Wenn wir zu den Heiligtümern der Theologie zugelassen sind, sei es uns ein großer Trost....</p>\n<p>b) <strong>Abhandlung über den dreieinigen Gott</strong>, vorgetragen von demselben P. Desiderius Schapperger und aufgezeichnet von Fr. Ambrosius Marholt, 1672: fol. 340r–427r.</p>\n<p>Anfang der Vorrede fol. 340v: Nachdem unser engelgleicher Lehrer Gott als den Einen behandelt hat.... Schluss: Wir beendeten diese Abhandlung am 30. Januar 1672.</p>\n<p>Dieselben Abhandlungen finden sich im Archivcodex 34–10.</p>",
+    "latin": "430 foll.; tegumentum a2; script. 1671/72\n\na) Tractatus De Deo Uno Traditus Ab....Patre **Desiderio Schapperger**, Celeberrimi Monasterii Seonensis professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore primario, Exceptus calamo A **F. Ambrosio Marholt** Monasterii Seittenstettensis professo Sacrosanctae Theologiae Studioso in Universitate Salisburgensi. absolvimus 14 Octobris 1671. fol. 2–339r.\n\n\n\n\n_Initium_ Prooemii fol. 3r: In theologiae sacraria admissis magno nobis solatio sit....\n\nb) Tractatus De Deo Trino Traditus Ab.... **Desiderio Schapperger** ....professore ordinario primario Exceptus calamo A **F. Ambrosio Marholt** ....1672 (cetera ut in parte a!): fol. 340r–427r.\n\n_Initium_ Prooemii fol. 340v: Angelicus noster Doctor postquam tractavit de Deo ut uno.... _Clausula_: Absolvimus hunc tractatum 30 Januarii 1672.\n\nEosdem tractatus reperies in codice archivi 34–10 (vide inferius!).",
+    "latinHtml": "<p>430 foll.; tegumentum a2; script. 1671/72</p>\n<p>a) Tractatus De Deo Uno Traditus Ab....Patre <strong>Desiderio Schapperger</strong>, Celeberrimi Monasterii Seonensis professo, Sacrosanctae Theologiae Doctore, eiusdemque Professore primario, Exceptus calamo A <strong>F. Ambrosio Marholt</strong> Monasterii Seittenstettensis professo Sacrosanctae Theologiae Studioso in Universitate Salisburgensi. absolvimus 14 Octobris 1671. fol. 2–339r.</p>\n<p>_Initium_ Prooemii fol. 3r: In theologiae sacraria admissis magno nobis solatio sit....</p>\n<p>b) Tractatus De Deo Trino Traditus Ab.... <strong>Desiderio Schapperger</strong> ....professore ordinario primario Exceptus calamo A <strong>F. Ambrosio Marholt</strong> ....1672 (cetera ut in parte a!): fol. 340r–427r.</p>\n<p>_Initium_ Prooemii fol. 340v: Angelicus noster Doctor postquam tractavit de Deo ut uno.... _Clausula_: Absolvimus hunc tractatum 30 Januarii 1672.</p>\n<p>Eosdem tractatus reperies in codice archivi 34–10 (vide inferius!).</p>"
+  },
+  "source": {
+    "file": "MN II 102.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-102/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 102",
+    "titles": "Codex MN II 102 \nCodex MN II 102",
+    "persons": "",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n430 foll. \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-20",
+  "signature": "MN II 20",
+  "aliases": [
+    "Bibl. Cod. MN II 20",
+    "Organi Aristotelici Theoriae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "13–14",
+  "heading": {
+    "title": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1632/33"
+  },
+  "date": {
+    "display": "1632/33",
+    "intervals": [
+      {
+        "from": 1632,
+        "to": 1633,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–318v",
+      "language": "",
+      "incipit": {
+        "text": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,...."
+      },
+      "explicit": {
+        "text": "Absolvimus nono Maii 1.6.33"
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Bl. 319r–326v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Simon Fyrbas OSB",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Benedict Graff OSB",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 328 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1632/33",
+        "intervals": [
+          {
+            "from": 1632,
+            "to": 1633,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_initials",
+      "text": "F B G P S",
+      "expansion": "Frater Benedictus Graff Professus Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 328 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1632/33.\n\n**Theorien zum Organon des Aristoteles**, diktiert von P. Simon Fyrbas, Mönch von Scheyern; mitgeschrieben von Fr. Benedict Graff, Profess desselben Ordens in Seitenstetten. Salzburg 1632 (doch wurde in diesem Jahr nur das Titelblatt geschrieben): Bl. 1–318v; Register Bl. 319–326v.\n\nAnfang der Protologie zur gesamten Philosophie des Aristoteles Bl. 1r: **Jener Streit, der nach Sallusts Zeugnis lange unter den Sterblichen bestand,....**\n\nSchlussvermerke Bl. 38r (**18. Dezember 1632**) .... Bl. 318v: **Wir schlossen am 9. Mai 1633 ab** (mit zwei Hexametern).\n\nAuf der Vorderseite des Einbandes vergoldete Initialen: **F B G P S = Frater Benedictus Graff Professus Seittenstettensis.**\n\nDenselben Schreiber findet man auch in den folgenden Codices.",
+    "germanHtml": "<p>II + 328 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1632/33.</p>\n<p><strong>Theorien zum Organon des Aristoteles</strong>, diktiert von P. Simon Fyrbas, Mönch von Scheyern; mitgeschrieben von Fr. Benedict Graff, Profess desselben Ordens in Seitenstetten. Salzburg 1632 (doch wurde in diesem Jahr nur das Titelblatt geschrieben): Bl. 1–318v; Register Bl. 319–326v.</p>\n<p>Anfang der Protologie zur gesamten Philosophie des Aristoteles Bl. 1r: <strong>Jener Streit, der nach Sallusts Zeugnis lange unter den Sterblichen bestand,....</strong></p>\n<p>Schlussvermerke Bl. 38r (<strong>18. Dezember 1632</strong>) .... Bl. 318v: <strong>Wir schlossen am 9. Mai 1633 ab</strong> (mit zwei Hexametern).</p>\n<p>Auf der Vorderseite des Einbandes vergoldete Initialen: <strong>F B G P S = Frater Benedictus Graff Professus Seittenstettensis.</strong></p>\n<p>Denselben Schreiber findet man auch in den folgenden Codices.</p>",
+    "latin": "II + 328 foll., teg. a2, script. 1632/33\n\n*Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.):* fol. 1 - 318v (Index f. 319 - 326v)\n\nInitium Protologiae ad Universam Philosophiam Aristotelis f. 1r: Illud, quod Sallustio teste, diu inter mortales certamen fuit,....\n\nClausulae fol. 38r (18 Decembris. Anno 1632.)....fol. 318v: Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)\n\nIn parte adversa tegumenti litterae initiales inauratae: F B G P S = Frater Benedictus Graff Professus Seittenstettensis\n\nEundem scriptorem invenies etiam in sequentibus codicibus.",
+    "latinHtml": "<p>II + 328 foll., teg. a2, script. 1632/33</p>\n<p><em>Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.):</em> fol. 1 - 318v (Index f. 319 - 326v)</p>\n<p>Initium Protologiae ad Universam Philosophiam Aristotelis f. 1r: Illud, quod Sallustio teste, diu inter mortales certamen fuit,....</p>\n<p>Clausulae fol. 38r (18 Decembris. Anno 1632.)....fol. 318v: Absolvimus nono Maii 1.6.33 (cum duobus versibus heroicis)</p>\n<p>In parte adversa tegumenti litterae initiales inauratae: F B G P S = Frater Benedictus Graff Professus Seittenstettensis</p>\n<p>Eundem scriptorem invenies etiam in sequentibus codicibus.</p>"
+  },
+  "source": {
+    "file": "MN II 20.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-20/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 20",
+    "titles": "Organi Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.) \nOrgani Aristotelici Theoriae dictatae ab.....P. Simone Fyrbas ...Monacho Schyrensi. Exceptae a F. Benedicto Graff eundem Ordinem in Seittenstötten Professo. Salisburgi Anno MDCXXXII (1632; sed hoc anno solum folium titulare scriptum est.) \nIndex",
+    "persons": "P. Simon Fyrbas OSB Dozent lecturer \nFr. Benedict Graff OSB Schreiber scribe",
+    "incipits": "Illud, quod Sallustio teste, diu inter mortales certamen fuit,....",
+    "explicits": "Absolvimus nono Maii 1.6.33",
+    "notes": "Vom Katalog verwendete strukturelle Inhaltsbezeichnung.",
+    "physical": "Papier \nII + 328 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+  }
+}

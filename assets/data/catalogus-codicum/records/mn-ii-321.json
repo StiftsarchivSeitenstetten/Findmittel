@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-321",
+  "signature": "MN II 321",
+  "aliases": [
+    "Bibl. Cod. MN II 321"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "201–202",
+  "heading": {
+    "title": "Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1711–1720"
+  },
+  "date": {
+    "display": "1711–1720",
+    "intervals": [
+      {
+        "from": 1711,
+        "to": 1720,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Ex Virgilio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–14",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Versnummern zu Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes und Preces."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Ex Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 15–35",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nach derselben Ordnung wie bei Vergil; die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index in Opera Statii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 35–47",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Index in Lucani Pharsaliam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 48–51",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die katalogseitig in Klammern ergänzte Angabe „sine divisione partium“ wurde nicht als überlieferter Titel behandelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "54 pagg., involutae folio chartaceo ab intrinsecus typis impresso inter annos 1710 et 1720.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Papierumschlag aus einem innen bedruckten Blatt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1711–1720",
+        "intervals": [
+          {
+            "from": 1711,
+            "to": 1720,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Im Titel steht vermutlich irrtümlich 'Steotericos' statt 'Neotericos'. Nicolaus Nomesus ist ausdrücklich nicht der Verfasser des Registers."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "54 Seiten; in ein Papierblatt eingeschlagen, dessen Innenseite zwischen 1710 und 1720 bedruckt wurde.\n\n**Register zu poetischen Autoren, sowohl klassischen als auch neueren (?), von denen vieles aus klassischen Autoren, nach verschiedenen Gegenständen alphabetisch geordnet, im Parnassus des Nicolaus Nomesus zu finden ist.**\n\nDer *Parnassus poeticus* des Nicolaus Nomesus, 1604 in Köln gedruckt, ist auch in der Seitenstettner Bibliothek unter der Nummer 92.4.92 vorhanden.\n\nIn diesem Register sind nach alphabetisch geordneten Sachgruppen Versnummern zusammengestellt:\n- aus Vergil: Affekte, Beschreibungen, Personenlob, Gemeinplätze, Reden, Gebete; S. 1–14;\n- aus Ovids *Fasti*, *Tristia*, *Epistulae ex Ponto*, *In itinere ad Liviam*, *De nuce* und den *Metamorphosen* nach der bereinigten Ausgabe P. Pontans; in derselben Ordnung wie bei Vergil, zusätzlich Metamorphosen oder Verwandlungen verschiedener Dinge nach den Fabeln; S. 15–35;\n- Register zu den Werken des Statius, ungefähr in derselben Ordnung wie bei Vergil und Ovid; S. 35–47;\n- Register zu Lucans *Pharsalia*, ohne Unterteilung in Sachgruppen; S. 48–51.\n\nNB: **Nicolaus Nomesus ist nicht der Verfasser dieses Registers**, denn dessen *Parnassus poeticus* ist weder nach Autoren noch nach Sachkapiteln gegliedert. Verfasser und Schreiber unseres Büchleins sind daher unbekannt.\n\nDie ungefähre Entstehungszeit lässt sich dennoch bestimmen. Zum Umschlagen des Büchleins benutzte vermutlich schon der Schreiber ein bedrucktes Blatt, das **Eleonora Magdalena Theresia, der Mutter des erhabensten Kaisers Karl VI.**, gewidmet ist. Diese Widmung kann nicht vor 1711 erfolgt sein, dem Jahr der Kaiserwahl Karls VI., und nicht nach 1720, dem Todesjahr seiner Mutter.\n\nWas das Wort **Steotericos** im Titel des Büchleins bedeutet, ist unbekannt; möglicherweise handelt es sich um einen Schreibfehler für **Neotericos**.",
+    "germanHtml": "<p>54 Seiten; in ein Papierblatt eingeschlagen, dessen Innenseite zwischen 1710 und 1720 bedruckt wurde.</p>\n<p><strong>Register zu poetischen Autoren, sowohl klassischen als auch neueren (?), von denen vieles aus klassischen Autoren, nach verschiedenen Gegenständen alphabetisch geordnet, im Parnassus des Nicolaus Nomesus zu finden ist.</strong></p>\n<p>Der <em>Parnassus poeticus</em> des Nicolaus Nomesus, 1604 in Köln gedruckt, ist auch in der Seitenstettner Bibliothek unter der Nummer 92.4.92 vorhanden.</p>\n<p>In diesem Register sind nach alphabetisch geordneten Sachgruppen Versnummern zusammengestellt:</p>\n<ul><li>aus Vergil: Affekte, Beschreibungen, Personenlob, Gemeinplätze, Reden, Gebete; S. 1–14;</li><li>aus Ovids <em>Fasti</em>, <em>Tristia</em>, <em>Epistulae ex Ponto</em>, <em>In itinere ad Liviam</em>, <em>De nuce</em> und den <em>Metamorphosen</em> nach der bereinigten Ausgabe P. Pontans; in derselben Ordnung wie bei Vergil, zusätzlich Metamorphosen oder Verwandlungen verschiedener Dinge nach den Fabeln; S. 15–35;</li><li>Register zu den Werken des Statius, ungefähr in derselben Ordnung wie bei Vergil und Ovid; S. 35–47;</li><li>Register zu Lucans <em>Pharsalia</em>, ohne Unterteilung in Sachgruppen; S. 48–51.</li></ul>\n<p>NB: <strong>Nicolaus Nomesus ist nicht der Verfasser dieses Registers</strong>, denn dessen <em>Parnassus poeticus</em> ist weder nach Autoren noch nach Sachkapiteln gegliedert. Verfasser und Schreiber unseres Büchleins sind daher unbekannt.</p>\n<p>Die ungefähre Entstehungszeit lässt sich dennoch bestimmen. Zum Umschlagen des Büchleins benutzte vermutlich schon der Schreiber ein bedrucktes Blatt, das <strong>Eleonora Magdalena Theresia, der Mutter des erhabensten Kaisers Karl VI.</strong>, gewidmet ist. Diese Widmung kann nicht vor 1711 erfolgt sein, dem Jahr der Kaiserwahl Karls VI., und nicht nach 1720, dem Todesjahr seiner Mutter.</p>\n<p>Was das Wort <strong>Steotericos</strong> im Titel des Büchleins bedeutet, ist unbekannt; möglicherweise handelt es sich um einen Schreibfehler für <strong>Neotericos</strong>.</p>",
+    "latin": "54 pagg., involutae folio chartaceo ab intrinsecus typis impresso inter annos 1710 et 1720.\n\n**Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii.** (Qui Parnassus poeticus Nicolai Nomesii Coloniae 1604 editus etiam in bibliotheca Seitenstettensi exstat sub numero 92.4.92.)\n\nInveniuntur in hoc indice iuxta rerum ordinem alphabeticum dispositi numeri versuum: Ex Virgilio (Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes, Preces): p. 1–14; Ex Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani (secundum eandem dispositionem ut in Vergilio, additis tamen Metamorphosibus seu Transmutationibus rerum variarum iuxta fabulas): p. 15–35;\n\n\n\n\nIndex in Opera Statii (fere eodem modo ut in Vergilio et Ovidio dispositus): p. 35–47; Index in Lucani Pharsaliam (sine divisione partium): p. 48–51.\n\nNB! Nicolaus Nomesus non est auctor huius indicis, nam Parnassus poeticus illius auctoris neque secundum auctores divisus est neque secundum capita rerum. Itaque tam auctor quam scriptor codicilli nostri ignotus est. At scimus, quo fere tempore ortus sit; etenim ad involvendum libellum fortasse ipse scriptor usus est folio typis impresso et Eleonorae Magdalenae Theresiae ....Augustissimi Imperatoris Caroli Sexti Genitrici.... dedicato. Quae dedicatio sine dubio facta est neque ante 1711, quo anno Carolus VI. Imperator creatus, neque post 1720, quo anno mater eius mortua est. Quid significet vox **Steotericos** in inscriptione huius libelli, nescio; forsitan lapsus est calami pro **Neotericos**.",
+    "latinHtml": "<p>54 pagg., involutae folio chartaceo ab intrinsecus typis impresso inter annos 1710 et 1720.</p>\n<p><strong>Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii.</strong> (Qui Parnassus poeticus Nicolai Nomesii Coloniae 1604 editus etiam in bibliotheca Seitenstettensi exstat sub numero 92.4.92.)</p>\n<p>Inveniuntur in hoc indice iuxta rerum ordinem alphabeticum dispositi numeri versuum: Ex Virgilio (Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes, Preces): p. 1–14; Ex Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani (secundum eandem dispositionem ut in Vergilio, additis tamen Metamorphosibus seu Transmutationibus rerum variarum iuxta fabulas): p. 15–35;</p>\n<p>Index in Opera Statii (fere eodem modo ut in Vergilio et Ovidio dispositus): p. 35–47; Index in Lucani Pharsaliam (sine divisione partium): p. 48–51.</p>\n<p>NB! Nicolaus Nomesus non est auctor huius indicis, nam Parnassus poeticus illius auctoris neque secundum auctores divisus est neque secundum capita rerum. Itaque tam auctor quam scriptor codicilli nostri ignotus est. At scimus, quo fere tempore ortus sit; etenim ad involvendum libellum fortasse ipse scriptor usus est folio typis impresso et Eleonorae Magdalenae Theresiae ....Augustissimi Imperatoris Caroli Sexti Genitrici.... dedicato. Quae dedicatio sine dubio facta est neque ante 1711, quo anno Carolus VI. Imperator creatus, neque post 1720, quo anno mater eius mortua est. Quid significet vox <strong>Steotericos</strong> in inscriptione huius libelli, nescio; forsitan lapsus est calami pro <strong>Neotericos</strong>.</p>"
+  },
+  "source": {
+    "file": "MN II 321.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-321/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 321",
+    "titles": "Index in Authores Poeticos tum Classicos tum Neotericos (?), quorum plurima ex authoribus classicis variis in Alphabetum digesta vide in Parnasso Nicolai Nomesii \nEx Virgilio \nEx Ovidio Fastorum, Tristium, de Ponto, in itinere ad Liviam, de nuce, et metamorphosis iuxta expurgationem P. Pontani \nIndex in Opera Statii \nIndex in Lucani Pharsaliam",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Versnummern zu Affectus, Descriptiones, Laudes Personarum, Loci Communes, Orationes und Preces. \nNach derselben Ordnung wie bei Vergil; die katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt. \nDie katalogseitig in Klammern ergänzte Beschreibung der Gliederung wurde nicht als überlieferter Titel behandelt. \nDie katalogseitig in Klammern ergänzte Angabe „sine divisione partium“ wurde nicht als überlieferter Titel behandelt. \nIm Titel steht vermutlich irrtümlich 'Steotericos' statt 'Neotericos'. Nicolaus Nomesus ist ausdrücklich nicht der Verfasser des Registers.",
+    "physical": "Papier \n54 pagg., involutae folio chartaceo ab intrinsecus typis impresso inter annos 1710 et 1720. \ndescription: Papierumschlag aus einem innen bedruckten Blatt."
+  }
+}

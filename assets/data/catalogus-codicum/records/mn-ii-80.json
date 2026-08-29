@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-80",
+  "signature": "MN II 80",
+  "aliases": [
+    "Bibl. Cod. MN II 80",
+    "Disputationes In Octo Libros Physicorum Aristotelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "51",
+  "heading": {
+    "title": "Disputationes In Octo Libros Physicorum Aristotelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1659/60"
+  },
+  "date": {
+    "display": "1659/60",
+    "intervals": [
+      {
+        "from": 1659,
+        "to": 1660,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Disputationes In Octo Libros Physicorum Aristotelis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "S. 5–1034",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Disputationes In Octo Libros Physicorum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–1034",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Benedictus Abelzhauser",
+          "roleRaw": "scribe",
+          "roleLabel": "Schreiber",
+          "scope": "item",
+          "itemId": "item-1"
+        },
+        {
+          "name": "unbekannt",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Abt von Seitenstetten 1687–1717; nach dem Katalog auch Schreiber der sieben folgenden Codices."
+    },
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Benedictus Abelzhauser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "item",
+      "itemId": "item-1"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "1044 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1659/60",
+        "intervals": [
+          {
+            "from": 1659,
+            "to": 1660,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "octo Libri Physicorum Reverendissimi Abelzhauser Seittenstettensis M S."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "1044 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **I H S**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**; geschrieben 1659/60.\n\n**(Disputationen zu den acht Büchern der Physik des Aristoteles):** S. 5–1034. Anfang der Vorrede S. 5: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir endlich zu den glücklichen Inseln der Natur.....\n\nSchlussvermerke: S. 260: **Und damit möge das zum ersten Buch der Physik Gesagte genügen; wir beendeten es am 2. September.** S. 623: **Wir beendeten das zweite Buch der Physik am 24. November....** S. 779: **Das dritte Buch beendeten wir am 9. Dezember....** S. 880: **Am Tag nach Epiphanie, das heißt am 7. Januar....** S. 923: **Das vierte Buch, am ersten Tag nach Epiphanie begonnen (?) und nach der Oktav vollendet, brachten wir Christus dar....** S. 1019: **Wir beendeten das Kontinuum, das durch kontinuierliche Arbeit nicht zu erfassen ist, am 28. Januar am Morgen....** S. 1034: **...bei der Vollendung der acht Bücher der Physik am 30. Januar sei die Summe und die Oktav Lob Gottes....**\n\nKeiner dieser Schlussvermerke verrät, in welchem Jahr unser Codex geschrieben wurde. Da er jedoch dieselben Disputationen enthält wie die Codices MN II 75 und 76, wird man nicht bezweifeln, dass auch dieser Codex im Studienjahr 1659/60 entstanden ist.\n\nDen Schreiber nennt die Rückenaufschrift: **Acht Bücher der Physik, Handschrift des hochwürdigsten Abelzhauser aus Seitenstetten.** Es schrieb diesen Codex – und die sieben folgenden Codices – also **Benedictus Abelzhauser**, der von 1687 bis 1717 dem Kloster Seitenstetten als Abt vorstand. Der Verfasser ist unbekannt. (Zu den Codices MN II 75 und 76 siehe oben S. 49!)",
+    "germanHtml": "<p>1044 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite <strong>I H S</strong>, auf der Rückseite die <strong>Unbefleckte Mutter nach Apk 12,1</strong>; geschrieben 1659/60.</p>\n<p><strong>(Disputationen zu den acht Büchern der Physik des Aristoteles):</strong> S. 5–1034. Anfang der Vorrede S. 5: Nachdem wir die klippenreiche Meerenge der Logik durchquert haben, gelangen wir endlich zu den glücklichen Inseln der Natur.....</p>\n<p>Schlussvermerke: S. 260: <strong>Und damit möge das zum ersten Buch der Physik Gesagte genügen; wir beendeten es am 2. September.</strong> S. 623: <strong>Wir beendeten das zweite Buch der Physik am 24. November....</strong> S. 779: <strong>Das dritte Buch beendeten wir am 9. Dezember....</strong> S. 880: <strong>Am Tag nach Epiphanie, das heißt am 7. Januar....</strong> S. 923: <strong>Das vierte Buch, am ersten Tag nach Epiphanie begonnen (?) und nach der Oktav vollendet, brachten wir Christus dar....</strong> S. 1019: <strong>Wir beendeten das Kontinuum, das durch kontinuierliche Arbeit nicht zu erfassen ist, am 28. Januar am Morgen....</strong> S. 1034: <strong>...bei der Vollendung der acht Bücher der Physik am 30. Januar sei die Summe und die Oktav Lob Gottes....</strong></p>\n<p>Keiner dieser Schlussvermerke verrät, in welchem Jahr unser Codex geschrieben wurde. Da er jedoch dieselben Disputationen enthält wie die Codices MN II 75 und 76, wird man nicht bezweifeln, dass auch dieser Codex im Studienjahr 1659/60 entstanden ist.</p>\n<p>Den Schreiber nennt die Rückenaufschrift: <strong>Acht Bücher der Physik, Handschrift des hochwürdigsten Abelzhauser aus Seitenstetten.</strong> Es schrieb diesen Codex – und die sieben folgenden Codices – also <strong>Benedictus Abelzhauser</strong>, der von 1687 bis 1717 dem Kloster Seitenstetten als Abt vorstand. Der Verfasser ist unbekannt. (Zu den Codices MN II 75 und 76 siehe oben S. 49!)</p>",
+    "latin": "1044 pagg.; teg. a2 (in parte adversa I H S, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1659/60\n\n(Disputationes In Octo Libros Physicorum Aristotelis): p. 5–1034. Initium Prooemii p. 5: Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....\n\nClausulae: p. 260: Et haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus. p. 623: Absolvimus Secundum Librum Physicorum 24 Novembris.... p. 779: Tertium Librum 9 Decembris finivimus.... p. 880: Proxima die post Epiphaniam hoc est 7 Januarii.... p. 923: Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.... p. 1019: Absolvimus Continuum continuo Labore non capiendum 28 Januarii menè.... p. 1034: ...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus....\n\nNe una quidem ex omnibus istis clausulis prodit, quo anno scriptus sit codex noster. Sed quod easdem disputationes continet, quas codices MN II 75 et 76, non dubitabis, quin et hic codex anno scholari 1659/60 ortus sit. Scriptorem exhibet inscriptio dorsi: octo Libri Physicorum Reverendissimi Abelzhauser Seittenstettensis M S. Scripsit igitur hunc (et septem sequentes codices) **Benedictus Abelzhauser**, qui 1687–1717 praefuit coenobio Seittenstettensi. Auctor ignotus. (De codicibus MN II 75 et 76 respice supra p. 49!)",
+    "latinHtml": "<p>1044 pagg.; teg. a2 (in parte adversa I H S, in aversa Mater Immaculata secundum Apoc. XII 1); script. 1659/60</p>\n<p>(Disputationes In Octo Libros Physicorum Aristotelis): p. 5–1034. Initium Prooemii p. 5: Peragrato scopuloso Logicae freto ad fortunatas tandem naturae Insulas pervenimus.....</p>\n<p>Clausulae: p. 260: Et haec in Librum 1. Physicorum dicta sufficiant. quem 2. Septembris absolvimus. p. 623: Absolvimus Secundum Librum Physicorum 24 Novembris.... p. 779: Tertium Librum 9 Decembris finivimus.... p. 880: Proxima die post Epiphaniam hoc est 7 Januarii.... p. 923: Librum quartum prima post Epiphaniae die ortum (?) eodem post octavam absolutum Christo obtulimus.... p. 1019: Absolvimus Continuum continuo Labore non capiendum 28 Januarii menè.... p. 1034: ...in absolutione 30 Januarii octo Librorum Physicorum Summa et octava sit Deo Laus....</p>\n<p>Ne una quidem ex omnibus istis clausulis prodit, quo anno scriptus sit codex noster. Sed quod easdem disputationes continet, quas codices MN II 75 et 76, non dubitabis, quin et hic codex anno scholari 1659/60 ortus sit. Scriptorem exhibet inscriptio dorsi: octo Libri Physicorum Reverendissimi Abelzhauser Seittenstettensis M S. Scripsit igitur hunc (et septem sequentes codices) <strong>Benedictus Abelzhauser</strong>, qui 1687–1717 praefuit coenobio Seittenstettensi. Auctor ignotus. (De codicibus MN II 75 et 76 respice supra p. 49!)</p>"
+  },
+  "source": {
+    "file": "MN II 80.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-80/",
+  "relations": [
+    {
+      "typeRaw": "complete_parallel_of",
+      "typeLabel": "complete parallel of",
+      "targetRaw": "[[MN II 75]]",
+      "targetId": "mn-ii-75",
+      "targetSignature": "MN II 75",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "complete_parallel_of",
+      "typeLabel": "complete parallel of",
+      "targetRaw": "[[MN II 76]]",
+      "targetId": "mn-ii-76",
+      "targetSignature": "MN II 76",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 80",
+    "titles": "Disputationes In Octo Libros Physicorum Aristotelis \nDisputationes In Octo Libros Physicorum Aristotelis",
+    "persons": "Benedictus Abelzhauser Schreiber scribe \nBenedictus Abelzhauser Schreiber scribe \nunbekannt Autor author \nBenedictus Abelzhauser Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n1044 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+  }
+}

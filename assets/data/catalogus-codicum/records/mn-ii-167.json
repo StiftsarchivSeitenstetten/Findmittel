@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-167",
+  "signature": "MN II 167",
+  "aliases": [
+    "Bibl. Cod. MN II 167"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "131",
+  "heading": {
+    "title": "Tractatus De gratia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1690 (?)"
+  },
+  "date": {
+    "display": "ca. 1690 (?)",
+    "intervals": [
+      {
+        "from": 1690,
+        "to": 1690,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De gratia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–562",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Schluss fehlt; die Abhandlung ist unvollständig."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Fide, Spe, Charitate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 569–677",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio prima De fide",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 569–677",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "682 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1690 (?)",
+        "intervals": [
+          {
+            "from": 1690,
+            "to": 1690,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "682 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1690 (?).\n\na) **Abhandlung über die Gnade:** S. 5–562. Anfang S. 5: Das Wort Gnade wird gewöhnlich in dreifachem Sinn gebraucht...... Der Schluss fehlt, da die Abhandlung unvollständig ist.\n\nb) **Abhandlung über Glaube, Hoffnung und Liebe:** S. 569–677. Anfang S. 569: Erste Disputation über den Glauben. In der Heiligen Schrift hat das Wort Glaube verschiedene Bedeutungen......\n\nVerfasser und Schreiber sind unbekannt; die Schrift scheint jedoch am Ende des 17. Jahrhunderts entstanden zu sein.",
+    "germanHtml": "<p>682 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1690 (?).</p>\n<p>a) <strong>Abhandlung über die Gnade:</strong> S. 5–562. Anfang S. 5: Das Wort Gnade wird gewöhnlich in dreifachem Sinn gebraucht...... Der Schluss fehlt, da die Abhandlung unvollständig ist.</p>\n<p>b) <strong>Abhandlung über Glaube, Hoffnung und Liebe:</strong> S. 569–677. Anfang S. 569: Erste Disputation über den Glauben. In der Heiligen Schrift hat das Wort Glaube verschiedene Bedeutungen......</p>\n<p>Verfasser und Schreiber sind unbekannt; die Schrift scheint jedoch am Ende des 17. Jahrhunderts entstanden zu sein.</p>",
+    "latin": "682 pagg.; teg. a2; script. ca. 1690 (?)\n\na) Tractatus De gratia: pag. 5–562. Initium p. 5: Nomen gratiae tripliciter solet accipi...... Clausula deest, quod tractatus non perfectus est.\n\nb) Tractatus De Fide, Spe, Charitate: p. 569–677. Initium p. 569: Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......\n\nAuctor et scriptor ignoti, sed scriptura in fine saec. XVII orta esse videtur.",
+    "latinHtml": "<p>682 pagg.; teg. a2; script. ca. 1690 (?)</p>\n<p>a) Tractatus De gratia: pag. 5–562. Initium p. 5: Nomen gratiae tripliciter solet accipi...... Clausula deest, quod tractatus non perfectus est.</p>\n<p>b) Tractatus De Fide, Spe, Charitate: p. 569–677. Initium p. 569: Disputatio I. De fide Variae sunt in Sacrâ Scripturâ fidei significationes......</p>\n<p>Auctor et scriptor ignoti, sed scriptura in fine saec. XVII orta esse videtur.</p>"
+  },
+  "source": {
+    "file": "MN II 167.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-167/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 167",
+    "titles": "Tractatus De gratia \nTractatus De gratia \nTractatus De Fide, Spe, Charitate \nDisputatio prima De fide",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Schluss fehlt; die Abhandlung ist unvollständig. \nincomplete",
+    "physical": "Papier \n682 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

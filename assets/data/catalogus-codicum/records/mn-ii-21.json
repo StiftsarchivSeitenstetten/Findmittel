@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-21",
+  "signature": "MN II 21",
+  "aliases": [
+    "Bibl. Cod. MN II 21",
+    "De Actibus Humanis et De Legibus"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "14",
+  "heading": {
+    "title": "(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1633"
+  },
+  "date": {
+    "display": "1633",
+    "intervals": [
+      {
+        "from": 1633,
+        "to": 1633,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Abhandlungen über menschliche Handlungen und Gesetze; geschrieben von Benedict Graff.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Legibus: fol. 185r - 245r.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus de Legibus: fol. 185r - 245r."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Benedict Graff OSB",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 254 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1633",
+        "intervals": [
+          {
+            "from": 1633,
+            "to": 1633,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 254 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1633.\n\n**a) Abhandlung über menschliche Handlungen:** Bl. 1–181v (Titelblatt leer!). Anfang der Vorrede Bl. 1r: **Die erste Behandlung der Moraltheologie handelt von den menschlichen Handlungen....** Schlussvermerk Bl. 181v: **Wir schlossen in der Übung am vierten Adventssonntag, dem 18. Dezember, nach der in der Aula gefeierten Messe, um halb zehn, im Jahr des wiederhergestellten Heils 1633.**\n\n**b) Abhandlung über die Gesetze:** Bl. 185r–245r.\n\nAnfang der Vorrede Bl. 185r: **Über die Gesetze gehört einiges zu den spekulativen Theologen....** Schlussvermerk Bl. 245r: **23. Dezember, vor dem Vigilfest der Geburt Christi 1633.**\n\nDie Initialen auf der Vorderseite des Einbandes sind dieselben wie in Codex MN II 20. Daher schrieb auch diesen Codex Fr. Benedict Graff; sein Verfasser ist jedoch unbekannt.",
+    "germanHtml": "<p>II + 254 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen; geschrieben 1633.</p>\n<p><strong>a) Abhandlung über menschliche Handlungen:</strong> Bl. 1–181v (Titelblatt leer!). Anfang der Vorrede Bl. 1r: <strong>Die erste Behandlung der Moraltheologie handelt von den menschlichen Handlungen....</strong> Schlussvermerk Bl. 181v: <strong>Wir schlossen in der Übung am vierten Adventssonntag, dem 18. Dezember, nach der in der Aula gefeierten Messe, um halb zehn, im Jahr des wiederhergestellten Heils 1633.</strong></p>\n<p><strong>b) Abhandlung über die Gesetze:</strong> Bl. 185r–245r.</p>\n<p>Anfang der Vorrede Bl. 185r: <strong>Über die Gesetze gehört einiges zu den spekulativen Theologen....</strong> Schlussvermerk Bl. 245r: <strong>23. Dezember, vor dem Vigilfest der Geburt Christi 1633.</strong></p>\n<p>Die Initialen auf der Vorderseite des Einbandes sind dieselben wie in Codex MN II 20. Daher schrieb auch diesen Codex Fr. Benedict Graff; sein Verfasser ist jedoch unbekannt.</p>",
+    "latin": "II + 254 foll.; teg. a2; script. 1633\n\na) (Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.\n\nb) Tractatus de Legibus: fol. 185r - 245r.\n\nInitium Prooemii fol. 185r: De Legibus aliqua ad Theologos speculativos.... Clausula fol. 245r: 23 Decem. ante vigiliam nativitatis Christi 1633.\n\nLitterae initiales in adversa tegumenti parte ut in Cod. MN II 20. Itaque etiam hunc codicem Fr. Benedictus Graff conscripsit; auctor vero eius ignotus est.",
+    "latinHtml": "<p>II + 254 foll.; teg. a2; script. 1633</p>\n<p>a) (Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633.</p>\n<p>b) Tractatus de Legibus: fol. 185r - 245r.</p>\n<p>Initium Prooemii fol. 185r: De Legibus aliqua ad Theologos speculativos.... Clausula fol. 245r: 23 Decem. ante vigiliam nativitatis Christi 1633.</p>\n<p>Litterae initiales in adversa tegumenti parte ut in Cod. MN II 20. Itaque etiam hunc codicem Fr. Benedictus Graff conscripsit; auctor vero eius ignotus est.</p>"
+  },
+  "source": {
+    "file": "MN II 21.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-21/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 21",
+    "titles": "(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633. \n(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633. \nTractatus de Legibus: fol. 185r - 245r.",
+    "persons": "unbekannt Autor author \nFr. Benedict Graff OSB Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Abhandlungen über menschliche Handlungen und Gesetze; geschrieben von Benedict Graff. \n(Tractatus de Actibus Humanis): fol. 1 - 181v (Folium titulare vacuum!) Initium Praefationis fol. 1r: Prima Theologiae moralis Tractatio, de Humanis actibus est.... Clausula fol. 181v: Absolvimus exercitio quarta Dominica Adventus, quae est 18 Decembris, post sacrum in aula habitum, media decima. Anno reparatae salutis 1633. \nTractatus de Legibus: fol. 185r - 245r.",
+    "physical": "Papier \nII + 254 Blätter \nQuartformat \ncode: a2; description: Weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+  }
+}

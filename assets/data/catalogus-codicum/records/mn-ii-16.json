@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-16",
+  "signature": "MN II 16",
+  "aliases": [
+    "Bibl. Cod. MN II 16",
+    "Anima et Metaphysica"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "12–13",
+  "heading": {
+    "title": "*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1630"
+  },
+  "date": {
+    "display": "1630",
+    "intervals": [
+      {
+        "from": 1630,
+        "to": 1630,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Vorlesungen Simon Fyrbas’ über Seele und Metaphysik, mitgeschrieben von Ludwig Scherb.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Simon Fyrbas OSB",
+      "roleRaw": "author_lecturer",
+      "roleLabel": "author lecturer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Ludwig Scherb OSB",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "224 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1630",
+        "intervals": [
+          {
+            "from": 1630,
+            "to": 1630,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "178 + 46 = 224 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen (wie MN II 13); geschrieben 1630.\n\n**a) Die Seele, erläutert von Fr. Simon Fyrbas** (wie MN II 15), mitgeschrieben vom Ordensmann Fr. Ludwig Scherb, 1630.\n\nAnfang der Vorrede (13. Mai 1630) Bl. 1: **Wir beginnen glücklich an diesem Tag um halb acht; kein weltlicher Student nahm teil wegen eines in der Stadt Salzburg entstandenen Gerüchts, das jedoch bald verstummte.** Bl. 68r Notiz über einen am 11. August 1630 unternommenen Spaziergang von acht Meilen. Schlussvermerke Bl. 125v, 131v (mit Eile), 167r: **17. September 1630.** Register Bl. 173v–176v.\n\n**b) Metaphysik**, diktiert und erläutert von P. Simon Fyrbas (wie oben), mitgeschrieben von Fr. Ludwig Scherb, 1630.\n\nAnfang der Vorrede: **Alle Menschen, sagt Aristoteles.....** Bl. 13r Notiz zum 22. September 1630: **Ich kaufte vom Vizechormeister sehr schöne Gesänge, nämlich Alessandro Grandi, Crivelius (Rivelius?) und Colombinus, wofür ich einen Gulden und einen halben Reichstaler gab.** Bl. 46 (=224)r Schlussvermerk des zweijährigen philosophischen Kurses: **7. Oktober 1630.**",
+    "germanHtml": "<p>178 + 46 = 224 Blätter; weißer, mit Schweinsleder bezogener Holzeinband mit eingeprägten ungefärbten Verzierungen (wie MN II 13); geschrieben 1630.</p>\n<p><strong>a) Die Seele, erläutert von Fr. Simon Fyrbas</strong> (wie MN II 15), mitgeschrieben vom Ordensmann Fr. Ludwig Scherb, 1630.</p>\n<p>Anfang der Vorrede (13. Mai 1630) Bl. 1: <strong>Wir beginnen glücklich an diesem Tag um halb acht; kein weltlicher Student nahm teil wegen eines in der Stadt Salzburg entstandenen Gerüchts, das jedoch bald verstummte.</strong> Bl. 68r Notiz über einen am 11. August 1630 unternommenen Spaziergang von acht Meilen. Schlussvermerke Bl. 125v, 131v (mit Eile), 167r: <strong>17. September 1630.</strong> Register Bl. 173v–176v.</p>\n<p><strong>b) Metaphysik</strong>, diktiert und erläutert von P. Simon Fyrbas (wie oben), mitgeschrieben von Fr. Ludwig Scherb, 1630.</p>\n<p>Anfang der Vorrede: <strong>Alle Menschen, sagt Aristoteles.....</strong> Bl. 13r Notiz zum 22. September 1630: <strong>Ich kaufte vom Vizechormeister sehr schöne Gesänge, nämlich Alessandro Grandi, Crivelius (Rivelius?) und Colombinus, wofür ich einen Gulden und einen halben Reichstaler gab.</strong> Bl. 46 (=224)r Schlussvermerk des zweijährigen philosophischen Kurses: <strong>7. Oktober 1630.</strong></p>",
+    "latin": "178 + 46 = 224 foll., teg. a1 (ut MN II 13); script. 1630\n\na) *Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.*\n\nInitium Prooemii (Anno 1630. 13 Maii) fol. 1: incipimus feliciter die isti, hora media octava, qua nullus saecularis studiosus frequentavit, ob causam rumoris excitati in Urbe Salisburgensi, quae tamen brevi occidit. Fol. 68r. nota de quadam deambulatione 8 milliariorum 11. Aug. 1630 facta. Clausulae f. 125v., 131v (cum properatione), 167r.: 17. die Septembris 1630. Index fol. 173v. - 176v.\n\nb) *Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*\n\nInitium Prooemii: Omnes homines ait Aristoteles..... Fol. 13r. nota ad 22. Sept. 1630: emi â Vice chori magistro pulcherrimas cantilenas, scilicet Alexandrum di Grandi, Crivelium (Rivelium?), et Columbinum, pro quibus dedi florenum cum dimidio, regni talerum. Fol. 46 (=224)r. Clausula biennii philosophici: 7. die Octobris 1630.",
+    "latinHtml": "<p>178 + 46 = 224 foll., teg. a1 (ut MN II 13); script. 1630</p>\n<p>a) <em>Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.</em></p>\n<p>Initium Prooemii (Anno 1630. 13 Maii) fol. 1: incipimus feliciter die isti, hora media octava, qua nullus saecularis studiosus frequentavit, ob causam rumoris excitati in Urbe Salisburgensi, quae tamen brevi occidit. Fol. 68r. nota de quadam deambulatione 8 milliariorum 11. Aug. 1630 facta. Clausulae f. 125v., 131v (cum properatione), 167r.: 17. die Septembris 1630. Index fol. 173v. - 176v.</p>\n<p>b) <em>Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.</em></p>\n<p>Initium Prooemii: Omnes homines ait Aristoteles..... Fol. 13r. nota ad 22. Sept. 1630: emi â Vice chori magistro pulcherrimas cantilenas, scilicet Alexandrum di Grandi, Crivelium (Rivelium?), et Columbinum, pro quibus dedi florenum cum dimidio, regni talerum. Fol. 46 (=224)r. Clausula biennii philosophici: 7. die Octobris 1630.</p>"
+  },
+  "source": {
+    "file": "MN II 16.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-16/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 16",
+    "titles": "*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.* \n*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.* \n*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*",
+    "persons": "P. Simon Fyrbas OSB author lecturer author_lecturer \nFr. Ludwig Scherb OSB Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Vorlesungen Simon Fyrbas’ über Seele und Metaphysik, mitgeschrieben von Ludwig Scherb. \n*Anima exposita ab ......Fratre Simone Fyrbas ....(ut MN II 15).. Religioso fratre Ludovico Scherbio ......excipiente anno 1630.* \n*Metaphysica Ab......Patre Simone Fyrbas....(ut supra)..dictata et Explicata, Excipiente Religioso Fr. Ludovico Scherbio .....1630.*",
+    "physical": "Papier \n224 Blätter \nQuartformat \ncode: a1; description: Wie MN II 13: weißer Holzeinband mit Schweinsleder und eingeprägten ungefärbten Verzierungen."
+  }
+}

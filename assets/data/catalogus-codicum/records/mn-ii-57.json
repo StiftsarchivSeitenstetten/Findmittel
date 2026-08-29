@@ -1,0 +1,246 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-57",
+  "signature": "MN II 57",
+  "aliases": [
+    "Bibl. Cod. MN II 57",
+    "Cursus philosophicus Amandi Pachler"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "36–37",
+  "heading": {
+    "title": "Commentarius in Libros De Coelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653"
+  },
+  "date": {
+    "display": "1653",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Fortsetzung des philosophischen Kurses Amandus Pachlers mit De coelis, De ortu et interitu, De anima und Metaphysik sowie einer Briefabschrift.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Libros De Coelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1–72",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "In Duos Libros De Ortu et Interitu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 72v–175v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Commentarius In 3. Libros De Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 167–264v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Indices ad partes a–c",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 265r–267r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Quatuordecim Libros Metaphysicorum Aristotelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1–31r (= 268r–298r)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Litterae Datae ex Monasterio Seittenstöttensi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 32 (=299)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Amandus Pachler OSB",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Joseph Schwaiger, Profess von Seitenstetten",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 267 + 33 (= 303) Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 267 + 33 (= 303) Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1653.\n\na) **Kommentar zu den Büchern „Über den Himmel“, vorgetragen von P. Amandus Pachler ... wie in Codex MN II 56 ... und aufgezeichnet von Fr. Joseph Schwaiger ... wie ebendort ... 1652:** Bl. 1–72. Anfang der Vorrede: **Es ist angemessen, dass der menschliche Geist die Augen erhebt....** Schluss: **Wir beendeten am 2. März 1653.**\n\nb) **Zu den zwei Büchern „Über Entstehen und Vergehen“:** Bl. 72v–175v. Anfang der Vorrede: **Vom Himmel steigen wir über die Elemente zur Erde herab....** Schluss: **Wir beendeten am 31. Mai 1653.**\n\nc) **Kommentar zu den drei Büchern „Über die Seele“:** Bl. 167–264v. Anfang der Vorrede: **Wir nähern uns allmählich dem Ende der Physik....** Schluss: **Wir beendeten am 3. September im Jahr 1653.**\n\nd) **Register zu den Teilen a–c:** Bl. 265r–267r.\n\ne) **Kurzer Kommentar zu den vierzehn Büchern der Metaphysik des Aristoteles, vorgetragen von P. Amandus Pachler ... und aufgezeichnet von Fr. Joseph Schwaiger ... Profess von Seitenstetten in Niederösterreich, 1653:** Bl. 1–31r (= 268r–298r), mit Register Bl. 31 (=298)v. Anfang der Vorrede: **Wir steigen zum höchsten Gipfel der Naturwissenschaft empor....** Schluss Bl. 31 (=298)r: **Wir beendeten ... unseren philosophischen Kurs unter dem Klang von Trommeln und Orgeln am 15. September 1653.**\n\nf) **Brief aus dem Kloster Seitenstetten vom 6. September 1653** (an den Erzbischof von Salzburg?), damit die Brüder Joseph Schwaiger und Joachimus Hartung, damals an der Universität Salzburg Studenten der Philosophie und Moraltheologie, zur heiligen Diakonatsweihe zugelassen würden (Abschrift): Bl. 32 (=299).\n\nDie Initialen auf dem Einband sind dieselben wie bei Codex MN II 55.",
+    "germanHtml": "<p>III + 267 + 33 (= 303) Blätter; weißer Einband aus Holz mit Schweinsleder und eingeprägten ungefärbten Verzierungen wie bei Codex MN II 55; geschrieben 1653.</p>\n<p>a) <strong>Kommentar zu den Büchern „Über den Himmel“, vorgetragen von P. Amandus Pachler ... wie in Codex MN II 56 ... und aufgezeichnet von Fr. Joseph Schwaiger ... wie ebendort ... 1652:</strong> Bl. 1–72. Anfang der Vorrede: <strong>Es ist angemessen, dass der menschliche Geist die Augen erhebt....</strong> Schluss: <strong>Wir beendeten am 2. März 1653.</strong></p>\n<p>b) <strong>Zu den zwei Büchern „Über Entstehen und Vergehen“:</strong> Bl. 72v–175v. Anfang der Vorrede: <strong>Vom Himmel steigen wir über die Elemente zur Erde herab....</strong> Schluss: <strong>Wir beendeten am 31. Mai 1653.</strong></p>\n<p>c) <strong>Kommentar zu den drei Büchern „Über die Seele“:</strong> Bl. 167–264v. Anfang der Vorrede: <strong>Wir nähern uns allmählich dem Ende der Physik....</strong> Schluss: <strong>Wir beendeten am 3. September im Jahr 1653.</strong></p>\n<p>d) <strong>Register zu den Teilen a–c:</strong> Bl. 265r–267r.</p>\n<p>e) <strong>Kurzer Kommentar zu den vierzehn Büchern der Metaphysik des Aristoteles, vorgetragen von P. Amandus Pachler ... und aufgezeichnet von Fr. Joseph Schwaiger ... Profess von Seitenstetten in Niederösterreich, 1653:</strong> Bl. 1–31r (= 268r–298r), mit Register Bl. 31 (=298)v. Anfang der Vorrede: <strong>Wir steigen zum höchsten Gipfel der Naturwissenschaft empor....</strong> Schluss Bl. 31 (=298)r: <strong>Wir beendeten ... unseren philosophischen Kurs unter dem Klang von Trommeln und Orgeln am 15. September 1653.</strong></p>\n<p>f) <strong>Brief aus dem Kloster Seitenstetten vom 6. September 1653</strong> (an den Erzbischof von Salzburg?), damit die Brüder Joseph Schwaiger und Joachimus Hartung, damals an der Universität Salzburg Studenten der Philosophie und Moraltheologie, zur heiligen Diakonatsweihe zugelassen würden (Abschrift): Bl. 32 (=299).</p>\n<p>Die Initialen auf dem Einband sind dieselben wie bei Codex MN II 55.</p>",
+    "latin": "III + 267 + 33 (=303) foll.; teg. a2 (ut in cod. MN II 55); 1653\n\na) *Commentarius in Libros De Coelis Traditus Ab.... P. Amando Pachler.... (ut in cod. MN II 56).... Exceptus A. R. F. Josepho Schwaiger.... (ut in eodem cod.).... 1652:* fol. 1 - 72. *Initium* Prooemii: Dignum est ut humanum ingenium attollat oculos.... *Clausula:* Absolvimus secundo Martii 1653.\n\nb) *In Duos Libros De Ortu et Interitu:* fol. 72v - 175v. *Initium* Prooemii: De coelis per elementa ad terram descendimus.... *Clausula:* Finivimus 31 Maii 1653.\n\nc) *Commentarius In 3. Libros De Anima:* fol. 167 - 264v. *Initium* Prooemii: Accedimus paulatim ad finem physicae.... *Clausula:* Absolvimus tertio Septembris Anno 1653.\n\nd) *Indices ad partes a - c:* fol. 265r - 267r\n\ne) *Commentarius In Quatuordecim Libros Metaphysicorum Aristotelis Compendiosus. Traditus Ab..... P. Amando Pachler ..... (ut in codice MN II 56)..... Exceptus A. R. F. Josepho Schwaiger ..... (ut in eodem codice).... Seittenstöttensi Inferioris Austriae Professo. 1.6.5.3.:* fol. 1 - 31r (=268r - 298r) cum Indice fol. 31 (=298)v. *Initium* Proaemii: Accedimus ad supremum scientiae naturalis apicem.... *Clausula* fol. 31 (=298)r: Absolvimus .... nostrum Cursum Philosophicum Sonantibus tympanis et organis. 15 Septembris Anno 1653.\n\nf) *Litterae Datae ex Monasterio Seittenstöttensi. 6. Septembris. Anno 1653 (ad Archiepiscopum Salisburgensem?), ut fratres Josephus Schwaiger et Joachimus Hartung, pro tempore in alma Universitate Salisburgensi Philosophiae et Theologiae Moralis studiosi, ad S. Diaconatus ordinem admitterentur* (apographon): fol. 32 (=299)\n\nLitterae initiales in tegumento ut in codice MN II 55 (supra p. 36)",
+    "latinHtml": "<p>III + 267 + 33 (=303) foll.; teg. a2 (ut in cod. MN II 55); 1653</p>\n<p>a) <em>Commentarius in Libros De Coelis Traditus Ab.... P. Amando Pachler.... (ut in cod. MN II 56).... Exceptus A. R. F. Josepho Schwaiger.... (ut in eodem cod.).... 1652:</em> fol. 1 - 72. <em>Initium</em> Prooemii: Dignum est ut humanum ingenium attollat oculos.... <em>Clausula:</em> Absolvimus secundo Martii 1653.</p>\n<p>b) <em>In Duos Libros De Ortu et Interitu:</em> fol. 72v - 175v. <em>Initium</em> Prooemii: De coelis per elementa ad terram descendimus.... <em>Clausula:</em> Finivimus 31 Maii 1653.</p>\n<p>c) <em>Commentarius In 3. Libros De Anima:</em> fol. 167 - 264v. <em>Initium</em> Prooemii: Accedimus paulatim ad finem physicae.... <em>Clausula:</em> Absolvimus tertio Septembris Anno 1653.</p>\n<p>d) <em>Indices ad partes a - c:</em> fol. 265r - 267r</p>\n<p>e) <em>Commentarius In Quatuordecim Libros Metaphysicorum Aristotelis Compendiosus. Traditus Ab..... P. Amando Pachler ..... (ut in codice MN II 56)..... Exceptus A. R. F. Josepho Schwaiger ..... (ut in eodem codice).... Seittenstöttensi Inferioris Austriae Professo. 1.6.5.3.:</em> fol. 1 - 31r (=268r - 298r) cum Indice fol. 31 (=298)v. <em>Initium</em> Proaemii: Accedimus ad supremum scientiae naturalis apicem.... <em>Clausula</em> fol. 31 (=298)r: Absolvimus .... nostrum Cursum Philosophicum Sonantibus tympanis et organis. 15 Septembris Anno 1653.</p>\n<p>f) <em>Litterae Datae ex Monasterio Seittenstöttensi. 6. Septembris. Anno 1653 (ad Archiepiscopum Salisburgensem?), ut fratres Josephus Schwaiger et Joachimus Hartung, pro tempore in alma Universitate Salisburgensi Philosophiae et Theologiae Moralis studiosi, ad S. Diaconatus ordinem admitterentur</em> (apographon): fol. 32 (=299)</p>\n<p>Litterae initiales in tegumento ut in codice MN II 55 (supra p. 36)</p>"
+  },
+  "source": {
+    "file": "MN II 57.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-57/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 56]]",
+      "targetId": "mn-ii-56",
+      "targetSignature": "MN II 56",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 57",
+    "titles": "Commentarius in Libros De Coelis \nCommentarius in Libros De Coelis \nIn Duos Libros De Ortu et Interitu \nCommentarius In 3. Libros De Anima \nIndices ad partes a–c \nCommentarius In Quatuordecim Libros Metaphysicorum Aristotelis \nLitterae Datae ex Monasterio Seittenstöttensi",
+    "persons": "P. Amandus Pachler OSB Dozent lecturer \nFr. Joseph Schwaiger, Profess von Seitenstetten Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Fortsetzung des philosophischen Kurses Amandus Pachlers mit De coelis, De ortu et interitu, De anima und Metaphysik sowie einer Briefabschrift.",
+    "physical": "Papier \nIII + 267 + 33 (= 303) Blätter \nQuartformat \ncode: a2; description: Weißer Einband (Holz mit Schweinsleder), mit eingeprägten ungefärbten Verzierungen, wie MN II 55."
+  }
+}

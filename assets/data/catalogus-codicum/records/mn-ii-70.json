@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-70",
+  "signature": "MN II 70",
+  "aliases": [
+    "Bibl. Cod. MN II 70",
+    "Commentarius In Octo Libros Physicorum"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "45–46",
+  "heading": {
+    "title": "Commentarius In Octo Libros Physicorum",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1654/55"
+  },
+  "date": {
+    "display": "1654/55",
+    "intervals": [
+      {
+        "from": 1654,
+        "to": 1655,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Octo Libros Physicorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–257",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus II. in IV. Libros De Coelo et Mundo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 257a–355",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents"
+    },
+    {
+      "name": "Fr. Adam Piringer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VIII + 368 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1654/55",
+        "intervals": [
+          {
+            "from": 1654,
+            "to": 1655,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_initials",
+      "text": ".F.A.P.P.S.",
+      "expansion": "Frater Adamus Piringer Professus Seittenstettensis"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VIII + 368 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 68; geschrieben 1654/55.\n\na) **Kommentar zu den acht Büchern der Physik, vorgetragen von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten Kloster Seitenstetten in Niederösterreich, im Jahr 1654.**\n\nAnfang der Vorrede S. 1: Nachdem wir die schreckliche Wüste (der Logik) durchquert haben, gelangen wir zu den lieblichen Gefilden der Physik.... Schluss S. 257: **Wir beendeten diese Bücher der Physik am 9. Januar 1655.**\n\nb) **Zweite Abhandlung zu den vier Büchern Über den Himmel und die Welt:** S. 257a–355. Anfang der Vorrede S. 258: Nachdem der Philosoph in den acht Büchern der Physik vom Naturkörper im Allgemeinen gehandelt hat.... Schluss S. 355: **Wir beendeten [dies] am 13. Februar.**\n\nDieselben Abhandlungen findet man auch in Codex MN II 67 (oben S. 44). Auf der Vorderseite des Einbandes stehen die Initialen **.F.A.P.P.S.** = Frater Adamus Piringer Professus Seittenstettensis (über ihn siehe oben bei MN II 69).",
+    "germanHtml": "<p>VIII + 368 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 68; geschrieben 1654/55.</p>\n<p>a) <strong>Kommentar zu den acht Büchern der Physik, vorgetragen von ... P. Anselm Schlager, Benediktinermönch von Andechs, aufgezeichnet von dem Ordensmann Fr. Adam Piringer desselben Ordens, Profess im berühmten Kloster Seitenstetten in Niederösterreich, im Jahr 1654.</strong></p>\n<p>Anfang der Vorrede S. 1: Nachdem wir die schreckliche Wüste (der Logik) durchquert haben, gelangen wir zu den lieblichen Gefilden der Physik.... Schluss S. 257: <strong>Wir beendeten diese Bücher der Physik am 9. Januar 1655.</strong></p>\n<p>b) <strong>Zweite Abhandlung zu den vier Büchern Über den Himmel und die Welt:</strong> S. 257a–355. Anfang der Vorrede S. 258: Nachdem der Philosoph in den acht Büchern der Physik vom Naturkörper im Allgemeinen gehandelt hat.... Schluss S. 355: <strong>Wir beendeten [dies] am 13. Februar.</strong></p>\n<p>Dieselben Abhandlungen findet man auch in Codex MN II 67 (oben S. 44). Auf der Vorderseite des Einbandes stehen die Initialen <strong>.F.A.P.P.S.</strong> = Frater Adamus Piringer Professus Seittenstettensis (über ihn siehe oben bei MN II 69).</p>",
+    "latin": "VIII + 368 pagg.; teg. a2 (ut in codice MN II 68)\n\na) Commentarius In Octo Libros Physicorum Traditus A.... **P. Anselmo Schlager** Monacho Benedictino Andecensi Exceptus A Religioso F. **Adamo Piringer** eiusdem ordinis Monacho Professo in celebri Monasterio Seittenstettensi Austriae Inferioris Anno 1654.\n\n\n\n\nInitium Proloquii p. 1: Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos.... Clausula p. 257: absolvimus hos libros physicorum 9 Januarii Anno 1655.\n\nb) Tractatus II. in IV. Libros De Coelo et Mundo: p. 257a–p. 355. Initium Prooemii p. 258: Postquam philosophus in 8 physicorum egit de corpore naturali in communi.... Clausula p. 355: absolvimus 13 februarii.\n\nEosdem tractatus invenies etiam in codice MN II 67 (supra p. 44). Adverso in tegumento litterae initiales .F.A.P.P.S. = Frater Adamus Piringer Professus Seittenstettensis (de quo supra ad MN II 69).",
+    "latinHtml": "<p>VIII + 368 pagg.; teg. a2 (ut in codice MN II 68)</p>\n<p>a) Commentarius In Octo Libros Physicorum Traditus A.... <strong>P. Anselmo Schlager</strong> Monacho Benedictino Andecensi Exceptus A Religioso F. <strong>Adamo Piringer</strong> eiusdem ordinis Monacho Professo in celebri Monasterio Seittenstettensi Austriae Inferioris Anno 1654.</p>\n<p>Initium Proloquii p. 1: Peragrato horribili (logicae) deserto pervenimus ad amoenos phisicae campos.... Clausula p. 257: absolvimus hos libros physicorum 9 Januarii Anno 1655.</p>\n<p>b) Tractatus II. in IV. Libros De Coelo et Mundo: p. 257a–p. 355. Initium Prooemii p. 258: Postquam philosophus in 8 physicorum egit de corpore naturali in communi.... Clausula p. 355: absolvimus 13 februarii.</p>\n<p>Eosdem tractatus invenies etiam in codice MN II 67 (supra p. 44). Adverso in tegumento litterae initiales .F.A.P.P.S. = Frater Adamus Piringer Professus Seittenstettensis (de quo supra ad MN II 69).</p>"
+  },
+  "source": {
+    "file": "MN II 70.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-70/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 67]]",
+      "targetId": "mn-ii-67",
+      "targetSignature": "MN II 67",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 70",
+    "titles": "Commentarius In Octo Libros Physicorum \nCommentarius In Octo Libros Physicorum \nTractatus II. in IV. Libros De Coelo et Mundo",
+    "persons": "P. Anselm Schlager Dozent lecturer \nFr. Adam Piringer Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nVIII + 368 Seiten \ncode: a2; description: Wie MN II 68: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen."
+  }
+}

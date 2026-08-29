@@ -1,0 +1,200 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-27",
+  "signature": "MN III 27",
+  "aliases": [
+    "Bibl. Cod. MN III 27"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "192–193",
+  "heading": {
+    "title": "Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1713–1722"
+  },
+  "date": {
+    "display": "1713–1722",
+    "intervals": [
+      {
+        "from": 1713,
+        "to": 1722,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–67",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Verzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 69",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Processus Seu Ordo Eligendi, vel postulandi novum Praelatum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 79–100",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Argutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 103–123",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Der Katalog lässt offen, ob eine oder mehrere Hände beteiligt waren."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "uncertain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1713–1722",
+        "intervals": [
+          {
+            "from": 1713,
+            "to": 1722,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 246 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nach 1712 und vor 1723.\n\na) **Notizen aus dem sehr ehrwürdigen P. Andreas a S. Theresia, Karmelit:** S. 5–67; vor allem Beispiele in deutscher Sprache, aus einem gedruckten Buch zur Veranschaulichung von Predigten exzerpiert.\n\nb) **Verzaichnung waß auf dem Kasten alhir alhir M [Lesung unsicher] genomen:** S. 69. Ein sehr kurzes Verzeichnis, das angibt, wie viele Metzen Weizen usw. am 1. März eines unbekannten Jahres aus dem Getreidespeicher genommen wurden.\n\nc) **Verfahren oder Ordnung zur Wahl oder Postulation eines neuen Prälaten:** S. 79–100.\n\nIn die Eidesformel, mit der der neugewählte Abt dem Bischof von Passau Gehorsam versprach, ist S. 94 der Name eines Bischofs aus dem Geschlecht der Grafen von Rabatta eingesetzt. Da Raimund Graf von Rabatta von 1713 bis 1722 die Diözese Passau leitete, wurde wenigstens Teil c, wahrscheinlich aber der ganze Codex, nicht vor 1713 und nicht nach 1722 geschrieben.\n\nd) **Geistreiche Antworten und Aussprüche aus Caspar Ens, *Epidorpidum libri*:** S. 103–123. Diese Bücher erschienen 1624 in Köln.\n\nUnbekannt ist, wer das Büchlein schrieb; ebenso bleibt offen, ob eine einzige oder mehrere Hände beteiligt waren.",
+    "germanHtml": "<p>Kleines Oktavformat; 246 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nach 1712 und vor 1723.</p>\n<p>a) <strong>Notizen aus dem sehr ehrwürdigen P. Andreas a S. Theresia, Karmelit:</strong> S. 5–67; vor allem Beispiele in deutscher Sprache, aus einem gedruckten Buch zur Veranschaulichung von Predigten exzerpiert.</p>\n<p>b) <strong>Verzaichnung waß auf dem Kasten alhir alhir M [Lesung unsicher] genomen:</strong> S. 69. Ein sehr kurzes Verzeichnis, das angibt, wie viele Metzen Weizen usw. am 1. März eines unbekannten Jahres aus dem Getreidespeicher genommen wurden.</p>\n<p>c) <strong>Verfahren oder Ordnung zur Wahl oder Postulation eines neuen Prälaten:</strong> S. 79–100.</p>\n<p>In die Eidesformel, mit der der neugewählte Abt dem Bischof von Passau Gehorsam versprach, ist S. 94 der Name eines Bischofs aus dem Geschlecht der Grafen von Rabatta eingesetzt. Da Raimund Graf von Rabatta von 1713 bis 1722 die Diözese Passau leitete, wurde wenigstens Teil c, wahrscheinlich aber der ganze Codex, nicht vor 1713 und nicht nach 1722 geschrieben.</p>\n<p>d) <strong>Geistreiche Antworten und Aussprüche aus Caspar Ens, <em>Epidorpidum libri</em>:</strong> S. 103–123. Diese Bücher erschienen 1624 in Köln.</p>\n<p>Unbekannt ist, wer das Büchlein schrieb; ebenso bleibt offen, ob eine einzige oder mehrere Hände beteiligt waren.</p>",
+    "latin": "8° min.; 246 pagg.; teg. a1; script. post 1712, ante 1723\n\na) Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita: p. 5–67 (Praesertim exempla in lingua Germanica e libro typis impresso ad conciones illustrandas excerpta)\n\nb) Verzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen: p. 69  \nIndex brevissimus, qui exhibet, quot modii (Metzen) tritici etc. die 1 Martii (anni incerti) e granario sumpti sint.\n\nc) Processus Seu Ordo Eligendi, vel postulandi novum Praelatum: p. 79–100.  \nIn forma iuramenti, quo neoelectus abbas episcopo Pataviensi oboedientiam spondebat, p. 94 insertum est nomen episcopi e co-\n\n\n\n\nmitibus de Rabatta. Cum Raimundus Comes de Rabatta ab anno 1713 usque ad annum 1722 dioecesi Passaviensi praefuisset, saltem pars c codicis nostri, probabiliter autem totus codex non ante 1713 neque post annum 1722 scriptus est.\n\nd) Argutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris: p. 103–123. (Qui Epidorpidum libri anno 1624 Coloniae in lucem evenerunt.)\n\nNescimus, quis codicillum nostrum conscripserit, immo incertum est utrum unica manus an plures librum exaraverint.",
+    "latinHtml": "<p>8° min.; 246 pagg.; teg. a1; script. post 1712, ante 1723</p>\n<p>a) Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita: p. 5–67 (Praesertim exempla in lingua Germanica e libro typis impresso ad conciones illustrandas excerpta)</p>\n<p>b) Verzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen: p. 69 Index brevissimus, qui exhibet, quot modii (Metzen) tritici etc. die 1 Martii (anni incerti) e granario sumpti sint.</p>\n<p>c) Processus Seu Ordo Eligendi, vel postulandi novum Praelatum: p. 79–100. In forma iuramenti, quo neoelectus abbas episcopo Pataviensi oboedientiam spondebat, p. 94 insertum est nomen episcopi e co-</p>\n<p>mitibus de Rabatta. Cum Raimundus Comes de Rabatta ab anno 1713 usque ad annum 1722 dioecesi Passaviensi praefuisset, saltem pars c codicis nostri, probabiliter autem totus codex non ante 1713 neque post annum 1722 scriptus est.</p>\n<p>d) Argutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris: p. 103–123. (Qui Epidorpidum libri anno 1624 Coloniae in lucem evenerunt.)</p>\n<p>Nescimus, quis codicillum nostrum conscripserit, immo incertum est utrum unica manus an plures librum exaraverint.</p>"
+  },
+  "source": {
+    "file": "MN III 27.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-27/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 27",
+    "titles": "Annotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita \nAnnotata ex Admodum Reverendo Patre Andrea a S. Theresia Carmelita \nVerzaichnung waß auf dem Kasten alhir alhir M [lectio incerta] genomen \nProcessus Seu Ordo Eligendi, vel postulandi novum Praelatum \nArgutae Responsiones et Dicta Ex Gasparo Ens Epidorpidum Libris",
+    "persons": "unbekannt Schreiber scribe \nunbekannt Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-191",
+  "signature": "MN II 191",
+  "aliases": [
+    "Bibl. Cod. MN II 191"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "143",
+  "heading": {
+    "title": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "fortasse 1694"
+  },
+  "date": {
+    "display": "fortasse 1694",
+    "intervals": [
+      {
+        "from": 1694,
+        "to": 1694,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–393",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus in tertiam partem Divi Thomae de Sacramentis Extremae unctionis, ordinis et Matrimonii",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 393–532",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "534 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "fortasse 1694",
+        "intervals": [
+          {
+            "from": 1694,
+            "to": 1694,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "534 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; möglicherweise 1694 geschrieben.\n\na) **Abhandlung zum dritten Teil des hl. Thomas von Aquin über Tugend und Sakrament der Buße:** S. 1–393. Anfang der Vorrede: Das Sakrament der Eucharistie bildet Grenze und Abschluss des vergangenen Jahres.....\n\nb) **Abhandlung zum dritten Teil des hl. Thomas über die Sakramente der Letzten Ölung, der Weihe und der Ehe:** S. 393–532. Anfang der ersten Kontroverse über die Letzte Ölung: Dass die Letzte Ölung ein Sakrament sei.....\n\nAuch diesen Codex schrieb wahrscheinlich Fr. Joannes Rigele. Die Datierung um 1694 ergibt sich aus dem Anfang von Teil a: Die Eucharistie wurde im Vorjahr behandelt; MN II 189 zeigt, dass dies 1693 geschah. Der Verfasser ist noch nicht sicher bekannt.",
+    "germanHtml": "<p>534 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; möglicherweise 1694 geschrieben.</p>\n<p>a) <strong>Abhandlung zum dritten Teil des hl. Thomas von Aquin über Tugend und Sakrament der Buße:</strong> S. 1–393. Anfang der Vorrede: Das Sakrament der Eucharistie bildet Grenze und Abschluss des vergangenen Jahres.....</p>\n<p>b) <strong>Abhandlung zum dritten Teil des hl. Thomas über die Sakramente der Letzten Ölung, der Weihe und der Ehe:</strong> S. 393–532. Anfang der ersten Kontroverse über die Letzte Ölung: Dass die Letzte Ölung ein Sakrament sei.....</p>\n<p>Auch diesen Codex schrieb wahrscheinlich Fr. Joannes Rigele. Die Datierung um 1694 ergibt sich aus dem Anfang von Teil a: Die Eucharistie wurde im Vorjahr behandelt; MN II 189 zeigt, dass dies 1693 geschah. Der Verfasser ist noch nicht sicher bekannt.</p>",
+    "latin": "534 pagg.; teg. c2d; script. fortasse 1694\n\na) Tractatus in 3 Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae: p. 1–393. Initium Prooemii: Sacramentum Eucharistiae anni elapsi metam ac terminum excipit......\n\nb) Tractatus in 3. partem Divi Thomae de Sacramentis Extremae unctionis ordinis et Matrimonii: p. 393–532. Initium Controversiae I. De Sacramento extremae Unctionis p. 393: Extremam unctionem esse Sacramentum......\n\nEtiam hunc codicem fortasse a F. Joanne Rigele monacho Seitenstettensi scriptum esse, implicite iam p. 141 ad codices MN II 186 et 188 indicavimus. Porro anno 1694 ortum esse eum indicat initium partis a; etenim Sacramentum Eucharistiae tractatum esse anno 1693 docuit nos in pagina praecedente codex MN II 189, ab eodem clerico scriptus. Auctor autem codicis nostri nondum certe notus.",
+    "latinHtml": "<p>534 pagg.; teg. c2d; script. fortasse 1694</p>\n<p>a) Tractatus in 3 Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae: p. 1–393. Initium Prooemii: Sacramentum Eucharistiae anni elapsi metam ac terminum excipit......</p>\n<p>b) Tractatus in 3. partem Divi Thomae de Sacramentis Extremae unctionis ordinis et Matrimonii: p. 393–532. Initium Controversiae I. De Sacramento extremae Unctionis p. 393: Extremam unctionem esse Sacramentum......</p>\n<p>Etiam hunc codicem fortasse a F. Joanne Rigele monacho Seitenstettensi scriptum esse, implicite iam p. 141 ad codices MN II 186 et 188 indicavimus. Porro anno 1694 ortum esse eum indicat initium partis a; etenim Sacramentum Eucharistiae tractatum esse anno 1693 docuit nos in pagina praecedente codex MN II 189, ab eodem clerico scriptus. Auctor autem codicis nostri nondum certe notus.</p>"
+  },
+  "source": {
+    "file": "MN II 191.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-191/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 189]]",
+      "targetId": "mn-ii-189",
+      "targetSignature": "MN II 189",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 191",
+    "titles": "Tractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae \nTractatus in tertiam Partem Divi Thomae Aquinatis de virtute et Sacramento Poenitentiae \nTractatus in tertiam partem Divi Thomae de Sacramentis Extremae unctionis, ordinis et Matrimonii",
+    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n534 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

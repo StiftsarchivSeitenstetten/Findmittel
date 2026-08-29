@@ -1,0 +1,227 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-216",
+  "signature": "MN II 216",
+  "aliases": [
+    "Bibl. Cod. MN II 216"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "169",
+  "heading": {
+    "title": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "probabiliter 1702/03"
+  },
+  "date": {
+    "display": "probabiliter 1702/03",
+    "intervals": [
+      {
+        "from": 1702,
+        "to": 1703,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–759",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius in Metaphysicam Aristotelis seu Philosophia transnaturalis Aristotelico-Thomistica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 760–814",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript",
+      "note": "Wahrscheinlich derselbe unbekannte Professor wie bei MN II 214 und MN II 215."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber wie bei MN II 214 und MN II 215."
+    },
+    {
+      "name": "Fr. Ignatius Calles",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "note": "Er starb am 3. April 1702 als Theologiestudent in Salzburg, vor dem Abschluss von MN II 215 am 3. Juni 1702."
+    },
+    {
+      "name": "Fr. Ignatius Ambthofer",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "uncertain",
+      "note": "Er legte erst 1704 Profess ab; möglich bliebe nur ein früheres Philosophiestudium mit später eingetragenem Besitzvermerk."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "816 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "probabiliter 1702/03",
+        "intervals": [
+          {
+            "from": 1702,
+            "to": 1703,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "S. 5",
+      "text": "ex libris F: Ignatii",
+      "note": "Der Besitzvermerk bezeichnet nach dem Katalog nicht den Schreiber."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "816 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; wahrscheinlich 1702/03 geschrieben.\n\na) **Kommentar zur Physik des Aristoteles oder aristotelisch-thomistische Naturphilosophie:** S. 5–759. Anfang der Vorrede an die neuen Physiker: Nachdem wir endlich aus dem labyrinthartigen Dornengestrüpp der Logik.....\n\nb) **Kommentar zur Metaphysik des Aristoteles oder aristotelisch-thomistische übernatürliche Philosophie:** S. 760–814. Anfang der Vorrede: Unter Gottes Führung sind wir endlich zum zeitlich letzten Teil der Philosophie gelangt.....\n\nDa ein Kommentar zur Physik gewöhnlich unmittelbar auf den Kommentar zur Logik folgte und derselbe Schreiber MN II 214–216 schrieb, außerdem die Vorreden stilistisch stark übereinstimmen, ist sehr wahrscheinlich, dass alle drei Codices vom selben Professor diktiert wurden. Daher dürfte dieser Codex im Studienjahr 1702/03 entstanden sein.\n\nVerfasser und Schreiber bleiben unbekannt. Der auch hier vorhandene Besitzvermerk **ex libris F: Ignatii** bezeichnet den Schreiber nicht. Fr. Ignatius Calles starb am 3. April 1702 als Theologiestudent in Salzburg, also vor Abschluss von MN II 215 am 3. Juni. Fr. Ignatius Ambthofer legte erst 1704 Profess ab; sofern er nicht schon vorher Philosophie studierte und den Besitzvermerk erst später eintrug, kann auch er die Reihe nicht geschrieben haben.",
+    "germanHtml": "<p>816 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; wahrscheinlich 1702/03 geschrieben.</p>\n<p>a) <strong>Kommentar zur Physik des Aristoteles oder aristotelisch-thomistische Naturphilosophie:</strong> S. 5–759. Anfang der Vorrede an die neuen Physiker: Nachdem wir endlich aus dem labyrinthartigen Dornengestrüpp der Logik.....</p>\n<p>b) <strong>Kommentar zur Metaphysik des Aristoteles oder aristotelisch-thomistische übernatürliche Philosophie:</strong> S. 760–814. Anfang der Vorrede: Unter Gottes Führung sind wir endlich zum zeitlich letzten Teil der Philosophie gelangt.....</p>\n<p>Da ein Kommentar zur Physik gewöhnlich unmittelbar auf den Kommentar zur Logik folgte und derselbe Schreiber MN II 214–216 schrieb, außerdem die Vorreden stilistisch stark übereinstimmen, ist sehr wahrscheinlich, dass alle drei Codices vom selben Professor diktiert wurden. Daher dürfte dieser Codex im Studienjahr 1702/03 entstanden sein.</p>\n<p>Verfasser und Schreiber bleiben unbekannt. Der auch hier vorhandene Besitzvermerk <strong>ex libris F: Ignatii</strong> bezeichnet den Schreiber nicht. Fr. Ignatius Calles starb am 3. April 1702 als Theologiestudent in Salzburg, also vor Abschluss von MN II 215 am 3. Juni. Fr. Ignatius Ambthofer legte erst 1704 Profess ab; sofern er nicht schon vorher Philosophie studierte und den Besitzvermerk erst später eintrug, kann auch er die Reihe nicht geschrieben haben.</p>",
+    "latin": "816 pagg.; teg. a1; script. probabiliter 1702/03\n\na) Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica: p. 5–759.  \nInitium Proloquii Ad Neo Physicos: p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....\n\nb) Commentarius, in Metaphysicam Aristotelis; seu Philosophia transnaturalis Aristotelico-Thomistica: p. 760–814.  \nInitium Proloquii: Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....\n\nQuia Commentarius in Physicam semper Commentarium in Logicam immediate sequebatur et codex noster ab eodem scriptus est, a quo duo codices praecedentes et insuper proloquia ad codicem MN II 214 et ad partem a codicis nostri tam simili eloquentiae genere praedita sunt, ut ab eodem professore dictatos esse codices MN II 214–216 vix neges, veri simile est codicem nostrum ortum esse anno scholari 1702/03.\n\nCeterum auctor et scriptor ignoti. Nam cuius signum etiam codex noster p. 5 („ex libris F: Ignatii“) praebet, non potest esse scriptor codicum MN II 214–216. Etenim F. Ignatius Calles 3. Aprilis 1702 Salisburgi Theologiae studens obiit. Qua de re cum Cod. MN II 215 3. Junii finitus sit isque totus ab eadem manu scriptus, non potest esse exaratus a F. Ignatio Calles. Frater autem Ignatius Ambthofer utpote anno 1704 professus annis 1701–1703 nondum Ignatius nominatus est. Itaque nisi forte iam antequam habitum accepit philosophiae studuit et postea, iam in ordinem ingressus, notam possidentis codicibus MN II 215 et 216 inscripsit, non potest esse scriptor huius codicum seriei. Ex alio autem monasterio in Seitenstettense translatos esse codices nostros non est veri simile.",
+    "latinHtml": "<p>816 pagg.; teg. a1; script. probabiliter 1702/03</p>\n<p>a) Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica: p. 5–759. Initium Proloquii Ad Neo Physicos: p. 5: Postquam tandem ex Labyrinthaeis Logicae senticetis.....</p>\n<p>b) Commentarius, in Metaphysicam Aristotelis; seu Philosophia transnaturalis Aristotelico-Thomistica: p. 760–814. Initium Proloquii: Pervenimus tandem Deo Duce ad partem Philosophiae uti tempore ultimam,....</p>\n<p>Quia Commentarius in Physicam semper Commentarium in Logicam immediate sequebatur et codex noster ab eodem scriptus est, a quo duo codices praecedentes et insuper proloquia ad codicem MN II 214 et ad partem a codicis nostri tam simili eloquentiae genere praedita sunt, ut ab eodem professore dictatos esse codices MN II 214–216 vix neges, veri simile est codicem nostrum ortum esse anno scholari 1702/03.</p>\n<p>Ceterum auctor et scriptor ignoti. Nam cuius signum etiam codex noster p. 5 („ex libris F: Ignatii“) praebet, non potest esse scriptor codicum MN II 214–216. Etenim F. Ignatius Calles 3. Aprilis 1702 Salisburgi Theologiae studens obiit. Qua de re cum Cod. MN II 215 3. Junii finitus sit isque totus ab eadem manu scriptus, non potest esse exaratus a F. Ignatio Calles. Frater autem Ignatius Ambthofer utpote anno 1704 professus annis 1701–1703 nondum Ignatius nominatus est. Itaque nisi forte iam antequam habitum accepit philosophiae studuit et postea, iam in ordinem ingressus, notam possidentis codicibus MN II 215 et 216 inscripsit, non potest esse scriptor huius codicum seriei. Ex alio autem monasterio in Seitenstettense translatos esse codices nostros non est veri simile.</p>"
+  },
+  "source": {
+    "file": "MN II 216.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-216/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 214]]",
+      "targetId": "mn-ii-214",
+      "targetSignature": "MN II 214",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 215]]",
+      "targetId": "mn-ii-215",
+      "targetSignature": "MN II 215",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_lecturer_probably_as",
+      "typeLabel": "same lecturer probably as",
+      "targetRaw": "[[MN II 214]]",
+      "targetId": "mn-ii-214",
+      "targetSignature": "MN II 214",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_lecturer_probably_as",
+      "typeLabel": "same lecturer probably as",
+      "targetRaw": "[[MN II 215]]",
+      "targetId": "mn-ii-215",
+      "targetSignature": "MN II 215",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 216",
+    "titles": "Commentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica \nCommentarius In Aristotelis Physicam Seu Philosophia Naturalis Aristotelico-Thomistica \nCommentarius in Metaphysicam Aristotelis seu Philosophia transnaturalis Aristotelico-Thomistica",
+    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe \nFr. Ignatius Calles unspecified unspecified \nFr. Ignatius Ambthofer unspecified unspecified",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n816 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

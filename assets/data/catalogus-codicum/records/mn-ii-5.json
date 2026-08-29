@@ -1,0 +1,219 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-5",
+  "signature": "MN II 5",
+  "aliases": [
+    "Bibl. Cod. MN II 5",
+    "Quaestiones De physica auscultatione"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "8",
+  "heading": {
+    "title": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1617"
+  },
+  "date": {
+    "display": "1617",
+    "intervals": [
+      {
+        "from": 1617,
+        "to": 1617,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Naturphilosophische Fragen zu Physik, Himmel, Werden und Meteorologie.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Quaestio XIII In libros de generatione et corruptione: p. 384 - 410",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Quaestio XIII In libros de generatione et corruptione: p. 384 - 410"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "458 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1617",
+        "intervals": [
+          {
+            "from": 1617,
+            "to": 1617,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "6 + 452 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben im Jahr 1617.\n\n**a) Fragen zur Physik:** S. 1–353 (= 7–360).\n\nAnfang S. 1 (7): **Da die Naturwissenschaft, an die wir herangehen....**\n\nS. 353 (360): **19. Mai 1617.**\n\n**b) Elfte Frage zu den Büchern Über den Himmel und die Welt:** S. 353–384 (= 360–391).\n\nAnfang: **Um den Sinn des Aristoteles....**\n\n**c) Dreizehnte Frage zu den Büchern Über Werden und Vergehen:** S. 384–410.\n\nAnfang: **Die erste Gestalt des Körpers....**\n\n**d) Vierzehnte Frage. Über die Entstehung des vollkommenen und unvollkommenen Gemischten, wobei die Meteore behandelt werden:** S. 411–447 (= 418–454).\n\nAnfang: **Nachdem die Definition des Werdens erläutert worden ist.....**\n\nVerfasser und Schreiber sind unbekannt. Der Codex scheint jedoch in Graz entstanden zu sein.",
+    "germanHtml": "<p>6 + 452 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben im Jahr 1617.</p>\n<p><strong>a) Fragen zur Physik:</strong> S. 1–353 (= 7–360).</p>\n<p>Anfang S. 1 (7): <strong>Da die Naturwissenschaft, an die wir herangehen....</strong></p>\n<p>S. 353 (360): <strong>19. Mai 1617.</strong></p>\n<p><strong>b) Elfte Frage zu den Büchern Über den Himmel und die Welt:</strong> S. 353–384 (= 360–391).</p>\n<p>Anfang: <strong>Um den Sinn des Aristoteles....</strong></p>\n<p><strong>c) Dreizehnte Frage zu den Büchern Über Werden und Vergehen:</strong> S. 384–410.</p>\n<p>Anfang: <strong>Die erste Gestalt des Körpers....</strong></p>\n<p><strong>d) Vierzehnte Frage. Über die Entstehung des vollkommenen und unvollkommenen Gemischten, wobei die Meteore behandelt werden:</strong> S. 411–447 (= 418–454).</p>\n<p>Anfang: <strong>Nachdem die Definition des Werdens erläutert worden ist.....</strong></p>\n<p>Verfasser und Schreiber sind unbekannt. Der Codex scheint jedoch in Graz entstanden zu sein.</p>",
+    "latin": "6 + 452 pagg.; teg. a1; script. anno 1617\n\na) Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)\n\nInitium p. 1 (7): Quoniam scientia naturalis, quam aggredimur....\n\np. 353 (360): 19. Maii Anno 1617\n\nb) Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)\n\nInitium: Ut Aristotelis mentem......\n\nc) Quaestio XIII In libros de generatione et corruptione: p. 384 - 410\n\nInitium: Primum corporis speciem....\n\nd) Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)\n\nInitium: Explicata Generationis Definitione.....\n\nAuctor et Scriptor ignoti. Videtur tamen codex Graecii ortus esse.",
+    "latinHtml": "<p>6 + 452 pagg.; teg. a1; script. anno 1617</p>\n<p>a) Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360)</p>\n<p>Initium p. 1 (7): Quoniam scientia naturalis, quam aggredimur....</p>\n<p>p. 353 (360): 19. Maii Anno 1617</p>\n<p>b) Quaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391)</p>\n<p>Initium: Ut Aristotelis mentem......</p>\n<p>c) Quaestio XIII In libros de generatione et corruptione: p. 384 - 410</p>\n<p>Initium: Primum corporis speciem....</p>\n<p>d) Quaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)</p>\n<p>Initium: Explicata Generationis Definitione.....</p>\n<p>Auctor et Scriptor ignoti. Videtur tamen codex Graecii ortus esse.</p>"
+  },
+  "source": {
+    "file": "MN II 5.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-5/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 5",
+    "titles": "Quaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391) \nQuaestio XIII In libros de generatione et corruptione: p. 384 - 410 \nQuaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Naturphilosophische Fragen zu Physik, Himmel, Werden und Meteorologie. \nQuaestiones De physica auscultatione: p. 1 - 353 (= 7 - 360) \nQuaestio XI In libros de Caelo et Mundo: p. 353 - 384 (= 360 - 391) \nQuaestio XIII In libros de generatione et corruptione: p. 384 - 410 \nQuaestio XIV De Generatione mixti perfecti et imperfecti, ubi de Meteoris: p. 411 - 447 (= 418 - 454)",
+    "physical": "Papier \n458 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

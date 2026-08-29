@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-310",
+  "signature": "MN II 310",
+  "aliases": [
+    "Bibl. Cod. MN II 310"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "271",
+  "heading": {
+    "title": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1799"
+  },
+  "date": {
+    "display": "1799",
+    "intervals": [
+      {
+        "from": 1799,
+        "to": 1799,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–526",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Christian Fabricius",
+      "roleRaw": "source_author",
+      "roleLabel": "source author",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Fr. Maurus Pischofsky",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "526 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1799",
+        "intervals": [
+          {
+            "from": 1799,
+            "to": 1799,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "526 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1799.\n\n**Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.**\n\nWahrscheinlich wurde unser Codex aus dem ersten Band der berühmten *Entomologia Systematica* abgeschrieben, die 1792 in Kopenhagen auf Kosten Christian Gottlieb Profts erschienen war. Die Jahreszahl 1799 dürfte daher angeben, wann unser Band geschrieben wurde.\n\nAls Schreiber des Codex vermutet der Katalogbearbeiter denselben **Pischofsky**, wahrscheinlich Fr. Maurus Pischofsky, Seitenstettner Kleriker, der den vorhergehenden Codex angefertigt habe; die Schriftzüge stimmen sehr stark überein.",
+    "germanHtml": "<p>526 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1799.</p>\n<p><strong>Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.</strong></p>\n<p>Wahrscheinlich wurde unser Codex aus dem ersten Band der berühmten <em>Entomologia Systematica</em> abgeschrieben, die 1792 in Kopenhagen auf Kosten Christian Gottlieb Profts erschienen war. Die Jahreszahl 1799 dürfte daher angeben, wann unser Band geschrieben wurde.</p>\n<p>Als Schreiber des Codex vermutet der Katalogbearbeiter denselben <strong>Pischofsky</strong>, wahrscheinlich Fr. Maurus Pischofsky, Seitenstettner Kleriker, der den vorhergehenden Codex angefertigt habe; die Schriftzüge stimmen sehr stark überein.</p>",
+    "latin": "526 pagg.; teg. c3d; script. 1799\n\n**Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.**\n\nProbabiliter codex noster transscriptus est e tomo primo illius celeberrimae Entomologiae Systematicae, quae Hafniae (Kopenhagen), Impensis Christiani Gottlieb Proft MDCCXCII (1792) in lucem evenerat. Itaque numerus anni 1799 videtur indicare, quando tomus noster scriptus sit. Scriptorem autem codicis huius arbitror esse eundem **Pischofsky** (probabiliter F. Maurum Pischofsky, clericum Seitenstettensem), qui codicem praecedentem concinnavit; nam scripturae inter se valde congruunt.",
+    "latinHtml": "<p>526 pagg.; teg. c3d; script. 1799</p>\n<p><strong>Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799.</strong></p>\n<p>Probabiliter codex noster transscriptus est e tomo primo illius celeberrimae Entomologiae Systematicae, quae Hafniae (Kopenhagen), Impensis Christiani Gottlieb Proft MDCCXCII (1792) in lucem evenerat. Itaque numerus anni 1799 videtur indicare, quando tomus noster scriptus sit. Scriptorem autem codicis huius arbitror esse eundem <strong>Pischofsky</strong> (probabiliter F. Maurum Pischofsky, clericum Seitenstettensem), qui codicem praecedentem concinnavit; nam scripturae inter se valde congruunt.</p>"
+  },
+  "source": {
+    "file": "MN II 310.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-310/",
+  "relations": [
+    {
+      "typeRaw": "copy_of",
+      "typeLabel": "copy of",
+      "targetRaw": "Johann Christian Fabricius, Entomologia Systematica, Band 1, Kopenhagen 1792",
+      "targetId": null,
+      "targetSignature": "Johann Christian Fabricius, Entomologia Systematica, Band 1, Kopenhagen 1792",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 310",
+    "titles": "Johannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799 \nJohannis Christiani Fabricii......Entomologia Systematica. Emendata et aucta Secundum Classes, Ordines, Genera, Species Adjectis Synonimis, Locis, Observationibus Descriptionibus Tomus Primus Anno 1799",
+    "persons": "Johann Christian Fabricius source author source_author \nFr. Maurus Pischofsky Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n526 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

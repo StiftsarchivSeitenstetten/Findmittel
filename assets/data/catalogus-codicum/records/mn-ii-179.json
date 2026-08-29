@@ -1,0 +1,189 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-179",
+  "signature": "MN II 179",
+  "aliases": [
+    "Bibl. Cod. MN II 179"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "136–137",
+  "heading": {
+    "title": "Tractatus De Divina Gratia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1694"
+  },
+  "date": {
+    "display": "1694",
+    "intervals": [
+      {
+        "from": 1694,
+        "to": 1694,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Divina Gratia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–126v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1694-05-19"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Virtutibus Theologicis, Fide, Spe et Charitate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 128r–197v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1694-08-28"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Gabriel Sumadtinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "202 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1694",
+        "intervals": [
+          {
+            "from": 1694,
+            "to": 1694,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Scripta F. Gabrielis Sometting Seittenstettensis de gratia, merito Fide, Spe, Charitate."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "202 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1694.\n\na) **Abhandlung über die göttliche Gnade:** fol. 1r–126v. Anfang der Vorrede: Da der Mensch, der nach wahrer und ewiger Glückseligkeit strebt..... Schluss: **Wir beendeten diese Abhandlung über die Gnade am 19. Mai 1694.**\n\nb) **Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:** fol. 128r–197v. Anfang der Vorrede: Da das Handeln dem Sein folgt..... Schluss: **Wir beendeten diese Abhandlung über Glaube, Hoffnung und Liebe am 28. August 1694.**\n\nRückenaufschrift: **Scripta F. Gabrielis Sometting Seittenstettensis de gratia, merito Fide, Spe, Charitate.** Somit schrieb auch diesen Codex Fr. Gabriel Sumadtinger, Seitenstettner Mönch. Den Verfasser habe ich noch nicht ermittelt, obwohl MN II 192 dieselben Abhandlungen enthält.",
+    "germanHtml": "<p>202 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1694.</p>\n<p>a) <strong>Abhandlung über die göttliche Gnade:</strong> fol. 1r–126v. Anfang der Vorrede: Da der Mensch, der nach wahrer und ewiger Glückseligkeit strebt..... Schluss: <strong>Wir beendeten diese Abhandlung über die Gnade am 19. Mai 1694.</strong></p>\n<p>b) <strong>Abhandlung über die theologischen Tugenden Glaube, Hoffnung und Liebe:</strong> fol. 128r–197v. Anfang der Vorrede: Da das Handeln dem Sein folgt..... Schluss: <strong>Wir beendeten diese Abhandlung über Glaube, Hoffnung und Liebe am 28. August 1694.</strong></p>\n<p>Rückenaufschrift: <strong>Scripta F. Gabrielis Sometting Seittenstettensis de gratia, merito Fide, Spe, Charitate.</strong> Somit schrieb auch diesen Codex Fr. Gabriel Sumadtinger, Seitenstettner Mönch. Den Verfasser habe ich noch nicht ermittelt, obwohl MN II 192 dieselben Abhandlungen enthält.</p>",
+    "latin": "202 foll.; teg. a2; script. 1694\n\na) Tractatus De Divina Gratia: fol. 1r–126v. Initium: Prooemium. Quandoquidem homini ad veram aeternamque felicitatem aspiranti..... Clausula: Absolvimus hunc Tractatum de gratia die 19 Maii 1694.\n\nb) Tractatus De Virtutibus Theologicis, Fide, Spe, et Charitate: fol. 128r–197v. Initium Prooemii: Cum operari sequatur ad esse,..... Clausula: Absolvimus hunc tractatum De Virtutibus Fide, Spe, et Charitate die 28 Augusti 1694.\n\n\n\n\nInscriptio dorsi: Scripta F. Gabrielis Sometting Seittenstettensis de gratia, merito Fide, Spe, Charitate. Scripsit igitur et hunc codicem F. Gabriel Sumadtinger, monachus Seitenstettensis. Auctorem vero nondum investigavi, etsi cod. MN II 192 (de quo inferius!) eundem tractatus continet.",
+    "latinHtml": "<p>202 foll.; teg. a2; script. 1694</p>\n<p>a) Tractatus De Divina Gratia: fol. 1r–126v. Initium: Prooemium. Quandoquidem homini ad veram aeternamque felicitatem aspiranti..... Clausula: Absolvimus hunc Tractatum de gratia die 19 Maii 1694.</p>\n<p>b) Tractatus De Virtutibus Theologicis, Fide, Spe, et Charitate: fol. 128r–197v. Initium Prooemii: Cum operari sequatur ad esse,..... Clausula: Absolvimus hunc tractatum De Virtutibus Fide, Spe, et Charitate die 28 Augusti 1694.</p>\n<p>Inscriptio dorsi: Scripta F. Gabrielis Sometting Seittenstettensis de gratia, merito Fide, Spe, Charitate. Scripsit igitur et hunc codicem F. Gabriel Sumadtinger, monachus Seitenstettensis. Auctorem vero nondum investigavi, etsi cod. MN II 192 (de quo inferius!) eundem tractatus continet.</p>"
+  },
+  "source": {
+    "file": "MN II 179.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-179/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 192]]",
+      "targetId": "mn-ii-192",
+      "targetSignature": "MN II 192",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 179",
+    "titles": "Tractatus De Divina Gratia \nTractatus De Divina Gratia \nTractatus De Virtutibus Theologicis, Fide, Spe et Charitate",
+    "persons": "Fr. Gabriel Sumadtinger Schreiber scribe \nunbekannt author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n202 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

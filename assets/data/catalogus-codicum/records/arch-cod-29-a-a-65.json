@@ -1,0 +1,133 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-29-a-a-65",
+  "signature": "Arch. Cod. 29 A (A 65)",
+  "aliases": [
+    "Arch. Cod. 29 A (A 65)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "260–261",
+  "heading": {
+    "title": "Directorium ac Rituale Monasterii Seitenstettensis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "circa annum 1780"
+  },
+  "date": {
+    "display": "circa annum 1780",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Directorium ac Rituale Monasterii Seitenstettensis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Directorium ac Rituale Monasterii Seitenstettensis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–52",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "52 pagg.",
+    "format": "Quartformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "circa annum 1780",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Quartformat; 52 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1780.\n\n**Direktorium und Rituale des Klosters Seitenstetten.**\n\nDass der Codex ungefähr um 1780 entstand, zeigen bestimmte darin geregelte Riten, die bald danach durch die kirchenpolitischen Gesetze Kaiser Josephs II. aufgehoben wurden, sowie der Schriftcharakter.\n\nDie Schrift weist auf **P. Bertholdus Stolz** als Schreiber. Ob er das Direktorium auch selbst zusammenstellte, bleibt ungewiss.",
+    "germanHtml": "<p>Quartformat; 52 Seiten; lederner Einband von rehbrauner oder brauner Farbe; geschrieben um 1780.</p>\n<p><strong>Direktorium und Rituale des Klosters Seitenstetten.</strong></p>\n<p>Dass der Codex ungefähr um 1780 entstand, zeigen bestimmte darin geregelte Riten, die bald danach durch die kirchenpolitischen Gesetze Kaiser Josephs II. aufgehoben wurden, sowie der Schriftcharakter.</p>\n<p>Die Schrift weist auf <strong>P. Bertholdus Stolz</strong> als Schreiber. Ob er das Direktorium auch selbst zusammenstellte, bleibt ungewiss.</p>",
+    "latin": "4°; 52 pagg.; teg. b1; scriptus circa annum 1780\n\n**Directorium ac Rituale Monasterii Seitenstettensis**\n\nHunc codicem circa annum 1780 exaratum esse, ritus quidam in eo ordinati ostendunt, qui post annum 1780 mox per leges a imperatore Josepho II. in publico-ecclesiasticis editas sublati sunt, et forma scripturae, quae **P. Bertholdum Stolz** scriptorem esse indicat. Num ipse scriptor hoc directorium etiam composuerit, incertum est.",
+    "latinHtml": "<p>4°; 52 pagg.; teg. b1; scriptus circa annum 1780</p>\n<p><strong>Directorium ac Rituale Monasterii Seitenstettensis</strong></p>\n<p>Hunc codicem circa annum 1780 exaratum esse, ritus quidam in eo ordinati ostendunt, qui post annum 1780 mox per leges a imperatore Josepho II. in publico-ecclesiasticis editas sublati sunt, et forma scripturae, quae <strong>P. Bertholdum Stolz</strong> scriptorem esse indicat. Num ipse scriptor hoc directorium etiam composuerit, incertum est.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 29 A (A 65).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-29-a-a-65/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 29 A (A 65)",
+    "titles": "Directorium ac Rituale Monasterii Seitenstettensis \nDirectorium ac Rituale Monasterii Seitenstettensis",
+    "persons": "P. Bertholdus Stolz Schreiber scribe \nP. Bertholdus Stolz Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n52 pagg. \nQuartformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe."
+  }
+}

@@ -1,0 +1,242 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-65",
+  "signature": "MN III 65",
+  "aliases": [
+    "Bibl. Cod. MN III 65"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "274",
+  "heading": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1800 (?)"
+  },
+  "date": {
+    "display": "um 1800 (?)",
+    "intervals": [
+      {
+        "from": 1800,
+        "to": 1800,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Liber precatorius",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "Der handschriftliche Gebetsteil ist ohne überlieferten Titel; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern.",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a-1",
+      "label": "a.1",
+      "type": "",
+      "title": {
+        "text": "Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 2–3",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Teil eines vorgebundenen gedruckten Andachtsblatts."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-a-2",
+      "label": "a.2",
+      "type": "",
+      "title": {
+        "text": "Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 4",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Teil eines vorgebundenen gedruckten Andachtsblatts."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Liber precatorius, pars prima",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–49",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; der handschriftliche Gebetsteil besitzt keinen Titel."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Liber precatorius, pars secunda",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 31–107 (olim 86)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; nach S. 49 beginnt eine neue Zählung."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Liber precatorius, pars tertia",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 111–165",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom Katalogbearbeiter erschlossene Inhaltsbezeichnung; von anderer Hand."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. B. J.",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "initials_only"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Pappeinband mit Randverzierungen und rotem Lederrücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1800 (?)",
+        "intervals": [
+          {
+            "from": 1800,
+            "to": 1800,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 174 Seiten; gelber Pappeinband mit blaugrauem Leinenrücken; geschrieben um 1800 (?).\n\n**(Gebetbuch)**\n\nAm Beginn des Buches ist ein in Wien bei Franz Andreas Kirchberger gedrucktes Andachtsblatt eingefügt:\n- S. 1: Kupferstich der Gottesmutter von Jakob Schmutzer;\n- S. 2–3: **Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird.**\n- S. 4: **Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird.**\n\nDas eigentliche handschriftliche Gebetbuch besitzt keinen Titel. Es scheint aus drei Teilen zusammengesetzt zu sein. Nach S. 49 folgt nach einem leeren Blatt gemäß der ursprünglichen Zählung des Schreibers erneut S. 31.\n\nAm Ende dieses zweiten Teiles, S. 107 (ursprünglich S. 86), stehen die Initialen **P: B: J:**; der vollständige Name ließ sich nicht finden. Diese beiden ersten Teile sind von derselben Hand geschrieben.\n\nDass S. 111–165 von einer anderen Hand stammen, steht außer Zweifel. Wegen der Schrift dieses dritten Teiles – die beiden ersten sind so kalligraphisch, dass ihre Datierung schwierig ist – nimmt der Katalogbearbeiter eine Entstehung des ganzen Büchleins um 1800 an.",
+    "germanHtml": "<p>Oktavformat; 174 Seiten; gelber Pappeinband mit blaugrauem Leinenrücken; geschrieben um 1800 (?).</p>\n<p><strong>(Gebetbuch)</strong></p>\n<p>Am Beginn des Buches ist ein in Wien bei Franz Andreas Kirchberger gedrucktes Andachtsblatt eingefügt:</p>\n<ul><li>S. 1: Kupferstich der Gottesmutter von Jakob Schmutzer;</li><li>S. 2–3: <strong>Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird.</strong></li><li>S. 4: <strong>Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird.</strong></li></ul>\n<p>Das eigentliche handschriftliche Gebetbuch besitzt keinen Titel. Es scheint aus drei Teilen zusammengesetzt zu sein. Nach S. 49 folgt nach einem leeren Blatt gemäß der ursprünglichen Zählung des Schreibers erneut S. 31.</p>\n<p>Am Ende dieses zweiten Teiles, S. 107 (ursprünglich S. 86), stehen die Initialen <strong>P: B: J:</strong>; der vollständige Name ließ sich nicht finden. Diese beiden ersten Teile sind von derselben Hand geschrieben.</p>\n<p>Dass S. 111–165 von einer anderen Hand stammen, steht außer Zweifel. Wegen der Schrift dieses dritten Teiles – die beiden ersten sind so kalligraphisch, dass ihre Datierung schwierig ist – nimmt der Katalogbearbeiter eine Entstehung des ganzen Büchleins um 1800 an.</p>",
+    "latin": "8°; 174 pagg.; teg. chartaceum coloris flavi, in dorso linteo caesio munitum; scriptus ca. 1800 (?)\n\n**(Liber precatorius)**\n\nIn initio libri insertum est folium devotionale typis impressum Vindobonae apud Franciscum Andream Kirchberger (p. 1: imago Beatae Mariae Virginis chalcographice delineata a sculptore Jacobo Schmutzer; p. 2–3: **Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird.** p. 4: **Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird.**)\n\nIpse libellus precum manu scriptus inscriptione caret. Videtur e tribus partibus compositus esse; nam post pag. 49 intermisso folio vacuo iuxta numeros ab ipso scriptore appositos iterum sequitur p. 31. In fine huius secundae partis p. 107 (olim 86) reperiuntur litterae initiales **P: B: J:**, sed plenum nomen nusquam inveni. Quae duae partes ab eadem manu scriptae sunt. P. vero 111–165 quin ab alia manu scriptae sint, non est dubitandum. Propter scripturam huius partis tertiae (nam priores partes ita calligraphicae scriptae sunt ut quando scriptae sint, difficile dictu est) puto codicillum nostrum circa annum 1800 ortum esse.",
+    "latinHtml": "<p>8°; 174 pagg.; teg. chartaceum coloris flavi, in dorso linteo caesio munitum; scriptus ca. 1800 (?)</p>\n<p><strong>(Liber precatorius)</strong></p>\n<p>In initio libri insertum est folium devotionale typis impressum Vindobonae apud Franciscum Andream Kirchberger (p. 1: imago Beatae Mariae Virginis chalcographice delineata a sculptore Jacobo Schmutzer; p. 2–3: <strong>Bitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird.</strong> p. 4: <strong>Gebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird.</strong>)</p>\n<p>Ipse libellus precum manu scriptus inscriptione caret. Videtur e tribus partibus compositus esse; nam post pag. 49 intermisso folio vacuo iuxta numeros ab ipso scriptore appositos iterum sequitur p. 31. In fine huius secundae partis p. 107 (olim 86) reperiuntur litterae initiales <strong>P: B: J:</strong>, sed plenum nomen nusquam inveni. Quae duae partes ab eadem manu scriptae sunt. P. vero 111–165 quin ab alia manu scriptae sint, non est dubitandum. Propter scripturam huius partis tertiae (nam priores partes ita calligraphicae scriptae sunt ut quando scriptae sint, difficile dictu est) puto codicillum nostrum circa annum 1800 ortum esse.</p>"
+  },
+  "source": {
+    "file": "MN III 65.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-65/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 65",
+    "titles": "Liber precatorius \nBitt=Gesang Zu Maria, welches vor ihren Gnaden=Bild aus Candia, Die Weg=Weiserin genant, In der Kaiserlichen Hof=Pfarr Kirchen bey St. Michael in Wien in der täglichen Seegen=Messe um 7. Uhr nach der Heiligen Wandlung gesungen wird \nGebett zu Maria. welches nach geschlossener Heiliger Messe von dem Priester nach gebetter Lauretanischer Litaney gesprochen wird \nLiber precatorius, pars prima \nLiber precatorius, pars secunda \nLiber precatorius, pars tertia",
+    "persons": "P. B. J. Schreiber scribe \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der handschriftliche Gebetsteil ist ohne überlieferten Titel; die Inhaltsbezeichnung steht im Katalogtext in runden Klammern. \nTeil eines vorgebundenen gedruckten Andachtsblatts. \nTeil eines vorgebundenen gedruckten Andachtsblatts. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung; der handschriftliche Gebetsteil besitzt keinen Titel. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung; nach S. 49 beginnt eine neue Zählung. \nVom Katalogbearbeiter erschlossene Inhaltsbezeichnung; von anderer Hand.",
+    "physical": "Papier \n8° \nOktavformat \ndescription: Pappeinband mit Randverzierungen und rotem Lederrücken."
+  }
+}

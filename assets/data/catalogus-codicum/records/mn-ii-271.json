@@ -1,0 +1,147 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-271",
+  "signature": "MN II 271",
+  "aliases": [
+    "Bibl. Cod. MN II 271"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "215–216",
+  "heading": {
+    "title": "Tractatus Theologicus De Admirando Incarnationis Misterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1737"
+  },
+  "date": {
+    "display": "1737",
+    "intervals": [
+      {
+        "from": 1737,
+        "to": 1737,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus De Admirando Incarnationis Misterio",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Admirando Incarnationis Misterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9–222",
+      "language": "",
+      "incipit": {
+        "text": "Augustissimum Incarnationis misterium detractat S. Thomas"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Antonius Erber SJ",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "note": "Im Titel mit „Expositus“ als Darlegender bezeichnet."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "222 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1737",
+        "intervals": [
+          {
+            "from": 1737,
+            "to": 1737,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "222 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1737.\n\n**Theologische Abhandlung über das wunderbare Geheimnis der Menschwerdung**, dargelegt im Jahr des Herrn 1737 von P. Antonius Erber SJ, Doktor der freien Künste und Philosophie sowie der heiligen Theologie und damals Professor derselben.\n\nAnfang der Abhandlung über die Menschwerdung S. 9: Der hl. Thomas behandelt das erhabenste Geheimnis der Menschwerdung.....\n\nDer Schreiber ist unbekannt.",
+    "germanHtml": "<p>222 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1737.</p>\n<p><strong>Theologische Abhandlung über das wunderbare Geheimnis der Menschwerdung</strong>, dargelegt im Jahr des Herrn 1737 von P. Antonius Erber SJ, Doktor der freien Künste und Philosophie sowie der heiligen Theologie und damals Professor derselben.</p>\n<p>Anfang der Abhandlung über die Menschwerdung S. 9: Der hl. Thomas behandelt das erhabenste Geheimnis der Menschwerdung.....</p>\n<p>Der Schreiber ist unbekannt.</p>",
+    "latin": "222 pagg.; teg. c3d; script. 1737\n\n**Tractatus Theologicus De Admirando Incarnationis Misterio. Ab Admodum Reverendo Patre Antonio Erber è Societate Jesu, Artium Liberalium et Philosophiae, nec non Sacrosanctae Theologiae Doctore. Ejusdemque pro tempore Professore Expositus Anno Domini MDCCXXXVII (1737).**\n\nInitium Tractatus De Incarnatione: p. 9: **Augustissimum Incarnationis misterium detractat S. Thomas.....**\n\nScriptor ignotus.",
+    "latinHtml": "<p>222 pagg.; teg. c3d; script. 1737</p>\n<p><strong>Tractatus Theologicus De Admirando Incarnationis Misterio. Ab Admodum Reverendo Patre Antonio Erber è Societate Jesu, Artium Liberalium et Philosophiae, nec non Sacrosanctae Theologiae Doctore. Ejusdemque pro tempore Professore Expositus Anno Domini MDCCXXXVII (1737).</strong></p>\n<p>Initium Tractatus De Incarnatione: p. 9: <strong>Augustissimum Incarnationis misterium detractat S. Thomas.....</strong></p>\n<p>Scriptor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 271.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-271/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 271",
+    "titles": "Tractatus Theologicus De Admirando Incarnationis Misterio \nTractatus Theologicus De Admirando Incarnationis Misterio",
+    "persons": "P. Antonius Erber SJ Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Augustissimum Incarnationis misterium detractat S. Thomas",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n222 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

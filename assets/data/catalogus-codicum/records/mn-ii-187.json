@@ -1,0 +1,157 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-187",
+  "signature": "MN II 187",
+  "aliases": [
+    "Bibl. Cod. MN II 187"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "141",
+  "heading": {
+    "title": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1695"
+  },
+  "date": {
+    "display": "ca. 1695",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1695,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–160",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "162 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Einband vollständig entfernt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1695",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1695,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "162 Seiten; der Einband ist vollständig abgeschnitten; geschrieben um 1695.\n\n**Kontroverstheologische Abhandlung über die leidende Kirche, das heißt die Kirche im Fegefeuer, und die triumphierende Kirche, das heißt über Herrlichkeit und Verehrung der Heiligen:** S. 1–160.\n\nAnfang der Vorrede: Im vergangenen Jahr wurde über die Glieder der streitenden Kirche gehandelt; in diesem Jahr werden wir von der Kirche handeln, die gereinigt wird....\n\nDa derselbe Schreiber wie bei MN II 186 auch diesen Codex schrieb, dürfte dieser ein Jahr später als MN II 186 entstanden sein. Der Verfasser ist unbekannt; als Schreiber kommt wahrscheinlich Fr. Joannes Rigele in Frage.",
+    "germanHtml": "<p>162 Seiten; der Einband ist vollständig abgeschnitten; geschrieben um 1695.</p>\n<p><strong>Kontroverstheologische Abhandlung über die leidende Kirche, das heißt die Kirche im Fegefeuer, und die triumphierende Kirche, das heißt über Herrlichkeit und Verehrung der Heiligen:</strong> S. 1–160.</p>\n<p>Anfang der Vorrede: Im vergangenen Jahr wurde über die Glieder der streitenden Kirche gehandelt; in diesem Jahr werden wir von der Kirche handeln, die gereinigt wird....</p>\n<p>Da derselbe Schreiber wie bei MN II 186 auch diesen Codex schrieb, dürfte dieser ein Jahr später als MN II 186 entstanden sein. Der Verfasser ist unbekannt; als Schreiber kommt wahrscheinlich Fr. Joannes Rigele in Frage.</p>",
+    "latin": "162 pagg.; teg. penitus abscissum; script. ca. 1695\n\nTractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum: p. 1–160.\n\nInitium Prooemii: Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....\n\nCum idem, qui praecedentem, etiam codicem nostrum scripserit, verisimile est codicem nostrum anno posteriorem scriptum esse quam codicem MN II 186. Auctorem nos nescire confitemur, scriptorem autem probabiliter F. Joannem Rigele esse iam supra ad MN II 186 diximus.",
+    "latinHtml": "<p>162 pagg.; teg. penitus abscissum; script. ca. 1695</p>\n<p>Tractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum: p. 1–160.</p>\n<p>Initium Prooemii: Tractum fuit priori Anno de membris ecclesiae militantis, hoc anno agemus de ecclesia, quae purgatur....</p>\n<p>Cum idem, qui praecedentem, etiam codicem nostrum scripserit, verisimile est codicem nostrum anno posteriorem scriptum esse quam codicem MN II 186. Auctorem nos nescire confitemur, scriptorem autem probabiliter F. Joannem Rigele esse iam supra ad MN II 186 diximus.</p>"
+  },
+  "source": {
+    "file": "MN II 187.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-187/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 186]]",
+      "targetId": "mn-ii-186",
+      "targetSignature": "MN II 186",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 187",
+    "titles": "Tractatus Controversisticus De Ecclesia purgante et Ecclesia Triumphante \nTractatus Controversisticus De Ecclesia purgante, sive quae est in purgatorio et Ecclesia Triumphante sive de gloria, Cultuque Sanctorum",
+    "persons": "Fr. Joannes Rigele Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n162 pagg. \ndescription: Einband vollständig entfernt."
+  }
+}

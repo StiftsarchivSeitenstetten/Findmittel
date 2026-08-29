@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-301",
+  "signature": "MN II 301",
+  "aliases": [
+    "Bibl. Cod. MN II 301"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "249–250",
+  "heading": {
+    "title": "Tractatus De Deo Uno. Cum Prolegomenis In Theologiam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1771"
+  },
+  "date": {
+    "display": "1771",
+    "intervals": [
+      {
+        "from": 1771,
+        "to": 1771,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo Uno. Cum Prolegomenis In Theologiam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–303",
+      "language": "",
+      "incipit": {
+        "text": "Priusquam Theologiae candidatus ipsas materias Theologicas"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Tractatus De Deo Uno beginnt S. 83 mit „Totum hunc tractatum in 5 Dissertationes dividemus“; der Tractatus De Deo Trino fehlt."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Placuit hoc vacuum replere Systemate Scientiae Dei in ordine ad gratiam vel Praedestinationem",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 304–306",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Quaestiones pro Collegiis ex Universa Theologia 1770 et 1771?",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 307–372",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "82 Kollegien zu den im Katalogtext einzeln aufgeführten theologischen Traktaten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Romanus Digl",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten / Universität Salzburg",
+      "note": "Im Titel ausdrücklich mit „Dictatus“ bezeichnet."
+    },
+    {
+      "name": "Fr. Odilo Hammer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel von Teil a ausdrücklich mit „Conscriptus“ bezeichnet; der gesamte Codex stammt von derselben Hand."
+    },
+    {
+      "name": "P. Michael Lory",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Tegernsee / Universität Salzburg",
+      "certainty": "probable",
+      "note": "Fr. Odilo Hammer bezeichnet ihn ausdrücklich als seinen Theologieprofessor in Salzburg 1771."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "376 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1771",
+        "intervals": [
+          {
+            "from": 1771,
+            "to": 1771,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Universität Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "376 Seiten; blaugrauer Pappeinband; geschrieben 1771.\n\na) **Abhandlung über den einen Gott, mit Prolegomena zur Theologie**, diktiert von dem sehr ehrwürdigen, hochgelehrten P. Romanus Digl, Benediktiner von Seitenstetten, damals hochverdienter Professor der spekulativ-dogmatischen Theologie; 1771 aufgezeichnet von Fr. Odilo Hammer, Benediktinermönch von Seitenstetten und damals Konviktor an der erzbischöflichen Benediktineruniversität Salzburg: S. 1–303.\n\nAnfang der Vorrede der Prolegomena zur gesamten Theologie S. 3: Bevor der Kandidat der Theologie die eigentlichen theologischen Materien......\n\nAnfang der Abhandlung über den einen Gott S. 83: Diese ganze Abhandlung werden wir in fünf Dissertationen einteilen,......\n\n**Die Abhandlung über den dreieinigen Gott fehlt.**\n\nb) **Es gefiel mir, diesen leeren Raum mit dem System der Wissenschaft Gottes in Hinordnung auf Gnade oder Prädestination auszufüllen, nach dem hochgelehrten P. Michael Lory, Benediktiner von Tegernsee, meinem Professor der Theologie in Salzburg im Jahr 1771:** S. 304–306. Dies schreibt Fr. Odilo Hammer selbst.\n\nc) **Fragen für die Kollegien aus der gesamten Theologie, 1770 und 1771 (?):** S. 307–372. Behandelt werden: aus der Abhandlung über Gott den Schöpfer; über das letzte Ziel und die Glückseligkeit des Menschen; über die menschlichen Handlungen und das Gewissen; über die Gesetze; über die Sünden; über Gnade, Rechtfertigung und Verdienst; über die theologischen Tugenden; über die Menschwerdung; über die Sakramente im Allgemeinen; über Taufe, Firmung und Eucharistie. Insgesamt 82 Kollegien.\n\nDer gesamte Codex ist von derselben Hand geschrieben.",
+    "germanHtml": "<p>376 Seiten; blaugrauer Pappeinband; geschrieben 1771.</p>\n<p>a) <strong>Abhandlung über den einen Gott, mit Prolegomena zur Theologie</strong>, diktiert von dem sehr ehrwürdigen, hochgelehrten P. Romanus Digl, Benediktiner von Seitenstetten, damals hochverdienter Professor der spekulativ-dogmatischen Theologie; 1771 aufgezeichnet von Fr. Odilo Hammer, Benediktinermönch von Seitenstetten und damals Konviktor an der erzbischöflichen Benediktineruniversität Salzburg: S. 1–303.</p>\n<p>Anfang der Vorrede der Prolegomena zur gesamten Theologie S. 3: Bevor der Kandidat der Theologie die eigentlichen theologischen Materien......</p>\n<p>Anfang der Abhandlung über den einen Gott S. 83: Diese ganze Abhandlung werden wir in fünf Dissertationen einteilen,......</p>\n<p><strong>Die Abhandlung über den dreieinigen Gott fehlt.</strong></p>\n<p>b) <strong>Es gefiel mir, diesen leeren Raum mit dem System der Wissenschaft Gottes in Hinordnung auf Gnade oder Prädestination auszufüllen, nach dem hochgelehrten P. Michael Lory, Benediktiner von Tegernsee, meinem Professor der Theologie in Salzburg im Jahr 1771:</strong> S. 304–306. Dies schreibt Fr. Odilo Hammer selbst.</p>\n<p>c) <strong>Fragen für die Kollegien aus der gesamten Theologie, 1770 und 1771 (?):</strong> S. 307–372. Behandelt werden: aus der Abhandlung über Gott den Schöpfer; über das letzte Ziel und die Glückseligkeit des Menschen; über die menschlichen Handlungen und das Gewissen; über die Gesetze; über die Sünden; über Gnade, Rechtfertigung und Verdienst; über die theologischen Tugenden; über die Menschwerdung; über die Sakramente im Allgemeinen; über Taufe, Firmung und Eucharistie. Insgesamt 82 Kollegien.</p>\n<p>Der gesamte Codex ist von derselben Hand geschrieben.</p>",
+    "latin": "376 pagg.; teg. chartaceum caesium (blaugrau); script. 1771\n\na) **Tractatus De Deo Uno. Cum Prolegomenis In Theologiam. Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Romano Digl. Benedictino Seitenstettensi. pro tempore Sacrosanctae Theologiae Speculativo-Dogmaticae Professore Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer). Monacho benedictino Seitenstettensi. pro tempore Convictore In Alma Archiepiscopali Benedictina Universitate Salisburgensi:** p. 1–303.\n\nInitium Proemii Prolegomenorum in universam Theologiam p. 3: Priusquam Theologiae candidatus ipsas materias Theologicas, ..... (p. 3)\n\nInitium Tractatus De Deo Uno p. 83: Totum hunc tractatum in 5 Dissertationes dividemus, ......\n\n(Tractatus De Deo Trino deest!)\n\nb) Placuit hoc vacuum replere Systemate Scientiae Dei in ordine ad gratiam vel Praedestinationem. Clarissimi **P. Michaelis Lory** Benedictini Tegernseensis Anno 1771 Professoris mei in Theologia Salisburgi (scribit F. Odilo Hammer!): p. 304–306\n\nc) Quaestiones pro Collegiis ex Universa Theologia 1770 et 1771?: p. 307–372 (Ex Tractatu de Deo Creatore; Ex Tractatu De ultimo fine, et beatitudine hominis; Ex Tractatu De actibus humanis et Conscientia; Ex Tractatu de legibus; Ex Tractatu de peccatis; De gratia, Justificatione, et merito; Ex Tractatu de Virtutibus Theologicis; Ex Tractatu De Incarnatione; De Sacramentis in genere; De Baptismo; De Confirmatione; De Eucharistia.) (82 collegia)\n\nTotus codex ab eadem manu scriptus est.",
+    "latinHtml": "<p>376 pagg.; teg. chartaceum caesium (blaugrau); script. 1771</p>\n<p>a) <strong>Tractatus De Deo Uno. Cum Prolegomenis In Theologiam. Dictatus A Plurimum Reverendo, Religiosissimo ac Clarissimo Domino P. Romano Digl. Benedictino Seitenstettensi. pro tempore Sacrosanctae Theologiae Speculativo-Dogmaticae Professore Meritissimo. Anno 1771. Conscriptus a F. Odilone (Hammer). Monacho benedictino Seitenstettensi. pro tempore Convictore In Alma Archiepiscopali Benedictina Universitate Salisburgensi:</strong> p. 1–303.</p>\n<p>Initium Proemii Prolegomenorum in universam Theologiam p. 3: Priusquam Theologiae candidatus ipsas materias Theologicas, ..... (p. 3)</p>\n<p>Initium Tractatus De Deo Uno p. 83: Totum hunc tractatum in 5 Dissertationes dividemus, ......</p>\n<p>(Tractatus De Deo Trino deest!)</p>\n<p>b) Placuit hoc vacuum replere Systemate Scientiae Dei in ordine ad gratiam vel Praedestinationem. Clarissimi <strong>P. Michaelis Lory</strong> Benedictini Tegernseensis Anno 1771 Professoris mei in Theologia Salisburgi (scribit F. Odilo Hammer!): p. 304–306</p>\n<p>c) Quaestiones pro Collegiis ex Universa Theologia 1770 et 1771?: p. 307–372 (Ex Tractatu de Deo Creatore; Ex Tractatu De ultimo fine, et beatitudine hominis; Ex Tractatu De actibus humanis et Conscientia; Ex Tractatu de legibus; Ex Tractatu de peccatis; De gratia, Justificatione, et merito; Ex Tractatu de Virtutibus Theologicis; Ex Tractatu De Incarnatione; De Sacramentis in genere; De Baptismo; De Confirmatione; De Eucharistia.) (82 collegia)</p>\n<p>Totus codex ab eadem manu scriptus est.</p>"
+  },
+  "source": {
+    "file": "MN II 301.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-301/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 301",
+    "titles": "Tractatus De Deo Uno. Cum Prolegomenis In Theologiam \nTractatus De Deo Uno. Cum Prolegomenis In Theologiam \nPlacuit hoc vacuum replere Systemate Scientiae Dei in ordine ad gratiam vel Praedestinationem \nQuaestiones pro Collegiis ex Universa Theologia 1770 et 1771?",
+    "persons": "P. Romanus Digl Dozent lecturer \nFr. Odilo Hammer Schreiber scribe \nP. Michael Lory Dozent lecturer",
+    "incipits": "Priusquam Theologiae candidatus ipsas materias Theologicas",
+    "explicits": "",
+    "notes": "Der Tractatus De Deo Uno beginnt S. 83 mit „Totum hunc tractatum in 5 Dissertationes dividemus“; der Tractatus De Deo Trino fehlt. \nincomplete \n82 Kollegien zu den im Katalogtext einzeln aufgeführten theologischen Traktaten.",
+    "physical": "Papier \n376 pagg. \ndescription: Blaugrauer Pappeinband."
+  }
+}

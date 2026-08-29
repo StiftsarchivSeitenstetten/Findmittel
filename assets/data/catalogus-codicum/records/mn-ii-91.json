@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-91",
+  "signature": "MN II 91",
+  "aliases": [
+    "Bibl. Cod. MN II 91",
+    "De Angelis, beatitudine et actibus humanis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "58",
+  "heading": {
+    "title": "Tractatus De Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "unbekannt"
+  },
+  "date": {
+    "display": "unbekannt",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–301",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De beatitudine sive ultimo fine hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 302–385",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus in Primam Secundae Divi Thomae De actibus humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 385–548",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus de actibus humanis in quaestiones 18, 19 et 20 Summae (Summi?) Doctoris (?)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 549–669",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "certainty",
+          "text": "uncertain"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "mehrere unbekannte Hände",
+      "roleRaw": "scribes",
+      "roleLabel": "scribes",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "675 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben; Fragment eines Graduale oder Antiphonale.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "note": "S. 390–404 von einer anderen Hand."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "unbekannt",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "675 Seiten; Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben, ein Fragment eines Graduale oder Antiphonale.\n\na) **Abhandlung über die Engel:** S. 1–301. Anfang der ersten Disputation S. 1: **Zunächst ist festzuhalten, dass unter einem Engel nichts anderes verstanden wird als....**\n\nb) **Abhandlung über die Glückseligkeit oder das letzte Ziel des Menschen:** S. 302–385. Anfang der ersten Disputation **Über die objektive Glückseligkeit** S. 302: **Zunächst ist festzuhalten, formal (?) um eines Zieles willen zu handeln....**\n\nc) **Zweite Abhandlung zur Prima Secundae des hl. Thomas über die menschlichen Handlungen:** S. 385–548. Anfang S. 385: **Ich sage erstens, dass das Freiwillige richtig definiert wird.....**\n\nd) **Zweite Abhandlung über die menschlichen Handlungen zu den Fragen 18, 19 und 20 der Summa des höchsten Lehrers (?):** S. 549–669. Anfang S. 549: **In der vorhergehenden Abhandlung behandelten wir das physische Sein der menschlichen Handlungen....**\n\nIch kenne weder den Verfasser noch die Schreiber – denn die Seiten 390–404 wurden von einer anderen Hand geschrieben – noch das Jahr, in dem der Codex ausgeführt wurde.",
+    "germanHtml": "<p>675 Seiten; Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben, ein Fragment eines Graduale oder Antiphonale.</p>\n<p>a) <strong>Abhandlung über die Engel:</strong> S. 1–301. Anfang der ersten Disputation S. 1: <strong>Zunächst ist festzuhalten, dass unter einem Engel nichts anderes verstanden wird als....</strong></p>\n<p>b) <strong>Abhandlung über die Glückseligkeit oder das letzte Ziel des Menschen:</strong> S. 302–385. Anfang der ersten Disputation <strong>Über die objektive Glückseligkeit</strong> S. 302: <strong>Zunächst ist festzuhalten, formal (?) um eines Zieles willen zu handeln....</strong></p>\n<p>c) <strong>Zweite Abhandlung zur Prima Secundae des hl. Thomas über die menschlichen Handlungen:</strong> S. 385–548. Anfang S. 385: <strong>Ich sage erstens, dass das Freiwillige richtig definiert wird.....</strong></p>\n<p>d) <strong>Zweite Abhandlung über die menschlichen Handlungen zu den Fragen 18, 19 und 20 der Summa des höchsten Lehrers (?):</strong> S. 549–669. Anfang S. 549: <strong>In der vorhergehenden Abhandlung behandelten wir das physische Sein der menschlichen Handlungen....</strong></p>\n<p>Ich kenne weder den Verfasser noch die Schreiber – denn die Seiten 390–404 wurden von einer anderen Hand geschrieben – noch das Jahr, in dem der Codex ausgeführt wurde.</p>",
+    "latin": "675 pagg.; tegumentum membranaceum saeculo XV modis musicae sacrae ornate inscriptum (fragmentum libri Gradualis aut Antiphonalis)\n\na) Tractatus De Angelis pag. 1–301. Initium Disputationis primae p. 1: Nota primo per angelum nihil aliud intelligi quam....\n\nb) Tractatus De beatitudine sive ultimo fine hominis p. 302–385. Initium Disputationis primae De beatitudine obiectiva p. 302: Nota primo operari formaliter (?) propter finem....\n\nc) Tractatus Secundus in Primam Secundae Divi Thomae De actibus humanis: p. 385–548. Initium p. 385: Dico primo voluntarium bene definiri.....\n\nd) Tractatus Secundus de actibus humanis in quaestiones 18, 19 et 20 Summae (Summi?) Doctoris (?): p. 549–669. Initium p. 549: In priori tractatu egimus de esse physico actuum humanorum....\n\nNeque auctorem novi neque scriptores (paginas enim 390–404 alia manus scripsit) neque quo anno exaratus sit codex.",
+    "latinHtml": "<p>675 pagg.; tegumentum membranaceum saeculo XV modis musicae sacrae ornate inscriptum (fragmentum libri Gradualis aut Antiphonalis)</p>\n<p>a) Tractatus De Angelis pag. 1–301. Initium Disputationis primae p. 1: Nota primo per angelum nihil aliud intelligi quam....</p>\n<p>b) Tractatus De beatitudine sive ultimo fine hominis p. 302–385. Initium Disputationis primae De beatitudine obiectiva p. 302: Nota primo operari formaliter (?) propter finem....</p>\n<p>c) Tractatus Secundus in Primam Secundae Divi Thomae De actibus humanis: p. 385–548. Initium p. 385: Dico primo voluntarium bene definiri.....</p>\n<p>d) Tractatus Secundus de actibus humanis in quaestiones 18, 19 et 20 Summae (Summi?) Doctoris (?): p. 549–669. Initium p. 549: In priori tractatu egimus de esse physico actuum humanorum....</p>\n<p>Neque auctorem novi neque scriptores (paginas enim 390–404 alia manus scripsit) neque quo anno exaratus sit codex.</p>"
+  },
+  "source": {
+    "file": "MN II 91.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-91/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 91",
+    "titles": "Tractatus De Angelis \nTractatus De Angelis \nTractatus De beatitudine sive ultimo fine hominis \nTractatus Secundus in Primam Secundae Divi Thomae De actibus humanis \nTractatus Secundus de actibus humanis in quaestiones 18, 19 et 20 Summae (Summi?) Doctoris (?)",
+    "persons": "unbekannt Autor author \nmehrere unbekannte Hände scribes scribes",
+    "incipits": "",
+    "explicits": "",
+    "notes": "uncertain",
+    "physical": "Papier \n675 Seiten \ndescription: Pergamenteinband des 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben; Fragment eines Graduale oder Antiphonale."
+  }
+}

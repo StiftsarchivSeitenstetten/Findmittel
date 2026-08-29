@@ -1,0 +1,179 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-37",
+  "signature": "MN II 37",
+  "aliases": [
+    "Bibl. Cod. MN II 37",
+    "De Sacramentis novae Legis Tractatus Practicus"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "24",
+  "heading": {
+    "title": "*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus....",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1641"
+  },
+  "date": {
+    "display": "1641",
+    "intervals": [
+      {
+        "from": 1641,
+        "to": 1641,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Praktische Sakramentenlehre mit Abschrift eines kasuistischen Werkes von Valerius Reginaldus SJ.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_part_a",
+      "roleLabel": "author part a",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Valerius Reginaldus SJ",
+      "roleRaw": "author_part_b",
+      "roleLabel": "author part b",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "504 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Einband aus einem Pergamentblatt mit Musiknotation des 15. Jahrhunderts.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1641",
+        "intervals": [
+          {
+            "from": 1641,
+            "to": 1641,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "504 Seiten; eingebunden in ein Pergamentblatt mit kunstvoll geschriebenen Musiknoten des 15. Jahrhunderts; geschrieben 1641.\n\n**a) Praktische Abhandlung über die Sakramente des Neuen Gesetzes, mit größter Mühe zusammengestellt. Im Jahr 1641:** S. 7–383 (wo die Jahreszahl nochmals steht). Diese Abhandlung enthält alle Sakramente auch im Einzelnen. Anfang der Vorrede S. 9: **Damit der Mensch von bösen Handlungen ablasse....**\n\n**b) Kurze Praxis der schwierigsten Gewissensfälle, die bei der Verwaltung des Bußsakraments häufig vorkommen, in drei Teile gegliedert, von dem ehrwürdigen P. Valerius Reginaldus SJ. Zweite, verbesserte Ausgabe.** Abschrift eines Werkes, das erstmals 1619 in Mainz bei Johann Wolmar gedruckt wurde: S. 403–495.\n\nDer Schreiber des gesamten Codex und der Verfasser des ersten Teils sind unbekannt.",
+    "germanHtml": "<p>504 Seiten; eingebunden in ein Pergamentblatt mit kunstvoll geschriebenen Musiknoten des 15. Jahrhunderts; geschrieben 1641.</p>\n<p><strong>a) Praktische Abhandlung über die Sakramente des Neuen Gesetzes, mit größter Mühe zusammengestellt. Im Jahr 1641:</strong> S. 7–383 (wo die Jahreszahl nochmals steht). Diese Abhandlung enthält alle Sakramente auch im Einzelnen. Anfang der Vorrede S. 9: <strong>Damit der Mensch von bösen Handlungen ablasse....</strong></p>\n<p><strong>b) Kurze Praxis der schwierigsten Gewissensfälle, die bei der Verwaltung des Bußsakraments häufig vorkommen, in drei Teile gegliedert, von dem ehrwürdigen P. Valerius Reginaldus SJ. Zweite, verbesserte Ausgabe.</strong> Abschrift eines Werkes, das erstmals 1619 in Mainz bei Johann Wolmar gedruckt wurde: S. 403–495.</p>\n<p>Der Schreiber des gesamten Codex und der Verfasser des ersten Teils sind unbekannt.</p>",
+    "latin": "504 pagg., inclusae folio membranaceo modis musicis ornate inscripto (saec. XV); script. 1641\n\na) *De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus....\n\nb) *Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.\n\nScriptor totius codicis et auctor partis prioris ignoti.",
+    "latinHtml": "<p>504 pagg., inclusae folio membranaceo modis musicis ornate inscripto (saec. XV); script. 1641</p>\n<p>a) <em>De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):</em> p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) <em>Initium</em> Praefationis p. 9: Ut homo declinet à malis actibus....</p>\n<p>b) <em>Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.</em> (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.</p>\n<p>Scriptor totius codicis et auctor partis prioris ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 37.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-37/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 37",
+    "titles": "*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus.... \n*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus.... \n*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.",
+    "persons": "unbekannt author part a author_part_a \nP. Valerius Reginaldus SJ author part b author_part_b \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Praktische Sakramentenlehre mit Abschrift eines kasuistischen Werkes von Valerius Reginaldus SJ. \n*De Sacramentis novae Legis Tractatus Practicus Summo cum labore conscriptus. Anno....M:D: CXXXXI (1641):* p. 7 - 383 (ubi iterum numerum anni invenies) (Continet hic tractatus omnia sacramenta etiam in specie!) *Initium* Praefationis p. 9: Ut homo declinet à malis actibus.... \n*Compendiaria praxis Difficillimorum casuum conscientiae, in administratione Sacramenti poenitentiae crebro occurrentium. In tres partes distincta. Auctore R. P. Valerio Reginaldo è societate Jesu. Editio secunda correctior.* (Exemplar transcriptum operis, quod primum 1619 Moguntiae typis Joannis Wolmari editum est.): p. 403 - 495.",
+    "physical": "Papier \n504 Seiten \nQuartformat \ndescription: Einband aus einem Pergamentblatt mit Musiknotation des 15. Jahrhunderts."
+  }
+}

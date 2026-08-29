@@ -1,0 +1,172 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-252",
+  "signature": "MN II 252",
+  "aliases": [
+    "Bibl. Cod. MN II 252"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "194",
+  "heading": {
+    "title": "Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1714"
+  },
+  "date": {
+    "display": "1714",
+    "intervals": [
+      {
+        "from": 1714,
+        "to": 1714,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–154r",
+      "language": "",
+      "incipit": {
+        "text": "Ingens difficultatum pelagus se nobis aperit"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholasticus In Secundam Secundae Doctoris Angelici, Divi Thomae Aquinatis De Fide, Spe, et charitate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 155v–187v",
+      "language": "",
+      "incipit": {
+        "text": "Initium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "31. August 1714"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 253–257."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "188 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1714",
+        "intervals": [
+          {
+            "from": 1714,
+            "to": 1714,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "188 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1714.\n\na) **Scholastische Abhandlung zur Prima Secundae des engelgleichen Lehrers hl. Thomas von Aquin über die Gnade:** fol. 1r–154r. Anfang der Vorrede: Ein gewaltiges Meer von Schwierigkeiten öffnet sich vor uns.....\n\nb) **Scholastische Abhandlung zur Secunda Secundae des engelgleichen Lehrers hl. Thomas von Aquin über Glaube, Hoffnung und Liebe:** fol. 155v–187v. Anfang der ersten Disputation über den Glauben: Zunächst ist zu bemerken, dass es verschiedene Bedeutungen des Glaubens gibt......... Schluss: **1714, 31. August.**\n\nVerfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch die folgenden Codices MN II 253–257 ausführte.",
+    "germanHtml": "<p>188 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1714.</p>\n<p>a) <strong>Scholastische Abhandlung zur Prima Secundae des engelgleichen Lehrers hl. Thomas von Aquin über die Gnade:</strong> fol. 1r–154r. Anfang der Vorrede: Ein gewaltiges Meer von Schwierigkeiten öffnet sich vor uns.....</p>\n<p>b) <strong>Scholastische Abhandlung zur Secunda Secundae des engelgleichen Lehrers hl. Thomas von Aquin über Glaube, Hoffnung und Liebe:</strong> fol. 155v–187v. Anfang der ersten Disputation über den Glauben: Zunächst ist zu bemerken, dass es verschiedene Bedeutungen des Glaubens gibt......... Schluss: <strong>1714, 31. August.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch die folgenden Codices MN II 253–257 ausführte.</p>",
+    "latin": "188 foll.; teg. a1; script. 1714\n\na) Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia: fol. 1r–154r.  \nInitium Proemii: Ingens difficultatum pelagus se nobis aperit,.....\n\nb) Tractatus Scholasticus In Secundam Secundae Doctoris Angelici, Divi Thomae Aquinatis De Fide, Spe, et charitate: fol. 155v–187v.  \nInitium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones:.........  \nClausula: 1714. 31. Augusti:\n\nTam auctor quam scriptor ignotus, etiamsi idem scriptor codices sequentes MN II 253–257 exaravit.",
+    "latinHtml": "<p>188 foll.; teg. a1; script. 1714</p>\n<p>a) Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia: fol. 1r–154r. Initium Proemii: Ingens difficultatum pelagus se nobis aperit,.....</p>\n<p>b) Tractatus Scholasticus In Secundam Secundae Doctoris Angelici, Divi Thomae Aquinatis De Fide, Spe, et charitate: fol. 155v–187v. Initium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones:......... Clausula: 1714. 31. Augusti:</p>\n<p>Tam auctor quam scriptor ignotus, etiamsi idem scriptor codices sequentes MN II 253–257 exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 252.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-252/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 252",
+    "titles": "Tractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia \nTractatus Scholasticus In Primam Secundae Doctoris Angelici Divi Thomae Aquinatis: De Gratia \nTractatus Scholasticus In Secundam Secundae Doctoris Angelici, Divi Thomae Aquinatis De Fide, Spe, et charitate",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Ingens difficultatum pelagus se nobis aperit \nInitium Disputationis primae. De Fide: Praenotandum, varias esse Fidei acceptiones",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n188 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

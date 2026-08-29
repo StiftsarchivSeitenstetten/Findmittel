@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-8",
+  "signature": "MN II 8",
+  "aliases": [
+    "Bibl. Cod. MN II 8",
+    "Tractatus de Deo Uno et Trino"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "9",
+  "heading": {
+    "title": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1619/20"
+  },
+  "date": {
+    "display": "1619/20",
+    "intervals": [
+      {
+        "from": 1619,
+        "to": 1620,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Theologische Vorlesung über den einen und dreieinigen Gott von P. Michael Summereker.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "catalog_statement",
+          "text": "Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio...."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Michael Summereker",
+      "roleRaw": "author_lecturer",
+      "roleLabel": "author lecturer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt; derselbe wie MN II 7",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "416 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1619/20",
+        "intervals": [
+          {
+            "from": 1619,
+            "to": 1620,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "416 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1619/20.\n\n**Abhandlung über den einen und dreieinigen Gott. Vorgetragen von dem ehrwürdigen P. Michael Summereker, ordentlichem Professor der heiligen Theologie an der Universität Graz. 1619, am 5. November.**\n\n**a) Vorrede:** S. 7–12. Anfang: **Was der engelgleiche Lehrer....**\n\n**b) Erste Abhandlung. Über den einen Gott:** S. 12–310. Anfang: **Diese Abhandlung wird enthalten....**\n\n**c) Zweite Abhandlung. Über die hochheilige Dreifaltigkeit oder über den dreieinigen Gott:** S. 310–412. Anfang: **Über dieses höchste aller.... Geheimnisse....**\n\nDer Schreiber ist derselbe wie in Codex MN II 7 (siehe oben!); auch hier vermerkte er das Ende jeder einzelnen Vorlesung. Schlussvermerk S. 412: **5. September 1620.**",
+    "germanHtml": "<p>416 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1619/20.</p>\n<p><strong>Abhandlung über den einen und dreieinigen Gott. Vorgetragen von dem ehrwürdigen P. Michael Summereker, ordentlichem Professor der heiligen Theologie an der Universität Graz. 1619, am 5. November.</strong></p>\n<p><strong>a) Vorrede:</strong> S. 7–12. Anfang: <strong>Was der engelgleiche Lehrer....</strong></p>\n<p><strong>b) Erste Abhandlung. Über den einen Gott:</strong> S. 12–310. Anfang: <strong>Diese Abhandlung wird enthalten....</strong></p>\n<p><strong>c) Zweite Abhandlung. Über die hochheilige Dreifaltigkeit oder über den dreieinigen Gott:</strong> S. 310–412. Anfang: <strong>Über dieses höchste aller.... Geheimnisse....</strong></p>\n<p>Der Schreiber ist derselbe wie in Codex MN II 7 (siehe oben!); auch hier vermerkte er das Ende jeder einzelnen Vorlesung. Schlussvermerk S. 412: <strong>5. September 1620.</strong></p>",
+    "latin": "416 pagg.; teg. a1; script. 1619/20\n\n*Tractatus de Deo, Uno, et Trino. Traditus à Reverendo Patre Michaele Summereker SS: Theologiae in Alma Universitate Graecensi Professore ordinario. M DC XIX (1619). Nonis Novembris*\n\na) Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........\n\nb) Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....\n\nc) Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....\n\nScriptor idem est ac in codice MN II 7 (vide supra!); qui etiam hic finem uniuscuiusque lectionis notavit. Clausula p. 412: 5. Septemb: Anno 1620.",
+    "latinHtml": "<p>416 pagg.; teg. a1; script. 1619/20</p>\n<p><em>Tractatus de Deo, Uno, et Trino. Traditus à Reverendo Patre Michaele Summereker SS: Theologiae in Alma Universitate Graecensi Professore ordinario. M DC XIX (1619). Nonis Novembris</em></p>\n<p>a) Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........</p>\n<p>b) Tractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus....</p>\n<p>c) Tractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....</p>\n<p>Scriptor idem est ac in codice MN II 7 (vide supra!); qui etiam hic finem uniuscuiusque lectionis notavit. Clausula p. 412: 5. Septemb: Anno 1620.</p>"
+  },
+  "source": {
+    "file": "MN II 8.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-8/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 7]]",
+      "targetId": "mn-ii-7",
+      "targetSignature": "MN II 7",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 8",
+    "titles": "Prooemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nProoemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nTractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus.... \nTractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
+    "persons": "P. Michael Summereker author lecturer author_lecturer \nunbekannt; derselbe wie MN II 7 Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Theologische Vorlesung über den einen und dreieinigen Gott von P. Michael Summereker. \nProoemium: p. 7 - 12; Initium: Quae Doctor Angelicus........ \nTractatus I De Deo Uno: p. 12 - 310; Init.: Continebit hic Tractatus.... \nTractatus Posterior. De Sacrosancta Trinitate, Seu de Deo Trino: p. 310 - 412; initium: De hoc summo omnium.....mysterio....",
+    "physical": "Papier \n416 Seiten \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen."
+  }
+}

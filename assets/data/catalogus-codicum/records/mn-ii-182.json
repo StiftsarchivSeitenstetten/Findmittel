@@ -1,0 +1,220 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-182",
+  "signature": "MN II 182",
+  "aliases": [
+    "Bibl. Cod. MN II 182"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "138",
+  "heading": {
+    "title": "Tractatus De Deo uno et trino",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "nach 1679; wahrscheinlich um 1695"
+  },
+  "date": {
+    "display": "nach 1679; wahrscheinlich um 1695",
+    "intervals": [
+      {
+        "from": 1690,
+        "to": 1695,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo uno et trino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–405",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio prima De Deo uno",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 9–349",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio secunda De Deo Trino",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 349–405",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus nonus (?) in secundam secundae Divi Doctoris Aquinatis Doctoris Angelici De Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 415–612",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Ordnungszahl „nonus“ ist im Katalog mit Fragezeichen versehen; die Abhandlung scheint verstümmelt zu sein."
+        },
+        {
+          "type": "certainty",
+          "text": "uncertain"
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "616 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nach 1679; wahrscheinlich um 1695",
+        "intervals": [
+          {
+            "from": 1690,
+            "to": 1695,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "cited_decree",
+      "locus": "S. 611",
+      "date": "1679-03-02",
+      "issuer": "Papst Innozenz XI.",
+      "note": "Die Art der Erwähnung dient dem Katalogbearbeiter als Datierungshinweis."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "616 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben nach 1679, wahrscheinlich um 1695.\n\na) **Abhandlung über den einen und dreieinigen Gott:** S. 5–405. Anfang: Die gesamte Theologie teilt der engelgleiche Lehrer in drei Teile.....\n\n**Erste Disputation über den einen Gott:** S. 9–349. Anfang: Da die heilige Lehre oder Theologie, wie ich oben bemerkte, mit dieser Abhandlung beginnt.....\n\n**Zweite Disputation über den dreieinigen Gott:** S. 349–405. Anfang: Das Geheimnis der Dreifaltigkeit behandelt der heilige Lehrer von Frage 27 bis 33.....\n\nb) **Neunte (?) Abhandlung zur Secunda Secundae des hl. Thomas von Aquin über Recht und Gerechtigkeit:** S. 415–612. Anfang der Vorrede: Nachdem der heilige Lehrer in der vorhergehenden Abhandlung die drei theologischen Tugenden.... Diese Abhandlung scheint verstümmelt zu sein.\n\nWeder Verfasser noch Schreiber sind bekannt. Da S. 611 ein von Innozenz XI. am 2. März 1679 erlassenes Dekret erwähnt wird, ohne ihn als gegenwärtigen Papst zu bezeichnen, ist wahrscheinlich, dass der Codex nach seinem Tod 1689 entstand. Die Einbandform weist ungefähr auf die Jahre 1690–1695.",
+    "germanHtml": "<p>616 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben nach 1679, wahrscheinlich um 1695.</p>\n<p>a) <strong>Abhandlung über den einen und dreieinigen Gott:</strong> S. 5–405. Anfang: Die gesamte Theologie teilt der engelgleiche Lehrer in drei Teile.....</p>\n<p><strong>Erste Disputation über den einen Gott:</strong> S. 9–349. Anfang: Da die heilige Lehre oder Theologie, wie ich oben bemerkte, mit dieser Abhandlung beginnt.....</p>\n<p><strong>Zweite Disputation über den dreieinigen Gott:</strong> S. 349–405. Anfang: Das Geheimnis der Dreifaltigkeit behandelt der heilige Lehrer von Frage 27 bis 33.....</p>\n<p>b) <strong>Neunte (?) Abhandlung zur Secunda Secundae des hl. Thomas von Aquin über Recht und Gerechtigkeit:</strong> S. 415–612. Anfang der Vorrede: Nachdem der heilige Lehrer in der vorhergehenden Abhandlung die drei theologischen Tugenden.... Diese Abhandlung scheint verstümmelt zu sein.</p>\n<p>Weder Verfasser noch Schreiber sind bekannt. Da S. 611 ein von Innozenz XI. am 2. März 1679 erlassenes Dekret erwähnt wird, ohne ihn als gegenwärtigen Papst zu bezeichnen, ist wahrscheinlich, dass der Codex nach seinem Tod 1689 entstand. Die Einbandform weist ungefähr auf die Jahre 1690–1695.</p>",
+    "latin": "616 pagg.; teg. a2; script. post 1679 (ca. 1695?)\n\na) Tractatus De Deo uno et trino: p. 5–405. Initium: Universam Theologiam in 3 dividit partes Divus Doctor Angelicus......\n\nDisputatio 1. De Deo uno: p. 9–349. Initium: Cum sacra Doctrina seu Theologia, ut numero priori notavi, ab hoc tractatu exordium sumat,......\n\nDisputatio secunda De Deo Trino: p. 349–405. Initium: Trinitatis Mysterium S. Doctor à quaestione 27 usque ad 33 tractat......\n\nb) Tractatus nonus (?) in secundam secundae Divi Doctoris Aquinatis Doctoris Angelici De Jure et Justitia: p. 415–612. Initium Proloquii: Postquam Sanctus Doctor priori tractatu tres virtutes Theologicas.... (Hic tractatus videtur mutilus esse.)\n\nNeque auctor huius codicis notus est neque scriptor. Se quod p. 611 decretum ab Innocentio XI. secundo die Martii 1679 editum commemoratur neque ulla mentio fit illum esse praesentem Summum Pontificem, veri simile est codicem nostrum post mortem Innocentii (1689) ortum esse. Forma tegumenti indicat fere annos ab 1690 usque 1695.",
+    "latinHtml": "<p>616 pagg.; teg. a2; script. post 1679 (ca. 1695?)</p>\n<p>a) Tractatus De Deo uno et trino: p. 5–405. Initium: Universam Theologiam in 3 dividit partes Divus Doctor Angelicus......</p>\n<p>Disputatio 1. De Deo uno: p. 9–349. Initium: Cum sacra Doctrina seu Theologia, ut numero priori notavi, ab hoc tractatu exordium sumat,......</p>\n<p>Disputatio secunda De Deo Trino: p. 349–405. Initium: Trinitatis Mysterium S. Doctor à quaestione 27 usque ad 33 tractat......</p>\n<p>b) Tractatus nonus (?) in secundam secundae Divi Doctoris Aquinatis Doctoris Angelici De Jure et Justitia: p. 415–612. Initium Proloquii: Postquam Sanctus Doctor priori tractatu tres virtutes Theologicas.... (Hic tractatus videtur mutilus esse.)</p>\n<p>Neque auctor huius codicis notus est neque scriptor. Se quod p. 611 decretum ab Innocentio XI. secundo die Martii 1679 editum commemoratur neque ulla mentio fit illum esse praesentem Summum Pontificem, veri simile est codicem nostrum post mortem Innocentii (1689) ortum esse. Forma tegumenti indicat fere annos ab 1690 usque 1695.</p>"
+  },
+  "source": {
+    "file": "MN II 182.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-182/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 182",
+    "titles": "Tractatus De Deo uno et trino \nTractatus De Deo uno et trino \nDisputatio prima De Deo uno \nDisputatio secunda De Deo Trino \nTractatus nonus (?) in secundam secundae Divi Doctoris Aquinatis Doctoris Angelici De Jure et Justitia",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Ordnungszahl „nonus“ ist im Katalog mit Fragezeichen versehen; die Abhandlung scheint verstümmelt zu sein. \nuncertain \nincomplete",
+    "physical": "Papier \n616 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

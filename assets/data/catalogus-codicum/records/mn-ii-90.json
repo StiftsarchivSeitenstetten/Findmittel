@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-90",
+  "signature": "MN II 90",
+  "aliases": [
+    "Bibl. Cod. MN II 90",
+    "Dialectica, Logica et Compendium Logicae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "58",
+  "heading": {
+    "title": "Dialectica Seu Introductio Ad Philosophiam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "unbekannt"
+  },
+  "date": {
+    "display": "unbekannt",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Dialectica Seu Introductio Ad Philosophiam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–26v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Logica seu Prima Pars Cursus Philosophiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 27–267r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Compendium Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 278–328v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "277 + 53 Blätter",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamenteinband aus einem handschriftlich beschriebenen Blatt des 15. Jahrhunderts, möglicherweise Fragment eines theologischen Traktats.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "unbekannt",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "277 + 53 Blätter; Pergamenteinband aus einem im 15. Jahrhundert handschriftlich beschriebenen Blatt, möglicherweise aus einer theologischen Abhandlung.\n\na) **Dialektik oder Einführung in die Philosophie:** fol. 1–26v. Anfang fol. 1r: **Dialectica wird vom griechischen Dialeges (!) hergeleitet........**\n\nb) **Logik oder erster Teil des philosophischen Kurses:** fol. 27–267r. Anfang der ersten Vorrede **Über die Philosophie im Allgemeinen** fol. 27r: **Als Definition der Philosophie kann gelten, dass sie die Erkenntnis der gesamten Natur ist....**\n\nc) **Kompendium der Logik:** fol. 1–51v (=278–328v). Anfang der ersten und zweiten Disputation **Über Gegenstand und Natur der Logik** fol. 1 (=278)r: **Ich sage erstens: Die Logik ist ein Vermögen des Verstandes.....**\n\nWeder der Name des Verfassers noch jener des Schreibers ist bekannt, ebenso wenig das Jahr, in dem unser Codex geschrieben wurde.",
+    "germanHtml": "<p>277 + 53 Blätter; Pergamenteinband aus einem im 15. Jahrhundert handschriftlich beschriebenen Blatt, möglicherweise aus einer theologischen Abhandlung.</p>\n<p>a) <strong>Dialektik oder Einführung in die Philosophie:</strong> fol. 1–26v. Anfang fol. 1r: <strong>Dialectica wird vom griechischen Dialeges (!) hergeleitet........</strong></p>\n<p>b) <strong>Logik oder erster Teil des philosophischen Kurses:</strong> fol. 27–267r. Anfang der ersten Vorrede <strong>Über die Philosophie im Allgemeinen</strong> fol. 27r: <strong>Als Definition der Philosophie kann gelten, dass sie die Erkenntnis der gesamten Natur ist....</strong></p>\n<p>c) <strong>Kompendium der Logik:</strong> fol. 1–51v (=278–328v). Anfang der ersten und zweiten Disputation <strong>Über Gegenstand und Natur der Logik</strong> fol. 1 (=278)r: <strong>Ich sage erstens: Die Logik ist ein Vermögen des Verstandes.....</strong></p>\n<p>Weder der Name des Verfassers noch jener des Schreibers ist bekannt, ebenso wenig das Jahr, in dem unser Codex geschrieben wurde.</p>",
+    "latin": "277 + 53 foll.; tegumentum membranaceum saeculo XV manu scriptum (tractatus theologicus?)\n\na) Dialectica Seu Introductio Ad Philosophiam: fol. 1–26v. Initium fol. 1r: Dialectica ex Graeco Dialeges (!) derivatur........\n\nb) Logica seu Prima Pars Cursus Philosophiae: fol. 27–267r. Initium Proloquii Primi. De philosophia In Genere. Definitio philosophiae esse potest, quod sit cognitio totius naturae.... (fol. 27r)\n\nc) Compendium Logicae: fol. 1–51v (=278–328v). Initium Disputationis Primae et Secundae De Obiecto et Natura Logicae fol. 1 (=278)r: Dico primo Logica est facultas intellectualis.....\n\nNeque nomen auctoris et scriptoris notum est neque quo anno scriptus sit codex noster.",
+    "latinHtml": "<p>277 + 53 foll.; tegumentum membranaceum saeculo XV manu scriptum (tractatus theologicus?)</p>\n<p>a) Dialectica Seu Introductio Ad Philosophiam: fol. 1–26v. Initium fol. 1r: Dialectica ex Graeco Dialeges (!) derivatur........</p>\n<p>b) Logica seu Prima Pars Cursus Philosophiae: fol. 27–267r. Initium Proloquii Primi. De philosophia In Genere. Definitio philosophiae esse potest, quod sit cognitio totius naturae.... (fol. 27r)</p>\n<p>c) Compendium Logicae: fol. 1–51v (=278–328v). Initium Disputationis Primae et Secundae De Obiecto et Natura Logicae fol. 1 (=278)r: Dico primo Logica est facultas intellectualis.....</p>\n<p>Neque nomen auctoris et scriptoris notum est neque quo anno scriptus sit codex noster.</p>"
+  },
+  "source": {
+    "file": "MN II 90.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-90/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 90",
+    "titles": "Dialectica Seu Introductio Ad Philosophiam \nDialectica Seu Introductio Ad Philosophiam \nLogica seu Prima Pars Cursus Philosophiae \nCompendium Logicae",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n277 + 53 Blätter \ndescription: Pergamenteinband aus einem handschriftlich beschriebenen Blatt des 15. Jahrhunderts, möglicherweise Fragment eines theologischen Traktats."
+  }
+}

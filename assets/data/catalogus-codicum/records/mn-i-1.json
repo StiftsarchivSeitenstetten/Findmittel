@@ -1,0 +1,129 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-1",
+  "signature": "MN I 1",
+  "aliases": [
+    "Bibl. Cod. MN I 1"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "5",
+  "heading": {
+    "title": "Prozeßordnung für das Erzherzogtum Österreich unter der Enns",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "ca. 1600"
+  },
+  "date": {
+    "display": "ca. 1600",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {},
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Prozeßordnung für das Erzherzogtum Österreich unter der Enns",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "",
+      "language": "main: de; other: la",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "summary",
+          "text": "Verschiedene Gesetze des 16. Jahrhunderts, bis zum Jahr 1570 erlassen und in 20 Traktate gegliedert."
+        },
+        {
+          "type": "language_note",
+          "text": "Deutscher Haupttext mit lateinischen Randanmerkungen."
+        }
+      ],
+      "dates": [
+        {
+          "type": "text_date",
+          "display": "16. Jahrhundert bis 1570"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten)",
+    "format": "Folio",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "Titelblatt fehlt.",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1600",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "subscribed_name",
+      "locus": "S. 540",
+      "text": "Hans Ludwig Dör.........(?)",
+      "certainty": "uncertain"
+    }
+  ],
+  "editorialNotes": [
+    "Die Umfangsangabe des Katalogs wird unverändert übernommen. 249 + 16 + 6 Blätter ergeben rechnerisch 271 Blätter bzw. 542 Seiten, während der Katalog ausdrücklich (= 540 pagg.) angibt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat, 249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten), lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen; geschrieben um das Jahr 1600; das Titelblatt fehlt.\n\n(Prozessordnung für das Erzherzogtum Österreich unter der Enns, d. h. verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden – siehe fol. 246r! – und in 20 Abhandlungen gegliedert sind; deutsch, mit lateinischen Anmerkungen am Rand.)\n\nS. 540: Unterschriebener Name: Hans Ludwig Dör.........(?)",
+    "germanHtml": "<p>Folioformat, 249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten), lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen; geschrieben um das Jahr 1600; das Titelblatt fehlt.</p>\n<p>(Prozessordnung für das Erzherzogtum Österreich unter der Enns, d. h. verschiedene Gesetze des 16. Jahrhunderts, die bis zum Jahr 1570 erlassen wurden – siehe fol. 246r! – und in 20 Abhandlungen gegliedert sind; deutsch, mit lateinischen Anmerkungen am Rand.)</p>\n<p>S. 540: Unterschriebener Name: Hans Ludwig Dör.........(?)</p>",
+    "latin": "fol., 249 foll. + 16 foll. Indices + 6 foll. vacua (=540 pagg.), teg. b1 cum ornamentis; script. ca annum 1600; fol. titulare deest\n\n(Prozeßordnung für das Erzherzogtum Österreich unter der Enns, i. e. variae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae; germanice cum annotationibus latinis in margine)\n\np. 540: nomen subscriptum: Hans Ludwig Dör.........(?)",
+    "latinHtml": "<p>fol., 249 foll. + 16 foll. Indices + 6 foll. vacua (=540 pagg.), teg. b1 cum ornamentis; script. ca annum 1600; fol. titulare deest</p>\n<p>(Prozeßordnung für das Erzherzogtum Österreich unter der Enns, i. e. variae leges saec. XVI. usque ad annum 1570 - vide fol. 246r! - latae et in 20 tractatibus dispositae; germanice cum annotationibus latinis in margine)</p>\n<p>p. 540: nomen subscriptum: Hans Ludwig Dör.........(?)</p>"
+  },
+  "source": {
+    "file": "MN I 1.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-1/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 1",
+    "titles": "Prozeßordnung für das Erzherzogtum Österreich unter der Enns \nProzeßordnung für das Erzherzogtum Österreich unter der Enns",
+    "persons": "",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Verschiedene Gesetze des 16. Jahrhunderts, bis zum Jahr 1570 erlassen und in 20 Traktate gegliedert. \nDeutscher Haupttext mit lateinischen Randanmerkungen. \nDie Umfangsangabe des Katalogs wird unverändert übernommen. 249 + 16 + 6 Blätter ergeben rechnerisch 271 Blätter bzw. 542 Seiten, während der Katalog ausdrücklich (= 540 pagg.) angibt.",
+    "physical": "Papier \n249 Blätter + 16 Blätter Register + 6 leere Blätter (= 540 Seiten) \nFolio \nTitelblatt fehlt. \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit Verzierungen."
+  }
+}

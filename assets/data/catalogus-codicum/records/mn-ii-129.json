@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-129",
+  "signature": "MN II 129",
+  "aliases": [
+    "Bibl. Cod. MN II 129"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "81",
+  "heading": {
+    "title": "Tractatus Theologicus De Arcano Incarnationis mysterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1676"
+  },
+  "date": {
+    "display": "1676",
+    "intervals": [
+      {
+        "from": 1676,
+        "to": 1676,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus De Arcano Incarnationis mysterio",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Arcano Incarnationis mysterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "Bl. 1r–182r",
+      "language": "",
+      "incipit": {
+        "text": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino...."
+      },
+      "explicit": {
+        "text": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi."
+      },
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Gregorius Wimberger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe Schreiber wie bei MN II 128."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 184 foll.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1676",
+        "intervals": [
+          {
+            "from": 1676,
+            "to": 1676,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 184 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1676.\n\n**Theologische Abhandlung über das verborgene Geheimnis der Menschwerdung:** fol. 1–182.\n\nAnfang fol. 1r: Nachdem der heilige Lehrer im ersten Teil von Gott gehandelt hat, wie er in sich selbst der Eine und Dreieinige ist.... (= Anfang der Vorrede).\n\nSchluss fol. 182r: Wir beendeten diese Abhandlung am 5. Oktober 1676 unter P. Gregorius Wimberger, Profess von Kremsmünster.\n\nDer Schreiber ist unbekannt, schrieb jedoch auch den vorhergehenden Codex MN II 128.",
+    "germanHtml": "<p>II + 184 Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1676.</p>\n<p><strong>Theologische Abhandlung über das verborgene Geheimnis der Menschwerdung:</strong> fol. 1–182.</p>\n<p>Anfang fol. 1r: Nachdem der heilige Lehrer im ersten Teil von Gott gehandelt hat, wie er in sich selbst der Eine und Dreieinige ist.... (= Anfang der Vorrede).</p>\n<p>Schluss fol. 182r: Wir beendeten diese Abhandlung am 5. Oktober 1676 unter P. Gregorius Wimberger, Profess von Kremsmünster.</p>\n<p>Der Schreiber ist unbekannt, schrieb jedoch auch den vorhergehenden Codex MN II 128.</p>",
+    "latin": "II + 184 foll.; teg. a1; script. 1676\n\nTractatus Theologicus De Arcano Incarnationis mysterio: fol. 1 - 182.\n\nInitium fol. 1r: Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (= Initium Prooemii)\n\nClausula fol. 182r: Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.\n\nScriptor ignotus, quamquam etiam codicem praecedentem MN II 128 scripsit.",
+    "latinHtml": "<p>II + 184 foll.; teg. a1; script. 1676</p>\n<p>Tractatus Theologicus De Arcano Incarnationis mysterio: fol. 1 - 182.</p>\n<p>Initium fol. 1r: Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino.... (= Initium Prooemii)</p>\n<p>Clausula fol. 182r: Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.</p>\n<p>Scriptor ignotus, quamquam etiam codicem praecedentem MN II 128 scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 129.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-129/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 129",
+    "titles": "Tractatus Theologicus De Arcano Incarnationis mysterio \nTractatus Theologicus De Arcano Incarnationis mysterio",
+    "persons": "P. Gregorius Wimberger Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Postquam S. Doctor in prima parte egit de Deo secundum se uno et Trino....",
+    "explicits": "Absolvimus hunc tractatum 5. Octobris. 1676. Sub......Patre Gregorio Wimberger Professo Cremiphanensi.",
+    "notes": "",
+    "physical": "Papier \nII + 184 foll. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

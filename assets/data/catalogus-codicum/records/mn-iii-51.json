@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-51",
+  "signature": "MN III 51",
+  "aliases": [
+    "Bibl. Cod. MN III 51"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "256",
+  "heading": {
+    "title": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1778"
+  },
+  "date": {
+    "display": "1778",
+    "intervals": [
+      {
+        "from": 1778,
+        "to": 1778,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–137",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Register",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 138–140",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Joachim Plättnesleutner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "16°",
+    "format": "Sedezformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1778",
+        "intervals": [
+          {
+            "from": 1778,
+            "to": 1778,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Sedezformat; 140 Seiten; schwarzer Ledereinband, Rücken und Kanten mit feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1778.\n\n**Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:** S. 1–137; mit **Register** S. 138–140.\n\nDie Überschriften dieses Büchleins sind in vielen Farben ausgemalt. Außerdem sind mehrere Kupferstiche eingefügt, die ein Künstler namens **Kollanetz** gestochen hat.\n\nDer Schreiber nennt sich S. 125: **Johann Joachim Plättnesleutner**; seine Initialen stehen auch S. 134: **I. I. P. 1.7. .7.8.**",
+    "germanHtml": "<p>Sedezformat; 140 Seiten; schwarzer Ledereinband, Rücken und Kanten mit feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben 1778.</p>\n<p><strong>Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:</strong> S. 1–137; mit <strong>Register</strong> S. 138–140.</p>\n<p>Die Überschriften dieses Büchleins sind in vielen Farben ausgemalt. Außerdem sind mehrere Kupferstiche eingefügt, die ein Künstler namens <strong>Kollanetz</strong> gestochen hat.</p>\n<p>Der Schreiber nennt sich S. 125: <strong>Johann Joachim Plättnesleutner</strong>; seine Initialen stehen auch S. 134: <strong>I. I. P. 1.7. .7.8.</strong></p>",
+    "latin": "16°; 140 pagg.; teg. b2, dorsum marginesque teneris ornamentis impressis et inauratis decorata; script. 1778\n\n**Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:** p. 1–137 cum indice: Register p. 138–140\n\nInscriptiones huius libelli multis coloribus fucatae sunt. Insertae sunt etiam aliquot delineationes chalcographicae, quas artifex quidam nomine **Kollanetz** sculpsit.\n\nScriptor nomen suum prodit p. 125: **Johann Joachim Plättnesleutner**, initiales litteras etiam p. 134: **I. I. P. 1.7. .7.8.**",
+    "latinHtml": "<p>16°; 140 pagg.; teg. b2, dorsum marginesque teneris ornamentis impressis et inauratis decorata; script. 1778</p>\n<p><strong>Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778:</strong> p. 1–137 cum indice: Register p. 138–140</p>\n<p>Inscriptiones huius libelli multis coloribus fucatae sunt. Insertae sunt etiam aliquot delineationes chalcographicae, quas artifex quidam nomine <strong>Kollanetz</strong> sculpsit.</p>\n<p>Scriptor nomen suum prodit p. 125: <strong>Johann Joachim Plättnesleutner</strong>, initiales litteras etiam p. 134: <strong>I. I. P. 1.7. .7.8.</strong></p>"
+  },
+  "source": {
+    "file": "MN III 51.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-51/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 51",
+    "titles": "Gebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778 \nGebett Buech Darinen Morgens Abens meß beicht und Communion Gebett auch noch Andere Schönen gebetter und littaneyen 1778 \nRegister",
+    "persons": "Johann Joachim Plättnesleutner Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n16° \nSedezformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+  }
+}

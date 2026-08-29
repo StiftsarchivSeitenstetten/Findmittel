@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-223",
+  "signature": "MN II 223",
+  "aliases": [
+    "Bibl. Cod. MN II 223"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "174",
+  "heading": {
+    "title": "Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1704"
+  },
+  "date": {
+    "display": "1704",
+    "intervals": [
+      {
+        "from": 1704,
+        "to": 1704,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–338",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1704-08-30"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "340 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1704",
+        "intervals": [
+          {
+            "from": 1704,
+            "to": 1704,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "340 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1704.\n\n**Zusammenfassung der gesamten Theologie, das heißt: Abhandlung über das unaussprechliche Geheimnis der Menschwerdung des Herrn.**\n\nAnfang S. 5: Paraphrase des Titels. Es gefiel, diese goldene Abhandlung eine Zusammenfassung zu nennen.....\n\nSchluss S. 338: **Wir beendeten [dies] am 30. August 1704.**\n\nWeder Schreiber noch Verfasser sind bekannt.",
+    "germanHtml": "<p>340 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1704.</p>\n<p><strong>Zusammenfassung der gesamten Theologie, das heißt: Abhandlung über das unaussprechliche Geheimnis der Menschwerdung des Herrn.</strong></p>\n<p>Anfang S. 5: Paraphrase des Titels. Es gefiel, diese goldene Abhandlung eine Zusammenfassung zu nennen.....</p>\n<p>Schluss S. 338: <strong>Wir beendeten [dies] am 30. August 1704.</strong></p>\n<p>Weder Schreiber noch Verfasser sind bekannt.</p>",
+    "latin": "340 pagg.; teg. a1; script. 1704\n\nSummarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio\n\nInitium p. 5: Paraphrasis tituli Summarium nuncupare placuit tractatum hunc aureum.....\n\nClausula p. 338: Absolvimus 30 Augusti 1704\n\nNeque scriptor notus neque auctor.",
+    "latinHtml": "<p>340 pagg.; teg. a1; script. 1704</p>\n<p>Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio</p>\n<p>Initium p. 5: Paraphrasis tituli Summarium nuncupare placuit tractatum hunc aureum.....</p>\n<p>Clausula p. 338: Absolvimus 30 Augusti 1704</p>\n<p>Neque scriptor notus neque auctor.</p>"
+  },
+  "source": {
+    "file": "MN II 223.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-223/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 223",
+    "titles": "Summarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio \nSummarium totius Theologiae hoc est Tractatus De Ineffabili Dominicae Incarnationis mysterio",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n340 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,333 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-202",
+  "signature": "MN II 202",
+  "aliases": [
+    "Bibl. Cod. MN II 202"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "151–152",
+  "heading": {
+    "title": "Tractatus Scholasticus De Angelis et Actibus Humanis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1699/1700"
+  },
+  "date": {
+    "display": "1699/1700",
+    "intervals": [
+      {
+        "from": 1699,
+        "to": 1700,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Scholasticus De Angelis et Actibus Humanis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–409",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1699/1700"
+        }
+      ],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Prooemium",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 7–8",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio Prima De Creatura Angelica",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 9–291",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [
+            {
+              "type": "end_date",
+              "display": "1700-05-26"
+            }
+          ],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-3",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Disputatio Secunda In secundam Partem Divi Thomae de Actibus Humanis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 295–409",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [
+            {
+              "type": "start_date",
+              "display": "1700-05-26"
+            },
+            {
+              "type": "end_date",
+              "display": "1700-08-28"
+            }
+          ],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Ethica Supernaturalis sive Theologia Practica De Bono et Malo Morali",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 413–600",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1699/1700"
+        }
+      ],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-1-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Praefatio",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 415–416",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-2-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Tractatus Primus De Conscientia",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 416–536",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [
+            {
+              "type": "end_date",
+              "display": "1700-03-17"
+            }
+          ],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-3-2",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Tractatus Secundus De Actibus Humanis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 537–600",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [
+            {
+              "type": "dated_clausula",
+              "display": "locus: S. 582; date: 1700-07-10"
+            }
+          ],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-4",
+          "label": "",
+          "type": "",
+          "title": {
+            "text": "Fragmenta de legibus",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "nach S. 582",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Marianus Landmayr",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Admont / Universität Salzburg"
+    },
+    {
+      "name": "P. Ludovicus Patenstuber",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Ettal / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Engelbertus Veser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "602 pagg.",
+    "format": "",
+    "binding": {
+      "code": "d",
+      "description": "Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Farbangaben siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1699/1700",
+        "intervals": [
+          {
+            "from": 1699,
+            "to": 1700,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "602 Seiten; Halblederband wie bei MN II 201; geschrieben 1699/1700.\n\na) **Scholastische Abhandlung über die Engel und die menschlichen Handlungen**, vorgetragen von P. Marianus Landmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor, 1699: S. 5–409.\n\nVorrede S. 7–8. Anfang: Im vergangenen Jahr betrachteten wir Gott an sich.....\n\n**Erste Disputation über die Engel:** S. 9–291. Anfang: Der Name der Engel ist seiner eigentlichen Bedeutung nach ein Amtsname..... Schluss: **Ende dieser Abhandlung über die Engel, 26. Mai 1700.**\n\n**Zweite Disputation zur Prima Secundae des hl. Thomas über die menschlichen Handlungen:** S. 295–409. Datum: **26. Mai 1700.** Anfang S. 297: Ein menschlicher Akt heißt eine Handlung, die aus Überlegung erfolgt..... Schluss: **28. August 1700.**\n\nb) **Übernatürliche Ethik oder praktische Theologie über sittlich Gutes und Böses**, vorgetragen von P. Ludovicus Patenstuber, Benediktiner und Profess von Ettal, Doktor der heiligen Theologie und damaliger ordentlicher Professor der Moraltheologie; aufgezeichnet von Fr. Engelbertus Veser, Seitenstettner Benediktiner, 1699: S. 413–600.\n\nVorrede S. 415–416. Anfang: Was immer in diesem Leben Lob verdient.....\n\n**Erste Abhandlung über das Gewissen:** S. 416–536. Anfang: Diese Abhandlung ist die Grundlage der gesamten Moraltheologie..... Schluss: **Wir beendeten [sie] am 17. März 1700.**\n\n**Zweite Abhandlung über die menschlichen Handlungen:** S. 537–600. Anfang: Obwohl der Mensch zur ewigen Glückseligkeit geschaffen ist..... Schluss S. 582: **10. Juli 1700.** Danach folgen Fragmente über die Gesetze.\n\nDie Schrift zeigt, dass auch Teil a von Fr. Engelbertus Veser geschrieben wurde.",
+    "germanHtml": "<p>602 Seiten; Halblederband wie bei MN II 201; geschrieben 1699/1700.</p>\n<p>a) <strong>Scholastische Abhandlung über die Engel und die menschlichen Handlungen</strong>, vorgetragen von P. Marianus Landmayr, Benediktiner und Profess von Admont, Doktor der heiligen Theologie und ordentlicher Professor, 1699: S. 5–409.</p>\n<p>Vorrede S. 7–8. Anfang: Im vergangenen Jahr betrachteten wir Gott an sich.....</p>\n<p><strong>Erste Disputation über die Engel:</strong> S. 9–291. Anfang: Der Name der Engel ist seiner eigentlichen Bedeutung nach ein Amtsname..... Schluss: <strong>Ende dieser Abhandlung über die Engel, 26. Mai 1700.</strong></p>\n<p><strong>Zweite Disputation zur Prima Secundae des hl. Thomas über die menschlichen Handlungen:</strong> S. 295–409. Datum: <strong>26. Mai 1700.</strong> Anfang S. 297: Ein menschlicher Akt heißt eine Handlung, die aus Überlegung erfolgt..... Schluss: <strong>28. August 1700.</strong></p>\n<p>b) <strong>Übernatürliche Ethik oder praktische Theologie über sittlich Gutes und Böses</strong>, vorgetragen von P. Ludovicus Patenstuber, Benediktiner und Profess von Ettal, Doktor der heiligen Theologie und damaliger ordentlicher Professor der Moraltheologie; aufgezeichnet von Fr. Engelbertus Veser, Seitenstettner Benediktiner, 1699: S. 413–600.</p>\n<p>Vorrede S. 415–416. Anfang: Was immer in diesem Leben Lob verdient.....</p>\n<p><strong>Erste Abhandlung über das Gewissen:</strong> S. 416–536. Anfang: Diese Abhandlung ist die Grundlage der gesamten Moraltheologie..... Schluss: <strong>Wir beendeten [sie] am 17. März 1700.</strong></p>\n<p><strong>Zweite Abhandlung über die menschlichen Handlungen:</strong> S. 537–600. Anfang: Obwohl der Mensch zur ewigen Glückseligkeit geschaffen ist..... Schluss S. 582: <strong>10. Juli 1700.</strong> Danach folgen Fragmente über die Gesetze.</p>\n<p>Die Schrift zeigt, dass auch Teil a von Fr. Engelbertus Veser geschrieben wurde.</p>",
+    "latin": "602 pagg.; teg. d (ut supra in codice MN II 201); scr. 1699/1700\n\na) Tractatus Scholasticus. De Angelis et Actibus Humanis. Traditus â .....P. Mariano Landmayr, Ordinis S. P. Benedicti, Celeberrimi Monasterii Admontensis Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. 1699: p. 5–409\n\n(Prooemium): p. 7–8. Initium: Consideravimus anno praecedenti Deum in seipso.......\n\nDisputatio Prima. de Creatura Angelica: p. 9–291. Initium: Angelorum nomen ex privata sui institutione esse nomen officii......  \nClausula: Finis huius Tractatus de Angelis. 26. Maii. 1700.\n\nDisputatio II. In secundam Partem Divi Thomae de Actibus Humanis. MDCCC (1700) 26 Maii: p. 295–409. Initium p. 297: Actus humanus dicitur actus ex deliberatione factus.... Clausula: Die 28 Augusti. Anno 1700.\n\nb) Ethica Supernaturalis, sive Theologia Practica. De Bono et Malo Morali. Tradita â .....P. Ludovico Patenstuber, Ordinis S. P. Benedicti Ad Divam Virginem Ettalensem Professo, Sacrosanctae Theologiae Doctore, et pro tempore Moralis Theologiae Professore ordinario. Calamô Excepta â F. Engelberto Veser Benedictino ac Professo Seittenstettensi. Anno Salutis 1699: p. 413–600.\n\nPraefatio p. 415–416. Initium: quidquid in hac luce laudem meretur..  \nTractatus Primus de Conscientia: p. 416–536. Initium: Praesens tractatus totius Theologiae moralis est basis.... Clausula: finivimus die 17 Martii 1700.  \nTractatus Secundus de Actibus Humanis: p. 537–600. Initium: Tametsi homo ad aeternam beatitudinem sit conditus..  \nClausula p. 582: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)\n\nScriptura docet etiam partem a a F. Engelberto Veser scriptam esse.\n\n\n\n\n### Arch. Cod. 34–7 (XVIII 3 h)\n\n4°; VI + 494 pagg.; teg. c2d; scriptus anno scholari 1700/1701\n\nTractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione, et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti in Beatae Virginis Monasterio Seittenstettensi Professo. 1700.\n\nInitium Proloquii p. 1: Postquam Sanctus Doctor altissimum Incarnationis Mysterium...... Nota p. 2: Novembre 1700.  \nClausula p. 491: Die 31 Augusti 1701.\n\nEasdem lectiones invenies etiam in codice MN II 213 (vide inferius!)",
+    "latinHtml": "<p>602 pagg.; teg. d (ut supra in codice MN II 201); scr. 1699/1700</p>\n<p>a) Tractatus Scholasticus. De Angelis et Actibus Humanis. Traditus â .....P. Mariano Landmayr, Ordinis S. P. Benedicti, Celeberrimi Monasterii Admontensis Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. 1699: p. 5–409</p>\n<p>(Prooemium): p. 7–8. Initium: Consideravimus anno praecedenti Deum in seipso.......</p>\n<p>Disputatio Prima. de Creatura Angelica: p. 9–291. Initium: Angelorum nomen ex privata sui institutione esse nomen officii...... Clausula: Finis huius Tractatus de Angelis. 26. Maii. 1700.</p>\n<p>Disputatio II. In secundam Partem Divi Thomae de Actibus Humanis. MDCCC (1700) 26 Maii: p. 295–409. Initium p. 297: Actus humanus dicitur actus ex deliberatione factus.... Clausula: Die 28 Augusti. Anno 1700.</p>\n<p>b) Ethica Supernaturalis, sive Theologia Practica. De Bono et Malo Morali. Tradita â .....P. Ludovico Patenstuber, Ordinis S. P. Benedicti Ad Divam Virginem Ettalensem Professo, Sacrosanctae Theologiae Doctore, et pro tempore Moralis Theologiae Professore ordinario. Calamô Excepta â F. Engelberto Veser Benedictino ac Professo Seittenstettensi. Anno Salutis 1699: p. 413–600.</p>\n<p>Praefatio p. 415–416. Initium: quidquid in hac luce laudem meretur.. Tractatus Primus de Conscientia: p. 416–536. Initium: Praesens tractatus totius Theologiae moralis est basis.... Clausula: finivimus die 17 Martii 1700. Tractatus Secundus de Actibus Humanis: p. 537–600. Initium: Tametsi homo ad aeternam beatitudinem sit conditus.. Clausula p. 582: 1700. 10 Julii. (Sequuntur fragmenta de legibus!)</p>\n<p>Scriptura docet etiam partem a a F. Engelberto Veser scriptam esse.</p>\n<h4>Arch. Cod. 34–7 (XVIII 3 h)</h4>\n<p>4°; VI + 494 pagg.; teg. c2d; scriptus anno scholari 1700/1701</p>\n<p>Tractatus Undecimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Sacramentis in Genere et Specie. de Baptismo, Confirmatione, et Eucharistia. Traditus â .....P. Carolo Schrenk, Ordinis S. P. Benedicti, in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore ordinario. Calamo exceptus â Religioso F. Engelberto Veser Ordinis S. P. Benedicti in Beatae Virginis Monasterio Seittenstettensi Professo. 1700.</p>\n<p>Initium Proloquii p. 1: Postquam Sanctus Doctor altissimum Incarnationis Mysterium...... Nota p. 2: Novembre 1700. Clausula p. 491: Die 31 Augusti 1701.</p>\n<p>Easdem lectiones invenies etiam in codice MN II 213 (vide inferius!)</p>"
+  },
+  "source": {
+    "file": "MN II 202.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-202/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 202",
+    "titles": "Tractatus Scholasticus De Angelis et Actibus Humanis \nTractatus Scholasticus De Angelis et Actibus Humanis \nProoemium \nDisputatio Prima De Creatura Angelica \nDisputatio Secunda In secundam Partem Divi Thomae de Actibus Humanis \nEthica Supernaturalis sive Theologia Practica De Bono et Malo Morali \nPraefatio \nTractatus Primus De Conscientia \nTractatus Secundus De Actibus Humanis \nFragmenta de legibus",
+    "persons": "P. Marianus Landmayr Dozent lecturer \nP. Ludovicus Patenstuber Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n602 pagg. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; genaue Farbangaben siehe Katalogtext."
+  }
+}

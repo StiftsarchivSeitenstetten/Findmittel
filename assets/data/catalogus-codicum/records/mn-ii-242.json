@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-242",
+  "signature": "MN II 242",
+  "aliases": [
+    "Bibl. Cod. MN II 242"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "187–188",
+  "heading": {
+    "title": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1710"
+  },
+  "date": {
+    "display": "1710",
+    "intervals": [
+      {
+        "from": 1710,
+        "to": 1710,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–25r",
+      "language": "",
+      "incipit": {
+        "text": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "23. August 1710"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–45v (= fol. 29r–73v)",
+      "language": "",
+      "incipit": {
+        "text": "Proemium. Compendiosam tibi viam aperit hystoria"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Vom letzten Kapitel ist nur die Inscriptio erhalten."
+        },
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Pollemica, offensiva ac defensiva",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–21v (= fol. 80–100v)",
+      "language": "",
+      "incipit": {
+        "text": "Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog lässt offen, ob der Traktat nie vollendet oder durch Blattverlust am Ende verstümmelt wurde."
+        },
+        {
+          "type": "completeness",
+          "text": "mutilated_or_unfinished"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "note": "Der Katalog erwägt ausdrücklich mehrere Verfasser."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb auch MN II 241 und MN II 243."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "28 + 51 + 21 = 100 foll.",
+    "format": "",
+    "binding": {
+      "code": "c2",
+      "description": "Marmorierter Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1710",
+        "intervals": [
+          {
+            "from": 1710,
+            "to": 1710,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "28 + 51 + 21 = 100 Blätter; marmorierter Pappeinband; geschrieben 1710.\n\na) **Moralische Abhandlung zum vierten Buch der Nikomachischen Ethik des Aristoteles über die sittlichen Tugenden im Einzelnen:** fol. 1r–25r. Anfang der Vorrede: In diesem vierten Buch der Ethik hat der Fürst der Philosophen schließlich die besonderen Zierden angebracht,...... Schluss: **Am 23. August 1710.**\n\nb) **Historisch-politische Abhandlung über die vier Monarchien seit Erschaffung der Welt, umfassend die römisch-deutschen Kaiser vom großen Interregnum vor Rudolf I. von Habsburg bis zum gegenwärtigen allerhöchsten Kaiser Joseph:** fol. 1r–45v (= fol. 29r–73v). Anfang: Vorrede. Die Geschichte eröffnet dir einen kurzen Weg,..... Die Abhandlung ist unvollständig; vom letzten Kapitel ist nur die Überschrift erhalten.\n\nc) **Abhandlung über die Kriegskunst, offensiv und defensiv:** fol. 1–21v (= fol. 80–100v). Anfang der Vorrede fol. 80r: Da nun schon seit vielen Jahren ganz Europa gleichsam als öffentliche Bühne des Mars und des Todes wütet..... Auch diese Abhandlung über die Kriegführung scheint verstümmelt zu sein, sei es, dass sie niemals vollendet wurde, sei es, dass später am Ende des Codex einige Blätter herausgeschnitten wurden.\n\nWeder den Verfasser – oder vielmehr die Verfasser – noch den Schreiber kennt der Katalogbearbeiter. Sicher ist jedoch, dass derselbe Schreiber auch den vorhergehenden und den folgenden Codex schrieb.",
+    "germanHtml": "<p>28 + 51 + 21 = 100 Blätter; marmorierter Pappeinband; geschrieben 1710.</p>\n<p>a) <strong>Moralische Abhandlung zum vierten Buch der Nikomachischen Ethik des Aristoteles über die sittlichen Tugenden im Einzelnen:</strong> fol. 1r–25r. Anfang der Vorrede: In diesem vierten Buch der Ethik hat der Fürst der Philosophen schließlich die besonderen Zierden angebracht,...... Schluss: <strong>Am 23. August 1710.</strong></p>\n<p>b) <strong>Historisch-politische Abhandlung über die vier Monarchien seit Erschaffung der Welt, umfassend die römisch-deutschen Kaiser vom großen Interregnum vor Rudolf I. von Habsburg bis zum gegenwärtigen allerhöchsten Kaiser Joseph:</strong> fol. 1r–45v (= fol. 29r–73v). Anfang: Vorrede. Die Geschichte eröffnet dir einen kurzen Weg,..... Die Abhandlung ist unvollständig; vom letzten Kapitel ist nur die Überschrift erhalten.</p>\n<p>c) <strong>Abhandlung über die Kriegskunst, offensiv und defensiv:</strong> fol. 1–21v (= fol. 80–100v). Anfang der Vorrede fol. 80r: Da nun schon seit vielen Jahren ganz Europa gleichsam als öffentliche Bühne des Mars und des Todes wütet..... Auch diese Abhandlung über die Kriegführung scheint verstümmelt zu sein, sei es, dass sie niemals vollendet wurde, sei es, dass später am Ende des Codex einige Blätter herausgeschnitten wurden.</p>\n<p>Weder den Verfasser – oder vielmehr die Verfasser – noch den Schreiber kennt der Katalogbearbeiter. Sicher ist jedoch, dass derselbe Schreiber auch den vorhergehenden und den folgenden Codex schrieb.</p>",
+    "latin": "28 + 51 + 21 = 100 foll.; teg. c2; script. 1710\n\na) Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie: fol. 1r–25r.\n\nInitium Proemii: Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......\n\nClausula: Die 23. Augusti. Anno 1710.\n\n\n\n\nb) Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum: fol. 1r–45v (= fol. 29r–73v).  \nInitium: Proemium. Compendiosam tibi viam aperit hystoria,.....  \nTractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.\n\nc) Tractatus de Pollemica, offensiva ac defensiva: fol. 1–21v (= 80–100v).  \nInitium Proemii fol. 1 (80)r: Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro.....  \nEtiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt.  \nNeque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.",
+    "latinHtml": "<p>28 + 51 + 21 = 100 foll.; teg. c2; script. 1710</p>\n<p>a) Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie: fol. 1r–25r.</p>\n<p>Initium Proemii: Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta, ......</p>\n<p>Clausula: Die 23. Augusti. Anno 1710.</p>\n<p>b) Tractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum: fol. 1r–45v (= fol. 29r–73v). Initium: Proemium. Compendiosam tibi viam aperit hystoria,..... Tractatus imperfectus est; ultimi enim Capitis nil nisi inscriptio adest.</p>\n<p>c) Tractatus de Pollemica, offensiva ac defensiva: fol. 1–21v (= 80–100v). Initium Proemii fol. 1 (80)r: Furente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro..... Etiam hic tractatus de arte belli gerendi videtur mutilus esse, sive quia nunquam finitus est, sive quia postea aliquot folia in fine codicis excisa sunt. Neque auctorem (aut potius auctores?) neque scriptorem codicis nostri scio. Sed certum est, eundem qui nostrum etiam praecedentem et subsequentem codicem scripsisse.</p>"
+  },
+  "source": {
+    "file": "MN II 242.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-242/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 241]]",
+      "targetId": "mn-ii-241",
+      "targetSignature": "MN II 241",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 243]]",
+      "targetId": "mn-ii-243",
+      "targetSignature": "MN II 243",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 242",
+    "titles": "Tractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie \nTractatus Moralis in librum quartum Ethicorum Aristoteles (!) ad Nicomachum de virtutibus moralibus in specie \nTractatus historico Politicus in Quatuor ab orbe condito monarchias, complectens Imperatorès, Romano germanicos à magno illo Interregno ante Rudolphum primum Habsburgicum usque ad modernum Augustissimum Josephum \nTractatus de Pollemica, offensiva ac defensiva",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Specialis tandem quarto hoc Ethicorum librorum libro Philosophiae princeps adhibuit ornamenta \nProemium. Compendiosam tibi viam aperit hystoria \nFurente iam multis abhinc annis tota in Europâ veluti publico Martis Mortisque theatro",
+    "explicits": "",
+    "notes": "Vom letzten Kapitel ist nur die Inscriptio erhalten. \nincomplete \nDer Katalog lässt offen, ob der Traktat nie vollendet oder durch Blattverlust am Ende verstümmelt wurde. \nmutilated_or_unfinished",
+    "physical": "Papier \n28 + 51 + 21 = 100 foll. \ncode: c2; description: Marmorierter Pappeinband."
+  }
+}

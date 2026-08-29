@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-254",
+  "signature": "MN II 254",
+  "aliases": [
+    "Bibl. Cod. MN II 254"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "194–195",
+  "heading": {
+    "title": "Tractatus In Primam Partem Divi Thomae. De Deo uno, et Trino",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "anno 1715"
+  },
+  "date": {
+    "display": "anno 1715",
+    "intervals": [
+      {
+        "from": 1715,
+        "to": 1715,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus In Primam Partem Divi Thomae. De Deo uno, et Trino",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Proemium",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–2r",
+      "language": "",
+      "incipit": {
+        "text": "Aggredimur Deo Auspice totius Theologiae difficillimam Partem"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prolegomena (!). De Necessitate, Naturâ, et Qualitate Theologiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 2r–24r",
+      "language": "",
+      "incipit": {
+        "text": "Existere in rerum naturâ Sacram Theologiam"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars Prima. De Deo Uno",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 24v–169r",
+      "language": "",
+      "incipit": {
+        "text": "Postquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Pars Secunda. De Deo Trino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 169 (= 1)v–184 (= 16)r",
+      "language": "",
+      "incipit": {
+        "text": "Hactenus, quantum satis erat"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "23. August 1715"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "169 + 17 foll.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "anno 1715",
+        "intervals": [
+          {
+            "from": 1715,
+            "to": 1715,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "169 + 17 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1715.\n\n**Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott.**\n\na) **Vorrede:** fol. 1r–2r. Anfang: Unter Gottes Führung nehmen wir den schwierigsten Teil der gesamten Theologie in Angriff......\n\nb) **Prolegomenale Disputation über Notwendigkeit, Natur und Beschaffenheit der Theologie:** fol. 2r–24r. Anfang: Dass es in der Wirklichkeit eine heilige Theologie gibt.......\n\nc) **Erster Teil. Über den einen Gott:** fol. 24v–169r. Anfang: Nachdem der heilige Lehrer in der prolegomenalen Frage die Vorzüglichkeit der Theologie selbst.....\n\nd) **Zweiter Teil. Über den dreieinigen Gott:** fol. 169 (=1)v–184 (=16)r. Anfang: Bisher haben wir, soweit es genügte,..... Schluss: **23. August 1715.**\n\nVerfasser und Schreiber sind unbekannt. Dieselben Vorlesungen enthält MN II 259.",
+    "germanHtml": "<p>169 + 17 Blätter; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1715.</p>\n<p><strong>Abhandlung zum ersten Teil des hl. Thomas über den einen und dreieinigen Gott.</strong></p>\n<p>a) <strong>Vorrede:</strong> fol. 1r–2r. Anfang: Unter Gottes Führung nehmen wir den schwierigsten Teil der gesamten Theologie in Angriff......</p>\n<p>b) <strong>Prolegomenale Disputation über Notwendigkeit, Natur und Beschaffenheit der Theologie:</strong> fol. 2r–24r. Anfang: Dass es in der Wirklichkeit eine heilige Theologie gibt.......</p>\n<p>c) <strong>Erster Teil. Über den einen Gott:</strong> fol. 24v–169r. Anfang: Nachdem der heilige Lehrer in der prolegomenalen Frage die Vorzüglichkeit der Theologie selbst.....</p>\n<p>d) <strong>Zweiter Teil. Über den dreieinigen Gott:</strong> fol. 169 (=1)v–184 (=16)r. Anfang: Bisher haben wir, soweit es genügte,..... Schluss: <strong>23. August 1715.</strong></p>\n<p>Verfasser und Schreiber sind unbekannt. Dieselben Vorlesungen enthält MN II 259.</p>",
+    "latin": "169 + 17 foll.; teg. c3d; script. anno 1715\n\nTractatus In Primam Partem Divi Thomae. De Deo uno, et Trino.\n\na) Proemium: fol. 1r–2r.  \nInitium: Aggredimur Deo Auspice totius Theologiae difficillimam Partem,......\n\nb) Disputatio Prolegomena (!). De Necessitate, Naturâ, et Qualitate Theologiae: fol. 2r–24r.  \nInitium: Existere in rerum naturâ Sacram Theologiam, .......\n\nc) Pars Prima. De Deo Uno: fol. 24v–169r.  \nInitium: Postquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam...\n\nd) Pars Secunda. De Deo Trino: fol. 169 (= 1)v–184 (= 16)r.  \nInitium: Hactenus, quantum satis erat, .....  \nClausula: Anno 1715. 23. Augusti\n\nAuctor et scriptor ignoti. Easdem lectiones exhibet Cod. MN II 259.",
+    "latinHtml": "<p>169 + 17 foll.; teg. c3d; script. anno 1715</p>\n<p>Tractatus In Primam Partem Divi Thomae. De Deo uno, et Trino.</p>\n<p>a) Proemium: fol. 1r–2r. Initium: Aggredimur Deo Auspice totius Theologiae difficillimam Partem,......</p>\n<p>b) Disputatio Prolegomena (!). De Necessitate, Naturâ, et Qualitate Theologiae: fol. 2r–24r. Initium: Existere in rerum naturâ Sacram Theologiam, .......</p>\n<p>c) Pars Prima. De Deo Uno: fol. 24v–169r. Initium: Postquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam...</p>\n<p>d) Pars Secunda. De Deo Trino: fol. 169 (= 1)v–184 (= 16)r. Initium: Hactenus, quantum satis erat, ..... Clausula: Anno 1715. 23. Augusti</p>\n<p>Auctor et scriptor ignoti. Easdem lectiones exhibet Cod. MN II 259.</p>"
+  },
+  "source": {
+    "file": "MN II 254.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-254/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 259]]",
+      "targetId": "mn-ii-259",
+      "targetSignature": "MN II 259",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 254",
+    "titles": "Tractatus In Primam Partem Divi Thomae. De Deo uno, et Trino \nProemium \nDisputatio Prolegomena (!). De Necessitate, Naturâ, et Qualitate Theologiae \nPars Prima. De Deo Uno \nPars Secunda. De Deo Trino",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Aggredimur Deo Auspice totius Theologiae difficillimam Partem \nExistere in rerum naturâ Sacram Theologiam \nPostquam S. Doctor in quaestione prolegomenali ipsiusmet Theologiae excellentiam \nHactenus, quantum satis erat",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n169 + 17 foll. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-210",
+  "signature": "MN II 210",
+  "aliases": [
+    "Bibl. Cod. MN II 210"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "157–158",
+  "heading": {
+    "title": "Tractatus Theologicus De Incarnatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "nach 1694, vor 1700"
+  },
+  "date": {
+    "display": "nach 1694, vor 1700",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1699,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Theologicus De Incarnatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–437",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nach der Schlussformel schloss der Vortragende an diesem Tag seinen gesamten Kurs ab."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "13. Juli, Jahr nicht angegeben"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Honorius Aigner",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kremsmünster / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Udiscalcus Hueber",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "442 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nach 1694, vor 1700",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1699,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "ownership_note",
+      "locus": "Innenseite des Vorderdeckels",
+      "text": "P. V. H. 1705",
+      "note": "Die Deutung wird im Katalog bei MN II 211 erläutert."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "442 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nach 1694 und vor 1700.\n\n**Theologische Abhandlung über die Menschwerdung.**\n\nAnfang der Vorrede S. 1: Gegenstand dieser Abhandlung ist das eine Wort..... Schluss S. 437: **Wir beendeten diese Abhandlung am 13. Juli unter dem berühmten P. Honorius Aigner**, Profess von Kremsmünster und Professor in Salzburg, der an diesem Tag seinen ganzen Kurs abgeschlossen hatte.\n\nAuch in diesem Codex findet sich auf der Innenseite des Vorderdeckels die Notiz **P. V. H. 1705**. Die Schrift verrät als Schreiber Fr. Udiscalcus Hueber, der auch die vier vorhergehenden Codices schrieb.\n\nDas genaue Jahr ist unbekannt; sicher ist nur, dass der Codex während seiner theologischen Studien in Salzburg zwischen November 1695 und Oktober 1699 entstand.",
+    "germanHtml": "<p>442 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben nach 1694 und vor 1700.</p>\n<p><strong>Theologische Abhandlung über die Menschwerdung.</strong></p>\n<p>Anfang der Vorrede S. 1: Gegenstand dieser Abhandlung ist das eine Wort..... Schluss S. 437: <strong>Wir beendeten diese Abhandlung am 13. Juli unter dem berühmten P. Honorius Aigner</strong>, Profess von Kremsmünster und Professor in Salzburg, der an diesem Tag seinen ganzen Kurs abgeschlossen hatte.</p>\n<p>Auch in diesem Codex findet sich auf der Innenseite des Vorderdeckels die Notiz <strong>P. V. H. 1705</strong>. Die Schrift verrät als Schreiber Fr. Udiscalcus Hueber, der auch die vier vorhergehenden Codices schrieb.</p>\n<p>Das genaue Jahr ist unbekannt; sicher ist nur, dass der Codex während seiner theologischen Studien in Salzburg zwischen November 1695 und Oktober 1699 entstand.</p>",
+    "latin": "442 pagg.; teg. a1; script. post 1694, ante 1700\n\nTractatus Theologicus. De incarnatione.\n\nInitium Proemii p. 1: Obiectum huius tractatus est unum verbum,....  \nClausula p. 437: Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......\n\nEtiam in codice nostro reperies litteras initiales in adversa parte tegumenti ab intrinsecus: P. V. H. 1705. Quid haec indicent, vide supra p. 155 ad codicem MN II 211. Insuper scriptura prodit scriptorem, dico F. Udiscalcum Hueber, qui etiam quattuor codices praecedentes (et eadem scriptura praeditos) exaravit. Quo autem anno exaraverit codicem nostrum, incertum est, certo autem dum Sacrosanctae Theologiae studuit, scilicet a mense Novembri 1695 usque ad mensem octobrem 1699.",
+    "latinHtml": "<p>442 pagg.; teg. a1; script. post 1694, ante 1700</p>\n<p>Tractatus Theologicus. De incarnatione.</p>\n<p>Initium Proemii p. 1: Obiectum huius tractatus est unum verbum,.... Clausula p. 437: Absolvimus hunc tractatum die: 13. Julii sub Clarissimo P. Honorio Aigner (Professo Cremsmunstrensi et Professore Salisburgensi), qui eo die totum absolverat cursum......</p>\n<p>Etiam in codice nostro reperies litteras initiales in adversa parte tegumenti ab intrinsecus: P. V. H. 1705. Quid haec indicent, vide supra p. 155 ad codicem MN II 211. Insuper scriptura prodit scriptorem, dico F. Udiscalcum Hueber, qui etiam quattuor codices praecedentes (et eadem scriptura praeditos) exaravit. Quo autem anno exaraverit codicem nostrum, incertum est, certo autem dum Sacrosanctae Theologiae studuit, scilicet a mense Novembri 1695 usque ad mensem octobrem 1699.</p>"
+  },
+  "source": {
+    "file": "MN II 210.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-210/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 210",
+    "titles": "Tractatus Theologicus De Incarnatione \nTractatus Theologicus De Incarnatione",
+    "persons": "P. Honorius Aigner Dozent lecturer \nFr. Udiscalcus Hueber Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nach der Schlussformel schloss der Vortragende an diesem Tag seinen gesamten Kurs ab.",
+    "physical": "Papier \n442 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,209 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-185",
+  "signature": "MN II 185",
+  "aliases": [
+    "Bibl. Cod. MN II 185"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "140",
+  "heading": {
+    "title": "Tractatus De Sacramentis in Genere",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1693"
+  },
+  "date": {
+    "display": "1693",
+    "intervals": [
+      {
+        "from": 1693,
+        "to": 1693,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Sacramentis in Genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–373",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1693-05-16"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Baptismo et Confirmatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 374–479",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Venerabili Eucharistia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 481–602",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Edmund Ruedorffer",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Lambach / Universität Salzburg",
+      "certainty": "certain",
+      "note": "Die fortlaufende Abschnittszählung über alle Teile belegt nach dem Katalog, dass er den gesamten Codex diktierte."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "604 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken ist mit schwarzen Verzierungen versehen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1693",
+        "intervals": [
+          {
+            "from": 1693,
+            "to": 1693,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "604 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken, der Rücken mit schwarzen Verzierungen; geschrieben 1693.\n\na) **Abhandlung über die Sakramente im Allgemeinen**, verfasst bzw. vorgetragen von P. Edmund Ruedorffer, Benediktiner des Klosters Lambach, Doktor der heiligen Theologie und ordentlicher Professor in Salzburg, 1693: S. 1–373. Anfang der Vorrede S. 3: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss..... Schluss S. 373: **Wir beendeten [dies] am 16. Mai 1693.**\n\nb) **Abhandlung über Taufe und Firmung:** S. 374–479. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....\n\nc) **Abhandlung über die ehrwürdige Eucharistie:** S. 481–602. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....\n\nDa die einzelnen Vorlesungsabschnitte im ganzen Codex in einer einzigen fortlaufenden Reihe nummeriert sind – so endet Teil a mit Abschnitt 557 und Teil b beginnt mit Abschnitt 558 –, hat P. Edmund Ruedorffer ohne Zweifel den gesamten Codex diktiert. Der Schreiber ist unbekannt.\n\nDieselben Abhandlungen enthalten MN II 176 und MN II 189.",
+    "germanHtml": "<p>604 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken, der Rücken mit schwarzen Verzierungen; geschrieben 1693.</p>\n<p>a) <strong>Abhandlung über die Sakramente im Allgemeinen</strong>, verfasst bzw. vorgetragen von P. Edmund Ruedorffer, Benediktiner des Klosters Lambach, Doktor der heiligen Theologie und ordentlicher Professor in Salzburg, 1693: S. 1–373. Anfang der Vorrede S. 3: Die Gnade, die uns aus dem Leiden und den Verdiensten Christi zufloss..... Schluss S. 373: <strong>Wir beendeten [dies] am 16. Mai 1693.</strong></p>\n<p>b) <strong>Abhandlung über Taufe und Firmung:</strong> S. 374–479. Anfang der ersten Kontroverse über die Taufe: Unter den Sakramenten im Einzelnen.....</p>\n<p>c) <strong>Abhandlung über die ehrwürdige Eucharistie:</strong> S. 481–602. Anfang der ersten Kontroverse: Unter Übergehung der verschiedenen Namen, mit denen die Eucharistie bezeichnet zu werden pflegt.....</p>\n<p>Da die einzelnen Vorlesungsabschnitte im ganzen Codex in einer einzigen fortlaufenden Reihe nummeriert sind – so endet Teil a mit Abschnitt 557 und Teil b beginnt mit Abschnitt 558 –, hat P. Edmund Ruedorffer ohne Zweifel den gesamten Codex diktiert. Der Schreiber ist unbekannt.</p>\n<p>Dieselben Abhandlungen enthalten MN II 176 und MN II 189.</p>",
+    "latin": "604 pagg.; teg. c2d (cum dorso nigris ornamentis decorato); 1693\n\na) Tractatus De Sacramentis in Genere Authore ..... P. Edmundo Ruedorffer Benedictino ex Celeberrimo Monasterio Lambacensi, Sacrosanctae Theologiae Doctore, et Professore Salisburgensi ordinario. 1693: p. 1–373. Initium Prooemii Tractatus De Sacramentis in Genere: p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,..... Clausula p. 373: absolvimus die 16. Maii Anno 1693.\n\nb) Tractatus De Baptismo et Confirmatione: p. 374–479. Initium Controversiae primae. De Baptismo. Inter Sacramenta in Specie merito.....\n\nc) Tractatus De Venerabili Eucharistia: p. 481–602. Initium Controversiae primae. De Venerabili Eucharistia, prout est Sacramentum. Omissis variis nominibus, quibus appellari solet Eucharistia,.....\n\nQuod toto in codice nostro sectiones lectionum in margine una eademque serie numerantur (ex. gr. tractatus a sectione n. 557 finitur, tractatus b sectione n. 558 incipit!), P. Edmundus Ruedorffer sine dubio totum codicem dictavit. Scriptor autem ignotus. Eosdem tractatus exhibent codices MN II 176 (supra p. 135) et MN II 189 (quem vide inferius!).",
+    "latinHtml": "<p>604 pagg.; teg. c2d (cum dorso nigris ornamentis decorato); 1693</p>\n<p>a) Tractatus De Sacramentis in Genere Authore ..... P. Edmundo Ruedorffer Benedictino ex Celeberrimo Monasterio Lambacensi, Sacrosanctae Theologiae Doctore, et Professore Salisburgensi ordinario. 1693: p. 1–373. Initium Prooemii Tractatus De Sacramentis in Genere: p. 3: Gratia, quae nobis profluxit ex passione et meritis Christi,..... Clausula p. 373: absolvimus die 16. Maii Anno 1693.</p>\n<p>b) Tractatus De Baptismo et Confirmatione: p. 374–479. Initium Controversiae primae. De Baptismo. Inter Sacramenta in Specie merito.....</p>\n<p>c) Tractatus De Venerabili Eucharistia: p. 481–602. Initium Controversiae primae. De Venerabili Eucharistia, prout est Sacramentum. Omissis variis nominibus, quibus appellari solet Eucharistia,.....</p>\n<p>Quod toto in codice nostro sectiones lectionum in margine una eademque serie numerantur (ex. gr. tractatus a sectione n. 557 finitur, tractatus b sectione n. 558 incipit!), P. Edmundus Ruedorffer sine dubio totum codicem dictavit. Scriptor autem ignotus. Eosdem tractatus exhibent codices MN II 176 (supra p. 135) et MN II 189 (quem vide inferius!).</p>"
+  },
+  "source": {
+    "file": "MN II 185.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-185/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 176]]",
+      "targetId": "mn-ii-176",
+      "targetSignature": "MN II 176",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 189]]",
+      "targetId": "mn-ii-189",
+      "targetSignature": "MN II 189",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 185",
+    "titles": "Tractatus De Sacramentis in Genere \nTractatus De Sacramentis in Genere \nTractatus De Baptismo et Confirmatione \nTractatus De Venerabili Eucharistia",
+    "persons": "P. Edmund Ruedorffer Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n604 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; der Rücken ist mit schwarzen Verzierungen versehen."
+  }
+}

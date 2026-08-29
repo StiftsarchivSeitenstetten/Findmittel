@@ -1,0 +1,444 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-41",
+  "signature": "MN III 41",
+  "aliases": [
+    "Bibl. Cod. MN III 41"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "226",
+  "heading": {
+    "title": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1750"
+  },
+  "date": {
+    "display": "um 1750",
+    "intervals": [
+      {
+        "from": 1750,
+        "to": 1750,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–15",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Verschiedene Vorbedeutungen",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 15–62",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Salz aus Krautern etc. Zu praeparieren und Ziehen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 62–64",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Vor Raupen oder Würm im Kohl und Kraut",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 64",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 65–258",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Salpeter oder Salniter Zu krügen unterschiedliche weis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 258–287",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Verschiedene Ratschläge",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 287–309",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?)",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 309–327",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Was Monathlich bey den bäumen Zu Thuen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 328–333",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Von Einigen Obst-bäumen insonderheit",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 337–364",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Von der Obsternte",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 364–379",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Obst und Baum-gartten",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 380–515",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-m",
+      "label": "m",
+      "type": "",
+      "title": {
+        "text": "Verschiedene Ratschläge",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 515–532",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-n",
+      "label": "n",
+      "type": "",
+      "title": {
+        "text": "Register aller Hierinen Enthaltenen Sachen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 533–549",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Die Angabe „alphabeticum“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-o",
+      "label": "o",
+      "type": "",
+      "title": {
+        "text": "Wanzen, Item Schwaben und Keffer Zu Vertreiben",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 550",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-p",
+      "label": "p",
+      "type": "",
+      "title": {
+        "text": "Salpeter Zu Figieren",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 550",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Unvollständig; am Ende fehlen vermutlich etwa 20 Seiten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_compiler",
+      "roleLabel": "author or compiler",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "",
+      "description": "Einband fehlt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1750",
+        "intervals": [
+          {
+            "from": 1750,
+            "to": 1750,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 550 Seiten; Einband fehlt; geschrieben um 1750.\n\na) **Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen:** S. 1–15  \nb) **(Verschiedene Vorbedeutungen):** S. 15–62  \nc) **Salz aus Krautern etc. Zu praeparieren und Ziehen:** S. 62–64  \nd) **Vor Raupen oder Würm im Kohl und Kraut:** S. 64  \ne) **Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten:** S. 65–258  \nf) **Salpeter oder Salniter Zu krügen unterschiedliche weis:** S. 258–287  \ng) **(Verschiedene Ratschläge):** S. 287–309  \nh) **Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?):** S. 309–327  \ni) **Was Monathlich bey den bäumen Zu Thuen:** S. 328–333  \nj) **Von Einigen Obst-bäumen insonderheit:** S. 337–364  \nk) **(Von der Obsternte):** S. 364–379  \nl) **Obst und Baum-gartten:** S. 380–515  \nm) **(Verschiedene Ratschläge):** S. 515–532  \nn) **Register (alphabeticum) aller Hierinen Enthaltenen Sachen:** S. 533–549  \no) **Wanzen, Item Schwaben und Keffer Zu Vertreiben:** S. 550  \np) **Salpeter Zu Figieren:** S. 550\n\nDieser letzte Ratschlag scheint nicht vollendet zu sein. Am Ende unseres Buches dürften ungefähr 20 Seiten fehlen, weil das Sachregister durch eingeschobene Nachträge erweitert wurde und auf behandelte Gegenstände bis S. 553 verweist.\n\nWeder Verfasser noch Schreiber dieses Büchleins sind bekannt. Dass es ungefähr um 1750 entstand, zeigt nicht nur die Schrift, sondern auch folgende Notiz S. 346:\n\n**Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.**\n\nWahrscheinlich hat der Verfasser oder Schreiber – vielleicht exzerpierte der Schreiber selbst die Ratschläge aus verschiedenen gedruckten Büchern – dieses Ereignis, das der Bauernregel widersprach, in den Codex eingetragen. Er hätte davon kaum wissen können, wenn es nicht erst wenige Jahre vor der Niederschrift geschehen wäre.",
+    "germanHtml": "<p>Kleines Oktavformat; 550 Seiten; Einband fehlt; geschrieben um 1750.</p>\n<p>a) <strong>Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen:</strong> S. 1–15 b) <strong>(Verschiedene Vorbedeutungen):</strong> S. 15–62 c) <strong>Salz aus Krautern etc. Zu praeparieren und Ziehen:</strong> S. 62–64 d) <strong>Vor Raupen oder Würm im Kohl und Kraut:</strong> S. 64 e) <strong>Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten:</strong> S. 65–258 f) <strong>Salpeter oder Salniter Zu krügen unterschiedliche weis:</strong> S. 258–287 g) <strong>(Verschiedene Ratschläge):</strong> S. 287–309 h) <strong>Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?):</strong> S. 309–327 i) <strong>Was Monathlich bey den bäumen Zu Thuen:</strong> S. 328–333 j) <strong>Von Einigen Obst-bäumen insonderheit:</strong> S. 337–364 k) <strong>(Von der Obsternte):</strong> S. 364–379 l) <strong>Obst und Baum-gartten:</strong> S. 380–515 m) <strong>(Verschiedene Ratschläge):</strong> S. 515–532 n) <strong>Register (alphabeticum) aller Hierinen Enthaltenen Sachen:</strong> S. 533–549 o) <strong>Wanzen, Item Schwaben und Keffer Zu Vertreiben:</strong> S. 550 p) <strong>Salpeter Zu Figieren:</strong> S. 550</p>\n<p>Dieser letzte Ratschlag scheint nicht vollendet zu sein. Am Ende unseres Buches dürften ungefähr 20 Seiten fehlen, weil das Sachregister durch eingeschobene Nachträge erweitert wurde und auf behandelte Gegenstände bis S. 553 verweist.</p>\n<p>Weder Verfasser noch Schreiber dieses Büchleins sind bekannt. Dass es ungefähr um 1750 entstand, zeigt nicht nur die Schrift, sondern auch folgende Notiz S. 346:</p>\n<p><strong>Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.</strong></p>\n<p>Wahrscheinlich hat der Verfasser oder Schreiber – vielleicht exzerpierte der Schreiber selbst die Ratschläge aus verschiedenen gedruckten Büchern – dieses Ereignis, das der Bauernregel widersprach, in den Codex eingetragen. Er hätte davon kaum wissen können, wenn es nicht erst wenige Jahre vor der Niederschrift geschehen wäre.</p>",
+    "latin": "8° min.; 550 pagg.; tegumentum deest; script. ca. 1750\n\na) Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen: p. 1–15  \nb) (Verschiedene Vorbedeutungen): p. 15–62  \nc) Salz aus Krautern etc. Zu praeparieren und Ziehen: p. 62–64  \nd) Vor Raupen oder Würm im Kohl und Kraut: p. 64  \ne) Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten: p. 65–258  \nf) Salpeter oder Salniter Zu krügen unterschiedliche weis: p. 258–287  \ng) (Verschiedene Ratschläge): p. 287–309  \nh) Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?): p. 309–327  \ni) Was Monathlich bey den bäumen Zu Thuen: p. 328–333  \nj) Von Einigen Obst-bäumen insonderheit: p. 337–364  \nk) (Von der Obsternte): p. 364–379  \nl) Obst und Baum-gartten: p. 380–515  \nm) (Verschiedene Ratschläge): p. 515–532  \nn) Register (alphabeticum) aller Hierinen Enthaltenen Sachen: p. 533–549  \no) Wanzen, Item Schwaben und Keffer Zu Vertreiben: p. 550  \np) Salpeter Zu Figieren: p. 550 (Videtur hoc consilium non esse finitum, sed in fine libri nostri circa 20 paginas deesse putandum est, quia index rerum additamentis interpositis auctus est, quae usque ad paginam 553 res dissertatas esse indicant.)\n\nNeque auctor neque scriptor huius codicilli notus est; at ortum esse eum fere anno 1750 non solum scriptura manifestat, sed etiam sequens Notabene p. 346: **Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.** Probabiliter ipse auctor aut scriptor noster – fortasse ipse scriptor noster consilia huius libelli e variis libris prelo editis excerpsit – hanc rem contra ruricolarum regulam gestam libro nostro inseruit. Quam scire vix potuit, nisi non multis annis antequam haec scribit gesta est.",
+    "latinHtml": "<p>8° min.; 550 pagg.; tegumentum deest; script. ca. 1750</p>\n<p>a) Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen: p. 1–15 b) (Verschiedene Vorbedeutungen): p. 15–62 c) Salz aus Krautern etc. Zu praeparieren und Ziehen: p. 62–64 d) Vor Raupen oder Würm im Kohl und Kraut: p. 64 e) Nüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten: p. 65–258 f) Salpeter oder Salniter Zu krügen unterschiedliche weis: p. 258–287 g) (Verschiedene Ratschläge): p. 287–309 h) Unterschiedliche Baum-schäden, und wie diß zuverhüeten (?): p. 309–327 i) Was Monathlich bey den bäumen Zu Thuen: p. 328–333 j) Von Einigen Obst-bäumen insonderheit: p. 337–364 k) (Von der Obsternte): p. 364–379 l) Obst und Baum-gartten: p. 380–515 m) (Verschiedene Ratschläge): p. 515–532 n) Register (alphabeticum) aller Hierinen Enthaltenen Sachen: p. 533–549 o) Wanzen, Item Schwaben und Keffer Zu Vertreiben: p. 550 p) Salpeter Zu Figieren: p. 550 (Videtur hoc consilium non esse finitum, sed in fine libri nostri circa 20 paginas deesse putandum est, quia index rerum additamentis interpositis auctus est, quae usque ad paginam 553 res dissertatas esse indicant.)</p>\n<p>Neque auctor neque scriptor huius codicilli notus est; at ortum esse eum fere anno 1750 non solum scriptura manifestat, sed etiam sequens Notabene p. 346: <strong>Die beuern, und weihhauer glauben, wie die Kirschen Blüehen und ansezen also Thue auch wein und Rockhen, und wen dise übl gerathen, seye es ein Vorbott daß wenig wein und Korn Zu hoffen sey. NB: anno 1748. hat sich in Korn iust das widerspill gezeuget. indem überaus Vill Kirschen worden, und Zimmlich gering daß Korn.</strong> Probabiliter ipse auctor aut scriptor noster – fortasse ipse scriptor noster consilia huius libelli e variis libris prelo editis excerpsit – hanc rem contra ruricolarum regulam gestam libro nostro inseruit. Quam scire vix potuit, nisi non multis annis antequam haec scribit gesta est.</p>"
+  },
+  "source": {
+    "file": "MN III 41.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-41/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 41",
+    "titles": "Was ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen \nWas ein Fürsichtiger Mayr Von der witterung jedes Monaths durchs ganze Jahr in acht Zu nemmen \nVerschiedene Vorbedeutungen \nSalz aus Krautern etc. Zu praeparieren und Ziehen \nVor Raupen oder Würm im Kohl und Kraut \nNüzlicher unterricht und kurrze Vormerckhung was in einer Mayerschafft und Feld=aekher-bau Zubeobachten \nSalpeter oder Salniter Zu krügen unterschiedliche weis \nVerschiedene Ratschläge \nUnterschiedliche Baum-schäden, und wie diß zuverhüeten (?) \nWas Monathlich bey den bäumen Zu Thuen \nVon Einigen Obst-bäumen insonderheit \nVon der Obsternte \nObst und Baum-gartten \nVerschiedene Ratschläge \nRegister aller Hierinen Enthaltenen Sachen \nWanzen, Item Schwaben und Keffer Zu Vertreiben \nSalpeter Zu Figieren",
+    "persons": "unbekannt author or compiler author_or_compiler \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Die Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Inhaltsbezeichnung steht im lateinischen Katalogtext in runden Klammern. \nDie Angabe „alphabeticum“ steht im lateinischen Katalogtext in runden Klammern und ist editorisch ergänzt. \nUnvollständig; am Ende fehlen vermutlich etwa 20 Seiten.",
+    "physical": "Papier \n8° min. \nKleines Oktavformat \ndescription: Einband fehlt."
+  }
+}

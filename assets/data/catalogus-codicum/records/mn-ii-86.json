@@ -1,0 +1,207 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-86",
+  "signature": "MN II 86",
+  "aliases": [
+    "Bibl. Cod. MN II 86",
+    "Commentarii in Physicam et De Coelis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "55",
+  "heading": {
+    "title": "Commentarius Primus In Octo Libros Physicorum",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1663/64"
+  },
+  "date": {
+    "display": "1663/64",
+    "intervals": [
+      {
+        "from": 1663,
+        "to": 1664,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius Primus In Octo Libros Physicorum",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 5–622",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius Secundus in IV. Libros De Coelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 627–804",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Commentarius tertius In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "status",
+          "text": "nicht erhalten; weder in diesem noch in einem anderen Codex gefunden"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "812 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 79.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1663/64",
+        "intervals": [
+          {
+            "from": 1663,
+            "to": 1664,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "812 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 79; geschrieben 1663/64.\n\na) **(Erster Kommentar zu den acht Büchern der Physik):** S. 5–622. Das Titelblatt ist leer. Anfang der Vorrede S. 5: **Nachdem die Widerstände, wie man sie nennt, der Logik überwunden sind.....** Schluss S. 622: **Wir beendeten die acht Bücher der Physik am 9. Januar 1664.**\n\nb) **(Zweiter Kommentar zu den vier Büchern Über den Himmel):** S. 627–804. Anfang: **Wenn wir von der allgemeinen Betrachtung des Naturkörpers....** Schluss: **Wir beendeten diese Bücher Über den Himmel am 16. Februar 1664.**\n\n**Dritter Kommentar zu den zwei Büchern Über Werden und Vergehen bzw. Über Entstehung und Vergehen.** Dieser Kommentar findet sich jedoch weder in diesem Codex noch in einem anderen.\n\nVerfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch den vorhergehenden und wahrscheinlich den folgenden Codex geschrieben hat.",
+    "germanHtml": "<p>812 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 79; geschrieben 1663/64.</p>\n<p>a) <strong>(Erster Kommentar zu den acht Büchern der Physik):</strong> S. 5–622. Das Titelblatt ist leer. Anfang der Vorrede S. 5: <strong>Nachdem die Widerstände, wie man sie nennt, der Logik überwunden sind.....</strong> Schluss S. 622: <strong>Wir beendeten die acht Bücher der Physik am 9. Januar 1664.</strong></p>\n<p>b) <strong>(Zweiter Kommentar zu den vier Büchern Über den Himmel):</strong> S. 627–804. Anfang: <strong>Wenn wir von der allgemeinen Betrachtung des Naturkörpers....</strong> Schluss: <strong>Wir beendeten diese Bücher Über den Himmel am 16. Februar 1664.</strong></p>\n<p><strong>Dritter Kommentar zu den zwei Büchern Über Werden und Vergehen bzw. Über Entstehung und Vergehen.</strong> Dieser Kommentar findet sich jedoch weder in diesem Codex noch in einem anderen.</p>\n<p>Verfasser und Schreiber sind unbekannt, obwohl derselbe Schreiber auch den vorhergehenden und wahrscheinlich den folgenden Codex geschrieben hat.</p>",
+    "latin": "812 pagg.; teg. a2 (ut in codice MN II 79); script. 1663/64\n\na) (Commentarius Primus In Octo Libros Physicorum): p. 5–622. Folium titulare vacuum. Initium (Prooemii) p. 5: Post sententias, ut vocatu Logicae, superata..... Clausula p. 622: Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.\n\n\n\n\nb) (Commentarius Secundus in IV. Libros De Coelis): p. 627–804. Initium: Si ab Universali Corporis naturalis consideratione.... Conclusio: Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664. Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. (Qui tamen commentarius neque in hoc codice neque in alio invenitur.)\n\nAuctor et scriptor ignoti, quanquam idem scriptor etiam praecedentem et probabiliter sequentem codicem exaravit.",
+    "latinHtml": "<p>812 pagg.; teg. a2 (ut in codice MN II 79); script. 1663/64</p>\n<p>a) (Commentarius Primus In Octo Libros Physicorum): p. 5–622. Folium titulare vacuum. Initium (Prooemii) p. 5: Post sententias, ut vocatu Logicae, superata..... Clausula p. 622: Absolvimus nos octo Libros Physicorum. 9. Januarii. Anno 1664.</p>\n<p>b) (Commentarius Secundus in IV. Libros De Coelis): p. 627–804. Initium: Si ab Universali Corporis naturalis consideratione.... Conclusio: Absolvimus hos libros de Coelis die 16. Februarii. Anno 1664. Commentarius tertius. In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione. (Qui tamen commentarius neque in hoc codice neque in alio invenitur.)</p>\n<p>Auctor et scriptor ignoti, quanquam idem scriptor etiam praecedentem et probabiliter sequentem codicem exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 86.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-86/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 85]]",
+      "targetId": "mn-ii-85",
+      "targetSignature": "MN II 85",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 87]]",
+      "targetId": "mn-ii-87",
+      "targetSignature": "MN II 87",
+      "appliesTo": [],
+      "certainty": "probable",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 86",
+    "titles": "Commentarius Primus In Octo Libros Physicorum \nCommentarius Primus In Octo Libros Physicorum \nCommentarius Secundus in IV. Libros De Coelis \nCommentarius tertius In duos Libros de Ortu et Interitu, sive de Generatione et Corruptione",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "nicht erhalten; weder in diesem noch in einem anderen Codex gefunden",
+    "physical": "Papier \n812 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie MN II 79."
+  }
+}

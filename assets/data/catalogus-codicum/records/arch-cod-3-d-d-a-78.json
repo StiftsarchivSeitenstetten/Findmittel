@@ -1,0 +1,140 @@
+{
+  "schemaVersion": 1,
+  "id": "arch-cod-3-d-d-a-78",
+  "signature": "Arch. Cod. 3 D D (A 78)",
+  "aliases": [
+    "Arch. Cod. 3 D D (A 78)"
+  ],
+  "repository": "Stiftsarchiv Seitenstetten",
+  "catalogPage": "259",
+  "heading": {
+    "title": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1774–1781"
+  },
+  "date": {
+    "display": "ca. 1774–1781",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–193",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit Serie der Oberen auf dem Sonntagberg bis 1781."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Anselmus Wisgrill",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "conjectural"
+    },
+    {
+      "name": "P. Anselmus Wisgrill",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "conjectural",
+      "note": "Zuschreibung des Katalogbearbeiters aufgrund des Schriftvergleichs mit Wisgrills Tagebuch."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "193 pagg.",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1774–1781",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 193 Seiten; grauer Pappeinband; geschrieben ungefähr 1774–1781.\n\n**Kurze Geschichte unseres Klosters und bemerkenswerter Ereignisse 1107–1774**, mit einer Reihe der Oberen auf dem Sonntagberg bis 1781.\n\nDer Katalogbearbeiter hält **P. Anselmus Wisgrill**, Bibliothekar und später Beichtvater auf dem Sonntagberg, für Verfasser und Schreiber dieses Büchleins. Die Schrift ist jener seines im Stiftsarchiv Seitenstetten unter der Signatur **3 B I j** verwahrten Tagebuches sehr ähnlich, insbesondere auf S. 15 und 40.",
+    "germanHtml": "<p>Oktavformat; 193 Seiten; grauer Pappeinband; geschrieben ungefähr 1774–1781.</p>\n<p><strong>Kurze Geschichte unseres Klosters und bemerkenswerter Ereignisse 1107–1774</strong>, mit einer Reihe der Oberen auf dem Sonntagberg bis 1781.</p>\n<p>Der Katalogbearbeiter hält <strong>P. Anselmus Wisgrill</strong>, Bibliothekar und später Beichtvater auf dem Sonntagberg, für Verfasser und Schreiber dieses Büchleins. Die Schrift ist jener seines im Stiftsarchiv Seitenstetten unter der Signatur <strong>3 B I j</strong> verwahrten Tagebuches sehr ähnlich, insbesondere auf S. 15 und 40.</p>",
+    "latin": "8°; 193 pagg.; teg. c1; scriptus ca. 1774–1781\n\n**Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774** (cum Serie Superiorum in Sacro Monte usque ad annum 1781)\n\nAuctorem scriptoremque huius codicilli esse **P. Anselmum Wisgrill**, Bibliothecarium et postea confessarium in Sacro Monte, qui dicitur Sonntagberg, existimo. Scriptura enim codicis nostri consimilis est Diario, quod in archivo monasterii Seitenstettensis asservatur sub signo **3 B I j** ab illo monacho Seitenstettensi Anselmo Wisgrill esse conscriptum vix negabis, si comparaveris p. 15 (ad annum 1775) et 40 eiusdem diarii.",
+    "latinHtml": "<p>8°; 193 pagg.; teg. c1; scriptus ca. 1774–1781</p>\n<p><strong>Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774</strong> (cum Serie Superiorum in Sacro Monte usque ad annum 1781)</p>\n<p>Auctorem scriptoremque huius codicilli esse <strong>P. Anselmum Wisgrill</strong>, Bibliothecarium et postea confessarium in Sacro Monte, qui dicitur Sonntagberg, existimo. Scriptura enim codicis nostri consimilis est Diario, quod in archivo monasterii Seitenstettensis asservatur sub signo <strong>3 B I j</strong> ab illo monacho Seitenstettensi Anselmo Wisgrill esse conscriptum vix negabis, si comparaveris p. 15 (ad annum 1775) et 40 eiusdem diarii.</p>"
+  },
+  "source": {
+    "file": "Arch. Cod. 3 D D (A 78).md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/arch-cod-3-d-d-a-78/",
+  "relations": [],
+  "search": {
+    "signature": "Arch. Cod. 3 D D (A 78)",
+    "titles": "Breviarium Historicum Monasterii nostri et rerum singularium 1107–1774 \nBreviarium Historicum Monasterii nostri et rerum singularium 1107–1774",
+    "persons": "P. Anselmus Wisgrill Autor author \nP. Anselmus Wisgrill Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Mit Serie der Oberen auf dem Sonntagberg bis 1781.",
+    "physical": "Papier \n193 pagg. \nOktavformat \ncode: c1; description: Grauer Pappeinband; Erhaltungszustand bzw. Besonderheiten siehe Katalogtext."
+  }
+}

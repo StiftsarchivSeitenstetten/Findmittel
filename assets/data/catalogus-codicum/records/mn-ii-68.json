@@ -1,0 +1,231 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-68",
+  "signature": "MN II 68",
+  "aliases": [
+    "Bibl. Cod. MN II 68",
+    "Commentarius In Tertiam Partem S. Thomae Aquinatis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "44–45",
+  "heading": {
+    "title": "Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1654/55"
+  },
+  "date": {
+    "display": "1654/55",
+    "intervals": [
+      {
+        "from": 1654,
+        "to": 1655,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De Sacramento Poenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 2v–322r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Sacramento Extremae Unctionis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 325r–357v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De Sacramento Ordinis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 358r–400r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "De Sponsalibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 404r–452v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "De Matrimonio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 453r–560v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 403 + 158 = 564 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1654/55",
+        "intervals": [
+          {
+            "from": 1654,
+            "to": 1655,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "scribe_note",
+      "locus": "fol. 378r",
+      "dates": [
+        1656
+      ],
+      "note": "Berichtet von Subdiakonats- und Diakonatsweihe; möglicher Entstehungs-/Aufenthaltskontext Lambach, aber keine sichere Identifizierung des Schreibers als Lambacher Mönch."
+    },
+    {
+      "type": "old_shelfmark",
+      "location": "Innenseite Vorderdeckel",
+      "text": "Ms. 465"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 403 + 158 = 564 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite die **Unbefleckte Mutter (Apk 12,1)**; geschrieben 1654/55.\n\n**Kommentar zum dritten Teil des hl. Thomas von Aquin. Über die Sakramente der Buße, der Letzten Ölung, der Weihe und der Ehe. 1654.**\n\nAnfang fol. 1r: Vom Sakrament der Eucharistie schreiten wir mit dem hl. Lehrer X zum Sakrament der Buße weiter.....\n\na) **Erste Frage über das Sakrament der Buße:** fol. 2v–322r.  \nSchluss fol. 322r: **Wir beendeten [dies] am 1. Juli 1654.**\n\nb) **Dreizehnte (!) Frage über das Sakrament der Letzten Ölung:** fol. 325r–357v.  \nAnfangsvermerk: **Wir begannen am 4. Juli 1654.** (fol. 325r)\n\nc) **Vierzehnte Frage über das Sakrament der Weihe:** fol. 358r–400r.\n\nd) **Fünfzehnte Frage über die Verlöbnisse:** fol. 1r–49v (=404r–452v).  \nAnfangsvermerk fol. 2 (=405)v: **1654. Am 26. August.**\n\ne) **Sechzehnte Frage über die Ehe:** fol. 50r–157v (=453r–560v).  \nSchluss fol. 157 (=560)v: **Wir beendeten [dies] am 2. April 1655.**\n\nVermerk des Schreibers fol. 378r: **Ich empfing die Weihe zum Subdiakon im Jahr 1656 am Quatembersamstag um das Pfingstfest. Die Diakonenweihe empfing ich bei der Weihe dieser Lambacher Kirche im Jahr 1656, am 24. September.** Was mit der Wendung **„dieser Lambacher Kirche“** gemeint ist, ist ungewiss. Es scheint jedoch, dass dieser Vermerk im Kloster Lambach in Oberösterreich geschrieben wurde; allein aus diesem Vermerk lässt sich meines Erachtens kaum beweisen, dass der Schreiber selbst Lambacher Mönch war. Auch der Verfasser dieser Vorlesungen ist unbekannt.\n\nAuf der Innenseite des Vorderdeckels steht die alte Signatur: **Ms. 465.**",
+    "germanHtml": "<p>III + 403 + 158 = 564 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite <strong>JHS</strong>, auf der Rückseite die <strong>Unbefleckte Mutter (Apk 12,1)</strong>; geschrieben 1654/55.</p>\n<p><strong>Kommentar zum dritten Teil des hl. Thomas von Aquin. Über die Sakramente der Buße, der Letzten Ölung, der Weihe und der Ehe. 1654.</strong></p>\n<p>Anfang fol. 1r: Vom Sakrament der Eucharistie schreiten wir mit dem hl. Lehrer X zum Sakrament der Buße weiter.....</p>\n<p>a) <strong>Erste Frage über das Sakrament der Buße:</strong> fol. 2v–322r. Schluss fol. 322r: <strong>Wir beendeten [dies] am 1. Juli 1654.</strong></p>\n<p>b) <strong>Dreizehnte (!) Frage über das Sakrament der Letzten Ölung:</strong> fol. 325r–357v. Anfangsvermerk: <strong>Wir begannen am 4. Juli 1654.</strong> (fol. 325r)</p>\n<p>c) <strong>Vierzehnte Frage über das Sakrament der Weihe:</strong> fol. 358r–400r.</p>\n<p>d) <strong>Fünfzehnte Frage über die Verlöbnisse:</strong> fol. 1r–49v (=404r–452v). Anfangsvermerk fol. 2 (=405)v: <strong>1654. Am 26. August.</strong></p>\n<p>e) <strong>Sechzehnte Frage über die Ehe:</strong> fol. 50r–157v (=453r–560v). Schluss fol. 157 (=560)v: <strong>Wir beendeten [dies] am 2. April 1655.</strong></p>\n<p>Vermerk des Schreibers fol. 378r: <strong>Ich empfing die Weihe zum Subdiakon im Jahr 1656 am Quatembersamstag um das Pfingstfest. Die Diakonenweihe empfing ich bei der Weihe dieser Lambacher Kirche im Jahr 1656, am 24. September.</strong> Was mit der Wendung <strong>„dieser Lambacher Kirche“</strong> gemeint ist, ist ungewiss. Es scheint jedoch, dass dieser Vermerk im Kloster Lambach in Oberösterreich geschrieben wurde; allein aus diesem Vermerk lässt sich meines Erachtens kaum beweisen, dass der Schreiber selbst Lambacher Mönch war. Auch der Verfasser dieser Vorlesungen ist unbekannt.</p>\n<p>Auf der Innenseite des Vorderdeckels steht die alte Signatur: <strong>Ms. 465.</strong></p>",
+    "latin": "III + 403 + 158 = 564 foll.; teg. a2, in parte adversa JHS, in parte aversa Mater Immaculata (Apoc. XII, 1); scr. 1654/55\n\nCommentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii. MDCLIV.\n\nInitium fol. 1r: A sacramento Eucharistiae cum S. Doctore X progredimur ad sacramentum poenitentiae.....\n\n\n\n\na) Quaestio Prima De Sacramento Poenitentiae: fol. 2v–322r.  \nClausula fol. 322r: Absolvimus primo Julii. 1654.\n\nb) Quaestio XIII. (!) De Sacramento Extremae Unctionis: fol. 325r–357v.  \nNota initialis: Incepimus quarto die Julii 1654. (fol. 325r)\n\nc) Quaestio XIV. De Sacramento Ordinis: fol. 358r–400r.\n\nd) Quaestio XV. De Sponsalibus: fol. 1r–49v (=404r–452v).  \nNota initialis fol. 2 (=405)v: 1654. Die 26 Augusti.\n\ne) Quaestio XVI. De Matrimonio: fol. 50r–157v (=453r–560v).  \nClausula fol. 157 (=560)v: Absolvimus II Die Aprilis Anno MDCLV.\n\nNota scribentis fol. 378r: Sacro subdiaconatus ordine initiatus fui 1656 Sabbato 4 temporum circa festa Pentecostes. Diaconatus ordine initiatus sum in Dedicatione huius Ecclesiae Lambacensis. 1656. Die 24 Septembris. (Quid sibi velit illud \"huius Ecclesiae Lambacensis\" incertum est. Videtur tamen haec nota in monasterio Lambach in Austria Superiore scripta esse; ipsum scriptorem monachum Lambacensem fuisse sola hac nota vix puto probare posse. Item auctor harum lectionum ignotus.)\n\nIn parte adversa tegumenti ab intrinsecus vetus numerus codicis: Ms. 465.",
+    "latinHtml": "<p>III + 403 + 158 = 564 foll.; teg. a2, in parte adversa JHS, in parte aversa Mater Immaculata (Apoc. XII, 1); scr. 1654/55</p>\n<p>Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii. MDCLIV.</p>\n<p>Initium fol. 1r: A sacramento Eucharistiae cum S. Doctore X progredimur ad sacramentum poenitentiae.....</p>\n<p>a) Quaestio Prima De Sacramento Poenitentiae: fol. 2v–322r. Clausula fol. 322r: Absolvimus primo Julii. 1654.</p>\n<p>b) Quaestio XIII. (!) De Sacramento Extremae Unctionis: fol. 325r–357v. Nota initialis: Incepimus quarto die Julii 1654. (fol. 325r)</p>\n<p>c) Quaestio XIV. De Sacramento Ordinis: fol. 358r–400r.</p>\n<p>d) Quaestio XV. De Sponsalibus: fol. 1r–49v (=404r–452v). Nota initialis fol. 2 (=405)v: 1654. Die 26 Augusti.</p>\n<p>e) Quaestio XVI. De Matrimonio: fol. 50r–157v (=453r–560v). Clausula fol. 157 (=560)v: Absolvimus II Die Aprilis Anno MDCLV.</p>\n<p>Nota scribentis fol. 378r: Sacro subdiaconatus ordine initiatus fui 1656 Sabbato 4 temporum circa festa Pentecostes. Diaconatus ordine initiatus sum in Dedicatione huius Ecclesiae Lambacensis. 1656. Die 24 Septembris. (Quid sibi velit illud \"huius Ecclesiae Lambacensis\" incertum est. Videtur tamen haec nota in monasterio Lambach in Austria Superiore scripta esse; ipsum scriptorem monachum Lambacensem fuisse sola hac nota vix puto probare posse. Item auctor harum lectionum ignotus.)</p>\n<p>In parte adversa tegumenti ab intrinsecus vetus numerus codicis: Ms. 465.</p>"
+  },
+  "source": {
+    "file": "MN II 68.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-68/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 68",
+    "titles": "Commentarius In Tertiam Partem S. Thomae Aquinatis. De Sacramentis Poenitentiae, Extremae Unctionis, Ordinis, Atque Matrimonii \nDe Sacramento Poenitentiae \nDe Sacramento Extremae Unctionis \nDe Sacramento Ordinis \nDe Sponsalibus \nDe Matrimonio",
+    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIII + 403 + 158 = 564 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1."
+  }
+}

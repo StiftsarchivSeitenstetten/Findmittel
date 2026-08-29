@@ -1,0 +1,233 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-23",
+  "signature": "MN I 23",
+  "aliases": [
+    "Bibl. Cod. MN I 23",
+    "Systema Theologiae Dogmaticae a Dr. Beyr I"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "283–284",
+  "heading": {
+    "title": "Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "1873 oder wenig früher"
+  },
+  "date": {
+    "display": "1873 oder wenig früher",
+    "intervals": [
+      {
+        "from": 1873,
+        "to": 1873,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": "ante_or_circa"
+  },
+  "contentsOverview": {
+    "title": "Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "",
+    "language": "la",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "number: 1; designation: Salus a Patre seu Fides",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "part",
+          "text": "number: 1; designation: Salus a Patre seu Fides"
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Mathias Beyr",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Mathias Beyr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Kolumban Habert",
+      "roleRaw": "donor to Stiftsbibliothek Seitenstetten",
+      "roleLabel": "donor to Stiftsbibliothek Seitenstetten",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Theresia Jenne geb. Beyr",
+      "roleRaw": "previous owner",
+      "roleLabel": "previous owner",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Mathias Beyr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "Mathias Beyr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "446 Blätter",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Schwarzer Ledereinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1873 oder wenig früher",
+        "intervals": [
+          {
+            "from": 1873,
+            "to": 1873,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": "ante_or_circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "type": "transfer_to_repository",
+        "date": {
+          "display": "5. September 1908",
+          "when": "1908-09-05"
+        },
+        "agent": {
+          "name": "P. Kolumban Habert"
+        },
+        "repository": "Stiftsbibliothek Seitenstetten",
+        "evidence": "Eingelegter Zettel am Beginn des Codex."
+      },
+      {
+        "type": "previous_ownership",
+        "owner": {
+          "name": "Theresia Jenne geb. Beyr"
+        },
+        "place": "Steyr",
+        "note": "Taufpatin P. Kolumban Haberts und nahe Verwandte des Verfassers; von ihr erhielt Habert das Manuskript einige Jahre vor 1908."
+      }
+    ],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_note",
+      "location": "Beginn des Codex",
+      "language": "de",
+      "text": [
+        "Am 5. September 1908 der Stiftsbibliothek übergeben. P. Kolumban Habert.",
+        "Ich erhielt das Manuskript schon vor einigen Jahren von meiner Taufpatin Frau Theresia Jenne geb. Beyr, Oberlehrerswitwe, gegenwärtig in Steyr, einer nahen Verwandten des Verfassers."
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Der Katalog unterscheidet zwischen der im Manuskripttitel angekündigten Druckausgabe Klagenfurt 1873 und einer offenbar tatsächlich 1875 bei Moser in Graz erschienenen Ausgabe."
+  ],
+  "references": {
+    "publicationHistory": {
+      "title_page_claim": {
+        "place": "Klagenfurt",
+        "date": 1873,
+        "publisher_or_commission": "Rudolph Bertschinger und Heyn"
+      },
+      "cataloguer_correction": {
+        "place": "Graz",
+        "date": 1875,
+        "publisher": "Moser",
+        "note": "Nach dem Katalogbearbeiter erschien das Werk offenbar nicht 1873 in Klagenfurt, sondern 1875 in Graz bei Moser."
+      }
+    },
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 446 Blätter; schwarzer Ledereinband; geschrieben 1873 oder wenig früher.\n\n**Die Dreifaltigkeit in der Einheit Gottes, das Heil der durch unseren Herrn Jesus Christus erlösten Welt. System der gesamten Dogmatischen Theologie, zusammengestellt und herausgegeben von Mathias Beyr, Doktor der hochheiligen Theologie, Weltpriester der Diözese St. Pölten, emeritierter Professor der Dogmatischen Theologie am bischöflichen Seminar derselben Diözese, derzeit Pfarrer in Kapelln. Erster Teil. Das Heil vom Vater oder der Glaube. Klagenfurt 1873. Gedruckt und in Kommission bei Rudolph Bertschinger und Heyn.**\n\nDas Werk scheint jedoch nicht 1873 in Klagenfurt erschienen zu sein, sondern kam 1875 in Graz bei Moser heraus.\n\nAm Beginn unseres Codex ist ein Zettel eingelegt, der Folgendes besagt:\n\n**Am 5. September 1908 der Stiftsbibliothek übergeben.  \nP. Kolumban Habert.**\n\n**Ich erhielt das Manuskript schon vor einigen Jahren von meiner Taufpatin Frau Theresia Jenne geb. Beyr, Oberlehrerswitwe, gegenwärtig in Steyr, einer nahen Verwandten des Verfassers.**\n\nDen zweiten Teil dieses Werkes siehe unten im folgenden Codex!",
+    "germanHtml": "<p>Großquartformat; 446 Blätter; schwarzer Ledereinband; geschrieben 1873 oder wenig früher.</p>\n<p><strong>Die Dreifaltigkeit in der Einheit Gottes, das Heil der durch unseren Herrn Jesus Christus erlösten Welt. System der gesamten Dogmatischen Theologie, zusammengestellt und herausgegeben von Mathias Beyr, Doktor der hochheiligen Theologie, Weltpriester der Diözese St. Pölten, emeritierter Professor der Dogmatischen Theologie am bischöflichen Seminar derselben Diözese, derzeit Pfarrer in Kapelln. Erster Teil. Das Heil vom Vater oder der Glaube. Klagenfurt 1873. Gedruckt und in Kommission bei Rudolph Bertschinger und Heyn.</strong></p>\n<p>Das Werk scheint jedoch nicht 1873 in Klagenfurt erschienen zu sein, sondern kam 1875 in Graz bei Moser heraus.</p>\n<p>Am Beginn unseres Codex ist ein Zettel eingelegt, der Folgendes besagt:</p>\n<p><strong>Am 5. September 1908 der Stiftsbibliothek übergeben. P. Kolumban Habert.</strong></p>\n<p><strong>Ich erhielt das Manuskript schon vor einigen Jahren von meiner Taufpatin Frau Theresia Jenne geb. Beyr, Oberlehrerswitwe, gegenwärtig in Steyr, einer nahen Verwandten des Verfassers.</strong></p>\n<p>Den zweiten Teil dieses Werkes siehe unten im folgenden Codex!</p>",
+    "latin": "4° mai.; 446 foll.; teg. b2; script. 1873 vel paulo ante\n\n**Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae, concinnatum et editum a Mathia Beyr sacrosanctae Theologiae Doctore, Dioecesis San-Hippolytanae presbytero saeculari, et Theologiae Dogmaticae in Seminario episcopali ejusdem Dioecesis professore emerito, modo parocho Kapelln'ensi. Pars I. Salus a Patre seu Fides. Klagenfurt 1873. Impressum et in commissione apud Rudolphum Bertschinger et Heyn.**\n\nVidetur autem hoc opus non 1873 Klagenfurti evenisse, sed anno 1875 Graecii apud Moser in lucem evenit.\n\nIn initio codicis nostri inserta est schedula, quae haec enuntiat:\n\n**Am 5. September 1908 der Stiftsbibliothek übergeben.  \nP. Kolumban Habert.**\n\n**Ich erhielt das Manuskript schon vor einigen Jahren von meiner Taufpatin Frau Theresia Jenne geb. Beyr, Oberlehrerswitwe, gegenwärtig in Steyr, einer nahen Verwandten des Verfassers.**\n\nSecundam huius operis partem vide infra in codice proximo!",
+    "latinHtml": "<p>4° mai.; 446 foll.; teg. b2; script. 1873 vel paulo ante</p>\n<p><strong>Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae, concinnatum et editum a Mathia Beyr sacrosanctae Theologiae Doctore, Dioecesis San-Hippolytanae presbytero saeculari, et Theologiae Dogmaticae in Seminario episcopali ejusdem Dioecesis professore emerito, modo parocho Kapelln'ensi. Pars I. Salus a Patre seu Fides. Klagenfurt 1873. Impressum et in commissione apud Rudolphum Bertschinger et Heyn.</strong></p>\n<p>Videtur autem hoc opus non 1873 Klagenfurti evenisse, sed anno 1875 Graecii apud Moser in lucem evenit.</p>\n<p>In initio codicis nostri inserta est schedula, quae haec enuntiat:</p>\n<p><strong>Am 5. September 1908 der Stiftsbibliothek übergeben. P. Kolumban Habert.</strong></p>\n<p><strong>Ich erhielt das Manuskript schon vor einigen Jahren von meiner Taufpatin Frau Theresia Jenne geb. Beyr, Oberlehrerswitwe, gegenwärtig in Steyr, einer nahen Verwandten des Verfassers.</strong></p>\n<p>Secundam huius operis partem vide infra in codice proximo!</p>"
+  },
+  "source": {
+    "file": "MN I 23.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-23/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "[[MN I 24]]",
+      "targetId": "mn-i-24",
+      "targetSignature": "MN I 24",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN I 23",
+    "titles": "Trinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides. \nTrinitas in Unitate Dei salus mundi per Dominum nostrum Jesum Christum redemti. Systema totius Theologiae Dogmaticae... Pars I. Salus a Patre seu Fides.",
+    "persons": "Mathias Beyr Autor author \nP. Kolumban Habert donor to Stiftsbibliothek Seitenstetten donor to Stiftsbibliothek Seitenstetten \nTheresia Jenne geb. Beyr previous owner previous owner \nMathias Beyr Autor author \nMathias Beyr Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "number: 1; designation: Salus a Patre seu Fides \nla \nnumber: 1; designation: Salus a Patre seu Fides \nDer Katalog unterscheidet zwischen der im Manuskripttitel angekündigten Druckausgabe Klagenfurt 1873 und einer offenbar tatsächlich 1875 bei Moser in Graz erschienenen Ausgabe.",
+    "physical": "Papier \n446 Blätter \nGroßquart \ndescription: Schwarzer Ledereinband."
+  }
+}

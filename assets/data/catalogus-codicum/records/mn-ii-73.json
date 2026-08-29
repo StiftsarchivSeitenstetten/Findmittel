@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-73",
+  "signature": "MN II 73",
+  "aliases": [
+    "Bibl. Cod. MN II 73",
+    "Summulae et Commentarius Logicalis"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "48a",
+  "heading": {
+    "title": "Summulae seu brevis introductio in Logicam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1658/59"
+  },
+  "date": {
+    "display": "1658/59",
+    "intervals": [
+      {
+        "from": 1658,
+        "to": 1659,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Summulae seu brevis introductio in Logicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–58",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 67–398",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Am Ende zahlreiche Blätter herausgeschnitten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "398 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1658/59",
+        "intervals": [
+          {
+            "from": 1658,
+            "to": 1659,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "398 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1658/59.\n\na) **Summulae oder kurze Einführung in die Logik:** S. 7–58. Anfang S. 7: Wie derjenige, der die Kunst des Lesens richtig beherrschen möchte....  \nSchluss S. 58: **Wir beendeten die Summulae am 23. November 1658.**\n\nb) **Logischer Kommentar zur gesamten peripatetischen Philosophie des Aristoteles:** S. 67–398; am Ende sind sehr viele Blätter herausgeschnitten. Anfang der Vorrede S. 67: Im Begriff, die klippenreiche Meerenge der Logik zu betreten....\n\nTeil b enthält auch der folgende Codex MN II 74. Verfasser und Schreiber unseres Codex sind unbekannt.",
+    "germanHtml": "<p>398 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1658/59.</p>\n<p>a) <strong>Summulae oder kurze Einführung in die Logik:</strong> S. 7–58. Anfang S. 7: Wie derjenige, der die Kunst des Lesens richtig beherrschen möchte.... Schluss S. 58: <strong>Wir beendeten die Summulae am 23. November 1658.</strong></p>\n<p>b) <strong>Logischer Kommentar zur gesamten peripatetischen Philosophie des Aristoteles:</strong> S. 67–398; am Ende sind sehr viele Blätter herausgeschnitten. Anfang der Vorrede S. 67: Im Begriff, die klippenreiche Meerenge der Logik zu betreten....</p>\n<p>Teil b enthält auch der folgende Codex MN II 74. Verfasser und Schreiber unseres Codex sind unbekannt.</p>",
+    "latin": "398 pagg.; teg. a1; script. 1658/59\n\na) Summulae seu brevis introductio in Logicam: p. 7–58. Initium p. 7: Quemadmodum qui legendi artem rectè scire desiderat.  \nClausula p. 58: Absolvimus Summulas 23 Novembris Anno 1658.\n\nb) Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis: p. 67–398; in fine permulta folia excisa. Initium Prooemii p. 67: Ingressuri scopulosum Logicae fretum....\n\nPartem b continet etiam proximus codex MN II 74. Auctor et scriptor codicis nostri ignoti.",
+    "latinHtml": "<p>398 pagg.; teg. a1; script. 1658/59</p>\n<p>a) Summulae seu brevis introductio in Logicam: p. 7–58. Initium p. 7: Quemadmodum qui legendi artem rectè scire desiderat. Clausula p. 58: Absolvimus Summulas 23 Novembris Anno 1658.</p>\n<p>b) Universae Philosophiae Peripateticae Aristotelis commentarius Logicalis: p. 67–398; in fine permulta folia excisa. Initium Prooemii p. 67: Ingressuri scopulosum Logicae fretum....</p>\n<p>Partem b continet etiam proximus codex MN II 74. Auctor et scriptor codicis nostri ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 73.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-73/",
+  "relations": [
+    {
+      "typeRaw": "partial_same_work_as",
+      "typeLabel": "partial same work as",
+      "targetRaw": "[[MN II 74]]",
+      "targetId": "mn-ii-74",
+      "targetSignature": "MN II 74",
+      "appliesTo": [
+        "Teil b"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 73",
+    "titles": "Summulae seu brevis introductio in Logicam \nSummulae seu brevis introductio in Logicam \nUniversae Philosophiae Peripateticae Aristotelis commentarius Logicalis",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Am Ende zahlreiche Blätter herausgeschnitten.",
+    "physical": "Papier \n398 Seiten \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

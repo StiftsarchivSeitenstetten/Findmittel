@@ -1,0 +1,225 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-46",
+  "signature": "MN III 46",
+  "aliases": [
+    "Bibl. Cod. MN III 46"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "244–245",
+  "heading": {
+    "title": "Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764)",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "1764"
+  },
+  "date": {
+    "display": "1764",
+    "intervals": [
+      {
+        "from": 1764,
+        "to": 1764,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764)",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 1–78",
+      "language": "",
+      "incipit": {
+        "text": "Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!....."
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nur die arabische Auflösung „1764“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Libellus Professionis sive Explicatio Formulae Professionis Benedictinae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 80–178",
+      "language": "",
+      "incipit": {
+        "text": "Si turpe est Patritio,....."
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Quinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 178–179",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Duodecim gradus humilitatis Sex versibus contenti",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 179",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Quaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 179–193",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Placidus Schnuegg",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1764",
+        "intervals": [
+          {
+            "from": 1764,
+            "to": 1764,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 193 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1764.\n\na) **Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764):** S. 1–78.\n\nAnfang des ersten Teils S. 2: **Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!.....**\n\nb) **Libellus Professionis sive Explicatio Formulae Professionis Benedictinae:** S. 80–178.\n\nAnfang der kleinen Vorrede zur Erklärung der benediktinischen Professformel S. 82: **Si turpe est Patritio,.....**\n\nc) **Fünf Vorrechte, die unserem heiligen Vater Benedikt vom Himmel verliehen wurden:** S. 178–179.\n\nd) **Die zwölf Stufen der Demut in sechs Versen zusammengefasst:** S. 179.\n\ne) **Einige ausgewählte Fragen, die ein Ordensnovize wissen muss und die für die Praxis notwendig sind:** S. 179–193. Der Verfasser ist unbekannt.\n\nDer Schreiber fügte S. 84–85 seine eigene Professformel ein. Sie beginnt: **Ego F: Placidus Schnuegg Bojus Marzollensis Dioecesis Salisburgensis.** Dadurch erfahren wir seine Herkunft.\n\nDas Entstehungsjahr zeigt das Ende dieser Professformel: **....in praesentia Reverendissimi in Christo Patris, ac Domini Domini Mauri Gordon, huius monasterii Garstensis sub congregatione Austriaca Abbatis..... in huius rei testimonium praesentem schedam manu mea propria scripsi in praedicto hoc venerabili monasterio Garstensi anno Domini 1764 die 23 Septembris.**\n\nWahrscheinlich schrieb Fr. Placidus Schnuegg dieses Büchlein während seines Noviziats kurz vor der Profess, also 1764.",
+    "germanHtml": "<p>Oktavformat; 193 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1764.</p>\n<p>a) <strong>Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764):</strong> S. 1–78.</p>\n<p>Anfang des ersten Teils S. 2: <strong>Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!.....</strong></p>\n<p>b) <strong>Libellus Professionis sive Explicatio Formulae Professionis Benedictinae:</strong> S. 80–178.</p>\n<p>Anfang der kleinen Vorrede zur Erklärung der benediktinischen Professformel S. 82: <strong>Si turpe est Patritio,.....</strong></p>\n<p>c) <strong>Fünf Vorrechte, die unserem heiligen Vater Benedikt vom Himmel verliehen wurden:</strong> S. 178–179.</p>\n<p>d) <strong>Die zwölf Stufen der Demut in sechs Versen zusammengefasst:</strong> S. 179.</p>\n<p>e) <strong>Einige ausgewählte Fragen, die ein Ordensnovize wissen muss und die für die Praxis notwendig sind:</strong> S. 179–193. Der Verfasser ist unbekannt.</p>\n<p>Der Schreiber fügte S. 84–85 seine eigene Professformel ein. Sie beginnt: <strong>Ego F: Placidus Schnuegg Bojus Marzollensis Dioecesis Salisburgensis.</strong> Dadurch erfahren wir seine Herkunft.</p>\n<p>Das Entstehungsjahr zeigt das Ende dieser Professformel: <strong>....in praesentia Reverendissimi in Christo Patris, ac Domini Domini Mauri Gordon, huius monasterii Garstensis sub congregatione Austriaca Abbatis..... in huius rei testimonium praesentem schedam manu mea propria scripsi in praedicto hoc venerabili monasterio Garstensi anno Domini 1764 die 23 Septembris.</strong></p>\n<p>Wahrscheinlich schrieb Fr. Placidus Schnuegg dieses Büchlein während seines Noviziats kurz vor der Profess, also 1764.</p>",
+    "latin": "8°; 193 pagg.; teg. a1; script. 1764\n\na) **Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764):** p. 1–78  \nInitium Partis Primae p. 2: **Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!.....**\n\nb) **Libellus Professionis sive Explicatio Formulae Professionis Benedictinae:** p. 80–178.  \nInitium Praefatiunculae in Explicationem formulae Professionis Benedictinae p. 82: **Si turpe est Patritio,.....**\n\nc) Quinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae: p. 178–179\n\nd) Duodecim gradus humilitatis Sex versibus contenti: p. 179\n\ne) Quaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae: p. 179–193. Auctor ignotus. Scriptor sui ipsius formulam Professionis p. 84–85 inseruit. Quae ita incipit: **Ego F: Placidus Schnuegg Bojus Marzollensis Dioecesis Salisburgensis**\n\n\n\n\nHoc modo comperimus patriam scriptoris nostri; quo anno scriptus sit codicillus noster, finis huius formulae professionis indicat: **....in praesentia Reverendissimi in Christo Patris, ac Domini Domini Mauri Gordon, huius monasterii Garstensis sub congregatione Austriaca Abbatis..... in huius rei testimonium praesentem schedam manu mea propria scripsi in praedicto hoc venerabili monasterio Garstensi anno Domini 1764 die 23 Septembris.**\n\nProbabiliter F. Placidus Schnuegg tempore novitiatus paulo ante professionem emittendam codicillum nostrum scripsit, videlicet 1764.",
+    "latinHtml": "<p>8°; 193 pagg.; teg. a1; script. 1764</p>\n<p>a) <strong>Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764):</strong> p. 1–78 Initium Partis Primae p. 2: <strong>Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!.....</strong></p>\n<p>b) <strong>Libellus Professionis sive Explicatio Formulae Professionis Benedictinae:</strong> p. 80–178. Initium Praefatiunculae in Explicationem formulae Professionis Benedictinae p. 82: <strong>Si turpe est Patritio,.....</strong></p>\n<p>c) Quinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae: p. 178–179</p>\n<p>d) Duodecim gradus humilitatis Sex versibus contenti: p. 179</p>\n<p>e) Quaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae: p. 179–193. Auctor ignotus. Scriptor sui ipsius formulam Professionis p. 84–85 inseruit. Quae ita incipit: <strong>Ego F: Placidus Schnuegg Bojus Marzollensis Dioecesis Salisburgensis</strong></p>\n<p>Hoc modo comperimus patriam scriptoris nostri; quo anno scriptus sit codicillus noster, finis huius formulae professionis indicat: <strong>....in praesentia Reverendissimi in Christo Patris, ac Domini Domini Mauri Gordon, huius monasterii Garstensis sub congregatione Austriaca Abbatis..... in huius rei testimonium praesentem schedam manu mea propria scripsi in praedicto hoc venerabili monasterio Garstensi anno Domini 1764 die 23 Septembris.</strong></p>\n<p>Probabiliter F. Placidus Schnuegg tempore novitiatus paulo ante professionem emittendam codicillum nostrum scripsit, videlicet 1764.</p>"
+  },
+  "source": {
+    "file": "MN III 46.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-46/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 46",
+    "titles": "Principia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764) \nPrincipia Vitae Asceticae Sacrae Novitiis Gerstensibus Accomodata à F. Placido Schnuegg Descripta MDCCLXIV (1764) \nLibellus Professionis sive Explicatio Formulae Professionis Benedictinae \nQuinque Praerogativae Coelitus S: P: Nostro Benedicto Collatae \nDuodecim gradus humilitatis Sex versibus contenti \nQuaestiones quaedam Selectae, quae Religioso tyroni scitu et pro praxi Sunt necessariae",
+    "persons": "Fr. Placidus Schnuegg Schreiber scribe \nunbekannt Autor author",
+    "incipits": "Diarium Seu Speculum Monachorum. Propositum animi tui novelle religionis tyro!..... \nSi turpe est Patritio,.....",
+    "explicits": "",
+    "notes": "Nur die arabische Auflösung „1764“ steht im Katalogtext in runden Klammern und ist editorisch ergänzt.",
+    "physical": "Papier \n8° \nOktavformat \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

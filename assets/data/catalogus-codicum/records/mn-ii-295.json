@@ -1,0 +1,208 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-295",
+  "signature": "MN II 295",
+  "aliases": [
+    "Bibl. Cod. MN II 295"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "241",
+  "heading": {
+    "title": "Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1760"
+  },
+  "date": {
+    "display": "ca. 1760",
+    "intervals": [
+      {
+        "from": 1760,
+        "to": 1760,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–95",
+      "language": "",
+      "incipit": {
+        "text": "Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I. De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Arnoldi Corvini a Beldern Jus Canonicum Pars II.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–348 (= S. 96–443)",
+      "language": "",
+      "incipit": {
+        "text": "Ad Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Im Katalogtext steht der Verfassername hier als „P. Placidi Fixelmillner (!)“."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index Titulorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 350–354 (= S. 445–449)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog ergänzt in runden Klammern „utriusque partis“; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Placidus Fixlmillner",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Stift Kremsmünster / Ritterakademie Kremsmünster",
+      "certainty": "probable"
+    },
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "95 + 355 = 450 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1760",
+        "intervals": [
+          {
+            "from": 1760,
+            "to": 1760,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": "circa"
+      },
+      "place": "Kremsmünster",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "95 + 355 = 450 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1760.\n\na) **Kommentar des hochwürdigen und gelehrten P. Placidus Fixlmillner, Benediktiner von Kremsmünster, öffentlicher und ordentlicher Professor des Kirchenrechts an der Akademie, Regent der Adeligen und Dekan der höheren Schulen, zum kanonischen Recht des Arnoldus Corvinus a Beldern, Teil I:** S. 1–95.\n\nAnfang S. 3: **Abriss der kanonischen Vorkenntnisse oder erstes Supplement zu den Institutionen des kanonischen Rechts von Arnoldus Corvinus a Beldern. Kapitel I. Über die Kirche Christi. § 1. Die Kirche ist entweder innerlich oder äußerlich:......**\n\nb) **Kommentar des P. Placidus Fixelmillner (!) ... zum kanonischen Recht des Arnoldus Corvinus a Beldern, Teil II:** S. 1–348 (= S. 96–443).\n\nAnfang S. 3 (=98): Zu Buch II, Titel XXVIII **Über Pfründen und Würden. § 1.** Einst wurde niemand zum Kleriker befördert,......\n\nc) **Titelregister beider Teile:** S. 350–354 (=445–449).\n\nWer unseren Codex vielleicht geschrieben hat und ungefähr wann er entstand, siehe beim vorhergehenden MN II 294: beide Codices wurden von derselben Hand und ungefähr gleichzeitig geschrieben.\n\nRückenaufschrift: **Kommentar des P. Placidus Fixlmillner zu Corvins kanonischem Recht, Teil II.**",
+    "germanHtml": "<p>95 + 355 = 450 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1760.</p>\n<p>a) <strong>Kommentar des hochwürdigen und gelehrten P. Placidus Fixlmillner, Benediktiner von Kremsmünster, öffentlicher und ordentlicher Professor des Kirchenrechts an der Akademie, Regent der Adeligen und Dekan der höheren Schulen, zum kanonischen Recht des Arnoldus Corvinus a Beldern, Teil I:</strong> S. 1–95.</p>\n<p>Anfang S. 3: <strong>Abriss der kanonischen Vorkenntnisse oder erstes Supplement zu den Institutionen des kanonischen Rechts von Arnoldus Corvinus a Beldern. Kapitel I. Über die Kirche Christi. § 1. Die Kirche ist entweder innerlich oder äußerlich:......</strong></p>\n<p>b) <strong>Kommentar des P. Placidus Fixelmillner (!) ... zum kanonischen Recht des Arnoldus Corvinus a Beldern, Teil II:</strong> S. 1–348 (= S. 96–443).</p>\n<p>Anfang S. 3 (=98): Zu Buch II, Titel XXVIII <strong>Über Pfründen und Würden. § 1.</strong> Einst wurde niemand zum Kleriker befördert,......</p>\n<p>c) <strong>Titelregister beider Teile:</strong> S. 350–354 (=445–449).</p>\n<p>Wer unseren Codex vielleicht geschrieben hat und ungefähr wann er entstand, siehe beim vorhergehenden MN II 294: beide Codices wurden von derselben Hand und ungefähr gleichzeitig geschrieben.</p>\n<p>Rückenaufschrift: <strong>Kommentar des P. Placidus Fixlmillner zu Corvins kanonischem Recht, Teil II.</strong></p>",
+    "latin": "95 + 355 = 450 pagg.; teg. c3d; script. ca. 1760\n\na) Plurimum Reverendi, Religiosissimi, ac Clarissimi Viri, Domini **P. Placidi Fixlmillner**, Benedictini Cremifanensis, Juris ecclesiastici in Academia professoris publici, et ordinarii, Nobilium Regentis, altiorum Scholarum Decani Spectabilis etc: etc: **Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I:** p. 1–95\n\n**Initium p. 3:** Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I. De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa:......\n\nb) Plurimum.......(ut supra!)... **P. Placidi Fixelmillner** (!), Benedictini Cremifanensis, Juris ecclesiastici professoris publici, Academiae Nobilium Regentis, altiorum scholarum Decani spectabilis, etc. etc. **Commentarius In Arnoldi Corvini a Beldern Jus Canonicum Pars II.:** p. 1–348 (= 96–443)\n\n**Initium p. 3 (=98):** Ad Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur,......\n\nc) Index Titulorum (utriusque partis): p. 350–354 (=445–449)\n\nA quo forsitan codex noster scriptus et quo fere tempore ortus sit, vide in pagina praecedente ad codicem MN II 294, cum uterque codex ab eodem scriptus eodemque fere tempore ortus sit.\n\nInscriptio dorsi: **Reverendi P. Placidi Fixlmillner Comentarius in Corvini Ius Canonicum Pars. II.**",
+    "latinHtml": "<p>95 + 355 = 450 pagg.; teg. c3d; script. ca. 1760</p>\n<p>a) Plurimum Reverendi, Religiosissimi, ac Clarissimi Viri, Domini <strong>P. Placidi Fixlmillner</strong>, Benedictini Cremifanensis, Juris ecclesiastici in Academia professoris publici, et ordinarii, Nobilium Regentis, altiorum Scholarum Decani Spectabilis etc: etc: <strong>Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I:</strong> p. 1–95</p>\n<p><strong>Initium p. 3:</strong> Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I. De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa:......</p>\n<p>b) Plurimum.......(ut supra!)... <strong>P. Placidi Fixelmillner</strong> (!), Benedictini Cremifanensis, Juris ecclesiastici professoris publici, Academiae Nobilium Regentis, altiorum scholarum Decani spectabilis, etc. etc. <strong>Commentarius In Arnoldi Corvini a Beldern Jus Canonicum Pars II.:</strong> p. 1–348 (= 96–443)</p>\n<p><strong>Initium p. 3 (=98):</strong> Ad Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur,......</p>\n<p>c) Index Titulorum (utriusque partis): p. 350–354 (=445–449)</p>\n<p>A quo forsitan codex noster scriptus et quo fere tempore ortus sit, vide in pagina praecedente ad codicem MN II 294, cum uterque codex ab eodem scriptus eodemque fere tempore ortus sit.</p>\n<p>Inscriptio dorsi: <strong>Reverendi P. Placidi Fixlmillner Comentarius in Corvini Ius Canonicum Pars. II.</strong></p>"
+  },
+  "source": {
+    "file": "MN II 295.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-295/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN II 294]]",
+      "targetId": "mn-ii-294",
+      "targetSignature": "MN II 294",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 295",
+    "titles": "Commentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I \nCommentarius In Arnoldi Corvini a Beldern Jus Canonicum, Pars I \nCommentarius In Arnoldi Corvini a Beldern Jus Canonicum Pars II. \nIndex Titulorum",
+    "persons": "P. Placidus Fixlmillner Autor author \nP. Bertholdus Stolz Schreiber scribe",
+    "incipits": "Epitome Praenotionum canonicarum, Seu Supplementum primo institutionum Juris Canonici Arnoldi Corvini a Beldern Surrogata, Caput I. De Ecclesia Christi. §1. Ecclesia est vel interna, vel externa \nAd Libri II. titulum XXVIII. De praebendis, et dignitatibus. § 1. Olim nullus in clericum promovebatur",
+    "explicits": "",
+    "notes": "Im Katalogtext steht der Verfassername hier als „P. Placidi Fixelmillner (!)“. \nDer Katalog ergänzt in runden Klammern „utriusque partis“; diese editorische Inhaltsangabe wurde nicht als überlieferter Titel behandelt.",
+    "physical": "Papier \n95 + 355 = 450 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

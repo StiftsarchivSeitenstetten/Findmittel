@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-230",
+  "signature": "MN II 230",
+  "aliases": [
+    "Bibl. Cod. MN II 230"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "179",
+  "heading": {
+    "title": "Tractatus de Angelis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1707/08"
+  },
+  "date": {
+    "display": "1707/08",
+    "intervals": [
+      {
+        "from": 1707,
+        "to": 1708,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Angelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–273",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1708-04-30"
+        },
+        {
+          "type": "date",
+          "display": "1707/08"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Beatitudine Hominis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 277–465",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1708-08-04"
+        },
+        {
+          "type": "date",
+          "display": "1708"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Carolus Gschwantner",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "468 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1707/08",
+        "intervals": [
+          {
+            "from": 1707,
+            "to": 1708,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Im Incipit von Teil b korrigiert der Katalogbearbeiter ausdrücklich „Sub titulo huius cortice“ zu „Sub tituli huius cortice“; die überlieferte Form wurde nicht stillschweigend normalisiert."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "468 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1707/08.\n\na) **Abhandlung über die Engel**, vorgetragen von P. Caelestin Pley, Benediktiner und Profess von Seitenstetten, Doktor und ordentlicher Professor der Theologie, geistlicher Rat des Salzburger Fürsterzbischofs und Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Profess desselben Klosters, 1707.\n\nAnfang S. 7: An den Hörer der Theologie. Im vergangenen Jahr betrachtete der Theologe Gott in sich selbst..... Schluss S. 273: **Wir beendeten [dies] am 30. April 1708.**\n\nb) **Abhandlung über die Glückseligkeit des Menschen**, vorgetragen von demselben P. Caelestin Pley und aufgezeichnet von Fr. Carolus Gschwantner, 1708: S. 277–465.\n\nAnfang der Vorrede S. 279: Unter der Hülle dieses Titels verbirgt sich alles Gute. Der Katalog weist auf einen Schreibfehler hin: *Sub titulo huius cortice* ist zu *Sub tituli huius cortice* zu verbessern.\n\nSchluss S. 465: **Wir beendeten diese Abhandlung am 4. August 1708 nach dem Mittagessen.**\n\nBis S. 450 finden sich dieselben Vorlesungen bereits in den Teilen c und d von MN II 226.",
+    "germanHtml": "<p>468 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1707/08.</p>\n<p>a) <strong>Abhandlung über die Engel</strong>, vorgetragen von P. Caelestin Pley, Benediktiner und Profess von Seitenstetten, Doktor und ordentlicher Professor der Theologie, geistlicher Rat des Salzburger Fürsterzbischofs und Vize-Rektor der Universität Salzburg; aufgezeichnet von Fr. Carolus Gschwantner, Profess desselben Klosters, 1707.</p>\n<p>Anfang S. 7: An den Hörer der Theologie. Im vergangenen Jahr betrachtete der Theologe Gott in sich selbst..... Schluss S. 273: <strong>Wir beendeten [dies] am 30. April 1708.</strong></p>\n<p>b) <strong>Abhandlung über die Glückseligkeit des Menschen</strong>, vorgetragen von demselben P. Caelestin Pley und aufgezeichnet von Fr. Carolus Gschwantner, 1708: S. 277–465.</p>\n<p>Anfang der Vorrede S. 279: Unter der Hülle dieses Titels verbirgt sich alles Gute. Der Katalog weist auf einen Schreibfehler hin: <em>Sub titulo huius cortice</em> ist zu <em>Sub tituli huius cortice</em> zu verbessern.</p>\n<p>Schluss S. 465: <strong>Wir beendeten diese Abhandlung am 4. August 1708 nach dem Mittagessen.</strong></p>\n<p>Bis S. 450 finden sich dieselben Vorlesungen bereits in den Teilen c und d von MN II 226.</p>",
+    "latin": "468 pagg.; teg. a1; script. 1707/08\n\na) Tractatus de Angelis. Traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. P. Nostri Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico et pro tempore in alma et Archi-Episcopali Salisburgensi Universitate Vice Rectore. Conscriptus â F. Carolo Gschwantner eiusdem ordinis et Monasterii 1707.\n\nInitium p. 7: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in seipso, ......\n\nClausula p. 273: Absolvimus die 30 Aprilis 1708.\n\nb) Tractatus de Beatitudine Hominis. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Benedicti in Celeberrimo Monasterio Seittenstettensi Professo Sacrosanctae Theologiae. Doctore, eiusdemque Professore ordinario Celsissimi Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico, nec non Almae Universitatis Salisburgensis Vice-Rector Conscriptus â F. Carolo Gschwandtner (!) eiusdem Ordinis et loci Professo 1. 7. 0. 8. (p. 277)\n\nInitium Anteloquii Tractatus de Beatitudine Hominis p. 279: Sub titulo huius cortice latet omne bonum (Mendum scriptoris corrige: Sub tituli...!)\n\nClausula p. 465: absolvimus hunc tractatum die 4 Augusti 1708 post prandium.\n\nUsque ad paginam 450 codicis nostri iam invenimus easdem lectiones supra p. 176 in partibus c et d codicis MN II 226.",
+    "latinHtml": "<p>468 pagg.; teg. a1; script. 1707/08</p>\n<p>a) Tractatus de Angelis. Traditus â Plurimum Reverendo Religioso ac Clarissimo Domino P. Caelestino Pley, Ordinis S. P. Nostri Benedicti in Celeberrimo Divae Virginis Monasterio Seittenstettensi Professo Sacrosanctae Theologiae Doctore, eiusdemque Professore ordinario nec non Celsissimi Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico et pro tempore in alma et Archi-Episcopali Salisburgensi Universitate Vice Rectore. Conscriptus â F. Carolo Gschwantner eiusdem ordinis et Monasterii 1707.</p>\n<p>Initium p. 7: Auditori Theologo. Consideravit anno praecedenti Theologus Deum in seipso, ......</p>\n<p>Clausula p. 273: Absolvimus die 30 Aprilis 1708.</p>\n<p>b) Tractatus de Beatitudine Hominis. Traditus â Plurimum Reverendo, Religiosissimo, ac Clarissimo Domino P. Caelestino Pley Ordinis S. P. Benedicti in Celeberrimo Monasterio Seittenstettensi Professo Sacrosanctae Theologiae. Doctore, eiusdemque Professore ordinario Celsissimi Principis et Archi-Episcopi Salisburgensis Consiliario Ecclesiastico, nec non Almae Universitatis Salisburgensis Vice-Rector Conscriptus â F. Carolo Gschwandtner (!) eiusdem Ordinis et loci Professo 1. 7. 0. 8. (p. 277)</p>\n<p>Initium Anteloquii Tractatus de Beatitudine Hominis p. 279: Sub titulo huius cortice latet omne bonum (Mendum scriptoris corrige: Sub tituli...!)</p>\n<p>Clausula p. 465: absolvimus hunc tractatum die 4 Augusti 1708 post prandium.</p>\n<p>Usque ad paginam 450 codicis nostri iam invenimus easdem lectiones supra p. 176 in partibus c et d codicis MN II 226.</p>"
+  },
+  "source": {
+    "file": "MN II 230.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-230/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 226]]",
+      "targetId": "mn-ii-226",
+      "targetSignature": "MN II 226",
+      "appliesTo": [
+        "up to p. 450"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 230",
+    "titles": "Tractatus de Angelis \nTractatus de Angelis \nTractatus de Beatitudine Hominis",
+    "persons": "P. Caelestin Pley Dozent lecturer \nFr. Carolus Gschwantner Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Im Incipit von Teil b korrigiert der Katalogbearbeiter ausdrücklich „Sub titulo huius cortice“ zu „Sub tituli huius cortice“; die überlieferte Form wurde nicht stillschweigend normalisiert.",
+    "physical": "Papier \n468 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

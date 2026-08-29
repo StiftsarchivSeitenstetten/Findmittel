@@ -1,0 +1,68 @@
+---
+aliases:
+- Bibl. Cod. MN II 138
+tags:
+- handschrift
+signature: MN II 138
+catalog_page: '94'
+ms_identifier:
+  repository: Stiftsbibliothek Seitenstetten
+  idno: MN II 138
+ms_contents:
+  summary: Katalogbeschreibung von Bibl. Cod. MN II 138.
+  items:
+  - label: a
+    title: Tractatus in primam secundae Divi Thomae de gratia
+    locus: p. 5 - 556.
+  - label: b
+    title: Tractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate
+    locus: p. 557 - 610 (
+  - label: c
+    title: Sacra Scriptura Historia compendiosa Sacrosanctae Scripturae
+    locus: p. 637 - 1007.
+phys_desc:
+  object_form: codex
+  support: Papier
+  extent: 1010 pagg.
+  binding:
+    description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.
+    catalog_code: a2
+history:
+  origin:
+    date:
+      display: ca. 1680
+---
+
+Katalog Seite 94
+
+# Deutsche Übersetzung
+
+1010 Seiten; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben um 1680.
+
+a) **Abhandlung zur Prima Secundae des hl. Thomas über die Gnade:** S. 5–556. Anfang der Vorrede S. 5: Wenn nämlich das, was Gesundheit zum Sehen der Sonne ist (?).....
+
+b) **Abhandlung zur Secunda Secundae des hl. Thomas über die theologischen Tugenden Glaube, Hoffnung und Liebe:** S. 557–610; die Abhandlung ist unvollständig. Anfang des ersten Artikels über den Glauben S. 557: Dass es drei theologische Tugenden gibt, nämlich Glaube, Hoffnung und Liebe, steht fest.....
+
+c) **Heilige Schrift. Kurze Geschichte der Heiligen Schrift:** S. 637–1007. Anfang der Vorrede S. 637: Was die Schriftsteller mit vollen Backen zum Lob der Geschichte, besonders der Universalgeschichte, zusammentragen.....
+
+Weder Verfasser noch Schreiber noch das genaue Entstehungsjahr sind bekannt. Auf Vorder- und Rückseite des Einbandes ist jedoch das Wappen des Klosters Seitenstetten eingeprägt; an seiner Spitze stehen die Initialen **S C S** = *Sigillum conventus Seittenstettensis*. Dieses Stempelwappen wurde unter den Äbten Ambrosius Marholt (1679–1687), Benedictus Abelzhauser (1687–1717) und Ambrosius Prevenhueber (1717–1729) verwendet.
+
+Die Schrift spricht dafür, dass der Codex kaum nach 1700 geschrieben wurde. Wahrscheinlich schrieb ihn derselbe Schreiber wie MN II 137 von 1681. Daher dürfte unser Codex um 1680 entstanden sein.
+
+# Lateinischer Originaltext
+
+1010 pagg.; teg. a2; script. ca. 1680
+
+a) Tractatus in primam secundae Divi Thomae de gratia: p. 5 - 556.
+
+Initium Prooemii p. 5: Siquidem quod est sanitas (?) ad videndum solem.....
+
+b) Tractatus In secundam secundae Divi Thomae. De Virtutibus Theologicis fide, spe, et Charitate: p. 557 - 610 (tractatus mancus!).
+
+Initium Articuli primi De Fide p. 557: Tres esse virtutes Theologicas, fidem nimirum spem, et Charitatem certum est.....
+
+c) Sacra Scriptura Historia compendiosa Sacrosanctae Scripturae: p. 637 - 1007.
+
+Initium Praefationis p. 637: Quae in laudem historiae praesertim universalis (?) plenis buccis congerunt scriptores.....
+
+Neque auctor notus neque scriptor neque quo anno scriptus sit codex noster. Tegumento autem tam a parte adversa quam ab aversa impressum est insigne monasterii Seitenstettensis, in cuius apice tres litterae initiales leguntur, scilicet S C S = Sigillum conventus Seittenstettensis. Quo insigni libris impresso usum est monasterium Seitenstettense abbatibus Ambrosio Marholt (1679 - 1687) et Benedicto Abelzhauser (1687 - 1717) et Ambrosio Prevenhueber (1717 - 1729). Sed e scriptura coniiciendum est vix post annum 1700 scriptum esse codicem nostrum. Immo e charactere scribendi apparet probabiliter eundem, qui codicem nostrum, etiam codicem proximum MN II 137 (anno 1681 scriptum) exarasse. Videtur igitur liber noster circa annum 1680 ortus esse.

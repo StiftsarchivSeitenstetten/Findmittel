@@ -1,0 +1,181 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-149",
+  "signature": "MN II 149",
+  "aliases": [
+    "Bibl. Cod. MN II 149"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "109",
+  "heading": {
+    "title": "Tractatus In Tertiam Divi Thomae partem De Incarnatione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1687/88"
+  },
+  "date": {
+    "display": "1687/88",
+    "intervals": [
+      {
+        "from": 1687,
+        "to": 1688,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus In Tertiam Divi Thomae partem De Incarnatione",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Tertiam Divi Thomae partem De Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–259v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1687-11-07"
+        },
+        {
+          "type": "end_date",
+          "display": "1688-08-28"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Index super Tractatum de Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 261r–268r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Peter, Salzburg / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Marcus Starnisi",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VIII + 272 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1687/88",
+        "intervals": [
+          {
+            "from": 1687,
+            "to": 1688,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "bookbinder_instruction",
+      "locus": "fol. VIIr",
+      "text": "F. Marcus Seittenstettensis schweinleder in grien schnidt blawe Claustur",
+      "certainty": "uncertain",
+      "note": "Das letzte Wort ist unsicher gelesen; im Katalog als möglicherweise „Schließen“ gedeutet."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VIII + 272 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687/88.\n\n**Abhandlung zum dritten Teil des hl. Thomas über die Menschwerdung**, vorgetragen an der Universität Salzburg von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 7. November 1687 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten.\n\nAnfang der Abhandlung fol. 1r: Mit Gottes Gunst beginnen wir den dritten Teil des hl. Thomas.... Randnotiz: **Erste Vorlesung am 7. November 1687.**\n\nSchluss fol. 259v: **Insgesamt 150 Vorlesungen. Ende am 28. August 1688.** Es folgt fol. 261r–268r ein Register zur Abhandlung über die Menschwerdung.\n\nAnweisung für den Buchbinder fol. VIIr: **F. Marcus Seittenstettensis schweinleder in grien schnidt blawe Claustur (? = Schließen?)**",
+    "germanHtml": "<p>VIII + 272 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1687/88.</p>\n<p><strong>Abhandlung zum dritten Teil des hl. Thomas über die Menschwerdung</strong>, vorgetragen an der Universität Salzburg von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet und am 7. November 1687 begonnen von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten.</p>\n<p>Anfang der Abhandlung fol. 1r: Mit Gottes Gunst beginnen wir den dritten Teil des hl. Thomas.... Randnotiz: <strong>Erste Vorlesung am 7. November 1687.</strong></p>\n<p>Schluss fol. 259v: <strong>Insgesamt 150 Vorlesungen. Ende am 28. August 1688.</strong> Es folgt fol. 261r–268r ein Register zur Abhandlung über die Menschwerdung.</p>\n<p>Anweisung für den Buchbinder fol. VIIr: <strong>F. Marcus Seittenstettensis schweinleder in grien schnidt blawe Claustur (? = Schließen?)</strong></p>",
+    "latin": "VIII + 272 foll.; teg. a2; script. 1687/88\n\nTractatus In Tertiam Divi Thomae partem De Incarnatione Traditus In Alma et Archiepiscopali Universitate Salisburgensi A ....Patre Paulo Mezger, Ordinis S. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario, Calamô exceptus et inceptus 7. Novembris A Religioso F. Marco Starnisi Benedictino Seittenstettensi Professo eiusdem indigno Discipulo 1687.\n\nInitium Tractatus De Incarnatione fol. 1r: Tertiam Divi Thomae partem favente Deo auspicamur.... Nota in margine inferiore: Lectio 1. die 7. Novembris 1687.\n\nClausula fol. 259v: In universim (!) 150 Lectiones. Die 28. Augusti 1688. Finis. (Sequitur fol. 261r–268r Index super Tractatum de Incarnatione)\n\nNota pro bibliopego fol. VIIr: F. Marcus Seittenstettensis schweinleder in grien schnidt blawe Claustur (? = Schließen?)",
+    "latinHtml": "<p>VIII + 272 foll.; teg. a2; script. 1687/88</p>\n<p>Tractatus In Tertiam Divi Thomae partem De Incarnatione Traditus In Alma et Archiepiscopali Universitate Salisburgensi A ....Patre Paulo Mezger, Ordinis S. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore, et Professore Ordinario, Calamô exceptus et inceptus 7. Novembris A Religioso F. Marco Starnisi Benedictino Seittenstettensi Professo eiusdem indigno Discipulo 1687.</p>\n<p>Initium Tractatus De Incarnatione fol. 1r: Tertiam Divi Thomae partem favente Deo auspicamur.... Nota in margine inferiore: Lectio 1. die 7. Novembris 1687.</p>\n<p>Clausula fol. 259v: In universim (!) 150 Lectiones. Die 28. Augusti 1688. Finis. (Sequitur fol. 261r–268r Index super Tractatum de Incarnatione)</p>\n<p>Nota pro bibliopego fol. VIIr: F. Marcus Seittenstettensis schweinleder in grien schnidt blawe Claustur (? = Schließen?)</p>"
+  },
+  "source": {
+    "file": "MN II 149.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-149/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 149",
+    "titles": "Tractatus In Tertiam Divi Thomae partem De Incarnatione \nTractatus In Tertiam Divi Thomae partem De Incarnatione \nIndex super Tractatum de Incarnatione",
+    "persons": "P. Paulus Mezger Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nVIII + 272 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

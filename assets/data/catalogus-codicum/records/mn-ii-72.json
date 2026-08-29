@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-72",
+  "signature": "MN II 72",
+  "aliases": [
+    "Bibl. Cod. MN II 72",
+    "De Generatione, Meteoris, Anima, Metaphysica"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "46–47",
+  "heading": {
+    "title": "Tractatus Tertius In Duos Libros De Generatione Et corruptione",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1655"
+  },
+  "date": {
+    "display": "1655",
+    "intervals": [
+      {
+        "from": 1655,
+        "to": 1655,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius In Duos Libros De Generatione Et corruptione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–195",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus IV In Quatuor Libros Aristotelis De Meteoris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 207–244",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus V. In Tres Libros De Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 251–388",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 393–504",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Anselm Schlager",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "506 Seiten",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Pergamenteinband des 14. oder 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1655",
+        "intervals": [
+          {
+            "from": 1655,
+            "to": 1655,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "506 Seiten; Pergamenteinband aus dem 14. oder 15. Jahrhundert, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1655.\n\na) **Dritte Abhandlung zu den zwei Büchern Über Werden und Vergehen:** S. 1–195. Anfang der Vorrede S. 1: Die richtige Methode der Wissenschaften....\n\nb) **Vierte Abhandlung zu den vier Büchern des Aristoteles Über die Meteorologie:** S. 207–244 (=1–38); Anfang S. 207: Nach Darlegung der allgemeinen Lehre....  \nSchluss S. 244 (=38): **Wir beendeten [dies] am 22. Mai 1655.**\n\nc) **Fünfte Abhandlung zu den drei Büchern Über die Seele:** S. 251–388 (=1–140). Anfang S. 251: Die vorliegende Behandlung der Seele ist....  \nSchluss S. 388 (=140): **am 17. August 1655.**\n\nd) **Sechste und letzte Abhandlung zu den zwölf Büchern der Metaphysik des Aristoteles:** Anfang der Vorrede S. 393: Die Physik ist nicht die höchste der Wissenschaften.... Schluss S. 504 (=109): **Wir beendeten [dies] am 17. September 1655.**\n\nWenn man diesen Codex mit dem vorhergehenden vergleicht, erkennt man leicht, dass er dieselben Abhandlungen enthält wie jener; daher ist es wahrscheinlich, dass P. Anselm Schlager, Andechser Mönch, sie vorgetragen hat.",
+    "germanHtml": "<p>506 Seiten; Pergamenteinband aus dem 14. oder 15. Jahrhundert, kunstvoll mit geistlicher Musik beschrieben; geschrieben 1655.</p>\n<p>a) <strong>Dritte Abhandlung zu den zwei Büchern Über Werden und Vergehen:</strong> S. 1–195. Anfang der Vorrede S. 1: Die richtige Methode der Wissenschaften....</p>\n<p>b) <strong>Vierte Abhandlung zu den vier Büchern des Aristoteles Über die Meteorologie:</strong> S. 207–244 (=1–38); Anfang S. 207: Nach Darlegung der allgemeinen Lehre.... Schluss S. 244 (=38): <strong>Wir beendeten [dies] am 22. Mai 1655.</strong></p>\n<p>c) <strong>Fünfte Abhandlung zu den drei Büchern Über die Seele:</strong> S. 251–388 (=1–140). Anfang S. 251: Die vorliegende Behandlung der Seele ist.... Schluss S. 388 (=140): <strong>am 17. August 1655.</strong></p>\n<p>d) <strong>Sechste und letzte Abhandlung zu den zwölf Büchern der Metaphysik des Aristoteles:</strong> Anfang der Vorrede S. 393: Die Physik ist nicht die höchste der Wissenschaften.... Schluss S. 504 (=109): <strong>Wir beendeten [dies] am 17. September 1655.</strong></p>\n<p>Wenn man diesen Codex mit dem vorhergehenden vergleicht, erkennt man leicht, dass er dieselben Abhandlungen enthält wie jener; daher ist es wahrscheinlich, dass P. Anselm Schlager, Andechser Mönch, sie vorgetragen hat.</p>",
+    "latin": "506 pagg.; teg. membranaceum saec. XIV. aut XV. modis musicis ornate inscriptum; script. 1655\n\na) Tractatus Tertius In Duos Libros De Generatione Et corruptione: pag. 1–195. Initium Proloquii p. 1: Recta scientiarum methodus....\n\n\n\n\nb) Tractatus IV In Quatuor Libros Aristotelis De Meteoris: p. 207–244 (=1–38); initium p. 207: Post traditam generalem doctrinam....  \nClausula p. 244 (=38): Absolvimus 22 Maii 1655.\n\nc) Tractatus V. In Tres Libros De Anima: p. 251–388 (=1–140). Initium p. 251: De anima praesens pertractatio est....  \nClausula p. 388 (=140): die 17 Augusti Anno 1655.\n\nd) In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus: Initium Prooemii p. 393: Non suprema scientiarum physica est.... Clausula p. 504 (=109): Absolvimus 17. Septembris. 1655.\n\nQuem si comparaveris codicem cum praecedente, facile videbis, eosdem eum continere tractatus, quos ille, ideoque veri simile esse P. Anselmum Schlager Monachum Andecensem eos tradidisse.",
+    "latinHtml": "<p>506 pagg.; teg. membranaceum saec. XIV. aut XV. modis musicis ornate inscriptum; script. 1655</p>\n<p>a) Tractatus Tertius In Duos Libros De Generatione Et corruptione: pag. 1–195. Initium Proloquii p. 1: Recta scientiarum methodus....</p>\n<p>b) Tractatus IV In Quatuor Libros Aristotelis De Meteoris: p. 207–244 (=1–38); initium p. 207: Post traditam generalem doctrinam.... Clausula p. 244 (=38): Absolvimus 22 Maii 1655.</p>\n<p>c) Tractatus V. In Tres Libros De Anima: p. 251–388 (=1–140). Initium p. 251: De anima praesens pertractatio est.... Clausula p. 388 (=140): die 17 Augusti Anno 1655.</p>\n<p>d) In XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus: Initium Prooemii p. 393: Non suprema scientiarum physica est.... Clausula p. 504 (=109): Absolvimus 17. Septembris. 1655.</p>\n<p>Quem si comparaveris codicem cum praecedente, facile videbis, eosdem eum continere tractatus, quos ille, ideoque veri simile esse P. Anselmum Schlager Monachum Andecensem eos tradidisse.</p>"
+  },
+  "source": {
+    "file": "MN II 72.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-72/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 71]]",
+      "targetId": "mn-ii-71",
+      "targetSignature": "MN II 71",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 72",
+    "titles": "Tractatus Tertius In Duos Libros De Generatione Et corruptione \nTractatus Tertius In Duos Libros De Generatione Et corruptione \nTractatus IV In Quatuor Libros Aristotelis De Meteoris \nTractatus V. In Tres Libros De Anima \nIn XII libros Metaphisicos Aristotelis Tractatus Sextus et Ultimus",
+    "persons": "P. Anselm Schlager Dozent lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n506 Seiten \ndescription: Pergamenteinband des 14. oder 15. Jahrhunderts, kunstvoll mit geistlicher Musik beschrieben."
+  }
+}

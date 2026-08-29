@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-98",
+  "signature": "MN II 98",
+  "aliases": [
+    "Bibl. Cod. MN II 98",
+    "Commentarius In Philosophiam Naturalem"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "62",
+  "heading": {
+    "title": "Commentarius In Philosophiam Naturalem",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1667/68"
+  },
+  "date": {
+    "display": "1667/68",
+    "intervals": [
+      {
+        "from": 1667,
+        "to": 1668,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In Philosophiam Naturalem",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–288r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus In tres Libros De Anima",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 288v–365v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus in Quatuor Libros Meteorologicorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 365v–382r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Disputatio XIII In quatuor libros de Caelis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 382r–389v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus In Methaphysicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 389v–400r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Ambrosius Marholt",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "note": "Abt von Seitenstetten 1679–1687; nach dem Katalog auch Schreiber der fünf folgenden Codices."
+    },
+    {
+      "name": "P. Michael Seitz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "affiliation": "Admont / Salzburg"
+    },
+    {
+      "name": "Fr. Ambrosius Marholt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "409 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1667/68",
+        "intervals": [
+          {
+            "from": 1667,
+            "to": 1668,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "409 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **IHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**.\n\na) **Kommentar zur Naturphilosophie, diktiert von ... P. Michael Seitz, Profess des hochberühmten Klosters Admont, damals ordentlicher Professor der Philosophie in Salzburg. Aufgezeichnet von Fr. Ambrosius Marholt, Profess des Ordens des hl. Vaters Benedikt im Kloster Seitenstetten. Im Jahr 1667:** fol. 1–288r.\n\nAnfang der Vorrede zur Physik: **Nachdem wir auf dem peripatetischen Weg glücklich dem Dornengestrüpp der Logik entkommen sind.**\n\nSchlussvermerke: fol. 230v: **...damit sei zu den acht Büchern der Physik genug gesagt. Wir beendeten diese Bücher am 11. Februar 1668.** fol. 288r: **...und dies über die Bewegungen und überhaupt zu den Büchern Über Werden. Wir beendeten diese Bücher am 21. April 1668.**\n\nb) **Abhandlung zu den drei Büchern Über die Seele:** fol. 288v–365v. Anfang: **Nachdem wir die Materien über Himmel und Elemente einstweilen aufgeschoben haben, eilen wir zu den drei Büchern Über die Seele.....**\n\nc) **Abhandlung zu den vier Büchern der Meteorologie:** fol. 365v–382r. Anfang: **Was wir nun zu behandeln beginnen, ist nicht so schwierig....**\n\nd) **Dreizehnte Disputation – vor Teil b aufgeschoben, siehe oben – zu den vier Büchern Über den Himmel:** fol. 382r–389v. Anfang: **Caelum wird von caelando hergeleitet,....**\n\ne) **Abhandlung über die Metaphysik:** fol. 389v–400r. Anfang: **Vorrede. Die Metaphysik, deren Erklärung wir beginnen, ist nichts anderes als....**\n\nFr. **Ambrosius Marholt** schrieb auch die fünf folgenden Codices und stand dem Kloster Seitenstetten von 1679 bis 1687 als Abt vor.",
+    "germanHtml": "<p>409 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite <strong>IHS</strong>, auf der Rückseite die <strong>Unbefleckte Mutter nach Apk 12,1</strong>.</p>\n<p>a) <strong>Kommentar zur Naturphilosophie, diktiert von ... P. Michael Seitz, Profess des hochberühmten Klosters Admont, damals ordentlicher Professor der Philosophie in Salzburg. Aufgezeichnet von Fr. Ambrosius Marholt, Profess des Ordens des hl. Vaters Benedikt im Kloster Seitenstetten. Im Jahr 1667:</strong> fol. 1–288r.</p>\n<p>Anfang der Vorrede zur Physik: <strong>Nachdem wir auf dem peripatetischen Weg glücklich dem Dornengestrüpp der Logik entkommen sind.</strong></p>\n<p>Schlussvermerke: fol. 230v: <strong>...damit sei zu den acht Büchern der Physik genug gesagt. Wir beendeten diese Bücher am 11. Februar 1668.</strong> fol. 288r: <strong>...und dies über die Bewegungen und überhaupt zu den Büchern Über Werden. Wir beendeten diese Bücher am 21. April 1668.</strong></p>\n<p>b) <strong>Abhandlung zu den drei Büchern Über die Seele:</strong> fol. 288v–365v. Anfang: <strong>Nachdem wir die Materien über Himmel und Elemente einstweilen aufgeschoben haben, eilen wir zu den drei Büchern Über die Seele.....</strong></p>\n<p>c) <strong>Abhandlung zu den vier Büchern der Meteorologie:</strong> fol. 365v–382r. Anfang: <strong>Was wir nun zu behandeln beginnen, ist nicht so schwierig....</strong></p>\n<p>d) <strong>Dreizehnte Disputation – vor Teil b aufgeschoben, siehe oben – zu den vier Büchern Über den Himmel:</strong> fol. 382r–389v. Anfang: <strong>Caelum wird von caelando hergeleitet,....</strong></p>\n<p>e) <strong>Abhandlung über die Metaphysik:</strong> fol. 389v–400r. Anfang: <strong>Vorrede. Die Metaphysik, deren Erklärung wir beginnen, ist nichts anderes als....</strong></p>\n<p>Fr. <strong>Ambrosius Marholt</strong> schrieb auch die fünf folgenden Codices und stand dem Kloster Seitenstetten von 1679 bis 1687 als Abt vor.</p>",
+    "latin": "409 foll.; teg. a2 in parte adversa signo IHS, in aversa imagine Matris Immaculatae secundum Apoc. XII 1 decoratum\n\na) Commentarius In Philosophiam Naturalem Dictatus Ab.... **P. Michaele Seitz**, Celeberrimi Monasterii Admontensis Professo pro tempore Salisburgi Philosophiae Professore ordinario. Exceptus ab **F. Ambrosio Marholt** ordinis S: P: Benedicti Monasterii Seittenstettensis Professo. Anno MDC LXVII (1667): fol. 1–288r. _Initium_ Prooemii Physices: Postquam in itinere peripatetico Spineta logicae feliciter egressi.\n\n_Clausulae_: fol. 230v: ...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668. fol. 288r: ...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.\n\nb) Tractatus In tres Libros De Anima: fol. 288v–365v. _Initium_: Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....\n\nc) Tractatus in Quatuor Libros Meteorologicorum: fol. 365v–382r. _Initium_: Quae nunc tractanda aggredimur non tam difficilia sunt....\n\nd) Disputatio XIII (ante partem b dilata; vide supra!) In quatuor libros de Caelis: fol. 382r–389v. _Initium_: Caelum à Caelando,....\n\ne) Tractatus In Methaphysicam: fol. 389v–400r. _Initium_: Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....\n\nFr. Ambrosius Marholt etiam 5 sequentes codices scripsit et ab anno 1679 usque ad annum 1687 monasterio Seitenstettensi praefuit.",
+    "latinHtml": "<p>409 foll.; teg. a2 in parte adversa signo IHS, in aversa imagine Matris Immaculatae secundum Apoc. XII 1 decoratum</p>\n<p>a) Commentarius In Philosophiam Naturalem Dictatus Ab.... <strong>P. Michaele Seitz</strong>, Celeberrimi Monasterii Admontensis Professo pro tempore Salisburgi Philosophiae Professore ordinario. Exceptus ab <strong>F. Ambrosio Marholt</strong> ordinis S: P: Benedicti Monasterii Seittenstettensis Professo. Anno MDC LXVII (1667): fol. 1–288r. _Initium_ Prooemii Physices: Postquam in itinere peripatetico Spineta logicae feliciter egressi.</p>\n<p>_Clausulae_: fol. 230v: ...in octo libros Physicorum sit satis. absolvimus hos libros 11 Februarii 1668. fol. 288r: ...et haec de motibus atque universim in libros de generatione. absolvimus hos libros 21 April 1668.</p>\n<p>b) Tractatus In tres Libros De Anima: fol. 288v–365v. _Initium_: Dilatis tantisper materiis de caelis et elementis ad tres libros de anima festinamus.....</p>\n<p>c) Tractatus in Quatuor Libros Meteorologicorum: fol. 365v–382r. _Initium_: Quae nunc tractanda aggredimur non tam difficilia sunt....</p>\n<p>d) Disputatio XIII (ante partem b dilata; vide supra!) In quatuor libros de Caelis: fol. 382r–389v. _Initium_: Caelum à Caelando,....</p>\n<p>e) Tractatus In Methaphysicam: fol. 389v–400r. _Initium_: Prooemium. Methaphysica quam explicandam aggredimur nihil aliud est....</p>\n<p>Fr. Ambrosius Marholt etiam 5 sequentes codices scripsit et ab anno 1679 usque ad annum 1687 monasterio Seitenstettensi praefuit.</p>"
+  },
+  "source": {
+    "file": "MN II 98.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-98/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 98",
+    "titles": "Commentarius In Philosophiam Naturalem \nCommentarius In Philosophiam Naturalem \nTractatus In tres Libros De Anima \nTractatus in Quatuor Libros Meteorologicorum \nDisputatio XIII In quatuor libros de Caelis \nTractatus In Methaphysicam",
+    "persons": "Ambrosius Marholt unspecified unspecified \nP. Michael Seitz Dozent lecturer \nFr. Ambrosius Marholt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n409 Blätter \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; vorne IHS, hinten Immaculata nach Apk 12,1."
+  }
+}

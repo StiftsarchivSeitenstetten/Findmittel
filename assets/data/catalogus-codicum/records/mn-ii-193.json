@@ -1,0 +1,193 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-193",
+  "signature": "MN II 193",
+  "aliases": [
+    "Bibl. Cod. MN II 193"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "143–144",
+  "heading": {
+    "title": "Tractatus De Jure et Justitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1695"
+  },
+  "date": {
+    "display": "1695",
+    "intervals": [
+      {
+        "from": 1695,
+        "to": 1695,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred_from_parallel",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Jure et Justitia",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–398",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Die Identifizierung beruht auf dem beigelegten Brief, dem Schriftvergleich und der Buchbinderanweisung."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Aegidius Stadler",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "probable"
+    },
+    {
+      "name": "P. Joannes Rigele",
+      "roleRaw": "unspecified",
+      "roleLabel": "unspecified",
+      "scope": "manuscript",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "400 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1695",
+        "intervals": [
+          {
+            "from": 1695,
+            "to": 1695,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred_from_parallel",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "Tractatus De Jure et Justitia De Restitutione, et Iniuriis quae fiunt in Contractibus, et Judiciis."
+    },
+    {
+      "type": "attached_letter",
+      "locus": "Innenseite des Vorderdeckels",
+      "sender": "P. Joannes",
+      "recipient": "P. Aegidius",
+      "destination": "Sonntagberg",
+      "text": "Cum plurima salute mitto Admodum Reverendo P. Aegidio Tractatus de Jure et Justitia et de Legibus Manuscriptos Sed luride ac vix ut timeo legendos. iuvabo tamen ubi ipse fuero praesto.\nServus\nomnibus me Commendo\nP. Joannes,\npraesertim Plurimum Reverendo P. Superiori.",
+      "note": "Der Katalog identifiziert Absender und Empfänger wahrscheinlich mit P. Joannes Rigele und P. Aegidius Stadler, die beide lange als Beichtväter am Sonntagberg wirkten."
+    },
+    {
+      "type": "bookbinder_instruction",
+      "locus": "S. 1, rechter Rand",
+      "medium": "Bleistift",
+      "text": "rukh ökh",
+      "note": "Anweisung, Rücken und Kanten mit Leder zu versehen."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "400 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1695.\n\n**Abhandlung über Recht und Gerechtigkeit:** S. 1–398. Anfang der ersten Frage über das Recht, erster Artikel: Ob das Recht Gegenstand der Gerechtigkeit sei? Da die aristotelische Regel verlangt.....\n\nDieselbe Abhandlung, jedoch mit Vorrede, enthält MN II 181, der 1695 geschrieben wurde. Der Verfasser ist auch dort nicht genannt.\n\nRückenaufschrift: **Tractatus De Jure et Justitia De Restitutione, et Iniuriis quae fiunt in Contractibus, et Judiciis.**\n\nIm Codex lag ein kleiner Brief, der auf die Innenseite des Vorderdeckels geklebt wurde. Darin sendet **P. Joannes** dem ehrwürdigen P. Aegidius handschriftliche Abhandlungen über Recht und Gerechtigkeit sowie über die Gesetze und empfiehlt sich besonders dem P. Superior.\n\nDa der Brief an den Sonntagberg gesandt wurde, wo ein Superior den Beichtvätern vorstand, und dort P. Aegidius Stadler sowie P. Joannes Rigele jahrzehntelang als Beichtväter wirkten, liegt eine Identifizierung nahe. Die Schrift des Briefes stimmt sehr gut mit der juristischen Schrift des Codex überein. Daher ist sehr wahrscheinlich, dass P. Joannes Rigele sowohl den Brief als auch diesen Codex schrieb – und ebenso die sieben vorhergehenden sowie den folgenden Codex, die dieselbe Schrift zeigen.\n\nBleistiftnotiz am rechten Rand von S. 1: **rukh ökh** – Anweisung an den Buchbinder, Rücken und Kanten mit Leder zu versehen.",
+    "germanHtml": "<p>400 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1695.</p>\n<p><strong>Abhandlung über Recht und Gerechtigkeit:</strong> S. 1–398. Anfang der ersten Frage über das Recht, erster Artikel: Ob das Recht Gegenstand der Gerechtigkeit sei? Da die aristotelische Regel verlangt.....</p>\n<p>Dieselbe Abhandlung, jedoch mit Vorrede, enthält MN II 181, der 1695 geschrieben wurde. Der Verfasser ist auch dort nicht genannt.</p>\n<p>Rückenaufschrift: <strong>Tractatus De Jure et Justitia De Restitutione, et Iniuriis quae fiunt in Contractibus, et Judiciis.</strong></p>\n<p>Im Codex lag ein kleiner Brief, der auf die Innenseite des Vorderdeckels geklebt wurde. Darin sendet <strong>P. Joannes</strong> dem ehrwürdigen P. Aegidius handschriftliche Abhandlungen über Recht und Gerechtigkeit sowie über die Gesetze und empfiehlt sich besonders dem P. Superior.</p>\n<p>Da der Brief an den Sonntagberg gesandt wurde, wo ein Superior den Beichtvätern vorstand, und dort P. Aegidius Stadler sowie P. Joannes Rigele jahrzehntelang als Beichtväter wirkten, liegt eine Identifizierung nahe. Die Schrift des Briefes stimmt sehr gut mit der juristischen Schrift des Codex überein. Daher ist sehr wahrscheinlich, dass P. Joannes Rigele sowohl den Brief als auch diesen Codex schrieb – und ebenso die sieben vorhergehenden sowie den folgenden Codex, die dieselbe Schrift zeigen.</p>\n<p>Bleistiftnotiz am rechten Rand von S. 1: <strong>rukh ökh</strong> – Anweisung an den Buchbinder, Rücken und Kanten mit Leder zu versehen.</p>",
+    "latin": "400 pagg.; teg. c2d; script. 1695\n\nTractatus De Jure et Justitia: p. 1–398. Initium Quaestionis I. De Jure. Articulus 1. utrum ius sit obiectum Justitiae? Quandoquidem regula aristotelica exigit......\n\nEundem tractatum sed cum Proloquio exhibet codex MN II 181 anno 1695 scriptus. Auctorem autem neque ille codex indicat. (Vide ad istum codicem supra p. 137!)\n\n\n\n\nInscriptio dorsi: Tractatus De Jure et Justitia De Restitutione, et Iniuriis quae fiunt in Contractibus, et Judiciis.\n\nIn codice nostro inventa est exigua epistola, quam parti adversae tegumenti ab intrinsecus affixi. Et haec sunt verba epistolae:\n\nCum plurima salute mitto Admodum Reverendo P. Aegidio Tractatus de Jure et Justitia et de Legibus Manuscriptos Sed luride ac vix ut timeo legendos. iuvabo tamen ubi ipse fuero praesto.  \nServus  \nomnibus me Commendo  \nP. Joannes,  \npraesertim Plurimum Reverendo P. Superiori.\n\nCum scriptor epistolae se P. Superiori commendet, et litteras et libros in Montem Sanctum (vulgo Sontagberg appellatum) mittit; nam ibi Superior confessariis praeerat. Atqui in Monte Sancto P. Aegidius Stadler, natus 1670, professus 1689, sacerdos 1695, mortuus 1729 triginta annos poenitentibus praesto erat. Sed et P. Joannes Rigele, natus 1672, professus 1691, sacerdos 1697, mortuus 1744 ultra triginta annos Poenitentiarius in Monte Sancto erat. Scriptura vero epistolae valde convenit cum scriptura codicis nostri, re vera iuridice scripti. Quis igitur dubitet, quin P. Joannes Rigele et epistolam et codicem nostrum scripserit, si vero codice nostro etiam septem codices praecedentes et codicem subsequentem utpote eadem scriptura praeditos. Quam opinionem confirmat etiam nota pro bibliopego, quam supra p. 141 e codice MN II 188 exscripsimus.\n\nNota in margine dextera pag. 1, graphitide scripta: rukh ökh = Bibliopegus dorsum et extrema codicis corio teget!",
+    "latinHtml": "<p>400 pagg.; teg. c2d; script. 1695</p>\n<p>Tractatus De Jure et Justitia: p. 1–398. Initium Quaestionis I. De Jure. Articulus 1. utrum ius sit obiectum Justitiae? Quandoquidem regula aristotelica exigit......</p>\n<p>Eundem tractatum sed cum Proloquio exhibet codex MN II 181 anno 1695 scriptus. Auctorem autem neque ille codex indicat. (Vide ad istum codicem supra p. 137!)</p>\n<p>Inscriptio dorsi: Tractatus De Jure et Justitia De Restitutione, et Iniuriis quae fiunt in Contractibus, et Judiciis.</p>\n<p>In codice nostro inventa est exigua epistola, quam parti adversae tegumenti ab intrinsecus affixi. Et haec sunt verba epistolae:</p>\n<p>Cum plurima salute mitto Admodum Reverendo P. Aegidio Tractatus de Jure et Justitia et de Legibus Manuscriptos Sed luride ac vix ut timeo legendos. iuvabo tamen ubi ipse fuero praesto. Servus omnibus me Commendo P. Joannes, praesertim Plurimum Reverendo P. Superiori.</p>\n<p>Cum scriptor epistolae se P. Superiori commendet, et litteras et libros in Montem Sanctum (vulgo Sontagberg appellatum) mittit; nam ibi Superior confessariis praeerat. Atqui in Monte Sancto P. Aegidius Stadler, natus 1670, professus 1689, sacerdos 1695, mortuus 1729 triginta annos poenitentibus praesto erat. Sed et P. Joannes Rigele, natus 1672, professus 1691, sacerdos 1697, mortuus 1744 ultra triginta annos Poenitentiarius in Monte Sancto erat. Scriptura vero epistolae valde convenit cum scriptura codicis nostri, re vera iuridice scripti. Quis igitur dubitet, quin P. Joannes Rigele et epistolam et codicem nostrum scripserit, si vero codice nostro etiam septem codices praecedentes et codicem subsequentem utpote eadem scriptura praeditos. Quam opinionem confirmat etiam nota pro bibliopego, quam supra p. 141 e codice MN II 188 exscripsimus.</p>\n<p>Nota in margine dextera pag. 1, graphitide scripta: rukh ökh = Bibliopegus dorsum et extrema codicis corio teget!</p>"
+  },
+  "source": {
+    "file": "MN II 193.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-193/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 181]]",
+      "targetId": "mn-ii-181",
+      "targetSignature": "MN II 181",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 193",
+    "titles": "Tractatus De Jure et Justitia \nTractatus De Jure et Justitia",
+    "persons": "P. Joannes Rigele Schreiber scribe \nunbekannt Autor author \nP. Aegidius Stadler unspecified unspecified \nP. Joannes Rigele unspecified unspecified",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n400 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; weitere Besonderheiten siehe Katalogtext."
+  }
+}

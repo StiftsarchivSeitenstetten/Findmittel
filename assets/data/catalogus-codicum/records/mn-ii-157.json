@@ -1,0 +1,226 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-157",
+  "signature": "MN II 157",
+  "aliases": [
+    "Bibl. Cod. MN II 157"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "158–159",
+  "heading": {
+    "title": "Tractatus in octo libros Physicorum Aristotelis",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "ca. 1700"
+  },
+  "date": {
+    "display": "ca. 1700",
+    "intervals": [],
+    "normalization": "display_unparsed",
+    "certainty": "inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": "Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab."
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus in octo libros Physicorum Aristotelis",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "fol. (1)–406",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Fol. 1–97 und 326–361 fehlen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 406v–535v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Fol. 411–494 fehlen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus III In Libros De Anima, in genere, et in specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 537r–656r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus IV In Libros De Caelo et Mundo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 656v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "Nur der Anfang erhalten; der Rest fehlt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus V In Aristotelis Metaphysicam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 657r–709r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "713 foll., e quibus fol. 1–97 desunt",
+    "format": "",
+    "binding": {
+      "code": "c1",
+      "description": "Grauer Pappeinband; der gesamte Vorderdeckel und der größte Teil des Rückens fehlen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1700",
+        "intervals": [],
+        "normalization": "display_unparsed",
+        "certainty": "inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_drawings",
+      "locus": "zwischen fol. 324 und 325",
+      "extent": "4 Blätter",
+      "subject": "Skizzen physikalischer Experimente"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "713 Blätter, von denen fol. 1–97 fehlen; grauer Pappeinband, dessen gesamter Vorderdeckel und größter Teil des Rückens fehlen; geschrieben um 1700.\n\nEs fehlen außerdem fol. 326–361 und fol. 411–494.\n\na) **(Abhandlung zu den acht Büchern der Physik des Aristoteles):** fol. (1)–406. Zwischen fol. 324 und 325 sind vier Blätter mit Skizzen physikalischer Experimente eingefügt.\n\nb) **Zweite Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** fol. 406v–535v; fol. 411–494 fehlen. Anfang der ersten Disputation fol. 407r: Obwohl wir in unserer Vorrede zur Physik......\n\nc) **Dritte Abhandlung zu den Büchern Über die Seele, im Allgemeinen und im Einzelnen:** fol. 537r–656r. Anfang: Die Mahnung des delphischen Orakels lautete: Erkenne dich selbst.\n\nd) **Vierte Abhandlung zu den Büchern Über Himmel und Welt:** fol. 656v. Der Rest fehlt. Anfang: Nach der Erklärung des beseelten Körpers gehen wir über.....\n\ne) **Fünfte Abhandlung zur Metaphysik des Aristoteles:** fol. 657r–709r. Anfang: Metaphysik oder übernatürliche Weisheit......\n\nWeder Verfasser noch Schreiber noch Entstehungsjahr sind bekannt. Nach Einband und Schrift dürfte der Codex um 1700 geschrieben worden sein.",
+    "germanHtml": "<p>713 Blätter, von denen fol. 1–97 fehlen; grauer Pappeinband, dessen gesamter Vorderdeckel und größter Teil des Rückens fehlen; geschrieben um 1700.</p>\n<p>Es fehlen außerdem fol. 326–361 und fol. 411–494.</p>\n<p>a) <strong>(Abhandlung zu den acht Büchern der Physik des Aristoteles):</strong> fol. (1)–406. Zwischen fol. 324 und 325 sind vier Blätter mit Skizzen physikalischer Experimente eingefügt.</p>\n<p>b) <strong>Zweite Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:</strong> fol. 406v–535v; fol. 411–494 fehlen. Anfang der ersten Disputation fol. 407r: Obwohl wir in unserer Vorrede zur Physik......</p>\n<p>c) <strong>Dritte Abhandlung zu den Büchern Über die Seele, im Allgemeinen und im Einzelnen:</strong> fol. 537r–656r. Anfang: Die Mahnung des delphischen Orakels lautete: Erkenne dich selbst.</p>\n<p>d) <strong>Vierte Abhandlung zu den Büchern Über Himmel und Welt:</strong> fol. 656v. Der Rest fehlt. Anfang: Nach der Erklärung des beseelten Körpers gehen wir über.....</p>\n<p>e) <strong>Fünfte Abhandlung zur Metaphysik des Aristoteles:</strong> fol. 657r–709r. Anfang: Metaphysik oder übernatürliche Weisheit......</p>\n<p>Weder Verfasser noch Schreiber noch Entstehungsjahr sind bekannt. Nach Einband und Schrift dürfte der Codex um 1700 geschrieben worden sein.</p>",
+    "latin": "713 foll., e quibus fol. 1–97 desunt; teg. c1, cuius tamen tota pars adversa et maxima pars dorsi deest; script. ca. 1700\n\nDesunt etiam foll. 326–361, et foll. 411–494.\n\na) (Tractatus in octo libros Physicorum Aristotelis): fol. (1)–406.  \nInter fol. 324 et 325 inserta sunt 4 folia cum adumbrationibus experimentorum physicorum.\n\n\n\n\nb) Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu: fol. 406v–535v. (Desunt foll. 411–494!) Initium Disputationis Primae: fol. 407r: Quamvis in prooemio nostro physicae......\n\nc) Tractatus III. In Libros De Anima, in genere, et in specie: fol. 537r–656r. Initium: Oraculi Delphici monitum fuit: nosce te ipsum.\n\nd) Tractatus IV. In Libros De Caelo et Mundo: fol. 656v. (Cetera desunt!) Initium: Post explicationem corporis animati devolvimur.....\n\ne) Tractatus V. In Aristotelis Metaphysicam: fol. 657r–709r. Initium: Metaphysica seu sapientia transnaturalis......\n\nNeque auctor harum lectionum neque scriptor huius codicis notus neque quo anno exaratus sit. Sed propter formam tegumenti scripturaeque non multum errabis, si existimaveris hunc librum circa annum 1700 scriptum esse.",
+    "latinHtml": "<p>713 foll., e quibus fol. 1–97 desunt; teg. c1, cuius tamen tota pars adversa et maxima pars dorsi deest; script. ca. 1700</p>\n<p>Desunt etiam foll. 326–361, et foll. 411–494.</p>\n<p>a) (Tractatus in octo libros Physicorum Aristotelis): fol. (1)–406. Inter fol. 324 et 325 inserta sunt 4 folia cum adumbrationibus experimentorum physicorum.</p>\n<p>b) Tractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu: fol. 406v–535v. (Desunt foll. 411–494!) Initium Disputationis Primae: fol. 407r: Quamvis in prooemio nostro physicae......</p>\n<p>c) Tractatus III. In Libros De Anima, in genere, et in specie: fol. 537r–656r. Initium: Oraculi Delphici monitum fuit: nosce te ipsum.</p>\n<p>d) Tractatus IV. In Libros De Caelo et Mundo: fol. 656v. (Cetera desunt!) Initium: Post explicationem corporis animati devolvimur.....</p>\n<p>e) Tractatus V. In Aristotelis Metaphysicam: fol. 657r–709r. Initium: Metaphysica seu sapientia transnaturalis......</p>\n<p>Neque auctor harum lectionum neque scriptor huius codicis notus neque quo anno exaratus sit. Sed propter formam tegumenti scripturaeque non multum errabis, si existimaveris hunc librum circa annum 1700 scriptum esse.</p>"
+  },
+  "source": {
+    "file": "MN II 157.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-157/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 157",
+    "titles": "Tractatus in octo libros Physicorum Aristotelis \nTractatus in octo libros Physicorum Aristotelis \nTractatus Secundus In Duos Libros Aristotelis De Ortu et Interitu \nTractatus III In Libros De Anima, in genere, et in specie \nTractatus IV In Libros De Caelo et Mundo \nTractatus V In Aristotelis Metaphysicam",
+    "persons": "unbekannt author or lecturer author_or_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Stark verstümmelt; fol. 1–97, 326–361 und 411–494 fehlen; Teil d bricht nach dem Anfang ab. \nFol. 1–97 und 326–361 fehlen. \nFol. 411–494 fehlen. \nNur der Anfang erhalten; der Rest fehlt.",
+    "physical": "Papier \n713 foll., e quibus fol. 1–97 desunt \ncode: c1; description: Grauer Pappeinband; der gesamte Vorderdeckel und der größte Teil des Rückens fehlen."
+  }
+}

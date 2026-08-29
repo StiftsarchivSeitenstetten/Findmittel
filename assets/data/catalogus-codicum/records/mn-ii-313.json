@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-313",
+  "signature": "MN II 313",
+  "aliases": [
+    "Bibl. Cod. MN II 313"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "279–280",
+  "heading": {
+    "title": "Regula Sancti Patris Nostri Benedicti, Abbatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1847"
+  },
+  "date": {
+    "display": "1847",
+    "intervals": [
+      {
+        "from": 1847,
+        "to": 1847,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Regula Sancti Patris Nostri Benedicti, Abbatis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Regula Sancti Patris Nostri Benedicti, Abbatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–84",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Nach der Ordnung der Regel-Lesung in Chor und Refektorium gegliedert; jedem Kapitel ist ein elegisches Distichon vorangestellt, den Abschnitten folgen zusammenfassende trochäische Tetrameter."
+        },
+        {
+          "type": "completeness",
+          "text": "without_prologue"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Josephus Krenn",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "certain"
+    },
+    {
+      "name": "S. Benedictus Abbas",
+      "roleRaw": "source_author",
+      "roleLabel": "source author",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "84 pagg.",
+    "format": "",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; weitere Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1847",
+        "intervals": [
+          {
+            "from": 1847,
+            "to": 1847,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "84 Seiten; schwarzer Ledereinband mit vergoldeter Randlinie; geschrieben 1847.\n\n**Regel unseres heiligen Vaters Benedikt, des Abtes.**\n\n**Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.**\n\nSiehe auch auf einem Vorsatzblatt: **Fr. Joseph. Seitenstetten 1847.**\n\nDieses Büchlein wurde von jenem Novizen sorgfältig geschrieben. Es enthält die Regel des hl. Benedikt ohne den Prolog, jedoch nach jener Ordnung gegliedert, die beim Lesen der Regel im Chor und bei Tisch befolgt wird.\n\nJedem Kapitel der Regel ist außerdem ein elegisches Distichon vorangestellt; den einzelnen Abschnitten folgen jeweils einige trochäische Tetrameter, welche den Inhalt des betreffenden Kapitels oder Abschnitts zusammenfassen.\n\nDiese Verse finden sich bereits in älteren Ausgaben der Benediktsregel, etwa in jener, die 1730 in Bonn auf Kosten Leonard Rommerskirchens erschien.",
+    "germanHtml": "<p>84 Seiten; schwarzer Ledereinband mit vergoldeter Randlinie; geschrieben 1847.</p>\n<p><strong>Regel unseres heiligen Vaters Benedikt, des Abtes.</strong></p>\n<p><strong>Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.</strong></p>\n<p>Siehe auch auf einem Vorsatzblatt: <strong>Fr. Joseph. Seitenstetten 1847.</strong></p>\n<p>Dieses Büchlein wurde von jenem Novizen sorgfältig geschrieben. Es enthält die Regel des hl. Benedikt ohne den Prolog, jedoch nach jener Ordnung gegliedert, die beim Lesen der Regel im Chor und bei Tisch befolgt wird.</p>\n<p>Jedem Kapitel der Regel ist außerdem ein elegisches Distichon vorangestellt; den einzelnen Abschnitten folgen jeweils einige trochäische Tetrameter, welche den Inhalt des betreffenden Kapitels oder Abschnitts zusammenfassen.</p>\n<p>Diese Verse finden sich bereits in älteren Ausgaben der Benediktsregel, etwa in jener, die 1730 in Bonn auf Kosten Leonard Rommerskirchens erschien.</p>",
+    "latin": "84 pagg.; teg. b2 linea marginali aurata ornatum; script. 1847\n\n**Regula Sancti Patris Nostri Benedicti, Abbatis.**\n\n**Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.**\n\n(Vide etiam in fol. praeliminari: **Fr. Joseph. Seitenstetten 1847.**)\n\nContinet hic libellus ab illo novitio diligenter scriptus Regulam S. Benedicti sine Prologo, sed divise secundum ordinem, qui in lectione S. Regulae in choro et ad mensam servatur. Praemittuntur insuper singulis capitibus S. Regulae singula disticha elegiaca et adduntur singulis divisionibus aliquot tetrametri trochaici, qui argumentum illius capitis aut divisionis componunt. Versus illi iam in vetustioribus editionibus S. Regulae inveniuntur, ex. gr. in illa, quae Bonnae, Sumptibus Leonardi Rommerskirchen, Anno M.D.CC.XXX (1730) in lucem evenit.",
+    "latinHtml": "<p>84 pagg.; teg. b2 linea marginali aurata ornatum; script. 1847</p>\n<p><strong>Regula Sancti Patris Nostri Benedicti, Abbatis.</strong></p>\n<p><strong>Fr. J. K. N. S. (= Fr. Josephus Krenn, Novitius Seitenstettensis) 23. 7. 1847.</strong></p>\n<p>(Vide etiam in fol. praeliminari: <strong>Fr. Joseph. Seitenstetten 1847.</strong>)</p>\n<p>Continet hic libellus ab illo novitio diligenter scriptus Regulam S. Benedicti sine Prologo, sed divise secundum ordinem, qui in lectione S. Regulae in choro et ad mensam servatur. Praemittuntur insuper singulis capitibus S. Regulae singula disticha elegiaca et adduntur singulis divisionibus aliquot tetrametri trochaici, qui argumentum illius capitis aut divisionis componunt. Versus illi iam in vetustioribus editionibus S. Regulae inveniuntur, ex. gr. in illa, quae Bonnae, Sumptibus Leonardi Rommerskirchen, Anno M.D.CC.XXX (1730) in lucem evenit.</p>"
+  },
+  "source": {
+    "file": "MN II 313.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-313/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 313",
+    "titles": "Regula Sancti Patris Nostri Benedicti, Abbatis \nRegula Sancti Patris Nostri Benedicti, Abbatis",
+    "persons": "Fr. Josephus Krenn Schreiber scribe \nS. Benedictus Abbas source author source_author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Nach der Ordnung der Regel-Lesung in Chor und Refektorium gegliedert; jedem Kapitel ist ein elegisches Distichon vorangestellt, den Abschnitten folgen zusammenfassende trochäische Tetrameter. \nwithout_prologue",
+    "physical": "Papier \n84 pagg. \ncode: b2; description: Schwarzer Ledereinband; weitere Verzierung siehe Katalogtext."
+  }
+}

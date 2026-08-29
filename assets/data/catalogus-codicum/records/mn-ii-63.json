@@ -1,0 +1,232 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-63",
+  "signature": "MN II 63",
+  "aliases": [
+    "Bibl. Cod. MN II 63",
+    "Tractatus De Iure et Iustitia"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "40",
+  "heading": {
+    "title": "Tractatus De Iure et Iustitia",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653"
+  },
+  "date": {
+    "display": "1653",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1653,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Iure et Iustitia",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Pars Prima: de Jure et Justitia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 2–77",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Pars secunda de restitutione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 77–297",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Pars tertia, De contractibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 297–462",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Index Tractatus huius",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 463–468",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Udalricus Freyberger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "contents",
+      "affiliation": "St. Peter, Salzburg"
+    },
+    {
+      "name": "Fr. Joachim Hartung",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "VI + 478 Seiten",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1653,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "VI + 478 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite **JHS**, auf der Rückseite die **Unbefleckte Mutter nach Apk 12,1**.\n\n**Abhandlung über Recht und Gerechtigkeit, diktiert von ... P. Udalricus (Freyberger), Profess des Ordens des hl. Vaters Benedikt im berühmten Kloster St. Peter zu Salzburg, damals Prior, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Seitenstettner Mönch, im Jahr 1653.**\n\n**Anfang** der kleinen Vorrede S. 1: Da der Mensch ein politisches Wesen ist....\n\na) **Erster Teil: Über Recht und Gerechtigkeit:** S. 2–77.\n\nb) **Zweiter Teil: Über die Restitution:** S. 77–297.\n\nc) **Dritter Teil: Über die Verträge:** S. 297–462; **Schluss** S. 462: Wir beendeten diese Abhandlung am 13. Oktober 1653.\n\nd) **Register dieser Abhandlung:** S. 463–468.\n\nDieselbe Abhandlung enthalten die Codices MN II 58 (oben S. 37) und MN II 60 (oben S. 38, jedoch unvollständig) sowie Teil a des Codex Arch. 34 P (siehe unten!).",
+    "germanHtml": "<p>VI + 478 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; auf der Vorderseite <strong>JHS</strong>, auf der Rückseite die <strong>Unbefleckte Mutter nach Apk 12,1</strong>.</p>\n<p><strong>Abhandlung über Recht und Gerechtigkeit, diktiert von ... P. Udalricus (Freyberger), Profess des Ordens des hl. Vaters Benedikt im berühmten Kloster St. Peter zu Salzburg, damals Prior, aufgezeichnet von dem Ordensmann Fr. Joachim Hartung desselben Ordens, Seitenstettner Mönch, im Jahr 1653.</strong></p>\n<p><strong>Anfang</strong> der kleinen Vorrede S. 1: Da der Mensch ein politisches Wesen ist....</p>\n<p>a) <strong>Erster Teil: Über Recht und Gerechtigkeit:</strong> S. 2–77.</p>\n<p>b) <strong>Zweiter Teil: Über die Restitution:</strong> S. 77–297.</p>\n<p>c) <strong>Dritter Teil: Über die Verträge:</strong> S. 297–462; <strong>Schluss</strong> S. 462: Wir beendeten diese Abhandlung am 13. Oktober 1653.</p>\n<p>d) <strong>Register dieser Abhandlung:</strong> S. 463–468.</p>\n<p>Dieselbe Abhandlung enthalten die Codices MN II 58 (oben S. 37) und MN II 60 (oben S. 38, jedoch unvollständig) sowie Teil a des Codex Arch. 34 P (siehe unten!).</p>",
+    "latin": "VI + 478 pagg.; teg. a2 (in parte adversa: JHS, in parte aversa Mater Immaculata iuxta Apoc. XII, 1)\n\n*Tractatus De Iure et Iustitia Dictatus per .... P. Dominum Udalricum (Freyberger) Ordinis S. P. Benedicti Professum in Celeberrimo Monasterio Sancti Petri (Salisburgi), pro tempore Priorem Exceptus â Religioso F. Joachimo Hartung eiusdem Ordinis Monacho Seittenstöttensi Anno 1653.*\n\n*Initium* Praefatiunculae p. 1: Cum homo sit animal politicum....\n\na) *Pars Prima: de Jure et Justitia:* p. 2 - 77\n\nb) *Pars secunda de restitutione:* p. 77 - 297\n\nc) *Pars tertia, De contractibus:* p. 297 - 462; *clausula* p. 462: Absolvimus hunc Tractatum 13 octobris Anno 1653.\n\nd) *Index Tractatus huius:* p. 463 - 468\n\nEundem tractatum continent Codd. MN II 58 (supra p. 37) et MN II 60 (supra p. 38, sed imperfectum) nec non pars a cod. Arch. 34 P (quem vide inferius!)",
+    "latinHtml": "<p>VI + 478 pagg.; teg. a2 (in parte adversa: JHS, in parte aversa Mater Immaculata iuxta Apoc. XII, 1)</p>\n<p><em>Tractatus De Iure et Iustitia Dictatus per .... P. Dominum Udalricum (Freyberger) Ordinis S. P. Benedicti Professum in Celeberrimo Monasterio Sancti Petri (Salisburgi), pro tempore Priorem Exceptus â Religioso F. Joachimo Hartung eiusdem Ordinis Monacho Seittenstöttensi Anno 1653.</em></p>\n<p><em>Initium</em> Praefatiunculae p. 1: Cum homo sit animal politicum....</p>\n<p>a) <em>Pars Prima: de Jure et Justitia:</em> p. 2 - 77</p>\n<p>b) <em>Pars secunda de restitutione:</em> p. 77 - 297</p>\n<p>c) <em>Pars tertia, De contractibus:</em> p. 297 - 462; <em>clausula</em> p. 462: Absolvimus hunc Tractatum 13 octobris Anno 1653.</p>\n<p>d) <em>Index Tractatus huius:</em> p. 463 - 468</p>\n<p>Eundem tractatum continent Codd. MN II 58 (supra p. 37) et MN II 60 (supra p. 38, sed imperfectum) nec non pars a cod. Arch. 34 P (quem vide inferius!)</p>"
+  },
+  "source": {
+    "file": "MN II 63.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-63/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 58]]",
+      "targetId": "mn-ii-58",
+      "targetSignature": "MN II 58",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 60]]",
+      "targetId": "mn-ii-60",
+      "targetSignature": "MN II 60",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "Arch. 34 P",
+      "targetId": "arch-cod-34-p-xviii-3-m",
+      "targetSignature": "Arch. Cod. 34 P (XVIII 3 m)",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 63",
+    "titles": "Tractatus De Iure et Iustitia \nPars Prima: de Jure et Justitia \nPars secunda de restitutione \nPars tertia, De contractibus \nIndex Tractatus huius",
+    "persons": "P. Udalricus Freyberger Dozent lecturer \nFr. Joachim Hartung Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nVI + 478 Seiten \ncode: a2; description: Weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten ungefärbten Verzierungen; vorne JHS, hinten Immaculata nach Apk 12,1."
+  }
+}

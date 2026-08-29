@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "xc",
+  "signature": "XC",
+  "aliases": [
+    "Bibl. Cod. XC"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "3",
+  "heading": {
+    "title": "Arztney Biechl",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "16. Jahrhundert"
+  },
+  "date": {
+    "display": "16. Jahrhundert",
+    "intervals": [
+      {
+        "from": 1501,
+        "to": 1600,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Arztney Biechl",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Arztney Biechl",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Das Werk ist verstümmelt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "c3",
+      "description": "Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "16. Jahrhundert",
+        "intervals": [
+          {
+            "from": 1501,
+            "to": 1600,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 91 Blätter; geschrieben im 16. Jahrhundert; brauner Pappeinband mit gelbem Rücken.\n\n**Arztney Biechl**\n\nDas Werk ist verstümmelt; Verfasser und Schreiber sind unbekannt. Mehr im alten *Catalogus Codicum Manuscriptorum*, Bd. I, S. 201–202, wo der Codex dem 16. oder 17. Jahrhundert zugeschrieben wird.",
+    "germanHtml": "<p>Kleines Oktavformat; 91 Blätter; geschrieben im 16. Jahrhundert; brauner Pappeinband mit gelbem Rücken.</p>\n<p><strong>Arztney Biechl</strong></p>\n<p>Das Werk ist verstümmelt; Verfasser und Schreiber sind unbekannt. Mehr im alten <em>Catalogus Codicum Manuscriptorum</em>, Bd. I, S. 201–202, wo der Codex dem 16. oder 17. Jahrhundert zugeschrieben wird.</p>",
+    "latin": "8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo\n\nArztney Biechl\n\nOpus mutilum; auctor et scriptor ignoti; plura in vetere Cat. Cod. Manuscriptorum, Tom. I, p. 201 - 202, ubi hic codex saec. XVI. vel XVII. adscribitur.",
+    "latinHtml": "<p>8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo</p>\n<p>Arztney Biechl</p>\n<p>Opus mutilum; auctor et scriptor ignoti; plura in vetere Cat. Cod. Manuscriptorum, Tom. I, p. 201 - 202, ubi hic codex saec. XVI. vel XVII. adscribitur.</p>"
+  },
+  "source": {
+    "file": "XC.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/xc/",
+  "relations": [],
+  "search": {
+    "signature": "XC",
+    "titles": "Arztney Biechl \nArztney Biechl",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Das Werk ist verstümmelt.",
+    "physical": "Papier \n8° min., 91 foll., script. saec. XVI., teg. c3 cum dorso flavo \nKleines Oktavformat \ncode: c3; description: Brauner Pappeinband; weitere Besonderheiten siehe Katalogtext."
+  }
+}

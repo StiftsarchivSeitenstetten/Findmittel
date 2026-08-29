@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-274",
+  "signature": "MN II 274",
+  "aliases": [
+    "Bibl. Cod. MN II 274"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "217–218",
+  "heading": {
+    "title": "Tractatus De Deo uno et Trino",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1739"
+  },
+  "date": {
+    "display": "1739",
+    "intervals": [
+      {
+        "from": 1739,
+        "to": 1739,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus De Deo uno et Trino",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Deo uno et Trino",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–190",
+      "language": "",
+      "incipit": {
+        "text": "Praecipuam inter cunctas disciplinas et scientias esse theologiam"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Leonardus Kloz",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Kloster Wessobrunn / Universität Salzburg",
+      "note": "Im Titel ausdrücklich mit „Datus“ bezeichnet."
+    },
+    {
+      "name": "Fr. Norbertus Pampichler",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „Exceptus“ bezeichnet; führte den Traktat nicht zu Ende."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "198 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1739",
+        "intervals": [
+          {
+            "from": 1739,
+            "to": 1739,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Universität Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "198 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1739.\n\n**Abhandlung über den einen und dreieinigen Gott**, vorgetragen von P. Leonardus Kloz, Benediktiner und Profess von Wessobrunn und damals ordentlicher Professor der heiligen Theologie an der erzbischöflichen Universität Salzburg; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und Theologiestudent im zweiten Jahr, 1739: S. 5–190.\n\nAnfang der Vorrede S. 7: Dass die Theologie unter allen Disziplinen und Wissenschaften den ersten Rang einnimmt,.....\n\nFr. Norbertus Pampichler schrieb auch die beiden vorhergehenden und den folgenden Codex. Unsere Abhandlung hat er jedoch nicht zu Ende geführt.",
+    "germanHtml": "<p>198 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1739.</p>\n<p><strong>Abhandlung über den einen und dreieinigen Gott</strong>, vorgetragen von P. Leonardus Kloz, Benediktiner und Profess von Wessobrunn und damals ordentlicher Professor der heiligen Theologie an der erzbischöflichen Universität Salzburg; aufgezeichnet von Fr. Norbertus Pampichler, Profess von Seitenstetten und Theologiestudent im zweiten Jahr, 1739: S. 5–190.</p>\n<p>Anfang der Vorrede S. 7: Dass die Theologie unter allen Disziplinen und Wissenschaften den ersten Rang einnimmt,.....</p>\n<p>Fr. Norbertus Pampichler schrieb auch die beiden vorhergehenden und den folgenden Codex. Unsere Abhandlung hat er jedoch nicht zu Ende geführt.</p>",
+    "latin": "198 pagg.; teg. c2d; script. 1739\n\n**Tractatus De Deo uno et Trino. Datus ab Admodum Reverendo ac Clarissimo Domino P. Leonardo Kloz Ordinis S. Benedicti Professo Wessofontano etc. etc. pro tempore In Archi-Episcopali Universitate Salisburgensi Sacrosanctae Theologiae Professore Ordinario. Exceptus à F. Norberto Pampichler Ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo. pro tempore Sacrosanctae Theologiae in II. annum auditore Anno M.D.C.C.X.X.X.IX. (1739):** p. 5–190\n\nInitium Proemii In tractatum de Deo uno et Trino p. 7: **Praecipuam inter cunctas disciplinas et scientias esse theologiam.....**\n\nF. Norbertus Pampichler etiam duos praecedentes et proximum exaravit codicem. Nostrum autem tractatum non absolvit.",
+    "latinHtml": "<p>198 pagg.; teg. c2d; script. 1739</p>\n<p><strong>Tractatus De Deo uno et Trino. Datus ab Admodum Reverendo ac Clarissimo Domino P. Leonardo Kloz Ordinis S. Benedicti Professo Wessofontano etc. etc. pro tempore In Archi-Episcopali Universitate Salisburgensi Sacrosanctae Theologiae Professore Ordinario. Exceptus à F. Norberto Pampichler Ejusdem Sacri Ordinis in Monasterio Seittenstettensi Professo. pro tempore Sacrosanctae Theologiae in II. annum auditore Anno M.D.C.C.X.X.X.IX. (1739):</strong> p. 5–190</p>\n<p>Initium Proemii In tractatum de Deo uno et Trino p. 7: <strong>Praecipuam inter cunctas disciplinas et scientias esse theologiam.....</strong></p>\n<p>F. Norbertus Pampichler etiam duos praecedentes et proximum exaravit codicem. Nostrum autem tractatum non absolvit.</p>"
+  },
+  "source": {
+    "file": "MN II 274.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-274/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 274",
+    "titles": "Tractatus De Deo uno et Trino \nTractatus De Deo uno et Trino",
+    "persons": "P. Leonardus Kloz Dozent lecturer \nFr. Norbertus Pampichler Schreiber scribe",
+    "incipits": "Praecipuam inter cunctas disciplinas et scientias esse theologiam",
+    "explicits": "",
+    "notes": "incomplete",
+    "physical": "Papier \n198 pagg. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

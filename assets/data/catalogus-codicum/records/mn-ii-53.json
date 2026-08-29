@@ -1,0 +1,194 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-53",
+  "signature": "MN II 53",
+  "aliases": [
+    "Bibl. Cod. MN II 53"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "34",
+  "heading": {
+    "title": "De Sacramentis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1653/54"
+  },
+  "date": {
+    "display": "1653/54",
+    "intervals": [
+      {
+        "from": 1653,
+        "to": 1654,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Theologische Vorlesungen über Sakramente, Gnade und Verdienst sowie Laster und Sünden.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "De Sacramentis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–428; Register S. 428–434",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "De Gratia et Merito",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 435–735",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "De Vitiis et Peccatis Creaturarum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 737–822",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Henricus Herding SJ",
+      "roleRaw": "lecturers",
+      "roleLabel": "lecturers",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Carolus Herhardus SJ",
+      "roleRaw": "lecturers",
+      "roleLabel": "lecturers",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "822 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Pergamentumschlag aus einem handschriftlich beschriebenen Blatt des 15. Jahrhunderts mit Messproprien der hll. Petrus und Paulus und der Commemoratio S. Pauli.",
+      "certainty": "",
+      "note": "Der Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1653/54",
+        "intervals": [
+          {
+            "from": 1653,
+            "to": 1654,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "location": "S. 376",
+      "subject": "Tod Ferdinands IV.",
+      "date": "1654-07-09",
+      "certainty": "partly uncertain"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "822 Seiten, bedeckt von einem im 15. Jahrhundert beschriebenen Pergamentblatt aus dem Proprium der Messe am Fest der hll. Petrus und Paulus und bei der Gedächtnisfeier des hl. Paulus; geschrieben 1653/54.\n\na) **Aus dem dritten Teil des hl. Thomas von Aquin: Abhandlung über die Sakramente, vorgetragen vom ehrwürdigen P. Henricus Herding SJ, Doktor der heiligen Theologie und ordentlichem Sekundariusprofessor, der 1653 zum ersten Mal Theologie lehrte:** S. 3–428 (über die Sakramente im Allgemeinen; über die Eucharistie; Beginn der Abhandlung über die Taufe), mit alphabetischem Register S. 428–434. Anfang S. 4: **Nachdem der hl. Thomas vom fleischgewordenen Wort gehandelt hat (?)....**\n\nAuf S. 322 steht ein scherzhaftes Gedicht. S. 376: **NB. Am 9. Juli 1654 gegen die zweite Morgenstunde stürzte nach einem vorausgegangenen sehr starken Erdbeben die Säule des Römischen Reiches, den erhabensten Römischen König Ferdinand IV., im Alter von 21 Jahren. Etwa ein Jahr und drei Wochen hatte er die Regierungsgeschäfte geführt. Hier starb dieser heiligste und unschuldigste Fürst an den Pocken (?) und an einem Leiden des Gehirns, das, in wässrige Flüssigkeit aufgelöst, bei der Öffnung vorgefunden wurde; so wenigstens wurde es gesagt (geglaubt?).**\n\nb) **Aus der Prima Secundae des hl. Thomas von Aquin: Abhandlung über Gnade und Verdienst, vorgetragen vom ehrwürdigen P. Carolus Herhardus SJ, Doktor der heiligen Theologie und ordentlichem Primariusprofessor, 1653:** S. 435–735. Anfang S. 436: **Nach der Erklärung der Freigebigkeit und Sittlichkeit....**\n\nc) **Zweite Abhandlung. Über die Laster und Sünden der Geschöpfe:** S. 737–822. Anfang: **Wir werden von der aktuellen, habituellen und ursprünglichen Sünde handeln.**",
+    "germanHtml": "<p>822 Seiten, bedeckt von einem im 15. Jahrhundert beschriebenen Pergamentblatt aus dem Proprium der Messe am Fest der hll. Petrus und Paulus und bei der Gedächtnisfeier des hl. Paulus; geschrieben 1653/54.</p>\n<p>a) <strong>Aus dem dritten Teil des hl. Thomas von Aquin: Abhandlung über die Sakramente, vorgetragen vom ehrwürdigen P. Henricus Herding SJ, Doktor der heiligen Theologie und ordentlichem Sekundariusprofessor, der 1653 zum ersten Mal Theologie lehrte:</strong> S. 3–428 (über die Sakramente im Allgemeinen; über die Eucharistie; Beginn der Abhandlung über die Taufe), mit alphabetischem Register S. 428–434. Anfang S. 4: <strong>Nachdem der hl. Thomas vom fleischgewordenen Wort gehandelt hat (?)....</strong></p>\n<p>Auf S. 322 steht ein scherzhaftes Gedicht. S. 376: <strong>NB. Am 9. Juli 1654 gegen die zweite Morgenstunde stürzte nach einem vorausgegangenen sehr starken Erdbeben die Säule des Römischen Reiches, den erhabensten Römischen König Ferdinand IV., im Alter von 21 Jahren. Etwa ein Jahr und drei Wochen hatte er die Regierungsgeschäfte geführt. Hier starb dieser heiligste und unschuldigste Fürst an den Pocken (?) und an einem Leiden des Gehirns, das, in wässrige Flüssigkeit aufgelöst, bei der Öffnung vorgefunden wurde; so wenigstens wurde es gesagt (geglaubt?).</strong></p>\n<p>b) <strong>Aus der Prima Secundae des hl. Thomas von Aquin: Abhandlung über Gnade und Verdienst, vorgetragen vom ehrwürdigen P. Carolus Herhardus SJ, Doktor der heiligen Theologie und ordentlichem Primariusprofessor, 1653:</strong> S. 435–735. Anfang S. 436: <strong>Nach der Erklärung der Freigebigkeit und Sittlichkeit....</strong></p>\n<p>c) <strong>Zweite Abhandlung. Über die Laster und Sünden der Geschöpfe:</strong> S. 737–822. Anfang: <strong>Wir werden von der aktuellen, habituellen und ursprünglichen Sünde handeln.</strong></p>",
+    "latin": "822 pagg., tectae folio membranaceo (proprio Missarum in festo SS. Petri et Pauli et in Commemoratione S. Pauli) inscripto (saec. XV); script. 1653/54\n\na) *Ex 3a Parte Divi Thomae Aquinatis Tractatus De Sacramentis Praelegente .... P. Henrico Herding Societatis Jesu SS. Theologiae Doctore eiusdemque Professore Ordinario Secundario docentis Primâvice Theologiam 1653:* p. 3 - 428 (de Sacramentis in genere; de Eucharistia; initium tractatus de Baptismo) cum Indice p. 428 - 434 (alphabetico). *Initium:* Postquam de Verbo Incarnato egerit (?) S. Thomas.... (p. 4)\n\nCarmen lusorium p. 322; p. 376: NB Nonâdie Julii Anno 1654 circa secundam horam matutinam praevius terrae motus maximus deiecit columnam Romani Imperii Augustissimam Romanorum Regem Ferdinandum quartum annos 21 natum. Annum unum et tres septimanas circiter Regni gubernacula moderantem; variolis (?) hic occubuit sanctissimus et Innocentissimus Princeps cerebrique defectu, quod in humorem redactum aquosum (apertum) repertum est ita enim dicebatur (credidit?)\n\nb) *Ex 1a 2ae Divi Thomae Aquinatis Tractatus De Gratia et Merito A. R. P. Carolo Herhardi S. J. SS. Theologiae Doctore eiusdemque primario Ordinarioque Professore praelegente 1653:* p. 435 - 735. *Initium* p. 436: Post Explicatam liberalitatem et honestatem....\n\nc) *Tractatus 2 De Vitiis et Peccatis Creaturarum:* p. 737 - 822. *Initium:* De peccato Actuali habituali et originali tractaturi sumus.",
+    "latinHtml": "<p>822 pagg., tectae folio membranaceo (proprio Missarum in festo SS. Petri et Pauli et in Commemoratione S. Pauli) inscripto (saec. XV); script. 1653/54</p>\n<p>a) <em>Ex 3a Parte Divi Thomae Aquinatis Tractatus De Sacramentis Praelegente .... P. Henrico Herding Societatis Jesu SS. Theologiae Doctore eiusdemque Professore Ordinario Secundario docentis Primâvice Theologiam 1653:</em> p. 3 - 428 (de Sacramentis in genere; de Eucharistia; initium tractatus de Baptismo) cum Indice p. 428 - 434 (alphabetico). <em>Initium:</em> Postquam de Verbo Incarnato egerit (?) S. Thomas.... (p. 4)</p>\n<p>Carmen lusorium p. 322; p. 376: NB Nonâdie Julii Anno 1654 circa secundam horam matutinam praevius terrae motus maximus deiecit columnam Romani Imperii Augustissimam Romanorum Regem Ferdinandum quartum annos 21 natum. Annum unum et tres septimanas circiter Regni gubernacula moderantem; variolis (?) hic occubuit sanctissimus et Innocentissimus Princeps cerebrique defectu, quod in humorem redactum aquosum (apertum) repertum est ita enim dicebatur (credidit?)</p>\n<p>b) <em>Ex 1a 2ae Divi Thomae Aquinatis Tractatus De Gratia et Merito A. R. P. Carolo Herhardi S. J. SS. Theologiae Doctore eiusdemque primario Ordinarioque Professore praelegente 1653:</em> p. 435 - 735. <em>Initium</em> p. 436: Post Explicatam liberalitatem et honestatem....</p>\n<p>c) <em>Tractatus 2 De Vitiis et Peccatis Creaturarum:</em> p. 737 - 822. <em>Initium:</em> De peccato Actuali habituali et originali tractaturi sumus.</p>"
+  },
+  "source": {
+    "file": "MN II 53.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-53/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 53",
+    "titles": "De Sacramentis \nDe Sacramentis \nDe Gratia et Merito \nDe Vitiis et Peccatis Creaturarum",
+    "persons": "P. Henricus Herding SJ lecturers lecturers \nP. Carolus Herhardus SJ lecturers lecturers \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Theologische Vorlesungen über Sakramente, Gnade und Verdienst sowie Laster und Sünden.",
+    "physical": "Papier \n822 Seiten \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+  }
+}

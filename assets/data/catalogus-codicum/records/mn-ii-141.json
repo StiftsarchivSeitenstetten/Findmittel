@@ -1,0 +1,178 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-141",
+  "signature": "MN II 141",
+  "aliases": [
+    "Bibl. Cod. MN II 141"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "103",
+  "heading": {
+    "title": "Tractatus De vitiis et peccatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1685"
+  },
+  "date": {
+    "display": "1685",
+    "intervals": [
+      {
+        "from": 1685,
+        "to": 1685,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De vitiis et peccatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 7–402",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 403–605",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1685-08-28"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "616 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1685",
+        "intervals": [
+          {
+            "from": 1685,
+            "to": 1685,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "616 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1685.\n\na) **Abhandlung über Laster und Sünden:** S. 7–402. Anfang S. 7: Nachdem die moralische Beschaffenheit des menschlichen Handelns im Allgemeinen betrachtet worden ist.....\n\nb) **Abhandlung über die Gesetze:** S. 403–605. Anfang der ersten Frage **Über das Gesetz im Allgemeinen**, S. 403: Nach der üblichen Ordnung betrachten wir zuerst das Gesetz im Allgemeinen..... Schluss S. 605: **Im Jahr 1685, am 28. August.**\n\nWeder derjenige, der diese Abhandlungen diktierte, noch der Schreiber unseres Codex ist bekannt. Derselbe Schreiber schrieb jedoch auch den folgenden Codex.",
+    "germanHtml": "<p>616 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1685.</p>\n<p>a) <strong>Abhandlung über Laster und Sünden:</strong> S. 7–402. Anfang S. 7: Nachdem die moralische Beschaffenheit des menschlichen Handelns im Allgemeinen betrachtet worden ist.....</p>\n<p>b) <strong>Abhandlung über die Gesetze:</strong> S. 403–605. Anfang der ersten Frage <strong>Über das Gesetz im Allgemeinen</strong>, S. 403: Nach der üblichen Ordnung betrachten wir zuerst das Gesetz im Allgemeinen..... Schluss S. 605: <strong>Im Jahr 1685, am 28. August.</strong></p>\n<p>Weder derjenige, der diese Abhandlungen diktierte, noch der Schreiber unseres Codex ist bekannt. Derselbe Schreiber schrieb jedoch auch den folgenden Codex.</p>",
+    "latin": "616 pagg.; teg. a1; script. 1685\n\na) Tractatus De vitiis et peccatis: p. 7–402. Initium p. 7: Consideratâ actûs humani moralitate in genere.....\n\nb) Tractatus De Legibus: p. 403–605. Initium Quaestionis primae. De lege in Communi: p. 403: Usitato ordine prius legem in communi consideramus..... Clausula p. 605: Anno 1685. 28. augusti.\n\nNeque qui dictaverit hos tractatus notus neque qui scripserit codicem nostrum. Sed qui codicem nostrum etiam codicem sequentem scripsit.",
+    "latinHtml": "<p>616 pagg.; teg. a1; script. 1685</p>\n<p>a) Tractatus De vitiis et peccatis: p. 7–402. Initium p. 7: Consideratâ actûs humani moralitate in genere.....</p>\n<p>b) Tractatus De Legibus: p. 403–605. Initium Quaestionis primae. De lege in Communi: p. 403: Usitato ordine prius legem in communi consideramus..... Clausula p. 605: Anno 1685. 28. augusti.</p>\n<p>Neque qui dictaverit hos tractatus notus neque qui scripserit codicem nostrum. Sed qui codicem nostrum etiam codicem sequentem scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 141.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-141/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 142]]",
+      "targetId": "mn-ii-142",
+      "targetSignature": "MN II 142",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 141",
+    "titles": "Tractatus De vitiis et peccatis \nTractatus De vitiis et peccatis \nTractatus De Legibus",
+    "persons": "unbekannt Dozent lecturer \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n616 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-27",
+  "signature": "MN I 27",
+  "aliases": [
+    "Bibl. Cod. MN I 27",
+    "Fontes Salvatoris",
+    "Quellen des Erlösers"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "177",
+  "heading": {
+    "title": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "1705"
+  },
+  "date": {
+    "display": "1705",
+    "intervals": [
+      {
+        "from": 1705,
+        "to": 1705,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen.",
+    "summary": "",
+    "language": "la",
+    "locus": "",
+    "incipit": {
+      "locus": "S. 3",
+      "label": "Initium Anteloquii",
+      "text": "Purissimos hodie fontes propino vobis,....",
+      "translation": "Heute biete ich euch die reinsten Quellen dar,...."
+    },
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–96",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Abhandlung über die Sakramente im Allgemeinen"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-2",
+      "label": "2",
+      "type": "",
+      "title": {
+        "text": "Tractatus primus De Baptismo",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 96–135",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Erste Abhandlung. Über die Taufe"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-3",
+      "label": "3",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus De Sacramento Confirmationis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 135–156",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Zweite Abhandlung. Über das Sakrament der Firmung"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-4",
+      "label": "4",
+      "type": "",
+      "title": {
+        "text": "Tractatus Tertius De Venerabili Eucharistiae Sacramento",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 157–210",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "translation",
+          "text": "Dritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "author; lecturer",
+      "roleLabel": "author; lecturer",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "P. Caelestin Pley",
+      "roleRaw": "author_and_lecturer",
+      "roleLabel": "author and lecturer",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "212 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt"
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1705",
+        "intervals": [
+          {
+            "from": 1705,
+            "to": 1705,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Salzburg",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Die Zuschreibung an P. Caelestin Pley sowie die Datierung und Lokalisierung des Diktats beruhen auf dem Parallelcodex MN II 225."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 212 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.\n\n**Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen.**\n\nAnfang der Vorrede S. 3: Heute biete ich euch die reinsten Quellen dar,....\n\na) Abhandlung über die Sakramente im Allgemeinen: S. 3–96\n\nb) Verschiedene Abhandlungen über die Sakramente im Einzelnen:  \nErste Abhandlung. Über die Taufe: S. 96–135.  \nZweite Abhandlung. Über das Sakrament der Firmung: S. 135–156.  \nDritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie: S. 157–210.\n\nDer Schreiber ist unbekannt. Dass der Verfasser P. Caelestin Pley, Profess von Seitenstetten, ist und dass er diese Abhandlungen im Jahr 1705 in Salzburg diktierte, erfahren wir aus Codex MN II 225 (oben S. 175), der dieselben Abhandlungen enthält.",
+    "germanHtml": "<p>Folioformat; 212 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1705.</p>\n<p><strong>Quellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen.</strong></p>\n<p>Anfang der Vorrede S. 3: Heute biete ich euch die reinsten Quellen dar,....</p>\n<p>a) Abhandlung über die Sakramente im Allgemeinen: S. 3–96</p>\n<p>b) Verschiedene Abhandlungen über die Sakramente im Einzelnen: Erste Abhandlung. Über die Taufe: S. 96–135. Zweite Abhandlung. Über das Sakrament der Firmung: S. 135–156. Dritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie: S. 157–210.</p>\n<p>Der Schreiber ist unbekannt. Dass der Verfasser P. Caelestin Pley, Profess von Seitenstetten, ist und dass er diese Abhandlungen im Jahr 1705 in Salzburg diktierte, erfahren wir aus Codex MN II 225 (oben S. 175), der dieselben Abhandlungen enthält.</p>",
+    "latin": "fol., 212 pag.; teg. a1; script. 1705\n\nFontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.\n\nInitium Anteloquii p. 3: Purissimos hodie fontes propino vobis,....\n\na) Tractatus De Sacramentis in genere: p. 3–96\n\nb) Tractatus varii De Sacramentis in Specie  \nTractatus primus De Baptismo: p. 96–135.  \nTractatus Secundus De Sacramento Confirmationis: p. 135–156.  \nTractatus Tertius De Venerabili Eucharistiae Sacramento: p. 157–210.\n\nScriptor ignotus. Auctorem autem esse P. Caelestinum Pley Professum Seitenstettensem eumque anno 1705 Salisburgi dictavisse hos tractatus, ex codice MN II 225 (supra p. 175) eosdem tractatus continente cognoscimus.",
+    "latinHtml": "<p>fol., 212 pag.; teg. a1; script. 1705</p>\n<p>Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie.</p>\n<p>Initium Anteloquii p. 3: Purissimos hodie fontes propino vobis,....</p>\n<p>a) Tractatus De Sacramentis in genere: p. 3–96</p>\n<p>b) Tractatus varii De Sacramentis in Specie Tractatus primus De Baptismo: p. 96–135. Tractatus Secundus De Sacramento Confirmationis: p. 135–156. Tractatus Tertius De Venerabili Eucharistiae Sacramento: p. 157–210.</p>\n<p>Scriptor ignotus. Auctorem autem esse P. Caelestinum Pley Professum Seitenstettensem eumque anno 1705 Salisburgi dictavisse hos tractatus, ex codice MN II 225 (supra p. 175) eosdem tractatus continente cognoscimus.</p>"
+  },
+  "source": {
+    "file": "MN I 27.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-27/",
+  "relations": [
+    {
+      "typeRaw": "same_text_as",
+      "typeLabel": "gleicher Text",
+      "targetRaw": "MN II 225",
+      "targetId": "mn-ii-225",
+      "targetSignature": "MN II 225",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "MN II 225 enthält dieselben Abhandlungen und belegt Autor, Ort und Jahr der Vorlesung."
+    }
+  ],
+  "search": {
+    "signature": "MN I 27",
+    "titles": "Fontes Salvatoris. Id est Varii Tractatus De Sacramentis tum in genere tum in Specie. \nQuellen des Erlösers. Das heißt: Verschiedene Abhandlungen über die Sakramente, sowohl im Allgemeinen als auch im Einzelnen. \nTractatus De Sacramentis in genere \nTractatus primus De Baptismo \nTractatus Secundus De Sacramento Confirmationis \nTractatus Tertius De Venerabili Eucharistiae Sacramento",
+    "persons": "P. Caelestin Pley author; lecturer author; lecturer \nunbekannt Schreiber scribe \nP. Caelestin Pley author and lecturer author_and_lecturer \nunbekannt Schreiber scribe",
+    "incipits": "Purissimos hodie fontes propino vobis,....",
+    "explicits": "",
+    "notes": "la \nAbhandlung über die Sakramente im Allgemeinen \nErste Abhandlung. Über die Taufe \nZweite Abhandlung. Über das Sakrament der Firmung \nDritte Abhandlung. Über das ehrwürdige Sakrament der Eucharistie \nDie Zuschreibung an P. Caelestin Pley sowie die Datierung und Lokalisierung des Diktats beruhen auf dem Parallelcodex MN II 225.",
+    "physical": "Papier \n212 Seiten \nFolio \ndescription: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

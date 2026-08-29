@@ -1,0 +1,170 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-4",
+  "signature": "MN I 4",
+  "aliases": [
+    "Bibl. Cod. MN I 4"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "41",
+  "heading": {
+    "title": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "1661"
+  },
+  "date": {
+    "display": "1661",
+    "intervals": [
+      {
+        "from": 1661,
+        "to": 1661,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {},
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "",
+      "language": "main: de",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "contents_note",
+          "text": "Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich."
+        },
+        {
+          "type": "summary",
+          "text": "Gewohnheitsrecht in alphabetischer Ordnung der Gegenstände, Buchstaben A–L einschließlich."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Ioannes Baptista Suttinger à Thurnhoff",
+          "roleRaw": "compiler",
+          "roleLabel": "Bearbeiter",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Ioannes Baptista Suttinger à Thurnhoff",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "1104 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "",
+      "description": "",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt"
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1661",
+        "intervals": [
+          {
+            "from": 1661,
+            "to": 1661,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [
+      {
+        "type": "ex_libris",
+        "locus": "Oberer Rand der Titelseite",
+        "text": "Ex libris Ioannis Ignatii Albrec(ht I: U: D:)",
+        "person": {
+          "display": "Johann Ignaz Albrec(ht, Doktor beider Rechte)",
+          "certainty": "uncertain"
+        },
+        "note": "Der unvollständige Name und Titel wurden im Katalog nach dem folgenden Codex ergänzt."
+      }
+    ],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Der Katalog bezeichnet Johann Baptist Suttinger als Sammler des Werkes.",
+    "Der Besitzvermerk wurde vom Katalogbearbeiter anhand des folgenden Codex ergänzt."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 1104 Seiten; der Einband ist vollständig entfernt; geschrieben 1661.\n\nGewohnheitsrecht, gesammelt von Herrn **Johann Baptist Suttinger von Thurnhof**, Doktor beider Rechte, Österreicher aus Wien und Kanzler der hohen niederösterreichischen Regierung. Im Jahr 1661.\n\nAlphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich (deutsch). Der Schreiber ist unbekannt. Dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der vorhergehende Codex 96.1.18.\n\nAm oberen Rand der Titelseite befindet sich ein Besitzvermerk: Aus den Büchern des Johann Ignaz Albrec(ht, Doktor beider Rechte) (ergänzt nach dem folgenden Codex).",
+    "germanHtml": "<p>Folioformat; 1104 Seiten; der Einband ist vollständig entfernt; geschrieben 1661.</p>\n<p>Gewohnheitsrecht, gesammelt von Herrn <strong>Johann Baptist Suttinger von Thurnhof</strong>, Doktor beider Rechte, Österreicher aus Wien und Kanzler der hohen niederösterreichischen Regierung. Im Jahr 1661.</p>\n<p>Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich (deutsch). Der Schreiber ist unbekannt. Dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben, enthält der vorhergehende Codex 96.1.18.</p>\n<p>Am oberen Rand der Titelseite befindet sich ein Besitzvermerk: Aus den Büchern des Johann Ignaz Albrec(ht, Doktor beider Rechte) (ergänzt nach dem folgenden Codex).</p>",
+    "latin": "fol.; 1104 pagg.; tegumentum penitus abscissum; script. 1661\n\nIus Consuetudinarium Collectum A Domino **Ioanne Baptista Suttingero à Thurnhoff** I: V: D: (= Juris Utriusque Doctore) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario. Anno. Millesimo Sexcentesimo Sexagesimo Primo.\n\nOrdo rerum alphabeticus: Litterae A–L inclusive (Germanice). Scriptor ignotus. Idem ius consuetudinarium, sed ab alia manu scriptum, continet codex praecedens 96.1.18.\n\nIn margine superiore paginae titularis nota possidentis: Ex libris Ioannis Ignatii Albrec(ht I: U: D:) (restituta iuxta codicem sequ.)",
+    "latinHtml": "<p>fol.; 1104 pagg.; tegumentum penitus abscissum; script. 1661</p>\n<p>Ius Consuetudinarium Collectum A Domino <strong>Ioanne Baptista Suttingero à Thurnhoff</strong> I: V: D: (= Juris Utriusque Doctore) Austriaco Viennensi Excelsi Inferioris Austriae Regiminis Cancellario. Anno. Millesimo Sexcentesimo Sexagesimo Primo.</p>\n<p>Ordo rerum alphabeticus: Litterae A–L inclusive (Germanice). Scriptor ignotus. Idem ius consuetudinarium, sed ab alia manu scriptum, continet codex praecedens 96.1.18.</p>\n<p>In margine superiore paginae titularis nota possidentis: Ex libris Ioannis Ignatii Albrec(ht I: U: D:) (restituta iuxta codicem sequ.)</p>"
+  },
+  "source": {
+    "file": "MN I 4.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-4/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "96.1.18",
+      "targetId": "96-1-18",
+      "targetSignature": "96.1.18",
+      "appliesTo": [],
+      "certainty": "",
+      "note": "Der vorhergehende Codex enthält dasselbe Gewohnheitsrecht, jedoch von einer anderen Hand geschrieben."
+    }
+  ],
+  "search": {
+    "signature": "MN I 4",
+    "titles": "Ius Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff \nIus Consuetudinarium Collectum A Domino Ioanne Baptista Suttingero à Thurnhoff",
+    "persons": "Ioannes Baptista Suttinger à Thurnhoff Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Alphabetische Ordnung der Gegenstände: Buchstaben A–L einschließlich. \nGewohnheitsrecht in alphabetischer Ordnung der Gegenstände, Buchstaben A–L einschließlich. \nDer Katalog bezeichnet Johann Baptist Suttinger als Sammler des Werkes. \nDer Besitzvermerk wurde vom Katalogbearbeiter anhand des folgenden Codex ergänzt.",
+    "physical": "Papier \n1104 Seiten \nFolio"
+  }
+}

@@ -1,0 +1,159 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-30",
+  "signature": "MN II 30",
+  "aliases": [
+    "Bibl. Cod. MN II 30",
+    "Commentarius in IV Institutionum Imperialium libros"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "21",
+  "heading": {
+    "title": "Commentarius In IV. Institutionum Imperialium libros",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "date": "um 1640"
+  },
+  "date": {
+    "display": "um 1640",
+    "intervals": [
+      {
+        "from": 1640,
+        "to": 1640,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "conjectural",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Commentarius In IV. Institutionum Imperialium libros",
+    "titleTypeRaw": "supplied",
+    "titleTypeLabel": "erschlossener Titel",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Commentarius In IV. Institutionum Imperialium libros",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "Bl. 1r–550v",
+      "language": "",
+      "incipit": {
+        "text": "Inprimis scire oportet forum esse duplex...."
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Bartholomaeus Vischer",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "probable"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "II + 550 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen; Rücken stark beschädigt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1640",
+        "intervals": [
+          {
+            "from": 1640,
+            "to": 1640,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "conjectural",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "use_note",
+      "locus": "Bl. 1r",
+      "text": "In Usum Bertholomaei Vischer J(uris) U. Licentiati"
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "II + 550 handschriftliche Blätter; nach jedem einzelnen Buch der Institutionen einige leere Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen, mit sehr stark beschädigtem Rücken.\n\n**Kommentar zu den vier Büchern der kaiserlichen Institutionen.**\n\nAnfang der Prolegomena zu den vier Büchern der kaiserlichen Institutionen Bl. 1r: **Zunächst muss man wissen, dass es ein zweifaches Forum gibt....**\n\nBenutzungsvermerk Bl. 1r: **In Usum Bertholomaei Vischer J(uris) U. (= Utriusque) Licentiati.** Daher ist es wahrscheinlich, dass dieser Codex um 1640 geschrieben wurde. Denn wer wollte bestreiten, dass dieser Bertholomaeus Vischer derselbe ist wie jener Bartholomaeus Piscator, der die Codices MN II 28 und 29 (siehe oben S. 19 und 20!) schrieb? Die Namen entsprechen einander, und der Schriftcharakter in den Codices MN II 29 und 30 ist nicht so verschieden, dass er einen anderen Schreiber verlangen würde.\n\nDer Verfasser ist unbekannt.",
+    "germanHtml": "<p>II + 550 handschriftliche Blätter; nach jedem einzelnen Buch der Institutionen einige leere Blätter; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen, mit sehr stark beschädigtem Rücken.</p>\n<p><strong>Kommentar zu den vier Büchern der kaiserlichen Institutionen.</strong></p>\n<p>Anfang der Prolegomena zu den vier Büchern der kaiserlichen Institutionen Bl. 1r: <strong>Zunächst muss man wissen, dass es ein zweifaches Forum gibt....</strong></p>\n<p>Benutzungsvermerk Bl. 1r: <strong>In Usum Bertholomaei Vischer J(uris) U. (= Utriusque) Licentiati.</strong> Daher ist es wahrscheinlich, dass dieser Codex um 1640 geschrieben wurde. Denn wer wollte bestreiten, dass dieser Bertholomaeus Vischer derselbe ist wie jener Bartholomaeus Piscator, der die Codices MN II 28 und 29 (siehe oben S. 19 und 20!) schrieb? Die Namen entsprechen einander, und der Schriftcharakter in den Codices MN II 29 und 30 ist nicht so verschieden, dass er einen anderen Schreiber verlangen würde.</p>\n<p>Der Verfasser ist unbekannt.</p>",
+    "latin": "II + 550 foll. manu scriptae; post singulos institutionum libros aliquot folia vacua; teg. a1 (dorso aegerrime sauciato)\n\n(Commentarius In IV. Institutionum Imperialium libros)\n\nInitium Prolegomenorum In IV. Institutionum Imperialium Libros fol. 1r: Inprimis scire oportet forum esse duplex....\n\nNota possidentis fol. 1r: \"In Usum Bertholomaei Vischer J(uris) U. (= Utriusque) Licentiati\". Itaque verisimile est hunc codicem circa annum 1640 exaratum esse. Nam hunc Bertholomaeum Vischer eundem esse atque Bartholomaeum Piscatorem illum, qui codices MN II 28 et 29 (vide supra pagg. 19 et 20!) conscripsit, quis neget? Etenim nomina consonant et character scribendi in Codice MN II 29 et 30 non est tam dissimilis, ut alium scribentem postulet.\n\nAuctor ignotus.",
+    "latinHtml": "<p>II + 550 foll. manu scriptae; post singulos institutionum libros aliquot folia vacua; teg. a1 (dorso aegerrime sauciato)</p>\n<p>(Commentarius In IV. Institutionum Imperialium libros)</p>\n<p>Initium Prolegomenorum In IV. Institutionum Imperialium Libros fol. 1r: Inprimis scire oportet forum esse duplex....</p>\n<p>Nota possidentis fol. 1r: \"In Usum Bertholomaei Vischer J(uris) U. (= Utriusque) Licentiati\". Itaque verisimile est hunc codicem circa annum 1640 exaratum esse. Nam hunc Bertholomaeum Vischer eundem esse atque Bartholomaeum Piscatorem illum, qui codices MN II 28 et 29 (vide supra pagg. 19 et 20!) conscripsit, quis neget? Etenim nomina consonant et character scribendi in Codice MN II 29 et 30 non est tam dissimilis, ut alium scribentem postulet.</p>\n<p>Auctor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 30.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-30/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 30",
+    "titles": "Commentarius In IV. Institutionum Imperialium libros \nCommentarius In IV. Institutionum Imperialium libros",
+    "persons": "unbekannt Autor author \nBartholomaeus Vischer Schreiber scribe",
+    "incipits": "Inprimis scire oportet forum esse duplex....",
+    "explicits": "",
+    "notes": "Der Titel steht im Katalog als editorisch ergänzte Inhaltsbezeichnung in runden Klammern.",
+    "physical": "Papier \nII + 550 Blätter \nQuartformat \ncode: a1; description: Weißer Einband (meist Holz mit Kalbsleder), ohne Verzierungen; Rücken stark beschädigt."
+  }
+}

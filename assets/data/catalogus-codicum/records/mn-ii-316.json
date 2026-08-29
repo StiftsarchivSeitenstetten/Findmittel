@@ -1,0 +1,158 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-316",
+  "signature": "MN II 316",
+  "aliases": [
+    "Bibl. Cod. MN II 316"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "284–285",
+  "heading": {
+    "title": "Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1887"
+  },
+  "date": {
+    "display": "1887",
+    "intervals": [
+      {
+        "from": 1887,
+        "to": 1887,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–340",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date_display",
+          "display": "5. Oktober 1887"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Hartmann Grisar SJ",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Universität Innsbruck",
+      "certainty": "certain"
+    },
+    {
+      "name": "Fr. Coelestin Berger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "certain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "340 pagg.",
+    "format": "",
+    "binding": {
+      "code": "",
+      "description": "Roter Einband mit schwarzem Rücken und schwarzen Kanten.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": [
+      {
+        "medium": "stenography",
+        "description": "Laut Katalog stenographische Mitschrift."
+      }
+    ],
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1887",
+        "intervals": [
+          {
+            "from": 1887,
+            "to": 1887,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Universität Innsbruck",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "340 Seiten; roter Einband mit schwarzem Rücken und schwarzen Kanten; 1887.\n\n**Kirchengeschichte vom I – X. Jahrhundert.  \nPr. Dr. Grisar.**\n\nDer Schreiber vermerkte seinen Namen auf einem Vorsatzblatt: **Fr. Coelestin Berger Ordinis S. Benedicti**, Seitenstettner Kleriker.\n\nWann er mit der Niederschrift begann, notierte er am oberen Rand des Titelblattes: **5. October 1887.**\n\nIn diesem Codex zeichnete er Innsbrucker Vorlesungen auf, die der berühmte Kirchenhistoriker **P. Hartmann Grisar SJ** hielt.\n\nZu beachten ist, dass der Codex, wie man sagt, stenographisch geschrieben ist.",
+    "germanHtml": "<p>340 Seiten; roter Einband mit schwarzem Rücken und schwarzen Kanten; 1887.</p>\n<p><strong>Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar.</strong></p>\n<p>Der Schreiber vermerkte seinen Namen auf einem Vorsatzblatt: <strong>Fr. Coelestin Berger Ordinis S. Benedicti</strong>, Seitenstettner Kleriker.</p>\n<p>Wann er mit der Niederschrift begann, notierte er am oberen Rand des Titelblattes: <strong>5. October 1887.</strong></p>\n<p>In diesem Codex zeichnete er Innsbrucker Vorlesungen auf, die der berühmte Kirchenhistoriker <strong>P. Hartmann Grisar SJ</strong> hielt.</p>\n<p>Zu beachten ist, dass der Codex, wie man sagt, stenographisch geschrieben ist.</p>",
+    "latin": "340 pagg.; teg. rufum cum dorso et extremis nigris; 1887\n\n**Kirchengeschichte vom I – X. Jahrhundert.  \nPr. Dr. Grisar.**\n\nScriptor huius libri nomen suum in folio praeliminari notavit: **Fr. Coelestin Berger Ordinis S. Benedicti** (clericus Seitenstettensis). Quando coeperit codicem nostrum scribere, notavit in margine superiore folii titularis: **5. October 1887.** Conscripsit autem in hoc codice lectiones Oenipontanas a celeberrimo historiae ecclesiasticae auctore **P. Hartmanno Grisar** Societatis Jesu habitas.\n\nAdverte codicem nostrum, uti dicunt, stenographice scriptum esse!",
+    "latinHtml": "<p>340 pagg.; teg. rufum cum dorso et extremis nigris; 1887</p>\n<p><strong>Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar.</strong></p>\n<p>Scriptor huius libri nomen suum in folio praeliminari notavit: <strong>Fr. Coelestin Berger Ordinis S. Benedicti</strong> (clericus Seitenstettensis). Quando coeperit codicem nostrum scribere, notavit in margine superiore folii titularis: <strong>5. October 1887.</strong> Conscripsit autem in hoc codice lectiones Oenipontanas a celeberrimo historiae ecclesiasticae auctore <strong>P. Hartmanno Grisar</strong> Societatis Jesu habitas.</p>\n<p>Adverte codicem nostrum, uti dicunt, stenographice scriptum esse!</p>"
+  },
+  "source": {
+    "file": "MN II 316.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-316/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 316",
+    "titles": "Kirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar \nKirchengeschichte vom I – X. Jahrhundert. Pr. Dr. Grisar",
+    "persons": "P. Hartmann Grisar SJ Dozent lecturer \nFr. Coelestin Berger Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n340 pagg. \ndescription: Roter Einband mit schwarzem Rücken und schwarzen Kanten."
+  }
+}

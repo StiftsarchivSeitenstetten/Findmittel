@@ -1,0 +1,300 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-199",
+  "signature": "MN II 199",
+  "aliases": [
+    "Bibl. Cod. MN II 199"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "150",
+  "heading": {
+    "title": "Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1697"
+  },
+  "date": {
+    "display": "1697",
+    "intervals": [
+      {
+        "from": 1697,
+        "to": 1697,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–740",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": [
+        {
+          "id": "item-a",
+          "label": "a",
+          "type": "",
+          "title": {
+            "text": "Quaestio prolegomenalis",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 3–10",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-b",
+          "label": "b",
+          "type": "",
+          "title": {
+            "text": "Tractatus in octo Libros Physicorum",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 11–511",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-c",
+          "label": "c",
+          "type": "",
+          "title": {
+            "text": "Tractatus in Duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 512–601",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-d",
+          "label": "d",
+          "type": "",
+          "title": {
+            "text": "Tractatus De Metheoris",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 601–610",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-e",
+          "label": "e",
+          "type": "",
+          "title": {
+            "text": "Tractatus In libros De Coelis et Mundo",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 610–646",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        },
+        {
+          "id": "item-f",
+          "label": "f",
+          "type": "",
+          "title": {
+            "text": "Tractatus ultimus In tres Libros Aristotelicos de Anima",
+            "typeRaw": null,
+            "typeLabel": null
+          },
+          "locus": "S. 646–740",
+          "language": "",
+          "incipit": null,
+          "explicit": null,
+          "notes": [],
+          "dates": [],
+          "persons": [],
+          "subitems": []
+        }
+      ]
+    },
+    {
+      "id": "item-2",
+      "label": "2",
+      "type": "",
+      "title": {
+        "text": "Metaphysica Aristotelico Thomistica",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 741–789",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1697-07-13"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Columbanus Leopolder",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "certainty": "probable",
+      "note": "Seine Autorschaft als Schreiber ist weniger sicher; sicher ist, dass er den Codex für MN III 10 und MN III 11 zusammenzog."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "800 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a1",
+      "description": "Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1697",
+        "intervals": [
+          {
+            "from": 1697,
+            "to": 1697,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "800 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1697.\n\n1) **Aristotelisch-thomistische Physik nach der Lehre des hl. Thomas von Aquin.** Anfang S. 3: Um die verborgeneren Schätze der Naturweisheit zu heben.....\n\na) **Prolegomenale Frage:** S. 3–10.\n\nb) **Abhandlung zu den acht Büchern der Physik:** S. 11–511.\n\nc) **Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:** S. 512–601. Anfang: Dass es Werden und Vergehen gibt, stützt sich nicht weniger auf die Heilige Schrift.....\n\nd) **Abhandlung über die Meteore:** S. 601–610. Anfang der ersten Frage über Ursachen und Ort der Meteore: Was ein Meteor sei.....\n\ne) **Abhandlung zu den Büchern Über Himmel und Welt:** S. 610–646. Anfang: Zunächst bietet sich die ebenso schöne wie weiträumige Weltmaschine dar.....\n\nf) **Letzte Abhandlung zu den drei Büchern des Aristoteles Über die Seele:** S. 646–740. Anfang der Vorrede: Da die Philosophie nun ihrem Ende entgegengeht.....\n\n2) **Aristotelisch-thomistische Metaphysik:** S. 741–789. Anfang: Endlich, hochgelehrte und hochgeehrte Herren Hörer..... Schluss S. 789: **Wir beendeten [dies] am 13. Juli 1697.**\n\nFr. Columbanus Leopolder hat für die Codices MN III 10 und MN III 11 die Vorlesungen dieses Codex zusammengezogen. Weniger sicher, aber wahrscheinlich ist, dass er auch diesen Codex selbst schrieb. Der Verfasser ist unbekannt.",
+    "germanHtml": "<p>800 Seiten; weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen; geschrieben 1697.</p>\n<p>1) <strong>Aristotelisch-thomistische Physik nach der Lehre des hl. Thomas von Aquin.</strong> Anfang S. 3: Um die verborgeneren Schätze der Naturweisheit zu heben.....</p>\n<p>a) <strong>Prolegomenale Frage:</strong> S. 3–10.</p>\n<p>b) <strong>Abhandlung zu den acht Büchern der Physik:</strong> S. 11–511.</p>\n<p>c) <strong>Abhandlung zu den zwei Büchern des Aristoteles Über Werden und Vergehen:</strong> S. 512–601. Anfang: Dass es Werden und Vergehen gibt, stützt sich nicht weniger auf die Heilige Schrift.....</p>\n<p>d) <strong>Abhandlung über die Meteore:</strong> S. 601–610. Anfang der ersten Frage über Ursachen und Ort der Meteore: Was ein Meteor sei.....</p>\n<p>e) <strong>Abhandlung zu den Büchern Über Himmel und Welt:</strong> S. 610–646. Anfang: Zunächst bietet sich die ebenso schöne wie weiträumige Weltmaschine dar.....</p>\n<p>f) <strong>Letzte Abhandlung zu den drei Büchern des Aristoteles Über die Seele:</strong> S. 646–740. Anfang der Vorrede: Da die Philosophie nun ihrem Ende entgegengeht.....</p>\n<p>2) <strong>Aristotelisch-thomistische Metaphysik:</strong> S. 741–789. Anfang: Endlich, hochgelehrte und hochgeehrte Herren Hörer..... Schluss S. 789: <strong>Wir beendeten [dies] am 13. Juli 1697.</strong></p>\n<p>Fr. Columbanus Leopolder hat für die Codices MN III 10 und MN III 11 die Vorlesungen dieses Codex zusammengezogen. Weniger sicher, aber wahrscheinlich ist, dass er auch diesen Codex selbst schrieb. Der Verfasser ist unbekannt.</p>",
+    "latin": "800 pagg.; teg. a1; script. 1697\n\n1) Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis  \nInitium p. 3: Ad arcaniores sapientiae naturalis eruendos thesauros.\n\na) Quaestio prolegomenalis: p. 3–10\n\nb) (Tractatus in octo Libros Physicorum): p. 11–511\n\nc) Tractatus in Duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione: p. 512–601. Initium: Dari generationem et corruptionem non minus fundatur in Sacra Scriptura.....\n\nd) Tractatus De Metheoris: p. 601–610. Initium Quaestio 1. Articulus unicus De Causis et loco Metheororum. Quid sit Metheorum,....\n\ne) Tractatus In libros De Coelis et Mundo: p. 610–646. Initium: Offert se primò tam speciosa quam spatiosa Mundi machina......\n\nf) Tractatus ultimus In 3 Libros Aristotelicos de Anima: p. 646–740. Initium Praefationis p. 646: Tandem agonizante Philosophia......\n\n2) Metaphysica Aristotelico Thomistica: p. 741–789. Initium: Tandem Doctissimi (?) et ornatissimi (?) Domini Auditores........  \nClausula p. 789: 1697. 13 Julii absolvimus.\n\nSine dubio F. Columbanus Leopolder ad exarandos codices MN III 10 et 11 lectiones codicis nostri contraxit. At minus certum, licet probabile est, eum codicem nostrum etiam sua manu scripsisse. Auctor vero ignotus.",
+    "latinHtml": "<p>800 pagg.; teg. a1; script. 1697</p>\n<p>1) Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis Initium p. 3: Ad arcaniores sapientiae naturalis eruendos thesauros.</p>\n<p>a) Quaestio prolegomenalis: p. 3–10</p>\n<p>b) (Tractatus in octo Libros Physicorum): p. 11–511</p>\n<p>c) Tractatus in Duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione: p. 512–601. Initium: Dari generationem et corruptionem non minus fundatur in Sacra Scriptura.....</p>\n<p>d) Tractatus De Metheoris: p. 601–610. Initium Quaestio 1. Articulus unicus De Causis et loco Metheororum. Quid sit Metheorum,....</p>\n<p>e) Tractatus In libros De Coelis et Mundo: p. 610–646. Initium: Offert se primò tam speciosa quam spatiosa Mundi machina......</p>\n<p>f) Tractatus ultimus In 3 Libros Aristotelicos de Anima: p. 646–740. Initium Praefationis p. 646: Tandem agonizante Philosophia......</p>\n<p>2) Metaphysica Aristotelico Thomistica: p. 741–789. Initium: Tandem Doctissimi (?) et ornatissimi (?) Domini Auditores........ Clausula p. 789: 1697. 13 Julii absolvimus.</p>\n<p>Sine dubio F. Columbanus Leopolder ad exarandos codices MN III 10 et 11 lectiones codicis nostri contraxit. At minus certum, licet probabile est, eum codicem nostrum etiam sua manu scripsisse. Auctor vero ignotus.</p>"
+  },
+  "source": {
+    "file": "MN II 199.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-199/",
+  "relations": [
+    {
+      "typeRaw": "source_for_compendia",
+      "typeLabel": "source for compendia",
+      "targetRaw": "[[MN III 10]]",
+      "targetId": "mn-iii-10",
+      "targetSignature": "MN III 10",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "source_for_compendia",
+      "typeLabel": "source for compendia",
+      "targetRaw": "[[MN III 11]]",
+      "targetId": "mn-iii-11",
+      "targetSignature": "MN III 11",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 199",
+    "titles": "Physica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis \nPhysica Aristotelico Thomistica iuxta mentem S. Doctoris Aquinatis \nQuaestio prolegomenalis \nTractatus in octo Libros Physicorum \nTractatus in Duos Libros Aristotelis De Ortu et Interitu sive de Generatione et Corruptione \nTractatus De Metheoris \nTractatus In libros De Coelis et Mundo \nTractatus ultimus In tres Libros Aristotelicos de Anima \nMetaphysica Aristotelico Thomistica",
+    "persons": "Fr. Columbanus Leopolder Schreiber scribe \nunbekannt Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n800 pagg. \ncode: a1; description: Weißer Einband, meist aus Holz und mit Kalbsleder überzogen, ohne Verzierungen."
+  }
+}

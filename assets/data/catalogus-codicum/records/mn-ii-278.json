@@ -1,0 +1,287 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-278",
+  "signature": "MN II 278",
+  "aliases": [
+    "Bibl. Cod. MN II 278"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "227–228",
+  "heading": {
+    "title": "Tractatus Scholastico-Positivus De Gratia et Virtutibus Theologicis",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1750/51"
+  },
+  "date": {
+    "display": "1750/51",
+    "intervals": [
+      {
+        "from": 1750,
+        "to": 1751,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus Scholastico-Positivus De Gratia et Virtutibus Theologicis",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Introductio brevis In Theologiam Scholastico Positivam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–9",
+      "language": "",
+      "incipit": {
+        "text": "Perpensis aliquantò iis philosophiae momentis"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus De Gratia, Justificatione, ac merito",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9–241",
+      "language": "",
+      "incipit": {
+        "text": "Suavissima possidenti, sed magis ardua investiganti se hic offert materia"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Ein Vermerk einer anderen Hand datiert eine Verwendung in den Kollegien auf den 11. Februar 1752."
+        }
+      ],
+      "dates": [
+        {
+          "type": "end_date_display",
+          "display": "12. Dezember 1750"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus. De Fide, Spe, et Charitate. Anno 1.7.50. Die decima quarta Decembris",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 253–346",
+      "language": "",
+      "incipit": {
+        "text": "Tractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Benedictus Veit",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "note": "Im Titel ausdrücklich mit „dictatus“ bezeichnet; Direktor des theologischen Hausstudiums."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe unbekannte Schreiber schrieb MN II 278–285."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "additional_hand",
+      "roleLabel": "additional hand",
+      "scope": "manuscript",
+      "note": "Bleistiftvermerk vom 11. Februar 1752."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "352 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1750/51",
+        "intervals": [
+          {
+            "from": 1750,
+            "to": 1751,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Stift Seitenstetten",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "352 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1750/51.\n\n**Scholastisch-positive Abhandlung über Gnade und die theologischen Tugenden**, diktiert von P. Benedictus Veit im Jahr 1750, beginnend am 6. Juli.\n\na) **Kurze Einführung in die scholastisch-positive Theologie:** S. 5–9. Anfang: Nachdem wir eine Zeitlang die Hauptpunkte der Philosophie erwogen haben,.....\n\nb) **Theologische Abhandlung über Gnade, Rechtfertigung und Verdienst:** S. 9–241. Anfang: Eine dem Besitzer überaus liebliche, dem Forscher aber umso schwierigere Materie bietet sich hier dar,..... Schluss: **Wir beendeten [dies] am 12. Dezember 1750 unter dem Professor P. Benedictus Veit.**\n\nc) **Abhandlung über Glaube, Hoffnung und Liebe. 1750, am 14. Dezember:** S. 253–346. Anfang S. 253: Scholastisch-positive Abhandlung über Glaube, Hoffnung und Liebe. Von der Gnade als Mutter schreiten wir mit dem heiligen Lehrer zu den Tugenden als Töchtern fort,..... Schluss: wiederum unter P. Benedictus Veit.\n\nS. 241 findet sich ein weiterer, von anderer Hand mit Bleistift geschriebener Schlussvermerk: **In den Kollegien beendeten wir [dies] am 11. Februar 1752.** Offenbar wurde diese theologische Abhandlung 1752 entweder erneut diktiert oder in schulischen Übungen disputiert.\n\nDer Schreiber dieses Codex und der sieben folgenden Codices ist unbekannt.\n\nÜber P. Benedictus Veit berichtet die 1795 von P. Rudolph Kapeller verfasste *Series Reverendissimorum Dominum Abbatum et Religiosorum Conventualium Seitenstettensium*: Er war Professor der Philosophie in Salzburg und der häuslichen Theologie; beim 1749 errichteten hausinternen theologischen Studium der Seitenstettner Religiosen wurde er zum ersten Direktor bestellt.\n\nDaher entstanden unser Codex und die sieben folgenden – vom selben Schreiber und mit demselben Einband – im Kloster Seitenstetten selbst und enthalten Vorlesungen des dortigen theologischen Hausstudiums. Da MN II 278–285 auf den Rücken die Nummern I–VIII tragen und der Schluss von MN II 285 lautet: **„Wir beendeten am 30. Mai 1753 diese letzte Abhandlung unseres theologischen Kurses“**, bilden sie wahrscheinlich den vollständigen scholastisch-positiven theologischen Kurs, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde.",
+    "germanHtml": "<p>352 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben 1750/51.</p>\n<p><strong>Scholastisch-positive Abhandlung über Gnade und die theologischen Tugenden</strong>, diktiert von P. Benedictus Veit im Jahr 1750, beginnend am 6. Juli.</p>\n<p>a) <strong>Kurze Einführung in die scholastisch-positive Theologie:</strong> S. 5–9. Anfang: Nachdem wir eine Zeitlang die Hauptpunkte der Philosophie erwogen haben,.....</p>\n<p>b) <strong>Theologische Abhandlung über Gnade, Rechtfertigung und Verdienst:</strong> S. 9–241. Anfang: Eine dem Besitzer überaus liebliche, dem Forscher aber umso schwierigere Materie bietet sich hier dar,..... Schluss: <strong>Wir beendeten [dies] am 12. Dezember 1750 unter dem Professor P. Benedictus Veit.</strong></p>\n<p>c) <strong>Abhandlung über Glaube, Hoffnung und Liebe. 1750, am 14. Dezember:</strong> S. 253–346. Anfang S. 253: Scholastisch-positive Abhandlung über Glaube, Hoffnung und Liebe. Von der Gnade als Mutter schreiten wir mit dem heiligen Lehrer zu den Tugenden als Töchtern fort,..... Schluss: wiederum unter P. Benedictus Veit.</p>\n<p>S. 241 findet sich ein weiterer, von anderer Hand mit Bleistift geschriebener Schlussvermerk: <strong>In den Kollegien beendeten wir [dies] am 11. Februar 1752.</strong> Offenbar wurde diese theologische Abhandlung 1752 entweder erneut diktiert oder in schulischen Übungen disputiert.</p>\n<p>Der Schreiber dieses Codex und der sieben folgenden Codices ist unbekannt.</p>\n<p>Über P. Benedictus Veit berichtet die 1795 von P. Rudolph Kapeller verfasste <em>Series Reverendissimorum Dominum Abbatum et Religiosorum Conventualium Seitenstettensium</em>: Er war Professor der Philosophie in Salzburg und der häuslichen Theologie; beim 1749 errichteten hausinternen theologischen Studium der Seitenstettner Religiosen wurde er zum ersten Direktor bestellt.</p>\n<p>Daher entstanden unser Codex und die sieben folgenden – vom selben Schreiber und mit demselben Einband – im Kloster Seitenstetten selbst und enthalten Vorlesungen des dortigen theologischen Hausstudiums. Da MN II 278–285 auf den Rücken die Nummern I–VIII tragen und der Schluss von MN II 285 lautet: <strong>„Wir beendeten am 30. Mai 1753 diese letzte Abhandlung unseres theologischen Kurses“</strong>, bilden sie wahrscheinlich den vollständigen scholastisch-positiven theologischen Kurs, der von 1750 bis 1753 im Kloster Seitenstetten gehalten wurde.</p>",
+    "latin": "352 pagg.; teg. c3d; script. 1750/51\n\n**Tractatus Scholastico-Positivus De Gratia et Virtutibus Theologicis. Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1750. à die sexta Julii**\n\na) **Introductio brevis In Theologiam Scholastico Positivam:** p. 5–9.  \n**Initium:** Perpensis aliquantò iis philosophiae momentis,.....\n\nb) **Tractatus Theologicus De Gratia, Justificatione, ac merito:** p. 9–241.  \n**Initium:** Suavissima possidenti, sed magis ardua investiganti se hic offert materia,.....  \n**Clausula:** Finivimus 12. Decembris 1750. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P. Benedicto Veith.\n\nc) **Tractatus. De Fide, Spe, et Charitate. Anno 1.7.50. Die decima quarta Decembris:** p. 253–346.  \n**Initium p. 253:** Tractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur,.....\n\n**Clausula:** Professore. A: R: R: ac Docts: D: P: Benedicto Veith (quam clausulam supra in parte b explicavimus!)\n\np. 241 alia clausula, eaque graphitide altera manu scripta invenitur: **In Collegiis finivimus 11 Februarii 1752.**\n\nVidetur igitur hic tractatus theologicus anno 1752 aut denuo dictatus aut in quibusdam exercitiis scholaribus disputatus esse.\n\nScriptor huius codicis et septem codicum sequentium ignotus est.\n\nDe P. Benedicto Veit, auctore huius tractatus, *Series Reverendissimorum Dominum Abbatum et Religiosorum Conventualium Seitenstettensium* a P. Rudolpho Kapeller anno 1795 composita (Cod. 3 Sch H 19, Arch. Mon. Seitenst.) p. 80 haec commemorat: **Professor Philosophiae Salisburgensis, Theologiae domesticae.....Hic erecto 1749 Studio Theologiae domestico Religiosorum Fratrum I. Director datus est.**\n\nQua de causa codex noster codicesque septem sequentes utpote ab eodem scripti eodemque tegumento muniti in ipso monasterio Seitenstettensi orti sunt et lectiones in studio Theologiae Seitenstettensi habitas continent. Cum codices MN II 278–285 in inscriptione dorsi numeros I–VIII exhibeant, continuum cursum Seitenstettensem Theologiae Scholastico-Positivae continent, et cum in fine codicis MN II 285 clausula enuntiet: **„Absolvimus 30 Maii ultimum hunc cursus nostri theologici tractatum. Anno 1753.“** veri simile est, codices nostros MN II 278–285 totum cursum Theologiae Scholastico-Positivae ab anno 1750 usque ad annum 1753 in ipso monasterio Seitenstettensi traditum continere.",
+    "latinHtml": "<p>352 pagg.; teg. c3d; script. 1750/51</p>\n<p><strong>Tractatus Scholastico-Positivus De Gratia et Virtutibus Theologicis. Ab Admodum Reverendo, Religiosissimo, ac Clarissimo Domino P. Benedicto Veit dictatus Anno 1750. à die sexta Julii</strong></p>\n<p>a) <strong>Introductio brevis In Theologiam Scholastico Positivam:</strong> p. 5–9. <strong>Initium:</strong> Perpensis aliquantò iis philosophiae momentis,.....</p>\n<p>b) <strong>Tractatus Theologicus De Gratia, Justificatione, ac merito:</strong> p. 9–241. <strong>Initium:</strong> Suavissima possidenti, sed magis ardua investiganti se hic offert materia,..... <strong>Clausula:</strong> Finivimus 12. Decembris 1750. Professore Admodum Reverendo, Religiosissimo ac Doctissimo Domino P. Benedicto Veith.</p>\n<p>c) <strong>Tractatus. De Fide, Spe, et Charitate. Anno 1.7.50. Die decima quarta Decembris:</strong> p. 253–346. <strong>Initium p. 253:</strong> Tractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur,.....</p>\n<p><strong>Clausula:</strong> Professore. A: R: R: ac Docts: D: P: Benedicto Veith (quam clausulam supra in parte b explicavimus!)</p>\n<p>p. 241 alia clausula, eaque graphitide altera manu scripta invenitur: <strong>In Collegiis finivimus 11 Februarii 1752.</strong></p>\n<p>Videtur igitur hic tractatus theologicus anno 1752 aut denuo dictatus aut in quibusdam exercitiis scholaribus disputatus esse.</p>\n<p>Scriptor huius codicis et septem codicum sequentium ignotus est.</p>\n<p>De P. Benedicto Veit, auctore huius tractatus, <em>Series Reverendissimorum Dominum Abbatum et Religiosorum Conventualium Seitenstettensium</em> a P. Rudolpho Kapeller anno 1795 composita (Cod. 3 Sch H 19, Arch. Mon. Seitenst.) p. 80 haec commemorat: <strong>Professor Philosophiae Salisburgensis, Theologiae domesticae.....Hic erecto 1749 Studio Theologiae domestico Religiosorum Fratrum I. Director datus est.</strong></p>\n<p>Qua de causa codex noster codicesque septem sequentes utpote ab eodem scripti eodemque tegumento muniti in ipso monasterio Seitenstettensi orti sunt et lectiones in studio Theologiae Seitenstettensi habitas continent. Cum codices MN II 278–285 in inscriptione dorsi numeros I–VIII exhibeant, continuum cursum Seitenstettensem Theologiae Scholastico-Positivae continent, et cum in fine codicis MN II 285 clausula enuntiet: <strong>„Absolvimus 30 Maii ultimum hunc cursus nostri theologici tractatum. Anno 1753.“</strong> veri simile est, codices nostros MN II 278–285 totum cursum Theologiae Scholastico-Positivae ab anno 1750 usque ad annum 1753 in ipso monasterio Seitenstettensi traditum continere.</p>"
+  },
+  "source": {
+    "file": "MN II 278.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-278/",
+  "relations": [
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 278",
+      "targetId": "mn-ii-278",
+      "targetSignature": "MN II 278",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 279",
+      "targetId": "mn-ii-279",
+      "targetSignature": "MN II 279",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 280",
+      "targetId": "mn-ii-280",
+      "targetSignature": "MN II 280",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 281",
+      "targetId": "mn-ii-281",
+      "targetSignature": "MN II 281",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 282",
+      "targetId": "mn-ii-282",
+      "targetSignature": "MN II 282",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 283",
+      "targetId": "mn-ii-283",
+      "targetSignature": "MN II 283",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 284",
+      "targetId": "mn-ii-284",
+      "targetSignature": "MN II 284",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "course_series",
+      "typeLabel": "gleicher Kurs / Kursserie",
+      "targetRaw": "MN II 285",
+      "targetId": "mn-ii-285",
+      "targetSignature": "MN II 285",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 278",
+    "titles": "Tractatus Scholastico-Positivus De Gratia et Virtutibus Theologicis \nIntroductio brevis In Theologiam Scholastico Positivam \nTractatus Theologicus De Gratia, Justificatione, ac merito \nTractatus. De Fide, Spe, et Charitate. Anno 1.7.50. Die decima quarta Decembris",
+    "persons": "P. Benedictus Veit Dozent lecturer \nunbekannt Schreiber scribe \nunbekannt additional hand additional_hand",
+    "incipits": "Perpensis aliquantò iis philosophiae momentis \nSuavissima possidenti, sed magis ardua investiganti se hic offert materia \nTractatus. Positivo-Scholasticus. De Fide, Spe, et Charitate. A Gratia velut matre ad virtutes tanquam filias cum S. Doctore progredimur",
+    "explicits": "",
+    "notes": "Ein Vermerk einer anderen Hand datiert eine Verwendung in den Kollegien auf den 11. Februar 1752.",
+    "physical": "Papier \n352 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

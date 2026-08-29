@@ -1,0 +1,235 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-21",
+  "signature": "MN I 21",
+  "aliases": [
+    "Bibl. Cod. MN I 21",
+    "Zweiter Theil des Geistlichen Kampfes"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "278",
+  "heading": {
+    "title": "Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli)",
+    "titleTypeRaw": "supplied_with_original_wording",
+    "titleTypeLabel": "supplied with original wording",
+    "date": "nicht vor 1822"
+  },
+  "date": {
+    "display": "nicht vor 1822",
+    "intervals": [
+      {
+        "from": 1822,
+        "to": 1822,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli)",
+    "titleTypeRaw": "supplied_with_original_wording",
+    "titleTypeLabel": "supplied with original wording",
+    "translation": "",
+    "summary": "",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Vorrede des gottseligen Verfassers",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 2",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-2",
+      "label": "2",
+      "type": "",
+      "title": {
+        "text": "Zusätze zum geistlichen Kampfe",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 3–37",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-3",
+      "label": "3",
+      "type": "",
+      "title": {
+        "text": "Vom innerlichen Frieden oder der Weg zum Himmel",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 38–61",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-4",
+      "label": "4",
+      "type": "",
+      "title": {
+        "text": "Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 62–109",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-5",
+      "label": "5",
+      "type": "",
+      "title": {
+        "text": "Verzeichniß",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 109–113",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Register der einzelnen Kapitel dieses Codex."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Laurentius Scupuli",
+      "roleRaw": "original_author",
+      "roleLabel": "original author",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "translator",
+      "roleLabel": "Übersetzer",
+      "scope": "contents"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "114 Seiten",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nicht vor 1822",
+        "intervals": [
+          {
+            "from": 1822,
+            "to": 1822,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [
+    "Für Verfasser, Übersetzer und Entstehungszeit verweist der Katalog ausdrücklich auf MN I 20."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 114 Seiten; blaugrauer Pappeinband; geschrieben nicht vor 1822.\n\n**Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli; siehe den vorhergehenden Codex!)**\n\na) Vorrede des gottseligen Verfassers: S. 2\n\nb) Zusätze zum geistlichen Kampfe: S. 3–37\n\nc) Vom innerlichen Frieden oder der Weg zum Himmel: S. 38–61\n\nd) Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten: S. 62–109\n\ne) Verzeichniß (das heißt: Register der einzelnen Kapitel dieses Codex): S. 109–113.\n\nÜber den Verfasser, den Übersetzer und die Entstehungszeit unseres Codex siehe, was wir auf der vorhergehenden Seite zu Codex MN I 20 gesagt haben.",
+    "germanHtml": "<p>Großquartformat; 114 Seiten; blaugrauer Pappeinband; geschrieben nicht vor 1822.</p>\n<p><strong>Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli; siehe den vorhergehenden Codex!)</strong></p>\n<p>a) Vorrede des gottseligen Verfassers: S. 2</p>\n<p>b) Zusätze zum geistlichen Kampfe: S. 3–37</p>\n<p>c) Vom innerlichen Frieden oder der Weg zum Himmel: S. 38–61</p>\n<p>d) Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten: S. 62–109</p>\n<p>e) Verzeichniß (das heißt: Register der einzelnen Kapitel dieses Codex): S. 109–113.</p>\n<p>Über den Verfasser, den Übersetzer und die Entstehungszeit unseres Codex siehe, was wir auf der vorhergehenden Seite zu Codex MN I 20 gesagt haben.</p>",
+    "latin": "4° mai.; 114 pagg.; teg. chartaceum caesium; script. non ante 1822\n\n**Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli; vide codicem praecedentem!)**\n\na) Vorrede des gottseligen Verfassers: p. 2\n\nb) Zusätze zum geistlichen Kampfe: p. 3–37\n\nc) Vom innerlichen Frieden oder der Weg zum Himmel: p. 38–61\n\nd) Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten: p. 62–109\n\ne) Verzeichniß (id est index singulorum capitum huius codicis): p. 109–113.\n\nDe auctore, translatore, tempore, quo ortus sit codex noster, vide, quae pagina praecedente ad codicem MN I 20 diximus.",
+    "latinHtml": "<p>4° mai.; 114 pagg.; teg. chartaceum caesium; script. non ante 1822</p>\n<p><strong>Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli; vide codicem praecedentem!)</strong></p>\n<p>a) Vorrede des gottseligen Verfassers: p. 2</p>\n<p>b) Zusätze zum geistlichen Kampfe: p. 3–37</p>\n<p>c) Vom innerlichen Frieden oder der Weg zum Himmel: p. 38–61</p>\n<p>d) Von der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten: p. 62–109</p>\n<p>e) Verzeichniß (id est index singulorum capitum huius codicis): p. 109–113.</p>\n<p>De auctore, translatore, tempore, quo ortus sit codex noster, vide, quae pagina praecedente ad codicem MN I 20 diximus.</p>"
+  },
+  "source": {
+    "file": "MN I 21.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-21/",
+  "relations": [
+    {
+      "typeRaw": "continuation_of",
+      "typeLabel": "Fortsetzung von",
+      "targetRaw": "[[MN I 20]]",
+      "targetId": "mn-i-20",
+      "targetSignature": "MN I 20",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN I 21",
+    "titles": "Zweiter Theil (des Geistlichen Kampfes von Laurentius Scupuli) \nVorrede des gottseligen Verfassers \nZusätze zum geistlichen Kampfe \nVom innerlichen Frieden oder der Weg zum Himmel \nVon der Weise Kranke zu trösten und sie zu einem seligen Tode vorzubereiten \nVerzeichniß",
+    "persons": "Laurentius Scupuli original author original_author \nunbekannt Übersetzer translator",
+    "incipits": "",
+    "explicits": "",
+    "notes": "de \nRegister der einzelnen Kapitel dieses Codex. \nFür Verfasser, Übersetzer und Entstehungszeit verweist der Katalog ausdrücklich auf MN I 20.",
+    "physical": "Papier \n114 Seiten \nGroßquart \ndescription: Blaugrauer Pappeinband."
+  }
+}

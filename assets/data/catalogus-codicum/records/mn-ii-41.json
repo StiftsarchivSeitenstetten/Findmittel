@@ -1,0 +1,150 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-41",
+  "signature": "MN II 41",
+  "aliases": [
+    "Bibl. Cod. MN II 41",
+    "Logica MS. 1640"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "26",
+  "heading": {
+    "title": "Zweiter Teil von Logikvorlesungen",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1648"
+  },
+  "date": {
+    "display": "1648",
+    "intervals": [
+      {
+        "from": 1648,
+        "to": 1648,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "Zweiter Teil von Logikvorlesungen; der Anfang fehlt.",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Zweiter Teil von Logikvorlesungen",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Beginnt mitten in Art. IV der 8. Disputation."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 141 Blätter",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Pergamentumschlag aus einem handschriftlich beschriebenen Blatt des 15. Jahrhunderts mit dem Ende eines Ordo Missae.",
+      "certainty": "",
+      "note": "Der Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1648",
+        "intervals": [
+          {
+            "from": 1648,
+            "to": 1648,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 141 Blätter; eingeschlagen in ein Pergamentblatt, das das Ende eines im 15. Jahrhundert handschriftlich geschriebenen Ordo Missae enthält; geschrieben 1648.\n\n**Rückenaufschrift:** Logica MS. 1640; die Jahreszahl ist jedoch ein Fehler, denn der Schlussvermerk auf Bl. 135v lautet: **Anno 1648 Quinta Septembris** = „Im Jahr 1648, am 5. September“.\n\nDieser Codex scheint den zweiten Teil von Logikvorlesungen zu enthalten; er beginnt nämlich mitten im Artikel IV der achten Disputation.\n\nSchreiber und Verfasser sind unbekannt.",
+    "germanHtml": "<p>III + 141 Blätter; eingeschlagen in ein Pergamentblatt, das das Ende eines im 15. Jahrhundert handschriftlich geschriebenen Ordo Missae enthält; geschrieben 1648.</p>\n<p><strong>Rückenaufschrift:</strong> Logica MS. 1640; die Jahreszahl ist jedoch ein Fehler, denn der Schlussvermerk auf Bl. 135v lautet: <strong>Anno 1648 Quinta Septembris</strong> = „Im Jahr 1648, am 5. September“.</p>\n<p>Dieser Codex scheint den zweiten Teil von Logikvorlesungen zu enthalten; er beginnt nämlich mitten im Artikel IV der achten Disputation.</p>\n<p>Schreiber und Verfasser sind unbekannt.</p>",
+    "latin": "III + 141 foll., inclusa folio membranaceo finem Ordinis Missae saec. XV. manu scriptum continente; script. 1648\n\nInscriptio in dorso: Logica MS. 1640, sed numerus anni mendum est, nam clausula fol. 135v. ita exhibet: Anno 1648 Quinta Septembris. Videtur hic codex partem alteram lectionum logicarum continere; incipit enim medio in Articulo IV Disputationis octavae.\n\nScriptor et auctor ignoti.",
+    "latinHtml": "<p>III + 141 foll., inclusa folio membranaceo finem Ordinis Missae saec. XV. manu scriptum continente; script. 1648</p>\n<p>Inscriptio in dorso: Logica MS. 1640, sed numerus anni mendum est, nam clausula fol. 135v. ita exhibet: Anno 1648 Quinta Septembris. Videtur hic codex partem alteram lectionum logicarum continere; incipit enim medio in Articulo IV Disputationis octavae.</p>\n<p>Scriptor et auctor ignoti.</p>"
+  },
+  "source": {
+    "file": "MN II 41.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-41/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 41",
+    "titles": "Zweiter Teil von Logikvorlesungen \nZweiter Teil von Logikvorlesungen",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Zweiter Teil von Logikvorlesungen; der Anfang fehlt. \nBeginnt mitten in Art. IV der 8. Disputation.",
+    "physical": "Papier \nIII + 141 Blätter \nQuartformat \nDer Einband bzw. Umschlag verwendet mittelalterliches Pergamentmakulaturmaterial."
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "schemaVersion": 1,
+  "id": "l-i-1",
+  "signature": "L I. 1",
+  "aliases": [
+    "Bibl. Cod. L I. 1"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "264",
+  "heading": {
+    "title": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1785/1805"
+  },
+  "date": {
+    "display": "1785/1805",
+    "intervals": [
+      {
+        "from": 1785,
+        "to": 1805,
+        "source": "display_derived"
+      }
+    ],
+    "normalization": "display_derived",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–484",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Rudolphus Kapeller",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "possible",
+      "note": "Alternative Zuschreibung zu P. Wolfgangus Mitter."
+    },
+    {
+      "name": "P. Wolfgangus Mitter",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "possible",
+      "note": "Alternative Zuschreibung zu P. Rudolphus Kapeller."
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "484 pagg.",
+    "format": "Folioformat",
+    "binding": {
+      "code": "b1",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1785/1805",
+        "intervals": [
+          {
+            "from": 1785,
+            "to": 1805,
+            "source": "display_derived"
+          }
+        ],
+        "normalization": "display_derived",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 484 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1785/1805.\n\n**Katalog der Handschriften der Bibliothek Seitenstetten, Band I.**",
+    "germanHtml": "<p>Folioformat; 484 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1785/1805.</p>\n<p><strong>Katalog der Handschriften der Bibliothek Seitenstetten, Band I.</strong></p>",
+    "latin": "fol.; 484 pagg.; teg. b1 cum dorso albo; script. 1785/1805  \n**Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.**",
+    "latinHtml": "<p>fol.; 484 pagg.; teg. b1 cum dorso albo; script. 1785/1805 <strong>Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.</strong></p>"
+  },
+  "source": {
+    "file": "L I. 1.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/l-i-1/",
+  "relations": [],
+  "search": {
+    "signature": "L I. 1",
+    "titles": "Codicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I. \nCodicum Manuscriptorum Bibliothecae Seitenstettensis Tomus I.",
+    "persons": "P. Rudolphus Kapeller Autor author \nP. Wolfgangus Mitter Autor author \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n484 pagg. \nFolioformat \ncode: b1; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

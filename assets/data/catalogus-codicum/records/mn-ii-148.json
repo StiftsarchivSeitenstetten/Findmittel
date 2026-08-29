@@ -1,0 +1,251 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-148",
+  "signature": "MN II 148",
+  "aliases": [
+    "Bibl. Cod. MN II 148"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "108–109",
+  "heading": {
+    "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1686/87"
+  },
+  "date": {
+    "display": "1686/87",
+    "intervals": [
+      {
+        "from": 1686,
+        "to": 1687,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Disputatio Prima De Virtute et obiecto Justitiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1v–97v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-04-14"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Disputatio Secunda De Restitutione In Genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 98r–144v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-06-11"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Disputatio Tertia De Iniuriis et Restitutione in specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 145r–220r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "end_date",
+          "display": "1687-08-27"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 221v–232v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Paulus Mezger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Peter, Salzburg"
+    },
+    {
+      "name": "Fr. Marcus Starnisi",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "III + 232 foll.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1686/87",
+        "intervals": [
+          {
+            "from": 1686,
+            "to": 1687,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "historical_note",
+      "context": "Schlussvermerk der ersten Disputation",
+      "date_display": "11. (?) April 1687",
+      "subject": "Tod des Abtes Ambrosius von Seitenstetten",
+      "certainty": "uncertain"
+    },
+    {
+      "type": "historical_note",
+      "context": "Schlussvermerk der zweiten Disputation",
+      "date": "1687-06-11",
+      "subject": "Infulierung des Abtes Benedictus Abelzheuser",
+      "note": "Infulierung durch Bischof Stainer."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "III + 232 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.\n\n**Abhandlung zur Secunda Secundae des hl. Thomas über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen**, vorgetragen von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und erster ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, damals sein Schüler, im Jahr 1687.\n\nAnfang der Vorrede fol. 1r: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.... Randnotiz: **Begonnen am 6. (?) November 1686.**\n\na) **Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:** fol. 1v–97v. Schluss: **Beendet am 14. April 1687, in dem Jahr, in welchem unser Abt Ambrosius von Seitenstetten am 11. (?) April fromm in Christus verschied.** (Chronogramm auf 1687.)\n\nb) **Zweite Disputation über die Restitution im Allgemeinen:** fol. 98r–144v. Schluss: **Beendet am 11. Juni 1687. Heute wurde unser hochwürdigster Benedictus Abelzhauser vom hochwürdigsten Bischof Stainer infuliert.**\n\nc) **Dritte Disputation über Unrecht und Restitution im Einzelnen:** fol. 145r–220r. Schluss: **27. August 1687.**\n\nd) **Register zur Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge:** fol. 221v–232v. Nach den beigefügten Nummern enthält der Codex etwa 150 Vorlesungen.\n\nDieselbe Abhandlung enthalten MN II 159 und MN II 162. Fr. Marcus Starnisi schrieb auch die beiden vorhergehenden und die sechs folgenden Codices.",
+    "germanHtml": "<p>III + 232 Blätter; weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1686/87.</p>\n<p><strong>Abhandlung zur Secunda Secundae des hl. Thomas über Recht und Gerechtigkeit, Restitution und Verträge im Allgemeinen und im Einzelnen</strong>, vorgetragen von P. Paulus Mezger, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und erster ordentlicher Professor; aufgezeichnet von Fr. Marcus Starnisi, Benediktiner und Profess von Seitenstetten, damals sein Schüler, im Jahr 1687.</p>\n<p>Anfang der Vorrede fol. 1r: Von den theologischen Tugenden schreitet der heilige Lehrer zu den Kardinaltugenden fort.... Randnotiz: <strong>Begonnen am 6. (?) November 1686.</strong></p>\n<p>a) <strong>Erste Disputation über Tugend und Gegenstand der Gerechtigkeit:</strong> fol. 1v–97v. Schluss: <strong>Beendet am 14. April 1687, in dem Jahr, in welchem unser Abt Ambrosius von Seitenstetten am 11. (?) April fromm in Christus verschied.</strong> (Chronogramm auf 1687.)</p>\n<p>b) <strong>Zweite Disputation über die Restitution im Allgemeinen:</strong> fol. 98r–144v. Schluss: <strong>Beendet am 11. Juni 1687. Heute wurde unser hochwürdigster Benedictus Abelzhauser vom hochwürdigsten Bischof Stainer infuliert.</strong></p>\n<p>c) <strong>Dritte Disputation über Unrecht und Restitution im Einzelnen:</strong> fol. 145r–220r. Schluss: <strong>27. August 1687.</strong></p>\n<p>d) <strong>Register zur Abhandlung über Recht und Gerechtigkeit, Restitution und Verträge:</strong> fol. 221v–232v. Nach den beigefügten Nummern enthält der Codex etwa 150 Vorlesungen.</p>\n<p>Dieselbe Abhandlung enthalten MN II 159 und MN II 162. Fr. Marcus Starnisi schrieb auch die beiden vorhergehenden und die sechs folgenden Codices.</p>",
+    "latin": "III + 232 foll.; teg. a2; script. 1686/87\n\nTractatus In Secundam Secundae Divi Thomae partem De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie. Traditus A Plurimum Reverendo....P. Paulo Mezger, Ordinis S. P. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo Sacrosanctae Theologiae Doctore, et Professore eiusdem Ordinario, et Primario. Calamô vero exceptus A Religioso F. Marco Starnisi eiusdem Ordinis Professo, in Celeberrimo Inferioris Austriae Monasterio Seittenstettensi, eius pro tempore indignissimo Discipulo. Anno Domini M. D.C. LXXXVII. Initium (Prooemii) Tractatus De Jure et Justitia: fol. 1r: A Theologicis ad virtutes Cardinales progreditur S. Doctor.... Nota in margine inferiore: Inceptus 6. (?) Novembris 1686.\n\na) Disputatio Prima De Virtute et obiecto Justitiae: fol. 1v–97v. Clausula: Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687)\n\nb) Disputatio Secunda De Restitutione In Genere: fol. 98r–144v. Clausula: Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer.\n\nc) Disputatio Tertia. De Iniuriis et Restitutione in specie: fol. 145r–220r. Clausula: Die. 27. Augusti Anno 1687.\n\nd) Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie: fol. 221v–232v. (Juxta numeros appositos codex continet circ. 150 lect.)\n\nEundem tractatum exhibent etiam codices MN II 159 et 162 (vide inferius!) F. Marcus Starnisi scripsit etiam duos codices praecedentes et sex sequentes.\n\n### Arch. Cod. 34–11 (XVIII 3 h)\n\n4°. VI + 236 foll.; teg. a2; script. 1686/87\n\nTractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).\n\n\n\n\nInitium p. IX (= fol. Vr): Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus..... Clausula fol. 231v: Lectio 140 Die 2. Septembris 1687.\n\nEundem tractatum reperies in codicibus MN II 160 et 162 (Vide inferius!) F. Marcus Starnisi scripsit etiam tres codices praecedentes et quinque sequentes.",
+    "latinHtml": "<p>III + 232 foll.; teg. a2; script. 1686/87</p>\n<p>Tractatus In Secundam Secundae Divi Thomae partem De Jure, et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie. Traditus A Plurimum Reverendo....P. Paulo Mezger, Ordinis S. P. Benedicti in Celeberrimo et Antiquissimo Monasterio ad S. Petrum Salisburgi Professo Sacrosanctae Theologiae Doctore, et Professore eiusdem Ordinario, et Primario. Calamô vero exceptus A Religioso F. Marco Starnisi eiusdem Ordinis Professo, in Celeberrimo Inferioris Austriae Monasterio Seittenstettensi, eius pro tempore indignissimo Discipulo. Anno Domini M. D.C. LXXXVII. Initium (Prooemii) Tractatus De Jure et Justitia: fol. 1r: A Theologicis ad virtutes Cardinales progreditur S. Doctor.... Nota in margine inferiore: Inceptus 6. (?) Novembris 1686.</p>\n<p>a) Disputatio Prima De Virtute et obiecto Justitiae: fol. 1v–97v. Clausula: Absolvimus hanc disputationem 14. Aprilis 1687. Anno qVo AMbrosIVs Abbas SeIttenstettensIs In ChrIsto XIe X. AprILIs pIè InterIVIt. (Chronogramma ad annum 1687)</p>\n<p>b) Disputatio Secunda De Restitutione In Genere: fol. 98r–144v. Clausula: Absolvimus hanc disputationem Die 11. Junii 1687. Hoc die Reverendissimus noster Benedictus Abelzheuser infulatus est à Celsissimo Episcopo Stainer.</p>\n<p>c) Disputatio Tertia. De Iniuriis et Restitutione in specie: fol. 145r–220r. Clausula: Die. 27. Augusti Anno 1687.</p>\n<p>d) Index super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie: fol. 221v–232v. (Juxta numeros appositos codex continet circ. 150 lect.)</p>\n<p>Eundem tractatum exhibent etiam codices MN II 159 et 162 (vide inferius!) F. Marcus Starnisi scripsit etiam duos codices praecedentes et sex sequentes.</p>\n<h4>Arch. Cod. 34–11 (XVIII 3 h)</h4>\n<p>4°. VI + 236 foll.; teg. a2; script. 1686/87</p>\n<p>Tractatus in primam Divi Thomae partem De Deo Uno et Trino Traditus â....P. Mauro Liechtenhaimb Ordinis S. P. Benedicti Liberi et Exempti Monasterii ad S. Lambertum in Styriâ Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Calamo vero exceptus A Religioso F. Marco Starnisi, eiusdem Ordinis Professo in Celeberrimo Monasterio Seittenstettensi In Inferiori Austriâ. Anno Domini MDCLXXXVII (1687).</p>\n<p>Initium p. IX (= fol. Vr): Prooemium. Arduam rem aggredimur, dum Deum speculari cogitamus..... Clausula fol. 231v: Lectio 140 Die 2. Septembris 1687.</p>\n<p>Eundem tractatum reperies in codicibus MN II 160 et 162 (Vide inferius!) F. Marcus Starnisi scripsit etiam tres codices praecedentes et quinque sequentes.</p>"
+  },
+  "source": {
+    "file": "MN II 148.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-148/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 159]]",
+      "targetId": "mn-ii-159",
+      "targetSignature": "MN II 159",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 162]]",
+      "targetId": "mn-ii-162",
+      "targetSignature": "MN II 162",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 148",
+    "titles": "Tractatus In Secundam Secundae Divi Thomae partem De Jure et Justitia. De Restitutione. Item De Contractibus tam in genere, quàm specie \nDisputatio Prima De Virtute et obiecto Justitiae \nDisputatio Secunda De Restitutione In Genere \nDisputatio Tertia De Iniuriis et Restitutione in specie \nIndex super Tractatum de Jure et Justitia. De Restitutione tam in genere quam specie. Item De Contractibus in genere et specie",
+    "persons": "P. Paulus Mezger Dozent lecturer \nFr. Marcus Starnisi Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \nIII + 232 foll. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

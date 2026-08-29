@@ -1,0 +1,205 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-294",
+  "signature": "MN II 294",
+  "aliases": [
+    "Bibl. Cod. MN II 294"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "240–241",
+  "heading": {
+    "title": "Reverendi P. Placidi Fixlmillner Comentarius In Corvini Ius Canonicum. Pars I",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "ca. 1760"
+  },
+  "date": {
+    "display": "ca. 1760",
+    "intervals": [
+      {
+        "from": 1760,
+        "to": 1760,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "probable",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Reverendi P. Placidi Fixlmillner Comentarius In Corvini Ius Canonicum. Pars I",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Liber I",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–234",
+      "language": "",
+      "incipit": {
+        "text": "Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus, Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Liber Secundus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 234–265",
+      "language": "",
+      "incipit": {
+        "text": "Ad Titulum XI De Matrimonio: Definiri melius solet matrimonium, quod sit coniunctio"
+      },
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Index Titulorum",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 267–268",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Placidus Fixlmillner",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Stift Kremsmünster / Ritterakademie Kremsmünster",
+      "certainty": "probable",
+      "note": "Die Rückenaufschrift schreibt ihm den Kommentar zu."
+    },
+    {
+      "name": "P. Bertholdus Stolz",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "possible"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "274 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c3d",
+      "description": "Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "ca. 1760",
+        "intervals": [
+          {
+            "from": 1760,
+            "to": 1760,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "probable",
+        "qualifier": "circa"
+      },
+      "place": "Kremsmünster",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_leaves",
+      "locus": "zwischen S. 76 und 77",
+      "description": "Zwei Blätter mit Ergänzungen."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "274 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1760.\n\nRückenaufschrift: **Kommentar des P. Placidus Fixlmillner aus Kremsmünster zum kanonischen Recht Corvins. Teil I.**\n\na) **Erstes Buch:** S. 1–234. Anfang: Zum ersten Titel über das kanonische oder päpstliche Recht, zweites Supplement, beziehungsweise zu Titel II, III und IV der Dekretalen über Konstitutionen, Reskripte und Gewohnheit. § 1: Zu einer sittlichen Handlung bestimmt uns mit Notwendigkeit alles, was als Ursache......\n\nb) **Zweites Buch:** S. 234–265. Anfang zu Titel XI **Über die Ehe:** Die Ehe wird besser gewöhnlich so definiert, dass sie eine Verbindung sei......\n\nc) **Titelregister:** S. 267–268. Schluss S. 265: **Ende des ersten Teils.**\n\nDen Schreiber kenne ich noch nicht sicher.\n\nP. Placidus Fixlmillner lehrte um 1760 an der Kremsmünsterer Ritterakademie kanonisches Recht, bevor er sich der Astronomie widmete. Daher ist wahrscheinlich, dass unser Codex ungefähr 1760 entstand.\n\nDerselbe Schreiber – vielleicht **P. Bertholdus Stolz**, der vor seinem Eintritt in Seitenstetten 1761 in Kremsmünster kanonisches Recht studiert haben könnte; die Schrift ist der seinen ähnlich – schrieb auch den folgenden Codex.\n\nZwischen S. 76 und 77 sind zwei Blätter mit Ergänzungen eingelegt.",
+    "germanHtml": "<p>274 Seiten; brauner Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben um 1760.</p>\n<p>Rückenaufschrift: <strong>Kommentar des P. Placidus Fixlmillner aus Kremsmünster zum kanonischen Recht Corvins. Teil I.</strong></p>\n<p>a) <strong>Erstes Buch:</strong> S. 1–234. Anfang: Zum ersten Titel über das kanonische oder päpstliche Recht, zweites Supplement, beziehungsweise zu Titel II, III und IV der Dekretalen über Konstitutionen, Reskripte und Gewohnheit. § 1: Zu einer sittlichen Handlung bestimmt uns mit Notwendigkeit alles, was als Ursache......</p>\n<p>b) <strong>Zweites Buch:</strong> S. 234–265. Anfang zu Titel XI <strong>Über die Ehe:</strong> Die Ehe wird besser gewöhnlich so definiert, dass sie eine Verbindung sei......</p>\n<p>c) <strong>Titelregister:</strong> S. 267–268. Schluss S. 265: <strong>Ende des ersten Teils.</strong></p>\n<p>Den Schreiber kenne ich noch nicht sicher.</p>\n<p>P. Placidus Fixlmillner lehrte um 1760 an der Kremsmünsterer Ritterakademie kanonisches Recht, bevor er sich der Astronomie widmete. Daher ist wahrscheinlich, dass unser Codex ungefähr 1760 entstand.</p>\n<p>Derselbe Schreiber – vielleicht <strong>P. Bertholdus Stolz</strong>, der vor seinem Eintritt in Seitenstetten 1761 in Kremsmünster kanonisches Recht studiert haben könnte; die Schrift ist der seinen ähnlich – schrieb auch den folgenden Codex.</p>\n<p>Zwischen S. 76 und 77 sind zwei Blätter mit Ergänzungen eingelegt.</p>",
+    "latin": "274 pagg.; teg. c3d; scriptus ca. 1760\n\n**Reverendi P. Placidi Fixlmillner (Cremifanensis) Comentarius In Corvini Ius Canonicum. Pars I.** (Inscriptio dorsi)\n\na) Liber I: p. 1–234. **Initium:** Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus, Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa......\n\nb) Liber Secundus: p. 234–265. **Initium Ad Titulum XI De Matrimonio:** Definiri melius solet matrimonium, quod sit coniunctio......\n\nc) Index Titulorum: p. 267–268. **Clausula p. 265:** Finis partis primae.\n\nScriptorem codicis nostri nondum certe novi.\n\nP. Placidus Fixlmillner circa annum 1760 in academia nobilium Cremifanensi ius canonicum tradidit, antequam astronomiae operam dedit. Qua de re codicem nostrum circa annum 1760 ortum esse, veri simile est.\n\nIdem scriptor (Numquid **P. Bertholdus Stolz**, antequam anno 1761 in monasterium Seitenstettense ingressus est, in monasterio Cremifanensi iuri canonico studuit? Scriptura enim illi similis est.) etiam codicem sequentem exaravit.\n\nInter paginas 76 et 77 inserta sunt duo folia additamenti.",
+    "latinHtml": "<p>274 pagg.; teg. c3d; scriptus ca. 1760</p>\n<p><strong>Reverendi P. Placidi Fixlmillner (Cremifanensis) Comentarius In Corvini Ius Canonicum. Pars I.</strong> (Inscriptio dorsi)</p>\n<p>a) Liber I: p. 1–234. <strong>Initium:</strong> Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus, Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa......</p>\n<p>b) Liber Secundus: p. 234–265. <strong>Initium Ad Titulum XI De Matrimonio:</strong> Definiri melius solet matrimonium, quod sit coniunctio......</p>\n<p>c) Index Titulorum: p. 267–268. <strong>Clausula p. 265:</strong> Finis partis primae.</p>\n<p>Scriptorem codicis nostri nondum certe novi.</p>\n<p>P. Placidus Fixlmillner circa annum 1760 in academia nobilium Cremifanensi ius canonicum tradidit, antequam astronomiae operam dedit. Qua de re codicem nostrum circa annum 1760 ortum esse, veri simile est.</p>\n<p>Idem scriptor (Numquid <strong>P. Bertholdus Stolz</strong>, antequam anno 1761 in monasterium Seitenstettense ingressus est, in monasterio Cremifanensi iuri canonico studuit? Scriptura enim illi similis est.) etiam codicem sequentem exaravit.</p>\n<p>Inter paginas 76 et 77 inserta sunt duo folia additamenti.</p>"
+  },
+  "source": {
+    "file": "MN II 294.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-294/",
+  "relations": [
+    {
+      "typeRaw": "continuation_by",
+      "typeLabel": "continuation by",
+      "targetRaw": "[[MN II 295]]",
+      "targetId": "mn-ii-295",
+      "targetSignature": "MN II 295",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 294",
+    "titles": "Reverendi P. Placidi Fixlmillner Comentarius In Corvini Ius Canonicum. Pars I \nLiber I \nLiber Secundus \nIndex Titulorum",
+    "persons": "P. Placidus Fixlmillner Autor author \nP. Bertholdus Stolz Schreiber scribe",
+    "incipits": "Ad Titulum I De iure canonico, seu Pontificio Suplementum alterum, Seu Ad titulum II. III. et IV Decretalium, De constitutionibus, Rescriptis, et Consuetudine: §. 1. Ad actionem morali cum necessitate nos determinat, quidquid in causa \nAd Titulum XI De Matrimonio: Definiri melius solet matrimonium, quod sit coniunctio",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n274 pagg. \ncode: c3d; description: Brauner Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

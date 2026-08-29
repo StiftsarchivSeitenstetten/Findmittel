@@ -1,0 +1,340 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-100",
+  "signature": "MN II 100",
+  "aliases": [
+    "Bibl. Cod. MN II 100",
+    "De Sacramentis et Praeceptis Decalogi et Ecclesiae"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "63",
+  "heading": {
+    "title": "Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1669"
+  },
+  "date": {
+    "display": "1669",
+    "intervals": [
+      {
+        "from": 1669,
+        "to": 1669,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1r–81r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Desiderius Schapperger",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-a"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Quaestio 66 De Pertinentibus ad Sacramentum baptismi",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 81v–100r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Desiderius Schapperger",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-b"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Quaestio 72 De Sacramento Confirmationis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 100r–102r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Desiderius Schapperger",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-c"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Quaestio 73 De Sacramento Eucharistiae Secundum Se",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 102v–164v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "P. Desiderius Schapperger",
+          "roleRaw": "lecturer",
+          "roleLabel": "Dozent",
+          "scope": "item",
+          "itemId": "item-d"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus Theologicus Moralis in Praecepta Decalogi et Ecclesiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 169r–272r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "verstümmelt"
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "unbekannt",
+          "roleRaw": "author_or_lecturer",
+          "roleLabel": "author or lecturer",
+          "scope": "item",
+          "itemId": "item-e"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Ambrosius Marholt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Desiderius Schapperger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-a"
+    },
+    {
+      "name": "P. Desiderius Schapperger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-b"
+    },
+    {
+      "name": "P. Desiderius Schapperger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-c"
+    },
+    {
+      "name": "P. Desiderius Schapperger",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "item",
+      "itemId": "item-d"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "item",
+      "itemId": "item-e"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "273 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1669",
+        "intervals": [
+          {
+            "from": 1669,
+            "to": 1669,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "273 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.\n\na) **Zweite Abhandlung zum dritten Teil des hl. Thomas über die Sakramente im Allgemeinen:** fol. 1r–81r. Anfang der Vorrede: **Nach der Betrachtung jener Dinge, sagt der engelgleiche Lehrer hier in der Vorrede......**\n\nb) **Frage 66 über das, was zum Sakrament der Taufe gehört:** fol. 81v–100r. Anfang fol. 81v: **Das Wort baptismus ist griechisch.....**\n\nc) **Frage 72 über das Sakrament der Firmung:** fol. 100r–102r. Anfang fol. 100v: **Nach Voraussetzung dessen, was bisher über die Taufe gesagt wurde......**\n\nd) **Frage 73 über das Sakrament der Eucharistie an sich** (und die weiteren Fragen über die Eucharistie): fol. 102v–164v. Anfang: **Das Wort Eucharistie ist griechisch und bedeutet im Lateinischen dasselbe.....**\n\ne) **Moraltheologische Abhandlung über die Gebote des Dekalogs und der Kirche:** fol. 169r–272r. Anfang: **Ich will mich nicht lange mit Lob und Preis der Moraltheologie aufhalten......**\n\nAus dem Schriftcharakter geht hervor, dass **Fr. Ambrosius Marholt** den gesamten Codex geschrieben hat. Zu ihm als Schreiber siehe oben bei Codex MN II 98.\n\nDie Teile a–d sind auch in den Codices MN II 104 und MN II 113 enthalten. Aus Codex MN II 104 erfahren wir daher, dass **P. Desiderius Schapperger**, Mönch des Klosters Seeon, diese Teile im Jahr 1669 vorgetragen hat.\n\nDen Verfasser von Teil e kennen wir dagegen nicht, obwohl diesen Teil auch Codex MN II 95b (siehe oben S. 61) und Codex MN II 110 enthalten, dort jeweils vollständig, während unser Codex diese letzte Abhandlung verstümmelt überliefert. Codex MN II 110 zeigt außerdem, dass diese Vorlesungen im Jahr 1669 gehalten wurden.",
+    "germanHtml": "<p>273 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.</p>\n<p>a) <strong>Zweite Abhandlung zum dritten Teil des hl. Thomas über die Sakramente im Allgemeinen:</strong> fol. 1r–81r. Anfang der Vorrede: <strong>Nach der Betrachtung jener Dinge, sagt der engelgleiche Lehrer hier in der Vorrede......</strong></p>\n<p>b) <strong>Frage 66 über das, was zum Sakrament der Taufe gehört:</strong> fol. 81v–100r. Anfang fol. 81v: <strong>Das Wort baptismus ist griechisch.....</strong></p>\n<p>c) <strong>Frage 72 über das Sakrament der Firmung:</strong> fol. 100r–102r. Anfang fol. 100v: <strong>Nach Voraussetzung dessen, was bisher über die Taufe gesagt wurde......</strong></p>\n<p>d) <strong>Frage 73 über das Sakrament der Eucharistie an sich</strong> (und die weiteren Fragen über die Eucharistie): fol. 102v–164v. Anfang: <strong>Das Wort Eucharistie ist griechisch und bedeutet im Lateinischen dasselbe.....</strong></p>\n<p>e) <strong>Moraltheologische Abhandlung über die Gebote des Dekalogs und der Kirche:</strong> fol. 169r–272r. Anfang: <strong>Ich will mich nicht lange mit Lob und Preis der Moraltheologie aufhalten......</strong></p>\n<p>Aus dem Schriftcharakter geht hervor, dass <strong>Fr. Ambrosius Marholt</strong> den gesamten Codex geschrieben hat. Zu ihm als Schreiber siehe oben bei Codex MN II 98.</p>\n<p>Die Teile a–d sind auch in den Codices MN II 104 und MN II 113 enthalten. Aus Codex MN II 104 erfahren wir daher, dass <strong>P. Desiderius Schapperger</strong>, Mönch des Klosters Seeon, diese Teile im Jahr 1669 vorgetragen hat.</p>\n<p>Den Verfasser von Teil e kennen wir dagegen nicht, obwohl diesen Teil auch Codex MN II 95b (siehe oben S. 61) und Codex MN II 110 enthalten, dort jeweils vollständig, während unser Codex diese letzte Abhandlung verstümmelt überliefert. Codex MN II 110 zeigt außerdem, dass diese Vorlesungen im Jahr 1669 gehalten wurden.</p>",
+    "latin": "273 foll.; teg. a2 (ut in codice MN II 98); script. 1669\n\na) Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere: fol. 1r–81r. _Initium_ Prooemii: Post considerationem eorum inquit Angelicus Doctor hic in proemio......\n\nb) Quaestio 66 De Pertinentibus ad Sacramentum baptismi: fol. 81v–100r. _Initium_ fol. 81v: Nomen baptismus graecum est.....\n\nc) Quaestio 72 De Sacramento Confirmationis: fol. 100r–102r. _Initium_ fol. 100v: Suppositis iis quae huc usque de baptismo......\n\nd) Quaestio 73 De Sacramento Eucharistiae Secundum Se (et ceterae quaestiones de Eucharistia): fol. 102v–164v. _Initium_: Eucharistiae nomen Graecum est et latinis idem significat.....\n\ne) Tractatus Theologicus Moralis in Praecepta Decalogi et Ecclesiae: fol. 169r–272r. _Initium_: Non excurro multum in laudes et praeconia moralis Theologiae......\n\nE charactere scripturae apparet **Fr. Ambrosium Marholt** totum codicem scripsisse. (De quo scribente supra ad cod. MN II 98!)\n\nPartes a–d continent etiam codices MN II 104 et 113. Itaque ex codice MN II 104 comperimus **P. Desiderium Schapperger** monachum monasterii Seeon has partes tradidisse anno 1669.\n\nAuctorem vero partis e nescimus, quamquam hanc partem etiam cod. MN II 95b (vide supra p. 61!) et cod. MN II 110 continent, iique completam, cum codex noster hunc ultimum tractatum mutilum exhibeat. Cod. MN II 110 insuper ostendit has lectiones anno 1669 traditas esse.",
+    "latinHtml": "<p>273 foll.; teg. a2 (ut in codice MN II 98); script. 1669</p>\n<p>a) Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere: fol. 1r–81r. _Initium_ Prooemii: Post considerationem eorum inquit Angelicus Doctor hic in proemio......</p>\n<p>b) Quaestio 66 De Pertinentibus ad Sacramentum baptismi: fol. 81v–100r. _Initium_ fol. 81v: Nomen baptismus graecum est.....</p>\n<p>c) Quaestio 72 De Sacramento Confirmationis: fol. 100r–102r. _Initium_ fol. 100v: Suppositis iis quae huc usque de baptismo......</p>\n<p>d) Quaestio 73 De Sacramento Eucharistiae Secundum Se (et ceterae quaestiones de Eucharistia): fol. 102v–164v. _Initium_: Eucharistiae nomen Graecum est et latinis idem significat.....</p>\n<p>e) Tractatus Theologicus Moralis in Praecepta Decalogi et Ecclesiae: fol. 169r–272r. _Initium_: Non excurro multum in laudes et praeconia moralis Theologiae......</p>\n<p>E charactere scripturae apparet <strong>Fr. Ambrosium Marholt</strong> totum codicem scripsisse. (De quo scribente supra ad cod. MN II 98!)</p>\n<p>Partes a–d continent etiam codices MN II 104 et 113. Itaque ex codice MN II 104 comperimus <strong>P. Desiderium Schapperger</strong> monachum monasterii Seeon has partes tradidisse anno 1669.</p>\n<p>Auctorem vero partis e nescimus, quamquam hanc partem etiam cod. MN II 95b (vide supra p. 61!) et cod. MN II 110 continent, iique completam, cum codex noster hunc ultimum tractatum mutilum exhibeat. Cod. MN II 110 insuper ostendit has lectiones anno 1669 traditas esse.</p>"
+  },
+  "source": {
+    "file": "MN II 100.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-100/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 104]]",
+      "targetId": "mn-ii-104",
+      "targetSignature": "MN II 104",
+      "appliesTo": [
+        "Teile a–d"
+      ],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 113]]",
+      "targetId": "mn-ii-113",
+      "targetSignature": "MN II 113",
+      "appliesTo": [
+        "Teile a–d"
+      ],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 95]]",
+      "targetId": "mn-ii-95",
+      "targetSignature": "MN II 95",
+      "appliesTo": [
+        "Teil e"
+      ],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 110]]",
+      "targetId": "mn-ii-110",
+      "targetSignature": "MN II 110",
+      "appliesTo": [
+        "Teil e"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 100",
+    "titles": "Tractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere \nTractatus Secundus in tertiam partem Divi Thomae De Sacramentis in Genere \nQuaestio 66 De Pertinentibus ad Sacramentum baptismi \nQuaestio 72 De Sacramento Confirmationis \nQuaestio 73 De Sacramento Eucharistiae Secundum Se \nTractatus Theologicus Moralis in Praecepta Decalogi et Ecclesiae",
+    "persons": "Fr. Ambrosius Marholt Schreiber scribe \nP. Desiderius Schapperger Dozent lecturer \nP. Desiderius Schapperger Dozent lecturer \nP. Desiderius Schapperger Dozent lecturer \nP. Desiderius Schapperger Dozent lecturer \nunbekannt author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "verstümmelt",
+    "physical": "Papier \n273 Blätter \ncode: a2; description: Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

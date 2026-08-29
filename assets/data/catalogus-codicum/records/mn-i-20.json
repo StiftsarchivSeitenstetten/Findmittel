@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-20",
+  "signature": "MN I 20",
+  "aliases": [
+    "Bibl. Cod. MN I 20",
+    "Der geistliche Kampf"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "277",
+  "heading": {
+    "title": "Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "nicht vor 1822"
+  },
+  "date": {
+    "display": "nicht vor 1822",
+    "intervals": [
+      {
+        "from": 1822,
+        "to": 1822,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "Deutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt.",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "",
+      "type": "",
+      "title": {
+        "text": "Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "summary",
+          "text": "Deutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt."
+        }
+      ],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Laurentius Scupuli",
+          "roleRaw": "original_author",
+          "roleLabel": "original author",
+          "scope": "item",
+          "itemId": "item-1"
+        },
+        {
+          "name": "unbekannt",
+          "roleRaw": "translator",
+          "roleLabel": "Übersetzer",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Laurentius Scupuli",
+      "roleRaw": "original_author",
+      "roleLabel": "original author",
+      "scope": "manuscript",
+      "affiliation": "Theatinerorden"
+    },
+    {
+      "name": "Joseph Elias Thill",
+      "roleRaw": "subject of inserted printed booklet",
+      "roleLabel": "subject of inserted printed booklet",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Franz I.",
+      "roleRaw": "referenced ruler",
+      "roleLabel": "referenced ruler",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Laurentius Scupuli",
+      "roleRaw": "original_author",
+      "roleLabel": "original author",
+      "scope": "contents"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "translator",
+      "roleLabel": "Übersetzer",
+      "scope": "contents"
+    },
+    {
+      "name": "Laurentius Scupuli",
+      "roleRaw": "original_author",
+      "roleLabel": "original author",
+      "scope": "item",
+      "itemId": "item-1"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "translator",
+      "roleLabel": "Übersetzer",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "154 Seiten",
+    "format": "Großquart",
+    "binding": {
+      "code": "",
+      "description": "Blaugrauer Pappeinband.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nicht vor 1822",
+        "intervals": [
+          {
+            "from": 1822,
+            "to": 1822,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": "Der Katalogbearbeiter lässt offen, ob es sich um die Handschrift des Übersetzers selbst oder um eine Abschrift eines gedruckten Buches handelt."
+    },
+    "provenance": [],
+    "notes": [
+      {
+        "type": "use",
+        "value": [
+          {
+            "date": {
+              "display": "wohl nicht lange nach 1835",
+              "not_before": 1835
+            },
+            "certainty": "inferred",
+            "evidence": "Ein wohl kurz nach 1835 in St. Pölten gedrucktes vierblättriges Büchlein wurde in den Codex eingelegt."
+          }
+        ]
+      }
+    ]
+  },
+  "additions": [
+    {
+      "type": "printed_insertion",
+      "extent": "4 Blätter",
+      "print_place": "St. Pölten",
+      "date": {
+        "display": "wohl kurz nach 1835",
+        "not_before": 1835,
+        "certainty": "inferred"
+      },
+      "contents": [
+        "Joseph Elias Thill, Pfarrer zu Scheibbs † den 28. November 1813.",
+        "Als der nun verewigte Landesvater das Aufgeboth ergehen ließ, war Elias es wieder, der seine Pfarrkinder in einer Rede voll Vaterlandsliebe zur Vertheidigung ihres Kaisers aufforderte."
+      ]
+    }
+  ],
+  "editorialNotes": [
+    "Der Übersetzer ist unbekannt.",
+    "Der eingelegte Druck dient dem Katalogbearbeiter als Hinweis darauf, dass der Codex wohl nicht lange nach 1835 bereits in Gebrauch war."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Großquartformat; 154 Seiten; blaugrauer Pappeinband; nicht vor 1822.\n\n**Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.**\n\nDer Verfasser dieses italienischen Werkes wurde 1530 geboren und starb 1610. Der Übersetzer dieses sehr berühmten Werkes ist unbekannt. Da er jedoch die Vorrede seiner Übersetzung mit den Worten **Wien im Brachmonat 1822. Der Herausgeber** beendet, steht fest, dass unser Codex nicht vor 1822 geschrieben wurde, sei er nun von der Hand des Übersetzers selbst geschrieben oder aus einem gedruckten Buch abgeschrieben.\n\nAußerdem fand sich in unserem Codex ein vierblättriges Büchlein, das in St. Pölten gedruckt wurde, offenbar wenig nach dem Jahr 1835. (**Joseph Elias Thill, Pfarrer zu Scheibbs † den 28. November 1813.** Siehe S. 4 dieses Büchleins: **Als der nun verewigte Landesvater das Aufgeboth ergehen ließ, war Elias es wieder, der seine Pfarrkinder in einer Rede voll Vaterlandsliebe zur Vertheidigung ihres Kaisers aufforderte.** Der hier eben erst verstorbene Kaiser ist ohne Zweifel Franz I., der 1835 starb.) Wenn dieses Büchlein nicht lange nach seinem Erscheinen in unseren Codex eingelegt wurde, zeigt dies, dass unser Codex nicht lange nach 1835 bereits in Gebrauch war.\n\nDen zweiten Teil dieses Werkes enthält der folgende Codex.",
+    "germanHtml": "<p>Großquartformat; 154 Seiten; blaugrauer Pappeinband; nicht vor 1822.</p>\n<p><strong>Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.</strong></p>\n<p>Der Verfasser dieses italienischen Werkes wurde 1530 geboren und starb 1610. Der Übersetzer dieses sehr berühmten Werkes ist unbekannt. Da er jedoch die Vorrede seiner Übersetzung mit den Worten <strong>Wien im Brachmonat 1822. Der Herausgeber</strong> beendet, steht fest, dass unser Codex nicht vor 1822 geschrieben wurde, sei er nun von der Hand des Übersetzers selbst geschrieben oder aus einem gedruckten Buch abgeschrieben.</p>\n<p>Außerdem fand sich in unserem Codex ein vierblättriges Büchlein, das in St. Pölten gedruckt wurde, offenbar wenig nach dem Jahr 1835. (<strong>Joseph Elias Thill, Pfarrer zu Scheibbs † den 28. November 1813.</strong> Siehe S. 4 dieses Büchleins: <strong>Als der nun verewigte Landesvater das Aufgeboth ergehen ließ, war Elias es wieder, der seine Pfarrkinder in einer Rede voll Vaterlandsliebe zur Vertheidigung ihres Kaisers aufforderte.</strong> Der hier eben erst verstorbene Kaiser ist ohne Zweifel Franz I., der 1835 starb.) Wenn dieses Büchlein nicht lange nach seinem Erscheinen in unseren Codex eingelegt wurde, zeigt dies, dass unser Codex nicht lange nach 1835 bereits in Gebrauch war.</p>\n<p>Den zweiten Teil dieses Werkes enthält der folgende Codex.</p>",
+    "latin": "4° mai.; 154 pagg.; tegumentum chartaceum caesium; non ante 1822\n\n**Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.**\n\nAuctor huius operis Italiani natus est 1530, mortuus 1610. Translator autem huius operis celeberrimi ignotus est. Sed cum praefationem versionis suae ita terminat: **Wien im Brachmonat 1822. Der Herausgeber**, certum est, codicem nostrum non ante annum 1822 scriptum esse, sive sit ipsius translatoris scriptum, sive sit transscriptus e libro typis vulgato. Inventus est insuper in codice nostro libellus quattuor foliorum, ad Sancti Hippolyti typis mandatus, uti videtur paulo post annum 1835. (**Joseph Elias Thill, Pfarrer zu Scheibbs † den 28. November 1813.** Vide p. 4 huius libelli: **Als der nun verewigte Landesvater das Aufgeboth ergehen ließ, war Elias es wieder, der seine Pfarrkinder in einer Rede voll Vaterlandsliebe zur Vertheidigung ihres Kaisers aufforderte.** Qui imperator modo defunctus sine dubio est Franciscus I., qui anno 1835 mortuus est.) Qui libellus si non multum postquam in lucem evenit, codici nostro insertus est, indicat codicem nostrum non multum post annum 1835 iam in usu esse.\n\nAlteram partem huius operis continet sequens codex.",
+    "latinHtml": "<p>4° mai.; 154 pagg.; tegumentum chartaceum caesium; non ante 1822</p>\n<p><strong>Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.</strong></p>\n<p>Auctor huius operis Italiani natus est 1530, mortuus 1610. Translator autem huius operis celeberrimi ignotus est. Sed cum praefationem versionis suae ita terminat: <strong>Wien im Brachmonat 1822. Der Herausgeber</strong>, certum est, codicem nostrum non ante annum 1822 scriptum esse, sive sit ipsius translatoris scriptum, sive sit transscriptus e libro typis vulgato. Inventus est insuper in codice nostro libellus quattuor foliorum, ad Sancti Hippolyti typis mandatus, uti videtur paulo post annum 1835. (<strong>Joseph Elias Thill, Pfarrer zu Scheibbs † den 28. November 1813.</strong> Vide p. 4 huius libelli: <strong>Als der nun verewigte Landesvater das Aufgeboth ergehen ließ, war Elias es wieder, der seine Pfarrkinder in einer Rede voll Vaterlandsliebe zur Vertheidigung ihres Kaisers aufforderte.</strong> Qui imperator modo defunctus sine dubio est Franciscus I., qui anno 1835 mortuus est.) Qui libellus si non multum postquam in lucem evenit, codici nostro insertus est, indicat codicem nostrum non multum post annum 1835 iam in usu esse.</p>\n<p>Alteram partem huius operis continet sequens codex.</p>"
+  },
+  "source": {
+    "file": "MN I 20.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-20/",
+  "relations": [
+    {
+      "typeRaw": "continued_by",
+      "typeLabel": "fortgesetzt durch",
+      "targetRaw": "[[MN I 21]]",
+      "targetId": "mn-i-21",
+      "targetSignature": "MN I 21",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN I 20",
+    "titles": "Der geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens. \nDer geistliche Kampf. Aus dem Italienischen des gottseligen P. Dom Laurentius Scupuli. weiland Priester des Theathiner=Ordens.",
+    "persons": "Laurentius Scupuli original author original_author \nJoseph Elias Thill subject of inserted printed booklet subject of inserted printed booklet \nFranz I. referenced ruler referenced ruler \nLaurentius Scupuli original author original_author \nunbekannt Übersetzer translator \nLaurentius Scupuli original author original_author \nunbekannt Übersetzer translator",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Deutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt. \nde \nDeutsche Übersetzung des italienischen Werkes von Laurentius Scupuli; der Übersetzer ist unbekannt. \nDer Übersetzer ist unbekannt. \nDer eingelegte Druck dient dem Katalogbearbeiter als Hinweis darauf, dass der Codex wohl nicht lange nach 1835 bereits in Gebrauch war.",
+    "physical": "Papier \n154 Seiten \nGroßquart \ndescription: Blaugrauer Pappeinband."
+  }
+}

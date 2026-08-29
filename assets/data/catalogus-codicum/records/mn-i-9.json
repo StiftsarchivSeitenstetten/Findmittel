@@ -1,0 +1,392 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-9",
+  "signature": "MN I 9",
+  "aliases": [
+    "Bibl. Cod. MN I 9",
+    "Homagium Statuum et Coronatio Caroli VI. In Regno Bohemiae Anno 1723"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "205–206",
+  "heading": {
+    "title": "Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto...",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "1723 (?)"
+  },
+  "date": {
+    "display": "1723 (?)",
+    "intervals": [
+      {
+        "from": 1723,
+        "to": 1723,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "uncertain",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto...",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "Ausführliche Relation über die Reise Kaiser Karls VI. und seiner Familie von Wien nach Prag im Jahr 1723, den Einzug in Prag, die Erbhuldigung der böhmischen Stände sowie die Krönungen Karls VI. und Elisabeth Christinas.",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "illustration",
+      "title": {
+        "text": "Darstellung der Fahne des Königreichs Böhmen",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 5–6",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "description",
+          "text": "Die Fahne des Königreichs Böhmen ist auf Vorder- und Rückseite kunstvoll dargestellt."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Vorbereitung der Krönung und Reise von Wien nach Prag",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 9–646",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "contents_note",
+          "text": "Behandelt die Ereignisse zur Vorbereitung der Krönung, insbesondere die Reise von Wien nach Prag."
+        }
+      ],
+      "dates": [
+        {
+          "type": "date",
+          "display": "1723"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Beschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 647–672",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Karl VI.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-c"
+        },
+        {
+          "name": "Elisabeth Christina",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-c"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Actus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 673–692",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Karl VI.",
+          "roleRaw": "recipient",
+          "roleLabel": "Empfänger",
+          "scope": "item",
+          "itemId": "item-d"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Beschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 693–802",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Karl VI.",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-e"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Beschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 803–866",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Elisabeth Christina",
+          "roleRaw": "subject",
+          "roleLabel": "subject",
+          "scope": "item",
+          "itemId": "item-f"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "index",
+      "title": {
+        "text": "Alphabetisches Sachregister",
+        "typeRaw": "supplied",
+        "typeLabel": "erschlossener Titel"
+      },
+      "locus": "S. 867–903",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Johann Adam von Heintz",
+      "roleRaw": "author; Hofbuchhalter; Rechnungsrat",
+      "roleLabel": "author; Hofbuchhalter; Rechnungsrat",
+      "scope": "manuscript",
+      "note": "Nahm nach der Titelangabe an der Reise selbst teil."
+    },
+    {
+      "name": "Karl VI.",
+      "roleRaw": "subject; Kaiser; König von Böhmen",
+      "roleLabel": "subject; Kaiser; König von Böhmen",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Elisabeth Christina",
+      "roleRaw": "subject; Kaiserin",
+      "roleLabel": "subject; Kaiserin",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Maria Theresia",
+      "roleRaw": "mentioned",
+      "roleLabel": "erwähnt",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Maria Anna",
+      "roleRaw": "mentioned",
+      "roleLabel": "erwähnt",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Johann Adam von Heintz",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "contents",
+      "note": "Der Katalog bezeichnet Johann Adam von Heintz ausdrücklich als Verfasser des Codex."
+    },
+    {
+      "name": "Karl VI.",
+      "roleRaw": "subject",
+      "roleLabel": "subject",
+      "scope": "item",
+      "itemId": "item-c"
+    },
+    {
+      "name": "Elisabeth Christina",
+      "roleRaw": "subject",
+      "roleLabel": "subject",
+      "scope": "item",
+      "itemId": "item-c"
+    },
+    {
+      "name": "Karl VI.",
+      "roleRaw": "recipient",
+      "roleLabel": "Empfänger",
+      "scope": "item",
+      "itemId": "item-d"
+    },
+    {
+      "name": "Karl VI.",
+      "roleRaw": "subject",
+      "roleLabel": "subject",
+      "scope": "item",
+      "itemId": "item-e"
+    },
+    {
+      "name": "Elisabeth Christina",
+      "roleRaw": "subject",
+      "roleLabel": "subject",
+      "scope": "item",
+      "itemId": "item-f"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "906 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "b1 mit weißem Rücken",
+      "description": "Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt",
+      "note": "Der Katalog weist ausdrücklich darauf hin, dass sich nicht nachweisen lässt, ob Johann Adam von Heintz das vorliegende Exemplar eigenhändig schrieb."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1723 (?)",
+        "intervals": [
+          {
+            "from": 1723,
+            "to": 1723,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "uncertain",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": "Der Katalog datiert die Niederschrift mit Vorbehalt auf 1723."
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "binding_inscription",
+      "locus": "Vorderseite des Einbandes",
+      "text": "D. A. S. 1774",
+      "expansion": "Dominicus Abbas Seitenstettensis",
+      "date": {
+        "display": "1774",
+        "when": 1774
+      }
+    },
+    {
+      "type": "spine_inscription",
+      "locus": "Buchrücken",
+      "text": "Homagium Statuum et Coronatio Caroli VI. In Regno Bohemiae Anno. 1723.",
+      "language": "la"
+    }
+  ],
+  "editorialNotes": [
+    "Der Katalog unterscheidet ausdrücklich zwischen Verfasser und Schreiber: Johann Adam von Heintz ist der Verfasser, die Hand des vorliegenden Codex bleibt jedoch unbekannt.",
+    "Die Datierung auf 1723 ist im Katalog mit einem Fragezeichen versehen und wird daher nicht als gesichert behandelt.",
+    "Die Bindung des Codex wird aufgrund der Einbandaufschrift D. A. S. 1774 mit Abt Dominicus von Seitenstetten in Verbindung gebracht."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 906 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).\n\n**Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto Zu Germanien, Hispanien, Hungarn, und Böhaimb König Ertzherzog Zu Österreich etc. etc. mit dero Allerdurchlauchtigsten Frauen Gemahlin Der Römischen Kayßerin Elisabetha Christina In: Germanien, Hispanien, Hungarn, und Böhaimb Königin, gebohrnen Herzogin Zu Braunschweig Lüneburg und dero Beeden Durchlauchtigsten Ertzherzoginen Maria Theresia, und Maria Anna Anno 1723: von Wienn, nach dero Erb Königreich Böhaimb in die Haubt Stadt Prag Verrichten Rays, Daselbst gehaltenen Einzug, Von denen gesambt Böhaimbischen Ständen allergnädigst angenohmenen Erb Huldigung. und darauf erfolgten Zwayfach glorreichesten Königlich: Böhaimbischen Crönungen...... In Einer**\n\n**ordnung Zur künfftigen Nachricht mit denen als beylagen angeführten und von denen originalien getreülich abgeschribenen Referaten auch an gehörigen listen des mitgewesten Personalis, dann Einem ausführlichen Indice, umb all- und Jedes, finden Zu können Zusamben getragen, und beschriben Durch Allerhöchst gedacht: Ihro Kayserlich und Königlich Catholische Mayestätt Hofbuechhaltern, und damahls auf Solcher Rays mitgewesten Raytt Rath Johann Adam Von Heintz.**\n\na) S. 5–6: Die Fahne des Königreichs Böhmen ist auf Vorder- und Rückseite kunstvoll dargestellt.\n\nb) (Die Ereignisse zur Vorbereitung der Krönung, insbesondere die Reise von Wien nach Prag): S. 9–646.\n\nc) **Beschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten:** S. 647–672.\n\nd) **Actus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben:** S. 673–692.\n\ne) **Beschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden:** S. 693–802.\n\nf) **Beschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden:** S. 803–866.\n\ng) (Alphabetisches Sachregister): S. 867–903.\n\nVerfasser unseres Codex ist **Johann Adam von Heintz**; der Schreiber hingegen ist unbekannt, da sich kaum nachweisen lässt, dass unser Codex ein vom Verfasser selbst geschriebenes Exemplar ist.\n\nAufschrift auf der Vorderseite des Einbandes: **D. A. S. 1774** = Dominicus, Abt von Seitenstetten (er ließ diesen Codex im Jahr 1774 mit einem Einband versehen).\n\nRückenaufschrift: **Huldigung der Stände und Krönung Karls VI. im Königreich Böhmen im Jahr 1723.**",
+    "germanHtml": "<p>Folioformat; 906 Seiten; lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken; geschrieben 1723 (?).</p>\n<p><strong>Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto Zu Germanien, Hispanien, Hungarn, und Böhaimb König Ertzherzog Zu Österreich etc. etc. mit dero Allerdurchlauchtigsten Frauen Gemahlin Der Römischen Kayßerin Elisabetha Christina In: Germanien, Hispanien, Hungarn, und Böhaimb Königin, gebohrnen Herzogin Zu Braunschweig Lüneburg und dero Beeden Durchlauchtigsten Ertzherzoginen Maria Theresia, und Maria Anna Anno 1723: von Wienn, nach dero Erb Königreich Böhaimb in die Haubt Stadt Prag Verrichten Rays, Daselbst gehaltenen Einzug, Von denen gesambt Böhaimbischen Ständen allergnädigst angenohmenen Erb Huldigung. und darauf erfolgten Zwayfach glorreichesten Königlich: Böhaimbischen Crönungen...... In Einer</strong></p>\n<p><strong>ordnung Zur künfftigen Nachricht mit denen als beylagen angeführten und von denen originalien getreülich abgeschribenen Referaten auch an gehörigen listen des mitgewesten Personalis, dann Einem ausführlichen Indice, umb all- und Jedes, finden Zu können Zusamben getragen, und beschriben Durch Allerhöchst gedacht: Ihro Kayserlich und Königlich Catholische Mayestätt Hofbuechhaltern, und damahls auf Solcher Rays mitgewesten Raytt Rath Johann Adam Von Heintz.</strong></p>\n<p>a) S. 5–6: Die Fahne des Königreichs Böhmen ist auf Vorder- und Rückseite kunstvoll dargestellt.</p>\n<p>b) (Die Ereignisse zur Vorbereitung der Krönung, insbesondere die Reise von Wien nach Prag): S. 9–646.</p>\n<p>c) <strong>Beschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten:</strong> S. 647–672.</p>\n<p>d) <strong>Actus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben:</strong> S. 673–692.</p>\n<p>e) <strong>Beschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden:</strong> S. 693–802.</p>\n<p>f) <strong>Beschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden:</strong> S. 803–866.</p>\n<p>g) (Alphabetisches Sachregister): S. 867–903.</p>\n<p>Verfasser unseres Codex ist <strong>Johann Adam von Heintz</strong>; der Schreiber hingegen ist unbekannt, da sich kaum nachweisen lässt, dass unser Codex ein vom Verfasser selbst geschriebenes Exemplar ist.</p>\n<p>Aufschrift auf der Vorderseite des Einbandes: <strong>D. A. S. 1774</strong> = Dominicus, Abt von Seitenstetten (er ließ diesen Codex im Jahr 1774 mit einem Einband versehen).</p>\n<p>Rückenaufschrift: <strong>Huldigung der Stände und Krönung Karls VI. im Königreich Böhmen im Jahr 1723.</strong></p>",
+    "latin": "fol.; 906 pagg.; teg. b1 cum dorso albo; script. 1723 (?)\n\n**Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto Zu Germanien, Hispanien, Hungarn, und Böhaimb König Ertzherzog Zu Österreich etc. etc. mit dero Allerdurchlauchtigsten Frauen Gemahlin Der Römischen Kayßerin Elisabetha Christina In: Germanien, Hispanien, Hungarn, und Böhaimb Königin, gebohrnen Herzogin Zu Braunschweig Lüneburg und dero Beeden Durchlauchtigsten Ertzherzoginen Maria Theresia, und Maria Anna Anno 1723: von Wienn, nach dero Erb Königreich Böhaimb in die Haubt Stadt Prag Verrichten Rays, Daselbst gehaltenen Einzug, Von denen gesambt Böhaimbischen Ständen allergnädigst angenohmenen Erb Huldigung. und darauf erfolgten Zwayfach glorreichesten Königlich: Böhaimbischen Crönungen...... In Einer**\n\n**ordnung Zur künfftigen Nachricht mit denen als beylagen angeführten und von denen originalien getreülich abgeschribenen Referaten auch an gehörigen listen des mitgewesten Personalis, dann Einem ausführlichen Indice, umb all- und Jedes, finden Zu können Zusamben getragen, und beschriben Durch Allerhöchst gedacht: Ihro Kayserlich und Königlich Catholische Mayestätt Hofbuechhaltern, und damahls auf Solcher Rays mitgewesten Raytt Rath Johann Adam Von Heintz.**\n\na) p. 5–6 vexillum regni Bohemici ab una et ab altera parte artificiose depictum est.\n\nb) (Res gestae ad praeparandam coronationem, praesertim iter ab urbe Vindobona ad civitatem Pragensem): p. 9–646\n\nc) **Beschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten:** p. 647–672\n\nd) **Actus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben:** p. 673–692.\n\ne) **Beschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden:** p. 693–802\n\nf) **Beschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden:** p. 803–866.\n\ng) (Index rerum alphabeticus): p. 867–903.\n\nAuctor codicis nostri est **Johann Adam Von Heintz**, scriptor autem ignotus, quoniam vix probari posset, codicem nostrum esse exemplar ab ipso auctore conscripto.\n\nInscriptio in parte adversa tegumenti: **D. A. S. 1774** = Dominicus Abbas Seitenstettensis (tegumento munivit hunc codicem anno 1774).\n\nInscriptio dorsi: **Homagium Statuum et Coronatio Caroli VI. In Regno Bohemiae Anno. 1723.**",
+    "latinHtml": "<p>fol.; 906 pagg.; teg. b1 cum dorso albo; script. 1723 (?)</p>\n<p><strong>Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto Zu Germanien, Hispanien, Hungarn, und Böhaimb König Ertzherzog Zu Österreich etc. etc. mit dero Allerdurchlauchtigsten Frauen Gemahlin Der Römischen Kayßerin Elisabetha Christina In: Germanien, Hispanien, Hungarn, und Böhaimb Königin, gebohrnen Herzogin Zu Braunschweig Lüneburg und dero Beeden Durchlauchtigsten Ertzherzoginen Maria Theresia, und Maria Anna Anno 1723: von Wienn, nach dero Erb Königreich Böhaimb in die Haubt Stadt Prag Verrichten Rays, Daselbst gehaltenen Einzug, Von denen gesambt Böhaimbischen Ständen allergnädigst angenohmenen Erb Huldigung. und darauf erfolgten Zwayfach glorreichesten Königlich: Böhaimbischen Crönungen...... In Einer</strong></p>\n<p><strong>ordnung Zur künfftigen Nachricht mit denen als beylagen angeführten und von denen originalien getreülich abgeschribenen Referaten auch an gehörigen listen des mitgewesten Personalis, dann Einem ausführlichen Indice, umb all- und Jedes, finden Zu können Zusamben getragen, und beschriben Durch Allerhöchst gedacht: Ihro Kayserlich und Königlich Catholische Mayestätt Hofbuechhaltern, und damahls auf Solcher Rays mitgewesten Raytt Rath Johann Adam Von Heintz.</strong></p>\n<p>a) p. 5–6 vexillum regni Bohemici ab una et ab altera parte artificiose depictum est.</p>\n<p>b) (Res gestae ad praeparandam coronationem, praesertim iter ab urbe Vindobona ad civitatem Pragensem): p. 9–646</p>\n<p>c) <strong>Beschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten:</strong> p. 647–672</p>\n<p>d) <strong>Actus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben:</strong> p. 673–692.</p>\n<p>e) <strong>Beschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden:</strong> p. 693–802</p>\n<p>f) <strong>Beschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden:</strong> p. 803–866.</p>\n<p>g) (Index rerum alphabeticus): p. 867–903.</p>\n<p>Auctor codicis nostri est <strong>Johann Adam Von Heintz</strong>, scriptor autem ignotus, quoniam vix probari posset, codicem nostrum esse exemplar ab ipso auctore conscripto.</p>\n<p>Inscriptio in parte adversa tegumenti: <strong>D. A. S. 1774</strong> = Dominicus Abbas Seitenstettensis (tegumento munivit hunc codicem anno 1774).</p>\n<p>Inscriptio dorsi: <strong>Homagium Statuum et Coronatio Caroli VI. In Regno Bohemiae Anno. 1723.</strong></p>"
+  },
+  "source": {
+    "file": "MN I 9.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-9/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 9",
+    "titles": "Relation und Beschreibung Der Von Dem Allerdurchlauchtigst-Großmächtigst: und unüberwindlichsten Römischen Kayßer Carolo Sexto... \nDarstellung der Fahne des Königreichs Böhmen \nVorbereitung der Krönung und Reise von Wien nach Prag \nBeschreibung deß Einzugs, Welcher der ....Römische Kayßer Carolus Der Sechste.....mit.....Der Römischen Kayßerin Elisabetha Christina .....In Dero Königliche Drey Prager: Stätte den 30ten Junii Annô 1723 gehalten \nActus Der Königlichen Böhmischen Allgemeinen Erb-Huldigung Wie Solche Bey der zugleich vorgegangenen Land-Tags-Proposition Dem....Römische Kayßer Carolo Dem Sechsten. ....Als König zu Böheim, Die Gesambte Böhmische Stände Am 4ten Septembris Annô 1723: In allertieffester Unterthänigkeit abgelegt haben \nBeschreibung Wie es Bey deß.....Römischen Kayßers Caroli Deß Sechsten......In dero Königlichen Residenz-Statt Prag den 5ten Septembris Anno 1723: fürgegangenen Königlichen Böhmischen Crönung gehalten worden \nBeschreibung Wie es Bey der Allerdurchlauchtigst- und Großmächtigsten Fürstin und Frauen Frauen Elisabethae Cristinae Römischen Kayßerin .....Am 8ten Septembris Anno 1723: In der Königlichen Haubt- und Residenz Statt Prag fürgegangenen Königlichen Böhmischen Crönung gehalten worden \nAlphabetisches Sachregister",
+    "persons": "Johann Adam von Heintz author; Hofbuchhalter; Rechnungsrat author; Hofbuchhalter; Rechnungsrat \nKarl VI. subject; Kaiser; König von Böhmen subject; Kaiser; König von Böhmen \nElisabeth Christina subject; Kaiserin subject; Kaiserin \nMaria Theresia erwähnt mentioned \nMaria Anna erwähnt mentioned \nJohann Adam von Heintz Autor author \nKarl VI. subject subject \nElisabeth Christina subject subject \nKarl VI. Empfänger recipient \nKarl VI. subject subject \nElisabeth Christina subject subject",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Ausführliche Relation über die Reise Kaiser Karls VI. und seiner Familie von Wien nach Prag im Jahr 1723, den Einzug in Prag, die Erbhuldigung der böhmischen Stände sowie die Krönungen Karls VI. und Elisabeth Christinas. \nde \nDie Fahne des Königreichs Böhmen ist auf Vorder- und Rückseite kunstvoll dargestellt. \nBehandelt die Ereignisse zur Vorbereitung der Krönung, insbesondere die Reise von Wien nach Prag. \nDer Katalog unterscheidet ausdrücklich zwischen Verfasser und Schreiber: Johann Adam von Heintz ist der Verfasser, die Hand des vorliegenden Codex bleibt jedoch unbekannt. \nDie Datierung auf 1723 ist im Katalog mit einem Fragezeichen versehen und wird daher nicht als gesichert behandelt. \nDie Bindung des Codex wird aufgrund der Einbandaufschrift D. A. S. 1774 mit Abt Dominicus von Seitenstetten in Verbindung gebracht.",
+    "physical": "Papier \n906 Seiten \nFolio \ncode: b1 mit weißem Rücken; description: Lederner Einband von rehbrauner oder brauner Farbe mit weißem Rücken."
+  }
+}

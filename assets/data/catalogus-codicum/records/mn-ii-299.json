@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-299",
+  "signature": "MN II 299",
+  "aliases": [
+    "Bibl. Cod. MN II 299"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "242",
+  "heading": {
+    "title": "Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini 1762",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1759–1764"
+  },
+  "date": {
+    "display": "1759–1764",
+    "intervals": [
+      {
+        "from": 1759,
+        "to": 1764,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini 1762",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "Der Katalog kennzeichnet die Lesungen „M. V. E.“ und „Essekiini“ durch parenthetische Frage- bzw. Gleichsetzungszeichen als unsicher; diese editorischen Zusätze wurden nicht in den Titel gemischt.",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Conciones quadragesimales Essekiini 1759 habitae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 5–62",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Conciones quadragesimales Essekiini anno 1760 habitae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 63–118",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Conciones quadragesimales Essekiini anno 1761 habitae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 119–174",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Conciones Quadragesimales Essekiini anno 1762 habitae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 175–230",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Xystus Hüffner",
+      "roleRaw": "author_and_scribe",
+      "roleLabel": "author and scribe",
+      "scope": "manuscript",
+      "certainty": "certain"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "234 pagg.",
+    "format": "",
+    "binding": {
+      "code": "c2d",
+      "description": "Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "Durch Feuchtigkeit stark beschädigt.",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1759–1764",
+        "intervals": [
+          {
+            "from": 1759,
+            "to": 1764,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "Essek; eingelegte Predigten aus Temeswar",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "inserted_leaves",
+      "applies_to": "part b",
+      "description": "Fastenpredigten, 1764 in Temeswar gehalten."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "234 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken, durch Feuchtigkeit stark beschädigt; geschrieben 1759–1764.\n\n**Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. (?) E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini (= Essek?) 1762.**\n\na) Fastenpredigten, 1759 in Essek gehalten zum Thema: **O vos omnes, qui transitis per viam, attendite, et videte, si est dolor sicut dolor meus? 1. Threnorum 12:** S. 5–62.\n\nb) Fastenpredigten, 1760 in Essek gehalten zum Thema: **Sponsus Sanguinum Tu mihi es. Exodi 4. versu 25:** S. 63–118.\n\nc) Fastenpredigten, 1761 in Essek gehalten zum Thema: **Christus passus est pro nobis, vobis relinquens exemplum, ut sequamini vestigia ejus. 1. Petri 2. versu 21:** S. 119–174.\n\nd) Fastenpredigten, 1762 in Essek gehalten zum Thema: **Omnes nos manifestari oportet ante Tribunal Christi: 2. Cor. 5, v. 10:** S. 175–230.\n\nIn Teil b sind Blätter eingelegt, die Fastenpredigten enthalten, die 1764 in Temeswar gehalten wurden.\n\nAlle Predigten sind deutsch. Zweifellos schrieb der Verfasser **P. Xystus Hüffner** den Codex eigenhändig.",
+    "germanHtml": "<p>234 Seiten; marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken, durch Feuchtigkeit stark beschädigt; geschrieben 1759–1764.</p>\n<p><strong>Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. (?) E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini (= Essek?) 1762.</strong></p>\n<p>a) Fastenpredigten, 1759 in Essek gehalten zum Thema: <strong>O vos omnes, qui transitis per viam, attendite, et videte, si est dolor sicut dolor meus? 1. Threnorum 12:</strong> S. 5–62.</p>\n<p>b) Fastenpredigten, 1760 in Essek gehalten zum Thema: <strong>Sponsus Sanguinum Tu mihi es. Exodi 4. versu 25:</strong> S. 63–118.</p>\n<p>c) Fastenpredigten, 1761 in Essek gehalten zum Thema: <strong>Christus passus est pro nobis, vobis relinquens exemplum, ut sequamini vestigia ejus. 1. Petri 2. versu 21:</strong> S. 119–174.</p>\n<p>d) Fastenpredigten, 1762 in Essek gehalten zum Thema: <strong>Omnes nos manifestari oportet ante Tribunal Christi: 2. Cor. 5, v. 10:</strong> S. 175–230.</p>\n<p>In Teil b sind Blätter eingelegt, die Fastenpredigten enthalten, die 1764 in Temeswar gehalten wurden.</p>\n<p>Alle Predigten sind deutsch. Zweifellos schrieb der Verfasser <strong>P. Xystus Hüffner</strong> den Codex eigenhändig.</p>",
+    "latin": "234 pagg.; teg. c2d (madore valde vexatum); script. 1759–1764\n\n**Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. (?) E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini (= Essek?) 1762.**\n\na) Conciones quadragesimales Essekiini 1759 habitae ad Thema: **O vos omnes, qui transitis per viam, attendite, et videte, si est dolor sicut dolor meus? 1. Threnorum 12:** p. 5–62\n\nb) Conciones quadragesimales Essekiini anno 1760 habitae ad thema: **Sponsus Sanguinum Tu mihi es. Exodi 4. versu 25:** p. 63–118\n\nc) Conciones quadragesimales Essekiini anno 1761 habitae ad Thema: **Christus passus est pro nobis, vobis relinquens exemplum, ut sequamini vestigia ejus. 1. Petri 2. versu 21:** p. 119–174\n\nd) Conciones Quadragesimales Essekiini anno 1762 habitae ad Thema: **Omnes nos manifestari oportet ante Tribunal Christi: 2. Cor. 5, v. 10:** p. 175–230\n\nParti b insertae sunt pagellae, quae Conciones quadragesimales Temesvarini anno 1764 habitas continent.\n\nOmnes conciones lingua Germanica utuntur. Sine dubio auctor P. **Xystus Hüffner** codicem nostrum sua manu scripsit.",
+    "latinHtml": "<p>234 pagg.; teg. c2d (madore valde vexatum); script. 1759–1764</p>\n<p><strong>Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. (?) E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini (= Essek?) 1762.</strong></p>\n<p>a) Conciones quadragesimales Essekiini 1759 habitae ad Thema: <strong>O vos omnes, qui transitis per viam, attendite, et videte, si est dolor sicut dolor meus? 1. Threnorum 12:</strong> p. 5–62</p>\n<p>b) Conciones quadragesimales Essekiini anno 1760 habitae ad thema: <strong>Sponsus Sanguinum Tu mihi es. Exodi 4. versu 25:</strong> p. 63–118</p>\n<p>c) Conciones quadragesimales Essekiini anno 1761 habitae ad Thema: <strong>Christus passus est pro nobis, vobis relinquens exemplum, ut sequamini vestigia ejus. 1. Petri 2. versu 21:</strong> p. 119–174</p>\n<p>d) Conciones Quadragesimales Essekiini anno 1762 habitae ad Thema: <strong>Omnes nos manifestari oportet ante Tribunal Christi: 2. Cor. 5, v. 10:</strong> p. 175–230</p>\n<p>Parti b insertae sunt pagellae, quae Conciones quadragesimales Temesvarini anno 1764 habitas continent.</p>\n<p>Omnes conciones lingua Germanica utuntur. Sine dubio auctor P. <strong>Xystus Hüffner</strong> codicem nostrum sua manu scripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 299.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-299/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 299",
+    "titles": "Fasciculus Myrrhae oder Myrrhen-Büschlein das ist Sitten-Lehren aus dem Trauer Geschicht des Bitteren Leyden und Sterben Christi Jesu Durch Vier Jahr zusammengetragen und Verfertiget Von M. V. E. Xysto Hüffner à Vienna Ordinis Minorum Regularis Observantiae Concionatore Ordinario Essekiini 1762 \nConciones quadragesimales Essekiini 1759 habitae \nConciones quadragesimales Essekiini anno 1760 habitae \nConciones quadragesimales Essekiini anno 1761 habitae \nConciones Quadragesimales Essekiini anno 1762 habitae",
+    "persons": "P. Xystus Hüffner author and scribe author_and_scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Der Katalog kennzeichnet die Lesungen „M. V. E.“ und „Essekiini“ durch parenthetische Frage- bzw. Gleichsetzungszeichen als unsicher; diese editorischen Zusätze wurden nicht in den Titel gemischt.",
+    "physical": "Papier \n234 pagg. \nDurch Feuchtigkeit stark beschädigt. \ncode: c2d; description: Marmorierter Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

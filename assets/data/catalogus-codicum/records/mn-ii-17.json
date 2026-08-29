@@ -1,0 +1,166 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-17",
+  "signature": "MN II 17",
+  "aliases": [
+    "Bibl. Cod. MN II 17",
+    "In Organum Aristotelis Disputationes"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "13",
+  "heading": {
+    "title": "In Organum Aristotelis Disputationes.",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1632"
+  },
+  "date": {
+    "display": "1632",
+    "intervals": [
+      {
+        "from": 1632,
+        "to": 1632,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "In Organum Aristotelis Disputationes.",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "In Organum Aristotelis Disputationes.",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1r–476",
+      "language": "",
+      "incipit": {
+        "text": "Aggressurus logicam......"
+      },
+      "explicit": {
+        "text": "Finita 20. Augusti Anno 1632. lectionibus 220:"
+      },
+      "notes": [
+        {
+          "type": "note",
+          "text": "Der Katalog vermutet, dass die Vorlesungen an der Universität Graz gehalten wurden."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "note": "Derselbe Schreiber wie bei MN II 18."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "477 Seiten",
+    "format": "Quartformat",
+    "binding": {
+      "code": "",
+      "description": "Einband aus einem mit Musiknoten beschriebenen Pergamentblatt.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1632",
+        "intervals": [
+          {
+            "from": 1632,
+            "to": 1632,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "477 Seiten; eingebunden in ein Pergamentblatt, das mit Musiknoten beschrieben ist.\n\n**Disputationen zum Organon des Aristoteles.**\n\nAnfang der ersten Disputation S. 1r: **Im Begriff, die Logik in Angriff zu nehmen......**\n\nSchlussvermerke S. 197 (30. März) und S. 476: **Beendet am 20. August 1632, nach 220 Vorlesungen.**\n\nDiese Vorlesungen scheinen an der Universität Graz gehalten worden zu sein; denn in diesem Codex wurde ein gedruckter Widmungszettel an die selige Jungfrau Maria von der Unbefleckten Empfängnis gefunden: **Ex alma Universitate Graecensi Societatis Jesu die ... Decemb. Anno Salutis M.DC.XXIX.** Verfasser und Schreiber sind dennoch unbekannt, obwohl dieser Schreiber auch den folgenden Codex ausgeführt hat.",
+    "germanHtml": "<p>477 Seiten; eingebunden in ein Pergamentblatt, das mit Musiknoten beschrieben ist.</p>\n<p><strong>Disputationen zum Organon des Aristoteles.</strong></p>\n<p>Anfang der ersten Disputation S. 1r: <strong>Im Begriff, die Logik in Angriff zu nehmen......</strong></p>\n<p>Schlussvermerke S. 197 (30. März) und S. 476: <strong>Beendet am 20. August 1632, nach 220 Vorlesungen.</strong></p>\n<p>Diese Vorlesungen scheinen an der Universität Graz gehalten worden zu sein; denn in diesem Codex wurde ein gedruckter Widmungszettel an die selige Jungfrau Maria von der Unbefleckten Empfängnis gefunden: <strong>Ex alma Universitate Graecensi Societatis Jesu die ... Decemb. Anno Salutis M.DC.XXIX.</strong> Verfasser und Schreiber sind dennoch unbekannt, obwohl dieser Schreiber auch den folgenden Codex ausgeführt hat.</p>",
+    "latin": "477 pagg., tegumentum membranaceum modis musicis conscriptum.\n\n*In Organum Aristotelis Disputationes.*\n\nInitium disputationis primae pag. 1r: Aggressurus logicam......\n\nClausulae p. 197 (30 Martii) et p. 476: Finita 20. Augusti Anno 1632. lectionibus 220:\n\nVidentur hae lectiones in Universitate Graecensi dictatae esse; inventa est enim in hoc codice schedula dedicationis ad Beatam Virginem Mariam Immaculatae Conceptam typis impressa \"Ex alma Universitate Graecensi Societatis Jesu die ... Decemb. Anno Salutis M.DC.XXIX.\" Auctor tamen et scriptor adhuc ignoti, quamquam hic scriptor etiam sequentem codicem exaravit.",
+    "latinHtml": "<p>477 pagg., tegumentum membranaceum modis musicis conscriptum.</p>\n<p><em>In Organum Aristotelis Disputationes.</em></p>\n<p>Initium disputationis primae pag. 1r: Aggressurus logicam......</p>\n<p>Clausulae p. 197 (30 Martii) et p. 476: Finita 20. Augusti Anno 1632. lectionibus 220:</p>\n<p>Videntur hae lectiones in Universitate Graecensi dictatae esse; inventa est enim in hoc codice schedula dedicationis ad Beatam Virginem Mariam Immaculatae Conceptam typis impressa \"Ex alma Universitate Graecensi Societatis Jesu die ... Decemb. Anno Salutis M.DC.XXIX.\" Auctor tamen et scriptor adhuc ignoti, quamquam hic scriptor etiam sequentem codicem exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 17.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-17/",
+  "relations": [
+    {
+      "typeRaw": "same_scribe_as",
+      "typeLabel": "gleicher Schreiber",
+      "targetRaw": "[[MN II 18]]",
+      "targetId": "mn-ii-18",
+      "targetSignature": "MN II 18",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 17",
+    "titles": "In Organum Aristotelis Disputationes. \nIn Organum Aristotelis Disputationes.",
+    "persons": "unbekannt Autor author \nunbekannt Schreiber scribe",
+    "incipits": "Aggressurus logicam......",
+    "explicits": "Finita 20. Augusti Anno 1632. lectionibus 220:",
+    "notes": "Der Katalog vermutet, dass die Vorlesungen an der Universität Graz gehalten wurden.",
+    "physical": "Papier \n477 Seiten \nQuartformat \ndescription: Einband aus einem mit Musiknoten beschriebenen Pergamentblatt."
+  }
+}

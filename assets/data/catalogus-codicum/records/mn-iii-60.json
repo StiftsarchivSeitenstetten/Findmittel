@@ -1,0 +1,196 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-60",
+  "signature": "MN III 60",
+  "aliases": [
+    "Bibl. Cod. MN III 60"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "272",
+  "heading": {
+    "title": "Zum wahren Angedenken",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1775"
+  },
+  "date": {
+    "display": "um 1775",
+    "intervals": [
+      {
+        "from": 1775,
+        "to": 1775,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Zum wahren Angedenken",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. III",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Deutsches Mahngedicht; die in Klammern stehende Inhaltsbeschreibung stammt vom Katalogbearbeiter und wurde nicht als Titel übernommen."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. IV, 1–153, 169–172",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Mit Register „Aller hierin Begriffenen gebettern“ S. 169–172."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Litaney zu allen Heiligen Gottes",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 154–167",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "F. C. A.",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Joseph Bachinger",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Barbara Dirnbergerin",
+      "roleRaw": "user",
+      "roleLabel": "user",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1775",
+        "intervals": [
+          {
+            "from": 1775,
+            "to": 1775,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; 176 Seiten; schwarzer Ledereinband, mit Blümchen und anderen sehr feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben um 1775.\n\na) **Zum wahren Angedenken:** S. III. Ein mahnendes Gedicht, das davor warnt, durch Nachlässigkeit gegenüber dem heutigen Tag den morgigen zu verlieren. Wie der ganze Codex deutsch.\n\nb) **Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:** S. IV, 1–153; mit **Register Aller hierin Begriffenen gebettern** S. 169–172.\n\nc) **Litaney zu allen Heiligen Gottes:** S. 154–167. Am Ende steht der Name **Joseph Bachinger**, der jedoch nur Teil c geschrieben hat.\n\nDie übrigen Teile schrieb **F. C: A:**. Der vollständige Name konnte nicht ermittelt werden. Barbara Dirnbergerin war nicht die Schreiberin der Teile a und b, sondern lediglich deren Benutzerin.\n\nEine Entstehung um 1775 erschließt der Katalogbearbeiter aus der Einbandform, die jener des 1772 geschriebenen Codex MN III 81 ähnelt, wenngleich dieser Einband viel einfacher und stärker abgenutzt ist.\n\nAuf der Vorderseite des Einbandes stehen die vergoldeten Initialen **M. B. O.**; wahrscheinlich bezeichnen sie den Besitzer, der das Büchlein so kunstvoll einbinden ließ.",
+    "germanHtml": "<p>Oktavformat; 176 Seiten; schwarzer Ledereinband, mit Blümchen und anderen sehr feinen eingeprägten und vergoldeten Verzierungen geschmückt; geschrieben um 1775.</p>\n<p>a) <strong>Zum wahren Angedenken:</strong> S. III. Ein mahnendes Gedicht, das davor warnt, durch Nachlässigkeit gegenüber dem heutigen Tag den morgigen zu verlieren. Wie der ganze Codex deutsch.</p>\n<p>b) <strong>Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:</strong> S. IV, 1–153; mit <strong>Register Aller hierin Begriffenen gebettern</strong> S. 169–172.</p>\n<p>c) <strong>Litaney zu allen Heiligen Gottes:</strong> S. 154–167. Am Ende steht der Name <strong>Joseph Bachinger</strong>, der jedoch nur Teil c geschrieben hat.</p>\n<p>Die übrigen Teile schrieb <strong>F. C: A:</strong>. Der vollständige Name konnte nicht ermittelt werden. Barbara Dirnbergerin war nicht die Schreiberin der Teile a und b, sondern lediglich deren Benutzerin.</p>\n<p>Eine Entstehung um 1775 erschließt der Katalogbearbeiter aus der Einbandform, die jener des 1772 geschriebenen Codex MN III 81 ähnelt, wenngleich dieser Einband viel einfacher und stärker abgenutzt ist.</p>\n<p>Auf der Vorderseite des Einbandes stehen die vergoldeten Initialen <strong>M. B. O.</strong>; wahrscheinlich bezeichnen sie den Besitzer, der das Büchlein so kunstvoll einbinden ließ.</p>",
+    "latin": "8°; 176 pagg.; teg. b2, flosculis aliisque tenerrimis ornamentis impressis et inauratis decoratum; ca. 1775\n\na) **Zum wahren Angedenken** (Carmen monitorium, ne negligendo hodiernum amittas crastinum diem): p. III. (lingua Germanica ut totus codex!)\n\nb) **Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:** p. IV, 1–153 cum indice: Register: Aller hierin Begriffenen gebettern: p. 169–172\n\nc) **Litaney zu allen Heiligen Gottes:** p. 154–167, cuius in fine notatum est nomen **Joseph Bachinger**, qui vero nil nisi partem c scripsit.\n\nCetera autem scripsit **F. C: A:**, cuius quod nescio plenum nomen, valde doleo. Nam Barbara Dirnbergerin partes a et b non scripsit, sed usa tantum est iis.\n\nCirca annum 1775 exaratum esse hunc libellum precatorium e forma tegumenti colligo, quippe quod similiter ornatum sit ut codex MN III 81, anno 1772 scriptus (vide supra p. 253!), etsi multo vilius sit, multoque magis attritum. In parte adversa tegumenti inveniuntur litterae initiales inauratae: **M. B. O.**, quae probabiliter nomen possidentis indicant, qui codicillum nostrum tam artificiose tegumento muniendum curavit.",
+    "latinHtml": "<p>8°; 176 pagg.; teg. b2, flosculis aliisque tenerrimis ornamentis impressis et inauratis decoratum; ca. 1775</p>\n<p>a) <strong>Zum wahren Angedenken</strong> (Carmen monitorium, ne negligendo hodiernum amittas crastinum diem): p. III. (lingua Germanica ut totus codex!)</p>\n<p>b) <strong>Seelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A:</strong> p. IV, 1–153 cum indice: Register: Aller hierin Begriffenen gebettern: p. 169–172</p>\n<p>c) <strong>Litaney zu allen Heiligen Gottes:</strong> p. 154–167, cuius in fine notatum est nomen <strong>Joseph Bachinger</strong>, qui vero nil nisi partem c scripsit.</p>\n<p>Cetera autem scripsit <strong>F. C: A:</strong>, cuius quod nescio plenum nomen, valde doleo. Nam Barbara Dirnbergerin partes a et b non scripsit, sed usa tantum est iis.</p>\n<p>Circa annum 1775 exaratum esse hunc libellum precatorium e forma tegumenti colligo, quippe quod similiter ornatum sit ut codex MN III 81, anno 1772 scriptus (vide supra p. 253!), etsi multo vilius sit, multoque magis attritum. In parte adversa tegumenti inveniuntur litterae initiales inauratae: <strong>M. B. O.</strong>, quae probabiliter nomen possidentis indicant, qui codicillum nostrum tam artificiose tegumento muniendum curavit.</p>"
+  },
+  "source": {
+    "file": "MN III 60.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-60/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 60",
+    "titles": "Zum wahren Angedenken \nZum wahren Angedenken \nSeelen Schaz: worinnen Andächtige Morgen: Beicht= und Communion Gebetter, TagZeiten, und Litaneyen, dan andere Andachten begriffen: Zum Gebrauch Barbara Dirnbergerin: Zusam geschriwen F. C: A: \nLitaney zu allen Heiligen Gottes",
+    "persons": "F. C. A. Schreiber scribe \nJoseph Bachinger Schreiber scribe \nBarbara Dirnbergerin user user",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Deutsches Mahngedicht; die in Klammern stehende Inhaltsbeschreibung stammt vom Katalogbearbeiter und wurde nicht als Titel übernommen. \nMit Register „Aller hierin Begriffenen gebettern“ S. 169–172.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung siehe Katalogtext."
+  }
+}

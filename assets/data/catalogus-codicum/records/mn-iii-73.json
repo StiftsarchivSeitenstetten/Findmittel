@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-73",
+  "signature": "MN III 73",
+  "aliases": [
+    "Bibl. Cod. MN III 73"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "280",
+  "heading": {
+    "title": "Verdeutschter Ritus",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "um 1840"
+  },
+  "date": {
+    "display": "um 1840",
+    "intervals": [
+      {
+        "from": 1840,
+        "to": 1840,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "inferred",
+    "qualifier": "circa"
+  },
+  "contentsOverview": {
+    "title": "Verdeutschter Ritus",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Verdeutschter Ritus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. I–VIII, 1–133",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Auch die Rubriken sind ins Deutsche übersetzt; ab S. 134 unbeschrieben."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "unbekannt",
+      "roleRaw": "translator",
+      "roleLabel": "Übersetzer",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8°",
+    "format": "Oktavformat",
+    "binding": {
+      "code": "b2",
+      "description": "Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "um 1840",
+        "intervals": [
+          {
+            "from": 1840,
+            "to": 1840,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "inferred",
+        "qualifier": "circa"
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Oktavformat; VIII + 236 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben um 1840.\n\n**Verdeutschter Ritus**\n\nAuch die Rubriken sind ins Deutsche übersetzt; sie wurden mit rosafarbener Tinte geschrieben.\n\nAb S. 134 ist nichts mehr eingetragen.\n\nP. Martin Riesenhuber, um 1925 Archivar, klebte auf die Vorderseite des Einbandes einen Zettel mit der Aufschrift: **Rituale für Seelsorger Deutsch 1800 circa.**\n\nDer Katalogbearbeiter bezweifelt jedoch stark, dass das Büchlein bereits um 1800 entstand. Einband und Schrift deuten eher auf etwa 1840 oder 1850.\n\nÜbersetzer und Schreiber sind unbekannt.",
+    "germanHtml": "<p>Oktavformat; VIII + 236 Seiten; schwarzer Ledereinband, an Rücken und Kanten mit eingeprägten und vergoldeten Verzierungen ansprechend geschmückt; geschrieben um 1840.</p>\n<p><strong>Verdeutschter Ritus</strong></p>\n<p>Auch die Rubriken sind ins Deutsche übersetzt; sie wurden mit rosafarbener Tinte geschrieben.</p>\n<p>Ab S. 134 ist nichts mehr eingetragen.</p>\n<p>P. Martin Riesenhuber, um 1925 Archivar, klebte auf die Vorderseite des Einbandes einen Zettel mit der Aufschrift: <strong>Rituale für Seelsorger Deutsch 1800 circa.</strong></p>\n<p>Der Katalogbearbeiter bezweifelt jedoch stark, dass das Büchlein bereits um 1800 entstand. Einband und Schrift deuten eher auf etwa 1840 oder 1850.</p>\n<p>Übersetzer und Schreiber sind unbekannt.</p>",
+    "latin": "8°; VIII + 236 pagg.; teg. b2, in margine et dorso ornamentis impressis et inauratis decenter decoratum; script. ca. 1840\n\n**Verdeutschter Ritus**\n\nIn hoc codice etiam rubricae in linguam Germanicam translatae sunt; sunt autem atramento rosaceo scriptae. Inde a pag. 134 iam nihil est scriptum.\n\nP. Martinus Riesenhuber, archivarius circa annum 1925, schedulam in parte adversa tegumenti affixit; cui inscripsit: **Rituale für Seelsorger Deutsch 1800 circa.** Sed valde dubito, num codicillus noster iam circa annum 1800 scriptus sit. Etenim cum tegumentum tum scriptura indicare videntur ortum esse hunc libellum ritualem circa annum 1840 vel 1850. Ceterum tam translator quam scriptor ignotus.",
+    "latinHtml": "<p>8°; VIII + 236 pagg.; teg. b2, in margine et dorso ornamentis impressis et inauratis decenter decoratum; script. ca. 1840</p>\n<p><strong>Verdeutschter Ritus</strong></p>\n<p>In hoc codice etiam rubricae in linguam Germanicam translatae sunt; sunt autem atramento rosaceo scriptae. Inde a pag. 134 iam nihil est scriptum.</p>\n<p>P. Martinus Riesenhuber, archivarius circa annum 1925, schedulam in parte adversa tegumenti affixit; cui inscripsit: <strong>Rituale für Seelsorger Deutsch 1800 circa.</strong> Sed valde dubito, num codicillus noster iam circa annum 1800 scriptus sit. Etenim cum tegumentum tum scriptura indicare videntur ortum esse hunc libellum ritualem circa annum 1840 vel 1850. Ceterum tam translator quam scriptor ignotus.</p>"
+  },
+  "source": {
+    "file": "MN III 73.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-73/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 73",
+    "titles": "Verdeutschter Ritus \nVerdeutschter Ritus",
+    "persons": "unbekannt Übersetzer translator \nunbekannt Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Auch die Rubriken sind ins Deutsche übersetzt; ab S. 134 unbeschrieben.",
+    "physical": "Papier \n8° \nOktavformat \ncode: b2; description: Schwarzer Ledereinband; Verzierung und Zustand siehe Katalogtext."
+  }
+}

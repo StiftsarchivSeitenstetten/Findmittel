@@ -1,0 +1,336 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-iii-25",
+  "signature": "MN III 25",
+  "aliases": [
+    "Bibl. Cod. MN III 25"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "181–182",
+  "heading": {
+    "title": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1711"
+  },
+  "date": {
+    "display": "1711",
+    "intervals": [
+      {
+        "from": 1711,
+        "to": 1711,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Justitia, et Jure",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 9–61",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Restitutione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 63–102",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-c",
+      "label": "c",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Contractibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 105–129",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-d",
+      "label": "d",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Incarnatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 137–226",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-e",
+      "label": "e",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Sacramentis in genere",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 227–261",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-f",
+      "label": "f",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Baptismate",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 263–276",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-g",
+      "label": "g",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Confirmatione",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 277–280",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-h",
+      "label": "h",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Sanctissima Eucharistia",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 281–292",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-i",
+      "label": "i",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Virtute et Sacramento Paenitentiae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 295–348",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-j",
+      "label": "j",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Sacramento Extremae Unctionis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 349–352",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-k",
+      "label": "k",
+      "type": "",
+      "title": {
+        "text": "Tractatus de Sacramento ordinis",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 355–359",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-l",
+      "label": "l",
+      "type": "",
+      "title": {
+        "text": "Disputatio De Matrimonio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 360–369",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Carolus Gschwandtner",
+      "roleRaw": "compiler",
+      "roleLabel": "Bearbeiter",
+      "scope": "manuscript"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "8° min., 374 pagg.",
+    "format": "Kleines Oktavformat",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1711",
+        "intervals": [
+          {
+            "from": 1711,
+            "to": 1711,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Kleines Oktavformat; 374 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben ~~[frühere Datierung gestrichen]~~ 1711.\n\n**Gesamte Theologie nach der Lehre des hl. Thomas, aus verschiedenen Autoren kompendienhaft zusammengestellt. Band II. Enthält die Abhandlungen über Gerechtigkeit und Recht, Restitution, Verträge, Menschwerdung, Sakramente im Allgemeinen und im Einzelnen nach dem zweiten und dritten Teil der Summa des engelgleichen Lehrers, von P. Carolus Gschwandtner, Benediktiner von Seitenstetten, im vierten Jahr des Theologiestudiums. Im Jahr Christi 1711.**\n\na) **Abhandlung über Gerechtigkeit und Recht:** S. 9–61.  \nb) **Abhandlung über Restitution:** S. 63–102.  \nc) **Abhandlung über Verträge:** S. 105–129.  \nd) **Abhandlung über die Menschwerdung:** S. 137–226.  \ne) **Abhandlung über die Sakramente im Allgemeinen:** S. 227–261.  \nf) **Abhandlung über die Taufe:** S. 263–276.  \ng) **Abhandlung über die Firmung:** S. 277–280.  \nh) **Abhandlung über die Allerheiligste Eucharistie:** S. 281–292.  \ni) **Abhandlung über Tugend und Sakrament der Buße:** S. 295–348.  \nj) **Abhandlung über das Sakrament der Letzten Ölung:** S. 349–352.  \nk) **Abhandlung über das Sakrament der Weihe:** S. 355–359.  \nl) **Disputation über die Ehe:** S. 360–369.\n\nSchluss S. 369: **P. Ludovicus Babenstuber, Mönch von Ettal und Professor in Salzburg, beendete [dies] in diesem Jahr, nämlich 1710, am 16. August.**\n\nDiese Notiz beweist jedoch nicht, dass im Codex selbst Vorlesungen P. Ludovicus Babenstubers wiedergegeben werden. Wohl aber scheinen seine Vorlesungen dem Kompilator als Quelle gedient zu haben, etwa die von ihm im Studienjahr 1709/10 über die Abhandlungen i–l gehaltenen Vorlesungen.",
+    "germanHtml": "<p>Kleines Oktavformat; 374 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben ~~[frühere Datierung gestrichen]~~ 1711.</p>\n<p><strong>Gesamte Theologie nach der Lehre des hl. Thomas, aus verschiedenen Autoren kompendienhaft zusammengestellt. Band II. Enthält die Abhandlungen über Gerechtigkeit und Recht, Restitution, Verträge, Menschwerdung, Sakramente im Allgemeinen und im Einzelnen nach dem zweiten und dritten Teil der Summa des engelgleichen Lehrers, von P. Carolus Gschwandtner, Benediktiner von Seitenstetten, im vierten Jahr des Theologiestudiums. Im Jahr Christi 1711.</strong></p>\n<p>a) <strong>Abhandlung über Gerechtigkeit und Recht:</strong> S. 9–61. b) <strong>Abhandlung über Restitution:</strong> S. 63–102. c) <strong>Abhandlung über Verträge:</strong> S. 105–129. d) <strong>Abhandlung über die Menschwerdung:</strong> S. 137–226. e) <strong>Abhandlung über die Sakramente im Allgemeinen:</strong> S. 227–261. f) <strong>Abhandlung über die Taufe:</strong> S. 263–276. g) <strong>Abhandlung über die Firmung:</strong> S. 277–280. h) <strong>Abhandlung über die Allerheiligste Eucharistie:</strong> S. 281–292. i) <strong>Abhandlung über Tugend und Sakrament der Buße:</strong> S. 295–348. j) <strong>Abhandlung über das Sakrament der Letzten Ölung:</strong> S. 349–352. k) <strong>Abhandlung über das Sakrament der Weihe:</strong> S. 355–359. l) <strong>Disputation über die Ehe:</strong> S. 360–369.</p>\n<p>Schluss S. 369: <strong>P. Ludovicus Babenstuber, Mönch von Ettal und Professor in Salzburg, beendete [dies] in diesem Jahr, nämlich 1710, am 16. August.</strong></p>\n<p>Diese Notiz beweist jedoch nicht, dass im Codex selbst Vorlesungen P. Ludovicus Babenstubers wiedergegeben werden. Wohl aber scheinen seine Vorlesungen dem Kompilator als Quelle gedient zu haben, etwa die von ihm im Studienjahr 1709/10 über die Abhandlungen i–l gehaltenen Vorlesungen.</p>",
+    "latin": "8° min., 374 pagg.; teg. a2; script. ~~[frühere Datierung gestrichen]~~ 1711\n\nUniversa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711.\n\na) Tractatus de Justitia, et Jure: p. 9–61  \nb) Tractatus de Restitutione: p. 63–102  \nc) Tractatus de Contractibus: p. 105–129  \nd) Tractatus de Incarnatione: p. 137–226  \ne) Tractatus de Sacramentis in genere: p. 227–261  \nf) Tractatus de Baptismate: p. 263–276  \ng) Tractatus de Confirmatione: p. 277–280  \nh) Tractatus de Sanctissima Eucharistia: p. 281–292  \ni) Tractatus de Virtute et Sacramento Paenitentiae: p. 295–348  \nj) Tractatus de Sacramento Extremae Unctionis: p. 349–352  \nk) Tractatus de Sacramento ordinis: p. 355–359  \nl) Disputatio De Matrimonio: p. 360–369\n\nClausula p. 369: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen nota non indicat, lectiones P. Ludovici Babenstuber in codice nostro notatas esse. Videntur autem lectiones illius celeberrimi professoris compilatori nostro usui fuisse, ex. gr. lectiones a P. Ludovico Babenstuber de tractatibus i–l anno scholari 1709/10 habitae.)",
+    "latinHtml": "<p>8° min., 374 pagg.; teg. a2; script. ~~[frühere Datierung gestrichen]~~ 1711</p>\n<p>Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711.</p>\n<p>a) Tractatus de Justitia, et Jure: p. 9–61 b) Tractatus de Restitutione: p. 63–102 c) Tractatus de Contractibus: p. 105–129 d) Tractatus de Incarnatione: p. 137–226 e) Tractatus de Sacramentis in genere: p. 227–261 f) Tractatus de Baptismate: p. 263–276 g) Tractatus de Confirmatione: p. 277–280 h) Tractatus de Sanctissima Eucharistia: p. 281–292 i) Tractatus de Virtute et Sacramento Paenitentiae: p. 295–348 j) Tractatus de Sacramento Extremae Unctionis: p. 349–352 k) Tractatus de Sacramento ordinis: p. 355–359 l) Disputatio De Matrimonio: p. 360–369</p>\n<p>Clausula p. 369: Absolvit hoc anno nimirum 1710 P. (Ludovicus) Babenstuber (Monachus Ettalensis et Professor Salisburgensis) die 16. Augusti. (Quae tamen nota non indicat, lectiones P. Ludovici Babenstuber in codice nostro notatas esse. Videntur autem lectiones illius celeberrimi professoris compilatori nostro usui fuisse, ex. gr. lectiones a P. Ludovico Babenstuber de tractatibus i–l anno scholari 1709/10 habitae.)</p>"
+  },
+  "source": {
+    "file": "MN III 25.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-iii-25/",
+  "relations": [],
+  "search": {
+    "signature": "MN III 25",
+    "titles": "Universa Theologia ad Mentem Divi Thomae ex diversis Auctoribus compendiosè concinnata Tomus II. Complectens Tractatus de Justitia, et Jure, Restitutione, Contractibus, Incarnatione, Sacramentis in genere, et specie. iuxta II. et III. partem Summae Angelicae â P. Carolo Gschwandtner Benedictino Seittenstettensi in 4 annum Theologiae Studioso. Anno Christi 1711 \nTractatus de Justitia, et Jure \nTractatus de Restitutione \nTractatus de Contractibus \nTractatus de Incarnatione \nTractatus de Sacramentis in genere \nTractatus de Baptismate \nTractatus de Confirmatione \nTractatus de Sanctissima Eucharistia \nTractatus de Virtute et Sacramento Paenitentiae \nTractatus de Sacramento Extremae Unctionis \nTractatus de Sacramento ordinis \nDisputatio De Matrimonio",
+    "persons": "P. Carolus Gschwandtner Bearbeiter compiler",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n8° min., 374 pagg. \nKleines Oktavformat \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

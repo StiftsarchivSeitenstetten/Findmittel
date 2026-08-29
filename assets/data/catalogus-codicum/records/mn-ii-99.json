@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-99",
+  "signature": "MN II 99",
+  "aliases": [
+    "Bibl. Cod. MN II 99",
+    "De Vitiis et Peccatis ac Legibus"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "63",
+  "heading": {
+    "title": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1669"
+  },
+  "date": {
+    "display": "1669",
+    "intervals": [
+      {
+        "from": 1669,
+        "to": 1669,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 1–135r",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Tractatus De Legibus",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "fol. 138r–167v",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Fr. Ambrosius Marholt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "contents"
+    },
+    {
+      "name": "P. Benedictus Pettschacher",
+      "roleRaw": "author_or_lecturer",
+      "roleLabel": "author or lecturer",
+      "scope": "contents",
+      "affiliation": "St. Lambrecht"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "170 Blätter",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1669",
+        "intervals": [
+          {
+            "from": 1669,
+            "to": 1669,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "spine_title",
+      "text": "MS. Reverendissimi Marholt Seittenstettensis sub P. Pettschacher de Vitiis et peccatis ac Legibus 1669."
+    }
+  ],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "170 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.\n\na) **Abhandlung über Laster und Sünden zur Prima Secundae des hl. Thomas, von Frage 71 bis Frage 90:** fol. 1–135r. Anfang fol. 1r: **Der heilige Lehrer schließt diese Abhandlung folgendermaßen ab......**\n\nb) **Abhandlung über die Gesetze:** fol. 138r–167v. Anfang der ersten Disputation zu Frage 90 des heiligen Lehrers **Über das Gesetz im Allgemeinen**, fol. 138r: **Du wirst zunächst fragen, ob das Gesetz ein Akt der Vernunft oder des Willens sei?.....**\n\nRückenaufschrift: **Handschrift des hochwürdigsten Marholt aus Seitenstetten unter P. Pettschacher über Laster und Sünden sowie Gesetze, 1669.**\n\nDer Schreiber ist also **Fr. Ambrosius Marholt** (siehe zu Codex MN II 98), der Verfasser hingegen **P. Benedictus Pettschacher**, Profess des Klosters St. Lambrecht in der Steiermark.\n\nDieselben Vorlesungen findet man in den Codices MN II 103 und MN II 111.",
+    "germanHtml": "<p>170 Blätter; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen, wie bei Codex MN II 98; geschrieben 1669.</p>\n<p>a) <strong>Abhandlung über Laster und Sünden zur Prima Secundae des hl. Thomas, von Frage 71 bis Frage 90:</strong> fol. 1–135r. Anfang fol. 1r: <strong>Der heilige Lehrer schließt diese Abhandlung folgendermaßen ab......</strong></p>\n<p>b) <strong>Abhandlung über die Gesetze:</strong> fol. 138r–167v. Anfang der ersten Disputation zu Frage 90 des heiligen Lehrers <strong>Über das Gesetz im Allgemeinen</strong>, fol. 138r: <strong>Du wirst zunächst fragen, ob das Gesetz ein Akt der Vernunft oder des Willens sei?.....</strong></p>\n<p>Rückenaufschrift: <strong>Handschrift des hochwürdigsten Marholt aus Seitenstetten unter P. Pettschacher über Laster und Sünden sowie Gesetze, 1669.</strong></p>\n<p>Der Schreiber ist also <strong>Fr. Ambrosius Marholt</strong> (siehe zu Codex MN II 98), der Verfasser hingegen <strong>P. Benedictus Pettschacher</strong>, Profess des Klosters St. Lambrecht in der Steiermark.</p>\n<p>Dieselben Vorlesungen findet man in den Codices MN II 103 und MN II 111.</p>",
+    "latin": "170 foll.; teg. a2 (ut in codice MN II 98); script. 1669\n\na) Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam: fol. 1–135r. _Initium_ fol. 1r: Hunc tractatum ita absolvit Sanctus Doctor......\n\nb) Tractatus De Legibus: fol. 138r–167v. _Initium_ Disputationis Primae in quaestionem 90 S: Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....\n\nInscriptio dorsi: MS. Reverendissimi Marholt Seittenstettensis sub P. Pettschacher de Vitiis et peccatis ac Legibus 1669.\n\nScriptor igitur est **Fr. Ambrosius Marholt** (vide ad cod. MN II 98!), auctor autem **P. Benedictus Pettschacher**, Monachus ad S. Lambertum in Styria professus.\n\nEasdem lectiones invenies in codicibus MN II 103 et 111.",
+    "latinHtml": "<p>170 foll.; teg. a2 (ut in codice MN II 98); script. 1669</p>\n<p>a) Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam: fol. 1–135r. _Initium_ fol. 1r: Hunc tractatum ita absolvit Sanctus Doctor......</p>\n<p>b) Tractatus De Legibus: fol. 138r–167v. _Initium_ Disputationis Primae in quaestionem 90 S: Doctoris De Lege in Communi fol. 138r: Quaeres primo, an lex sit actus rationis vel voluntatis?.....</p>\n<p>Inscriptio dorsi: MS. Reverendissimi Marholt Seittenstettensis sub P. Pettschacher de Vitiis et peccatis ac Legibus 1669.</p>\n<p>Scriptor igitur est <strong>Fr. Ambrosius Marholt</strong> (vide ad cod. MN II 98!), auctor autem <strong>P. Benedictus Pettschacher</strong>, Monachus ad S. Lambertum in Styria professus.</p>\n<p>Easdem lectiones invenies in codicibus MN II 103 et 111.</p>"
+  },
+  "source": {
+    "file": "MN II 99.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-99/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 103]]",
+      "targetId": "mn-ii-103",
+      "targetSignature": "MN II 103",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    },
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 111]]",
+      "targetId": "mn-ii-111",
+      "targetSignature": "MN II 111",
+      "appliesTo": [],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 99",
+    "titles": "Tractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam \nTractatus De Vitiis et Peccatis in Primam Secundae Divi Thomae à quaestione 71 usque ad Nonagesimam \nTractatus De Legibus",
+    "persons": "Fr. Ambrosius Marholt Schreiber scribe \nP. Benedictus Pettschacher author or lecturer author_or_lecturer",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n170 Blätter \ncode: a2; description: Wie MN II 98: weißer Holzdeckeleinband mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}

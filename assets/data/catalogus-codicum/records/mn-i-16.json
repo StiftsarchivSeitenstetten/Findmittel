@@ -1,0 +1,202 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-i-16",
+  "signature": "MN I 16",
+  "aliases": [
+    "Bibl. Cod. MN I 16",
+    "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken",
+    "Böhmische Bergwerksgeschichte"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "244",
+  "heading": {
+    "title": "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "date": "nicht vor 1763; möglicherweise um 1780"
+  },
+  "date": {
+    "display": "nicht vor 1763; möglicherweise um 1780",
+    "intervals": [
+      {
+        "from": 1763,
+        "to": 1763,
+        "source": "structured_bounds"
+      }
+    ],
+    "normalization": "structured_bounds",
+    "certainty": "partly_inferred",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken",
+    "titleTypeRaw": "original",
+    "titleTypeLabel": "überlieferter Titel",
+    "translation": "",
+    "summary": "Geschichte des Bergbaus im Königreich Böhmen mit abschließendem Register.",
+    "language": "de",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-1",
+      "label": "1",
+      "type": "",
+      "title": {
+        "text": "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 3–235",
+      "language": "de",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [
+        {
+          "name": "Thaddaeus Peithner",
+          "roleRaw": "author",
+          "roleLabel": "Autor",
+          "scope": "item",
+          "itemId": "item-1"
+        }
+      ],
+      "subitems": []
+    },
+    {
+      "id": "item-2",
+      "label": "2",
+      "type": "index",
+      "title": {
+        "text": "Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten",
+        "typeRaw": "original",
+        "typeLabel": "überlieferter Titel"
+      },
+      "locus": "S. 237–250",
+      "language": "de",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "Thaddaeus Peithner",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript"
+    },
+    {
+      "name": "unbekannt",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Thaddaeus Peithner",
+      "roleRaw": "author; kaiserlich-königlicher Rat; Beisitzer des Oberstmünz- und Bergmeisteramtes; öffentlicher Lehrer der Bergwissenschaften; königlich böhmischer Bergrat",
+      "roleLabel": "author; kaiserlich-königlicher Rat; Beisitzer des Oberstmünz- und Bergmeisteramtes; öffentlicher Lehrer der Bergwissenschaften; königlich böhmischer Bergrat",
+      "scope": "manuscript"
+    },
+    {
+      "name": "Thaddaeus Peithner",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "item",
+      "itemId": "item-1"
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "256 Seiten",
+    "format": "Folio",
+    "binding": {
+      "code": "c1d",
+      "description": "Grauer Pappeinband mit Lederrücken und lederverstärkten Ecken.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": {
+      "scribe": "unbekannt",
+      "description": "Sehr sorgfältig geschrieben.",
+      "note": "Der Katalog bezeichnet den Schreiber ausdrücklich als unbekannt."
+    },
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "nicht vor 1763; möglicherweise um 1780",
+        "intervals": [
+          {
+            "from": 1763,
+            "to": 1763,
+            "source": "structured_bounds"
+          }
+        ],
+        "normalization": "structured_bounds",
+        "certainty": "partly_inferred",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": "Der Katalog unterscheidet ausdrücklich zwischen der Abfassungszeit des Werkes und der Entstehungszeit der vorliegenden Abschrift."
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [
+    {
+      "type": "author_statement",
+      "locus": "S. 221",
+      "text": "Seit einigen Jahren haben Ihro Kayserliche Königliche Apostolische Mayestät das Obriste Müntz= und Berg Meister Amt neben dem Obristen Müntz Meister als Vorsitzern, welcher bis dahin das Amt nur allein verwaltet hat, mit mehreren Königlichen Berg=Räthen sowohl aus dem Herren als Bürgerstandt vermehret, zu welchen Collegio ich dann am ersten untern 31ten Januarij 1763. als Königlicher Böhmischer Berg Rath gezohen worden, Nachdem allerdurchlauchtigst gedacht Ihro Mayestät mich kurz bevor untern 31ten Decembris 1762. schon zum öffentlichen Lehrer sammentlicher Berg=Wissenschaften allergnädigst ernennet hatten.",
+      "function": "dating_evidence"
+    }
+  ],
+  "editorialNotes": [
+    "Die Datierung 'nicht vor 1763' beruht auf einer autobiographischen Angabe des Verfassers auf S. 221.",
+    "Der Katalogbearbeiter nimmt an, dass das Werk selbst nicht viele Jahre nach 1763 verfasst wurde.",
+    "Ob die vorliegende Handschrift unmittelbar nach der Abfassung des Werkes abgeschrieben wurde, bleibt ausdrücklich ungewiss.",
+    "Die Datierung der konkreten Abschrift um 1780 ist nur eine paläographisch und einbandkundlich begründete Vermutung des Katalogbearbeiters.",
+    "Werkentstehung und Entstehung des vorliegenden Codex werden daher getrennt modelliert."
+  ],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "Folioformat; 256 Seiten; grauer Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben nicht vor 1763.\n\n**Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken:** S. 3–235, mit dem Register: **Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten:** S. 237–250.\n\nDer Schreiber dieses äußerst sorgfältig geschriebenen Werkes ist unbekannt.\n\nDer Verfasser dieses Werkes wird am Ende der Vorrede auf S. 9 genannt: **Thaddaeus Peithner dermahliger Kayserlich Königlicher Rath, Obrist Müntz= und Bergmeister Amts Beysitzer, und sammentlicher Berg=Wissenschaften Öffentlicher Lehrer.**\n\nWann unser Werk entstanden ist, zeigt S. 221: **Seit einigen Jahren haben Ihro Kayserliche Königliche Apostolische Mayestät das Obriste Müntz= und Berg Meister Amt neben dem Obristen Müntz Meister als Vorsitzern, welcher bis dahin das Amt nur allein verwaltet hat, mit mehreren Königlichen Berg=Räthen sowohl aus dem Herren als Bürgerstandt vermehret, zu welchen Collegio ich dann am ersten untern 31ten Januarij 1763. als Königlicher Böhmischer Berg Rath gezohen worden, Nachdem allerdurchlauchtigst gedacht Ihro Mayestät mich kurz bevor untern 31ten Decembris 1762. schon zum öffentlichen Lehrer sammentlicher Berg=Wissenschaften allergnädigst ernennet hatten.**\n\nDa dies so ist, kann unser Codex nicht vor dem Jahr 1763 geschrieben worden sein. Das in unserem Codex enthaltene Werk wurde jedoch nicht viele Jahre nach 1763 verfasst. Wir wissen allerdings nicht, ob unser Codex unmittelbar nach der Abfassung des Werkes abgeschrieben wurde. Schrift und Einband scheinen auf eine Entstehungszeit um das Jahr 1780 hinzuweisen.",
+    "germanHtml": "<p>Folioformat; 256 Seiten; grauer Pappeinband mit Lederrücken und lederverstärkten Ecken; geschrieben nicht vor 1763.</p>\n<p><strong>Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken:</strong> S. 3–235, mit dem Register: <strong>Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten:</strong> S. 237–250.</p>\n<p>Der Schreiber dieses äußerst sorgfältig geschriebenen Werkes ist unbekannt.</p>\n<p>Der Verfasser dieses Werkes wird am Ende der Vorrede auf S. 9 genannt: <strong>Thaddaeus Peithner dermahliger Kayserlich Königlicher Rath, Obrist Müntz= und Bergmeister Amts Beysitzer, und sammentlicher Berg=Wissenschaften Öffentlicher Lehrer.</strong></p>\n<p>Wann unser Werk entstanden ist, zeigt S. 221: <strong>Seit einigen Jahren haben Ihro Kayserliche Königliche Apostolische Mayestät das Obriste Müntz= und Berg Meister Amt neben dem Obristen Müntz Meister als Vorsitzern, welcher bis dahin das Amt nur allein verwaltet hat, mit mehreren Königlichen Berg=Räthen sowohl aus dem Herren als Bürgerstandt vermehret, zu welchen Collegio ich dann am ersten untern 31ten Januarij 1763. als Königlicher Böhmischer Berg Rath gezohen worden, Nachdem allerdurchlauchtigst gedacht Ihro Mayestät mich kurz bevor untern 31ten Decembris 1762. schon zum öffentlichen Lehrer sammentlicher Berg=Wissenschaften allergnädigst ernennet hatten.</strong></p>\n<p>Da dies so ist, kann unser Codex nicht vor dem Jahr 1763 geschrieben worden sein. Das in unserem Codex enthaltene Werk wurde jedoch nicht viele Jahre nach 1763 verfasst. Wir wissen allerdings nicht, ob unser Codex unmittelbar nach der Abfassung des Werkes abgeschrieben wurde. Schrift und Einband scheinen auf eine Entstehungszeit um das Jahr 1780 hinzuweisen.</p>",
+    "latin": "fol.; 256 pagg.; teg. c1d; script. non ante 1763\n\n**Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken:** p. 3–235 cum indice: **Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten:** p. 237–250\n\nScriptor operis huius diligentissime scripti ignotus.\n\nAuctor huius operis in fine praefationis notatur p. 9: **Thaddaeus Peithner dermahliger Kayserlich Königlicher Rath, Obrist Müntz= und Bergmeister Amts Beysitzer, und sammentlicher Berg=Wissenschaften Öffentlicher Lehrer.**\n\nQuando opus nostrum ortum sit, indicat p. 221: **Seit einigen Jahren haben Ihro Kayserliche Königliche Apostolische Mayestät das Obriste Müntz= und Berg Meister Amt neben dem Obristen Müntz Meister als Vorsitzern, welcher bis dahin das Amt nur allein verwaltet hat, mit mehreren Königlichen Berg=Räthen sowohl aus dem Herren als Bürgerstandt vermehret, zu welchen Collegio ich dann am ersten untern 31ten Januarij 1763. als Königlicher Böhmischer Berg Rath gezohen worden, Nachdem allerdurchlauchtigst gedacht Ihro Mayestät mich kurz bevor untern 31ten Decembris 1762. schon zum öffentlichen Lehrer sammentlicher Berg=Wissenschaften allergnädigst ernennet hatten.**\n\nQuae cum ita sint, codex noster non potest esse scriptus ante annum 1763. Opus autem codicis nostri non multis annis post 1763 compositum est. Nescimus vero, num codex noster statim post opus compositum descriptus sit. Scriptura et tegumentum videntur indicare tempus originis circa annum 1780.",
+    "latinHtml": "<p>fol.; 256 pagg.; teg. c1d; script. non ante 1763</p>\n<p><strong>Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken:</strong> p. 3–235 cum indice: <strong>Kurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten:</strong> p. 237–250</p>\n<p>Scriptor operis huius diligentissime scripti ignotus.</p>\n<p>Auctor huius operis in fine praefationis notatur p. 9: <strong>Thaddaeus Peithner dermahliger Kayserlich Königlicher Rath, Obrist Müntz= und Bergmeister Amts Beysitzer, und sammentlicher Berg=Wissenschaften Öffentlicher Lehrer.</strong></p>\n<p>Quando opus nostrum ortum sit, indicat p. 221: <strong>Seit einigen Jahren haben Ihro Kayserliche Königliche Apostolische Mayestät das Obriste Müntz= und Berg Meister Amt neben dem Obristen Müntz Meister als Vorsitzern, welcher bis dahin das Amt nur allein verwaltet hat, mit mehreren Königlichen Berg=Räthen sowohl aus dem Herren als Bürgerstandt vermehret, zu welchen Collegio ich dann am ersten untern 31ten Januarij 1763. als Königlicher Böhmischer Berg Rath gezohen worden, Nachdem allerdurchlauchtigst gedacht Ihro Mayestät mich kurz bevor untern 31ten Decembris 1762. schon zum öffentlichen Lehrer sammentlicher Berg=Wissenschaften allergnädigst ernennet hatten.</strong></p>\n<p>Quae cum ita sint, codex noster non potest esse scriptus ante annum 1763. Opus autem codicis nostri non multis annis post 1763 compositum est. Nescimus vero, num codex noster statim post opus compositum descriptus sit. Scriptura et tegumentum videntur indicare tempus originis circa annum 1780.</p>"
+  },
+  "source": {
+    "file": "MN I 16.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-i-16/",
+  "relations": [],
+  "search": {
+    "signature": "MN I 16",
+    "titles": "Geschichte deren in dem Königreich Boehmen betriebenen Bergwerken \nGeschichte deren in dem Königreich Boehmen betriebenen Bergwerken \nKurz gefasster Innhalt gegenwärtigen Grund Risses der Böhmischen Bergwerks Geschichten",
+    "persons": "Thaddaeus Peithner Autor author \nunbekannt Schreiber scribe \nThaddaeus Peithner author; kaiserlich-königlicher Rat; Beisitzer des Oberstmünz- und Bergmeisteramtes; öffentlicher Lehrer der Bergwissenschaften; königlich böhmischer Bergrat author; kaiserlich-königlicher Rat; Beisitzer des Oberstmünz- und Bergmeisteramtes; öffentlicher Lehrer der Bergwissenschaften; königlich böhmischer Bergrat \nThaddaeus Peithner Autor author",
+    "incipits": "",
+    "explicits": "",
+    "notes": "Geschichte des Bergbaus im Königreich Böhmen mit abschließendem Register. \nde \nDie Datierung 'nicht vor 1763' beruht auf einer autobiographischen Angabe des Verfassers auf S. 221. \nDer Katalogbearbeiter nimmt an, dass das Werk selbst nicht viele Jahre nach 1763 verfasst wurde. \nOb die vorliegende Handschrift unmittelbar nach der Abfassung des Werkes abgeschrieben wurde, bleibt ausdrücklich ungewiss. \nDie Datierung der konkreten Abschrift um 1780 ist nur eine paläographisch und einbandkundlich begründete Vermutung des Katalogbearbeiters. \nWerkentstehung und Entstehung des vorliegenden Codex werden daher getrennt modelliert.",
+    "physical": "Papier \n256 Seiten \nFolio \ncode: c1d; description: Grauer Pappeinband mit Lederrücken und lederverstärkten Ecken."
+  }
+}

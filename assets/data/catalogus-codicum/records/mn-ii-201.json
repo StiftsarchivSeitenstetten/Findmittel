@@ -1,0 +1,156 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-201",
+  "signature": "MN II 201",
+  "aliases": [
+    "Bibl. Cod. MN II 201"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "151",
+  "heading": {
+    "title": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1699/1700"
+  },
+  "date": {
+    "display": "1699/1700",
+    "intervals": [
+      {
+        "from": 1699,
+        "to": 1700,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [],
+      "dates": [
+        {
+          "type": "start_date",
+          "display": "1699"
+        },
+        {
+          "type": "end_date",
+          "display": "1700-08-26"
+        }
+      ],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Carolus Schrenk",
+      "roleRaw": "lecturer",
+      "roleLabel": "Dozent",
+      "scope": "manuscript",
+      "affiliation": "St. Peter in Salzburg / Universität Salzburg"
+    },
+    {
+      "name": "Fr. Engelbertus Veser",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "affiliation": "Seitenstetten",
+      "note": "Der Katalog weist ihm auch den vorhergehenden und die fünf folgenden Codices zu."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "242 foll.",
+    "format": "",
+    "binding": {
+      "code": "d",
+      "description": "Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Vorder- und Rückdeckel rot, die übrigen Teile weiß.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1699/1700",
+        "intervals": [
+          {
+            "from": 1699,
+            "to": 1700,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "242 Blätter; Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken, Vorder- und Rückdeckel rot, die übrigen Teile weiß; geschrieben 1699/1700.\n\n**Zehnte Abhandlung zum dritten Teil des hl. Thomas von Aquin über das verborgene Geheimnis der Menschwerdung**, vorgetragen von P. Carolus Schrenk, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Engelbertus Veser, Benediktiner und Profess von Seitenstetten, im Jahr 1699.\n\nAnfang der Vorrede: Da Ziel und Zweck der gesamten theologischen Summa..... Schluss fol. 241v: **Wir beendeten diese Abhandlung über das Geheimnis der Menschwerdung am 26. August 1700.**\n\nFr. Engelbertus Veser schrieb auch den vorhergehenden und die fünf folgenden Codices.",
+    "germanHtml": "<p>242 Blätter; Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken, Vorder- und Rückdeckel rot, die übrigen Teile weiß; geschrieben 1699/1700.</p>\n<p><strong>Zehnte Abhandlung zum dritten Teil des hl. Thomas von Aquin über das verborgene Geheimnis der Menschwerdung</strong>, vorgetragen von P. Carolus Schrenk, Benediktiner und Profess von St. Peter in Salzburg, Doktor der heiligen Theologie und ordentlicher Professor; aufgezeichnet von Fr. Engelbertus Veser, Benediktiner und Profess von Seitenstetten, im Jahr 1699.</p>\n<p>Anfang der Vorrede: Da Ziel und Zweck der gesamten theologischen Summa..... Schluss fol. 241v: <strong>Wir beendeten diese Abhandlung über das Geheimnis der Menschwerdung am 26. August 1700.</strong></p>\n<p>Fr. Engelbertus Veser schrieb auch den vorhergehenden und die fünf folgenden Codices.</p>",
+    "latin": "242 foll.; teg. d (pars adversa et aversa rubra, cetera alba)\n\nTractatus decimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Arcano Incarnationis Mysterio. Traditus â .....P. Carolo Schrenk, ordinis S. P. Benedicti, Celeberrimi et Antiquissimi Monasterii ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Exceptus â F. Engelberto Veser, ordinis S. P. Benedicti Professo Seittenstettensi Anno 1699.\n\nInitium Proloquii: Cum finis et scopus Totius Summae Theologicae.....  \nClausula fol. 241v: Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.\n\nIdem F. Engelbertus Veser etiam codicem praecedentem et quinque sequentes exaravit.",
+    "latinHtml": "<p>242 foll.; teg. d (pars adversa et aversa rubra, cetera alba)</p>\n<p>Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis Doctoris Angelici de Arcano Incarnationis Mysterio. Traditus â .....P. Carolo Schrenk, ordinis S. P. Benedicti, Celeberrimi et Antiquissimi Monasterii ad S. Petrum Salisburgi Professo, Sacrosanctae Theologiae Doctore et Professore Ordinario. Exceptus â F. Engelberto Veser, ordinis S. P. Benedicti Professo Seittenstettensi Anno 1699.</p>\n<p>Initium Proloquii: Cum finis et scopus Totius Summae Theologicae..... Clausula fol. 241v: Absolvimus hunc Tractatum de Mysterio Incarnationis die 26 Augusti. Anno Christi 1700.</p>\n<p>Idem F. Engelbertus Veser etiam codicem praecedentem et quinque sequentes exaravit.</p>"
+  },
+  "source": {
+    "file": "MN II 201.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-201/",
+  "relations": [],
+  "search": {
+    "signature": "MN II 201",
+    "titles": "Tractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio \nTractatus decimus In Tertiam Partem Divi Thomae Aquinatis de Arcano Incarnationis Mysterio",
+    "persons": "P. Carolus Schrenk Dozent lecturer \nFr. Engelbertus Veser Schreiber scribe",
+    "incipits": "",
+    "explicits": "",
+    "notes": "",
+    "physical": "Papier \n242 foll. \ncode: d; description: Halblederband: Pappeinband mit lederverstärktem Rücken und Ecken; Vorder- und Rückdeckel rot, die übrigen Teile weiß."
+  }
+}

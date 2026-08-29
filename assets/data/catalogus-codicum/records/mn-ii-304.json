@@ -1,0 +1,206 @@
+{
+  "schemaVersion": 1,
+  "id": "mn-ii-304",
+  "signature": "MN II 304",
+  "aliases": [
+    "Bibl. Cod. MN II 304"
+  ],
+  "repository": "Stiftsbibliothek Seitenstetten",
+  "catalogPage": "255–256",
+  "heading": {
+    "title": "Logica minor Sive Dialectica Pars prima Logicae",
+    "titleTypeRaw": null,
+    "titleTypeLabel": null,
+    "date": "1776"
+  },
+  "date": {
+    "display": "1776",
+    "intervals": [
+      {
+        "from": 1776,
+        "to": 1776,
+        "source": "structured"
+      }
+    ],
+    "normalization": "structured",
+    "certainty": "",
+    "qualifier": ""
+  },
+  "contentsOverview": {
+    "title": "",
+    "titleTypeRaw": "",
+    "titleTypeLabel": "",
+    "translation": "",
+    "summary": "",
+    "language": "",
+    "locus": "",
+    "incipit": null,
+    "explicit": null,
+    "part": "",
+    "note": "",
+    "completeness": ""
+  },
+  "contents": [
+    {
+      "id": "item-a",
+      "label": "a",
+      "type": "",
+      "title": {
+        "text": "Logica minor Sive Dialectica Pars prima Logicae",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–50",
+      "language": "",
+      "incipit": {
+        "text": "Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata"
+      },
+      "explicit": null,
+      "notes": [
+        {
+          "type": "completeness",
+          "text": "incomplete"
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    },
+    {
+      "id": "item-b",
+      "label": "b",
+      "type": "",
+      "title": {
+        "text": "Correcta Rhetorices Studiosi Seitenstettensis Anno 1776",
+        "typeRaw": null,
+        "typeLabel": null
+      },
+      "locus": "S. 1–176 (= S. 51–226)",
+      "language": "",
+      "incipit": null,
+      "explicit": null,
+      "notes": [
+        {
+          "type": "note",
+          "text": "Im Titel ist „Joannis Fux“ teilweise gestrichen. Ein alphabetischer Index rerum folgt S. 180–189 (= S. 230–239); zwischen S. 178 und 179 wurden zahlreiche Blätter herausgeschnitten."
+        }
+      ],
+      "dates": [],
+      "persons": [],
+      "subitems": []
+    }
+  ],
+  "persons": [
+    {
+      "name": "P. Michael Rothmayr",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "affiliation": "Stift Seitenstetten",
+      "certainty": "inferred_from_parallel"
+    },
+    {
+      "name": "Josephus Fux",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "certain"
+    },
+    {
+      "name": "Joannes Fux",
+      "roleRaw": "scribe",
+      "roleLabel": "Schreiber",
+      "scope": "manuscript",
+      "certainty": "certain",
+      "note": "Möglicherweise der spätere P. Robertus Fux."
+    },
+    {
+      "name": "Joannes Fux",
+      "roleRaw": "author",
+      "roleLabel": "Autor",
+      "scope": "manuscript",
+      "certainty": "probable",
+      "note": "Verfasste die rhetorischen Übungen wahrscheinlich selbst und schrieb die korrigierten Fassungen ein."
+    }
+  ],
+  "physicalDescription": {
+    "objectForm": "codex",
+    "support": "Papier",
+    "extent": "50 + 194 = 244 pagg.",
+    "format": "",
+    "binding": {
+      "code": "a2",
+      "description": "Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen.",
+      "certainty": "",
+      "note": ""
+    },
+    "handDescription": "",
+    "condition": "",
+    "decoration": "",
+    "collation": "",
+    "layout": ""
+  },
+  "history": {
+    "origin": {
+      "date": {
+        "display": "1776",
+        "intervals": [
+          {
+            "from": 1776,
+            "to": 1776,
+            "source": "structured"
+          }
+        ],
+        "normalization": "structured",
+        "certainty": "",
+        "qualifier": ""
+      },
+      "place": "",
+      "institution": "",
+      "note": ""
+    },
+    "provenance": [],
+    "notes": []
+  },
+  "additions": [],
+  "editorialNotes": [],
+  "references": {
+    "publicationHistory": null,
+    "references": null,
+    "sourceReferences": null,
+    "bibliography": null
+  },
+  "catalogue": {
+    "german": "50 + 194 = 244 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1776.\n\na) **Kleine Logik oder Dialektik, erster Teil der Logik:** S. 1–50.\n\nUnter diesem Titel steht der Name **Josephus Fux**, der ohne Zweifel Schreiber dieses Teiles war.\n\nAnfang der ersten Abhandlung **Über Wörter als Zeichen der Tätigkeiten des Geistes**, S. 1: Logik wird vom griechischen Wort *Logos*, das Vernunft oder Rede bedeutet, hergeleitet;.....\n\nDieser Teil enthält sicher dieselbe – allerdings unvollständige – Abhandlung wie Teil a von MN II 300. Daher ist auch hier **P. Michael Rothmayr**, Seitenstettner Mönch, Verfasser. Ob Teil a unseres Codex ebenfalls 1768, im selben Jahr wie MN II 300, diktiert und geschrieben wurde, ist sehr zweifelhaft, da Teil b erst 1776 geschrieben wurde. P. Michael Rothmayr konnte dieselben philosophischen Abhandlungen durchaus über mehrere Jahre hinweg diktieren.\n\nb) **Correcta [Joannis Fux – teilweise gestrichen] Rhetorices Studiosi Seitenstettensis Anno 1776:** S. 1–176 (= S. 51–226), mit alphabetischem Sachregister im Anhang S. 180–189 (= S. 230–239). Zwischen S. 178 und 179 sind zahlreiche Blätter herausgeschnitten.\n\nJener Joannes Fux, der diesen korrigierten Teil schrieb, könnte mit **P. Robertus Fux**, gebürtig aus Seitenstetten und 1779 in das dortige Kloster eingetreten, identisch sein.\n\nDieser Teil enthält zahlreiche rhetorische Beispiele, etwa eine Beschreibung des Geizigen. Wahrscheinlich verfasste Joannes Fux diese Übungen selbst, ließ sie etwa von einem Lehrer korrigieren und schrieb die verbesserten Fassungen in unseren Codex ein.",
+    "germanHtml": "<p>50 + 194 = 244 Seiten; weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen; geschrieben 1776.</p>\n<p>a) <strong>Kleine Logik oder Dialektik, erster Teil der Logik:</strong> S. 1–50.</p>\n<p>Unter diesem Titel steht der Name <strong>Josephus Fux</strong>, der ohne Zweifel Schreiber dieses Teiles war.</p>\n<p>Anfang der ersten Abhandlung <strong>Über Wörter als Zeichen der Tätigkeiten des Geistes</strong>, S. 1: Logik wird vom griechischen Wort <em>Logos</em>, das Vernunft oder Rede bedeutet, hergeleitet;.....</p>\n<p>Dieser Teil enthält sicher dieselbe – allerdings unvollständige – Abhandlung wie Teil a von MN II 300. Daher ist auch hier <strong>P. Michael Rothmayr</strong>, Seitenstettner Mönch, Verfasser. Ob Teil a unseres Codex ebenfalls 1768, im selben Jahr wie MN II 300, diktiert und geschrieben wurde, ist sehr zweifelhaft, da Teil b erst 1776 geschrieben wurde. P. Michael Rothmayr konnte dieselben philosophischen Abhandlungen durchaus über mehrere Jahre hinweg diktieren.</p>\n<p>b) <strong>Correcta [Joannis Fux – teilweise gestrichen] Rhetorices Studiosi Seitenstettensis Anno 1776:</strong> S. 1–176 (= S. 51–226), mit alphabetischem Sachregister im Anhang S. 180–189 (= S. 230–239). Zwischen S. 178 und 179 sind zahlreiche Blätter herausgeschnitten.</p>\n<p>Jener Joannes Fux, der diesen korrigierten Teil schrieb, könnte mit <strong>P. Robertus Fux</strong>, gebürtig aus Seitenstetten und 1779 in das dortige Kloster eingetreten, identisch sein.</p>\n<p>Dieser Teil enthält zahlreiche rhetorische Beispiele, etwa eine Beschreibung des Geizigen. Wahrscheinlich verfasste Joannes Fux diese Übungen selbst, ließ sie etwa von einem Lehrer korrigieren und schrieb die verbesserten Fassungen in unseren Codex ein.</p>",
+    "latin": "50 + 194 = 244 pagg.; teg. a2; script. 1776\n\na) Logica minor Sive Dialectica Pars prima Logicae: p. 1–50.\n\nCui inscriptioni subscriptum est nomen **Josephus Fux**; qui sine dubio scriptor huius partis fuit.\n\nInitium Tractatus primi. De vocibus prout signis operationum Mentis: p. 1: Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata;.....\n\nHaec pars codicis nostri profecto eundem tractatum (imperfectum sane!) continet, quem in parte a codicis MN II 300 (supra p. 248) invenimus. Qua de causa etiam in codicis nostri MN II 304 parte a auctor est **P. Michael Rothmayr**, monachus Seitenstettensis, quem probabiliter in ipso monasterio Seitenstettensi lectiones philosophicas habuisse iam supra p. 248 diximus. Num vero pars a codicis nostri eodem anno 1768 tradita scriptaque sit, quo codex MN II 300, valde dubitandum est, cum pars b codicis nostri anno 1776 scripta sit. Potuit enim P. Michael Rothmayr eosdem tractatus philosophicos pluribus annis dictare.\n\nb) **Correcta [Joannis Fux – teilweise gestrichen] Rhetorices Studiosi Seitenstettensis Anno 1776:** p. 1–176 (= 51–226) cum indice rerum alphabetico in Appendice p. 180–189 (= 230–239) (NB! Inter pagg. 178 et 179 plurima folia excisa sunt.)\n\nJoannes ille Fux? qui hanc partem emendatam scripsit, forsitan idem sit qui **P. Robertus Fux**, patria Seitenstettensis, anno 1779 monasterium eiusdem loci ingressus.\n\nContinet haec pars plurima exempla oratoria, ex. gr. descriptionem avari, quae probabiliter ipse Joannes Fux composuit compositaque et (a magistro?) correcta codici nostro inscripsit.",
+    "latinHtml": "<p>50 + 194 = 244 pagg.; teg. a2; script. 1776</p>\n<p>a) Logica minor Sive Dialectica Pars prima Logicae: p. 1–50.</p>\n<p>Cui inscriptioni subscriptum est nomen <strong>Josephus Fux</strong>; qui sine dubio scriptor huius partis fuit.</p>\n<p>Initium Tractatus primi. De vocibus prout signis operationum Mentis: p. 1: Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata;.....</p>\n<p>Haec pars codicis nostri profecto eundem tractatum (imperfectum sane!) continet, quem in parte a codicis MN II 300 (supra p. 248) invenimus. Qua de causa etiam in codicis nostri MN II 304 parte a auctor est <strong>P. Michael Rothmayr</strong>, monachus Seitenstettensis, quem probabiliter in ipso monasterio Seitenstettensi lectiones philosophicas habuisse iam supra p. 248 diximus. Num vero pars a codicis nostri eodem anno 1768 tradita scriptaque sit, quo codex MN II 300, valde dubitandum est, cum pars b codicis nostri anno 1776 scripta sit. Potuit enim P. Michael Rothmayr eosdem tractatus philosophicos pluribus annis dictare.</p>\n<p>b) <strong>Correcta [Joannis Fux – teilweise gestrichen] Rhetorices Studiosi Seitenstettensis Anno 1776:</strong> p. 1–176 (= 51–226) cum indice rerum alphabetico in Appendice p. 180–189 (= 230–239) (NB! Inter pagg. 178 et 179 plurima folia excisa sunt.)</p>\n<p>Joannes ille Fux? qui hanc partem emendatam scripsit, forsitan idem sit qui <strong>P. Robertus Fux</strong>, patria Seitenstettensis, anno 1779 monasterium eiusdem loci ingressus.</p>\n<p>Continet haec pars plurima exempla oratoria, ex. gr. descriptionem avari, quae probabiliter ipse Joannes Fux composuit compositaque et (a magistro?) correcta codici nostro inscripsit.</p>"
+  },
+  "source": {
+    "file": "MN II 304.md"
+  },
+  "url": "/bibliothek/catalogus-codicum/handschriften/mn-ii-304/",
+  "relations": [
+    {
+      "typeRaw": "same_work_as",
+      "typeLabel": "gleiche Textüberlieferung / gleiches Werk",
+      "targetRaw": "[[MN II 300]]",
+      "targetId": "mn-ii-300",
+      "targetSignature": "MN II 300",
+      "appliesTo": [
+        "Teil a"
+      ],
+      "certainty": "",
+      "note": ""
+    }
+  ],
+  "search": {
+    "signature": "MN II 304",
+    "titles": "Logica minor Sive Dialectica Pars prima Logicae \nLogica minor Sive Dialectica Pars prima Logicae \nCorrecta Rhetorices Studiosi Seitenstettensis Anno 1776",
+    "persons": "P. Michael Rothmayr Autor author \nJosephus Fux Schreiber scribe \nJoannes Fux Schreiber scribe \nJoannes Fux Autor author",
+    "incipits": "Logica a graeco vocabulo Logos, quod rationem, aut sermonem significat, est derivata",
+    "explicits": "",
+    "notes": "incomplete \nIm Titel ist „Joannis Fux“ teilweise gestrichen. Ein alphabetischer Index rerum folgt S. 180–189 (= S. 230–239); zwischen S. 178 und 179 wurden zahlreiche Blätter herausgeschnitten.",
+    "physical": "Papier \n50 + 194 = 244 pagg. \ncode: a2; description: Weißer Einband aus Holz mit Schweinslederbezug und eingeprägten, ungefärbten Verzierungen."
+  }
+}
